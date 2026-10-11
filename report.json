@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Resumed after the owner’s Mac restart and Monitor’s verified disk clearance. Original calls reconciled. Chrome collection is complete and its driving turn released; the existing Opus correction continues remotely.",
+  "workerState": "Original Opus 5.5 High is building the connected purchased-item feedback flow in its existing Chrome conversation. Latest visible execution is creating its account-feedback test file. Existing hosted CI is running; there is no duplicate review or builder.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197 are Ready on retained heads; buyer-note4198 passed both exact-head reads on d87206d7 and merged15:45:39UTC as843399eca9; child-panel4199 awaits the dependent review sequence; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
+      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197 have FIRST APPROVE on the chair-integrated heads e84bf495/9279c2c1; buyer-note4198 passed both exact-head reads on d87206d7 and merged15:45:39UTC as843399eca9; child-panel4199 awaits the dependent review sequence; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T16:14:56.326833+00:00 — original CS lookup2ddf9484 published after17 new and4 affected journey checks plus5 fault checks passed. Returning buyers can resolve their own review from the exact purchased item; native host integration is prepared, not yet live.",
+  "lastActualProgress": "2026-10-11T16:22:33Z — shopper connection FIRST APPROVE at e84bf495; controller FIRST APPROVE at 9279c2c1. Consent has 20 independently passing DOM tests and browser proof at 380, 430 and 1280 px. These are component checks, not the final website ratings.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -87,7 +87,7 @@
     [
       "Buyer trust & WhatsApp reviews",
       "Component in validation",
-      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Consent13DOM tests independently pass; the original Opus care correction is running. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
+      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Corrected consent passes20 independent DOM cases plus phone/desktop, care-retry and reduced-motion browser checks; the original Opus account-host build is running. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
       "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
     ],
     [
@@ -121,10 +121,10 @@
     "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
-  "remaining": "#4193 needs the chair’s bounded permission to consume the already-merged #4192 loader fix; the failed tests and exact existing repair were delivered through Bridge. Dependent component reviews, canonical merchant mapping and signed Shopify forwarding remain. No duplicate repair or review was started.",
-  "current": "The chair has integrated current main into the shopper connection and conversation controller. The controller has its first code approval. The corrected consent component passes 20 independent DOM tests and Chrome checks at 380, 430 and 1280 px. The original Opus builder is connecting purchased-item feedback capture, return visits and explicit consent to the native account page.",
+  "remaining": "The shopper connection and controller await the remaining hosted checks and release sequence. The chair has already resolved their old main-integration blocker. The assistant panel has one named workflow correction to apply after its controller parent merges. Canonical merchant mapping, signed Shopify forwarding and final three-model acceptance remain prerequisites to the connected release.",
+  "current": "The chair has integrated current main into the shopper connection and conversation controller. Both have their first code approvals. The corrected consent component passes 20 independent DOM tests and Chrome checks at 380, 430 and 1280 px. The original Opus builder is connecting purchased-item feedback capture, return visits and explicit consent to the native account page.",
   "next": "Collect and test the connected account flow. Once the controller merges, apply the chair’s named assistant-panel workflow fix and run its remote checks. Complete the approved assembly, obtain all three exact-source ratings, and prove Shopify publication.",
-  "updated": "2026-10-11T16:21:56.975449+00:00",
+  "updated": "2026-10-11T16:30:11.351351+00:00",
   "links": [
     {
       "title": "Buyer-note renderer #4198",
