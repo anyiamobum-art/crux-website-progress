@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus is responding to one measured buyer-note CSS correction. Buyer-note DOM/causal job is complete. Campaign checks are queued on the pushed named-fix head. Controller #4197 remains Draft for existing chair placement; its hosted test-gate currently reports the intentional Draft test skip, not a failed executed test.",
+  "workerState": "Original Opus buyer-note work is complete for this slice; PR4198 awaits original release placement. The original Ask owner is reconciling the existing view/mount contract for controller integration. Buyer-note DOM/causal job is complete. Campaign checks are queued on the pushed named-fix head. Controller #4197 remains Draft for existing chair placement; its hosted test-gate currently reports the intentional Draft test skip, not a failed executed test.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "11 Oct 2026, 10:02 UTC — campaign named fix pushed; original v3 bound and tested; buyer-note source committed with 11 DOM cases and five causal checks passing. Actual phone render found disclosure-arrow wrapping and cramped rating spacing, returned to the same Opus builder.",
+  "lastActualProgress": "11 Oct 2026, 10:07 UTC — buyer-note PR4198 published at82922c74a9 after11DOM/5causal and380/430/1280 browser proof. Existing chair and CS owners received the exact integration evidence. Campaign named fix remains in its existing lane.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -87,8 +87,8 @@
     [
       "Buyer trust & WhatsApp reviews",
       "Component in validation",
-      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. One actual phone layout correction is in progress with the same author. No public endpoint or PDP mount yet.",
-      "Complete the bounded render recheck, review the component and connect only the approved public projection."
+      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 is publishedDraft awaiting the existing placement. No public endpoint or PDP mount yet.",
+      "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
     ],
     [
       "Shopify functions and integrations",
@@ -110,9 +110,9 @@
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) entered the original review lane at d36f48f. All14 source files,23 complete evidence units and4 inherited test dependencies match their retained proof; canonical admission passed. The new public task URL was delivered to25 original recipients, with delivery distinguished from adoption."
   ],
   "remaining": "No blanket build hold. The live integration lacks the canonical Shopify-domain mapping required by the existing authentication code; the original commerce owner has the exact read-only evidence. Browser proxy forwarding also needs proof. Remaining source approvals, final ratings and Shopify publication are outstanding.",
-  "current": "Assistant #4197 now uses the recovered original v3 validator: 16 Node cases and eight causal checks pass. Campaign #4177’s one named test finding is fixed and pushed as e576990466; 11 Node cases and two causal checks pass. The shared test-loader repair #4192 has merged. Original Opus buyer-note renderer passes 11 real DOM cases and five causal checks; its phone disclosure layout is receiving one measured CSS correction from the same author. Second plan scores remain Fable 9.0, Astra 9.0 and Opus 8.9, not finished-website ratings.",
-  "next": "Collect the original Opus phone-layout correction, recheck the buyer-note component and submit it to the existing review sequence. Consume chair placement for #4193/#4197 and protected #4124 recovery. Campaign successors require actual FIRST approvals.",
-  "updated": "11 Oct 2026, 10:02 UTC — final release 0/3. No finished-website score or Shopify publication is claimed.",
+  "current": "Assistant #4197 now uses the recovered original v3 validator: 16 Node cases and eight causal checks pass. Campaign #4177’s one named test finding is fixed and pushed as e576990466; 11 Node cases and two causal checks pass. The shared test-loader repair #4192 has merged. Original Opus buyer-note renderer passes 11 real DOM cases and five causal checks; its phone disclosure correction is complete and verified at380/430/1280. Component PR4198 is published for the existing review sequence. Second plan scores remain Fable 9.0, Astra 9.0 and Opus 8.9, not finished-website ratings.",
+  "next": "Consume the existing chair placement for buyer-note4198 and the original Ask view/mount locator needed to join controller4197 without creating another chat UI. Consume chair placement for #4193/#4197 and protected #4124 recovery. Campaign successors require actual FIRST approvals.",
+  "updated": "11 Oct 2026, 10:07 UTC — final release0/3. No finished-website score or Shopify publication is claimed.",
   "links": [
     {
       "title": "Layout 4124",
