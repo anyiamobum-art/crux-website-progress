@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus buyer-trust renderer request is acknowledged and responding. Controller #4197 is tested and awaiting release placement. Campaign #4177 has the same two shared self-review test failures already assigned to the original infrastructure repair owner; no duplicate repair was started.",
+  "workerState": "Original Opus is responding to one measured buyer-note CSS correction. Buyer-note DOM/causal job is complete. Campaign checks are queued on the pushed named-fix head. Controller #4197 remains Draft for existing chair placement; its hosted test-gate currently reports the intentional Draft test skip, not a failed executed test.",
   "journey": [
     {
       "stage": "Build",
@@ -11,13 +11,13 @@
     },
     {
       "stage": "Tests",
-      "state": "Pending",
-      "evidence": "Layout eleven real render cases and six causal mutations pass on73866f00. Layout and campaign hosted CI report the same two shared self-review test failures assigned to original repair4192. Initial host route77tests and all37 affected causal checks pass; the compatibility repair passes47 route cases and six causal checks. Controller4197 passes11Node tests and4remote causal checks. Final assembly proof remains pending."
+      "state": "Unknown",
+      "evidence": "Shared loader repair4192 is merged. Campaign named-fix head passes11Node/2causal; controller4197 passes16Node/8causal; buyer-note renderer passes11DOM/5causal. Protected old layout CI still needs original recovery. Draft hosted gates are not test execution."
     },
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Home routing now passed both code reviews and merged. Layout R3 named repair submitted; typography-motion4151 merged. Campaign4177 is Ready at its original head. Settings4178 and stores4189 remain in the chair-confirmed sequence, following each predecessor’s actual FIRST read. Final three-model acceptance remains0/3."
+      "evidence": "Campaign4177 FIRST R1 named-fix head e576990466 is pushed. Settings4178 and stores4189 follow actual predecessor FIRST approvals. Host4193/controller4197 await existing chair placement; protected layout4124 awaits recovery. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "11 Oct 2026, 09:35 UTC — original Opus deadline repair independently passed; PR #4197 published with four remote causal checks and all twelve admission checks passing. CS storage candidate #4195 collected; renderer build acknowledged.",
+  "lastActualProgress": "11 Oct 2026, 10:02 UTC — campaign named fix pushed; original v3 bound and tested; buyer-note source committed with 11 DOM cases and five causal checks passing. Actual phone render found disclosure-arrow wrapping and cramped rating spacing, returned to the same Opus builder.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -82,13 +82,13 @@
       "Original source release",
       "Review continues",
       "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout repair c579844f is pushed under the chair’s exact scope ruling.",
-      "Collect original hosted checks and named-fix reviews; campaign4177 is Ready; admit settings4178 after its actual FIRST read, then stores4189 after settings FIRST, within the chair’s queue cap."
+      "Collect original hosted checks and named-fix reviews; campaign4177 named fix is pushed; admit settings4178 after its actual FIRST approval, then stores4189 after settings FIRST, within the chair’s queue cap."
     ],
     [
       "Buyer trust & WhatsApp reviews",
-      "Integration preparation",
-      "Existing pinned WhatsApp work located. Source audit found gaps in product attribution, explicit publication consent and review provenance. Both original WhatsApp/CS owners returned contracts: private feedback is separate from buyer-chosen stars and version-bound publication consent. CS PR4195 has59 real PostgreSQL checks and seven causal checks reported; migration958, review and activation remain pending. Original Opus is building the renderer against its exact public contract.",
-      "Connect genuine product-specific reviews to the storefront and assistant, preserving customer consent, honest ratings and original owners."
+      "Component in validation",
+      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. One actual phone layout correction is in progress with the same author. No public endpoint or PDP mount yet.",
+      "Complete the bounded render recheck, review the component and connect only the approved public projection."
     ],
     [
       "Shopify functions and integrations",
@@ -110,9 +110,9 @@
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) entered the original review lane at d36f48f. All14 source files,23 complete evidence units and4 inherited test dependencies match their retained proof; canonical admission passed. The new public task URL was delivered to25 original recipients, with delivery distinguished from adoption."
   ],
   "remaining": "No blanket build hold. The live integration lacks the canonical Shopify-domain mapping required by the existing authentication code; the original commerce owner has the exact read-only evidence. Browser proxy forwarding also needs proof. Remaining source approvals, final ratings and Shopify publication are outstanding.",
-  "current": "Opus’s corrected assistant controller is in PR #4197: 11 tests pass and all four causal checks caught the intended faults. Host route #4193 passed 47 compatibility cases and six causal checks after its initial 77 tests and 37 affected causal checks. Buyer-trust storage is in CS PR #4195, with 59 remote checks and seven causal checks reported by its original owner. Opus is building the matching storefront renderer. Second plan scores remain Fable 9.0, Astra 9.0 and Opus 8.9; these are not finished-website ratings.",
-  "next": "Collect and test the original Opus buyer-trust renderer, connect the original v3 validator, and consume the chair’s release placements for #4193/#4197. Campaign successors retain the confirmed sequence.",
-  "updated": "11 Oct 2026, 09:35 UTC — final release 0/3. No finished-website score or Shopify publication is claimed.",
+  "current": "Assistant #4197 now uses the recovered original v3 validator: 16 Node cases and eight causal checks pass. Campaign #4177’s one named test finding is fixed and pushed as e576990466; 11 Node cases and two causal checks pass. The shared test-loader repair #4192 has merged. Original Opus buyer-note renderer passes 11 real DOM cases and five causal checks; its phone disclosure layout is receiving one measured CSS correction from the same author. Second plan scores remain Fable 9.0, Astra 9.0 and Opus 8.9, not finished-website ratings.",
+  "next": "Collect the original Opus phone-layout correction, recheck the buyer-note component and submit it to the existing review sequence. Consume chair placement for #4193/#4197 and protected #4124 recovery. Campaign successors require actual FIRST approvals.",
+  "updated": "11 Oct 2026, 10:02 UTC — final release 0/3. No finished-website score or Shopify publication is claimed.",
   "links": [
     {
       "title": "Layout 4124",
