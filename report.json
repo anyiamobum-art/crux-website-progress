@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Actual original Opus response is running on the cart fix; the request is delivered and acknowledged, with no result yet. No duplicate request, replacement author or extra review round. The original checkout builder’s full hosted tests and both fault-check groups have passed. The new proof was sent to the existing coordinator for the retained chair decision.",
+  "workerState": "Original cart build completed; one export-only continuation is pending because the ZIP download and CJS viewer did not deliver the test file. No duplicate build or new review round. Checkout’s hosted test and fault-check groups passed; the coordinator acknowledged that proof for the existing chair request.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T22:57:08.288555+00:00 — original checkout repair passed all five hosted test groups, test-gate and both pin-proof parts. Opus has written the cart-recovery source and is running its behavior and fault checks in the original conversation; the final artifact remains pending.",
+  "lastActualProgress": "2026-10-11T23:11:23.872915+00:00 — recovered exact runtime and manifest hashes; prepared two source-linked corrections to the existing cart requirement. The author reports 13 new cases and 22 fault checks passing, but this does not establish correctness against the two unmet requirements. Original tests and independent integration proof remain pending.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -122,9 +122,9 @@
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at05e468cb4b after current-main integration; all six original files are preserved. All25 remote cases and7/7 selected causal checks pass. Actual prior Chrome query/page/sort and pending-answer invalidation proof is retained. No final review or live mount claimed."
   ],
   "remaining": "The earlier Opus read-only state is resolved and its author is running. Separately, the original chair’s native route last returned “Out of usage credits”; its size/queue decisions remain pending. #4229 needs its exact-head size grant and Ready decision. Shopper-custody #4202 has its focused repair pushed at0740f47, with56 remote cases passing. All five hosted test groups, the full test gate and both pin-proof parts now pass. Exact-head size admission and the chair’s review hold remain. The CS backend queue and signed-in Shopify acceptance are pending.",
-  "current": "The original Opus 5.5 High author is executing the named cart-recovery fix. Same-conversation access is restored; the exact source packet was verified and sent once. Buyer-notes integration remains green: nine cases and three fault checks.",
-  "next": "Collect the original author’s cart-recovery source, verify its artifacts and run the real behavior tests remotely. Consume the chair’s size/queue decisions and original checkout repair. Then finish exact-source review, all three ratings, merge and Shopify publication.",
-  "updated": "2026-10-11T22:57:08.288555+00:00",
+  "current": "The original Opus cart source is collected and its hashes verified. Source inspection found two mismatches with the original recovery requirement: clearing from a mutation response, and a cart-identity change between reads. The candidate remains unintegrated; the specific correction brief is prepared for its original author.",
+  "next": "Recover the supplied test archive, deliver the two original-contract corrections to the same author, then run the original and new behavior tests remotely. Consume the chair’s size/queue decisions before final review, three-model acceptance, merge and Shopify publication.",
+  "updated": "2026-10-11T23:11:23.872915+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
