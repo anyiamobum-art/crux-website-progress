@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Debate the agentic website plan in Chrome until each requested model rates it at least 9.5; then build with Opus 5.5 to above 9.5, merge the approved website and verify it live on Shopify.",
-  "workerState": "Fable 5.1, Astra 6 and Opus 5.5 acknowledged their second assessments in Chrome. Layout, shopper-context and customer/team handoff are in the original review lane; campaign and settings remain Draft awaiting chair placement.",
+  "workerState": "Fable 5.1, Astra 6 and Opus 5.5 acknowledged their second assessments in Chrome. Customer/team handoff has merged. Layout and shopper-context remain in review; campaign, settings and the now-published store-finder component await the original chair’s queue placement.",
   "journey": [
     {
       "stage": "Build",
@@ -22,7 +22,7 @@
     {
       "stage": "Deployed",
       "state": "Pending",
-      "evidence": "Shopify target remains UNPUBLISHED; EON read at11 Oct02:27:28UTC confirms theme access and code-write scope. Public task-page publication is a separate completed presentation action."
+      "evidence": "Shopify target remains UNPUBLISHED; EON read at11 Oct08:29UTC confirms current theme roles. Capability exploration is read-only. Public task-page publication is a separate completed presentation action."
     },
     {
       "stage": "Live verified",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "11 Oct 2026, 08:20 UTC — delivered one identical revised packet and demo evidence to all three original Chrome conversations. Pushed the chair-authorized layout repair c579844f; remote head and PR description verified.",
+  "lastActualProgress": "11 Oct 2026, 08:32 UTC — verified customer/team merge 0be108a4 by content; prepared and published store-finder4189 on current main with all original proof inputs preserved. Read-only Shopify discovery confirmed existing apps, product-data gaps and live-theme recommendation surfaces.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -81,8 +81,8 @@
     [
       "Original source release",
       "Review continues",
-      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 merged; shopper context4182 named CI repair and customer/team handoff4186 are in review. Layout repair c579844f is pushed under the chair’s exact scope ruling.",
-      "Collect original hosted checks and named-fix reviews; retain campaign/settings Draft placement."
+      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 remains in review. Store-finder4189 is published with retained proof. Layout repair c579844f is pushed under the chair’s exact scope ruling.",
+      "Collect original hosted checks and named-fix reviews; resolve existing campaign/settings/stores queue placement."
     ],
     [
       "Native finish and acceptance",
@@ -93,14 +93,14 @@
   ],
   "completed": [
     "[Layout 4124](https://github.com/EON-CRUX/3.09/pull/4124) named repair c579844f pushed after the chair’s explicit scope ruling. Eleven Liquid cases and six causal checks remain bound to unchanged runtime/test inputs. The size check still reports the admitted 1,023-line scope; final review and merge remain separate.",
-    "[Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) merged07:55:42UTC as3a146be6;11/11 reviewed files match merge and main. [Customer/team handoff4186](https://github.com/EON-CRUX/3.09/pull/4186) entered the original review lane ate9970c47;8/8 owned files and8/8 inherited dependencies match retained proof.",
+    "[Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) merged07:55:42UTC as3a146be6;11/11 reviewed files match merge and main. [Customer/team handoff4186](https://github.com/EON-CRUX/3.09/pull/4186) merged08:20:57UTC as0be108a4; all8 accepted files match merge and main. [Stores4189](https://github.com/EON-CRUX/3.09/pull/4189) is published as the original11-file/819-line component; current-main integration preserves all11 owned files and16 inherited proof inputs. Original queue placement is pending.",
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) merged at 07:50:44 UTC as 8e66d8f9; all 14 reviewed files match merge and main. [Shopper context4182](https://github.com/EON-CRUX/3.09/pull/4182) named CI repair e9e2a9c0 is pushed, with 21 actual PostgreSQL cases and zero skips; its dedicated hosted database check passed. Remaining hosted review is separate.",
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) entered the original review lane at d36f48f. All14 source files,23 complete evidence units and4 inherited test dependencies match their retained proof; canonical admission passed. The new public task URL was delivered to25 original recipients, with delivery distinguished from adoption."
   ],
   "remaining": "The plan has not passed. Remaining source approvals, the final assembled website ratings and Shopify publication are outstanding. The chair authorized the layout repair; its final fix review is now submitted.",
   "current": "All three original reviewers are assessing the same revised agentic plan in Chrome. First plan scores: Fable 5.1 — 7.3; Astra 6 — 6.8; Opus 5.5 — 7.2. These are plan critiques, not finished-website ratings.",
   "next": "Collect the three second assessments, resolve only their named findings, and begin the new Opus 5.5 build after each plan score reaches 9.5. Continue the original website release reviews in parallel.",
-  "updated": "11 Oct 2026, 08:20 UTC — final release 0/3; plan acceptance 0/3. All first assessments collected, second assessments acknowledged. No finished-site score or Shopify publication claimed.",
+  "updated": "11 Oct 2026, 08:32 UTC — final release 0/3; plan acceptance 0/3. All first assessments collected, second assessments acknowledged. No finished-site score or Shopify publication claimed.",
   "links": [
     {
       "title": "Layout 4124",
@@ -113,6 +113,10 @@
     {
       "title": "Customer/team handoff4186",
       "path": "https://github.com/EON-CRUX/3.09/pull/4186"
+    },
+    {
+      "title": "Stores4189",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4189"
     },
     {
       "title": "Search/help4183",
@@ -129,10 +133,6 @@
     {
       "title": "chair scope request",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351"
-    },
-    {
-      "title": "Home repair",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4103"
     }
   ],
   "source": "Published projection of the original task report",
