@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus request21/reply22 completed and collected; remote47876 and source push14673 completed successfully. Both correction file hashes match. Shared Chrome is released; own fixture tab and server are closed. The adapter is Draft on its original panel parent, not in an independent review loop.",
+  "workerState": "The interrupted settings operation was recovered from its completed commit and self-review receipt. Push53721 and Ready60653 completed; original hosted checks are queued or running. All Opus author and adapter test jobs are complete. No Chrome, simulator or Blender operation is held.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign4177 R2 rejected one documentation/provenance claim; original named fix67eca9e1cd is pushed and awaiting R3 named-fix verification. Settings4178 and stores4189 follow actual predecessor FIRST approvals. Host4193/controller4197/buyer-note4198/child-panel4199 await existing chair placement; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
+      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 is Ready at 5c8ff363ff with original checks pending; stores #4189 follows settings FIRST. Host4193/controller4197/buyer-note4198/child-panel4199 await existing chair placement; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T11:17:59.715631+00:00 — native-context integration tested and pushed as4200; layout4124 merge verified by content.",
+  "lastActualProgress": "2026-10-11T11:48:36.965156+00:00 — shopping settings #4178 pushed and entered review at 5c8ff363ff; campaign merge proof retained.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -82,7 +82,7 @@
       "Original source release",
       "Review continues",
       "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout4124 merged11:10:52UTC asb174a3eb; all11 owned files match reviewed source, merge and main.",
-      "Collect original hosted checks and named-fix reviews; campaign4177 named fix is pushed; admit settings4178 after its actual FIRST approval, then stores4189 after settings FIRST, within the chair’s queue cap."
+      "Campaign #4177 merged at 11:17:43 UTC; settings #4178 is now in review. Stores #4189 follows its actual FIRST approval, within the chair’s queue cap."
     ],
     [
       "Buyer trust & WhatsApp reviews",
@@ -116,16 +116,24 @@
     ]
   ],
   "completed": [
+    "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) preserves the original schema, passed its targeted test and all 12 admission checks, and is now in review at 5c8ff363ff.",
     "[Layout4124](https://github.com/EON-CRUX/3.09/pull/4124) passed original R3 named-fix approval and merged11:10:52UTC asb174a3eb. All11 owned files match reviewed source, merge and main.",
     "[Native context4200](https://github.com/EON-CRUX/3.09/pull/4200) at430bd5d122 is a tested Draft child of4199: original Opus runtime retained;14 real DOM/Liquid tests and4 causal mutations pass. Native Chrome quantity and account transitions verified with synthetic data. Publication and final acceptance remain pending.",
-    "[Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) merged07:55:42UTC as3a146be6;11/11 reviewed files match merge and main. [Customer/team handoff4186](https://github.com/EON-CRUX/3.09/pull/4186) merged08:20:57UTC as0be108a4; all8 accepted files match merge and main. [Stores4189](https://github.com/EON-CRUX/3.09/pull/4189) is published as the original11-file/819-line component; current-main integration preserves all11 owned files and16 inherited proof inputs. Chair-confirmed sequence is4177→4178→4189, with each successor following the predecessor’s actual FIRST approval.",
-    "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) merged at 07:50:44 UTC as 8e66d8f9; all 14 reviewed files match merge and main. [Shopper context4182](https://github.com/EON-CRUX/3.09/pull/4182) passed both independent readers and merged08:31:44UTC as c0a690baac; all13 approved files match main. The21 actual PostgreSQL cases and dedicated hosted check passed. This is internal storage, not a connected shopper or checkout claim."
+    "[Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) merged07:55:42UTC as3a146be6;11/11 reviewed files match merge and main. [Customer/team handoff4186](https://github.com/EON-CRUX/3.09/pull/4186) merged08:20:57UTC as0be108a4; all8 accepted files match merge and main. [Stores4189](https://github.com/EON-CRUX/3.09/pull/4189) is published as the original11-file/819-line component; current-main integration preserves all11 owned files and16 inherited proof inputs. Chair-confirmed sequence is4177→4178→4189, with each successor following the predecessor’s actual FIRST approval."
   ],
   "remaining": "No blanket build hold. Production mounting still needs canonical Shopify-domain/account mapping, proven proxy forwarding and a retrieval/window contract for pages with more than20 products. Original owners retain those obligations. Final ratings and Shopify publication remain outstanding.",
-  "current": "Layout4124 is merged; all11 owned files match its reviewed source, merge and main. The native product/context adapter is built with the original Opus author and published as child4200 after14 DOM/Liquid tests and four causal checks passed.",
-  "next": "Original chair placement and parent reviews for4193/4197/4198/4199/4200; campaign4177’s third named-fix verdict; original authenticated proxy/account and large-catalogue context contracts. Settings4178 follows actual4177 FIRST approval, then stores4189 follows settings FIRST.",
-  "updated": "2026-10-11T11:17:59.715631+00:00 — final release0/3; no finished-website score or Shopify publication is claimed.",
+  "current": "Campaign #4177 and layout #4124 are merged. Shopping settings #4178 has passed all 12 admission checks, was pushed once and is now in the original review lane. Native context #4200 retains its completed DOM, Liquid and browser proof.",
+  "next": "Collect settings #4178’s original review, then admit stores #4189 after its actual FIRST approval. The existing chair request covers #4193, #4197, #4198, #4199 and #4200; their original parent and runtime prerequisites remain.",
+  "updated": "2026-10-11T11:48:36.965156+00:00 — final release 0/3; no finished-website score or Shopify publication is claimed.",
   "links": [
+    {
+      "title": "Campaign #4177",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4177"
+    },
+    {
+      "title": "Settings #4178",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4178"
+    },
     {
       "title": "Layout4124",
       "path": "https://github.com/EON-CRUX/3.09/pull/4124"
@@ -149,14 +157,6 @@
     {
       "title": "Search/help4183",
       "path": "https://github.com/EON-CRUX/3.09/pull/4183"
-    },
-    {
-      "title": "Shopper context4182",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4182"
-    },
-    {
-      "title": "Shopping tools4154",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4154"
     }
   ],
   "source": "Published projection of the original task report",
