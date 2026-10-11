@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Account/consent and assistant integration proofs are complete. #4199 first review approved; remaining protected review/merge is pending. #4200 follows its parent merge and base correction. The chair has the13-file account split; no duplicate review was started.",
+  "workerState": "Focused proofs and the context dependency repair are complete. #4200’s hosted checks have started on the corrected source. #4201 and the buyer-trust backend retain the original queue. The chair’s13-file account split decision remains pending.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T18:42:55.798699+00:00 — consumed original aggregate SUCCESS18:40:18UTC and FIRST APPROVE18:42:04UTC on unchanged panel sourcea91d603765.",
+  "lastActualProgress": "2026-10-11T18:48:39.008538+00:00 — verified #4199 merge and all6 source files; pushed #4200 normal-main integration once after14 real DOM/Liquid cases,4 causal checks and12 admission checks passed. Remote head, five-file diff and description verified.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -92,15 +92,15 @@
     ],
     [
       "Assistant panel",
-      "Tested source awaiting original review",
+      "Merged",
       "Parent4197 merged. Named workflow repair at a91d603765 preserves runtime source and passes29 remote cases plus8causal checks. Actual Liquid-host phone/desktop behavior retained.",
-      "Named repair, declaration, self-review and single push complete; chair release, authenticated proxy and final integration remain."
+      "Merged18:43:00UTC ase019708536;6/6 reviewed source files match. Final assembly and signed-in Shopify acceptance remain."
     ],
     [
       "Native product/context adapter",
       "Tested source4200",
       "Original Opus correction preserves native language, exact variant quantity constraints and local source/account invalidation;14DOM/Liquid and4causal cases pass.",
-      "Parent4199 and original chair placement; authenticated account/proxy before live mounting. Search child4201 passes25 cases and3 causal checks plus actual browser proof."
+      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Hosted review and signed-in acceptance remain. Search child4201 passes25 cases and3 causal checks plus actual browser proof."
     ],
     [
       "Shopify functions and integrations",
@@ -122,9 +122,9 @@
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "Original component reviews and signed-in live acceptance remain pending. The temporary resource pause is lifted for this owner by the direct resume instruction. Final ratings and Shopify publication are not complete.",
-  "current": "Assistant-panel CI has passed, including the aggregate gate. Its original first code review approved the exact source with no blocking findings at18:42:04UTC. Remaining original review/merge and the prepared account split are next.",
-  "next": "Finish the original component reviews, correct #4200’s base after #4199 merges, and submit the prepared account component under the chair’s split decision. Then bind the final assembly for all three ratings and Shopify publication.",
-  "updated": "2026-10-11T18:42:55.798699+00:00",
+  "current": "Assistant panel #4199 merged; all six reviewed files match the merge. Its dependent context PR #4200 now targets main with exactly five files, passes14 remote DOM/Liquid cases and4 causal checks, and is pushed for its original hosted checks and review.",
+  "next": "Consume #4200’s original review and merge, then reconcile its search child #4201. Submit the prepared account component after the chair’s split decision. Bind the completed assembly for all three final ratings and Shopify publication.",
+  "updated": "2026-10-11T18:48:39.008538+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
