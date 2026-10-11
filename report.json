@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Candidate ad776f21 passes394/394 checks; its implementation and test jobs are complete. The original chair is running an earlier command and has the three website decisions queued as message104 in its existing conversation. The original customer-care owner is checking the database correction. Queued delivery is not a decision or a review result.",
+  "workerState": "The original chair is executing the remaining disposition work. The first three components are Ready, which does not mean reviewed or approved. Original CS has the actual desk receipt and the signed-customer contract for its consent adapter. Candidate build/test calls are complete.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197/buyer-note4198/child-panel4199 await existing chair placement; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
+      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197/buyer-note4198 are Ready on their original heads; child-panel4199 awaits the dependent review sequence; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T14:37:56.936562+00:00 — buyer-review mount integrated, nine checks passed, phone/desktop proof saved and 394 combined regression checks verified passing.",
+  "lastActualProgress": "2026-10-11T15:00:58Z — chair applied the exact database privilege correction; GitHub now verifies the first three components in review. Authenticated customer contract delivered to original CS and WhatsApp owners.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -87,7 +87,7 @@
     [
       "Buyer trust & WhatsApp reviews",
       "Component in validation",
-      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 is publishedDraft awaiting the existing placement. Dependent endpoint source133122c0 passes19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
+      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 is now Ready in the original review lane. Dependent endpoint source133122c0 passes19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
       "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
     ],
     [
@@ -116,16 +116,20 @@
     ]
   ],
   "completed": [
+    "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193, #4197 and #4198 are now Ready on unchanged heads.",
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at 2aa18b7a8d, a child of #4200. Original Opus source collected; 25 remote cases and three causal checks pass. Actual Chrome query/page/sort and pending-answer invalidation verified. No final review or live mount claimed.",
     "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
-    "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main.",
-    "[Layout4124](https://github.com/EON-CRUX/3.09/pull/4124) passed original R3 named-fix approval and merged11:10:52UTC asb174a3eb. All11 owned files match reviewed source, merge and main."
+    "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
-  "remaining": "Chair disposition for #4193 / #4197 / #4198 / #4199 / #4200 / #4201; the original migration desk’s buyer-review privilege correction; verified Shopify proxy/account contract. No new permission from the owner is needed.",
-  "current": "Original Opus buyer-review mount is built and independently passes all nine integration cases. Phone and desktop checks pass at 380, 430 and 1280 px. The integrated candidate passes 394 tests: 383 remotely plus the 11-check layout file. Six components still await the chair’s review placement.",
+  "remaining": "Original component reviews and child sequence #4199 → #4200 → #4201; verified Shopify merchant/proxy contract; CS successor and endpoint review. The database desk correction and first-three queue placement are resolved. No new owner permission is needed.",
+  "current": "The chair applied the buyer-review database privilege correction and admitted the first three website components (#4193, #4197, #4198) to review. The original CS owner has the receipt to verify and publish its prepared successor. Candidate ad776f21 retains 394/394 passing checks and phone/desktop proof.",
   "next": "Complete those backend connections and review the six existing components, then integrate one final source for Fable 5.1, Astra 6 and Opus 5.5 acceptance, protected merge and Shopify delivery.",
-  "updated": "2026-10-11T14:56:54.193687+00:00 — original chair message104 visibly queued; six website components remain Draft. Candidate394/394 proof is retained. Final three-model ratings, complete assembly merge and live Shopify remain pending.",
+  "updated": "2026-10-11T15:05:41.797805+00:00 — GitHub confirms #4193/#4197/#4198 Ready on unchanged source and desk receipt #6110357112. Final three-model ratings, complete assembly merge and live Shopify remain pending.",
   "links": [
+    {
+      "title": "Database desk correction",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112"
+    },
     {
       "title": "Search integration #4201",
       "path": "https://github.com/EON-CRUX/3.09/pull/4201"
@@ -153,10 +157,6 @@
     {
       "title": "Product runtime4155",
       "path": "https://github.com/EON-CRUX/3.09/pull/4155"
-    },
-    {
-      "title": "Customer/team handoff4186",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4186"
     }
   ],
   "source": "Published projection of the original task report",
