@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "The interrupted settings operation was recovered from its completed commit and self-review receipt. Push53721 and Ready60653 completed; original hosted checks are queued or running. All Opus author and adapter test jobs are complete. No Chrome, simulator or Blender operation is held.",
+  "workerState": "Original Opus request43/reply44 is acknowledged and responding. Native input fragmentation was stopped and replaced by one verified complete request. No Chrome-driving, simulator or Blender operation is held by this owner.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T11:48:36.965156+00:00 — shopping settings #4178 pushed and entered review at 5c8ff363ff; campaign merge proof retained.",
+  "lastActualProgress": "2026-10-11T11:56:58.078590+00:00 — search-window source request delivered to the original author after the coordinator resolved its window contract.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -100,7 +100,7 @@
       "Native product/context adapter",
       "Tested source4200",
       "Original Opus correction preserves native language, exact variant quantity constraints and local source/account invalidation;14DOM/Liquid and4causal cases pass.",
-      "Parent4199, original placement, authenticated account/proxy and large-catalogue window contract before live mounting."
+      "Parent4199, original placement, authenticated account/proxy and the bounded native search follow-up before live mounting."
     ],
     [
       "Shopify functions and integrations",
@@ -121,10 +121,10 @@
     "[Native context4200](https://github.com/EON-CRUX/3.09/pull/4200) at430bd5d122 is a tested Draft child of4199: original Opus runtime retained;14 real DOM/Liquid tests and4 causal mutations pass. Native Chrome quantity and account transitions verified with synthetic data. Publication and final acceptance remain pending.",
     "[Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) merged07:55:42UTC as3a146be6;11/11 reviewed files match merge and main. [Customer/team handoff4186](https://github.com/EON-CRUX/3.09/pull/4186) merged08:20:57UTC as0be108a4; all8 accepted files match merge and main. [Stores4189](https://github.com/EON-CRUX/3.09/pull/4189) is published as the original11-file/819-line component; current-main integration preserves all11 owned files and16 inherited proof inputs. Chair-confirmed sequence is4177→4178→4189, with each successor following the predecessor’s actual FIRST approval."
   ],
-  "remaining": "No blanket build hold. Production mounting still needs canonical Shopify-domain/account mapping, proven proxy forwarding and a retrieval/window contract for pages with more than20 products. Original owners retain those obligations. Final ratings and Shopify publication remain outstanding.",
-  "current": "Campaign #4177 and layout #4124 are merged. Shopping settings #4178 has passed all 12 admission checks, was pushed once and is now in the original review lane. Native context #4200 retains its completed DOM, Liquid and browser proof.",
-  "next": "Collect settings #4178’s original review, then admit stores #4189 after its actual FIRST approval. The existing chair request covers #4193, #4197, #4198, #4199 and #4200; their original parent and runtime prerequisites remain.",
-  "updated": "2026-10-11T11:48:36.965156+00:00 — final release 0/3; no finished-website score or Shopify publication is claimed.",
+  "remaining": "Production mounting still needs canonical Shopify-domain/account mapping and proven proxy forwarding. Final same-source ratings, approved assembly and Shopify publication remain outstanding.",
+  "current": "Campaign #4177 and layout #4124 are merged. Settings #4178 is in the original review lane. The existing 20-product collection window is accepted; Opus 5.5 is implementing the bounded search integration in its original conversation.",
+  "next": "Validate actual search-card data and reject stale answers after query, page or sort changes. Collect settings #4178’s original review; stores #4189 follows its actual FIRST approval.",
+  "updated": "2026-10-11T11:56:58.078590+00:00 — final release 0/3; no finished-website score or Shopify publication claimed.",
   "links": [
     {
       "title": "Campaign #4177",
