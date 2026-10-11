@@ -12,12 +12,12 @@
     {
       "stage": "Tests",
       "state": "Pending",
-      "evidence": "Layout eleven real render cases and six causal mutations pass on73866f00. Layout hosted CI reports two shared self-review test failures already assigned to the original owner. New host-route tests and final assembly proof remain pending."
+      "evidence": "Layout eleven real render cases and six causal mutations pass on73866f00. Layout hosted CI reports two shared self-review test failures already assigned to the original owner. Host route77tests and five new causal checks pass; the complete37-entry affected check is running. Final assembly proof remains pending."
     },
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Home routing now passed both code reviews and merged. Layout R3 named repair submitted; typography-motion4151 merged. Campaign4177/settings4178 are Draft in the chair-confirmed sequence4177→4178→4189, subject to queue capacity. Final three-model acceptance remains0/3."
+      "evidence": "Home routing now passed both code reviews and merged. Layout R3 named repair submitted; typography-motion4151 merged. Campaign4177 is Ready at its original head. Settings4178 and stores4189 remain in the chair-confirmed sequence, following each predecessor’s actual FIRST read. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "11 Oct 2026, 08:57 UTC — verified the human correction, created the host-integration worktree, reconciled the merged context/identity contracts, and collected both buyer-trust owner responses.",
+  "lastActualProgress": "11 Oct 2026, 09:15 UTC — host route source pushed with 77 passing tests; campaign4177 admitted to review at its original head; Opus implementation visibly acknowledged.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -82,7 +82,7 @@
       "Original source release",
       "Review continues",
       "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout repair c579844f is pushed under the chair’s exact scope ruling.",
-      "Collect original hosted checks and named-fix reviews; admit campaign4177, then settings4178 after its FIRST approval, then stores4189 after settings FIRST, within the chair’s queue cap."
+      "Collect original hosted checks and named-fix reviews; campaign4177 is Ready; admit settings4178 after its actual FIRST read, then stores4189 after settings FIRST, within the chair’s queue cap."
     ],
     [
       "Buyer trust & WhatsApp reviews",
@@ -110,9 +110,9 @@
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) entered the original review lane at d36f48f. All14 source files,23 complete evidence units and4 inherited test dependencies match their retained proof; canonical admission passed. The new public task URL was delivered to25 original recipients, with delivery distinguished from adoption."
   ],
   "remaining": "No blanket build hold. Final acceptance, remaining source approvals and Shopify publication are outstanding. Layout CI shares two failing self-review tests already reported to their original owner; its protected source stays unchanged. Campaign/settings/stores follow the chair’s admitted queue order.",
-  "current": "Building the signed shopper-to-host integration in its own worktree. The original commerce owner is building checkout recovery. In parallel, closing the named second-assessment findings: Fable 5.1 — 9.0; Astra 6 — 9.0; Opus 5.5 — 8.9. These are plan scores, not finished-website ratings.",
-  "next": "Implement and test verified-customer context creation, reading and revocation; integrate the original commerce owner’s checkout-recovery contract. Continue the named debate remedies and original release queue in parallel.",
-  "updated": "11 Oct 2026, 08:57 UTC — final release 0/3; plan acceptance 0/3. Below-target plan scores guide fixes while ready work is built. No finished-website score or Shopify publication is claimed.",
+  "current": "Signed shopper-to-host code is built: 77 tests and five new causal checks passed. The full affected safeguard check is running. Opus 5.5 is writing the assistant request-lifetime component. The original commerce owner is building checkout recovery. In parallel, closing the named second-assessment findings: Fable 5.1 — 9.0; Astra 6 — 9.0; Opus 5.5 — 8.9. These are plan scores, not finished-website ratings.",
+  "next": "Complete the host route review proof and collect Opus’s authored component; integrate the original commerce owner’s checkout-recovery contract. Continue the named debate remedies and original release queue in parallel.",
+  "updated": "11 Oct 2026, 09:15 UTC — final release 0/3; plan acceptance 0/3. Below-target plan scores guide fixes while ready work is built. No finished-website score or Shopify publication is claimed.",
   "links": [
     {
       "title": "Layout 4124",
