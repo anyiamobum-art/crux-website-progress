@@ -30,7 +30,7 @@
       "evidence": "No finished-source Shopify live acceptance is recorded."
     }
   ],
-  "lastActualProgress": "11 Oct 2026, 07:00 UTC — shopping tools #4154 submitted and Ready at40ef0bee (06:54:26UTC). Host storage21 actual PostgreSQL cases and2/2causal checks pass; exact commerce interface handoff saved. Replacement public task site being prepared.",
+  "lastActualProgress": "11 Oct 2026, 07:00 UTC — shopping tools #4154 submitted and Ready at40ef0bee (06:54:26UTC). Host storage21 actual PostgreSQL cases and2/2causal checks pass; exact commerce interface handoff saved. Replacement public task site deployed successfully; served HTML and report match published commit8beb578.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -90,10 +90,10 @@
     "Home and layout complete repairs submitted05:45:38UTC after39 real clean tests and53/53 affected causal checks passed remotely. [Home repair](https://github.com/EON-CRUX/3.09/pull/4103); [layout repair](https://github.com/EON-CRUX/3.09/pull/4124). Original hosted jobs38115822091 and38115826159 are executing; no final score or Shopify claim.",
     "Photo search #4102 FIRST APPROVE04:41:47UTC, merged04:43:00 as65298d92; all ten files verified04:47:02. Home routing #4103 pushed8f812d8b and Ready04:47:55. [Submission receipt](https://github.com/EON-CRUX/3.09/pull/4103#issuecomment-6105567879)."
   ],
-  "remaining": "Final source approvals and same-source acceptance. The existing public task site remains at its last verified snapshot. The owner authorized a replacement with GitHub-based publishing so ChatGPT account switches do not block updates; its new publication is being prepared.",
+  "remaining": "Final source approvals and same-source acceptance. The replacement public task site is live on GitHub Pages. It is maintained through the saved GitHub checkout independently of ChatGPT accounts. Final source reviews and same-source acceptance remain outstanding.",
   "current": "Shopping tools are in review. Typography is merged. The layout repair is proven and awaiting its scope ruling.",
   "next": "Complete the remaining source reviews, assemble the finished website, obtain all three final ratings, and publish to Shopify.",
-  "updated": "11 Oct 2026, 07:00 UTC — release milestones remain0/3. Publicv11 is the last verified publication; replacement publication pending.",
+  "updated": "11 Oct 2026, 07:09 UTC — release milestones remain0/3. Replacement public task site verified live; served HTML and report exactly match published source.",
   "links": [
     {
       "title": "chair scope request",
