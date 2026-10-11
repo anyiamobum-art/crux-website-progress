@@ -12,12 +12,12 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Shared loader repair4192 is merged. Campaign named-fix head passes11Node/2causal; controller4197 passes16Node/8causal; buyer-note renderer passes11DOM/5causal. Protected old layout CI still needs original recovery. Draft hosted gates are not test execution."
+      "evidence": "Shared loader repair4192 is merged. Campaign named-fix head passes11Node/2causal; controller4197 passes16Node/8causal; buyer-note renderer passes11DOM/5causal. Layout4124 recovery is pushed; fresh hosted checks remain pending. Draft hosted gates are not test execution."
     },
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign4177 FIRST R1 named-fix head e576990466 is pushed. Settings4178 and stores4189 follow actual predecessor FIRST approvals. Host4193/controller4197 await existing chair placement; protected layout4124 awaits recovery. Final three-model acceptance remains0/3."
+      "evidence": "Campaign4177 FIRST R1 named-fix head e576990466 is pushed. Settings4178 and stores4189 follow actual predecessor FIRST approvals. Host4193/controller4197 await existing chair placement; layout4124 recovery9b267179d0 is pushed; original named-fix review remains pending. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "11 Oct 2026, 10:14 UTC — original mount contract adopted, exact same Opus author continued and actual-host private fixture prepared. This is source integration work, not public activation.",
+  "lastActualProgress": "11 Oct 2026, 10:23 UTC — layout4124 infrastructure recovery pushed with all candidate bytes unchanged; original panel implementation still pending collection. This is source integration work, not public activation.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -81,7 +81,7 @@
     [
       "Original source release",
       "Review continues",
-      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout repair c579844f is pushed under the chair’s exact scope ruling.",
+      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout recovery9b267179d0 is pushed after the chair authorized merging repaired main; all11 candidate files and retained proof hashes are unchanged.",
       "Collect original hosted checks and named-fix reviews; campaign4177 named fix is pushed; admit settings4178 after its actual FIRST approval, then stores4189 after settings FIRST, within the chair’s queue cap."
     ],
     [
@@ -111,8 +111,8 @@
   ],
   "remaining": "No blanket build hold. The live integration lacks the canonical Shopify-domain mapping required by the existing authentication code; the original commerce owner has the exact read-only evidence. Browser proxy forwarding also needs proof. Remaining source approvals, final ratings and Shopify publication are outstanding.",
   "current": "The companion mount locator is resolved. The original Opus5.5 High author is building the composer/result connection inside the existing EON help panel, using the real v3 controller. A private fixture now renders the actual Liquid host with fictional products and simulated transport; the new panel code is still running, not collected or tested. Buyer-note4198 has11DOM/5causal and380/430/1280 proof. Campaign4177 named-fix tests are running in the existing hosted lane.",
-  "next": "Collect the original panel implementation once complete, integrate it in the owned follow-up, test races/context resets/retry/teardown, then render the real dialog. Consume the existing chair placement for4193/4197/4198 and protected4124 recovery. Campaign successors require actual FIRST approvals.",
-  "updated": "11 Oct 2026, 10:14 UTC — final release0/3. No finished-website score or Shopify publication is claimed.",
+  "next": "Collect the original panel implementation once complete, integrate it in the owned follow-up, test races/context resets/retry/teardown, then render the real dialog. Consume the existing chair placement for4193/4197/4198 and fresh4124 hosted checks. Campaign successors require actual FIRST approvals.",
+  "updated": "11 Oct 2026, 10:23 UTC — final release0/3. No finished-website score or Shopify publication is claimed.",
   "links": [
     {
       "title": "Layout 4124",
