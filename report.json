@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Each Fable 5.1, Astra 6 and Opus 5.5 rates the same finished website at least 9.5; merged and live on Shopify.",
-  "workerState": "Original helper collects4154 review evidence. Root has proven the signed companion’s internal context storage on disposable PostgreSQL and saved its exact interface handoff. The cross-sell concept is built; visible checks are next after browser resource readback.",
+  "workerState": "The original website owner is advancing search/help after the shopping-tools merge and collecting the existing product-runtime and shopper-context checks. No replacement reviewer has been started.",
   "journey": [
     {
       "stage": "Build",
@@ -30,7 +30,7 @@
       "evidence": "No finished-source Shopify live acceptance is recorded."
     }
   ],
-  "lastActualProgress": "11 Oct 2026, 07:00 UTC — shopping tools #4154 submitted and Ready at40ef0bee (06:54:26UTC). Host storage21 actual PostgreSQL cases and2/2causal checks pass; exact commerce interface handoff saved. Replacement public task site deployed successfully; served HTML and report match published commit8beb578.",
+  "lastActualProgress": "11 Oct 2026, 07:22 UTC — shopping tools #4154 merged as a2317e1; all nine files match the approved source and main. #4155 submitted at d87c5e6 and #4182 at babb2d5; both are Ready for their normal reviews.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -74,8 +74,8 @@
     [
       "Original source release",
       "Review continues",
-      "Home4103 and typography4151 merged. Layout73866f00 is repaired, proven and awaiting the chair’s bounded scope disposition.",
-      "Collect4154 original hosted result, then4155; preserve layout’s R3 named-fix-only history."
+      "Home4103, typography4151 and shopping-tools4154 merged. Product runtime4155 and shopper context4182 are submitted. Layout73866f00 is repaired and proven.",
+      "Continue search/help from merged shopping tools; collect original reviews and layout scope ruling."
     ],
     [
       "Native finish and acceptance",
@@ -85,16 +85,28 @@
     ]
   ],
   "completed": [
+    "[Shopping tools4154](https://github.com/EON-CRUX/3.09/pull/4154) passed FIRST07:14:46UTC and merged07:16:16 as a2317e1;9/9 owned files match approved source, merge and main. [Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) and [shopper context4182](https://github.com/EON-CRUX/3.09/pull/4182) entered the original review lane. Internal context schema applied and verified;21 real PostgreSQL cases and2 causal checks pass. No new shopper route, final score or Shopify publication is claimed.",
     "Typography4151 FIRST approved06:42:25UTC and merged06:43:39 as9828c480; all four owned files and license context match approved head, merge and captured main. Layout R2 named fix73866f00 passes11render cases and6causal checks; [chair scope request](https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351) records its1,023-line admission limit. No final score or Shopify claim.",
     "Home routing4103 merged06:23:20UTC asc573d589 after original second reader APPROVE06:21:52; all ten owned files match approved head, merge and fresh main. Layout4124 R1 repair73f47a2f pushed and exact remote/body verified06:26:58UTC; ten Liquid cases and5/5 causal checks pass with current content binding. Typography-motion4151 Ready06:16:11UTC at64a15b3e; hosted review remains separate.",
-    "Home and layout complete repairs submitted05:45:38UTC after39 real clean tests and53/53 affected causal checks passed remotely. [Home repair](https://github.com/EON-CRUX/3.09/pull/4103); [layout repair](https://github.com/EON-CRUX/3.09/pull/4124). Original hosted jobs38115822091 and38115826159 are executing; no final score or Shopify claim.",
-    "Photo search #4102 FIRST APPROVE04:41:47UTC, merged04:43:00 as65298d92; all ten files verified04:47:02. Home routing #4103 pushed8f812d8b and Ready04:47:55. [Submission receipt](https://github.com/EON-CRUX/3.09/pull/4103#issuecomment-6105567879)."
+    "Home and layout complete repairs submitted05:45:38UTC after39 real clean tests and53/53 affected causal checks passed remotely. [Home repair](https://github.com/EON-CRUX/3.09/pull/4103); [layout repair](https://github.com/EON-CRUX/3.09/pull/4124). Original hosted jobs38115822091 and38115826159 are executing; no final score or Shopify claim."
   ],
-  "remaining": "Final source approvals and same-source acceptance. The replacement public task site is live on GitHub Pages. It is maintained through the saved GitHub checkout independently of ChatGPT accounts. Final source reviews and same-source acceptance remain outstanding.",
-  "current": "Shopping tools are in review. Typography is merged. The layout repair is proven and awaiting its scope ruling.",
+  "remaining": "The layout repair awaits the chair’s exact scope ruling. Remaining source approvals and final same-source ratings are still required.",
+  "current": "Shopping tools have passed review and merged. Product-page runtime and shopper-context storage are in the review lane.",
   "next": "Complete the remaining source reviews, assemble the finished website, obtain all three final ratings, and publish to Shopify.",
-  "updated": "11 Oct 2026, 07:09 UTC — release milestones remain0/3. Replacement public task site verified live; served HTML and report exactly match published source.",
+  "updated": "11 Oct 2026, 07:22 UTC — release milestones remain 0/3. The new public task site was successfully updated after the account switch; its deployed HTML and report matched commit f22c821.",
   "links": [
+    {
+      "title": "Shopping tools4154",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4154"
+    },
+    {
+      "title": "Product runtime4155",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4155"
+    },
+    {
+      "title": "shopper context4182",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4182"
+    },
     {
       "title": "chair scope request",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351"
@@ -114,18 +126,6 @@
     {
       "title": "Original verdict",
       "path": "https://github.com/EON-CRUX/3.09/pull/4122#issuecomment-6105374270"
-    },
-    {
-      "title": "sequence receipt",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4102#issuecomment-6105379944"
-    },
-    {
-      "title": "Entrance repair",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4121"
-    },
-    {
-      "title": "typography repair",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4122"
     }
   ],
   "source": "Published projection of the original task report",
