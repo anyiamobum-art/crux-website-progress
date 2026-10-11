@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus request45/response46 is complete and collected. Candidate ad776f21 is saved; combined remote job81085 is running or queued. The chair’s same request was updated and read back at14:35:44UTC; no disposition has arrived.",
+  "workerState": "Original Opus request45/response46 is complete and collected. Candidate ad776f21 is saved and passes all 394 checks; remote job81085 and layout check53396 completed successfully. The chair’s same request was updated and read back at14:35:44UTC; no disposition has arrived.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T14:37:56.936562+00:00 — buyer-review mount integrated, nine checks passed, phone/desktop proof saved and combined remote regression dispatched.",
+  "lastActualProgress": "2026-10-11T14:37:56.936562+00:00 — buyer-review mount integrated, nine checks passed, phone/desktop proof saved and 394 combined regression checks verified passing.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -111,7 +111,7 @@
     [
       "Native finish and acceptance",
       "Assembly tests passed",
-      "Native65d45ab20b passed374 remote tests. Buyer-note integration is now candidatead776f21; its nine focused cases pass and the new combined remote result is pending.",
+      "Native65d45ab20b passed374 remote tests. Buyer-note integration is now candidatead776f21; its nine focused cases pass and all394 candidate checks now pass (383 remote plus11 single-file layout checks).",
       "Integrate reviewed agentic components and backend contracts, then prepare the authorized final assembly with exact-source acceptance."
     ]
   ],
@@ -122,9 +122,9 @@
     "[Layout4124](https://github.com/EON-CRUX/3.09/pull/4124) passed original R3 named-fix approval and merged11:10:52UTC asb174a3eb. All11 owned files match reviewed source, merge and main."
   ],
   "remaining": "Chair disposition for #4193 / #4197 / #4198 / #4199 / #4200 / #4201; the original migration desk’s buyer-review privilege correction; verified Shopify proxy/account contract. No new permission from the owner is needed.",
-  "current": "Original Opus buyer-review mount is built and independently passes all nine integration cases. Phone and desktop checks pass at 380, 430 and 1280 px. The combined candidate regression run is on the existing remote worker; six components still await the chair’s review placement.",
+  "current": "Original Opus buyer-review mount is built and independently passes all nine integration cases. Phone and desktop checks pass at 380, 430 and 1280 px. The integrated candidate passes 394 tests: 383 remotely plus the 11-check layout file. Six components still await the chair’s review placement.",
   "next": "Complete those backend connections and review the six existing components, then integrate one final source for Fable 5.1, Astra 6 and Opus 5.5 acceptance, protected merge and Shopify delivery.",
-  "updated": "2026-10-11T14:37:56.936562+00:00 — exact original Opus file hashes and integrated/browser proof. Final three-model ratings, full assembly merge and live Shopify remain unverified.",
+  "updated": "2026-10-11T14:40:42.022579+00:00 — candidate ad776f21:394/394 checks pass with all prior374 cases retained. Final three-model ratings, full assembly merge and live Shopify remain unverified.",
   "links": [
     {
       "title": "Search integration #4201",
