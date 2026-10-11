@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Assistant proof24715 queued/running remotely. Original Opus correction61/62 is running. Panel4199 and context4200 are now Ready for their existing reviews; search4201 and the buyer-trust backend remain Draft in the chair’s queue.",
+  "workerState": "Assistant proof82635 finished:9/9 behavior and3/4 causal checks pass. Original Opus account correction61/62 is running. Panel4199 is in review preparation; context4200 admission requires its parent to merge before changing its base to main. Search4201 and the buyer-trust backend remain Draft.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T18:19:07.192610+00:00 — exact Opus mount files recovered, theme wiring committed locally atc66ca4bda3, remote proof submitted once; specific account test repair delivered to the original author.",
+  "lastActualProgress": "2026-10-11T18:21:59.481951+00:00 — Integrated source70cb455f25 passes all nine assistant cases; independent causal checks identified one cleanup test gap. The exact4200 stacked-base admission failure is delivered to the chair.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -122,9 +122,9 @@
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "Original component reviews and signed-in live acceptance remain pending. The temporary resource pause is lifted for this owner by the direct resume instruction. Final ratings and Shopify publication are not complete.",
-  "current": "Resumed on the owner’s instruction. Original Opus assistant integration is recovered and wired into both native theme layouts. Combined DOM/transport proof is running remotely; the account HTML-safety test gap is back with its original author.",
+  "current": "Resumed on the owner’s instruction. Original Opus assistant integration is recovered and wired into both native theme layouts. All nine assistant behavior cases pass; three of four causal checks pass. The page-exit cleanup test needs strengthening, alongside the original account HTML-safety test correction.",
   "next": "Complete the original account test correction and assistant integration proof; consume the chair’s component reviews and final source-split decision. Then obtain all three final ratings, merge and publish on Shopify.",
-  "updated": "2026-10-11T18:19:07.192610+00:00",
+  "updated": "2026-10-11T18:21:59.481951+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
