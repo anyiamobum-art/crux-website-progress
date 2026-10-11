@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus request43/reply44 is completed and collected. Search remote and browser checks are complete; stores hosted review is pending. No Chrome, simulator or Blender operation is held by this owner.",
+  "workerState": "All own source/proof jobs are complete. Store finder hosted checks and original review are pending on the corrected head. No Chrome, simulator or Blender operation is held by this owner.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 is Ready at eccd583764 with hosted checks and independent review pending. Host4193/controller4197/buyer-note4198/child-panel4199 await existing chair placement; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
+      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 first review requested two map-setting fixes; both are pushed at 4e159e4ab4. Original review and new-head hosted checks remain pending. Host4193/controller4197/buyer-note4198/child-panel4199 await existing chair placement; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T12:10:20.750914+00:00 — settings merge content verified; stores pushed and marked Ready; search child PR4201 published with remote and browser proof.",
+  "lastActualProgress": "2026-10-11T12:35:44.411182+00:00 — both named store-template fixes validated and pushed once; original review history retained.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -117,14 +117,14 @@
   ],
   "completed": [
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at 2aa18b7a8d, a child of #4200. Original Opus source collected; 25 remote cases and three causal checks pass. Actual Chrome query/page/sort and pending-answer invalidation verified. No final review or live mount claimed.",
-    "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) is in review at eccd583764. Main integration preserves all 11 owned files and 16 inherited test inputs; retained 88 tests/46 subtests and causal proof remain bound to those bytes. All 12 admission checks pass.",
+    "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) received two first-review configuration findings. Both named template defaults are cleared at 4e159e4ab4; runtime and tests remain unchanged. The original invitation test passes and all 12 admission checks pass. Re-review remains pending; historical credential restrictions need owner confirmation.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main.",
     "[Layout4124](https://github.com/EON-CRUX/3.09/pull/4124) passed original R3 named-fix approval and merged11:10:52UTC asb174a3eb. All11 owned files match reviewed source, merge and main."
   ],
   "remaining": "Production mounting still needs canonical Shopify-domain/account mapping and proven proxy forwarding. Final same-source ratings, approved assembly and Shopify publication remain outstanding.",
-  "current": "Settings #4178 has merged. Store finder #4189 is in review at eccd583764. Search-window integration #4201 is a tested Draft child of #4200, awaiting the existing chair placement.",
-  "next": "Collect the original store-finder review and chair placement. Connect the tested assistant components once the original owners supply authenticated Shopify proxy/account context and the consented public review endpoint.",
-  "updated": "2026-10-11T12:10:20.750914+00:00 — final release 0/3; no finished-website score or Shopify publication claimed.",
+  "current": "Store finder #4189’s first review identified two map-configuration defaults. Both named fixes are pushed at 4e159e4ab4; original review continues. Settings #4178 is merged. Search child #4201 remains tested and awaiting chair placement.",
+  "next": "Collect the original store-finder re-review and the existing chair placement. Credential restrictions need owner confirmation; authenticated Shopify proxy/account context and the consented public review endpoint remain integration prerequisites.",
+  "updated": "2026-10-11T12:35:44.411182+00:00 — final release 0/3; no finished-website score or Shopify publication claimed.",
   "links": [
     {
       "title": "Search integration #4201",
