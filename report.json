@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "The original Opus 5.5 High cart build is complete. All 81 behavior tests and six selected causal fault checks passed remotely. Draft #4233 contains four files and 771 changed lines; its normal push and exact source are verified. Final assembly preparation continues.",
+  "workerState": "The original Opus cart build and all website regression jobs are complete: 499 cases ran remotely and the separate 11-case help-shell suite passed. Existing chair coordination is handling review placement and access; no final rating or live release is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T23:27:17.903886+00:00 — opened Draft #4233 at 0fb67cbb after remote proof and all 12 local admission checks passed; delivered the concrete result once to the existing chair coordination route.",
+  "lastActualProgress": "2026-10-11T23:31:02.571004+00:00 — combined source 833fe88e passes 510 cases, retaining all prior 394 named cases. The remaining assembly is 35 files after its component merges.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -122,9 +122,9 @@
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at05e468cb4b after current-main integration; all six original files are preserved. All25 remote cases and7/7 selected causal checks pass. Actual prior Chrome query/page/sort and pending-answer invalidation proof is retained. No final review or live mount claimed."
   ],
   "remaining": "The earlier Opus read-only state is resolved and its cart implementation is complete. Separately, the original chair’s native route last returned “Out of usage credits”; its size/queue decisions remain pending. #4229 needs its exact-head size grant and Ready decision. Shopper-custody #4202 has its focused repair pushed at0740f47, with56 remote cases passing. All five hosted test groups, the full test gate and both pin-proof parts now pass. Exact-head size admission and the chair’s review hold remain. The CS backend queue and signed-in Shopify acceptance are pending.",
-  "current": "Cart recovery is implemented and independently verified in Draft #4233. An uncertain add clears only after a fresh cart read is displayed and cart identity agrees across the reads. The original and new behavior tests pass.",
+  "current": "The combined website candidate passes 510 behavior tests, with no failures or skips. Account, search and cart components retain all 23 submitted files exactly. Cart recovery is submitted as Draft #4233.",
   "next": "Consume the chair’s account, search, cart and backend queue decisions; reconcile the complete assembly, obtain the three required final ratings, merge approved source and verify Shopify live.",
-  "updated": "2026-10-11T23:27:17.903886+00:00",
+  "updated": "2026-10-11T23:31:02.571004+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
