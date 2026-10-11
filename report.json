@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Changed merge and chair decisions collected. Search #4201 and CS backend components remain Draft; the companion change #4202 retains its actual review hold. The account split is authorized.",
+  "workerState": "The stale resource pause was corrected. Original source integration and remote proof have resumed; no duplicate reviewer or test campaign was started. Final assembly preparation continues.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T22:05:12.368834+00:00 — verified #4200 merged bytes (5/5), collected the chair’s approved account split and confirmed the governed-size repair #4223 has merged.",
+  "lastActualProgress": "2026-10-11T22:10:53.738357+00:00 — pushed the original six-file search integration; opened and verified the authorized13-file account component as #4229; submitted the exact remaining chair decisions.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -86,7 +86,7 @@
     ],
     [
       "Buyer trust & WhatsApp reviews",
-      "Component in validation",
+      "Account Draft #4229; backend queue",
       "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Corrected consent passes20 independent DOM cases plus phone/desktop, care-retry and reduced-motion browser checks; the original Opus account-host and login-return correction are complete;all nine original files were recovered. Independent proof found34/35 passing; original Opus corrected the single omitted leading newline. All35 original cases plus the new hostile-text case pass:36/36, with7/7 causal checks. Original Opus correction is collected and independently verified. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
       "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
     ],
@@ -100,7 +100,7 @@
       "Native product/context adapter",
       "Merged #4200",
       "Original Opus correction preserves native language, exact variant quantity constraints and local source/account invalidation;14DOM/Liquid and4causal cases pass.",
-      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Merged19:29:44UTC as8cd03b6e; all5 reviewed/merged/main files match. Signed-in acceptance remains. Search child4201 passes25 cases and3 causal checks plus actual browser proof."
+      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Merged19:29:44UTC as8cd03b6e; all5 reviewed/merged/main files match. Signed-in acceptance remains. Search child4201 now has current-main source05e468cb4b,25 cases and all7 declared causal checks passing; one push, Draft in the original queue."
     ],
     [
       "Shopify functions and integrations",
@@ -121,10 +121,10 @@
     "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
-  "remaining": "Final component reviews, signed-in acceptance and the three final ratings remain pending. The current resource-pause instruction is being reconciled against the later direct resume instruction; no new product build or proof has started during that reconciliation.",
-  "current": "Native product/context component #4200 merged at19:29UTC; all five reviewed files match the merge and current main. The chair approved the separate account-and-consent component at19:15UTC.",
-  "next": "Integrate current main into the original search component #4201, validate its six-file scope, and submit the authorized account component as one Draft. The chair retains Ready custody.",
-  "updated": "2026-10-11T22:05:12.368834+00:00",
+  "remaining": "The account component needs the chair’s governed size grant; its2,475 changed lines are below the2,500 hard stop. Backend components retain their original review queue and companion #4202 retains a review hold. Final ratings and signed-in live acceptance remain pending.",
+  "current": "Search #4201 is updated and pushed on current main with25 passing behavior cases and7 fault checks. The chair-approved account-and-consent component is now Draft #4229:36 behavior cases and7 fault checks pass on its exact isolated source.",
+  "next": "The chair must place #4201 and grant the exact-head size admission for #4229. Continue assembling the reviewed components, then obtain all three final website ratings and publish the approved theme to Shopify.",
+  "updated": "2026-10-11T22:10:53.738357+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
@@ -133,6 +133,14 @@
     {
       "title": "Chair scope approved",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6112704785"
+    },
+    {
+      "title": "Draft #4229",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4229"
+    },
+    {
+      "title": "Exact-head size and queue request",
+      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6114404719"
     },
     {
       "title": "Resolved CI delay",
@@ -149,14 +157,6 @@
     {
       "title": "Search integration #4201",
       "path": "https://github.com/EON-CRUX/3.09/pull/4201"
-    },
-    {
-      "title": "Store finder #4189",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4189"
-    },
-    {
-      "title": "Campaign #4177",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4177"
     }
   ],
   "source": "Published projection of the original task report",
