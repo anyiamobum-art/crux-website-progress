@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Assembly verification completed successfully. No own test, Chrome, simulator or Blender job remains running; the remaining dependencies retain their original owners.",
+  "workerState": "Original CS and companion owners acknowledged their separate connection work. Chair relay received the owner’s continuation request; a chair decision is not yet verified. No website test or browser job is running.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T13:19:04.814906+00:00 — remote current-source assembly verified: 374/374 pass, zero failures or skips.",
+  "lastActualProgress": "2026-10-11T14:11:34.535828+00:00 — accepted the exact public-review endpoint follow-up; CS acknowledged source preparation in a dependent branch. Companion acknowledged independent Shopify connection work.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -76,7 +76,7 @@
       "Agentic website debate & cross-sell",
       "Build and debate in parallel",
       "Second plan scores: Fable 5.1: 9.0; Astra 6: 9.0; Opus 5.5: 8.9. Named fixes remain; host implementation has begun.",
-      "Build and test ready components with Opus 5.5 while closing the named findings. Obtain independent same-source finished ratings above 9.5."
+      "Build and test ready components with Opus 5.5 while closing the named findings. Obtain independent same-source finished ratings of 9.5 or higher."
     ],
     [
       "Original source release",
@@ -117,14 +117,14 @@
   ],
   "completed": [
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at 2aa18b7a8d, a child of #4200. Original Opus source collected; 25 remote cases and three causal checks pass. Actual Chrome query/page/sort and pending-answer invalidation verified. No final review or live mount claimed.",
-    "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) received two first-review configuration findings. Both named template defaults are cleared at 4e159e4ab4; runtime and tests remain unchanged. The original invitation test passes and all 12 admission checks pass. Re-review remains pending; historical credential restrictions need owner confirmation.",
+    "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main.",
     "[Layout4124](https://github.com/EON-CRUX/3.09/pull/4124) passed original R3 named-fix approval and merged11:10:52UTC asb174a3eb. All11 owned files match reviewed source, merge and main."
   ],
-  "remaining": "Production mounting still needs canonical Shopify-domain/account mapping and proven proxy forwarding. Final same-source ratings, approved assembly and Shopify publication remain outstanding.",
-  "current": "The integrated native collection passes all 374 assembly tests with zero failures or skips at 65d45ab20b. Grid/Focus and the filter have actual Chrome checks at 380, 430 and 1280 px. Remaining agentic components await their original review placement and backend contracts.",
-  "next": "Integrate the remaining agentic components after their reviews and authenticated proxy / consented review contracts are ready. Then submit the one authorized final assembly for exact-source acceptance and Shopify release.",
-  "updated": "2026-10-11T13:19:04.814906+00:00 — tests passed; final release remains 0/3. No final rating or Shopify publication claimed.",
+  "remaining": "Chair disposition for #4193 / #4197 / #4198 / #4199 / #4200 / #4201; the original migration desk’s buyer-review privilege correction; verified Shopify proxy/account contract. No new permission from the owner is needed.",
+  "current": "The native website assembly passes all 374 tests. The original CS owner has acknowledged the next review-endpoint build; the companion owner is checking the Shopify identity/proxy connection independently of payment review. Six existing components still need the chair’s review placement.",
+  "next": "Complete those backend connections and review the six existing components, then integrate one final source for Fable 5.1, Astra 6 and Opus 5.5 acceptance, protected merge and Shopify delivery.",
+  "updated": "2026-10-11T14:11:34.535828+00:00 — original owner acknowledgements and current Draft heads checked. Final ratings, complete assembly merge and live Shopify remain unverified.",
   "links": [
     {
       "title": "Search integration #4201",
