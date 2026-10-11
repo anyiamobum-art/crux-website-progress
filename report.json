@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original hosted checks are running or queued on #4193, #4197 and #4198. CS is completing its consent adapter. The original configuration owner is preparing the exact merchant-mapping update for the chair’s desk. Completed source checks are not independent approval.",
+  "workerState": "Hosted jobs continue on #4193, #4197 and #4198. CS is building the authenticated customer route. The original configuration owner delivered the exact merchant-mapping SQL packet to the chair’s desk. The original Opus implementation packet is prepared; Chrome is queued behind the current Companion inspection.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197/buyer-note4198 are Ready on their original heads; child-panel4199 awaits the dependent review sequence; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
+      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193/controller4197 are Ready on retained heads; buyer-note4198 is Ready on CI-repair d87206d7; child-panel4199 awaits the dependent review sequence; layout4124 is merged. Context4200 is a tested child of4199 and joins the existing placement request. Final three-model acceptance remains0/3."
     },
     {
       "stage": "Deployed",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T15:16:24.612827+00:00 — original #4198 CI repair d87206d7 pushed and exact remote head verified; 29 targeted checks pass, runtime bytes unchanged.",
+  "lastActualProgress": "2026-10-11T15:24:59.982077+00:00 — customer API contract consumed and preview/edit/withdraw UI packet prepared; a text-edit/care-concern preservation issue was identified and returned to the original CS owner.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -116,15 +116,15 @@
     ]
   ],
   "completed": [
-    "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193, #4197 and #4198 are now Ready on unchanged heads.",
+    "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193 and #4197 entered Ready on unchanged heads; #4198 subsequently received the narrow CI repair d87206d7, preserving its runtime bytes.",
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at 2aa18b7a8d, a child of #4200. Original Opus source collected; 25 remote cases and three causal checks pass. Actual Chrome query/page/sort and pending-answer invalidation verified. No final review or live mount claimed.",
     "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "Original component reviews and child sequence #4199 → #4200 → #4201; verified Shopify merchant/proxy contract; CS successor and endpoint review. The database desk correction and first-three queue placement are resolved. No new owner permission is needed.",
-  "current": "First three website components are in the original review lane. The buyer-review CI setup fault is repaired and pushed to #4198 after 29 targeted checks passed remotely. CS verified all 63 database permissions, pushed storage repair #4195 and published dependent endpoint Draft #4205. The full native candidate retains 394/394 checks.",
+  "current": "First three website components are admitted to the original review lane. #4198’s CI repair passed 29 targeted remote checks and its initial hosted checks; actual independent review awaits the required checks. CS has opened the public reader #4205 and exact-preview adapter #4206 and is testing the signed customer caller. The matching customer consent screen is prepared for the original Opus writer.",
   "next": "Complete those backend connections and review the six existing components, then integrate one final source for Fable 5.1, Astra 6 and Opus 5.5 acceptance, protected merge and Shopify delivery.",
-  "updated": "2026-10-11T15:16:24.612827+00:00 — database correction and first-three review placement are resolved; current CI repair is published. Final ratings, assembly merge and Shopify acceptance remain pending.",
+  "updated": "2026-10-11T15:24:59.982077+00:00 — #4198 review dispatch explicitly waits for protected checks; no independent reviewer execution or final rating is claimed. Merchant-mapping application and live Shopify remain unverified.",
   "links": [
     {
       "title": "Database desk correction",
