@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus request45/response46 is complete and collected. Candidate ad776f21 is saved and passes all 394 checks; remote job81085 and layout check53396 completed successfully. The chair’s same request was updated and read back at14:35:44UTC; no disposition has arrived.",
+  "workerState": "Candidate ad776f21 passes394/394 checks; its implementation and test jobs are complete. The original chair is running an earlier command and has the three website decisions queued as message104 in its existing conversation. The original customer-care owner is checking the database correction. Queued delivery is not a decision or a review result.",
   "journey": [
     {
       "stage": "Build",
@@ -124,7 +124,7 @@
   "remaining": "Chair disposition for #4193 / #4197 / #4198 / #4199 / #4200 / #4201; the original migration desk’s buyer-review privilege correction; verified Shopify proxy/account contract. No new permission from the owner is needed.",
   "current": "Original Opus buyer-review mount is built and independently passes all nine integration cases. Phone and desktop checks pass at 380, 430 and 1280 px. The integrated candidate passes 394 tests: 383 remotely plus the 11-check layout file. Six components still await the chair’s review placement.",
   "next": "Complete those backend connections and review the six existing components, then integrate one final source for Fable 5.1, Astra 6 and Opus 5.5 acceptance, protected merge and Shopify delivery.",
-  "updated": "2026-10-11T14:40:42.022579+00:00 — candidate ad776f21:394/394 checks pass with all prior374 cases retained. Final three-model ratings, full assembly merge and live Shopify remain unverified.",
+  "updated": "2026-10-11T14:56:54.193687+00:00 — original chair message104 visibly queued; six website components remain Draft. Candidate394/394 proof is retained. Final three-model ratings, complete assembly merge and live Shopify remain pending.",
   "links": [
     {
       "title": "Search integration #4201",
