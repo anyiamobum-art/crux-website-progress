@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T18:26:59.785383+00:00 — source6b1f5ccc28 validated;36 account cases+7 causal checks and9 assistant cases+4 causal checks passed. Exact13-file account split prepared and delivered to the chair through the original Bridge.",
+  "lastActualProgress": "2026-10-11T18:35:23.775106+00:00 — moved the existing account-split decision to the new GitHub chair queue, preserving its17:41:50UTC wait time and original owner. Delivery is verified; the decision is pending.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -122,13 +122,17 @@
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "Original component reviews and signed-in live acceptance remain pending. The temporary resource pause is lifted for this owner by the direct resume instruction. Final ratings and Shopify publication are not complete.",
-  "current": "Both new flows pass their focused proof:36 account/consent behavior cases and7 causal checks;9 assistant integration cases and4 causal checks. The original component reviews and the chair’s account split decision are next.",
+  "current": "Account/consent proof passes36 behavior cases and7 causal checks; assistant integration passes9 cases and4 causal checks. The pending13-file split request now reaches the chair’s GitHub queue with exact scope and proof.",
   "next": "Finish the original component reviews, correct #4200’s base after #4199 merges, and submit the prepared account component under the chair’s split decision. Then bind the final assembly for all three ratings and Shopify publication.",
-  "updated": "2026-10-11T18:26:59.785383+00:00",
+  "updated": "2026-10-11T18:35:23.775106+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
       "path": "https://github.com/EON-CRUX/3.09/pull/4193"
+    },
+    {
+      "title": "Current chair decision request",
+      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6112316486"
     },
     {
       "title": "Database desk correction",
@@ -153,10 +157,6 @@
     {
       "title": "Layout4124",
       "path": "https://github.com/EON-CRUX/3.09/pull/4124"
-    },
-    {
-      "title": "Native context4200",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4200"
     }
   ],
   "source": "Published projection of the original task report",
