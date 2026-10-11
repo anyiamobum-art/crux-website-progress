@@ -122,9 +122,9 @@
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "#4193 needs the chair’s bounded permission to consume the already-merged #4192 loader fix; the failed tests and exact existing repair were delivered through Bridge. Dependent component reviews, canonical merchant mapping and signed Shopify forwarding remain. No duplicate repair or review was started.",
-  "current": "The buyer-note renderer #4198 passed both original independent code readers and merged. All nine changed files match the reviewed head, merge and captured main. The original Opus consent screen has been collected; 13 DOM tests pass independently. A bounded care-response correction is running with the same Opus 5.5 High builder. CS has published the authenticated purchased-item lookup needed for buyers to return and edit or remove their feedback.",
-  "next": "Collect the care correction, test its nine response states against the actual signed caller, then assemble one source for final three-model acceptance and Shopify delivery.",
-  "updated": "2026-10-11T16:04:12.767091+00:00 — final same-source Fable5.1/Astra6/Opus5.5 ratings, complete approved assembly merge and live Shopify acceptance remain unverified.",
+  "current": "The chair has integrated current main into the shopper connection and conversation controller. The controller has its first code approval. The corrected consent component passes 20 independent DOM tests and Chrome checks at 380, 430 and 1280 px. The original Opus builder is connecting purchased-item feedback capture, return visits and explicit consent to the native account page.",
+  "next": "Collect and test the connected account flow. Once the controller merges, apply the chair’s named assistant-panel workflow fix and run its remote checks. Complete the approved assembly, obtain all three exact-source ratings, and prove Shopify publication.",
+  "updated": "2026-10-11T16:21:56.975449+00:00",
   "links": [
     {
       "title": "Buyer-note renderer #4198",
