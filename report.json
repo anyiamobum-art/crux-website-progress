@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Each Fable 5.1, Astra 6 and Opus 5.5 rates the same finished website at least 9.5; merged and live on Shopify.",
-  "workerState": "The original website owner has completed the cross-sell demo browser checks and is repairing the one named CI-coverage finding on shopper-context storage. Product runtime and search/help have passed current hosted tests and await their original reviews.",
+  "outcome": "Debate the agentic website plan in Chrome until each requested model rates it at least 9.5; then build with Opus 5.5 to above 9.5, merge the approved website and verify it live on Shopify.",
+  "workerState": "The Chrome debate brief is ready. Search/help has passed review and merged. Product runtime has its first approval. The named shopper-context CI repair is pushed; its dedicated PostgreSQL check passed and remaining review continues.",
   "journey": [
     {
       "stage": "Build",
@@ -30,7 +30,7 @@
       "evidence": "No finished-source Shopify live acceptance is recorded."
     }
   ],
-  "lastActualProgress": "11 Oct 2026, 07:42 UTC — cross-sell demo checked at 380 and 1280 pixels. Optional acceptance, the two-piece sample total and recovery of the same uncertain receipt passed. Shopper-context review named one CI-coverage repair; that repair is in progress.",
+  "lastActualProgress": "11 Oct 2026, 07:54 UTC — prepared the Chrome debate brief and separate plan/build criteria. Search/help merged at 07:50 UTC; all 14 files match the reviewed source and main. The shopper-context CI repair is pushed with exact source/body readback.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -59,7 +59,7 @@
   "checkpoints": [
     {
       "complete": false,
-      "title": "Each requested model rates the same finished website at least 9.5 under the chair’s new final-assembly scope; all historical review rounds remain frozen."
+      "title": "Each requested model rates the same finished website above 9.5 under the chair’s new final-assembly scope; all historical review rounds remain frozen."
     },
     {
       "complete": false,
@@ -75,12 +75,12 @@
       "Agentic website debate & cross-sell",
       "4/5 checked · debate pending",
       "Capability map, ten-domain scorecard, interactive demo and phone/desktop validation complete. Fable 5.1, Astra 6 and Opus 5.5 debate findings and scores remain pending.",
-      "Collect the original three-model findings, reconcile recommendations and bind accepted changes to the same finished website."
+      "Debate in Chrome: each plan rating at least 9.5, then Opus 5.5 implementation and independent same-source ratings above 9.5."
     ],
     [
       "Original source release",
       "Review continues",
-      "Home4103, typography4151 and shopping-tools4154 merged. Product runtime4155, search/help4183 and shopper context4182 are submitted. Layout73866f00 is repaired and proven.",
+      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 has first approval; shopper context4182 has its named CI repair submitted. Layout73866f00 is repaired and proven.",
       "Collect original hosted checks and reviews, plus the chair’s layout scope ruling."
     ],
     [
@@ -91,19 +91,23 @@
     ]
   ],
   "completed": [
+    "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) merged at 07:50:44 UTC as 8e66d8f9; all 14 reviewed files match merge and main. [Shopper context4182](https://github.com/EON-CRUX/3.09/pull/4182) named CI repair e9e2a9c0 is pushed, with 21 actual PostgreSQL cases and zero skips; its dedicated hosted database check passed. Remaining hosted review is separate.",
     "[Search/help4183](https://github.com/EON-CRUX/3.09/pull/4183) entered the original review lane at d36f48f. All14 source files,23 complete evidence units and4 inherited test dependencies match their retained proof; canonical admission passed. The new public task URL was delivered to25 original recipients, with delivery distinguished from adoption.",
     "[Shopping tools4154](https://github.com/EON-CRUX/3.09/pull/4154) passed FIRST07:14:46UTC and merged07:16:16 as a2317e1;9/9 owned files match approved source, merge and main. [Product runtime4155](https://github.com/EON-CRUX/3.09/pull/4155) and [shopper context4182](https://github.com/EON-CRUX/3.09/pull/4182) entered the original review lane. Internal context schema applied and verified;21 real PostgreSQL cases and2 causal checks pass. No new shopper route, final score or Shopify publication is claimed.",
-    "Typography4151 FIRST approved06:42:25UTC and merged06:43:39 as9828c480; all four owned files and license context match approved head, merge and captured main. Layout R2 named fix73866f00 passes11render cases and6causal checks; [chair scope request](https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351) records its1,023-line admission limit. No final score or Shopify claim.",
-    "Home routing4103 merged06:23:20UTC asc573d589 after original second reader APPROVE06:21:52; all ten owned files match approved head, merge and fresh main. Layout4124 R1 repair73f47a2f pushed and exact remote/body verified06:26:58UTC; ten Liquid cases and5/5 causal checks pass with current content binding. Typography-motion4151 Ready06:16:11UTC at64a15b3e; hosted review remains separate."
+    "Typography4151 FIRST approved06:42:25UTC and merged06:43:39 as9828c480; all four owned files and license context match approved head, merge and captured main. Layout R2 named fix73866f00 passes11render cases and6causal checks; [chair scope request](https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351) records its1,023-line admission limit. No final score or Shopify claim."
   ],
   "remaining": "The layout repair awaits the chair’s exact scope ruling. Remaining source approvals and final same-source ratings are still required.",
-  "current": "Agentic website debate and cross-sell: the map, scorecard, demo and phone/desktop checks are complete; the original three-model findings are pending. Storefront source review continues.",
-  "next": "Complete the remaining source reviews, assemble the finished website, obtain all three final ratings, and publish to Shopify.",
-  "updated": "11 Oct 2026, 07:44 UTC — release milestones remain 0/3. Current hosted test suites passed for product runtime, search/help and shopper context. The task site’s deployed HTML and report matched commit 968aacd.",
+  "current": "Chrome debate brief prepared: plan ratings must reach 9.5 before the Opus 5.5 agentic build. The finished implementation has a separate above-9.5 benchmark. Original source repairs continue.",
+  "next": "Use the existing Chrome turn when released, collect independent plan assessments, then build the accepted agentic changes with Opus 5.5. Continue original source reviews toward one approved Shopify release.",
+  "updated": "11 Oct 2026, 07:54 UTC — final release remains 0/3; all plan and finished-site ratings pending. The existing public task row was visibly verified at 07:49 UTC. Source reviews continue.",
   "links": [
     {
       "title": "Search/help4183",
       "path": "https://github.com/EON-CRUX/3.09/pull/4183"
+    },
+    {
+      "title": "Shopper context4182",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4182"
     },
     {
       "title": "Shopping tools4154",
@@ -112,10 +116,6 @@
     {
       "title": "Product runtime4155",
       "path": "https://github.com/EON-CRUX/3.09/pull/4155"
-    },
-    {
-      "title": "shopper context4182",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4182"
     },
     {
       "title": "chair scope request",
