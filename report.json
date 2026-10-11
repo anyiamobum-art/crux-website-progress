@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus 5.5 High is applying one bounded account-login correction in its existing Chrome conversation. The panel’s original remote test job completed successfully; declaration and self-review are running. No duplicate reviewer or builder.",
+  "workerState": "Original Opus 5.5 High is exporting its completed archive in the same conversation after downloads produced no file. No duplicate build or review. Panel repair is submitted; current main is integrated locally at5f2351.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T16:52:07Z — controller merge verified; panel named repair passes 29 remote cases and eight causal checks. Opus reports 34 native-host cases; those are awaiting independent verification.",
+  "lastActualProgress": "2026-10-11T16:59:00Z — single panel repair push verified; main integrated without conflicts. Original Opus reports35 host/consent cases, awaiting independent verification.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -87,14 +87,14 @@
     [
       "Buyer trust & WhatsApp reviews",
       "Component in validation",
-      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Corrected consent passes20 independent DOM cases plus phone/desktop, care-retry and reduced-motion browser checks; the original Opus account-host build has completed, with its login-return correction running; the claimed 34 cases await independent verification. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
+      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Corrected consent passes20 independent DOM cases plus phone/desktop, care-retry and reduced-motion browser checks; the original Opus account-host and login-return correction are complete;35 claimed cases await exact-file recovery and independent verification. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
       "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
     ],
     [
       "Assistant panel",
       "Tested source awaiting original review",
       "Parent4197 merged. Named workflow repair at a91d603765 preserves runtime source and passes29 remote cases plus8causal checks. Actual Liquid-host phone/desktop behavior retained.",
-      "Finish declaration/self-review, single push and chair release; authenticated proxy and final integration remain."
+      "Named repair, declaration, self-review and single push complete; chair release, authenticated proxy and final integration remain."
     ],
     [
       "Native product/context adapter",
@@ -111,7 +111,7 @@
     [
       "Native finish and acceptance",
       "Assembly tests passed",
-      "Native65d45ab20b passed374 remote tests. Buyer-note integration is now candidatead776f21; its nine focused cases pass and all394 candidate checks now pass (383 remote plus11 single-file layout checks).",
+      "Native65d45ab20b passed374 remote tests. Buyer-note integration is now candidatead776f21; its nine focused cases and394 candidate checks passed (383 remote plus11 single-file layout checks). Current main is integrated at5f2351; that new assembly is not yet retested.",
       "Integrate reviewed agentic components and backend contracts, then prepare the authorized final assembly with exact-source acceptance."
     ]
   ],
@@ -121,10 +121,10 @@
     "[Store finder #4189](https://github.com/EON-CRUX/3.09/pull/4189) passed its named-fix review and merged at 12:46:48 UTC as 862851e4. All 11 files match the reviewed source and main. Historical credential custody remains with its original owner; no key or account change is inferred.",
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
-  "remaining": "The shopper connection remains open after its first approval; the chair owns the remaining release and authenticated Shopify forwarding. Panel source repair is complete with remote proof; declaration and submission are underway. Canonical merchant mapping, signed forwarding, dependent component reviews and final three-model acceptance remain prerequisites.",
-  "current": "The conversation controller has merged, with all nine reviewed files verified against the merged source. The assistant-panel workflow repair passes 29 remote Python cases, including 12 DOM cases, and all eight causal checks. Original Opus completed the connected feedback host and is applying the Shopify login-return correction.",
-  "next": "Finish the panel’s declaration and self-review checks, push its named repair once, and consume the chair’s release sequence. Collect and independently test the corrected account host. Then bind the approved assembly, obtain all three exact-source ratings, and prove Shopify publication.",
-  "updated": "2026-10-11T16:52:50.463421+00:00",
+  "remaining": "The shopper connection remains open after its first approval. The chair owns component admission, remaining release and authenticated Shopify forwarding. Canonical merchant mapping, signed forwarding, dependent reviews and final three-model acceptance remain prerequisites.",
+  "current": "The conversation controller has merged with all nine reviewed files verified. The assistant-panel named repair is pushed at a91d603765 after 29 remote cases and eight causal checks pass. Opus finished the connected feedback host and Shopify login-return correction; exact-file delivery recovery is running.",
+  "next": "Collect and independently verify the original Opus archive, integrate it with the current main assembly, and consume the chair’s component release sequence. Then obtain all three same-source ratings and prove Shopify publication.",
+  "updated": "2026-10-11T16:59:40.824657+00:00",
   "links": [
     {
       "title": "Conversation controller #4197",
