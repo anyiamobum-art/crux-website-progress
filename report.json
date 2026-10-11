@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Actual original Opus response is running on the cart fix; the request is delivered and acknowledged, with no result yet. No duplicate request, replacement author or extra review round. The original checkout builder has pushed the repair and started its full hosted checks.",
+  "workerState": "Actual original Opus response is running on the cart fix; the request is delivered and acknowledged, with no result yet. No duplicate request, replacement author or extra review round. The original checkout builder’s full hosted tests and both fault-check groups have passed. The new proof was sent to the existing coordinator for the retained chair decision.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T22:39:23.942556+00:00 — verified restored access to the same original author, checked all seven source hashes and the complete input, delivered the cart-recovery request once, and observed the model response running. New source and test results are still pending.",
+  "lastActualProgress": "2026-10-11T22:57:08.288555+00:00 — original checkout repair passed all five hosted test groups, test-gate and both pin-proof parts. Opus has written the cart-recovery source and is running its behavior and fault checks in the original conversation; the final artifact remains pending.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -121,10 +121,10 @@
     "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193 and #4197 entered Ready on unchanged heads; #4198 subsequently received the narrow CI repair d87206d7, preserving its runtime bytes.",
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at05e468cb4b after current-main integration; all six original files are preserved. All25 remote cases and7/7 selected causal checks pass. Actual prior Chrome query/page/sort and pending-answer invalidation proof is retained. No final review or live mount claimed."
   ],
-  "remaining": "The earlier Opus read-only state is resolved and its author is running. Separately, the original chair’s native route last returned “Out of usage credits”; its size/queue decisions remain pending. #4229 needs its exact-head size grant and Ready decision. Shopper-custody #4202 has its focused repair pushed at0740f47, with56 remote cases passing. It is Ready and the full hosted suite is running; exact-head size admission and the chair’s review hold remain. The CS backend queue and signed-in Shopify acceptance are pending.",
+  "remaining": "The earlier Opus read-only state is resolved and its author is running. Separately, the original chair’s native route last returned “Out of usage credits”; its size/queue decisions remain pending. #4229 needs its exact-head size grant and Ready decision. Shopper-custody #4202 has its focused repair pushed at0740f47, with56 remote cases passing. All five hosted test groups, the full test gate and both pin-proof parts now pass. Exact-head size admission and the chair’s review hold remain. The CS backend queue and signed-in Shopify acceptance are pending.",
   "current": "The original Opus 5.5 High author is executing the named cart-recovery fix. Same-conversation access is restored; the exact source packet was verified and sent once. Buyer-notes integration remains green: nine cases and three fault checks.",
   "next": "Collect the original author’s cart-recovery source, verify its artifacts and run the real behavior tests remotely. Consume the chair’s size/queue decisions and original checkout repair. Then finish exact-source review, all three ratings, merge and Shopify publication.",
-  "updated": "2026-10-11T22:39:55.538349+00:00",
+  "updated": "2026-10-11T22:57:08.288555+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
