@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark"><title>Task progress</title>
+<style>
+:root{--bg:#090e0c;--panel:#101a15;--line:#273c31;--text:#eff9f2;--muted:#a5b9ac;--green:#a4efbe;--blue:#94c9ff;--amber:#f2ca83;--violet:#c5b4f6;--spring:cubic-bezier(.2,.8,.2,1)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.5}button,a,summary{-webkit-tap-highlight-color:transparent;touch-action:manipulation}button{font:inherit;color:inherit;cursor:pointer}button:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var(--green);outline-offset:5px}button:active{transform:translateY(1px);background:#294435}a{color:var(--green);text-underline-offset:4px}button,summary{min-height:44px}button{transition:background .2s,transform .2s var(--spring)}.frame{max-width:1120px;margin:auto;padding:28px clamp(20px,4vw,52px) 48px}.top{display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{font-size:12px;letter-spacing:.17em;text-transform:uppercase;font-weight:650;display:flex;align-items:center;gap:9px}.mark{display:grid;grid-template-columns:repeat(2,4px);gap:3px}.mark i{height:4px;background:var(--green);border-radius:50%}.top button{background:transparent;border:1px solid var(--line);border-radius:99px;padding:8px 14px;font-size:12px}.hero{display:grid;grid-template-columns:1fr 210px;gap:24px;align-items:center;padding:40px 0 30px}.eyebrow{font-size:11px;letter-spacing:.17em;text-transform:uppercase;color:var(--green);margin:0 0 12px}.hero h1{font-size:clamp(34px,5.5vw,66px);letter-spacing:-.065em;line-height:1.02;font-weight:550;margin:0 0 16px}.hero h1 span{color:var(--green)}.intro{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:14px;color:var(--muted);max-width:490px;margin:0}.signal{width:176px;height:176px;position:relative;display:grid;place-items:center;margin:auto}.orbit{position:absolute;inset:0;border:1px solid var(--line);border-radius:50%}.orbit:after{content:"";position:absolute;top:25px;left:21px;width:9px;height:9px;background:var(--green);box-shadow:0 0 18px #a4efbe55;border-radius:50%}.orbit.inner{inset:19px;border-style:dashed;opacity:.55;transform:rotate(40deg)}.orbit.inner:after{background:var(--blue);height:6px;width:6px;top:17px;left:17px}.signal-center{width:100px;height:100px;border-radius:50%;background:var(--panel);border:1px solid var(--line);display:grid;place-content:center;text-align:center}.signal-center b{color:var(--green);font-size:32px;font-weight:750;letter-spacing:-.05em;line-height:1.05}.signal-center small{font-size:10px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;margin-top:6px}.signal-caption{text-align:center;color:var(--muted);font-size:10px;margin:9px 0 0}.motion-on .state-change .signal-center{animation:arrive .24s var(--spring)}@keyframes orbit{to{transform:rotate(360deg)}}.milestone{display:flex;gap:12px;justify-content:space-between;align-items:center;padding:13px 16px;border:1px solid var(--line);background:var(--panel);border-radius:9px}.milestone strong{font-size:15px;font-weight:750;color:var(--text)}.milestone strong:before{content:"";display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:9px}.milestone span{font-size:11px;color:var(--muted)}.journey{display:grid;grid-template-columns:repeat(5,1fr);margin:26px 0 32px;position:relative}.journey:before{content:"";height:1px;background:var(--line);position:absolute;left:0;right:0;top:8px}.step{position:relative;font-size:11px;color:var(--muted)}.node{display:block;width:17px;height:17px;border-radius:50%;border:1px solid #50645a;background:var(--bg);margin-bottom:9px;position:relative}.step.active{color:var(--blue)}.step.active .node{border-color:var(--blue);box-shadow:0 0 0 4px #94c9ff12}.step.active .node:after{content:"";position:absolute;inset:4px;background:var(--blue);border-radius:50%}.step.review{color:var(--violet)}.step.review .node{border-color:#73668f}.step:last-child{text-align:right}.step:last-child .node{margin-left:auto}.step small{display:block;font-size:10px;color:var(--muted);margin-top:3px}.section-heading{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:0 0 16px}.section-heading h2{font-size:18px;letter-spacing:-.03em;font-weight:550;margin:0}.section-heading span{font-size:11px;color:var(--muted)}.workspace{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(230px,1fr);gap:34px}.list{border-top:1px solid var(--line)}.work{border-bottom:1px solid var(--line);padding:17px 0;position:relative}.work summary{list-style:none;display:grid;grid-template-columns:10px 1fr auto;align-items:center;gap:10px;cursor:pointer}.work summary::-webkit-details-marker{display:none}.work summary:after{content:"+";color:var(--muted);font-size:20px;font-weight:300}.work[open] summary:after{content:"−"}.dot{width:6px;height:6px;border-radius:50%;background:var(--blue)}.work[data-tone="green"] .dot{background:var(--green)}.work[data-tone="amber"] .dot{background:var(--amber)}.work[data-tone="violet"] .dot{background:var(--violet)}.work-title{font-size:14px;display:block;font-weight:500}.work-state{font-size:11px;display:block;color:var(--blue);margin-top:2px}.work[data-tone="green"] .work-state{color:var(--green)}.work[data-tone="amber"] .work-state{color:var(--amber)}.work[data-tone="violet"] .work-state{color:var(--violet)}.work-content{padding:6px 22px 0;font-size:12px;color:var(--muted)}.work-content p{margin:0 0 12px}.work-content b{color:var(--text);font-size:10px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;display:block;margin-bottom:4px}.motion-on .work[open] .work-content{animation:arrive .24s var(--spring)}@keyframes arrive{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.aside{padding-top:1px}.note{border-left:2px solid var(--green);padding:0 0 2px 18px;margin-bottom:28px}.note h3{font-size:13px;margin:0 0 8px;font-weight:500}.note p{color:var(--muted);font-size:12px;margin:0}.note.amber{border-color:var(--amber)}.proof-list{padding:0;list-style:none;margin:16px 0 25px}.proof-list li{position:relative;padding:0 0 16px 22px;color:var(--muted);font-size:12px}.proof-list li:before{content:"✓";color:var(--green);position:absolute;left:0}.evidence summary{font-size:12px;cursor:pointer;color:var(--green);padding:11px 0}.evidence ul{padding-left:16px;margin:0}.evidence li{font-size:12px;margin:10px 0;overflow-wrap:anywhere}.evidence code{font-size:11px;color:var(--muted)}.footer{border-top:1px solid var(--line);margin-top:30px;padding-top:18px;display:flex;align-items:center;justify-content:space-between;gap:12px}.timestamp{font-size:11px;color:var(--muted)}.timestamp strong{font-weight:400;color:var(--text);display:block}.refresh{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:8px 14px;font-size:12px;flex-shrink:0}.read-status{color:var(--muted);font-size:11px;margin:9px 0 0;min-height:17px}.fineprint{font-size:10px;color:var(--muted);margin:18px 0 0}.no-data{padding:20px;border:1px solid var(--amber);font-size:14px}.headline-small{font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);margin:0 0 15px}.empty{font-size:13px;color:var(--amber)}
+@media(max-width:730px){.frame{padding:20px 23px 32px}.workspace{grid-template-columns:1fr;gap:30px}.hero{grid-template-columns:1fr 110px;gap:12px;padding:30px 0 24px}.signal{height:104px;width:104px}.signal-center{width:64px;height:64px}.signal-center b{font-size:24px}.signal-center small{font-size:8px}.orbit.inner{inset:10px}.orbit:after{top:12px;left:12px;width:7px;height:7px}.orbit.inner:after{top:9px;left:9px}.signal-caption{font-size:9px}.hero h1{font-size:38px}.intro{font-size:12px}.milestone{align-items:flex-start;flex-direction:column;gap:3px}.journey{margin-bottom:28px}.step{font-size:10px}.step small{font-size:9px}.aside{padding-top:0}.work-title{font-size:14px}}
+.workspace>.aside{grid-column:2;grid-row:1}.workspace>section{grid-column:1;grid-row:1}
+@media(max-width:730px){.workspace>.aside,.workspace>section{grid-column:auto;grid-row:auto}.hero{padding:18px 0 16px}.hero h1{font-size:34px;margin-bottom:10px}.eyebrow{margin-bottom:8px}.work{padding:9px 0}.section-heading{margin-bottom:9px}.milestone{padding:10px 14px}.frame{padding-top:16px}.workspace{gap:24px}.signal{width:96px;height:96px}}
+@media(max-width:360px){.frame{padding-left:17px;padding-right:17px}.hero{grid-template-columns:1fr 88px}.signal{width:88px;height:88px}.hero h1{font-size:34px}.signal-caption{max-width:88px}.journey .step small{max-width:55px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+#percent{font-weight:750}#fraction{font-size:14px;font-weight:700;color:var(--text);-webkit-line-clamp:unset}#scoped-progress p{font-size:14px;font-weight:750;color:var(--green);padding:10px 12px;border-left:3px solid var(--green);background:var(--panel);margin:8px 0;overflow-wrap:anywhere}.milestone:has(strong[data-completion="not-done"]){border-color:var(--amber)}.milestone strong[data-completion="not-done"]:before{background:var(--amber)}
+.ratings{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:24px 0}.ratings>div{border-bottom:1px solid var(--line);padding:12px 0}.ratings strong,.ratings span{display:block;font-size:13px}.ratings span{color:var(--amber);font-size:12px;margin-top:6px}.ratings p{grid-column:1/-1;margin:0;color:var(--muted);font-size:11px}.hero h1{font-size:clamp(34px,5.5vw,60px)}#scoped-progress p{font-size:12px;font-weight:500}.portable-note{font-size:11px;color:var(--muted);margin-top:18px;max-width:650px}</style>
+</head>
+<body>
+<main class="frame" id="dashboard">
+ <header class="top"><div class="brand"><span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span> CRUX / Release notes</div><button id="motion" type="button" aria-pressed="false">Motion off</button></header>
+ <section class="hero" aria-labelledby="title"><div><p class="eyebrow">Your task, in view</p><h1 id="title">CRUX website.<br><span id="percent">—</span></h1><p class="intro" id="fraction">Reading verified checkpoints…</p></div><div><div class="signal" role="img" id="signal"><div class="orbit outer" aria-hidden="true"></div><div class="orbit inner" aria-hidden="true"></div><div class="signal-center"><b id="ring-percent">—</b><small>Delivered</small></div></div><p class="signal-caption">Verified progress</p></div></section>
+ <p class="intro"><strong>Goal: </strong><span id="outcome"></span></p><p id="owner" class="timestamp"></p><div class="milestone"><strong id="milestone">Reading the original milestone…</strong><span>Verified checkpoints</span></div>
+ <section class="ratings" aria-label="Required final website ratings" id="ratings"></section><div class="workspace" style="margin-top:26px"><aside class="aside"><section class="note amber"><h3>Now</h3><p id="current-action"></p><h3 style="margin-top:14px">Next / dependency</h3><p id="next-action"></p><details class="evidence"><summary>Blocker detail</summary><p id="remaining"></p></details></section><details class="evidence"><summary>Build → live evidence</summary><ul id="journey"></ul></details><details class="evidence"><summary>Evidence & completion basis</summary><p class="intro">Equal-weight verified checkpoints; this percentage does not estimate time or effort.</p><ul class="proof-list" id="proof-list"></ul><div id="scoped-progress"></div><ul id="checklist"></ul><ul id="evidence-list"></ul><pre id="raw-report" hidden></pre></details></aside><section><div class="section-heading"><h2>Current work</h2><span>Tap for detail</span></div><div class="list" id="work-list"></div></section></div>
+ <p class="timestamp">Last actual progress<strong id="actual-progress">Unknown</strong></p><footer class="footer"><div class="timestamp">Last verified update<strong id="updated">Reading the task report…</strong></div><button type="button" id="refresh" class="refresh">Refresh report</button></footer><p class="read-status" id="read-status" role="status" aria-live="polite"></p><p class="fineprint" id="presenter-state">Presenter: connecting · Worker: unknown</p>
+<p class="portable-note">Published through GitHub Pages. This task site can be updated through the saved GitHub checkout independently of ChatGPT sign-in. The timestamp above is the last verified evidence; it is not a live activity indicator.</p></main>
+<script id="initial-report" type="application/json">{
+  "title": "CRUX website",
+  "owner": "CRUX website team",
+  "outcome": "Each Fable 5.1, Astra 6 and Opus 5.5 rates the same finished website at least 9.5; merged and live on Shopify.",
+  "workerState": "Original helper collects4154 review evidence. Root has proven the signed companion’s internal context storage on disposable PostgreSQL and saved its exact interface handoff. The cross-sell concept is built; visible checks are next after browser resource readback.",
+  "journey": [
+    {
+      "stage": "Build",
+      "state": "Pending",
+      "evidence": "139/139 source files prepared; exact approved assembly remains unbound."
+    },
+    {
+      "stage": "Tests",
+      "state": "Pending",
+      "evidence": "Layout eleven real render cases and six causal mutations pass on73866f00. Fresh hosted checks and final assembly proof remain pending."
+    },
+    {
+      "stage": "Review",
+      "state": "Pending",
+      "evidence": "Home routing now passed both code reviews and merged. Layout R2 named repair prepared; typography-motion4151 merged. Campaign4177/settings4178 are Draft, awaiting sequence placement. Final three-model acceptance remains0/3."
+    },
+    {
+      "stage": "Deployed",
+      "state": "Pending",
+      "evidence": "Shopify target remains UNPUBLISHED; EON read at11 Oct02:27:28UTC confirms theme access and code-write scope. Public task-page publication is a separate completed presentation action."
+    },
+    {
+      "stage": "Live verified",
+      "state": "Pending",
+      "evidence": "No finished-source Shopify live acceptance is recorded."
+    }
+  ],
+  "lastActualProgress": "11 Oct 2026, 07:00 UTC — shopping tools #4154 submitted and Ready at40ef0bee (06:54:26UTC). Host storage21 actual PostgreSQL cases and2/2causal checks pass; exact commerce interface handoff saved. Replacement public task site being prepared.",
+  "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
+  "overall": null,
+  "scopedProgress": [
+    {
+      "scope": "Source preparation",
+      "completed": 139,
+      "total": 139,
+      "percent": 100.0,
+      "basis": "Explicit scoped checklist; not overall effort"
+    },
+    {
+      "scope": "Final milestone checklist",
+      "completed": 0,
+      "total": 3,
+      "percent": 0.0,
+      "basis": "Explicit scoped checklist; not overall effort"
+    },
+    {
+      "scope": "Investigation checklist",
+      "completed": 3,
+      "total": 5,
+      "percent": 60.0,
+      "basis": "Explicit scoped checklist; not overall effort"
+    }
+  ],
+  "checkpoints": [
+    {
+      "complete": false,
+      "title": "Each requested model rates the same finished website at least 9.5 under the chair’s new final-assembly scope; all historical review rounds remain frozen."
+    },
+    {
+      "complete": false,
+      "title": "All required approved source is merged and bound to one exact finished assembly."
+    },
+    {
+      "complete": false,
+      "title": "That approved assembly is published to Shopify and its live result verified."
+    }
+  ],
+  "work": [
+    [
+      "Original source release",
+      "Review continues",
+      "Home4103 and typography4151 merged. Layout73866f00 is repaired, proven and awaiting the chair’s bounded scope disposition.",
+      "Collect4154 original hosted result, then4155; preserve layout’s R3 named-fix-only history."
+    ],
+    [
+      "Native finish and acceptance",
+      "Prepared",
+      "Native4a624416 preserves all overlay additions and changes only three broad font declarations to Archivo. Earlier seven focused cases are retained as historical evidence; assembled browser proof remains pending.",
+      "New final-assembly PR after component merges, then web-chair delivery of fresh same-source acceptance."
+    ]
+  ],
+  "completed": [
+    "Typography4151 FIRST approved06:42:25UTC and merged06:43:39 as9828c480; all four owned files and license context match approved head, merge and captured main. Layout R2 named fix73866f00 passes11render cases and6causal checks; [chair scope request](https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351) records its1,023-line admission limit. No final score or Shopify claim.",
+    "Home routing4103 merged06:23:20UTC asc573d589 after original second reader APPROVE06:21:52; all ten owned files match approved head, merge and fresh main. Layout4124 R1 repair73f47a2f pushed and exact remote/body verified06:26:58UTC; ten Liquid cases and5/5 causal checks pass with current content binding. Typography-motion4151 Ready06:16:11UTC at64a15b3e; hosted review remains separate.",
+    "Home and layout complete repairs submitted05:45:38UTC after39 real clean tests and53/53 affected causal checks passed remotely. [Home repair](https://github.com/EON-CRUX/3.09/pull/4103); [layout repair](https://github.com/EON-CRUX/3.09/pull/4124). Original hosted jobs38115822091 and38115826159 are executing; no final score or Shopify claim.",
+    "Photo search #4102 FIRST APPROVE04:41:47UTC, merged04:43:00 as65298d92; all ten files verified04:47:02. Home routing #4103 pushed8f812d8b and Ready04:47:55. [Submission receipt](https://github.com/EON-CRUX/3.09/pull/4103#issuecomment-6105567879)."
+  ],
+  "remaining": "Final source approvals and same-source acceptance. The existing public task site remains at its last verified snapshot. The owner authorized a replacement with GitHub-based publishing so ChatGPT account switches do not block updates; its new publication is being prepared.",
+  "current": "Shopping tools are in review. Typography is merged. The layout repair is proven and awaiting its scope ruling.",
+  "next": "Complete the remaining source reviews, assemble the finished website, obtain all three final ratings, and publish to Shopify.",
+  "updated": "11 Oct 2026, 07:00 UTC — release milestones remain0/3. Publicv11 is the last verified publication; replacement publication pending.",
+  "links": [
+    {
+      "title": "chair scope request",
+      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6106400351"
+    },
+    {
+      "title": "Home repair",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4103"
+    },
+    {
+      "title": "layout repair",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4124"
+    },
+    {
+      "title": "Submission receipt",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4103#issuecomment-6105567879"
+    },
+    {
+      "title": "Original verdict",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4122#issuecomment-6105374270"
+    },
+    {
+      "title": "sequence receipt",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4102#issuecomment-6105379944"
+    },
+    {
+      "title": "Entrance repair",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4121"
+    },
+    {
+      "title": "typography repair",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4122"
+    }
+  ],
+  "source": "Published projection of the original task report",
+  "rawReport": "",
+  "warnings": [],
+  "releaseProgress": {
+    "done": 0,
+    "total": 3
+  },
+  "ratings": [
+    {
+      "model": "Fable 5.1",
+      "result": "Pending"
+    },
+    {
+      "model": "Astra 6",
+      "result": "Pending"
+    },
+    {
+      "model": "Opus 5.5",
+      "result": "Pending"
+    }
+  ]
+}</script>
+<script>
+(()=>{'use strict';const root=document.getElementById('dashboard');const motion=document.getElementById('motion');const reduced=matchMedia('(prefers-reduced-motion: reduce)');let enabled=!reduced.matches;try{const saved=localStorage.getItem('ask-progress-motion');if(saved!==null)enabled=saved==='on'&&!reduced.matches}catch(_){}function applyMotion(){root.classList.toggle('motion-on',enabled&&!reduced.matches);motion.setAttribute('aria-pressed',String(enabled&&!reduced.matches));motion.textContent=enabled&&!reduced.matches?'Motion on':'Motion off'}motion.addEventListener('click',()=>{enabled=!enabled;try{localStorage.setItem('ask-progress-motion',enabled?'on':'off')}catch(_){}applyMotion()});reduced.addEventListener('change',applyMotion);applyMotion();
+const tone=state=>({complete:'green',blocked:'amber',waiting:'amber',testing:'violet',building:'blue'})[state.toLowerCase()]||'violet';
+function el(tag,text,cls){const x=document.createElement(tag);if(text!==undefined)x.textContent=text;if(cls)x.className=cls;return x}
+let lastSnapshot=null;let presenterConnection='Connecting';let workerState='Unknown';function presenter(){document.getElementById('presenter-state').textContent='Presenter: '+presenterConnection+' · Worker: '+workerState+' · Report freshness: source verification time shown above'}function render(data){if(!Array.isArray(data.journey)||data.journey.some(x=>!x||['stage','state','evidence'].some(k=>typeof x[k]!=='string'))||['owner','outcome','workerState','current','next','updated','lastActualProgress'].some(k=>data[k]!=null&&typeof data[k]!=='string'))throw Error('Invalid report metadata');if(!Array.isArray(data.work)||!data.work.length||data.work.some(x=>x.length!==4)||!Array.isArray(data.checkpoints)||!Array.isArray(data.completed)||!Array.isArray(data.links)||data.checkpoints.some(x=>typeof x.complete!=='boolean'||typeof x.title!=='string')||data.work.some(x=>x.some(v=>typeof v!=='string'))||data.completed.some(x=>typeof x!=='string')||data.links.some(x=>typeof x.title!=='string'||typeof x.path!=='string')||typeof data.remaining!=='string')throw Error('The original report has no work rows.');const snapshot=JSON.stringify(data);if(lastSnapshot!==null&&snapshot!==lastSnapshot&&enabled&&!reduced.matches){root.classList.remove('state-change');void root.offsetWidth;root.classList.add('state-change')}lastSnapshot=snapshot; const ratings=document.getElementById('ratings'); ratings.replaceChildren(...data.ratings.map(r=>{const box=el('div');box.append(el('strong',r.model),el('span',r.result));return box;}),el('p','Each must rate the same finished website at least 9.5 / 10.'));document.getElementById('owner').textContent='Owner: '+(data.owner||'Unknown');document.getElementById('outcome').textContent=data.outcome||'Outcome: not supplied';document.getElementById('current-action').textContent=data.current||'Unknown — see recorded work';document.getElementById('next-action').textContent=data.next||'Unknown — see each work row';workerState=data.workerState||'Unknown';presenter();document.getElementById('journey').replaceChildren(...((data.journey||[]).length?data.journey.map(x=>el('li',x.stage+' · '+x.state+' — '+x.evidence)):[el('li','Unknown — explicit delivery journey evidence not supplied')]));const overall=data.overall,done=overall?.completed,total=overall?.total,percent=overall?Math.round(overall.percent):null;document.getElementById('title').firstChild.textContent=(data.title||'Progress')+'.';document.getElementById('percent').textContent=percent===null?'In progress':percent+'%';document.getElementById('ring-percent').textContent=percent===null?data.releaseProgress.done+'/'+data.releaseProgress.total:percent+'%';document.getElementById('fraction').textContent=overall?done+' / '+total+' verified checkpoints':'Final delivery · '+data.releaseProgress.done+' of '+data.releaseProgress.total+' milestones verified';document.getElementById('signal').setAttribute('aria-label',overall?percent+' percent complete, '+done+' of '+total+' verified checkpoints':'Overall completion unknown');document.title=(data.title||'Task')+' · Progress';document.getElementById('milestone').textContent=data.milestone||(overall?(done===total?'Checklist complete':'Checklist in progress'):'Scope and evidence');document.getElementById('milestone').dataset.completion=/^NOT DONE\b/i.test(data.milestone||'')?'not-done':'source';document.getElementById('scoped-progress').replaceChildren(...(data.scopedProgress||[]).map(x=>el('p',x.scope+': '+x.completed+'/'+x.total+' · '+x.percent+'%')));document.getElementById('raw-report').textContent=(data.warnings||[]).join('\n')+'\n'+(data.rawReport||'');document.getElementById('checklist').replaceChildren(...data.checkpoints.map(x=>el('li',(x.complete?'✓ ':'○ ')+x.title)));const list=document.getElementById('work-list');const focused=document.activeElement?.closest('details.work')?.dataset.name;const opened=new Set([...list.querySelectorAll('details[open]')].map(x=>x.dataset.name));list.replaceChildren();data.work.forEach((row)=>{const tag=[tone(row[1]),row[1]];const item=el('details');item.className='work';item.dataset.tone=tag[0];item.dataset.name=row[0];item.open=opened.has(row[0]);const summary=el('summary');summary.append(el('span',undefined,'dot'));const title=el('span');title.append(el('span',row[0],'work-title'),el('span',tag[1],'work-state'));summary.append(title);const content=el('div',undefined,'work-content');for(const [label,text]of [['Verified position',row[2]],['Next step',row[3]]]){const p=el('p');p.append(el('b',label),document.createTextNode(text));content.append(p)}item.append(summary,content);list.append(item);if(row[0]===focused)summary.focus({preventScroll:true})});const proof=document.getElementById('proof-list');proof.replaceChildren(...data.completed.map(x=>el('li',x)));document.getElementById('remaining').textContent=data.remaining;document.getElementById('updated').textContent=data.updated||'Timestamp not recorded';document.getElementById('actual-progress').textContent=data.lastActualProgress||'Unknown — not supplied by the owner';const sources=document.getElementById('evidence-list');sources.replaceChildren();data.links.forEach(link=>{const li=el('li');li.append(el('span',link.title));const d=el('details');d.append(el('summary','Show saved evidence location'),el('code',link.path));li.append(d);sources.append(li)});window.__reportSource=data.source;}
+try{render(JSON.parse(document.getElementById('initial-report').textContent));document.getElementById('read-status').textContent='Reading the saved progress note. Use Refresh report to load the latest published evidence.'}catch(e){document.getElementById('read-status').textContent='Could not read the report. Use Refresh report to try again.'}
+async function refreshReport(){const b=document.getElementById('refresh');const status=document.getElementById('read-status');b.disabled=true;b.textContent='Reading…';try{const response=await fetch('./report.json',{cache:'no-store'});if(!response.ok)throw Error('Read failed');const data=await response.json();render(data);status.textContent='Report refreshed from the original note. Its verification time is shown above.'}catch(e){status.textContent='The latest published report could not be read. The last displayed evidence remains available.'}finally{b.disabled=false;b.textContent='Refresh report'}}
+document.getElementById('refresh').addEventListener('click',refreshReport);
+presenterConnection='Published snapshot';presenter();
+window.addEventListener('focus',()=>{if(!document.getElementById('refresh').disabled)refreshReport()});
+document.addEventListener('visibilitychange',()=>{if(!document.hidden&&!document.getElementById('refresh').disabled)refreshReport()});
+})();
+</script>
+</body></html>
