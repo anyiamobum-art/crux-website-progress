@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus corrections are complete. Both remote proof jobs finished successfully. #4199’s hosted tests/review remain active; #4200 waits for its parent merge and base correction. #4201 and the buyer-trust backend retain the chair’s existing queue.",
+  "workerState": "Original Opus corrections and both focused remote proofs are complete. #4199’s aggregate gate is genuinely queued; no new code finding. The chair has the prepared13-file account split and runner evidence. #4200 follows its parent merge; #4201 and the buyer-trust backend retain the existing queue.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-11T18:35:23.775106+00:00 — moved the existing account-split decision to the new GitHub chair queue, preserving its17:41:50UTC wait time and original owner. Delivery is verified; the decision is pending.",
+  "lastActualProgress": "2026-10-11T18:39:54.706969+00:00 — verified the exact runner-label delay and delivered it to the existing repair owner. Prepared account split applies cleanly to fresh main with all13 tested source files unchanged.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -122,9 +122,9 @@
     "[Campaign #4177](https://github.com/EON-CRUX/3.09/pull/4177) passed R3 and merged at 11:17:43 UTC as 151d3f4e. All 12 owned files match reviewed source, merge and main. [Settings #4178](https://github.com/EON-CRUX/3.09/pull/4178) merged at 12:06:20 UTC as f36551be; both owned files match reviewed source, merge and main."
   ],
   "remaining": "Original component reviews and signed-in live acceptance remain pending. The temporary resource pause is lifted for this owner by the direct resume instruction. Final ratings and Shopify publication are not complete.",
-  "current": "Account/consent proof passes36 behavior cases and7 causal checks; assistant integration passes9 cases and4 causal checks. The pending13-file split request now reaches the chair’s GitHub queue with exact scope and proof.",
+  "current": "All five assistant-panel test shards pass. The aggregate gate waits for a matching runner:12 online eligible runners are busy, while4 idle light runners have different labels. This measured delay is now attached to the chair’s existing routing repair.",
   "next": "Finish the original component reviews, correct #4200’s base after #4199 merges, and submit the prepared account component under the chair’s split decision. Then bind the final assembly for all three ratings and Shopify publication.",
-  "updated": "2026-10-11T18:35:23.775106+00:00",
+  "updated": "2026-10-11T18:39:54.706969+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
@@ -133,6 +133,10 @@
     {
       "title": "Current chair decision request",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6112316486"
+    },
+    {
+      "title": "Measured CI delay",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4222#issuecomment-6112358787"
     },
     {
       "title": "Database desk correction",
@@ -153,10 +157,6 @@
     {
       "title": "Settings #4178",
       "path": "https://github.com/EON-CRUX/3.09/pull/4178"
-    },
-    {
-      "title": "Layout4124",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4124"
     }
   ],
   "source": "Published projection of the original task report",
