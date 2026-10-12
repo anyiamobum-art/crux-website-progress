@@ -2,17 +2,17 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The cart review and merge are complete. One combined assembly regression is executing on the remote worker. The desk retains the single read-only monolith audit; no additional audit or old-draft builder was started.",
+  "workerState": "Combined assembly regression complete: 530 passed, no failures or skips. The first small residual change is in remote validation. The original audit is collected; no duplicate audit is running from this task.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Search, account, checkout and cart are merged and integrated. Buyer-trust backend remains in its original release sequence; the desk is identifying any true historical residual."
+      "evidence": "Search, account, checkout and cart are merged and integrated. Historical #3789 is closed as superseded. Remaining #4057 scope is typography binding, Grid/Focus wiring, companion integration and WhatsApp styling."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Cart: 91 behavior cases, six test entry points and 16 causal checks passed. Combined current-source website suite is running remotely; no final result claimed yet."
+      "evidence": "The combined current-source website suite passed all 530 cases, with zero failures or skips. Separate final browser and Shopify draft acceptance remain outstanding."
     },
     {
       "stage": "Review",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T05:42:59.000708+00:00 — cart #4233 merged as 681f9388 and all four reviewed files verified in assembly 9c7a3d5f59. Combined regression launched once.",
+  "lastActualProgress": "2026-10-12T05:46:14.259119+00:00 — 530-case current assembly pass; superseded #3789 closed with evidence; first missing-source slice prepared.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -100,9 +100,9 @@
     ],
     [
       "7. Final assembly regression",
-      "Running — current source on remote worker",
-      "Assembly 9c7a3d5f59 includes accepted search, account, checkout and cart. The combined website suite is running once; the previous 518-case pass remains historical.",
-      "Collect the result and resolve any actual integration failure; incorporate remaining original backend dependencies before final acceptance."
+      "Behavior passed — final browser acceptance pending",
+      "Current combined assembly 9c7a3d5f59 passed all 530 tests with no failures or skips on the remote worker.",
+      "Complete remaining source and backend integration, then verify the full browser journey on the exact final source."
     ],
     [
       "8. Final three-model ratings",
@@ -129,10 +129,10 @@
     "[Checkout #4202](https://github.com/EON-CRUX/3.09/pull/4202) merged04:53:12UTC asac169c9d after accepted original critical review. All24files match approved source, merge and captured main; integrated in final374e8eaa0b. This is source integration, not schema activation or live acceptance.",
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
-  "remaining": "The original audit and buyer-trust release sequence remain unfinished. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The cart repair has passed its original named-fix review, merged and been integrated byte-for-byte. The combined current-source website regression is running remotely. The desk’s single audit is identifying any remaining work in the two historical changes.",
-  "next": "Collect the running regression and the desk’s exact remaining-scope list, complete the small outstanding changes, then rate and verify the finished unpublished Shopify draft.",
-  "updated": "2026-10-12T05:42:59.000708+00:00",
+  "remaining": "The remaining small source changes and buyer-trust release sequence need review. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
+  "current": "The cart is merged and integrated, and the combined assembly passed 530 tests. The audit found four small remaining changes; the first repairs a missing stylesheet while keeping Archivo as the body font.",
+  "next": "Finish and review the four remaining typography, Grid/Focus, companion and WhatsApp changes, then complete same-source ratings and verify the unpublished Shopify draft.",
+  "updated": "2026-10-12T05:46:14.259119+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
