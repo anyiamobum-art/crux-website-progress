@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus author received the exact-source packet once in messages 75/76 and is responding. The prior blanket chair-access wait no longer applies to search/cart. Existing assembly 43fb2548a4 has 518/518 passing tests; the new fixes are not yet collected or verified.",
+  "workerState": "Opus messages 75/76 were executing; result is now unobserved because original chat access changed. No duplicate request or replacement author was started. Existing assembly 43fb2548a4 has 518/518 passing tests; new repairs remain uncollected and independently unverified.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T02:00:31.630776+00:00 — delivered both original review findings and immutable source to the original author; verified the new account size admission.",
+  "lastActualProgress": "2026-10-12T02:06:07.905595+00:00 — verified search before/after claim and cart test work at the original author; preserved the request after Chrome access changed; escalated the exact prerequisite and remaining chair decisions.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -127,10 +127,10 @@
     "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193 and #4197 entered Ready on unchanged heads; #4198 subsequently received the narrow CI repair d87206d7, preserving its runtime bytes.",
     "[Search integration #4201](https://github.com/EON-CRUX/3.09/pull/4201) is Draft at05e468cb4b after current-main integration; all six original files are preserved. All25 remote cases and7/7 selected causal checks pass. Actual prior Chrome query/page/sort and pending-answer invalidation proof is retained. No final review or live mount claimed."
   ],
-  "remaining": "Search must bind sale labels to the linked variant. Cart must handle a confirmed add while a product modal is open without falsely blocking the next add. Account #4229 awaits Ready placement after its new size admission; checkout #4202 remains with its original atlas-repair owner. Backend activation, approved privacy configuration and signed-in Shopify acceptance remain pending.",
-  "current": "The chair released search #4201 and cart #4233 into review. Their first reviews each found one concrete issue; both named repairs are running with the original Opus 5.5 High author. Account #4229 now has the chair’s exact-source size admission.",
-  "next": "Verify the returned search and cart regressions, push each bounded correction once, consume account/checkout decisions, then finish the same-source three-model assessment and gated Shopify release.",
-  "updated": "2026-10-12T02:00:31.630776+00:00",
+  "remaining": "Original Opus conversation redirects to a new chat under the current Chrome account; the owning account must be restored to collect the in-flight result. Account #4229 has chair size admission and awaits Ready placement. Checkout #4202’s original one-page correction is pushed and awaits its chair size/hold action. CS resource/queue, approved privacy configuration and signed-in Shopify acceptance remain pending.",
+  "current": "Search and cart received their first review findings. The original Opus author reproduced the search defect, reported passing fixes, and began the actual quick-view cart regression. Chrome account access changed before artifacts could be collected.",
+  "next": "Recover the same original author result without resending; independently verify both named fixes and push once each. Consume the chair’s account and checkout release decisions, then complete the final website ratings and Shopify acceptance.",
+  "updated": "2026-10-12T02:06:07.905595+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
