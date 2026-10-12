@@ -1,6 +1,6 @@
 # CRUX website progress
 
-Public presentation of the original CRUX website delivery report. Final website ratings, source approval and Shopify publication are separate milestones.
+Public presentation of the original CRUX website delivery report. Final website ratings, source approval and a verified unpublished Shopify draft are separate milestones. Live publication is reserved for the owner when the collection is ready.
 
 ## Update custody
 

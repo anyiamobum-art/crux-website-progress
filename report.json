@@ -1,38 +1,28 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Get the same finished CRUX website independently rated at least 9.5 by Fable 5.1, Astra 6 and Opus 5.5, merge the approved assembly, publish it to Shopify and verify the live experience.",
-  "workerState": "Original Opus repair has been collected with all source hashes verified. Its remote regression job is running. CS #4195 repair d20dde1670 is pushed for its original review; #4205 and #4206 retain their parent dependencies.",
+  "outcome": "Complete and test the CRUX website as an unpublished Shopify draft theme, independently rated at least 9.5 by Fable 5.1, Astra 6 and Opus 5.5, with its approved source merged. You decide when to publish it once the collection is ready.",
+  "workerState": "Cart correction 2708f05425 is pushed once after completed remote proof. Original review admission needs the chair’s size disposition. CS #4195 repair d20dde1670 is in review; #4205 and #4206 retain their parent dependencies.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Search, account and checkout source are merged and integrated; cart correction is collected and under validation; buyer-trust backend remains in its original release sequence."
+      "evidence": "Search, account and checkout source are merged and integrated; cart correction is verified and pushed for its original review; buyer-trust backend remains in its original release sequence."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Current cart repair: 91 behavior cases and three test wrappers passed; causal checks are running. Search: 27 behavior cases and four causal checks passed. Prior complete candidate: 518 passes; not transferred to the new assembly."
+      "evidence": "Current cart repair: 91 behavior cases, six test entry points and all 16 causal checks passed. Search: 27 behavior cases and four causal checks passed. Prior complete candidate: 518 passes; not transferred to the new assembly."
     },
     {
       "stage": "Review",
       "state": "Unknown",
       "evidence": "Search and checkout have accepted original reviews and are merged. Cart requires its final named-fix check. Buyer trust remains in review. Final finished-source model ratings: none verified."
-    },
-    {
-      "stage": "Deployed",
-      "state": "Unknown",
-      "evidence": "The last recorded Shopify target was unpublished. Required approved finished-source publication remains outstanding."
-    },
-    {
-      "stage": "Live verified",
-      "state": "Pending",
-      "evidence": "Signed-in customer journey, served finished source and required mobile proof remain outstanding."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T05:03:47.286904+00:00 — original cart repair collected; 91 behavior cases and three test wrappers pass remotely. Regression fault checks continue. The public view now separates release-task completion from launch milestones.",
-  "milestone": "Launch milestones · 0 of 3 verified",
+  "lastActualProgress": "2026-10-12T05:12:30.203693+00:00 — cart repair 2708f05425 pushed after 91 behavior cases and 16 causal checks passed. Owner changed the finish line to a completed Shopify draft; live publication is reserved for the owner.",
+  "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
     {
@@ -68,7 +58,7 @@
     },
     {
       "complete": false,
-      "title": "That approved assembly is published to Shopify and its live result verified."
+      "title": "That approved assembly is installed in an unpublished Shopify draft, its preview and shopping journeys are verified, and its draft link is handed over. Publication stays with the owner."
     }
   ],
   "work": [
@@ -87,14 +77,14 @@
     [
       "3. Checkout custody component",
       "Complete — merged and integrated",
-      "#4202 original critical review accepted on 4516301; merged as ac169c9d at 04:53 UTC. All 24 reviewed files match.",
-      "Original service owner verifies schema activation and deployed behavior for live acceptance."
+      "#4202 merged as ac169c9d; all 24 reviewed files match. Original service owner supplied successful backend deployment and served-source receipts.",
+      "Connected checkout execution and customer acceptance remain with the original service owner; deployment alone is not finished storefront proof."
     ],
     [
       "4. Cart recovery repair",
-      "In progress — independent validation",
-      "#4233 original Opus named correction is collected with verified hashes. All 91 behavior cases and three test wrappers pass on the remote worker. Additional regression checks are running.",
-      "Complete regression proof, push once and obtain the named-fix-only review before merge."
+      "In review — chair size decision required",
+      "#4233 original Opus named correction is pushed as 2708f05425. All 91 behavior cases, six test entry points and 16 causal checks pass remotely.",
+      "Chair resolves the 1,235-line admission scope, then the original named-fix-only review and merge proceed."
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
@@ -127,10 +117,10 @@
       "Open the chair-authorized final assembly change, satisfy required reviews/checks and merge."
     ],
     [
-      "10. Shopify publication and live acceptance",
+      "10. Completed Shopify draft and handover",
       "Pending",
-      "No finished-source Shopify launch is verified. Local previews and the public task site do not count as the storefront release.",
-      "Publish the approved theme and verify signed-in shopping, cart, checkout, mobile Safari and live source."
+      "The finished approved assembly has not yet been verified in an unpublished Shopify theme. A local preview does not complete this step.",
+      "Upload the approved assembly to the draft, verify its preview and shopping journeys, and hand over the draft link. The owner decides publication when the collection is ready."
     ]
   ],
   "completed": [
@@ -139,10 +129,10 @@
     "[Account feedback #4229](https://github.com/EON-CRUX/3.09/pull/4229) merged02:39:20UTC as3959766e. All13 files match the approved head, merged commit and captured main. Final local assemblyb26d3b56 integrates that main; its storefront/test tree is unchanged from the518/518 passing candidate. This is source integration, not a finished website rating or Shopify publication.",
     "Final assembly candidatebcd2ae4c adds only test-gate wiring for the original buyer-notes mount. All9 original cases and3 causal checks pass on the remote worker. Runtime is unchanged; this local candidate is not pushed, independently accepted or live."
   ],
-  "remaining": "Cart review and buyer-trust release are unfinished. Assistant activation needs verified processor/account privacy facts and an accurate public policy. Final same-source ratings and signed-in live acceptance remain pending.",
-  "current": "Search, account feedback and checkout are merged and integrated. The original Opus cart repair is collected and passes 91 behavior tests; additional regression checks are running. Buyer-trust backend #4195 has a repaired head in its original review lane.",
-  "next": "Finish validating the cart repair, submit its named-fix-only review, and consume the original buyer-trust release sequence. Then test and rate one exact final website assembly before Shopify publication.",
-  "updated": "2026-10-12T05:03:47.286904+00:00",
+  "remaining": "Cart review and buyer-trust integration are unfinished. Assistant activation needs verified processor/account privacy facts and accurate notice. Final same-source ratings and Shopify draft acceptance remain pending.",
+  "current": "Search, account feedback and checkout are merged and integrated. The cart repair passes 91 behavior cases and all 16 causal checks; it is pushed for its original named-fix review, with the chair’s exact-source size decision required. Buyer-trust backend #4195 remains in its original review lane.",
+  "next": "Obtain the chair’s cart review-size decision, complete the original component reviews, then test and rate one exact finished assembly and verify it in an unpublished Shopify draft.",
+  "updated": "2026-10-12T05:12:30.203693+00:00",
   "links": [
     {
       "title": "Checkout #4202",
