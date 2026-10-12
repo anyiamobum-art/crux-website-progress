@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original review jobs for #4251 and #4252 are active or queued. The companion proof job is retained without duplicate dispatch. The previous combined assembly passed 530 tests.",
+  "workerState": "Original review/check jobs are active or queued. The companion’s original remote job waits behind another owner’s genuine test run; it has not been duplicated. Final quality scores remain pending.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T06:44:01.368806+00:00 — Grid/Focus #4252 entered review; companion source and four integration cases committed; WhatsApp glyph-only change committed.",
+  "lastActualProgress": "2026-10-12T07:03:00.915299+00:00 — Cart timing repair #4257 passes all 28 original cases. Companion dismissal race reproduced and repaired; five integration cases and three causal checks pass. Typography’s named guard repair passes nine tests and three causal checks.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -88,9 +88,9 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "Backend merged — dependent source continues",
-      "Original CS owner reports #4195 merged at 06:28:51 UTC after its original named-fix approval. The endpoint and recommendation changes remain with that owner for main integration and review. Renderer and PDP mount have retained tests.",
-      "Verify the original endpoint deployment receipt and consented exact-product reviews after the dependent changes land."
+      "Backend merged and deployed — endpoints continue",
+      "Original CS independently verified #4195 commit c7f6df55 deployed successfully at 06:30:58 UTC. Its endpoint #4205 and flow #4206 remain with the same owner, queued for proof and review.",
+      "Verify endpoint/caller deployment and consented exact-product reviews after the dependent changes land. Signed-in consumption is unverified."
     ],
     [
       "6. Assistant privacy facts",
@@ -130,9 +130,9 @@
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
   "remaining": "The remaining small source changes and buyer-trust release sequence need review. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The typography repair #4251 and Grid/Focus wiring #4252 are in review. The companion is rebuilt on current main and its remote proof is running. The WhatsApp glyph change is prepared.",
-  "next": "Finish companion behavior and visual checks, submit the two remaining small changes, and integrate accepted source toward the tested Shopify draft.",
-  "updated": "2026-10-12T06:44:01.368806+00:00",
+  "current": "The typography review finding is fixed and returning to its original reviewer. Grid/Focus #4252, the green WhatsApp glyph #4255 and cart-test repair #4257 are in review. The rebuilt companion passed five focused behavior cases and phone/desktop layout checks; its broader remote proof is queued.",
+  "next": "Finish the companion’s queued checks, submit its source, and integrate accepted components toward the tested Shopify draft.",
+  "updated": "2026-10-12T07:03:00.915299+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
