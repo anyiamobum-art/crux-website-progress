@@ -1,45 +1,45 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Original Opus is executing the scoped cart repair in Chrome. Search #4201 and account feedback #4229 are merged and integrated. Checkout’s original critical review is running; its approval is not yet accepted.",
+  "outcome": "Get the same finished CRUX website independently rated at least 9.5 by Fable 5.1, Astra 6 and Opus 5.5, merge the approved assembly, publish it to Shopify and verify the live experience.",
+  "workerState": "Original Opus is executing the cart correction in Chrome. Checkout review was accepted and #4202 merged. CS #4195 is Ready with admission passed; #4205 and #4206 retain their parent dependencies.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Original 139/139 files prepared. Ready host integration and original checkout recovery are being built while the debate continues; exact approved final assembly remains unbound."
+      "evidence": "Search, account and checkout source are merged and integrated; cart correction is running; buyer-trust backend remains in its original release sequence."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Shared loader repair4192 is merged. Campaign named-fix head passes11Node/2causal; controller4197 passes16Node/8causal; panel4199 passes12DOM/8causal plus actual dialog proof; buyer-note renderer passes11DOM/5causal. Native context4200 passes14DOM/Liquid and4causal checks; search child4201 now passes13 cases with14 retained context cases and4 search causal checks; actual native control/panel and search invalidation proof passes. Layout4124 passed its final named-fix review and merged. Draft hosted gates are not test execution."
+      "evidence": "Previous cart head: 85 behavior cases, seven causal checks and hosted gates passed. Search: 27 behavior cases and four causal checks passed. Prior complete candidate: 518 passes; not transferred to the new assembly."
     },
     {
       "stage": "Review",
-      "state": "Pending",
-      "evidence": "Campaign #4177 passed its R3 named-fix check and merged as 151d3f4e. Settings #4178 merged at 12:06:20 UTC as f36551be. Stores #4189 passed its named-fix review and merged12:46:48UTC as862851e4; all11 files match reviewed source and main. Host4193 merged17:00:52UTC as978805b0, with all5 reviewed files matching; controller4197 merged16:42:07UTC as6f4b0de461, with9/9 source files verified; buyer-note4198 passed both exact-head reads on d87206d7 and merged15:45:39UTC as843399eca9; child-panel4199 and native-context4200 are merged; layout4124 is merged. Search4201 named repair4925162b4f is collected, independently validated and pushed once;27 behavior cases and4/4 search causal checks pass. Original FIRST round 2 review approved the exact search head at 04:11:59 UTC; hosted checks and merge remain pending. Final three-model acceptance remains 0/3."
+      "state": "Unknown",
+      "evidence": "Search and checkout have accepted original reviews and are merged. Cart requires its final named-fix check. Buyer trust remains in review. Final finished-source model ratings: none verified."
     },
     {
       "stage": "Deployed",
-      "state": "Pending",
-      "evidence": "Shopify target remains UNPUBLISHED; EON read at11 Oct08:29UTC confirms current theme roles. Capability exploration is read-only. Public task-page publication is a separate completed presentation action."
+      "state": "Unknown",
+      "evidence": "The last recorded Shopify target was unpublished. Required approved finished-source publication remains outstanding."
     },
     {
       "stage": "Live verified",
       "state": "Pending",
-      "evidence": "No finished-source Shopify live acceptance is recorded."
+      "evidence": "Signed-in customer journey, served finished source and required mobile proof remain outstanding."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T04:47:40.468633+00:00 — search’s six files verified against approved merge and integrated as 886a5b6bdc; original Opus cart repair acknowledged and running.",
+  "lastActualProgress": "2026-10-12T04:55:39.321991+00:00 — all 24 checkout files matched the approved merge and were integrated into final assembly 374e8eaa0b; search’s six files and account feedback’s 13 files are already verified.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
     {
-      "scope": "Original source preparation",
-      "completed": 139,
-      "total": 139,
-      "percent": 100.0,
+      "scope": "Release work checklist",
+      "completed": 3,
+      "total": 10,
+      "percent": 30.0,
       "basis": "Explicit scoped checklist; not overall effort"
     },
     {
@@ -73,96 +73,108 @@
   ],
   "work": [
     [
-      "Agentic website debate & cross-sell",
-      "Build and debate in parallel",
-      "Second plan scores: Fable 5.1: 9.0; Astra 6: 9.0; Opus 5.5: 8.9. Named fixes remain; host implementation has begun.",
-      "Build and test ready components with Opus 5.5 while closing the named findings. Obtain independent same-source finished ratings of 9.5 or higher."
+      "1. Search component",
+      "Complete — merged and integrated",
+      "#4201 merged as 392474cd at 04:38 UTC. All six reviewed files match. 27 behavior cases and four causal checks passed.",
+      "Included in final assembly; final website acceptance remains separate."
     ],
     [
-      "Original source release",
-      "Review continues",
-      "Home4103, typography4151 and shopping-tools4154 merged. Search/help4183 merged. Product runtime4155 and customer/team4186 merged; shopper context4182 has passed both readers and merged. Store-finder4189 is published with retained proof. Layout4124 merged11:10:52UTC asb174a3eb; all11 owned files match reviewed source, merge and main.",
-      "Campaign #4177 merged at 11:17:43 UTC; settings #4178 merged at 12:06:20 UTC. Stores #4189 merged at 12:46:48 UTC as 862851e4; all 11 files match approved source and main."
+      "2. Account feedback component",
+      "Complete — merged and integrated",
+      "#4229 merged as 3959766e. All 13 reviewed files match. 36 behavior cases and seven causal checks passed.",
+      "Included in final assembly; final website acceptance remains separate."
     ],
     [
-      "Buyer trust & WhatsApp reviews",
-      "Account #4229 merged; CS self-reviews complete",
-      "Original CS PR4195 owns consented exact-product projection and migration958. Opus renderer is collected, with backend-compatible rating rounding; 11 real DOM cases and five causal checks pass. Actual phone correction is complete and verified; PR4198 passed both original code readers and merged as843399eca9; all9 files match approved head, merge and captured main. Corrected consent passes20 independent DOM cases plus phone/desktop, care-retry and reduced-motion browser checks; the original Opus account-host and login-return correction are complete;all nine original files were recovered. Independent proof found34/35 passing; original Opus corrected the single omitted leading newline. All35 original cases plus the new hostile-text case pass:36/36, with7/7 causal checks. Original Opus correction is collected and independently verified. Dependent endpoint Draft #4205 retains19 real HTTP/database cases and8 causal checks; PDP mount is complete, with9/9 independently passing cases and380/430/1280 browser proof. Neither is live.",
-      "Consume the original review sequence and CS endpoint contract, then mount only the approved public projection."
+      "3. Checkout custody component",
+      "Complete — merged and integrated",
+      "#4202 original critical review accepted on 4516301; merged as ac169c9d at 04:53 UTC. All 24 reviewed files match.",
+      "Original service owner verifies schema activation and deployed behavior for live acceptance."
     ],
     [
-      "Assistant privacy notice",
-      "Built and tested; final review pending",
-      "Original Opus correction is hash-verified in candidate43fb2548a4. Complete518/518 behavior tests pass; 380/430/1280 static layout evidence saved. Bad policy URL forms are refused.",
-      "Live policy HTTP200 verified12 Oct04:10UTC; its text has no assistant/AI processing disclosure. Source-bound data flow sent to chair for actual processor/account facts and accurate policy before activation; final independent assessment pending."
+      "4. Cart recovery repair",
+      "In progress — original author",
+      "#4233 round 2 found one confirmed-add interruption issue. Prior head passed 85 behavior cases, seven causal checks and hosted tests. Opus is producing the named correction.",
+      "Collect source, independently validate, push once and obtain the named-fix-only review before merge."
     ],
     [
-      "Assistant panel",
-      "Merged",
-      "Parent4197 merged. Named workflow repair at a91d603765 preserves runtime source and passes29 remote cases plus8causal checks. Actual Liquid-host phone/desktop behavior retained.",
-      "Merged18:43:00UTC ase019708536;6/6 reviewed source files match. Final assembly and signed-in Shopify acceptance remain."
+      "5. Buyer trust and WhatsApp reviews",
+      "In review — backend first",
+      "#4195 is Ready; fresh admission passed. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
+      "Original owners complete review, merge and endpoint activation; verify consented exact-product reviews."
     ],
     [
-      "Native product/context adapter",
-      "Merged #4200",
-      "Original Opus correction preserves native language, exact variant quantity constraints and local source/account invalidation;14DOM/Liquid and4causal cases pass.",
-      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Merged19:29:44UTC as8cd03b6e; all5 reviewed/merged/main files match. Signed-in acceptance remains. Search child #4201 merged 04:38:32 UTC as 392474cd; all six approved files match and are integrated into final assembly 886a5b6bdc. Its 27 behavior cases and four causal checks passed remotely."
+      "6. Assistant privacy facts",
+      "Pending original custodian",
+      "Notice code is built and tested. Public policy and actual processor retention/training facts are not yet approved for activation.",
+      "Original chair/service custodian supplies verified facts; keep assistant activation guarded until the notice is accurate."
     ],
     [
-      "Shopify functions and integrations",
-      "Owner usage reconciled",
-      "Zoko is not used and is excluded. Flow and size-chart app usage are unconfirmed. Existing Search & Discovery and PDP surfaces are being assessed against exact product data.",
-      "Use actual WhatsApp and verified Studio/product sizing sources; inspect existing Shopify configuration."
+      "7. Final assembly regression",
+      "Pending latest cart and backend integration",
+      "Current local assembly 374e8eaa0b includes approved search, account and checkout. The 518-case pass belongs to an older candidate and is retained as historical evidence.",
+      "Integrate the accepted cart correction and required components, then run the complete current-source tests and browser journey."
     ],
     [
-      "Native finish and acceptance",
-      "Assembly tests passed",
-      "Native65d45ab20b passed374 remote tests. Buyer-note integration is now candidatead776f21; its nine focused cases and394 candidate checks passed (383 remote plus11 single-file layout checks). Main is integrated and the original account-feedback source is preserved, plus its author’s one-byte correction at72dc4e17a3. Focused account proof now has36 behavior passes and7/7 causal checks. Native assistant integration adds9 passing cases and4/4 causal checks at6b1f5ccc28. Prior394 checks remain historical candidate evidence.",
-      "Integrate reviewed agentic components and backend contracts, then prepare the authorized final assembly with exact-source acceptance."
+      "8. Final three-model ratings",
+      "Pending — no final scores",
+      "Fable 5.1, Astra 6 and Opus 5.5 must each independently rate the same finished source at least 9.5. Earlier plan scores do not transfer.",
+      "Submit the complete source and rendered evidence through the original authorized review routes."
+    ],
+    [
+      "9. Complete website assembly merge",
+      "Pending final approval",
+      "Individual components have merged. The complete finished website assembly is not yet independently accepted or merged.",
+      "Open the chair-authorized final assembly change, satisfy required reviews/checks and merge."
+    ],
+    [
+      "10. Shopify publication and live acceptance",
+      "Pending",
+      "No finished-source Shopify launch is verified. Local previews and the public task site do not count as the storefront release.",
+      "Publish the approved theme and verify signed-in shopping, cart, checkout, mobile Safari and live source."
     ]
   ],
   "completed": [
+    "[Checkout #4202](https://github.com/EON-CRUX/3.09/pull/4202) merged04:53:12UTC asac169c9d after accepted original critical review. All24files match approved source, merge and captured main; integrated in final374e8eaa0b. This is source integration, not schema activation or live acceptance.",
+    "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass.",
     "[Account feedback #4229](https://github.com/EON-CRUX/3.09/pull/4229) merged02:39:20UTC as3959766e. All13 files match the approved head, merged commit and captured main. Final local assemblyb26d3b56 integrates that main; its storefront/test tree is unchanged from the518/518 passing candidate. This is source integration, not a finished website rating or Shopify publication.",
-    "Final assembly candidatebcd2ae4c adds only test-gate wiring for the original buyer-notes mount. All9 original cases and3 causal checks pass on the remote worker. Runtime is unchanged; this local candidate is not pushed, independently accepted or live.",
-    "[Shopper-custody repair ruling](https://github.com/EON-CRUX/3.09/pull/4202#issuecomment-6112683976) authorizes the original builder’s one focused test repair; that historical hold was subsequently lifted. Critical review output is now complete but unaccepted by the trusted runner. The earlier wait for that decision is obsolete and was routed to the existing coordinator at22:14UTC.",
-    "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193 and #4197 entered Ready on unchanged heads; #4198 subsequently received the narrow CI repair d87206d7, preserving its runtime bytes."
+    "Final assembly candidatebcd2ae4c adds only test-gate wiring for the original buyer-notes mount. All9 original cases and3 causal checks pass on the remote worker. Runtime is unchanged; this local candidate is not pushed, independently accepted or live."
   ],
-  "remaining": "No browser/account action is needed for the recovered Opus work. Checkout awaits trusted critical-review acceptance; CS awaits its original release sequence. The assistant’s actual processor/account facts and an accurate public policy must be resolved before activation. Signed-in Shopify acceptance remains pending.",
-  "current": "Search #4201 is merged and its six approved files are integrated into the final assembly. Original Opus 5.5 High is repairing the cart’s one remaining review finding: a confirmed add must not become a false warning after navigation or interruption.",
-  "next": "Collect and validate the original cart repair, then submit its final named-fix review. Consume the existing checkout and CS release sequence before final three-model ratings and Shopify acceptance.",
-  "updated": "2026-10-12T04:47:40.468633+00:00",
+  "remaining": "Cart review and buyer-trust release are unfinished. Assistant activation needs verified processor/account privacy facts and an accurate public policy. Final same-source ratings and signed-in live acceptance remain pending.",
+  "current": "Search, account feedback and checkout are merged and integrated. Original Opus 5.5 High is finishing the cart’s remaining named repair; buyer-trust backend #4195 has entered review.",
+  "next": "Collect and independently validate the cart repair, submit its named-fix-only review, and consume the original buyer-trust release sequence. Then test and rate one exact final website assembly before Shopify publication.",
+  "updated": "2026-10-12T04:55:39.321991+00:00",
   "links": [
     {
-      "title": "Shopper connection #4193",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4193"
-    },
-    {
-      "title": "Chair scope approved",
-      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6112704785"
-    },
-    {
-      "title": "Merged #4229",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4229"
-    },
-    {
-      "title": "Exact-head size admission",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4229#issuecomment-6116407179"
-    },
-    {
-      "title": "Resolved CI delay",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4222#issuecomment-6112358787"
-    },
-    {
-      "title": "First panel approval",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4199#issuecomment-6112381900"
-    },
-    {
-      "title": "Cart recovery #4233",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4233"
+      "title": "Checkout #4202",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4202"
     },
     {
       "title": "Search #4201",
       "path": "https://github.com/EON-CRUX/3.09/pull/4201"
+    },
+    {
+      "title": "Account feedback #4229",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4229"
+    },
+    {
+      "title": "Database desk correction",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112"
+    },
+    {
+      "title": "Store finder #4189",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4189"
+    },
+    {
+      "title": "Campaign #4177",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4177"
+    },
+    {
+      "title": "Settings #4178",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4178"
+    },
+    {
+      "title": "Layout4124",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4124"
     }
   ],
   "source": "Published projection of the original task report",
