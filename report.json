@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The companion repair is pushed at 1524e83c and integrated into candidate 1413ca2c. The chair admitted that exact revision at 09:11 UTC; its admission re-run is executing before the original final fix check. Grid/Focus has two test shards passed, one running and two queued. Final ratings remain pending.",
+  "workerState": "The companion repair is pushed at 1524e83c and integrated into candidate 1413ca2c. The chair admitted that exact revision at 09:11 UTC and the admission re-run passed. The original final fix-check verdict remains pending. Grid/Focus has two test shards passed, one running and two queued. Final ratings remain pending.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Typography #4251, WhatsApp glyph #4255 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 retains its original approval. Companion #4259 has both second-review findings repaired in one push at 1524e83c. Remote and Chrome proof passed. Renewed exact-source size admission was granted at 09:11 UTC; its re-run is executing. Original R3 checks the named fixes only."
+      "evidence": "Typography #4251, WhatsApp glyph #4255 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 retains its original approval. Companion #4259 has both second-review findings repaired in one push at 1524e83c. Remote and Chrome proof passed. Renewed exact-source size admission was granted at 09:11 UTC and its re-run passed. Original R3 checks the named fixes only."
     },
     {
       "stage": "Tests",
@@ -132,7 +132,7 @@
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
   "current": "Reference typography #4251 and the WhatsApp glyph #4255 are merged and integrated, preserving Archivo body text and the CRUX button colours. The companion’s two second-review findings are repaired and pushed together for its final named-fix check. All 12 integration cases, 26 original cases and 13 fault-detection checks passed; Chrome confirmed paused reopen and the native WhatsApp link. Phone-width keyboard, filter focus-return and reduced-motion checks passed on the combined theme.",
   "next": "Collect the companion’s original final named-fix review and the collection’s tests, then merge both, close the superseded monolith with its audit, and review the complete assembly for Shopify draft delivery.",
-  "updated": "2026-10-12T09:13:01.011284+00:00",
+  "updated": "2026-10-12T09:14:13.848167+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
