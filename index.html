@@ -30,7 +30,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original website owner is correcting the self-review findings. Remote regression passed; the final ratings, assembly merge and Shopify upload have not happened.",
+  "workerState": "The original website owner is preparing final review. The final ratings, complete assembly merge and Shopify draft upload have not happened.",
   "journey": [
     {
       "stage": "Build",
@@ -40,7 +40,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Remote proof is bound to ebd677e9. Self-review coverage corrections are underway; final rating and Shopify draft acceptance remain separate."
+      "evidence": "546 behaviour + 13 integration checks on the parent; two affected entrypoints and 11 causal checks on 8e48cf02. Source hashes bind the unchanged theme and the correction."
     },
     {
       "stage": "Review",
@@ -49,15 +49,15 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T11:38:00.925298+00:00 — Complete remote assembly test run passed: 546 Node cases and 13 Python checks. The builder self-review completed and its findings are being resolved.",
+  "lastActualProgress": "2026-10-12T11:55:54.337510+00:00 — Exact source 8e48cf02 passed the two affected Python entrypoints and all 11 causal checks remotely; the full parent assembly passed 546 Node cases and 13 Python checks.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
     {
       "scope": "Release work checklist",
-      "completed": 4,
+      "completed": 5,
       "total": 10,
-      "percent": 40.0,
+      "percent": 50.0,
       "basis": "Explicit scoped checklist; not overall effort"
     },
     {
@@ -128,9 +128,9 @@
     ],
     [
       "7. Final assembly regression",
-      "546 + 13 passed — self-review corrections in progress",
-      "Complete remote regression passed on ebd677e9. Self-review found two stale causal-test mutations, a weak refusal assertion and missing badge-state coverage.",
-      "Resolve these coverage gaps, validate the correction and bind the evidence to the final review source."
+      "Complete — source-bound regression verified",
+      "Full parent assembly: 546 Node cases and 13 Python entrypoints. Committed correction 8e48cf02: both affected entrypoints and all 11 causal checks pass.",
+      "Included in the final source packet; independent approval remains separate."
     ],
     [
       "8. Final three-model ratings",
@@ -157,10 +157,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Final assembly review and ratings, signed-in buyer-trust deployment acceptance, and verified assistant privacy facts remain. The component merge wait is resolved.",
-  "current": "All five remaining component slices are merged and the superseded parent is closed with its branch kept. The final assembly passed 546 Node behaviour cases and 13 Python checks. Self-review found four test-coverage gaps to correct before final review.",
-  "next": "Repair the two stale causal-test mutations, strengthen refusal assertions and cover collection badge state changes. Finish the rendered phone check, then submit the exact final assembly for independent review and ratings.",
-  "updated": "2026-10-12T11:38:00.925298+00:00",
+  "remaining": "Final assembly review and ratings, signed-in buyer-trust acceptance, and verified assistant privacy facts remain. The component and regression waits are resolved.",
+  "current": "All five remaining component slices are merged and the superseded parent is closed. Final regression corrections passed on the committed assembly, including all 11 causal checks. Preparing the complete source for independent review.",
+  "next": "Submit the exact final assembly with its source-bound test and phone evidence, obtain the chair’s size admission, then collect the three independent finished-website ratings.",
+  "updated": "2026-10-12T11:55:54.337510+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
@@ -203,9 +203,9 @@
     "total": 3
   },
   "workProgress": {
-    "done": 4,
+    "done": 5,
     "total": 10,
-    "percent": 40
+    "percent": 50
   },
   "ratings": [
     {
