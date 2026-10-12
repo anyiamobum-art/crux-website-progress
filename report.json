@@ -2,17 +2,17 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Get the same finished CRUX website independently rated at least 9.5 by Fable 5.1, Astra 6 and Opus 5.5, merge the approved assembly, publish it to Shopify and verify the live experience.",
-  "workerState": "Original Opus is executing the cart correction in Chrome. Checkout review was accepted and #4202 merged. CS #4195 is Ready with admission passed; #4205 and #4206 retain their parent dependencies.",
+  "workerState": "Original Opus repair has been collected with all source hashes verified. Its remote regression job is running. CS #4195 repair d20dde1670 is pushed for its original review; #4205 and #4206 retain their parent dependencies.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Search, account and checkout source are merged and integrated; cart correction is running; buyer-trust backend remains in its original release sequence."
+      "evidence": "Search, account and checkout source are merged and integrated; cart correction is collected and under validation; buyer-trust backend remains in its original release sequence."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Previous cart head: 85 behavior cases, seven causal checks and hosted gates passed. Search: 27 behavior cases and four causal checks passed. Prior complete candidate: 518 passes; not transferred to the new assembly."
+      "evidence": "Current cart repair: 91 behavior cases and three test wrappers passed; causal checks are running. Search: 27 behavior cases and four causal checks passed. Prior complete candidate: 518 passes; not transferred to the new assembly."
     },
     {
       "stage": "Review",
@@ -31,8 +31,8 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T04:55:39.321991+00:00 — all 24 checkout files matched the approved merge and were integrated into final assembly 374e8eaa0b; search’s six files and account feedback’s 13 files are already verified.",
-  "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
+  "lastActualProgress": "2026-10-12T05:03:47.286904+00:00 — original cart repair collected; 91 behavior cases and three test wrappers pass remotely. Regression fault checks continue. The public view now separates release-task completion from launch milestones.",
+  "milestone": "Launch milestones · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
     {
@@ -92,14 +92,14 @@
     ],
     [
       "4. Cart recovery repair",
-      "In progress — original author",
-      "#4233 round 2 found one confirmed-add interruption issue. Prior head passed 85 behavior cases, seven causal checks and hosted tests. Opus is producing the named correction.",
-      "Collect source, independently validate, push once and obtain the named-fix-only review before merge."
+      "In progress — independent validation",
+      "#4233 original Opus named correction is collected with verified hashes. All 91 behavior cases and three test wrappers pass on the remote worker. Additional regression checks are running.",
+      "Complete regression proof, push once and obtain the named-fix-only review before merge."
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
       "In review — backend first",
-      "#4195 is Ready; fresh admission passed. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
+      "#4195 original owner pushed repair d20dde1670 for its original review. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
       "Original owners complete review, merge and endpoint activation; verify consented exact-product reviews."
     ],
     [
@@ -140,9 +140,9 @@
     "Final assembly candidatebcd2ae4c adds only test-gate wiring for the original buyer-notes mount. All9 original cases and3 causal checks pass on the remote worker. Runtime is unchanged; this local candidate is not pushed, independently accepted or live."
   ],
   "remaining": "Cart review and buyer-trust release are unfinished. Assistant activation needs verified processor/account privacy facts and an accurate public policy. Final same-source ratings and signed-in live acceptance remain pending.",
-  "current": "Search, account feedback and checkout are merged and integrated. Original Opus 5.5 High is finishing the cart’s remaining named repair; buyer-trust backend #4195 has entered review.",
-  "next": "Collect and independently validate the cart repair, submit its named-fix-only review, and consume the original buyer-trust release sequence. Then test and rate one exact final website assembly before Shopify publication.",
-  "updated": "2026-10-12T04:55:39.321991+00:00",
+  "current": "Search, account feedback and checkout are merged and integrated. The original Opus cart repair is collected and passes 91 behavior tests; additional regression checks are running. Buyer-trust backend #4195 has a repaired head in its original review lane.",
+  "next": "Finish validating the cart repair, submit its named-fix-only review, and consume the original buyer-trust release sequence. Then test and rate one exact final website assembly before Shopify publication.",
+  "updated": "2026-10-12T05:03:47.286904+00:00",
   "links": [
     {
       "title": "Checkout #4202",
@@ -183,6 +183,11 @@
   "releaseProgress": {
     "done": 0,
     "total": 3
+  },
+  "workProgress": {
+    "done": 3,
+    "total": 10,
+    "percent": 30
   },
   "ratings": [
     {
