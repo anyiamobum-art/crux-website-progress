@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Buyer notes’ original Opus 5.5 writer completed and its support custodian opened #4294. There is no duplicate build or review. Big Bag’s headless inspection could not render; the attended browser offer remains pending. Collection recovery is server-owned.",
+  "workerState": "Collection’s server request was verified pending at21:40:33UTC; reviewer execution is not yet proved. Buyer notes’ original writer completed and its support custodian opened #4294. Big Bag’s attended browser offer is pending. No duplicate build, review or browser driver is running.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T21:35:25Z — Closed the oversized assembly #4271 with all three replacement PRs, branch kept. Buyer notes #4294 is open with seven source files and sixteen proof artifacts verified; nine Node cases, fourteen Python cases and three causal checks passed remotely.",
+  "lastActualProgress": "2026-10-12T21:40:33Z — The server re-asked collection review on unchanged head9dbe45b3; the original owner verified the pending request at21:41:36Z. No final verdict or merge is claimed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     ],
     [
       "9. Complete website assembly merge",
-      "All three PRs open — reviews and merges pending",
-      "#4284 at 9dbe45b3 has green remote/hosted tests and admission; its original final named-fix verdict awaits server recovery. #4288 at b624e74a and #4294 at 500eebb6 are Draft with verified remote proof. #4271 is closed as superseded, branch kept.",
+      "Three PRs open — collection review request recovered",
+      "#4284 at9dbe45b3 has green tests/admission and a new server review request, with no final verdict yet. #4288 atb624e74a and #4294 at500eebb6 are Draft with verified remote proof. #4271 is closed as superseded, branch kept.",
       "Pass original reviews and merge C → A → B, then integrate Big Bag."
     ],
     [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Collection awaits server-owned review recovery; assistant and buyer notes await the keeper’s review slots. Big Bag needs the chair’s placement on the offered attended browser desk. Connected buyer verification and verified assistant privacy facts remain required.",
-  "current": "All three assembly PRs are open: collection #4284, assistant #4288 and buyer notes #4294. Buyer notes recovered, passed its remote proof and was opened once. The oversized #4271 is closed with the three replacement links and its branch retained.",
+  "remaining": "Collection’s new server request is pending its original final named-fix verdict. Assistant and buyer notes await the keeper’s review slots. Big Bag needs placement on the offered attended browser desk. Connected buyer verification and verified assistant privacy facts remain required.",
+  "current": "The server has recovered the collection review request on its exact repaired head. All three assembly PRs are open: #4284, #4288 and #4294. Buyer notes’ original build and proof are complete; the oversized #4271 is closed with all three replacement links.",
   "next": "Take the three splits through their original reviews and merge order. The existing browser desk has offered Big Bag capture; its exact state and interaction checklist is prepared, and the restored preview is reachable. Integrate Big Bag, then verify the unpublished Shopify draft and final three-model ratings.",
-  "updated": "2026-10-12T21:37:22.962394+00:00",
+  "updated": "2026-10-12T21:43:12.609750+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
