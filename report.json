@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The collection slice has a fresh continuation assigned under the existing owner, with the same Astra model and effort. Its first execution acknowledgement is pending. Assistant and buyer-notes slices wait for its dependency findings; no parallel writer was started.",
+  "workerState": "The collection continuation has accepted custody, prepared its isolated checkout and verified the same Astra model and effort on the supported build route. It is separating the shared hooks by behavior. Assistant and buyer-notes slices wait for that dependency receipt; no parallel writer was started.",
   "journey": [
     {
       "stage": "Build",
