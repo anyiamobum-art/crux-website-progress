@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Companion repair proof is complete and the single push is verified. Original component CI is queued or running. The companion’s 1,015-line review needs the chair’s requested size admission; no final website score is claimed.",
+  "workerState": "Typography is merged. Grid/Focus and the WhatsApp glyph are approved with hosted tests queued. The WhatsApp check was recovered from a cancelled shard without changing source or repeating passed shards. Companion review awaits the chair’s requested size admission; no final website score is claimed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Typography #4251, Grid/Focus #4252 and WhatsApp glyph #4255 have first approvals. Cart timing #4257 is merged. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source size admission and its second full review are pending."
+      "evidence": "Typography #4251 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 and WhatsApp glyph #4255 retain their original approvals. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source size admission and its second full review are pending."
     },
     {
       "stage": "Tests",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T08:21:32.926367+00:00 — Companion repair pushed as f90d0deb after three remote test entrypoints, ten integration cases, 26 original store/assistant cases and eleven causal checks passed. Integrated into combined source 85d01882.",
+  "lastActualProgress": "2026-10-12T08:31:03.686394+00:00 — #4251 merged as ecc73b35; all three approved files match main and assembly 0b4fdb46. All theme bytes match the browser-tested 85d01882 source. Keyboard switching, filter focus return and reduced motion passed at an actual 380 px width.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,16 +124,20 @@
     ]
   ],
   "completed": [
+    "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
+    "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
-    "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance.",
-    "[Checkout #4202](https://github.com/EON-CRUX/3.09/pull/4202) merged04:53:12UTC asac169c9d after accepted original critical review. All24files match approved source, merge and captured main; integrated in final374e8eaa0b. This is source integration, not schema activation or live acceptance.",
-    "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
+    "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The companion repair is built, remotely tested and pushed for its second full review. All five original findings and both chair-approved transition guards are included. The combined theme has been checked in Chrome at 380, 430 and 1280 px.",
+  "current": "The reference typography fix #4251 is merged and integrated, preserving Archivo for body text. The companion repair is pushed for its second full review. Phone-width keyboard, filter focus-return and reduced-motion checks passed on the combined theme.",
   "next": "Clear the exact-source review admission and remaining hosted tests, merge the component slices, then review and deliver the completed Shopify draft.",
-  "updated": "2026-10-12T08:21:32.926367+00:00",
+  "updated": "2026-10-12T08:31:03.686394+00:00",
   "links": [
+    {
+      "title": "Reference typography #4251",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4251"
+    },
     {
       "title": "Cart recovery #4233",
       "path": "https://github.com/EON-CRUX/3.09/pull/4233"
@@ -161,10 +165,6 @@
     {
       "title": "Account feedback #4229",
       "path": "https://github.com/EON-CRUX/3.09/pull/4229"
-    },
-    {
-      "title": "Database desk correction",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112"
     }
   ],
   "source": "Published projection of the original task report",
