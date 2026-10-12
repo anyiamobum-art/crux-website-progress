@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T19:23:33.394924+00:00 — Parallel support custody verified. Collection tests passed; assistant #4288 is published and buyer notes has one queued original job. Big Bag’s 14 source files and remote proof are verified, and its bounded rendered inspection is queued.",
+  "lastActualProgress": "2026-10-12T19:23:33.394924+00:00 — Parallel support custody verified. Collection tests passed; assistant #4288 is published and buyer notes has one queued original job. Big Bag’s 14 source files and remote proof are verified. Real product-photo references across all six categories are prepared; its bounded rendered inspection is queued.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -125,7 +125,7 @@
     [
       "11. Big Bag homeware experience",
       "Built and tested — visual review pending",
-      "Candidate a268732d: 14 files verified; 13 remote tests and 12 causal checks pass. Desktop navigation and mobile Collections entries are built. Preview product photos are labelled placeholders.",
+      "Candidate a268732d: 14 files verified; 13 remote tests and 12 causal checks pass. Desktop navigation and mobile Collections entries are built. Current rendered-preview photos are placeholders; a separate source-linked sample of 12 real items across all six categories is now prepared.",
       "Consume the queued rendered inspection, inspect real imagery and interactions, obtain Fable 5.1 and Opus 5.5 scores of at least 9.5 each, then merge into the draft."
     ]
   ],
@@ -138,7 +138,7 @@
   "remaining": "Assistant #4288 awaits a slot in the existing review queue. Buyer notes and Big Bag’s rendered inspection are queued at the existing worker limit. Browser controls are missing in this session; the chair authorized the original supported review route to inspect the rendered page. Buyer account verification and assistant privacy facts remain outstanding.",
   "current": "A support agent is following the assistant and buyer-notes assembly through their original review lanes while the website lead continues Big Bag. Collection split #4284 stays with its original owner; its latest hosted tests passed.",
   "next": "Merge the three reviewed assembly splits, prove their combined behavior, then integrate Big Bag. Big Bag’s rendered inspection is queued through the existing Opus route; real product imagery and original Fable 5.1 and Opus 5.5 design verdicts remain required.",
-  "updated": "2026-10-12T19:23:33.394924+00:00",
+  "updated": "2026-10-12T19:29:22.823209+00:00",
   "links": [
     {
       "title": "#4288",
