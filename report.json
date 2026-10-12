@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Support custody is acknowledged and its first checks are verified. The collection owner remains active. The buyer-notes build and Big Bag rendered inspection are queued; neither is being reported as executing. The website lead retains Big Bag, the task report and final draft integration.",
+  "workerState": "Support custody is acknowledged and its first checks are verified. The collection owner has received its named repair; acknowledgement and execution are tracked separately. The buyer-notes build and Big Bag rendered inspection are queued; neither is being reported as executing. The website lead retains Big Bag, the task report and final draft integration.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C’s repaired head passed hosted tests; independent review continues. A passed 16 remote cases and 13 causal checks; Big Bag passed 13 and 12 respectively. B awaits its original build result."
+      "evidence": "C’s prior head passed hosted tests; new proof will be required for its one named review correction. A passed 16 remote cases and 13 causal checks; Big Bag passed 13 and 12 respectively. B awaits its original build result."
     },
     {
       "stage": "Review",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T19:23:33.394924+00:00 — Parallel support custody verified. Collection tests passed; assistant #4288 is published and buyer notes has one queued original job. Big Bag’s 14 source files and remote proof are verified. Real product-photo references across all six categories are prepared; its bounded rendered inspection is queued.",
+  "lastActualProgress": "2026-10-12T19:33:13.972101+00:00 — Verified and routed collection #4284’s single second-review finding to its original builder. Support continues assistant and buyer-notes custody. Big Bag’s build and real product-photo references are prepared; its rendered inspection is queued.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     ],
     [
       "9. Complete website assembly merge",
-      "C tests passed; A published; B queued",
-      "#4284 carries its two named fixes at c64c3a61. #4288 at b624e74a is published with 16 remote tests and 13 causal checks passing. B has one original build job. Frozen #4271 consumed no review round.",
+      "C named repair due; A published; B queued",
+      "#4284 at c64c3a61 passed tests but its second review rejected one filtered-size sold-out badge state. Its original builder received the exact correction; the next review checks named fixes only. #4288 at b624e74a is published with 16 remote tests and 13 causal checks passing. B has one original build job. Frozen #4271 consumed no review round.",
       "Pass the original reviews, merge all three, prove the combined source, then integrate Big Bag."
     ],
     [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Assistant #4288 awaits a slot in the existing review queue. Buyer notes and Big Bag’s rendered inspection are queued at the existing worker limit. Browser controls are missing in this session; the chair authorized the original supported review route to inspect the rendered page. Buyer account verification and assistant privacy facts remain outstanding.",
-  "current": "A support agent is following the assistant and buyer-notes assembly through their original review lanes while the website lead continues Big Bag. Collection split #4284 stays with its original owner; its latest hosted tests passed.",
+  "remaining": "Collection #4284 needs its one named review correction. Assistant #4288 awaits a slot in the existing review queue. Buyer notes and Big Bag’s rendered inspection are queued at the existing worker limit. Browser controls are missing in this session; the chair authorized the original supported review route to inspect the rendered page. Buyer account verification and assistant privacy facts remain outstanding.",
+  "current": "A support agent is following the assistant and buyer-notes assembly through their original review lanes while the website lead continues Big Bag. Collection split #4284 stays with its original owner; its second review identified one sold-out-status correction, now routed back to that builder.",
   "next": "Merge the three reviewed assembly splits, prove their combined behavior, then integrate Big Bag. Big Bag’s rendered inspection is queued through the existing Opus route; real product imagery and original Fable 5.1 and Opus 5.5 design verdicts remain required.",
-  "updated": "2026-10-12T19:29:22.823209+00:00",
+  "updated": "2026-10-12T19:33:13.972101+00:00",
   "links": [
     {
       "title": "#4288",
