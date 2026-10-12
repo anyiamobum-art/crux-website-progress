@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4251 is Ready for its original review lane after two clean tests and two causal checks. Grid/Focus remote proof is running on the saved source. The combined prior assembly passed 530 tests.",
+  "workerState": "Original review jobs for #4251 and #4252 are active or queued. The companion proof job is retained without duplicate dispatch. The previous combined assembly passed 530 tests.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Search, account, checkout and cart are merged and integrated. Historical #3789 is closed as superseded. Remaining #4057 scope is typography binding, Grid/Focus wiring, companion integration and WhatsApp styling."
+      "evidence": "Search, account, checkout and cart are merged and integrated. Historical #3789 is closed as superseded. Typography #4251 and Grid/Focus #4252 are in review. The rebuilt companion preserves store invitations and the assistant; its proof is running. WhatsApp is a glyph-only color refinement."
     },
     {
       "stage": "Tests",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T06:27:19.656533+00:00 — S1 #4251 submitted and marked Ready; S2 source and behavioral wiring tests committed.",
+  "lastActualProgress": "2026-10-12T06:44:01.368806+00:00 — Grid/Focus #4252 entered review; companion source and four integration cases committed; WhatsApp glyph-only change committed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -88,9 +88,9 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "In review — backend first",
-      "#4195 original owner repaired 0358aa9c and obtained its original approval; merge was pending at the last verified read. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
-      "Original owners complete review, merge and endpoint activation; verify consented exact-product reviews."
+      "Backend merged — dependent source continues",
+      "Original CS owner reports #4195 merged at 06:28:51 UTC after its original named-fix approval. The endpoint and recommendation changes remain with that owner for main integration and review. Renderer and PDP mount have retained tests.",
+      "Verify the original endpoint deployment receipt and consented exact-product reviews after the dependent changes land."
     ],
     [
       "6. Assistant privacy facts",
@@ -130,9 +130,9 @@
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
   "remaining": "The remaining small source changes and buyer-trust release sequence need review. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The missing typography stylesheet is repaired in #4251 and is now in review. Archivo remains the body font. Grid/Focus wiring is built with the category links retained and is being tested.",
-  "next": "Complete collection wiring proof, rebuild the companion beside store invitations and the assistant, then refine the WhatsApp icon. Continue reviews toward the tested Shopify draft.",
-  "updated": "2026-10-12T06:27:19.656533+00:00",
+  "current": "The typography repair #4251 and Grid/Focus wiring #4252 are in review. The companion is rebuilt on current main and its remote proof is running. The WhatsApp glyph change is prepared.",
+  "next": "Finish companion behavior and visual checks, submit the two remaining small changes, and integrate accepted source toward the tested Shopify draft.",
+  "updated": "2026-10-12T06:44:01.368806+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
