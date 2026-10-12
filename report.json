@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Website owner completed one repair push. Hosted tests and checks are active; size admission for the new exact commit is requested. No final approval or score is claimed.",
+  "workerState": "The collection slice has a fresh continuation assigned under the existing owner, with the same Astra model and effort. Its first execution acknowledgement is pending. Assistant and buyer-notes slices wait for its dependency findings; no parallel writer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -12,16 +12,16 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "546 behaviour + 13 integration checks on the parent; 23 affected Node cases and 14 causal checks on a079cebe; six collection cases pass for the logo-only ad9d9ebf change. The latest test-anchor repair passes five original groups, eight causal checks and whole-manifest validation. Fresh hosted checks are running or queued."
+      "evidence": "The parent assembly and corrections passed their recorded tests. Each new split must pass its affected tests and causal checks against current main."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Original component review histories are preserved. The complete assembly enters its authorized review sequence on one exact head. No final model score is claimed."
+      "evidence": "Two attempted first reads of #4271 returned no verdict; no counted round. Each smaller replacement enters the original independent review route. No final model score is claimed."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T12:58:09.785822+00:00 — Repaired the stale Apply test anchor, verified clean and fault-injection checks remotely, pushed 8a7ff870 and sent the desk its exact size-admission request.",
+  "lastActualProgress": "2026-10-12T15:18:09.011856+00:00 — Saved the exact source and three-part split, created the collection continuation and retained all review, draft-delivery and remaining acceptance obligations.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,9 +112,9 @@
     ],
     [
       "9. Complete website assembly merge",
-      "Pending final approval",
-      "Individual components have merged. Final PR #4271 is Ready at 8a7ff870 after the CI anchor repair; renewed exact-head size admission, independent acceptance and merge remain pending.",
-      "Receive fresh size admission and satisfy current required checks and original code reviews, then merge."
+      "Split in progress — no final merge",
+      "#4271 at 8a7ff870 is Draft after two no-verdict reviewer limits. No review round was consumed. Three smaller replacements are authorized, collection first.",
+      "Review and merge all three replacements, then bind the finished assembly to their merged source."
     ],
     [
       "10. Completed Shopify draft and handover",
@@ -129,13 +129,13 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Exact-source review and ratings; an existing signed-in purchaser and owned order item for the read-only buyer-review check; verified assistant privacy facts. The backend deployment is now verified.",
-  "current": "Final assembly PR #4271 is at 8a7ff870. The failed CI test-anchor check is repaired and pushed: five original test groups and all eight fault-injection checks pass. Fresh hosted checks have started; the desk has the exact commit for renewed size admission.",
-  "next": "Receive renewed admission, complete the original independent code reviews and hosted checks, merge the approved assembly, then verify it in the unpublished Shopify draft. The three requested final website ratings remain pending.",
-  "updated": "2026-10-12T12:58:09.785822+00:00",
+  "remaining": "The combined change was too large for a complete reviewer read. The authorized remedy is three changes under about 1,000 lines each. Final three-model ratings, buyer account verification and assistant privacy facts remain outstanding.",
+  "current": "Final assembly #4271 is being split into three smaller PRs: collection presentation, assistant mount and buyer notes. Two attempted first reviews ran out of turns and returned no verdict. The robot moved the combined PR to Draft; no review round was consumed.",
+  "next": "Build the collection slice from current main, with assistant and buyer-notes hooks kept in their own later slices. Each replacement needs its own tests, self-review and independent approval before merge. Close the combined PR after all three replacements exist, keeping its branch.",
+  "updated": "2026-10-12T15:18:09.011856+00:00",
   "links": [
     {
-      "title": "PR #4271",
+      "title": "#4271",
       "path": "https://github.com/EON-CRUX/3.09/pull/4271"
     },
     {
