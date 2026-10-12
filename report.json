@@ -113,8 +113,8 @@
     [
       "9. Complete website assembly merge",
       "Pending final approval",
-      "Individual components have merged. The complete finished website assembly is not yet independently accepted or merged.",
-      "Open the chair-authorized final assembly change, satisfy required reviews/checks and merge."
+      "Individual components have merged. Final PR #4271 is open at a079cebe with all builder findings repaired; independent acceptance and merge remain pending.",
+      "Obtain refreshed exact-head chair admission, mark Ready, then satisfy required reviews/checks and merge."
     ],
     [
       "10. Completed Shopify draft and handover",
