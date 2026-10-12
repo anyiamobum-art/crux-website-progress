@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The phone-scroll repair is in remote causal proof and self-review. Current-source screenshots cover 380/430/1280px; these are local browser checks, not final ratings or Shopify acceptance.",
+  "workerState": "The phone fix is integrated into the full candidate and its affected remote checks are running. Original review jobs remain queued; no final website score is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T07:22:29.380736+00:00 — Combined 538 behavior and 13 integration checks passed. Green WhatsApp glyph override corrected; companion open, dance, pause and resume exercised. Original Grid/Focus named repair committed and under proof.",
+  "lastActualProgress": "2026-10-12T07:30:26.895762+00:00 — Phone-scroll repair pushed once after four wiring cases, seven original regressions, three causal faults and Chrome 390/800px checks passed. Combined candidate updated.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -89,7 +89,7 @@
     [
       "5. Buyer trust and WhatsApp reviews",
       "Backend merged and deployed — endpoints continue",
-      "Original CS independently verified #4195 commit c7f6df55 deployed successfully at 06:30:58 UTC. Its endpoint #4205 and flow #4206 remain with the same owner, queued for proof and review.",
+      "Original CS independently verified #4195 commit c7f6df55 deployed successfully at 06:30:58 UTC. Its endpoint #4205 and flow #4206 passed their affected tests and returned to review after one original-owner repair push each.",
       "Verify endpoint/caller deployment and consented exact-product reviews after the dependent changes land. Signed-in consumption is unverified."
     ],
     [
@@ -100,8 +100,8 @@
     ],
     [
       "7. Final assembly regression",
-      "Current combined test run passed; named repair pending",
-      "Combined candidate passed 538 behavior cases and 13 integration checks. Actual Liquid browser checks cover 380/430/1280px. Grid/Focus reviewer found a scroll overlap; its correction is in proof.",
+      "Combined tests passed; phone correction in final integration",
+      "Combined candidate passed 538 behavior cases and 13 integration checks. Actual Liquid browser checks cover 380/430/1280px. Grid/Focus scroll correction passed targeted tests and Chrome checks, was pushed once, and is integrated for the affected final check.",
       "Integrate the reviewed correction and complete the browser journey; final acceptance remains separate."
     ],
     [
@@ -130,9 +130,9 @@
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The combined candidate passes 538 behavior cases and 13 integration checks. The Grid/Focus review found a sticky category row covering phone controls; its original-owner repair is being verified. WhatsApp and the cart-test fix have first-review approvals.",
-  "next": "Return the single Grid/Focus correction to review, consume the original typography and companion reviews, then complete the final assembly and Shopify draft.",
-  "updated": "2026-10-12T07:22:29.380736+00:00",
+  "current": "The combined candidate passes 538 behavior cases and 13 integration checks. The phone-scroll correction passed targeted tests and Chrome checks, and is back in its original review lane. Typography passed its first reviewer’s final named-fix check.",
+  "next": "Consume the combined phone-fix proof and original component reviews, then complete the final assembly and Shopify draft.",
+  "updated": "2026-10-12T07:30:26.895762+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
