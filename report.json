@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Collection’s server request was verified pending at21:40:33UTC; reviewer execution is not yet proved. Buyer notes’ original writer completed and its support custodian opened #4294. Big Bag’s attended browser offer is pending. No duplicate build, review or browser driver is running.",
+  "workerState": "Collection’s server request is verified pending. Assistant and buyer notes retain their original writers and the chair’s queue order. Big Bag’s original Opus reader process is alive; no report or score is available yet. Static captures are not proof of animation or touch behaviour.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T21:40:33Z — The server re-asked collection review on unchanged head9dbe45b3; the original owner verified the pending request at21:41:36Z. No final verdict or merge is claimed.",
+  "lastActualProgress": "2026-10-12T21:44:45Z — Consumed three Big Bag captures and verified their served HTML matches candidatea268732d. The phone capture shows a clipped store invitation; final product photography and interaction proof remain outstanding.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,9 +124,9 @@
     ],
     [
       "11. Big Bag homeware experience",
-      "Built and tested — attended browser capture offered",
-      "Candidate a268732d: fourteen files verified, thirteen remote tests and twelve causal checks pass. Navigation entries are built. Preview restored with unchanged bytes. The original inspector lacked browser controls; the existing attended desk has offered capture, pending chair placement.",
-      "Capture observed interactions and responsive states; complete real-image draft inspection, original Fable/Opus ratings, review and merge."
+      "Built and tested — first captures under review",
+      "Candidatea268732d: fourteen source files verified; thirteen remote tests and twelve causal checks pass. Three static phone/desktop captures match its served HTML. Opus report pending; placeholders, phone clipping and unmeasured interactions prevent finished acceptance.",
+      "Consume all named findings, repair through the original builder, complete real-image and interaction evidence, pass original design reviews and merge."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Collection’s new server request is pending its original final named-fix verdict. Assistant and buyer notes await the keeper’s review slots. Big Bag needs placement on the offered attended browser desk. Connected buyer verification and verified assistant privacy facts remain required.",
-  "current": "The server has recovered the collection review request on its exact repaired head. All three assembly PRs are open: #4284, #4288 and #4294. Buyer notes’ original build and proof are complete; the oversized #4271 is closed with all three replacement links.",
-  "next": "Take the three splits through their original reviews and merge order. The existing browser desk has offered Big Bag capture; its exact state and interaction checklist is prepared, and the restored preview is reachable. Integrate Big Bag, then verify the unpublished Shopify draft and final three-model ratings.",
-  "updated": "2026-10-12T21:43:12.609750+00:00",
+  "remaining": "Independent collection verdict and A/B review slots remain pending. Big Bag has static captures, but interaction measurements and finished product photography remain unproved. Its original Opus report is pending. Connected buyer verification and verified assistant privacy facts are still required.",
+  "current": "Collection’s server review request has recovered. All three assembly PRs are open and the chair has placed assistant then buyer notes in its review queue. Big Bag’s first phone and desktop captures are saved; an Opus 5.5 reader is assigned to them.",
+  "next": "Consume collection’s final named-fix verdict, the keeper’s A/B admissions and the original Big Bag reader’s findings. Resolve the named visual defects through the original builder, complete interaction and real-photo proof, merge the approved source, then verify the unpublished Shopify draft and final three-model ratings.",
+  "updated": "2026-10-12T21:46:49.279856+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
