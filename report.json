@@ -2,17 +2,17 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The combined regression is queued on the existing remote worker. The original review/check jobs continue. Component approvals are separate from the three final website scores, which remain pending.",
+  "workerState": "The phone-scroll repair is in remote causal proof and self-review. Current-source screenshots cover 380/430/1280px; these are local browser checks, not final ratings or Shopify acceptance.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Search, account, checkout and cart are merged and integrated. Historical #3789 is closed as superseded. Typography #4251 and Grid/Focus #4252 are in review. The rebuilt companion preserves store invitations and the assistant; its proof is running. WhatsApp is a glyph-only color refinement."
+      "evidence": "Typography #4251 awaits its named-fix check; Grid/Focus #4252 has one phone-scroll correction in proof. Companion #4259 is in review. WhatsApp #4255 and cart-test #4257 have first approvals."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "The earlier assembly passed 530 cases. The changed assembly requires its own combined result; final browser and Shopify draft acceptance remain outstanding."
+      "evidence": "Current candidate tested on the remote worker. The new named phone-scroll correction has its own proof in progress; final browser and Shopify draft acceptance remain outstanding."
     },
     {
       "stage": "Review",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T07:13:51.817433+00:00 — Companion: 3 remote entrypoints and 26 original store/assistant cases passed. Typography duplicate test anchor repaired and actual declaration gate passed. All four proposed slices and cart-test fix integrated in the local combined candidate.",
+  "lastActualProgress": "2026-10-12T07:22:29.380736+00:00 — Combined 538 behavior and 13 integration checks passed. Green WhatsApp glyph override corrected; companion open, dance, pause and resume exercised. Original Grid/Focus named repair committed and under proof.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -100,9 +100,9 @@
     ],
     [
       "7. Final assembly regression",
-      "Updated assembly — regression queued",
-      "Earlier assembly passed 530 tests. The new assembly includes the reconciled typography, Grid/Focus, companion and glyph slices; its fresh combined regression is queued.",
-      "Verify the updated source and full browser journey before final acceptance."
+      "Current combined test run passed; named repair pending",
+      "Combined candidate passed 538 behavior cases and 13 integration checks. Actual Liquid browser checks cover 380/430/1280px. Grid/Focus reviewer found a scroll overlap; its correction is in proof.",
+      "Integrate the reviewed correction and complete the browser journey; final acceptance remains separate."
     ],
     [
       "8. Final three-model ratings",
@@ -129,10 +129,10 @@
     "[Checkout #4202](https://github.com/EON-CRUX/3.09/pull/4202) merged04:53:12UTC asac169c9d after accepted original critical review. All24files match approved source, merge and captured main; integrated in final374e8eaa0b. This is source integration, not schema activation or live acceptance.",
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
-  "remaining": "The remaining small source changes and buyer-trust release sequence need review. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The rebuilt companion #4259 passed its current remote checks and is in review. WhatsApp #4255 and cart-test repair #4257 have first-review approvals. Typography #4251 is back for its final named-fix check; Grid/Focus #4252 is under review.",
-  "next": "Run the combined website regression, consume the original reviews, and prepare the verified Shopify draft after the approved source is merged.",
-  "updated": "2026-10-12T07:13:51.817433+00:00",
+  "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
+  "current": "The combined candidate passes 538 behavior cases and 13 integration checks. The Grid/Focus review found a sticky category row covering phone controls; its original-owner repair is being verified. WhatsApp and the cart-test fix have first-review approvals.",
+  "next": "Return the single Grid/Focus correction to review, consume the original typography and companion reviews, then complete the final assembly and Shopify draft.",
+  "updated": "2026-10-12T07:22:29.380736+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
