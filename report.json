@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Typography is merged. Grid/Focus and the WhatsApp glyph are approved with hosted tests queued. The WhatsApp check was recovered from a cancelled shard without changing source or repeating passed shards. The chair’s companion admission is green and its original second review is pending; no final website score is claimed.",
+  "workerState": "Typography and the WhatsApp glyph are merged. Grid/Focus is approved with hosted tests running. The WhatsApp recovery passed all five shards before its merge. The chair’s companion admission is green and its original second review is pending; no final website score is claimed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Typography #4251 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 and WhatsApp glyph #4255 retain their original approvals. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source admission is now green; its second full review is pending."
+      "evidence": "Typography #4251, WhatsApp glyph #4255 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 retains its original approval. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source admission is now green; its second full review is pending."
     },
     {
       "stage": "Tests",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T08:31:03.686394+00:00 — #4251 merged as ecc73b35; all three approved files match main and assembly 0b4fdb46. All theme bytes match the browser-tested 85d01882 source. Keyboard switching, filter focus return and reduced motion passed at an actual 380 px width.",
+  "lastActualProgress": "2026-10-12T08:39:06Z — WhatsApp glyph #4255 merged as 75f2ebc0 after all five test shards and its gate passed. The approved file matches main; assembly aaf4bcde preserves all browser-tested theme bytes.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,9 +130,9 @@
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The reference typography fix #4251 is merged and integrated, preserving Archivo for body text. The companion repair is pushed for its second full review. Phone-width keyboard, filter focus-return and reduced-motion checks passed on the combined theme.",
+  "current": "Reference typography #4251 and the WhatsApp glyph #4255 are merged and integrated, preserving Archivo body text and the CRUX button colours. The companion repair is pushed for its second full review. Phone-width keyboard, filter focus-return and reduced-motion checks passed on the combined theme.",
   "next": "Collect the companion’s original second review and remaining hosted tests, merge the component slices, then review and deliver the completed Shopify draft.",
-  "updated": "2026-10-12T08:36:09Z",
+  "updated": "2026-10-12T08:40:00Z",
   "links": [
     {
       "title": "Reference typography #4251",
