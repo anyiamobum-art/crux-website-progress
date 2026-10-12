@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Companion remote proof completed successfully. Original component CI is queued or running. The chair has the bounded scope decision; no final website score is claimed.",
+  "workerState": "Companion repair proof is complete and the single push is verified. Original component CI is queued or running. The companion’s 1,015-line review needs the chair’s requested size admission; no final website score is claimed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Typography #4251, Grid/Focus #4252 and WhatsApp glyph #4255 have first approvals. Cart timing #4257 is merged. Companion #4259 has five first-review repairs with remote proof complete; two reproduced transition races await the chair’s scope decision before the one push."
+      "evidence": "Typography #4251, Grid/Focus #4252 and WhatsApp glyph #4255 have first approvals. Cart timing #4257 is merged. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source size admission and its second full review are pending."
     },
     {
       "stage": "Tests",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T08:11:12.544105+00:00 — Companion repair passed three remote test entrypoints, 26 original store/assistant cases and nine causal checks. Combined browser proof confirms Grid/Focus, pet controls, store failure recovery and Back without horizontal overflow.",
+  "lastActualProgress": "2026-10-12T08:21:32.926367+00:00 — Companion repair pushed as f90d0deb after three remote test entrypoints, ten integration cases, 26 original store/assistant cases and eleven causal checks passed. Integrated into combined source 85d01882.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -101,7 +101,7 @@
     [
       "7. Final assembly regression",
       "Combined and phone-fix checks passed; companion repair continues",
-      "Combined candidate passed 538 behavior cases and 13 integration checks. The integrated phone correction passed four wiring cases, seven motion cases and three causal checks. Companion repair has eight passing integration cases, 26 original cases and nine causal checks. Combined browser checks passed at 380/430/1280 px.",
+      "Combined candidate passed 538 behavior cases and 13 integration checks. The integrated phone correction passed four wiring cases, seven motion cases and three causal checks. Companion repair has ten passing integration cases, 26 original cases and eleven causal checks. Combined browser checks passed at 380/430/1280 px.",
       "Integrate accepted components and complete the browser journey; final acceptance remains separate."
     ],
     [
@@ -130,9 +130,9 @@
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The companion’s five review fixes pass remote tests. The combined collection and companion also passed Chrome checks at 380, 430 and 1280 px. Two additional transition races reproduced in self-review; their inclusion in the same repair push is with the chair.",
-  "next": "Resolve the two narrowly scoped companion races, send one repair push through its original review, then complete the approved assembly and Shopify draft.",
-  "updated": "2026-10-12T08:11:12.544105+00:00",
+  "current": "The companion repair is built, remotely tested and pushed for its second full review. All five original findings and both chair-approved transition guards are included. The combined theme has been checked in Chrome at 380, 430 and 1280 px.",
+  "next": "Clear the exact-source review admission and remaining hosted tests, merge the component slices, then review and deliver the completed Shopify draft.",
+  "updated": "2026-10-12T08:21:32.926367+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
