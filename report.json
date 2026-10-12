@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Combined assembly regression complete: 530 passed, no failures or skips. The first small residual change is in remote validation. The original audit is collected; no duplicate audit is running from this task.",
+  "workerState": "#4251 is Ready for its original review lane after two clean tests and two causal checks. Grid/Focus remote proof is running on the saved source. The combined prior assembly passed 530 tests.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T05:46:14.259119+00:00 — 530-case current assembly pass; superseded #3789 closed with evidence; first missing-source slice prepared.",
+  "lastActualProgress": "2026-10-12T06:27:19.656533+00:00 — S1 #4251 submitted and marked Ready; S2 source and behavioral wiring tests committed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -89,7 +89,7 @@
     [
       "5. Buyer trust and WhatsApp reviews",
       "In review — backend first",
-      "#4195 original owner pushed repair d20dde1670 for its original review. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
+      "#4195 original owner repaired 0358aa9c and obtained its original approval; merge was pending at the last verified read. Endpoint #4205 and recommendation #4206 remain Draft behind their original dependencies. Renderer and PDP mount have retained tests.",
       "Original owners complete review, merge and endpoint activation; verify consented exact-product reviews."
     ],
     [
@@ -130,9 +130,9 @@
     "[Search #4201](https://github.com/EON-CRUX/3.09/pull/4201) merged04:38:32UTC as392474cd. All6files match approved source and final assembly;27behavior cases and4causal checks pass."
   ],
   "remaining": "The remaining small source changes and buyer-trust release sequence need review. Assistant activation needs verified processor/account privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
-  "current": "The cart is merged and integrated, and the combined assembly passed 530 tests. The audit found four small remaining changes; the first repairs a missing stylesheet while keeping Archivo as the body font.",
-  "next": "Finish and review the four remaining typography, Grid/Focus, companion and WhatsApp changes, then complete same-source ratings and verify the unpublished Shopify draft.",
-  "updated": "2026-10-12T05:46:14.259119+00:00",
+  "current": "The missing typography stylesheet is repaired in #4251 and is now in review. Archivo remains the body font. Grid/Focus wiring is built with the category links retained and is being tested.",
+  "next": "Complete collection wiring proof, rebuild the companion beside store invitations and the assistant, then refine the WhatsApp icon. Continue reviews toward the tested Shopify draft.",
+  "updated": "2026-10-12T06:27:19.656533+00:00",
   "links": [
     {
       "title": "Cart recovery #4233",
