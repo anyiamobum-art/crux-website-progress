@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Collection’s merge and all11 approved files are verified. Support has resumed the original assistant/buyer-notes dependency. The browser desk completed25 captures; the original Big Bag writer’s resume is requested, with actual execution still unverified.",
+  "workerState": "Collection’s merge and all 11 approved files are verified. Both continuation briefs are queued once; actual builder execution is not yet verified. Big Bag’s 25 captured states are retained as the repair evidence.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T22:06:13Z — Consumed collection’s verified merge receipt and resumed dependent support. Verified25 Big Bag capture hashes, inspected key phone/catalogue states, and added all observed findings to the original writer’s repair brief.",
+  "lastActualProgress": "2026-10-12T22:14:15Z — Removed the obsolete session-resume restriction under the existing compact-handoff rule and queued the assistant integration and Big Bag repairs. Original completed sessions and unchanged provider/model settings were verified before handoff.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,9 +124,9 @@
     ],
     [
       "11. Big Bag homeware experience",
-      "Interaction capture complete; repair pending",
+      "Interaction capture complete; repair queued",
       "25 captures verified at380/430/1280. Static Opus assessment8.4 across six partly assessed measures; four unknown. Filter counts and empty recovery worked; chapter indicator, labels, controls and helper overlap need repairs.",
-      "Original builder applies the complete named repair; then source-bound tests, new renders and final independent ratings."
+      "Original custody continuation applies the complete named repair; then source-bound tests, new renders and final independent ratings."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Assistant and buyer notes still need their original review slots and merges. Big Bag’s original writer must resume the prepared repair; final real-product images, recording and motion measurements remain unproved. Final three-model acceptance has not passed.",
-  "current": "Collection is merged: one of the three assembly splits is complete. The existing support agent is continuing assistant and buyer-notes integration. Big Bag’s interaction capture is complete, and its original builder has one combined repair brief covering the static critique and observed behaviour.",
-  "next": "Complete the original Big Bag repair, then recheck it with valid rendered evidence. Finish assistant and buyer-notes reviews and merges, integrate Big Bag on that merged source, and verify the unpublished Shopify draft with final three-model ratings.",
-  "updated": "2026-10-12T22:07:19.865018+00:00",
+  "remaining": "Assistant and buyer notes still need independent review and merge. Big Bag’s named repairs are queued; rendered verification, real-product images and motion measurements remain outstanding. Final three-model acceptance has not passed.",
+  "current": "The collection split is merged. The assistant integration and Big Bag repairs are queued with the existing build service, using compact handoffs that preserve their original ownership and review history.",
+  "next": "Verify both builders have started, consume their tested changes, and continue the assistant and buyer-notes reviews and merges. Then integrate Big Bag and verify the unpublished Shopify draft with all three final ratings.",
+  "updated": "2026-10-12T22:15:48.886572+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
