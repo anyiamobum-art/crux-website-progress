@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The collection repair finished through its original writer. Support verified assistant admission and buyer-notes custody. Buyer notes and the Big Bag rendered read have not started; queued work is not reported as executing. One consolidated chair request is delivered; resolution is not yet verified.",
+  "workerState": "Buyer notes began actual execution at 21:03 UTC through its original Opus 5.5 writer; remote proof and its final report are being reconciled. Big Bag’s rendered inspection is still queued. Collection recovery is server-owned: the original custodian has removed the earlier manual-retry step. No review or merge is inferred from these state changes.",
   "journey": [
     {
       "stage": "Build",
@@ -12,16 +12,16 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C’s exact repaired head passed its remote proof and hosted checks. A passed 16 remote cases and 13 causal checks; Big Bag passed 13 and 12 respectively. B awaits its original build result. Combined C/A/B and final Big Bag acceptance are still required."
+      "evidence": "C’s repaired head passed remote and hosted checks. A passed 16 remote cases and 13 causal checks; Big Bag passed 13 and 12 respectively. B has reached remote proof, with final results awaiting reconciliation. Combined C/A/B and final Big Bag acceptance are still required."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "C’s original dispatch retry was refused by GitHub’s rate limit; its new admission is green. #4288 awaits the existing keeper. Big Bag has no design score. Original review histories remain intact."
+      "evidence": "The chair assigned C’s dispatch recovery to the existing server; no manual retry or extra review. #4288 awaits the keeper. Big Bag has no design score. Original review histories remain intact."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T20:34:20Z — The original collection owner published the corrected review receipt, verified all hosted test shards, and obtained a passing fresh admission check for repaired head 9dbe45b3. Final review and merge remain pending.",
+  "lastActualProgress": "2026-10-12T21:14:19Z — The original buyer-notes writer reached remote proof and the pre-push review checklist. Its execution is verified; finished proof, PR, independent review and merge remain separate.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,9 +112,9 @@
     ],
     [
       "9. Complete website assembly merge",
-      "C repair tested; A awaits admission; B queued",
-      "#4284 at 9dbe45b3: 32 remote Node cases, eight Python cases and 24 causal checks pass; all hosted test shards and fresh admission are green. Its last named-fix review remains pending. #4288 at b624e74a has 16 remote tests and 13 causal checks passing, but remains Draft. B retains its single original queued build.",
-      "Recover original C review dispatch, admit A through the keeper, consume B’s build, then pass reviews and merge all three. Big Bag follows the combined source."
+      "C repair tested; A awaits admission; B building",
+      "#4284 at 9dbe45b3: 32 remote Node cases, eight Python cases and 24 causal checks pass; hosted tests and admission are green. Server-owned dispatch recovery and its last named-fix verdict remain pending. #4288 at b624e74a remains Draft with verified remote proof. B’s original Opus 5.5 writer is executing.",
+      "Consume B’s exact proof and original PR, C’s server review result, and A’s keeper admission. Pass reviews and merge all three, then integrate Big Bag."
     ],
     [
       "10. Completed Shopify draft and handover",
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "GitHub refused the collection owner’s dispatch retry with a rate-limit error. Assistant #4288 is still Draft awaiting the existing keeper’s placement. Buyer notes and Big Bag’s rendered inspection remain queued. Supported browser access, connected buyer verification and verified assistant privacy facts are still needed for final acceptance.",
-  "current": "Collection split #4284’s named repair is pushed and its hosted tests and admission check pass. Its final named-fix review still needs dispatch recovery. The support agent keeps assistant and buyer notes moving through their original owners; the website lead continues Big Bag and final integration.",
-  "next": "The chair has one consolidated request covering collection review dispatch, assistant admission, and the original buyer-notes and Big Bag worker queues. Merge the three approved splits, prove their combined behavior, then integrate Big Bag and complete the Shopify draft.",
-  "updated": "2026-10-12T20:47:56.886073+00:00",
+  "remaining": "Collection #4284 awaits the server’s recovery and final named-fix verdict. Assistant #4288 still awaits a review slot. Big Bag’s rendered inspection remains queued. Supported browser access, connected buyer verification and verified assistant privacy facts are still needed for final acceptance.",
+  "current": "The original buyer-notes build is executing with Opus 5.5 and has reached remote checks and review-receipt preparation. Collection #4284’s named repair is tested; the chair assigned its failed review-dispatch recovery to the existing server. The support agent keeps assistant and buyer notes moving through their original owners.",
+  "next": "Consume the buyer-notes writer’s result and open its original split when proof is complete. The server owns collection review recovery; the keeper owns assistant admission. Merge the three approved splits, prove their combined behavior, then integrate Big Bag and complete the Shopify draft.",
+  "updated": "2026-10-12T21:16:08.647288+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
