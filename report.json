@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Typography is merged. Grid/Focus and the WhatsApp glyph are approved with hosted tests queued. The WhatsApp check was recovered from a cancelled shard without changing source or repeating passed shards. Companion review awaits the chair’s requested size admission; no final website score is claimed.",
+  "workerState": "Typography is merged. Grid/Focus and the WhatsApp glyph are approved with hosted tests queued. The WhatsApp check was recovered from a cancelled shard without changing source or repeating passed shards. The chair’s companion admission is green and its original second review is pending; no final website score is claimed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Typography #4251 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 and WhatsApp glyph #4255 retain their original approvals. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source size admission and its second full review are pending."
+      "evidence": "Typography #4251 and cart timing #4257 are merged and content-verified. Grid/Focus #4252 and WhatsApp glyph #4255 retain their original approvals. Companion #4259 has its five first-review repairs and two approved transition guards pushed once after remote proof. Exact-source admission is now green; its second full review is pending."
     },
     {
       "stage": "Tests",
@@ -118,8 +118,8 @@
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Pending",
-      "The finished approved assembly has not yet been verified in an unpublished Shopify theme. A local preview does not complete this step.",
+      "Upload preparation verified — approval and upload pending",
+      "Shopify confirms the existing target is unpublished. The candidate has 89 changed files; all 34 overwrite backups match stored bytes, and no file exceeds the prepared uploader’s limit. No upload has started.",
       "Upload the approved assembly to the draft, verify its preview and shopping journeys, and hand over the draft link. The owner decides publication when the collection is ready."
     ]
   ],
@@ -131,8 +131,8 @@
   ],
   "remaining": "Remaining original reviews, buyer-trust endpoint/caller delivery, and verified assistant privacy facts. Final same-source ratings and Shopify draft acceptance are pending.",
   "current": "The reference typography fix #4251 is merged and integrated, preserving Archivo for body text. The companion repair is pushed for its second full review. Phone-width keyboard, filter focus-return and reduced-motion checks passed on the combined theme.",
-  "next": "Clear the exact-source review admission and remaining hosted tests, merge the component slices, then review and deliver the completed Shopify draft.",
-  "updated": "2026-10-12T08:31:03.686394+00:00",
+  "next": "Collect the companion’s original second review and remaining hosted tests, merge the component slices, then review and deliver the completed Shopify draft.",
+  "updated": "2026-10-12T08:36:09Z",
   "links": [
     {
       "title": "Reference typography #4251",
