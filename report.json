@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Build and test ready agentic website components while the original three-way debate continues; improve toward 9.5, merge approved source and verify the website live on Shopify.",
-  "workerState": "Cart remote validation and the single normal push are complete. Its hosted checks and original review are pending. Search has FIRST round 2 approval; remaining hosted shards are queued or running. Account feedback #4229 is merged and integrated.",
+  "workerState": "Original Opus is executing the scoped cart repair in Chrome. Search #4201 and account feedback #4229 are merged and integrated. Checkout’s original critical review is running; its approval is not yet accepted.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T04:23:24.140181+00:00 — verified cart PR #4233 remote head and exact review body after 85 behavior cases and seven causal checks passed. Search FIRST round 2 approval is independently verified.",
+  "lastActualProgress": "2026-10-12T04:47:40.468633+00:00 — search’s six files verified against approved merge and integrated as 886a5b6bdc; original Opus cart repair acknowledged and running.",
   "milestone": "NOT DONE · Final delivery: 0 of 3 milestones verified",
   "overall": null,
   "scopedProgress": [
@@ -106,7 +106,7 @@
       "Native product/context adapter",
       "Merged #4200",
       "Original Opus correction preserves native language, exact variant quantity constraints and local source/account invalidation;14DOM/Liquid and4causal cases pass.",
-      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Merged19:29:44UTC as8cd03b6e; all5 reviewed/merged/main files match. Signed-in acceptance remains. Search child4201 now has named-fix head4925162b4f:27 behavior cases and4 search causal checks passed remotely; one push; hosted checks and original review pending."
+      "Parent4199 merged; #4200 normal-main repaird8e0d44bf5 pushed18:48UTC with all5 original files unchanged. Merged19:29:44UTC as8cd03b6e; all5 reviewed/merged/main files match. Signed-in acceptance remains. Search child #4201 merged 04:38:32 UTC as 392474cd; all six approved files match and are integrated into final assembly 886a5b6bdc. Its 27 behavior cases and four causal checks passed remotely."
     ],
     [
       "Shopify functions and integrations",
@@ -128,9 +128,9 @@
     "[Database desk correction](https://github.com/EON-CRUX/3.09/pull/4195#issuecomment-6110357112) applied 15:00:58 UTC. Original CS must independently verify and publish its successor; this is not public review activation. #4193 and #4197 entered Ready on unchanged heads; #4198 subsequently received the narrow CI repair d87206d7, preserving its runtime bytes."
   ],
   "remaining": "No browser/account action is needed for the recovered Opus work. Checkout awaits trusted critical-review acceptance; CS awaits its original release sequence. The assistant’s actual processor/account facts and an accurate public policy must be resolved before activation. Signed-in Shopify acceptance remains pending.",
-  "current": "Chrome access is restored. Cart repair bb2eda77a6 is pushed after 85 behavior cases and seven causal checks passed. Search repair 4925162b4f has passed its original FIRST round 2 review; hosted tests continue.",
-  "next": "Consume the original cart and search checks and reviews. Complete the existing checkout and CS release sequence, then assemble the approved source for final three-model ratings and Shopify acceptance.",
-  "updated": "2026-10-12T04:23:24.140181+00:00",
+  "current": "Search #4201 is merged and its six approved files are integrated into the final assembly. Original Opus 5.5 High is repairing the cart’s one remaining review finding: a confirmed add must not become a false warning after navigation or interruption.",
+  "next": "Collect and validate the original cart repair, then submit its final named-fix review. Consume the existing checkout and CS release sequence before final three-model ratings and Shopify acceptance.",
+  "updated": "2026-10-12T04:47:40.468633+00:00",
   "links": [
     {
       "title": "Shopper connection #4193",
@@ -161,8 +161,8 @@
       "path": "https://github.com/EON-CRUX/3.09/pull/4233"
     },
     {
-      "title": "Shopper-custody repair ruling",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4202#issuecomment-6112683976"
+      "title": "Search #4201",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4201"
     }
   ],
   "source": "Published projection of the original task report",
