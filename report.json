@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Opus 5.5 continuation began executing at 05:26 UTC through the existing build route. The original history, source and reviews are preserved. It is the sole Big Bag writer; this website task retains PR publication.",
+  "workerState": "The existing Bridge acknowledged the bounded repair handoff at 06:18 UTC. Launch and execution are not yet verified. The completed integration writer and original review history are preserved; this website task retains PR publication.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Big Bag 0448869b: 29 Node cases, 30 Python passes and 37 causal checks. A’s repaired source: 17 Node, 13 Python and 15 causal checks. Combined current-main source and Shopify shopping journeys remain separate."
+      "evidence": "Local 130c23f4: 117 Node cases, 36 Python passes, 37 causal checks and six combined layout checks. The next named repairs require fresh affected proof. Shopify shopping journeys remain separate."
     },
     {
       "stage": "Review",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T05:27:47Z — Big Bag’s writer started merging current main containing all three completed splits. Its saved 29 Node, 30 Python and 37 causal checks are preserved; combined-source tests are next.",
+  "lastActualProgress": "2026-10-13T05:53:13Z — the Opus writer completed the combined-source result. Parent verification at 06:18 UTC matched all 14 source files and both completed remote proof logs.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -94,9 +94,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Pending original custodian",
-      "Notice code is built and tested. Public policy and actual processor retention/training facts are not yet approved for activation.",
-      "Original chair/service custodian supplies verified facts; keep assistant activation guarded until the notice is accurate."
+      "Assistant stays off — original service verification pending",
+      "Chair ruling at 05:40 UTC retains the off guard and blank Ask-path setting until the installed proxy reaches the Ask route.",
+      "The original Ask owner verifies deployed processor/model and forwarding. Accurate provider terms and notice wording go to the owner in one card when the draft is otherwise ready."
     ],
     [
       "7. Final assembly regression",
@@ -124,9 +124,9 @@
     ],
     [
       "11. Big Bag homeware experience",
-      "Three named fixes verified; combined integration next",
-      "Saved 0448869b fixes shrinking phone tabs, the wrapping desktop header link and footer/WhatsApp overlap. All 14 source hashes match; remote proof passed 29 Node cases, 30 Python cases and 37 causal checks.",
-      "The sole Opus continuation is merging current main; combined proof and one Draft PR are next. Attended measurements and final ratings remain pending."
+      "Combined-source tests passed; three self-review repairs assigned",
+      "Local 130c23f4 includes all three merged splits. All 14 source hashes match; 117 Node cases, 36 Python cases, 37 causal checks and six combined layout checks passed.",
+      "Repair the room-link flow and JSON escaping; verify the phone navigation fallback. Then one PR, exact-head admission, review and merge. Rendered acceptance and final scores remain pending."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Big Bag still needs combined-source proof, PR review and merge. Final Fable 5.1, Astra 6 and Opus 5.5 ratings and completed Shopify draft verification remain outstanding. The former wait on the assistant merge is cleared.",
-  "current": "All three assembly splits are merged. Big Bag’s three named fixes and saved remote tests are verified. Its Opus 5.5 continuation is executing and has started integrating current main.",
-  "next": "The original Big Bag writer merges current main containing collection, assistant and buyer notes, verifies the combined source and prepares its self-review. Then publish one Draft PR, complete its original reviews and merge before final ratings and Shopify draft verification.",
-  "updated": "2026-10-13T05:28:42.766037+00:00",
+  "remaining": "Big Bag needs the three named repairs, independent PR review and merge. Final ratings and Shopify preview acceptance remain outstanding. Assistant activation separately waits on verified forwarding and privacy facts.",
+  "current": "All three assembly splits are merged. Big Bag is integrated with them and its combined remote checks passed. Three issues found in self-review are assigned for repair before its PR opens.",
+  "next": "Repair the room-link flow and card-data escaping, add the phone navigation fallback regression, then verify the changed source. Open one Draft PR, obtain its exact-head size admission, complete review and merge, then finish the ratings and Shopify draft.",
+  "updated": "2026-10-13T06:20:19.138054+00:00",
   "links": [
     {
       "title": "Buyer notes #4294",
