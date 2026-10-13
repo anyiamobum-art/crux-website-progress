@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The sole Opus 5.5 writer is executing the three named repairs through the existing build route. Its first tool ran at 06:19 UTC; subsequent source work was verified at 06:25 UTC. This website task retains PR publication.",
+  "workerState": "The original Opus 5.5 writer completed the three repairs. One bounded continuation request for the per-page issue has reached the existing Bridge; execution is not yet verified. This website task retains PR publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T06:25:33Z — the original Opus continuation is working on the three self-review repairs. Combined-source baseline tests remain passed; repaired-source proof is pending.",
+  "lastActualProgress": "2026-10-13T06:59:42Z — verified the repaired head 4e047336 and both remote proof logs: 120 browser-script cases, 36 Python tests and all 40 regression checks passed. No visual rating is claimed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -96,7 +96,7 @@
       "6. Assistant privacy facts",
       "Routing verified; privacy decision pending — assistant off",
       "The original Ask owner verified the installed signed proxy reaches Ask v3 before model dispatch. Deployment-attested source identifies Anthropic and its pinned model; no model call was made.",
-      "Chair prepares one owner card for retention, training and notice wording when the draft is otherwise ready. Keep assistant off and its setting blank until that decision."
+      "Chair prepares one owner card for retention, training and notice wording when the draft is otherwise ready. Keep assistant off. The chair permits the verified route in the unpublished draft only; the privacy decision is still pending."
     ],
     [
       "7. Final assembly regression",
@@ -123,10 +123,10 @@
       "Upload the approved assembly to the draft, verify its preview and shopping journeys, and hand over the draft link. The owner decides publication."
     ],
     [
-      "11. Big Bag homeware experience",
-      "Combined-source tests passed; three self-review repairs assigned",
-      "Local 130c23f4 includes all three merged splits. All 14 source hashes match; 117 Node cases, 36 Python cases, 37 causal checks and six combined layout checks passed.",
-      "Repair the room-link flow and JSON escaping; verify the phone navigation fallback. Then one PR, exact-head admission, review and merge. Rendered acceptance and final scores remain pending."
+      "11. BIG BAG page and navigation",
+      "Three repairs passed; one setting edge case being fixed",
+      "Repaired head 4e047336: 120 Node cases, 36 Python tests and 40 causal checks passed. All three assembly splits are included.",
+      "Close the per-page mismatch, then exact-head PR review and merge, attended design evidence and Shopify draft verification."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Big Bag needs the three named repairs, independent PR review and merge. Final ratings and Shopify preview acceptance remain outstanding. Assistant routing is verified; activation still waits on the privacy and readiness decision.",
-  "current": "All three assembly splits are merged. Big Bag is integrated with them and its combined remote checks passed. Three issues found in self-review are assigned for repair before its PR opens.",
-  "next": "Repair the room-link flow and card-data escaping, add the phone navigation fallback regression, then verify the changed source. Open one Draft PR, obtain its exact-head size admission, complete review and merge, then finish the ratings and Shopify draft.",
-  "updated": "2026-10-13T06:29:30.906427+00:00",
+  "remaining": "Big Bag still needs the per-page repair, independent PR review and merge. Final ratings and Shopify preview acceptance are pending. Assistant routing is verified; activation waits for the privacy decision at draft readiness.",
+  "current": "All three assembly splits are merged. Big Bag’s three named repairs have passed their tests. One additional products-per-page edge case is assigned for correction before the PR opens.",
+  "next": "Fix and test the products-per-page mismatch, then open the Big Bag PR, obtain exact-head size admission, complete review and merge. Continue final ratings and the unpublished Shopify draft.",
+  "updated": "2026-10-13T07:01:29.077534+00:00",
   "links": [
     {
       "title": "Buyer notes #4294",
