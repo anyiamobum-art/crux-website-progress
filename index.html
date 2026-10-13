@@ -30,7 +30,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Companion repair is queued at the existing worker capacity. Account routing awaits original-author coordination. Signed buyer lookup and Big Bag filter checks are now verified.",
+  "workerState": "Original Opus repair completed; #4331 is Ready on its tested commit. Normal hosted tests and review are pending. Account routing awaits original-author coordination.",
   "journey": [
     {
       "stage": "Build",
@@ -49,7 +49,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T12:03:06.892697+00:00 — Real signed buyer lookup passed HTTP 200; draft-only feedback configuration read back; Big Bag quantity fallback reaches an enabled product purchase button.",
+  "lastActualProgress": "2026-10-13T22:46:37.231167+00:00 — Same repair commit moved into normal review after confirming Draft status was the only admission blocker; no duplicate build, test run or pull request.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -147,8 +147,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
-      "All 163 candidate files verified in draft; all 539 live-theme files unchanged. Real plus, size, add and remove path passes.",
-      "Fix the mobile plus overlap, account return route and cached pet module; finish remaining acceptance. Never publish live."
+      "163 candidate files verified at assembly upload; later account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; mobile overlap remains until #4331 is installed.",
+      "Review #4331 and verify its mobile plus / pet repairs after draft installation; resolve the separate account return route. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -164,9 +164,9 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
   "remaining": "Three reproduced hosted issues remain. Final Fable 5.1, Astra 6 and Opus 5.5 scores are still 0 / 3. The assistant remains off pending its privacy decision.",
-  "current": "The merged website is installed in the unpublished Shopify draft. Real Add to cart and bag add/remove passed, but the mobile check found WhatsApp covering one product’s plus button.",
-  "next": "Repair the mobile overlap and stale pet animation loading, correct the account return-to-shop route, then complete remaining rendered acceptance and the three original final ratings.",
-  "updated": "2026-10-13T12:03:06.892697+00:00",
+  "current": "The missing-plus and pet-animation repairs are built and in review as #4331. Their remote tests pass. The Shopify draft still needs the reviewed repair installed and checked.",
+  "next": "Complete #4331’s hosted checks and independent review, then install the accepted repair in the unpublished draft. Resolve the separate account return route and finish the three original final ratings.",
+  "updated": "2026-10-13T22:46:37.231167+00:00",
   "links": [
     {
       "title": "PR #4316",
