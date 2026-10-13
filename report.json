@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original writer has finished. This website task took the desk’s released capture, verified the phone landing and product-list navigation, then reported the actual browser interruption.",
+  "workerState": "Website parent is checking the original Big Bag source in Chrome while the existing hosted jobs run. No new writer or duplicate review.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T10:30:48.955471+00:00 — source-bound Chrome landing captured at 380 × 844 with document width 380 and no horizontal overflow. Shop-all navigation drew the list. Filtering, timing and the full recording remain unverified.",
+  "lastActualProgress": "2026-10-13T10:47:07.206068+00:00 — first code review approved; product-card + opens size selection and selecting a size enables Add to cart at 380 px. Original preview server restored; no live publication.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,9 +124,9 @@
     ],
     [
       "11. BIG BAG page and navigation",
-      "PR #4316 size admitted; original review entry pending",
-      "Head b59932f9 preserves all three assembly splits and passes 121 Node cases, 36 Python cases, 44 causal checks and six combined layout checks. Original self-review is complete; it is not independent approval.",
-      "Original lease holder marks Ready; original review and merge, rendered evidence and Shopify draft verification."
+      "PR #4316 first code review approved; hosted tests finishing",
+      "Frozen b59932f9 received original round-1 approval with no high or medium findings. Exact-head size admission passed. No final design score is implied.",
+      "Finish required gates, merge, complete rendered evidence and verify the Shopify draft."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "The chair’s Ready step is pending. Chrome now reports a request-header policy load failure; the existing browser-repair owner has the exact error. Final ratings and Shopify acceptance remain pending.",
-  "current": "All three assembly splits are merged. Big Bag PR #4316 has its exact-version size admission. Its first 380 px Chrome capture is verified; the remaining interaction checks need the browser connection restored.",
-  "next": "The original chair moves Big Bag into review. Restore the same Chrome route, finish rendered checks, then complete review, merge and the unpublished Shopify draft.",
-  "updated": "2026-10-13T10:30:48.955471+00:00",
+  "remaining": "Remaining hosted checks and rendered acceptance. Chrome access has recovered. The Shopify draft still has the older Quick view control; the newer Add to cart + control is verified in the preview and awaits the final approved upload.",
+  "current": "All three assembly splits are merged. Big Bag #4316 has passed its first independent code review; hosted tests are finishing. The missing + report has been checked on desktop and phone in the restored storefront preview.",
+  "next": "Finish Big Bag’s rendered checks and required hosted gates, merge it, then install and verify the complete unpublished Shopify draft.",
+  "updated": "2026-10-13T10:47:07.206068+00:00",
   "links": [
     {
       "title": "PR #4316",
