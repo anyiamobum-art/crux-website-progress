@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original Opus 5.5 writer completed the three repairs. One bounded continuation request for the per-page issue has reached the existing Bridge; execution is not yet verified. This website task retains PR publication.",
+  "workerState": "Opus 5.5 execution is verified on the original compact continuation. The extra coordination wait was removed; one writer is active and this website task retains PR publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T06:59:42Z — verified the repaired head 4e047336 and both remote proof logs: 120 browser-script cases, 36 Python tests and all 40 regression checks passed. No visual rating is claimed.",
+  "lastActualProgress": "2026-10-13T07:42:12.234Z — the original repair lane began executing tools on the prepared source. Earlier proof remains valid for its recorded source; final repair tests are pending.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Big Bag still needs the per-page repair, independent PR review and merge. Final ratings and Shopify preview acceptance are pending. Assistant routing is verified; activation waits for the privacy decision at draft readiness.",
-  "current": "All three assembly splits are merged. Big Bag’s three named repairs have passed their tests. One additional products-per-page edge case is assigned for correction before the PR opens.",
+  "remaining": "The final Big Bag repair is running. Its exact source and test result must pass review and merge before final ratings and Shopify draft acceptance.",
+  "current": "All three assembly splits are merged. Big Bag’s three earlier repairs passed their tests. The original Opus 5.5 lane is now executing the final products-per-page repair.",
   "next": "Fix and test the products-per-page mismatch, then open the Big Bag PR, obtain exact-head size admission, complete review and merge. Continue final ratings and the unpublished Shopify draft.",
-  "updated": "2026-10-13T07:01:29.077534+00:00",
+  "updated": "2026-10-13T07:45:10.789216+00:00",
   "links": [
     {
       "title": "Buyer notes #4294",
