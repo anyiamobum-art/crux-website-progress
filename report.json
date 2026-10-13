@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Opus repair completed. Hosted tests and source guards passed on the unchanged commit; the original independent reviewer is executing. Account routing awaits original-author coordination.",
+  "workerState": "Hosted tests passed. Round 1 returned one finding; the original builder has not restarted. The existing coordination owner has the precise registration error and recovery request.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T22:54:40Z — The current hosted test gate passed after all five test shards succeeded. An old Draft failure was reconciled; no test rerun or duplicate repair.",
+  "lastActualProgress": "2026-10-13T23:14:50Z — Consumed the review finding, prepared its source-bound repair brief, and diagnosed the missing original-session registration before any duplicate model call.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Three reproduced hosted issues remain. Final Fable 5.1, Astra 6 and Opus 5.5 scores are still 0 / 3. The assistant remains off pending its privacy decision.",
-  "current": "The missing-plus and pet-animation repairs in #4331 have passed all five hosted test shards and the final test gate. The independent review is running; the repair is not installed in the Shopify draft yet.",
-  "next": "Consume #4331’s independent review and clear its protected merge requirements, then install and check the accepted repair in the unpublished draft. Resolve the separate account return route and finish the three original final ratings.",
-  "updated": "2026-10-13T22:56:19.581290+00:00",
+  "remaining": "The original builder’s resume record needs recovery before the named fix can run. Three hosted issues remain open; final ratings are still 0 / 3 and the assistant remains off pending its privacy decision.",
+  "current": "The missing-plus repair passed its hosted tests. Independent review found one remaining overlap on the product-page “Choose a size” button. Its focused fix is prepared for the original builder.",
+  "next": "Resume the original builder, repair the size-selection overlap and pass the next review. Then install and check the accepted repair in the unpublished Shopify draft.",
+  "updated": "2026-10-13T23:16:03.505924+00:00",
   "links": [
     {
       "title": "PR #4316",
