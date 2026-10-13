@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "One existing continuation is queued at the shared five-worker limit. The repair is preserved; no duplicate writer was started. This website task retains PR publication.",
+  "workerState": "The original Opus 5.5 continuation is running and completing its proof manifest and self-review. This website task retains PR publication; no duplicate writer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "The three completed repairs passed 120 Node cases, 36 Python cases, 40 causal checks and six combined layout checks. The final products-per-page repair now passes 121 Node cases, 36 Python cases and six combined layout checks; its 44 causal checks are running. Shopify shopping journeys remain separate."
+      "evidence": "The three completed repairs passed 120 Node cases, 36 Python cases, 40 causal checks and six combined layout checks. The final products-per-page repair now passes 121 Node cases, 36 Python cases and six combined layout checks; all 44 causal checks also pass. Shopify shopping journeys remain separate."
     },
     {
       "stage": "Review",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T08:06:57Z — the original Opus 5.5 writer committed the per-page repair as b59932f9. Its proof command was interrupted; the existing continuation will complete the remaining proof.",
+  "lastActualProgress": "2026-10-13T09:37:16Z — all 44 causal checks passed remotely on the committed repair b59932f9, after 121 Node cases, 36 Python cases and six combined layout checks passed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,9 +124,9 @@
     ],
     [
       "11. BIG BAG page and navigation",
-      "Three repairs passed; one setting edge case being fixed",
-      "Repaired head 4e047336: 120 Node cases, 36 Python tests and 40 causal checks passed. All three assembly splits are included.",
-      "Close the per-page mismatch, then exact-head PR review and merge, attended design evidence and Shopify draft verification."
+      "Repairs and remote proof complete; original self-review receipt pending",
+      "Head b59932f9 preserves all three assembly splits and passes 121 Node cases, 36 Python cases, 44 causal checks and six combined layout checks.",
+      "Consume the original receipt, then exact-head PR review and merge, attended design evidence and Shopify draft verification."
     ]
   ],
   "completed": [
@@ -136,9 +136,9 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
   "remaining": "The original Big Bag continuation is finishing its proof and self-review receipt. Final review, merge, ratings and Shopify draft acceptance remain pending.",
-  "current": "All three assembly splits are merged. The final Big Bag repair is committed. Its original continuation has passed remote integration tests and is running the final causal checks.",
+  "current": "All three assembly splits are merged. The final Big Bag repair is committed. Its original continuation has passed all remote integration and causal checks and is completing its self-review receipt.",
   "next": "Finish proof on the saved Big Bag repair, then open its PR, obtain size admission, complete review and merge. Continue final ratings and the unpublished Shopify draft.",
-  "updated": "2026-10-13T09:37:01.087556+00:00",
+  "updated": "2026-10-13T09:38:02.058822+00:00",
   "links": [
     {
       "title": "Buyer notes #4294",
