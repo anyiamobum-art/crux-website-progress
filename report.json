@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "A and B passed admission and entered their original first reviews. Big Bag’s same reviewer is executing; its continuation preserves the source and review history. No final verdict or score is claimed.",
+  "workerState": "Buyer notes first review approved; current tests continue. Assistant repair continuation delivered to the original custodian, actual builder execution not yet verified. Big Bag’s original reviewer is executing on the frozen repaired source.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T01:18:14Z — Verified actual tool execution by the resumed original Opus 5.5 reviewer. A and B admission passed and their original test and first-review jobs are running.",
+  "lastActualProgress": "2026-10-13T01:25:44Z — Consumed buyer-notes first approval and the assistant’s one named rejection. Prepared and delivered the exact assistant repair scope, preserving its original writer and review history.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
     [
       "9. Complete website assembly merge",
       "1 of 3 splits merged",
-      "Collection #4284 merged as ca3121a044. Assistant #4288 at 88289c65 and buyer notes #4294 at 500eebb6 are now Ready; fresh hosted tests and original first reviews are running. The earlier Draft test-gate did not execute tests.",
+      "Collection #4284 merged as ca3121a044. Assistant #4288 at 88289c65 received one first-review routing finding; the original writer’s focused continuation is delivered. Buyer notes #4294 at 500eebb6 passed first review; remaining tests and critical review continue. The earlier Draft test-gate did not execute tests.",
       "Consume current checks and original reviews, repair only real findings, then merge and integrate Big Bag."
     ],
     [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "A and B still need passing current checks, independent reviews and merges. Big Bag awaits its original reviewer’s consolidated result. Final motion, real-product and three-model acceptance remain outstanding.",
-  "current": "The assistant and buyer-notes first reviews and test runs are underway. Big Bag’s original Opus 5.5 reviewer has resumed on the repaired source.",
-  "next": "Consume the hosted checks and original reviews for assistant and buyer notes. Complete the original Big Bag reviewer follow-up, repair its remaining findings, then merge Big Bag and verify the unpublished Shopify draft.",
-  "updated": "2026-10-13T01:19:22.275144+00:00",
+  "remaining": "The assistant needs one routing repair and fresh review. Buyer notes still needs its remaining tests and critical review. Big Bag’s consolidated result, final motion and real-product evidence, and all three final ratings remain outstanding.",
+  "current": "Buyer notes passed its first independent review. The assistant’s first review found one proxy-routing defect; its focused repair has been sent through the original builder’s custodian. Big Bag’s original Opus 5.5 review is running.",
+  "next": "Finish the assistant’s named repair and both assembly review paths, consume Big Bag’s original review, then merge the remaining source and verify the unpublished Shopify draft.",
+  "updated": "2026-10-13T01:28:00.624352+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
