@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Local 130c23f4: 117 Node cases, 36 Python passes, 37 causal checks and six combined layout checks. The next named repairs require fresh affected proof. Shopify shopping journeys remain separate."
+      "evidence": "The three completed repairs passed 120 Node cases, 36 Python cases, 40 causal checks and six combined layout checks. The final products-per-page repair is committed; its exact-source proof remains queued. Shopify shopping journeys remain separate."
     },
     {
       "stage": "Review",
@@ -90,7 +90,7 @@
       "5. Buyer trust and WhatsApp reviews",
       "Original components merged — connected acceptance pending",
       "Endpoint #4205 and authenticated caller #4265 are merged; all 14 files match the original service owner’s verified deployment.",
-      "Existing order and exact item are verified directly in Shopify. Read-only buyer lookup awaits the purchaser’s existing storefront sign-in; consent and publication remain separate."
+      "The purchaser is now signed in. The original CS owner is reconciling the selected purchase with the orders visible in that account before the draft’s read-only lookup. Consent and publication remain separate."
     ],
     [
       "6. Assistant privacy facts",
@@ -138,7 +138,7 @@
   "remaining": "The original Big Bag continuation is waiting for a worker slot to finish its proof. Final review, merge, ratings and Shopify draft acceptance remain pending.",
   "current": "All three assembly splits are merged. The final Big Bag products-per-page fix is committed; its remaining proof is queued after an interrupted run.",
   "next": "Finish proof on the saved Big Bag repair, then open its PR, obtain size admission, complete review and merge. Continue final ratings and the unpublished Shopify draft.",
-  "updated": "2026-10-13T08:33:32.338644+00:00",
+  "updated": "2026-10-13T08:58:54.453861+00:00",
   "links": [
     {
       "title": "Buyer notes #4294",
