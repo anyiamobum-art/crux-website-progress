@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Website parent is checking the original Big Bag source in Chrome while the existing hosted jobs run. No new writer or duplicate review.",
+  "workerState": "Website parent is executing one recorded draft installation: 96 changes in four batches, with 41 exact overwrite backups. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,22 +21,22 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T10:47:07.206068+00:00 — first code review approved; product-card + opens size selection and selecting a size enables Add to cart at 380 px. Original preview server restored; no live publication.",
-  "milestone": "Draft delivery · 0 of 3 verified",
+  "lastActualProgress": "2026-10-13T11:12:30.601893+00:00 — Big Bag merged as 68c29b29; exact assembly and upload manifest bound. Preview + opens size selection. Draft installation started, not yet verified.",
+  "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
     {
       "scope": "Release work checklist",
-      "completed": 5,
+      "completed": 6,
       "total": 11,
-      "percent": 45.5,
+      "percent": 54.5,
       "basis": "Explicit scoped checklist; not overall effort"
     },
     {
       "scope": "Final milestone checklist",
-      "completed": 0,
+      "completed": 1,
       "total": 3,
-      "percent": 0.0,
+      "percent": 33.3,
       "basis": "Explicit scoped checklist; not overall effort"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Each requested model rates the same finished website at 9.5 or higher under the chair’s new final-assembly scope; all historical review rounds remain frozen."
     },
     {
-      "complete": false,
+      "complete": true,
       "title": "All required approved source is merged and bound to one exact finished assembly."
     },
     {
@@ -112,21 +112,21 @@
     ],
     [
       "9. Complete website assembly merge",
-      "All 3 assembly splits merged; Big Bag pending",
-      "Collection #4284: ca3121a044. Assistant #4288: 6dee0865, merged at 04:30:43 UTC; all ten approved files match main and the hosted A+B tests passed. Buyer notes #4294: e1df033e. These are source merges, not final website acceptance.",
-      "Verify combined A/B/C source with Big Bag, complete its review and merge, then bind one final assembly."
+      "Complete — merged and source-bound",
+      "Collection #4284: ca3121a044; assistant #4288: 6dee0865; buyer notes #4294: e1df033e; Big Bag #4316: 68c29b29. All 163 theme files match the reviewed candidate, merge and captured main.",
+      "Install this exact assembly in the unpublished draft and verify shopping."
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Unpublished target and rollback copies verified; upload pending",
-      "Fresh Shopify read: 163 candidate files, 96 changes, 41 exact overwrite backups, no oversized files. The target remains unpublished. No upload has started.",
-      "Bind the approved merged assembly, upload to the draft, verify its preview and shopping journeys, and hand over the draft link. The owner decides publication."
+      "Approved draft installation in progress",
+      "163 candidate files; 96 changes in four batches; 41 exact overwrite backups. One exclusive installation attempt has started.",
+      "Verify hosted bytes and real shopping journeys before calling the draft complete. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
-      "PR #4316 first code review approved; hosted tests finishing",
-      "Frozen b59932f9 received original round-1 approval with no high or medium findings. Exact-head size admission passed. No final design score is implied.",
-      "Finish required gates, merge, complete rendered evidence and verify the Shopify draft."
+      "PR #4316 merged; rendered acceptance pending",
+      "Required code review and hosted checks passed. Local evidence includes 380/430/1280 views, header checks and a 31.76-second journey recording. No final design score is implied.",
+      "Verify the Shopify version and retain the original design readers."
     ]
   ],
   "completed": [
@@ -135,9 +135,9 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Remaining hosted checks and rendered acceptance. Chrome access has recovered. The Shopify draft still has the older Quick view control; the newer Add to cart + control is verified in the preview and awaits the final approved upload.",
-  "current": "All three assembly splits are merged. Big Bag #4316 has passed its first independent code review; hosted tests are finishing. The missing + report has been checked on desktop and phone in the restored storefront preview.",
-  "next": "Finish Big Bag’s rendered checks and required hosted gates, merge it, then install and verify the complete unpublished Shopify draft.",
+  "remaining": "Final rendered and shopping acceptance and the three final 9.5 ratings remain. The assistant stays off pending its privacy decision.",
+  "current": "Big Bag and all three assembly splits are merged. The complete 163-file theme matches the reviewed source. The approved update to the unpublished Shopify draft is in progress.",
+  "next": "Verify Shopify-served files and the actual Add to cart + journey, then complete the original three-model design acceptance.",
   "updated": "2026-10-13T10:47:07.206068+00:00",
   "links": [
     {
@@ -177,13 +177,13 @@
   "rawReport": "",
   "warnings": [],
   "releaseProgress": {
-    "done": 0,
+    "done": 1,
     "total": 3
   },
   "workProgress": {
-    "done": 5,
+    "done": 6,
     "total": 11,
-    "percent": 46
+    "percent": 54
   },
   "ratings": [
     {
