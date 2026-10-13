@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Both build workers finished. The browser desk completed 14 corrected-source captures; all hashes were verified and seven images inspected. The original reviewer continuation has been delivered through Bridge; execution is not yet confirmed.",
+  "workerState": "A and B are Ready with current hosted checks; no new builder fix was justified by the historical Draft gate. Big Bag’s corrected capture is verified. One bounded follow-up asks its original custodian to execute the pending reviewer resume or identify an actual route failure.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T00:00:17Z - Consumed the corrected Big Bag capture at 803efe03, verified 14 image hashes and prepared the remaining issues for the original reviewer.",
+  "lastActualProgress": "2026-10-13T01:09:49Z - Diagnosed buyer-notes test-gate from its actual log: Draft status skipped the suite. Verified fresh Ready runs for both assembly splits and recorded the original CI owner as the next step.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,8 +113,8 @@
     [
       "9. Complete website assembly merge",
       "1 of 3 splits merged",
-      "Collection #4284 merged as ca3121a044 after both original code reviews and all required checks. All 11 merged files match the approved head. Assistant #4288 now includes merged C with combined proof at 88289c65; it and buyer notes #4294 await their original reviews.",
-      "Complete original A/B reviews and merges, then integrate Big Bag on fresh main."
+      "Collection #4284 merged as ca3121a044. Assistant #4288 at 88289c65 and buyer notes #4294 at 500eebb6 are now Ready; fresh hosted checks and original independent reviews are pending. The earlier Draft test-gate did not execute tests.",
+      "Consume current checks and original reviews, repair only real findings, then merge and integrate Big Bag."
     ],
     [
       "10. Completed Shopify draft and handover",
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Assistant and buyer notes still await independent reviews and merge. Big Bag needs the remaining visual issues resolved, motion evidence and real-product acceptance. All three final website ratings remain pending.",
-  "current": "The collection split is merged. The corrected Big Bag capture confirms the main repairs. Two visible issues remain: desktop navigation wrapping and WhatsApp overlapping the footer arrow.",
-  "next": "The original reviewer checks the repaired Big Bag evidence and returns remaining findings to its original builder. Assistant and buyer notes continue through the chair’s existing review queue, followed by Big Bag integration, final ratings and the unpublished Shopify draft.",
-  "updated": "2026-10-13T00:02:37.086438+00:00",
+  "remaining": "A and B still need passing current checks, independent reviews and merges. Big Bag’s original reviewer resume is overdue; the existing custodian has the exact session and source. Final motion, real-product and three-model acceptance remain outstanding.",
+  "current": "Assistant and buyer notes have entered the review queue. Fresh hosted checks are running or queued on their unchanged source; the old Draft-only test failure has been diagnosed.",
+  "next": "Consume the hosted checks and original reviews for assistant and buyer notes. Complete the original Big Bag reviewer follow-up, repair its remaining findings, then merge Big Bag and verify the unpublished Shopify draft.",
+  "updated": "2026-10-13T01:11:27.239226+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
