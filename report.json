@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original Opus 5.5 continuation is running and completing its proof manifest and self-review. This website task retains PR publication; no duplicate writer was started.",
+  "workerState": "The original Opus 5.5 writer has finished. This website task submitted PR #4316 and is continuing admission, review and draft delivery.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T09:37:16Z — all 44 causal checks passed remotely on the committed repair b59932f9, after 121 Node cases, 36 Python cases and six combined layout checks passed.",
+  "lastActualProgress": "2026-10-13T09:51:19.311396+00:00 — PR #4316 created at b59932f9 after verified remote proof and source-bound self-review.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,9 +124,9 @@
     ],
     [
       "11. BIG BAG page and navigation",
-      "Repairs and remote proof complete; original self-review receipt pending",
-      "Head b59932f9 preserves all three assembly splits and passes 121 Node cases, 36 Python cases, 44 causal checks and six combined layout checks.",
-      "Consume the original receipt, then exact-head PR review and merge, attended design evidence and Shopify draft verification."
+      "PR #4316 submitted; size admission requested",
+      "Head b59932f9 preserves all three assembly splits and passes 121 Node cases, 36 Python cases, 44 causal checks and six combined layout checks. Original self-review is complete; it is not independent approval.",
+      "Chair size admission, Ready, original review and merge; rendered design evidence and Shopify draft verification."
     ]
   ],
   "completed": [
@@ -135,11 +135,15 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "The original Big Bag continuation is finishing its proof and self-review receipt. Final review, merge, ratings and Shopify draft acceptance remain pending.",
-  "current": "All three assembly splits are merged. The final Big Bag repair is committed. Its original continuation has passed all remote integration and causal checks and is completing its self-review receipt.",
-  "next": "Finish proof on the saved Big Bag repair, then open its PR, obtain size admission, complete review and merge. Continue final ratings and the unpublished Shopify draft.",
-  "updated": "2026-10-13T09:38:02.058822+00:00",
+  "remaining": "Big Bag’s size admission is requested. Code review, merge, final ratings and Shopify draft acceptance remain pending.",
+  "current": "All three assembly splits are merged. Big Bag’s repaired source is submitted as PR #4316; its tests and original self-review are complete.",
+  "next": "Obtain the chair’s exact-commit size admission, mark Big Bag Ready, and follow its reviews and checks through merge. Continue rendered evidence and the unpublished Shopify draft.",
+  "updated": "2026-10-13T09:51:19.311396+00:00",
   "links": [
+    {
+      "title": "PR #4316",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4316"
+    },
     {
       "title": "Buyer notes #4294",
       "path": "https://github.com/EON-CRUX/3.09/pull/4294"
@@ -167,10 +171,6 @@
     {
       "title": "Checkout #4202",
       "path": "https://github.com/EON-CRUX/3.09/pull/4202"
-    },
-    {
-      "title": "Search #4201",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4201"
     }
   ],
   "source": "Published projection of the original task report",
