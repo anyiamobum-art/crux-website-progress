@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Both build workers finished. Big Bag passed 13 behavior cases and 32 regression checks; the preview was restarted to remove mixed old markup and new assets. The capture brief was delivered; capture execution is not yet confirmed.",
+  "workerState": "Both build workers finished. The browser desk completed 14 corrected-source captures; all hashes were verified and seven images inspected. The original reviewer continuation has been delivered through Bridge; execution is not yet confirmed.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-12T23:34:12Z - Verified Big Bag repair 803efe03 and its source-bound remote proof; restarted the existing preview and verified repaired markup, CSS and JavaScript together.",
+  "lastActualProgress": "2026-10-13T00:00:17Z - Consumed the corrected Big Bag capture at 803efe03, verified 14 image hashes and prepared the remaining issues for the original reviewer.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -114,7 +114,7 @@
       "9. Complete website assembly merge",
       "1 of 3 splits merged",
       "Collection #4284 merged as ca3121a044 after both original code reviews and all required checks. All 11 merged files match the approved head. Assistant #4288 now includes merged C with combined proof at 88289c65; it and buyer notes #4294 await their original reviews.",
-      "Continue original A/B integration, reviews and merges, then Big Bag."
+      "Complete original A/B reviews and merges, then integrate Big Bag on fresh main."
     ],
     [
       "10. Completed Shopify draft and handover",
@@ -124,9 +124,9 @@
     ],
     [
       "11. Big Bag homeware experience",
-      "Named repairs implemented; rendered acceptance pending",
-      "Repair 803efe03: all 14 source hashes verified, 13 behavior cases and 32 causal checks passed. The preview now serves the repaired markup and assets together.",
-      "Original browser desk checks the repaired states. Real-product imagery, motion measurements and final independent ratings remain pending."
+      "Corrected capture verified; remaining visual issues under review",
+      "Repair 803efe03 passed its remote checks. All 14 corrected capture hashes match; title, filters, category landing and image switching now hold in the observed states. Desktop navigation wraps and WhatsApp overlaps the footer arrow.",
+      "Original reviewer checks the remaining findings; original builder repairs them. Motion measurements, real-product imagery and final independent ratings remain pending."
     ]
   ],
   "completed": [
@@ -135,10 +135,10 @@
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating.",
     "Superseded drafts [#3736](https://github.com/EON-CRUX/3.09/pull/3736), [#3739](https://github.com/EON-CRUX/3.09/pull/3739) and [#3772](https://github.com/EON-CRUX/3.09/pull/3772) are closed with their branches retained. All 36 changed runtime/test paths are present in merged slices, as unchanged originals or reviewed successors; historical preview and documentation files remain recoverable. This removes duplicate release work and does not add a final website acceptance."
   ],
-  "remaining": "Assistant and buyer notes still await independent reviews and merge. Big Bag needs corrected-source visual and motion evidence; real-product imagery and final three-model acceptance remain outstanding.",
-  "current": "The collection split is merged. Assistant integration and the named Big Bag repairs are built and tested. The corrected Big Bag preview is ready for the original browser desk to check visually.",
-  "next": "Verify the repaired Big Bag capture while assistant and buyer notes proceed through the original review queue. Merge the approved assembly, obtain all three final ratings and complete the unpublished Shopify draft.",
-  "updated": "2026-10-12T23:36:20.747559+00:00",
+  "remaining": "Assistant and buyer notes still await independent reviews and merge. Big Bag needs the remaining visual issues resolved, motion evidence and real-product acceptance. All three final website ratings remain pending.",
+  "current": "The collection split is merged. The corrected Big Bag capture confirms the main repairs. Two visible issues remain: desktop navigation wrapping and WhatsApp overlapping the footer arrow.",
+  "next": "The original reviewer checks the repaired Big Bag evidence and returns remaining findings to its original builder. Assistant and buyer notes continue through the chair’s existing review queue, followed by Big Bag integration, final ratings and the unpublished Shopify draft.",
+  "updated": "2026-10-13T00:02:37.086438+00:00",
   "links": [
     {
       "title": "Reference typography #4251",
