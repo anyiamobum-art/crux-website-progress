@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "One scoped companion repair is queued through the existing build lane. Account routing is with original-author coordination. The parent continues Shopify acceptance; the live theme is unchanged.",
+  "workerState": "Companion repair is queued at the existing worker capacity. Account routing awaits original-author coordination. Signed buyer lookup and Big Bag filter checks are now verified.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T11:52:53.846979+00:00 — Mobile overlap reproduced; stale pet module identified from browser-loaded source; Big Bag Lighting filters and price sorting passed on Shopify.",
+  "lastActualProgress": "2026-10-13T12:03:06.892697+00:00 — Real signed buyer lookup passed HTTP 200; draft-only feedback configuration read back; Big Bag quantity fallback reaches an enabled product purchase button.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -90,7 +90,7 @@
       "5. Buyer trust and WhatsApp reviews",
       "Original components merged — connected acceptance pending",
       "Endpoint #4205 and authenticated caller #4265 are merged; all 14 files match the original service owner’s verified deployment.",
-      "Purchaser and owned item are verified. The installed feedback interface defaults off with no proxy path; reconcile draft-only configuration and signed forwarding with the original service owner. No feedback or publication action taken."
+      "Actual signed-in purchaser lookup passed HTTP 200 through Shopify for the verified owned item; no review existed. Draft-only account settings verified, with the live theme unchanged. No feedback was saved or shared; public notes and full consent acceptance remain separate."
     ],
     [
       "6. Assistant privacy facts",
@@ -137,8 +137,8 @@
   ],
   "remaining": "Three reproduced hosted issues remain. Final Fable 5.1, Astra 6 and Opus 5.5 scores are still 0 / 3. The assistant remains off pending its privacy decision.",
   "current": "The merged website is installed in the unpublished Shopify draft. Real Add to cart and bag add/remove passed, but the mobile check found WhatsApp covering one product’s plus button.",
-  "next": "Repair the mobile overlap and stale pet animation loading, correct the account return-to-shop route, then finish buyer acceptance and the three original final ratings.",
-  "updated": "2026-10-13T11:52:53.846979+00:00",
+  "next": "Repair the mobile overlap and stale pet animation loading, correct the account return-to-shop route, then complete remaining rendered acceptance and the three original final ratings.",
+  "updated": "2026-10-13T12:03:06.892697+00:00",
   "links": [
     {
       "title": "PR #4316",
