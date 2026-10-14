@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 and #4344 are merged, installed and verified. Header head 204fc663 has 18 WebKit checks, 39 Node cases and 25 causal checks passing; hosted tests are running. Companion head 665b9355 has 131 remote cases and 46 subtests passing; the related follow-up is authorized for its original author, with execution not yet acknowledged. No live publication.",
+  "workerState": "#4331 and #4344 are merged, installed and verified. #4345 merged as 578fafce after review and all required checks; all six files match the approved source. The same companion author is queued through the existing launcher, with a fresh provider-seat check before execution. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T11:25:46Z — The review system admitted header head 204fc663 to round two after its named-fix push. The companion follow-up brief is prepared and delivered through the existing custodian; that delivery is not execution.",
+  "lastActualProgress": "2026-10-14T11:40:36.848390+00:00 — Header repair merged and all six files verified against the approved head, merge and main. Its two stylesheet assets are prepared for the unpublished draft. Companion continuation acknowledged by the chair; execution is tracked separately.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
   ],
-  "remaining": "Final ratings remain 0 / 3. #4345 needs its second review and running hosted checks; #4353 needs the close-button clearance follow-up, review and merge. Assistant privacy approval remains pending.",
-  "current": "The header repair #4345 has entered its second review. Companion repair #4353 is submitted; its original author has one related short-height overlap to close before review.",
+  "remaining": "Final ratings remain 0 / 3. #4353 needs its bounded close-button repair, original review and merge, followed by the combined Shopify draft checks. Assistant privacy approval remains pending.",
+  "current": "The header repair #4345 passed its second review and is merged. The chair has queued the original companion author for the remaining close-button overlap on #4353.",
   "next": "Take both repairs through their original reviews and merge, install only the approved changes, then verify the Shopify draft and collect the three final ratings.",
-  "updated": "2026-10-14T11:32:06.561170+00:00",
+  "updated": "2026-10-14T11:41:31.214557+00:00",
   "links": [
     {
       "title": "PR #4316",
