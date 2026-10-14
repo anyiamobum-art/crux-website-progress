@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 and #4344 are merged, installed and verified. #4345 hosted tests pass, but its first code review rejected one layout defect. The original Opus 5.5 companion writer has resumed and is examining the source. No live publication.",
+  "workerState": "#4331 and #4344 are merged, installed and verified. #4345 hosted tests pass; its original writer is answering the first review’s single finding. The original companion writer has begun source edits. Proof and review remain pending. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T10:36:32.078406+00:00 — Original companion source work verified after same-session compaction. The latest public task-site update is verified online. Header R1 repair remains with its original writer.",
+  "lastActualProgress": "2026-10-14T10:42:01.200167+00:00 — Verified both original repair sessions executing, with no replacement writers. All 17 saved acceptance-evidence references match their recorded hashes.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -136,9 +136,9 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
   ],
   "remaining": "Final ratings remain 0 / 3. #4345 needs its one named review fix. The original Opus 5.5 writer is working on the companion repair. Assistant privacy approval remains pending.",
-  "current": "Review found one remaining defect in #4345: the header with customer accounts enabled has five tools, while its narrow-width fixture tested four. The same builder has one scoped repair to make.",
+  "current": "Both original Opus 5.5 writers are active: one is repairing the five-tool header found by review, the other is fixing the companion invitation covering collection controls.",
   "next": "Fix and review the five-tool header; finish the companion invitation clearance repair; install approved changes and verify the draft before the three final ratings.",
-  "updated": "2026-10-14T10:36:32.078406+00:00",
+  "updated": "2026-10-14T10:42:01.200167+00:00",
   "links": [
     {
       "title": "PR #4316",
