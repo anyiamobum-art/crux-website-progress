@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Repair #4331 is reviewed, merged, installed and verified in Chrome. The original chair owns account-conversation access recovery. A complete journey recording follows Studio’s current Chrome check; the existing partial recording does not count as acceptance.",
+  "workerState": "Repair #4331 is reviewed, merged, installed and verified in Chrome. A 29.68-second phone-layout recording now covers Grid/Focus, plus/options, filters and the pet’s Dance action. Chrome is restored and released. Original-author account access recovery remains with the chair.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T01:59:26.950598+00:00 — Account source matched byte-for-byte to the original author’s export. The original conversation redirects with an unavailable-session notice; no repair prompt was sent. Hosted plus, size and pet checks remain passed.",
+  "lastActualProgress": "2026-10-14T02:10:37.388381+00:00 — Hosted phone-layout journey recorded and the encoded video verified. All ten recorded steps passed, with no capture errors in the completed pass. This is browser evidence, not a final model rating or native iPhone measurement.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Final ratings remain 0 / 3. The original account-link author is identified, but the original repair conversation cannot be opened. The chair is resolving access. Assistant privacy approval and remaining acceptance evidence are separate open items.",
   "current": "The plus and size controls work on the hosted phone layout. WhatsApp gives them space, and Dance, Wave, Lean and Bounce run correctly in the installed draft.",
-  "next": "Resolve the account return link through its original author, finish the evidence recording, then obtain the original three-model assessment.",
-  "updated": "2026-10-14T02:03:33.690431+00:00",
+  "next": "Resolve the account return link through its original author, complete the remaining accessibility and native iPhone checks, then obtain the original three-model assessment.",
+  "updated": "2026-10-14T02:12:11.084202+00:00",
   "links": [
     {
       "title": "PR #4316",
