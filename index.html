@@ -30,7 +30,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 and #4344 are merged, installed and verified. #4345 merged as 578fafce after review and all required checks; all six files match the approved source. The same companion author is queued through the existing launcher, with a fresh provider-seat check before execution. No live publication.",
+  "workerState": "#4331, #4344 and #4345 are merged and installed. #4345’s two hosted stylesheets match approved source and the live theme is unchanged. #4353 is Ready under original review; no new push is allowed while that head is being read.",
   "journey": [
     {
       "stage": "Build",
@@ -49,7 +49,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T11:40:36.848390+00:00 — Header repair merged and all six files verified against the approved head, merge and main. Its two stylesheet assets are prepared for the unpublished draft. Companion continuation acknowledged by the chair; execution is tracked separately.",
+  "lastActualProgress": "2026-10-14T11:45:15.898305+00:00 — Header stylesheet installation verified byte-for-byte in unpublished theme 166627606744; all live-theme files and unrelated draft files preserved. Rendered acceptance remains pending.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,13 +142,13 @@
       "9. Complete website assembly merge",
       "Complete — merged and source-bound",
       "Collection #4284: ca3121a044; assistant #4288: 6dee0865; buyer notes #4294: e1df033e; Big Bag #4316: 68c29b29. All 163 theme files match the reviewed candidate, merge and captured main.",
-      "Exact assembly installed; cart transaction passes. Mobile overlap repair is merged, installed and verified; account return-route repair is now installed and verified; enlarged-text and companion follow-ups remain."
+      "Exact assembly installed; cart transaction passes. Mobile overlap repair is merged, installed and verified; account return-route repair is now installed and verified; header installation is complete; enlarged-text rendered acceptance and companion follow-up remain."
     ],
     [
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
       "163 candidate files verified at assembly upload; later account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Account return route verified. Finish enlarged-text and companion repairs plus final acceptance. Never publish live."
+      "Account return route verified. Finish enlarged-text rendered acceptance and companion review/repair plus final acceptance. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -158,19 +158,23 @@
     ]
   ],
   "completed": [
+    "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance.",
     "[Account return #4344](https://github.com/EON-CRUX/3.09/pull/4344) merged as 60c3c77f after its original review and all five hosted test groups passed. The one changed theme snippet was installed in unpublished theme 166627606744. Exact readback and the signed-in Back to the shop journey passed at 09:53 Lagos on 14 October. The live theme stayed unchanged.",
     "[Buyer notes #4294](https://github.com/EON-CRUX/3.09/pull/4294) merged at 01:51:34 UTC as e1df033e. All seven changed files match the approved head, merge and captured main. The original first approval and all required test results are recorded; no second approval is inferred from the merge. Connected buyer acceptance and final design ratings remain separate.",
-    "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
-    "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
+    "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font."
   ],
-  "remaining": "Final ratings remain 0 / 3. #4353 needs its bounded close-button repair, original review and merge, followed by the combined Shopify draft checks. Assistant privacy approval remains pending.",
-  "current": "The header repair #4345 passed its second review and is merged. The chair has queued the original companion author for the remaining close-button overlap on #4353.",
-  "next": "Take both repairs through their original reviews and merge, install only the approved changes, then verify the Shopify draft and collect the three final ratings.",
-  "updated": "2026-10-14T11:41:31.214557+00:00",
+  "remaining": "Final ratings remain 0 / 3. The companion continuation could not start because its launcher’s usage check returned a rate-limit error. The existing launcher will check once at 12:43 UTC. Review proceeds independently; assistant privacy approval remains pending.",
+  "current": "Header repair #4345 passed review, merged and is installed in the unpublished Shopify draft. Companion repair #4353 is in its original first review; its additional close-button fix remains with the same author.",
+  "next": "Complete the original companion review and named repair in the chair’s required order, install the approved result, then finish draft verification and the three final ratings.",
+  "updated": "2026-10-14T11:53:20.938569+00:00",
   "links": [
     {
       "title": "PR #4316",
       "path": "https://github.com/EON-CRUX/3.09/pull/4316"
+    },
+    {
+      "title": "Header reflow #4345",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4345"
     },
     {
       "title": "Account return #4344",
@@ -195,10 +199,6 @@
     {
       "title": "#3739",
       "path": "https://github.com/EON-CRUX/3.09/pull/3739"
-    },
-    {
-      "title": "#3772",
-      "path": "https://github.com/EON-CRUX/3.09/pull/3772"
     }
   ],
   "source": "Published projection of the original task report",
