@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Both earlier repair PRs are merged and installed. The original layout author is investigating 200% collection overflow; the original companion author resumed and is reading current source for invitation-close clearance. No duplicate writer or live publication.",
+  "workerState": "Both original Opus authors are executing. The collection candidate passed 28 checks; restoring the current stylesheet reproduced 11 failures. The companion fix is committed locally and is checking affected behavior. Final proof and review are pending.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T13:41:38Z — Original companion author began the new source repair after the stalled handoff was recovered. The original layout author is also executing; both retain their original model and history.",
+  "lastActualProgress": "2026-10-14T14:07:53Z — Original collection author reproduced failures using the current stylesheet after the candidate passed. Companion author is verifying each affected safety rule fails when removed and passes when restored.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -136,9 +136,9 @@
     "[Buyer notes #4294](https://github.com/EON-CRUX/3.09/pull/4294) merged at 01:51:34 UTC as e1df033e. All seven changed files match the approved head, merge and captured main. The original first approval and all required test results are recorded; no second approval is inferred from the merge. Connected buyer acceptance and final design ratings remain separate."
   ],
   "remaining": "Final ratings remain 0 / 3 while the two original authors complete the newly evidenced follow-ups. Both sessions are executing; no repair result is claimed yet. Assistant privacy approval remains pending.",
-  "current": "Both repairs are reviewed, merged and installed in the unpublished Shopify draft. Native testing now confirms the exact 200% setting; Search works, but collection reflow needs a small follow-up.",
+  "current": "Both earlier repairs are merged and installed. The two follow-ups are being tested: collection reflow at 200% zoom, and WhatsApp clearance for the invitation close.",
   "next": "Complete the original authors’ invitation-close and enlarged-text follow-ups, review and merge them, then run the final three reviews.",
-  "updated": "2026-10-14T13:42:37.142182+00:00",
+  "updated": "2026-10-14T14:09:10.896721+00:00",
   "links": [
     {
       "title": "PR #4316",
