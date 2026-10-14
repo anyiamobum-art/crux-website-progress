@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Repair #4331 is reviewed, merged, installed and verified in Chrome. Chrome has been released; the original chair owns the account-repair routing decision.",
+  "workerState": "Repair #4331 is reviewed, merged, installed and verified in Chrome. The original chair owns account-conversation access recovery. A complete journey recording follows Studio’s current Chrome check; the existing partial recording does not count as acceptance.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T01:36:44.308761+00:00 — Hosted plus, Choose a size, enabled Add to bag and all four pet actions verified; Pause stops motion. Big Bag navigation verified.",
+  "lastActualProgress": "2026-10-14T01:59:26.950598+00:00 — Account source matched byte-for-byte to the original author’s export. The original conversation redirects with an unavailable-session notice; no repair prompt was sent. Hosted plus, size and pet checks remain passed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "Final ratings remain 0 / 3. Account return-link repair custody, assistant privacy approval and remaining acceptance evidence are still open.",
+  "remaining": "Final ratings remain 0 / 3. The original account-link author is identified, but the original repair conversation cannot be opened. The chair is resolving access. Assistant privacy approval and remaining acceptance evidence are separate open items.",
   "current": "The plus and size controls work on the hosted phone layout. WhatsApp gives them space, and Dance, Wave, Lean and Bounce run correctly in the installed draft.",
   "next": "Resolve the account return link through its original author, finish the evidence recording, then obtain the original three-model assessment.",
-  "updated": "2026-10-14T01:36:44.308761+00:00",
+  "updated": "2026-10-14T02:03:33.690431+00:00",
   "links": [
     {
       "title": "PR #4316",
