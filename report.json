@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 is reviewed, merged, installed and verified. #4344 is awaiting review admission; the original collection owner is preparing #4345’s remaining repairs. No live publication.",
+  "workerState": "#4331 and #4344 are reviewed, merged, installed and verified. The original #4345 writer is executing. The confirmed companion overlap has one scoped follow-up delivered to its original builder. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T08:10:14.754788+00:00 — Completed repair reports consumed; #4344 source and green Draft-eligible checks verified; its existing review intake updated. Original collection owner acknowledged the remaining reflow gaps.",
+  "lastActualProgress": "2026-10-14T08:54:15.839161+00:00 — Installed the merged account snippet; exact Shopify readback passed. Clicking Back to the shop now opens the full collection. The live theme is unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,19 +130,23 @@
     ]
   ],
   "completed": [
+    "[Account return #4344](https://github.com/EON-CRUX/3.09/pull/4344) merged as 60c3c77f after its original review and all five hosted test groups passed. The one changed theme snippet was installed in unpublished theme 166627606744. Exact readback and the signed-in Back to the shop journey passed at 09:53 Lagos on 14 October. The live theme stayed unchanged.",
     "[Buyer notes #4294](https://github.com/EON-CRUX/3.09/pull/4294) merged at 01:51:34 UTC as e1df033e. All seven changed files match the approved head, merge and captured main. The original first approval and all required test results are recorded; no second approval is inferred from the merge. Connected buyer acceptance and final design ratings remain separate.",
     "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
-    "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
-    "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
+    "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
   ],
-  "remaining": "Final ratings remain 0 / 3. The two repairs still need review, merge and draft verification. A reported desktop companion overlap is awaiting actual-draft reproduction. Assistant privacy approval remains pending.",
-  "current": "Account return-link repair #4344 is built and its focused tests and regression checks pass. The enlarged-text Grid/Focus repair #4345 is built; three remaining page-reflow gaps are back with its original writer.",
-  "next": "Take #4344 through the existing review queue, complete #4345’s header, footer and Filter reflow, then install the approved repairs in the unpublished Shopify draft.",
-  "updated": "2026-10-14T08:10:14.754788+00:00",
+  "remaining": "Final ratings remain 0 / 3. Enlarged-text header/footer/Filter reflow and the desktop companion invitation overlap still need completed repairs and acceptance. Assistant privacy approval remains pending.",
+  "current": "Account return repair #4344 has passed review, merged and been verified in the unpublished Shopify draft. The enlarged-text Grid/Focus page repair #4345 is running with its original writer.",
+  "next": "Finish and review the enlarged-text repair and the companion invitation clearance repair, install their approved changes, then obtain all three final website ratings.",
+  "updated": "2026-10-14T08:54:15.839161+00:00",
   "links": [
     {
       "title": "PR #4316",
       "path": "https://github.com/EON-CRUX/3.09/pull/4316"
+    },
+    {
+      "title": "Account return #4344",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4344"
     },
     {
       "title": "Buyer notes #4294",
@@ -167,10 +171,6 @@
     {
       "title": "#3772",
       "path": "https://github.com/EON-CRUX/3.09/pull/3772"
-    },
-    {
-      "title": "Checkout #4202",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4202"
     }
   ],
   "source": "Published projection of the original task report",
