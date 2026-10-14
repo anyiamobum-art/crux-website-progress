@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Hosted tests passed. Round 1 returned one finding; the original builder has not restarted. The existing coordination owner has the precise registration error and recovery request.",
+  "workerState": "Original Opus 5.5 builder resumed and made the named source edit. Tests, updated independent review and draft installation still need verification.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-13T23:14:50Z — Consumed the review finding, prepared its source-bound repair brief, and diagnosed the missing original-session registration before any duplicate model call.",
+  "lastActualProgress": "2026-10-14T00:44:00Z — The original writer made the focused repair after its session registration was recovered.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score.",
     "[Cart recovery #4233](https://github.com/EON-CRUX/3.09/pull/4233) passed its original third named-fix review and merged at 05:38:35 UTC as 681f9388. All four files match the approved head, merge, captured main and final assembly 9c7a3d5f59. This is component approval and integration; it is not a final website 9.5 rating."
   ],
-  "remaining": "The original builder’s resume record needs recovery before the named fix can run. Three hosted issues remain open; final ratings are still 0 / 3 and the assistant remains off pending its privacy decision.",
-  "current": "The missing-plus repair passed its hosted tests. Independent review found one remaining overlap on the product-page “Choose a size” button. Its focused fix is prepared for the original builder.",
-  "next": "Resume the original builder, repair the size-selection overlap and pass the next review. Then install and check the accepted repair in the unpublished Shopify draft.",
-  "updated": "2026-10-13T23:16:03.505924+00:00",
+  "remaining": "No builder-access blocker remains. The focused repair is running; final ratings remain 0 / 3, and the separate account return link and assistant privacy decision remain open.",
+  "current": "The missing-plus repair passed its hosted tests. The original builder is now fixing the one remaining review finding: WhatsApp overlapping the product-page “Choose a size” button.",
+  "next": "Check the focused repair and its regression proof, submit one update for the next review, then install and test the accepted repair in the unpublished Shopify draft.",
+  "updated": "2026-10-14T00:45:28.745552+00:00",
   "links": [
     {
       "title": "PR #4316",
