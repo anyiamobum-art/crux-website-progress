@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original coordinator accepted the motion handoff; actual writer execution is not yet verified. The native check is complete and the simulator released. No duplicate writer or review has been started.",
+  "workerState": "The original motion handoff is acknowledged, but writer execution is still unconfirmed. The coordinator is reconciling that same request after account recovery; no replacement writer or review has started. The native check is complete and the simulator released.",
   "journey": [
     {
       "stage": "Build",
@@ -130,15 +130,15 @@
     ]
   ],
   "completed": [
-    "[Collection zoom #4364](https://github.com/EON-CRUX/3.09/pull/4364) passed both original code reviews and required checks, then merged as 5a99fdc9. Its stylesheet is installed and matches the approved bytes in the unpublished draft. Native enlarged-text acceptance remains separate; this is not a final design score.",
+    "The final review packet now distinguishes completed reflow/invitation repairs from the remaining dynamic-motion and native WhatsApp overlap work. Earlier failure evidence is retained as history; no new test or rating is claimed from this reconciliation.",
+    "[Collection zoom #4364](https://github.com/EON-CRUX/3.09/pull/4364) passed both original code reviews and required checks, then merged as 5a99fdc9. Its stylesheet is installed and matches the approved bytes in the unpublished draft. The subsequent iPhone 17e check at Safari 200% confirms the repaired heading/count and Search/toggle behavior; the separate WhatsApp Save/title overlap remains. No final design score is implied.",
     "[Companion toolbar clearance #4353](https://github.com/EON-CRUX/3.09/pull/4353) passed its original first review and required hosted checks, then merged as a2301123. Both theme assets are installed and source-verified in the unpublished draft. Grid/Focus interaction passes; invitation collision coverage and the related close-button follow-up remain separate.",
-    "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance.",
-    "[Account return #4344](https://github.com/EON-CRUX/3.09/pull/4344) merged as 60c3c77f after its original review and all five hosted test groups passed. The one changed theme snippet was installed in unpublished theme 166627606744. Exact readback and the signed-in Back to the shop journey passed at 09:53 Lagos on 14 October. The live theme stayed unchanged."
+    "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance."
   ],
   "remaining": "Final ratings remain 0 / 3. Automatic pet motion and the newly observed native overlap need their original writer’s fixes. Assistant and public notes stay off pending the privacy decision.",
   "current": "Both earlier repairs are reviewed, merged and installed. The small-iPhone check at 200% confirms the Products heading, piece count, Search and Grid/Focus work. It also revealed WhatsApp covering a Save control and product text while scrolling.",
   "next": "The original companion writer has the dynamic-motion brief. Finish that work and the narrow WhatsApp collision follow-up, then rate the same finished draft with all three readers.",
-  "updated": "2026-10-14T17:38:46.034200+00:00",
+  "updated": "2026-10-14T18:14:03.646563+00:00",
   "links": [
     {
       "title": "PR #4316",
