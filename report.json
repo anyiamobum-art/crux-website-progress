@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 and #4344 are reviewed, merged, installed and verified. The original #4345 writer is executing. The confirmed companion overlap has one scoped follow-up delivered to its original builder. No live publication.",
+  "workerState": "#4331 and #4344 are reviewed, merged, installed and verified. #4345 original source work is complete; review queue intake delivered. Companion continuation is overdue with the original custodian. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T08:54:15.839161+00:00 — Installed the merged account snippet; exact Shopify readback passed. Clicking Back to the shop now opens the full collection. The live theme is unchanged.",
+  "lastActualProgress": "2026-10-14T09:37:51.324054+00:00 — Consumed the completed enlarged-text repair and verified all six source files and its existing proof; submitted one exact-head review-queue intake.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -114,13 +114,13 @@
       "9. Complete website assembly merge",
       "Complete — merged and source-bound",
       "Collection #4284: ca3121a044; assistant #4288: 6dee0865; buyer notes #4294: e1df033e; Big Bag #4316: 68c29b29. All 163 theme files match the reviewed candidate, merge and captured main.",
-      "Exact assembly installed; cart transaction passes. Mobile overlap repair is merged, installed and verified; final acceptance and the separate account return-route repair remain."
+      "Exact assembly installed; cart transaction passes. Mobile overlap repair is merged, installed and verified; account return-route repair is now installed and verified; enlarged-text and companion follow-ups remain."
     ],
     [
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
       "163 candidate files verified at assembly upload; later account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Resolve the separate account return route and finish the remaining acceptance evidence. Never publish live."
+      "Account return route verified. Finish enlarged-text and companion repairs plus final acceptance. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,10 +135,10 @@
     "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
   ],
-  "remaining": "Final ratings remain 0 / 3. Enlarged-text header/footer/Filter reflow and the desktop companion invitation overlap still need completed repairs and acceptance. Assistant privacy approval remains pending.",
-  "current": "Account return repair #4344 has passed review, merged and been verified in the unpublished Shopify draft. The enlarged-text Grid/Focus page repair #4345 is running with its original writer.",
-  "next": "Finish and review the enlarged-text repair and the companion invitation clearance repair, install their approved changes, then obtain all three final website ratings.",
-  "updated": "2026-10-14T08:54:15.839161+00:00",
+  "remaining": "Final ratings remain 0 / 3. #4345 awaits normal review admission. The companion invitation still obstructs the desktop toggle; its original builder has not yet acknowledged the follow-up. Assistant privacy approval remains pending.",
+  "current": "Account return #4344 is merged, installed and verified. Enlarged-text repair #4345 is complete; its verified head has been submitted to the existing review queue.",
+  "next": "Take #4345 through review and merge; recover the original companion-clearance continuation; install approved changes and verify the finished draft before the three final ratings.",
+  "updated": "2026-10-14T09:37:51.324054+00:00",
   "links": [
     {
       "title": "PR #4316",
