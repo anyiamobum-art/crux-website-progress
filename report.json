@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4331 and #4344 are reviewed, merged, installed and verified. #4345 original source work is complete; review queue intake delivered. Companion continuation is overdue with the original custodian. No live publication.",
+  "workerState": "#4331 and #4344 are merged, installed and verified. #4345 hosted tests pass, but its first code review rejected one layout defect. The original companion session is being compacted before its authorized continuation. No live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T09:37:51.324054+00:00 — Consumed the completed enlarged-text repair and verified all six source files and its existing proof; submitted one exact-head review-queue intake.",
+  "lastActualProgress": "2026-10-14T10:31:49.112368+00:00 — Read the full #4345 verdict and chair ruling; reconciled the original writer and delivered one named-fix brief. The existing companion recovery started at 10:30 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "[Reference typography #4251](https://github.com/EON-CRUX/3.09/pull/4251) merged at 08:27:57 UTC as ecc73b35. All three approved files match the merge, captured main and final candidate. Archivo remains the body font.",
     "Combined-theme phone check at a verified 380 px: keyboard Grid/Focus switching, filter focus return, reduced-motion controls and no sideways overflow passed. Desktop measurements recorded a maximum input-event duration of 80 ms and layout shift 0.00169; seven long frames remain in the evidence for review. These are local browser measurements, not an iPhone or Shopify score."
   ],
-  "remaining": "Final ratings remain 0 / 3. #4345 awaits normal review admission. The companion invitation still obstructs the desktop toggle; its original builder has not yet acknowledged the follow-up. Assistant privacy approval remains pending.",
-  "current": "Account return #4344 is merged, installed and verified. Enlarged-text repair #4345 is complete; its verified head has been submitted to the existing review queue.",
-  "next": "Take #4345 through review and merge; recover the original companion-clearance continuation; install approved changes and verify the finished draft before the three final ratings.",
-  "updated": "2026-10-14T09:37:51.324054+00:00",
+  "remaining": "Final ratings remain 0 / 3. #4345 needs its one named review fix. The companion repair is resuming through its original custodian. Assistant privacy approval remains pending.",
+  "current": "Review found one remaining defect in #4345: the real signed-in header has five tools, while its narrow-width fixture tested four. The same builder has one scoped repair to make.",
+  "next": "Fix and review the five-tool header; finish the companion invitation clearance repair; install approved changes and verify the draft before the three final ratings.",
+  "updated": "2026-10-14T10:31:49.112368+00:00",
   "links": [
     {
       "title": "PR #4316",
