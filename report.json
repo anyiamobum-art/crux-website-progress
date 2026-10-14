@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original Opus 5.5 writer saved the new motion regression test, then its connection dropped before the repair finished. The same writer’s recovery is with the chair; no duplicate writer or review has started.",
+  "workerState": "The chair recovered the original Opus 5.5 writer after its connection dropped. Its actual source work has resumed on the pet motion and WhatsApp overlap; review and installation remain pending.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-14T19:41:28Z — the original writer saved the motion regression test. Its later connection failure is confirmed; the earlier merged repairs remain installed.",
+  "lastActualProgress": "2026-10-14T20:49:38Z — the original writer resumed source work with its saved regression test preserved. The earlier merged repairs remain installed.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -138,7 +138,7 @@
   "remaining": "Final ratings remain 0 / 3. Automatic pet motion and the newly observed native overlap need their original writer’s fixes. Assistant and public notes stay off pending the privacy decision.",
   "current": "Both earlier repairs are reviewed, merged and installed. The small-iPhone check at 200% confirms the Products heading, piece count, Search and Grid/Focus work. It also revealed WhatsApp covering a Save control and product text while scrolling.",
   "next": "The original companion writer has the dynamic-motion brief. Finish that work and the narrow WhatsApp collision follow-up, then rate the same finished draft with all three readers.",
-  "updated": "2026-10-14T20:35:49.612292+00:00",
+  "updated": "2026-10-14T20:50:16.654701+00:00",
   "links": [
     {
       "title": "PR #4316",
