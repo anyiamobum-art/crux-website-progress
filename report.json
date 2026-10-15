@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The shell repair #4428 at 22d4003e has its first code approval; the critical review and remaining hosted tests are still required. The original companion writer has implemented the single bottom-edge correction for #4429. Its broader remote suite passed 45 tests; 66 WebKit cases were skipped because that browser is absent. The writer is completing the causal regression checks and commit before the single repair push. Neither repair is installed yet.",
+  "workerState": "The shell repair #4428 merged as 601730d1 after its required standard-tier review and all five hosted test groups passed. Its eight approved theme files are installed and match the reviewed source; all 539 live-theme files remain unchanged. The original #4429 writer completed 45 remote behavior tests and 53 causal checks, with 66 WebKit cases skipped because that browser is absent; its final amended head is undergoing the combined proof before one repair push. The product-page arrow follow-up has started with the original shell writer lineage.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T22:35:21Z — The shell received its first code approval. The companion’s broader remote suite passed, and its original writer is testing that each motion guard catches its corresponding fault. Safari developer tools are enabled; native inspection remains limited by the Simulator’s load spike, so no native timing is claimed.",
+  "lastActualProgress": "2026-10-15T22:47:04Z — Shell merge, eight-file draft installation and exact hosted readback verified; the changed 380-pixel header renders without sideways overflow. Pet repair is in final remote proof. The chair approved sending the evidence clarification to the same Fable reader; its answer is not yet received.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -136,9 +136,9 @@
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged."
   ],
   "remaining": "The first final reviews are below the target: Fable 8.85/10, Opus 8.70/10; Astra has no overall score because nine measures lack sufficient proof. Shared branding, press feedback, companion transitions and home-screen identity need work. Final passing ratings remain 0/3.",
-  "current": "Complete the final header and companion repairs, then verify them together in the unpublished Shopify draft. The prior 200% pet-heading fix #4409 is already merged, installed and verified.",
-  "next": "Finish the original shell and companion repairs, take both through their remaining code reviews and merge, then install approved changes in the draft. Product-page arrows follow the shell merge; the home-screen icon follows the admission-tool correction. Return to the same three final design readers after the revised evidence is complete.",
-  "updated": "2026-10-15T22:35:50.597200+00:00",
+  "current": "Verify the installed shell repair in the unpublished Shopify draft, while the original companion writer completes its one named repair. The 200% pet-heading fix #4409 is already merged, installed and verified.",
+  "next": "Verify the installed shell, complete the companion repair’s remaining review and merge, and finish the separate product-page arrow correction. The home-screen icon still depends on the original admission-tool repair. Return to the same three final design readers after the revised evidence is complete.",
+  "updated": "2026-10-15T22:50:19.185215+00:00",
   "links": [
     {
       "title": "#4428",
