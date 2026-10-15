@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original shell writer’s icon extraction is pushed to #4428 at 22d4003e, with focused tests and 46 regression probes passing. The chair has its request to reopen review after the checks. The companion writer is continuing the single bottom-edge motion correction for #4429; its original process recovered from a DNS failure without a duplicate writer. Neither repair is installed yet.",
+  "workerState": "The chair has reopened #4428 at 22d4003e; admission passes and the original first code review and hosted tests are running. The companion writer has committed the single bottom-edge correction for #4429 locally. Its regression catches the old broken motion; remote proof of the repaired version is running. Neither repair is installed yet.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T22:10:19.544048+00:00 — Published the chair-directed shell extraction once and verified GitHub’s exact new head. Its updated review receipt is saved. Safari developer tools were enabled with the owner’s approval; the bounded Simulator inspection timed out under heavy Mac load and the Simulator was released. No native timing or passing design score is inferred.",
+  "lastActualProgress": "2026-10-15T22:24:13.922036+00:00 — Shell review is executing after the chair’s Ready mark. The companion’s old-motion regression failed as intended, and its repaired-source tests have started remotely. Safari developer tools are enabled; native inspection remains limited by the Simulator’s load spike, so no native timing is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -138,7 +138,7 @@
   "remaining": "The first final reviews are below the target: Fable 8.85/10, Opus 8.70/10; Astra has no overall score because nine measures lack sufficient proof. Shared branding, press feedback, companion transitions and home-screen identity need work. Final passing ratings remain 0/3.",
   "current": "Complete the final header and companion repairs, then verify them together in the unpublished Shopify draft. The prior 200% pet-heading fix #4409 is already merged, installed and verified.",
   "next": "Finish the original shell and companion repairs, take both through their remaining code reviews and merge, then install approved changes in the draft. Product-page arrows follow the shell merge; the home-screen icon follows the admission-tool correction. Return to the same three final design readers after the revised evidence is complete.",
-  "updated": "2026-10-15T22:10:19.544048+00:00",
+  "updated": "2026-10-15T22:24:13.922036+00:00",
   "links": [
     {
       "title": "#4428",
