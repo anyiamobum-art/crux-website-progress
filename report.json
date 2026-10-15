@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The chair approved two bounded follow-ups. The shell and companion briefs are queued once in the existing launcher; actual writer sessions will be recorded before source edits. The parent is completing missing draft browsing evidence. No writer start is inferred from queueing.",
+  "workerState": "Both original-lineage Opus 5.5 repair writers have started. The chair-approved file ownership is recorded before edits: one handles the shared storefront shell, the other companion motion and enlarged-text behavior. The parent is completing missing draft browsing evidence.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T18:54:18.415103+00:00 — Big Bag Lighting → Donut Lamp → quantity handoff → Add to bag passed at 380px. One lamp was added, then removed; the original one-item bag was restored. The chair approved the source-repair split.",
+  "lastActualProgress": "2026-10-15T19:08:41.783919+00:00 — Both repair writers started and custody was released. Big Bag add/remove restored the original bag; category loading showed a readable failure and recovered on retry. Small-iPhone Search stayed readable above the software keyboard. Native touch scrolling and timing remain unproved; the simulator is released.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -126,7 +126,7 @@
       "11. BIG BAG page and navigation",
       "PR #4316 merged; rendered acceptance pending",
       "Required code review and hosted checks passed. Local evidence includes 380/430/1280 views, header checks and a 31.76-second journey recording. No final design score is implied.",
-      "Shopify category navigation, in-stock filter and price sort verified. At 380px, Lighting → Donut Lamp → product quantity handoff → real add → removal passed; the original bag was restored. Native and final rendered acceptance remain."
+      "Shopify category navigation, in-stock filter and price sort verified. At 380px, Lighting → Donut Lamp → product quantity handoff → real add → removal passed; the original bag was restored. Category failure and recovery also pass. Native and final rendered acceptance remain."
     ]
   ],
   "completed": [
@@ -138,7 +138,7 @@
   "remaining": "The first final reviews are below the target: Fable 8.85/10, Opus 8.70/10; Astra has no overall score because nine measures lack sufficient proof. Shared branding, press feedback, companion transitions and home-screen identity need work. Final passing ratings remain 0/3.",
   "current": "The reviewed 200% pet-heading repair #4409 is merged, installed and verified in the unpublished Shopify draft. Stores and Team headings, final controls, Back and Close passed the affected small-iPhone check at exactly 200% text size.",
   "next": "Complete the two focused repair passes, verify their merged changes in the unpublished draft, and return to the same three reviewers with the missing browsing evidence.",
-  "updated": "2026-10-15T18:54:18.415103+00:00",
+  "updated": "2026-10-15T19:08:41.783919+00:00",
   "links": [
     {
       "title": "#4409",
