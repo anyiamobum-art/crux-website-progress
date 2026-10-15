@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original writer and remote proof are complete. The parent delivered the exact candidate and proof receipt to the chair through the existing route. No duplicate writer or review is running.",
+  "workerState": "Original writer and all source proof are complete. The parent verified the current Shopify draft and saved the three rollback files; nothing was uploaded or published.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T05:13:36.264334+00:00 — Verified all 46 remote fault checks and source restoration; posted the completed admission receipt on PR #4391 and delivered it to the chair. The repair remains unpublished.",
+  "lastActualProgress": "2026-10-15T05:30:31.191802+00:00 — The draft’s 686 files and live theme’s 539 files exactly match the last accepted installation. Three pet-asset rollback copies are saved.",
   "milestone": "Draft delivery · 0 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "[Companion toolbar clearance #4353](https://github.com/EON-CRUX/3.09/pull/4353) passed its original first review and required hosted checks, then merged as a2301123. Both theme assets are installed and source-verified in the unpublished draft. Grid/Focus interaction passes; invitation collision coverage and the related close-button follow-up remain separate.",
     "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance."
   ],
-  "remaining": "Waiting for the existing keeper to admit the proved candidate to review. No code-review approval or final design rating is claimed yet.",
-  "current": "The pet-motion and WhatsApp repair is pushed and its required local/remote proof is complete: 17 remote checks passed, 30 rendered checks passed, 4,650 overlap positions passed, and all 46 selected fault checks passed.",
-  "next": "The chair’s existing keeper has the completed admission packet for PR #4391. Continue through independent review and merge, then install the approved repair in the unpublished draft and finish the affected phone checks and three final design ratings.",
-  "updated": "2026-10-15T05:13:36.264334+00:00",
+  "remaining": "The review robot refuses the candidate only because it is Draft. The keeper’s handover retains the Ready action; its execution has not yet been verified.",
+  "current": "The pet-motion and WhatsApp repair has passed its source checks: 17 remote checks, 30 rendered checks, 4,650 overlap positions and all 46 fault checks. GitHub’s pre-review checks also pass.",
+  "next": "The existing keeper has the exact Ready action for PR #4391. Continue through independent review and merge, then install the approved repair in the unpublished draft and finish the affected phone checks and three final design ratings.",
+  "updated": "2026-10-15T05:31:39.408456+00:00",
   "links": [
     {
       "title": "#4391",
