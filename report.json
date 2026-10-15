@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Opus writer resumed once; source inspection verified. Browser motion evidence is complete and resources are released. No final design review has started.",
+  "workerState": "The same Opus writer is implementing the viewport regression tests. No new writer or final design review has been started.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T08:15:16.915084+00:00 — Verified the original writer reading the panel styles and toolbar positioning code after its checked continuation. The same writer and review history are preserved.",
+  "lastActualProgress": "2026-10-15T08:46:50.749887+00:00 — The original writer added the focused panel regression and Python test entrypoint after the nine-case rendered check. This is candidate proof, not an installed or independently approved fix.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -54,7 +54,7 @@
     },
     {
       "complete": true,
-      "title": "All required approved source, including the latest pet-motion request, is merged and bound to one exact finished assembly."
+      "title": "The approved assembly through the pet-motion repair is merged and source-bound. The new panel correction is tracked in draft acceptance below."
     },
     {
       "complete": false,
@@ -130,15 +130,15 @@
     ]
   ],
   "completed": [
-    "The final review packet now distinguishes completed reflow/invitation repairs from the remaining dynamic-motion and native WhatsApp overlap work. Earlier failure evidence is retained as history; no new test or rating is claimed from this reconciliation.",
-    "[Collection zoom #4364](https://github.com/EON-CRUX/3.09/pull/4364) passed both original code reviews and required checks, then merged as 5a99fdc9. Its stylesheet is installed and matches the approved bytes in the unpublished draft. The subsequent iPhone 17e check at Safari 200% confirms the repaired heading/count and Search/toggle behavior; the separate WhatsApp Save/title overlap remains. No final design score is implied.",
-    "[Companion toolbar clearance #4353](https://github.com/EON-CRUX/3.09/pull/4353) passed its original first review and required hosted checks, then merged as a2301123. Both theme assets are installed and source-verified in the unpublished draft. Grid/Focus interaction passes; invitation collision coverage and the related close-button follow-up remain separate.",
-    "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance."
+    "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged.",
+    "The installed pet moves automatically and responds to Dance. Browser Pause and reduced-motion samples stay still. The 26.33-second journey, 380/430/1280 screenshots and measured browser results are saved; no final design score is claimed.",
+    "Fresh small-iPhone Safari checks at 100% and 200% show sampled product-title clearance. Enlarged companion controls still clip above the screen; the same original writer is fixing that separate, narrowly scoped defect.",
+    "The evidence audit confirms that unchanged earlier shopping checks can be retained with their original source labels. The corrected panel and changed-pet native behavior need targeted verification before the three final ratings."
   ],
-  "remaining": "The companion heading and close button clip above the screen at 200% native zoom and a short browser viewport. The original writer is now examining the reproduced positioning defect; the fix still needs proof and review.",
+  "remaining": "The installed companion heading and close button clip at enlarged text and short viewports. The original writer has a narrow CSS repair; nine rendered viewport cases now keep the close button reachable. Regression proof and independent review are still in progress.",
   "current": "The original pet writer is fixing the enlarged companion panel on a narrow follow-up. The pet motion and WhatsApp repair is already reviewed, merged and installed in the unpublished draft.",
   "next": "Repair the companion panel clipping at enlarged text through its original writer, review and merge that narrow follow-up, install it in the draft, then complete native acceptance and the three final ratings.",
-  "updated": "2026-10-15T08:15:16.915084+00:00",
+  "updated": "2026-10-15T08:46:50.749887+00:00",
   "links": [
     {
       "title": "#4391",
