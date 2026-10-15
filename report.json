@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The single compact continuation completed the approved CSS installation and holds the simulator turn for the affected check. No final model review has started.",
+  "workerState": "The compact continuation completed installation and native acceptance, restored text size to 100% and released the simulator. It is handing the frozen packet to the original final-review dispatcher. No final model score is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T16:27:09.177044+00:00 — Hosted readback at 16:25:57 UTC verified the one approved CSS asset, all 686 draft files and the unchanged 539-file live theme. The draft remains unpublished.",
+  "lastActualProgress": "2026-10-15T16:54:26.742735+00:00 — The source-bound native acceptance receipt was saved at 16:53:31 UTC. Both headings clear the portrait and Close control at 200%; the last controls and Back/Close actions work. The review packet is frozen.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -120,7 +120,7 @@
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
       "164 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed, merged as 3faf93ca and installed with exact hosted readback; affected native acceptance is running. Final ratings remain. Never publish live."
+      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed, merged as 3faf93ca and installed with exact hosted readback; affected native acceptance passed at exactly 200% on the small iPhone, with settings restored and the simulator released. The frozen packet is ready for the three final ratings. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,10 +135,10 @@
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged.",
     "The installed pet moves automatically and responds to Dance. Browser Pause and reduced-motion samples stay still. The 26.33-second journey, 380/430/1280 screenshots and measured browser results are saved; no final design score is claimed."
   ],
-  "remaining": "No code-review or installation blocker remains for #4409. Final ratings wait for the affected native acceptance result and the completed final packet.",
-  "current": "The reviewed 200% pet-heading repair #4409 is merged and installed in the unpublished Shopify draft. Its CSS matches the approved source exactly; the small-iPhone 200% acceptance check is running.",
-  "next": "Complete the affected Stores/Team heading, close, scrolling and Back checks on the small iPhone. Freeze the final source and rendered evidence, then have the authorized Fable 5.1, Astra 6 and Opus 5.5 readers assess the same finished draft.",
-  "updated": "2026-10-15T16:27:09.177044+00:00",
+  "remaining": "No code-review, installation or affected native-acceptance blocker remains for #4409. The three final independent ratings and final draft handover remain pending. Assistant and public buyer notes stay off.",
+  "current": "The reviewed 200% pet-heading repair #4409 is merged, installed and verified in the unpublished Shopify draft. Stores and Team headings, final controls, Back and Close passed the affected small-iPhone check at exactly 200% text size.",
+  "next": "The final source and rendered-evidence packet is frozen. The original dispatch owner is receiving it for the authorized Fable 5.1, Astra 6 and Opus 5.5 reviews of the same draft.",
+  "updated": "2026-10-15T16:54:26.742735+00:00",
   "links": [
     {
       "title": "#4409",
