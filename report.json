@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Affected browser checks complete; own Chrome tab closed and viewport reset. All simulators are shut down; the next bounded device check is ready.",
+  "workerState": "Parent is checking the current iPhone. Original-writer follow-up delivered once; acknowledgment and execution remain separate.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T11:47:36.767749+00:00 — Installed CSS readback verified. Panel header/close and last motion control passed at 380×400 and 1280×720; Stores and Team return paths passed.",
+  "lastActualProgress": "2026-10-15T12:03:10.601367+00:00 — Exact 200% native evidence saved; scoped Stores-title repair delivered to the original writer custodian. Existing public report bytes verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -133,12 +133,12 @@
     "Panel repair #4401 passed its required code review and all five hosted test shards, merged as 7a099312, and was installed once in draft166627606744. Its CSS matches the approved source; the live theme remains unchanged. The standard review tier required one code approval; this is separate from the three final design ratings.",
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged.",
     "The installed pet moves automatically and responds to Dance. Browser Pause and reduced-motion samples stay still. The 26.33-second journey, 380/430/1280 screenshots and measured browser results are saved; no final design score is claimed.",
-    "Fresh small-iPhone Safari checks at 100% and 200% show sampled product-title clearance. The original writer’s panel correction #4401 is merged and installed. The header, close and final motion controls are reachable in the new short-screen check; exact native200 acceptance is being completed."
+    "Fresh small-iPhone Safari checks at 100% and 200% show sampled product-title clearance. The original writer’s panel correction #4401 is merged and installed. The header, close and final motion controls are reachable in the new short-screen check; exact native200 confirms those controls pass but exposes pet overlap on the Stores heading; a narrow follow-up is with the original writer."
   ],
-  "remaining": "No code, review or installation blocker remains for the panel repair. Final device acceptance and the three independent ratings are still pending.",
-  "current": "Panel repair #4401 is reviewed, merged and installed in the unpublished draft. Short-screen and desktop panel checks pass; small-iPhone Safari Dance is verified.",
-  "next": "Finish exact enlarged-text and current-iPhone checks, freeze the final evidence packet, and obtain the three original final ratings.",
-  "updated": "2026-10-15T11:47:36.767749+00:00",
+  "remaining": "At 200% zoom the pet covers part of “Come through.” in Stores. The original writer has the source-bound brief through the existing coordinator; execution is not yet verified.",
+  "current": "Panel repair #4401 is merged and installed. Exact iPhone Safari 200% zoom confirms the close button and final motion controls are reachable. One Stores-heading overlap remains.",
+  "next": "The original pet writer receives the narrow heading reflow repair. Continue the remaining native checks, then review, merge and install that repair before the three final ratings.",
+  "updated": "2026-10-15T12:03:10.601367+00:00",
   "links": [
     {
       "title": "#4391",
