@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Big Bag’s earlier partial static assessment was 8.4, not a final score. Its three named fixes have source/test proof but still need rendered acceptance. Final same-source Fable 5.1/Astra 6/Opus 5.5 ratings are pending."
+      "evidence": "Astra’s first same-source read identifies a shared-header inconsistency and specific evidence gaps. Fable and Opus continue. Historical component and plan scores do not count toward the final three ratings."
     }
   ],
   "capabilityProgress": null,
@@ -188,15 +188,15 @@
   "ratings": [
     {
       "model": "Fable 5.1",
-      "result": "Pending"
+      "result": "First review running; no verdict yet."
     },
     {
       "model": "Astra 6",
-      "result": "Pending"
+      "result": "Not qualified — house consistency 8.5/10; nine measures unscored, so no whole-site average. Named repairs and evidence gaps recorded."
     },
     {
       "model": "Opus 5.5",
-      "result": "Pending"
+      "result": "First review running; no verdict yet."
     }
   ]
 }
