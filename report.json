@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original writer finished; original review and hosted tests are running or queued. Parent has prepared the guarded one-file installation. No simulator is reserved and no duplicate review is running.",
+  "workerState": "First code review complete. Existing hosted tests queued; no rerun or duplicate review. Parent installation preparation is complete. All simulators are shut down.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T10:09:26.383580+00:00 — #4401 admitted to first review; 6/6 hosted causal probes proved. Small-iPhone Pause and reduced-motion evidence saved. Larger-phone launch timeout recorded and own simulator released.",
+  "lastActualProgress": "2026-10-15T10:18:43.001416+00:00 — First approval saved with exact-source receipt. Shared-runner cause confirmed from the original F7 report and routed through the chair’s bridge. One-file draft installation and affected acceptance steps are prepared.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Fresh small-iPhone Safari checks at 100% and 200% show sampled product-title clearance. Enlarged companion controls still clip above the screen; the same original writer is fixing that separate, narrowly scoped defect.",
     "The evidence audit confirms that unchanged earlier shopping checks can be retained with their original source labels. The corrected panel and changed-pet native behavior need targeted verification before the three final ratings."
   ],
-  "remaining": "#4401 awaits independent review and hosted tests before its CSS can be installed. Remaining native panel/manual-motion checks also need a usable simulator turn; a fresh attempt hit a launch timeout during heavy Mac load.",
-  "current": "The motion/WhatsApp repair is installed in the unpublished draft. Panel repair #4401 has entered its first independent review after all admission checks passed.",
+  "remaining": "The original hosted tests are queued: one shared test VM remained paused after a full disk, reducing heavy-test capacity from twelve runners to six. The chair’s bridge is coordinating the existing box owner’s recovery. Second review and merge remain pending.",
+  "current": "Panel repair #4401 passed its first independent code review with no findings. The motion/WhatsApp repair is already installed in the unpublished draft.",
   "next": "Finish #4401’s existing review and merge lane, apply its approved CSS to the unpublished draft, check the corrected panel and remaining manual motion, then obtain the three final ratings.",
-  "updated": "2026-10-15T10:09:26.383580+00:00",
+  "updated": "2026-10-15T10:18:43.001416+00:00",
   "links": [
     {
       "title": "#4391",
