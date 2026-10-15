@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "One compact continuation owns the approved installation and acceptance work. The source and original review history are preserved; no second writer or duplicate review is running.",
+  "workerState": "The single compact continuation completed the approved CSS installation and holds the simulator turn for the affected check. No final model review has started.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T16:22:34.930009+00:00 — GitHub confirms #4409 merged as 3faf93ca with successful original review and all five hosted test groups. Draft installation is next; live publication is excluded.",
+  "lastActualProgress": "2026-10-15T16:27:09.177044+00:00 — Hosted readback at 16:25:57 UTC verified the one approved CSS asset, all 686 draft files and the unchanged 539-file live theme. The draft remains unpublished.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -120,7 +120,7 @@
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
       "164 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed and merged as 3faf93ca, awaiting approved installation and affected native acceptance. Final ratings remain. Never publish live."
+      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed, merged as 3faf93ca and installed with exact hosted readback; affected native acceptance is running. Final ratings remain. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -130,15 +130,15 @@
     ]
   ],
   "completed": [
+    "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate.",
     "Panel repair #4401 passed its required code review and all five hosted test shards, merged as 7a099312, and was installed once in draft166627606744. Its CSS matches the approved source; the live theme remains unchanged. The standard review tier required one code approval; this is separate from the three final design ratings.",
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged.",
-    "The installed pet moves automatically and responds to Dance. Browser Pause and reduced-motion samples stay still. The 26.33-second journey, 380/430/1280 screenshots and measured browser results are saved; no final design score is claimed.",
-    "Fresh small-iPhone Safari checks at 100% and 200% show sampled product-title clearance. The original writer’s panel correction #4401 is merged and installed. The header, close and final motion controls are reachable in the new short-screen check; exact native200 confirms those controls pass but exposes pet overlap on the Stores heading; the chair-authorized narrow follow-up is now PR #4409, with WebKit and hosted regression proof. Its broader suite, original review and merge are complete; approved installation and the affected native check are next."
+    "The installed pet moves automatically and responds to Dance. Browser Pause and reduced-motion samples stay still. The 26.33-second journey, 380/430/1280 screenshots and measured browser results are saved; no final design score is claimed."
   ],
-  "remaining": "The review-queue hold is cleared. Final ratings depend on the approved draft installation and affected iPhone acceptance; none has started yet.",
-  "current": "The chair admitted #4409, and it merged at 16:05 UTC after its original first-review status and all five hosted test groups passed. The approved 200% pet-heading repair is moving into draft installation and iPhone verification.",
-  "next": "Verify the reviewed and merged source, install the one approved stylesheet into the unpublished Shopify draft, check Stores and Team at 200% on the small iPhone, then send the final source-bound packet to the three authorized readers.",
-  "updated": "2026-10-15T16:22:34.930009+00:00",
+  "remaining": "No code-review or installation blocker remains for #4409. Final ratings wait for the affected native acceptance result and the completed final packet.",
+  "current": "The reviewed 200% pet-heading repair #4409 is merged and installed in the unpublished Shopify draft. Its CSS matches the approved source exactly; the small-iPhone 200% acceptance check is running.",
+  "next": "Complete the affected Stores/Team heading, close, scrolling and Back checks on the small iPhone. Freeze the final source and rendered evidence, then have the authorized Fable 5.1, Astra 6 and Opus 5.5 readers assess the same finished draft.",
+  "updated": "2026-10-15T16:27:09.177044+00:00",
   "links": [
     {
       "title": "#4409",
