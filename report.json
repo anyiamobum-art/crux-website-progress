@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The compact continuation completed installation and native acceptance, restored text size to 100% and released the simulator. It is handing the frozen packet to the original final-review dispatcher. No final model score is claimed.",
+  "workerState": "The frozen packet was delivered and read back at 16:55:21 UTC. Dispatcher acknowledgment, actual model starts and final scores are not yet observed. The parent is continuing the review follow-through and public task-site deployment recovery.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T16:54:26.742735+00:00 — The source-bound native acceptance receipt was saved at 16:53:31 UTC. Both headings clear the portrait and Close control at 200%; the last controls and Back/Close actions work. The review packet is frozen.",
+  "lastActualProgress": "2026-10-15T16:55:21.982406+00:00 — The original dispatcher received the frozen final website and Big Bag packet, including exact installed source and the completed 200% native check. This is verified delivery, not proof of model execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "No code-review, installation or affected native-acceptance blocker remains for #4409. The three final independent ratings and final draft handover remain pending. Assistant and public buyer notes stay off.",
   "current": "The reviewed 200% pet-heading repair #4409 is merged, installed and verified in the unpublished Shopify draft. Stores and Team headings, final controls, Back and Close passed the affected small-iPhone check at exactly 200% text size.",
-  "next": "The final source and rendered-evidence packet is frozen. The original dispatch owner is receiving it for the authorized Fable 5.1, Astra 6 and Opus 5.5 reviews of the same draft.",
-  "updated": "2026-10-15T16:54:26.742735+00:00",
+  "next": "Obtain acknowledgment and actual starts from the original review dispatcher, then consume the Fable 5.1, Astra 6 and Opus 5.5 verdicts on the same frozen draft. Resolve any named findings through their original owners and finish the unpublished handover.",
+  "updated": "2026-10-15T17:03:43.224494+00:00",
   "links": [
     {
       "title": "#4409",
