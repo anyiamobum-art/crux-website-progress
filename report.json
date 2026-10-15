@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Installed source is verified. The small-iPhone sample is saved and the simulator released. Desktop diagnosis and remaining motion evidence are next.",
+  "workerState": "Desktop capture is complete and browser resources are released. The original writer’s panel follow-up is requested; launch is not yet verified. No duplicate writer or final rating has been started.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-15T07:17Z — Fresh native Safari clears the sampled product titles at 100% and 200%; enlarged companion header clipping is recorded. Zoom restored and shared simulator released.",
+  "lastActualProgress": "2026-10-15T08:04:34.134016+00:00 — Saved a 26.33-second journey, 380/430/1280 screenshots and measured motion states. Browser evidence shows zero unexpected layout shift; Pause and reduced motion remain still. CDN-transformed assets match the approved source after identical normalization.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -120,7 +120,7 @@
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
       "164 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Complete companion reflow diagnosis, motion acceptance and final ratings. Never publish live."
+      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel needs its original-writer repair; native acceptance and final ratings remain. Never publish live."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,10 +135,10 @@
     "[Companion toolbar clearance #4353](https://github.com/EON-CRUX/3.09/pull/4353) passed its original first review and required hosted checks, then merged as a2301123. Both theme assets are installed and source-verified in the unpublished draft. Grid/Focus interaction passes; invitation collision coverage and the related close-button follow-up remain separate.",
     "[Header reflow #4345](https://github.com/EON-CRUX/3.09/pull/4345) passed its original second review, merged as578fafce and was installed in unpublished theme166627606744. Both stylesheets match the approved source; all539 live-theme files and unrelated draft files were preserved. The installed change still needs its affected rendered acceptance."
   ],
-  "remaining": "Final rendered acceptance and three independent design ratings remain. The small-iPhone check found the companion header cropped at 200% zoom; this needs diagnosis before acceptance.",
-  "current": "Pet/WhatsApp repair #4391 is reviewed, merged and installed in the unpublished Shopify draft. All three uploaded files match the approved merge exactly; all 539 live-theme files remain unchanged.",
-  "next": "Complete affected native motion, enlarged-text and browser checks, then send the exact finished draft to the original three final design readers.",
-  "updated": "2026-10-15T07:19:13.780933+00:00",
+  "remaining": "The companion close button is above the screen at 200% native zoom and a short browser viewport. Measured evidence is with the original writer’s chair queue; final acceptance stays open.",
+  "current": "The pet repair is reviewed, merged and installed in the unpublished Shopify draft. The new browser recording verifies movement, Dance, Pause and reduced-motion behavior at the tested source.",
+  "next": "Repair the companion panel clipping at enlarged text through its original writer, review and merge that narrow follow-up, install it in the draft, then complete native acceptance and the three final ratings.",
+  "updated": "2026-10-15T08:04:34.134016+00:00",
   "links": [
     {
       "title": "#4391",
