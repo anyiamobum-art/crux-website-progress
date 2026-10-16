@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-16T00:27:59.717775+00:00 — Small-iPhone normal-text companion scrolling verified by keyboard; exact 200% and timing remain unproved. Current review packet reconciled with all three installed repairs. Chrome released to the waiting Studio session. No live publication.",
+  "lastActualProgress": "2026-10-16T04:07:04.786174+00:00 — All three repair reports reconciled with their merged, installed source. The interrupted iPhone session was cleaned up: numeric 100% zoom restored and simulator shut down. Exact 200% setting and draft render are saved; companion interaction and timing remain unproved. Original icon-tooling owner contacted after the missed deadline. No live publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Final passing ratings remain 0/3. The home-screen icon awaits the original tooling repair. Native and further warm-load measurements wait for a calm shared Mac; the latest warm sample showed useful content by 2.13s, above the 1.5s target. That adverse result is retained, with host load recorded.",
   "current": "The shared header, product-button arrows and companion repairs are merged, installed and source-verified in the unpublished draft. The Add to bag button is visible; the companion has passed browser checks at 380, 430 and 1280px.",
-  "next": "Complete exact 200% and changed-source iPhone checks using the verified Settings method, plus remaining performance evidence. The chair’s original icon-tooling recovery is due at 00:39 UTC. Then finish the approved icon and return to the same three final readers.",
-  "updated": "2026-10-16T00:27:59.717775+00:00",
+  "next": "Finish the interrupted exact-200% companion and native glyph checks, plus remaining performance evidence. The original tooling owner has received the overdue icon-repair escalation. Then finish the approved icon and return to the same three final readers.",
+  "updated": "2026-10-16T04:07:04.786174+00:00",
   "links": [
     {
       "title": "#4428",
