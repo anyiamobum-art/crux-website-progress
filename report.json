@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-16T09:31:29.076997+00:00 — Verified and consumed the browser interruption receipt and its artifact hash; inspected the due tooling request without duplicating dispatch. Prior desktop evidence remains valid. The first progress update passed Pages and exact served-file verification.",
+  "lastActualProgress": "2026-10-16T10:03:44.356221+00:00 — Independently verified all three recovered G5 artifacts and inspected the Draft screenshot. Keyboard focus return, Close/Back reachability, WhatsApp clearance and sampled contrast are recorded; minimum sampled contrast is 6.145:1. Original tooling source/test/pin work is observed; no new review or Shopify publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Panel repair #4401 passed its required code review and all five hosted test shards, merged as 7a099312, and was installed once in draft166627606744. Its CSS matches the approved source; the live theme remains unchanged. The standard review tier required one code approval; this is separate from the three final design ratings.",
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged."
   ],
-  "remaining": "Final passing ratings remain 0/3. The home-screen icon awaits the admitted tooling repair, whose execution is not yet verified. Native device ownership remains unresolved with elevated memory pressure. Browser focus/contrast is NOT EXECUTED and press latency is NOT MEASURED. Useful-content sample 1 remains 2.13s, above the 1.5s target.",
-  "current": "The corrected 1280 × 900 desktop companion evidence is verified. The bounded keyboard/focus/contrast follow-up stopped at a browser-tool interruption before any control action; it adds no acceptance proof. All three approved source repairs remain installed in the unpublished draft.",
-  "next": "The original browser owner needs a changed, working supported route before resuming the missing focus/contrast checks. The existing tooling request awaits execution evidence; native checks need actual device handback and a suitable resource window.",
-  "updated": "2026-10-16T09:31:29.076997+00:00",
+  "remaining": "Final passing ratings remain 0/3. The icon-tooling repair is running but has not merged. The owner’s sign-in session still holds the small iPhone; memory pressure remains elevated. Press latency, changed-source motion/native proof and final ratings remain outstanding. Back measured 41.82 × 44 px and is disclosed exactly.",
+  "current": "Chrome recovery succeeded. The changed-source keyboard, focus and sampled-contrast check passed at 380 px, with cleanup verified. The original icon-tooling writer is executing its narrow approved repair.",
+  "next": "Consume the original tooling result through its chair and review route. Continue the remaining browser journey and supported measurements; native checks follow the owner’s simulator handback and suitable resource conditions.",
+  "updated": "2026-10-16T10:03:44.356221+00:00",
   "links": [
     {
       "title": "#4428",
