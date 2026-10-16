@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The first code verdict was consumed and one bounded repair queued at 12:35:54 UTC. At 2026-10-16T13:42:08.533714+00:00 the compact coordinator verified the unchanged clean source, actual capacity hold and absence of a START receipt. This reconciliation is not repair execution.",
+  "lastActualProgress": "GitHub access recovered and the published task report’s build and both served hashes were verified at 14:28 UTC. The repair brief remains queued; the earlier launcher attempts did not execute the model or change source.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Panel repair #4401 passed its required code review and all five hosted test shards, merged as 7a099312, and was installed once in draft166627606744. Its CSS matches the approved source; the live theme remains unchanged. The standard review tier required one code approval; this is separate from the three final design ratings.",
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged."
   ],
-  "remaining": "The existing launcher has six active processes and a two-lane capacity hold through 14:00 UTC. The disk hold was lifted by the chair. Native and animation evidence still awaits the owner’s small-iPhone handback. Final passing ratings remain 0/3.",
-  "current": "PR #4451 needs one named help-page icon regression repair. Its sole original-lineage writer remains queued in the existing launcher. Capacity is held at two lanes until 14:00 UTC, with six processes active at the last check. The disk hold is lifted. No repair execution has started.",
+  "remaining": "The original writer still needs admission and a verified START receipt. The chair has the recovery request. Native evidence separately awaits owner-device handback; final passing ratings remain 0/3.",
+  "current": "PR #4451 needs one named help-page icon test repair. GitHub access has recovered. The existing launcher returned the same original writer to its queue after a failed holder lookup; model execution has not started.",
   "next": "Add the real help-page regression and causal check, prove the repair remotely, then make one push for the second code review. Merge and draft installation follow passing review and required checks.",
-  "updated": "2026-10-16T13:42:08.533714+00:00",
+  "updated": "2026-10-16T14:30:55.899967+00:00",
   "links": [
     {
       "title": "PR #4451",
