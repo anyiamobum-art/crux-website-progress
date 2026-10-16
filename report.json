@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "2026-10-16T00:05:25.698818+00:00 — Companion installed at 23:56:50Z; source and browser checks saved. Final design acceptance is still pending. No live publication.",
+  "lastActualProgress": "2026-10-16T00:10:58.057310+00:00 — Companion browser proof saved and the public page verified. A warm-load sample measured useful content by 2.13s under severe host contention; performance acceptance remains open. No live publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Panel repair #4401 passed its required code review and all five hosted test shards, merged as 7a099312, and was installed once in draft166627606744. Its CSS matches the approved source; the live theme remains unchanged. The standard review tier required one code approval; this is separate from the three final design ratings.",
     "Pet/WhatsApp repair #4391 passed both original code reviews and required checks, merged as 98ed2b50, and was installed in the unpublished Shopify draft. All three installed assets match the approved source; the 539-file live theme stayed unchanged."
   ],
-  "remaining": "Final passing ratings remain 0/3: Fable 8.85/10, Opus 8.70/10; Astra has no overall score because nine measures lacked sufficient proof. The named source repairs are installed except the home-screen icon. The shared Simulator is in another owner’s active turn.",
+  "remaining": "Final passing ratings remain 0/3. The home-screen icon awaits the original tooling repair. Native and further warm-load measurements wait for a calm shared Mac; the latest warm sample showed useful content by 2.13s, above the 1.5s target. That adverse result is retained, with host load recorded.",
   "current": "The shared header, product-button arrows and companion repairs are merged, installed and source-verified in the unpublished draft. The Add to bag button is visible; the companion has passed browser checks at 380, 430 and 1280px.",
   "next": "Finish changed-source iPhone and performance evidence. The chair has directed the original owner to resume the home-screen icon tooling repair. Complete that approved icon, then send the revised evidence to the same three final design readers.",
-  "updated": "2026-10-16T00:05:25.698818+00:00",
+  "updated": "2026-10-16T00:10:58.057310+00:00",
   "links": [
     {
       "title": "#4428",
