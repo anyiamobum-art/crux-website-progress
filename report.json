@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The cart writer’s remote behavior proof and all 16 sabotage pins are green; its local commit and final report are still pending. The frontend’s existing slot waiter is active, with no START yet. Small-device admission is pending. Safari’s last supported retry remains a terminal control failure.",
+  "workerState": "The cart writer returned a clean local commit after green behavior proof and all 16 sabotage pins. Root accepted custody and began current-main integration and one publication at 02:19Z. The frontend waits for its original permitted Mac slot; Small200 admission is pending. Safari’s last supported retry remains a terminal control failure.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Cart behavior proof completed at 02:06Z: the old ordering reproduced the timeout, the corrected case passed, all 29 file cases passed and three safeguards passed. At 02:12Z, all 16 existing sabotage pins passed. The tested file bytes still match; runtime files are unchanged. This is proof, not a completed source handoff or deployment.",
+  "lastActualProgress": "Cart local commit 5e111dec was completed at 02:15Z after the controlled old order reproduced the timeout, the corrected case and all 29 file cases passed, three safeguards passed, and all 16 sabotage pins passed. Runtime files are unchanged. Root now owns publication; no cart PR, review, merge or installation is claimed yet. Current-main integration is clean at a500c841 with all four source/test hashes unchanged; the final publication checks are running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Search source review, hosted proof, merge, draft installation and changed native clipping verification are complete. Cart recovery, small-device repair and Website frontend admission remain with their original owners. Numerical timing separately needs supported Safari control; private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
   "current": "Search is installed in the unpublished draft, and its changed clipping regression passed on the original iPhone at an explicitly selected 200%. The device is back at 100% and its lease is released. All 539 live-theme files remain unchanged.",
-  "next": "Consume the original cart writer’s local commit and terminal report, then qualify its publication. The placed frontend continuation remains on its verified slot waiter; the small-device keeper still owes admission and START. Safari control, TEST, privacy and final rating prerequisites remain.",
-  "updated": "2026-10-17T02:14:29.142054+00:00",
+  "next": "Complete the original cart repair publication and release gates. The frontend remains first in its one existing slot waiter; Small200 still needs original keeper admission and START. Safari control, TEST, privacy and final rating prerequisites remain.",
+  "updated": "2026-10-17T02:20:57.502323+00:00",
   "links": [
     {
       "title": "#4391",
@@ -219,7 +219,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish the original cart writer’s local commit and handoff (behavior proof passed 02:06Z; all 16 sabotage pins passed 02:12Z; next check: terminal local report; original wait since 17:10Z retained)."
+        "text": "In progress — Publish the original cart repair and qualify its release gates (writer handoff complete 02:15Z; publication started 02:19Z, est. 15 active min; next check: original publication receipt; first wait 17:10Z retained)."
       },
       {
         "complete": false,
@@ -227,7 +227,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting for the placed original frontend continuation to START (keeper placed one Mac job 01:56Z, next at the existing free-slot waiter; checked brief unchanged; first wait 23:42Z retained; estimate follows actual START)."
+        "text": "Waiting for the placed original frontend continuation to START (one existing slot waiter; cap 3 and high load confirmed 02:15Z; first wait 23:42Z retained; next check: permitted slot and actual START)."
       },
       {
         "complete": false,
@@ -246,6 +246,6 @@
         "text": "Waiting on privacy facts since 12 October 04:12Z (next check: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Search and its changed iPhone check are complete. Cart behavior proof and all 16 sabotage pins have passed; the original writer’s local commit and handoff are next, with no verified handoff time yet. Whole Website acceptance time remains unknown."
+    "landing": "Lands: Search and its changed iPhone check are complete. Cart source and proof are complete; its original publication step started at 02:19Z with an estimated 15 active minutes, subject to integration and release gates. Whole Website acceptance time remains unknown."
   }
 }
