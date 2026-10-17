@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same original Website acceptance continuation owns remaining acceptance and exact restoration after any admitted temporary TEST configuration. The presenter owns this report only. Fresh read-only verification17:31Z confirms the public-price TEST settings are absent/OFF and the exact prior restoration is intact; no new configuration or harness run is reported. The Cloudflare change was made once by its original owner with explicit approval, only for eondiscovery.co; crux.ng and live Shopify remain unchanged.",
+  "workerState": "The original C02 acceptance cycle is complete: one hosted run passed all six C02 steps, then the same Website owner restored both temporary settings to their exact original absence/OFF. No restoration or test call remains pending. This presenter records evidence only; live Shopify and unrelated settings remain unchanged.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Complete",
-      "evidence": "Small-device source:137 passed,94 WebKit skipped,40 causal pins; all hosted checks passed. Cart repair:29 cases,3 safeguards and16 causal pins. Search changed native200% check passed. The separate enabled public-price acceptance run passed3 of6 steps, then failed on service responses; it is not counted as accepted."
+      "evidence": "Small-device source:137 passed,94 WebKit skipped,40 causal pins; all hosted checks passed. Cart repair:29 cases,3 safeguards and16 causal pins. Search changed native200% check passed. The original C02 hosted acceptance passed all6ordered steps, with source, screenshots and trace verified. C07/C14 were not accepted by that run."
     },
     {
       "stage": "Review",
@@ -22,16 +22,16 @@
     {
       "stage": "Deployed",
       "state": "Complete",
-      "evidence": "165 candidate files across17 manifests are installed and source-verified in the unpublished Shopify draft: Search at01:05Z, six public-price files at09:49Z, three small-device assets at15:14Z. Styling's descendant deployment succeeded16:20Z with both runtime files unchanged; its served read returned403. Live Shopify files stayed unchanged."
+      "evidence": "165 candidate files across17 manifests are installed and source-verified in the unpublished Shopify draft: Search at01:05Z, six public-price files at09:49Z, three small-device assets at15:14Z. Styling's descendant deployment succeeded16:20Z with both runtime files unchanged; the original hosted run now verifies served build322edbf. Private styling acceptance remains open. Live Shopify files stayed unchanged."
     },
     {
       "stage": "Live verified",
       "state": "Pending",
-      "evidence": "Draft-only acceptance: earlier account return, Search200 and default-off collection/product/Back checks passed. Changed small-device200% proof needs Hands handback/own lease; numerical timing separately needs supported developer control. Buyer trust/consent, private TEST/lifecycle, privacy facts, Big Bag native proof and final ratings remain open. No live publication is authorized."
+      "evidence": "Draft-only acceptance: C02 public price and stock passed all6ordered steps; exact settings restoration to OFF is verified. Earlier account return, Search200 and default-off collection/product/Back checks also passed. Changed small-device200% proof needs Hands handback/own lease; numerical timing separately needs supported developer control. Buyer trust/consent, private TEST/lifecycle, privacy facts, Big Bag native proof and final ratings remain open. No live publication is authorized."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original Checkout owner attributed16 earlier challenge events to Cloudflare Bot Fight Mode and verified the narrowly approved change at17:26:20Z. The one post-change served-build request still returnedHTTP403 at17:30:22Z; the current response did not retain a rule identifier, so its cause is not yet established. Both original service and acceptance owners have that changed result. Small-device repairs remain fully reviewed, merged and installed; changed native acceptance is still pending.",
+  "lastActualProgress": "C02 public price and stock acceptance is verified: the original run succeeded at17:44:38Z, draft settings were restored exactly at17:46:43Z, and the original acceptance owner validated all six C02 steps, six source bindings, eight screenshot hashes and the trace. Styling C07 and private checkout C14 did not receive acceptance credit from this run.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -129,7 +129,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Installation complete — final acceptance open",
-      "165 candidate files across17 manifests are installed and source-verified in unpublished theme166627606744. Latest stages: six C02 files09:49Z and three Small200 assets15:14Z. All539 live-theme files and untouched draft files are preserved.",
+      "165 candidate files across17 manifests are installed and source-verified in unpublished theme166627606744. Six C02 files and three Small200 assets are installed; C02 public price/stock acceptance now passes6/6 with its test settings restored OFF. All539 live-theme files and untouched draft files are preserved.",
       "Website acceptance owner verifies the changed200% WhatsApp clearance, full sticky price and drawer Close after Hands handback/own lease. Numerical timing separately needs supported Inspector control. Original service/TEST/privacy owners and final readers complete the other handover gates."
     ],
     [
@@ -140,15 +140,15 @@
     ]
   ],
   "completed": [
+    "C02 public price/stock: [original hosted acceptance run](https://github.com/EON-CRUX/3.09/actions/runs/39054652270) passed all six ordered steps; deployed source, screenshots and trace were validated. Temporary draft settings were restored exactly to OFF at17:46:43Z. Private C07/C14 and final ratings remain unaccepted.",
     "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at20:47Z; its later review, merge, draft install and changed native200% pass are complete, as recorded in the delivery stages above.",
     "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred.",
-    "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
-    "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
+    "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate."
   ],
   "remaining": "Five final release checks remain open: connected buyer-trust and consent acceptance; retention/training/notice facts; three qualified final ratings; complete native, numerical and capability acceptance for draft handover; and Big Bag native/final acceptance. The code and installation stages listed below are complete, but they do not substitute for those checks.",
-  "current": "6/11 counts completed release requirements, not individual repairs. The five open requirements have made substantial progress, shown in the checklist and delivery stages below. The small-device repairs have passed both code reviews, merged and been installed in the unpublished draft. The public-price frontend is also reviewed, merged and installed, with its default-off browser check passed. Styling now has both code approvals, a merge and a successful deployment containing the exact reviewed runtime files. These are completed stages within the five still-open release checks.",
-  "next": "The original Checkout and A2 owners are reconciling the first served-build request after the approved Cloudflare change: it still returned403 at17:30Z. Current served-source binding is required before the same admitted draft TEST continuation; no new run or settings apply has started. Independently, the Website acceptance owner awaits Hands control handback and its own lease for the installed small-device checks, preserving the Studio queue.",
-  "updated": "2026-10-17T17:32:08.264750+00:00",
+  "current": "Public price and stock C02 has passed its original acceptance check: all six ordered steps, deployed source, screenshots and trace are verified. The temporary test configuration has been restored to OFF. The small-device repairs have also passed both code reviews, merged and been installed in the unpublished draft. These are completed substages within the five still-open final release checks; 6/11 is not a count of coding tasks.",
+  "next": "The Website acceptance owner needs a scoped Hands handback and its own lease for the three installed small-device checks, preserving the Studio queue. Original Companion/Checkout owners continue private styling and checkout TEST/lifecycle acceptance. Numerical timing, privacy facts and the same three final readers remain separate prerequisites.",
+  "updated": "2026-10-17T17:53:53.390411+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -157,6 +157,10 @@
     {
       "title": "Styling #4470",
       "path": "https://github.com/EON-CRUX/3.09/pull/4470"
+    },
+    {
+      "title": "original hosted acceptance run",
+      "path": "https://github.com/EON-CRUX/3.09/actions/runs/39054652270"
     },
     {
       "title": "PR #4489",
@@ -177,10 +181,6 @@
     {
       "title": "Account return #4344",
       "path": "https://github.com/EON-CRUX/3.09/pull/4344"
-    },
-    {
-      "title": "Buyer notes #4294",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4294"
     }
   ],
   "source": "Published projection of the original task report",
@@ -233,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify the three installed small-device fixes at 200% (reviews/merge15:11Z and exact install15:14Z complete; first wait16Oct20:16. P212 released17:07Z; existing Hands request followed through17:19Z. Next: Website acceptance owner receives scoped control and takes its own lease; Studio queue retained)."
+        "text": "Waiting — Verify the three installed small-device fixes at 200% (reviews/merge15:11Z and exact install15:14Z complete; first wait16Oct20:16. P212 window12 released17:30Z; existing Hands request followed through17:46Z. Next: Website acceptance owner receives scoped control and takes its own lease; Studio queue retained)."
       },
       {
         "complete": true,
@@ -245,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete capability and private-journey acceptance (original owner identified the earlier Cloudflare challenge and verified the approved eondiscovery.co Bot Fight Mode change17:26Z; the single post-change served-build request still returned403 at17:30Z). Original Checkout and A2 have the changed result; next is current served-source binding, then the same admitted draft TEST sequence and restoration. No new test run or settings apply. C07 served/signed and private TEST/lifecycle proof remain open."
+        "text": "Waiting — Finish connected capability acceptance: public price and stock C02 is COMPLETE (6/6 ordered steps passed in the original hosted run17:38Z–17:44Z; source, screenshots and trace validated; temporary draft settings restored exactly17:46:43Z). Private styling C07 and checkout C14 remain unaccepted; next: original Companion/Checkout owners provide their admitted TEST and lifecycle evidence."
       },
       {
         "complete": false,
@@ -256,6 +256,6 @@
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Source repairs and draft installations are complete. Current served-source binding and small-device control handback are next; native timing, private TEST, privacy and final ratings keep whole-goal completion unestimated."
+    "landing": "Lands: Source repairs, draft installations and public price/stock acceptance are complete. Small-device control, numerical timing, private TEST, privacy and final ratings still need their named owners; whole-goal completion remains unestimated."
   }
 }
