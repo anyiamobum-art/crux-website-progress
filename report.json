@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "C10 build, remote proof, hosted checks, code approval, merge and unpublished installation are complete. Its ordinary desktop rendering check is now complete within the existing signed-in context, and its created tab is closed. The original native resource disposition and remaining acceptance contexts are still open. No repeat installer, source build, cart change or live publication is running for this update.",
+  "workerState": "C10 build, proof, hosted checks, governing approval, merge and installation are complete. Signed-in and anonymous ordinary desktop checks are complete within their recorded scopes, and the owned windows are closed. The ten-measure evidence audit is complete and its source/evidence snapshot is preserved. Original acceptance continues only remaining permitted checks; no reviewer has been launched and no score has changed.",
   "journey": [
     {
       "stage": "Build",
@@ -27,11 +27,11 @@
     {
       "stage": "Live verified",
       "state": "Pending",
-      "evidence": "Draft-only scoped acceptance: C02 passed6/6 and restoredOFF; Search200 and earlier default-off checks passed. Newly completed desktop drawer open/close/reopen/focus, full-bag and404Tee rendering used an already signed-in profile. Native200%, guest/empty-bag, full connected C10, private journeys, buyer consent, privacy and final ratings remain open. P212 action-time capacity/attendance disposition is pending; no native lease or boot was taken. No live publication is authorized."
+      "evidence": "Draft-only scoped acceptance: C02 passed6/6/restoredOFF; Search200 and earlier default-off checks passed. Ordinary signed-in populated drawer/full-bag/PDP and anonymous empty bag/sign-in prompt/drawer/PDP desktop substeps now pass. Native200%, connected C10 proposal-to-bag, private journeys, buyer consent, privacy and final ratings remain open. P212 is retained under Hands’ recorded load/swap/attendance conditions; no Website native lease or boot is claimed. No live publication is authorized."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Ordinary drawer/full-bag/product rendering passed21:43Z–21:46Z; the receipt was saved21:48:51Z. Earlier, the21:17 bounded catalogue read returned zero qualifying variants plus one control; A2 classifies only the representative populated bundle case as not testable in the current catalogue. Its behaviour remains unproved, with no new fixture or acceptance credit. P212’s21:52:56Z resource check prevented a lease or boot; the original Hands disposition is pending.",
+  "lastActualProgress": "Anonymous desktop checks completed at 22:09:57Z, closing the empty-bag, signed-out account and guest product-rendering gaps. The evidence audit completed at 22:16Z: it verified 49 references, 18 installed manifests, 28 saved browser artifacts and the five unchanged original review files. The public TEST card remains prepared, not executed. Native conditions and the representative bundle limitation remain explicit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -118,7 +118,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior frozen-source scores: Fable8.85, Opus8.70; Astra unqualified. The named source repairs are now reviewed, merged and installed; these old scores do not rate the repaired draft.",
-      "Original acceptance owner finishes the missing evidence and freezes one draft; the same three original readers then perform their second full reviews. No new score is claimed."
+      "The revised source/evidence snapshot and ten-measure audit are prepared. Original root retains same-reader dispatch and prefers the small-device functional result first. Labelled numerical, bundle or private unknowns do not create new dispatch gates; they still limit what a reader can qualify. No new score is claimed."
     ],
     [
       "9. Complete website assembly merge",
@@ -129,8 +129,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Earlier repairs installed — final acceptance open",
-      "165 candidate files across18 manifests are installed and source-verified in unpublished theme166627606744. C02 is accepted6/6/restoredOFF. C10 ordinary drawer/focus/full-bag/404Tee rendering passed21:43Z–21:46Z in the existing signed-in profile; no cart or settings mutation. All539 live-theme files remain unchanged.",
-      "Original Website acceptance owner completes native200%, allowed guest/empty-bag and connected contexts, with original resource and session custody. The representative populated bundle case is not testable in the current catalogue and remains unproved. Private, privacy and same-reader final checks still gate handover."
+      "165 candidate files across18 manifests are installed and source-verified in unpublished theme166627606744. C02 is accepted6/6/restoredOFF. Signed-in populated bag/drawer/PDP checks passed21:43Z–21:46Z; anonymous empty bag, Explore, sign-in prompt, drawer Close/focus and PDP checks passed22:06Z–22:09Z. No cart/settings changes; all539 live-theme files remain unchanged.",
+      "Original Website acceptance owner completes native200% and the mounted proposal-to-bag TEST journey under existing custody. The representative populated bundle is not testable in the current catalogue and remains unproved. Private, privacy and same-reader final checks still gate handover."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,15 +140,15 @@
     ]
   ],
   "completed": [
+    "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score.",
     "C10 [PR #4506](https://github.com/EON-CRUX/3.09/pull/4506) passed its connected remote proof and all hosted checks, received its first full approval, and merged at 20:10:23Z as 3eb8ee51. All 13 reviewed file contents match. Chair P681 resolved the review tier; all four theme files were installed once with exact hosted readback at 20:49:05Z. Live files and settings stayed unchanged; connected acceptance and final ratings remain separate.",
     "C02 public price/stock: [original hosted acceptance run](https://github.com/EON-CRUX/3.09/actions/runs/39054652270) passed all six ordered steps; deployed source, screenshots and trace were validated. Temporary draft settings were restored exactly to OFF at17:46:43Z. Private C07/C14 and final ratings remain unaccepted.",
-    "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at20:47Z; its later review, merge, draft install and changed native200% pass are complete, as recorded in the delivery stages above.",
-    "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred."
+    "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at20:47Z; its later review, merge, draft install and changed native200% pass are complete, as recorded in the delivery stages above."
   ],
   "remaining": "Five final release checks remain open: connected buyer-trust and consent acceptance; retention/training/notice facts; three qualified final ratings; complete native, numerical and capability acceptance for draft handover; and Big Bag native/final acceptance. The code and installation stages listed below are complete, but they do not substitute for those checks.",
-  "current": "Ordinary storefront checks have advanced on the unpublished draft: the drawer opens, closes, reopens and returns focus correctly; the populated full bag and404Tee price/size controls rendered. These checks ran21:43Z–21:46Z and their11 saved artifacts were verified. The existing profile was signed in, so guest, empty-bag, native200% and full connected C10 acceptance remain open. C10 source, tests, governing code approval, merge and four-file installation are complete; C02 remains accepted6/6 and restored OFF.",
-  "next": "The original native owner needs Hands’ current resource recovery and attended hold for the existing P212 allocation, then Website follows its current admission and successful lease. Original acceptance owners continue the remaining permitted PDP/bag/private contexts at their safe boundary. The same three original reviewers score the finished evidence only after it is ready; target9.5 or higher from each, with no measure below9.",
-  "updated": "2026-10-17T22:07:31.153546+00:00",
+  "current": "Both ordinary desktop contexts have progressed on the unpublished draft. Signed-in populated drawer, focus return, full bag and product rendering passed21:43Z–21:46Z. A separate anonymous window then passed empty bag, Explore navigation, sign-in prompt, empty drawer Close/focus return and404Tee price/size prompt22:06:35Z–22:09:57Z. That window is closed and the original cart/profile stayed untouched. Native200%, the mounted proposal-to-bag journey and final ratings remain open. C10 build/review/merge/install is complete; C02 remains accepted6/6 and restored OFF.",
+  "next": "Hands has retained the existing P212 allocation under its recorded load, free-swap and attended-hold conditions; Website follows the original native owner’s release with current admission and its own lease. Original owners are resolving exact notice/config and action-time admission for the prepared public TEST card. The revised review snapshot is ready for root’s original-reader disposition, with missing evidence labelled; root prefers the small-device functional result before spending the limited full round.",
+  "updated": "2026-10-17T22:20:47.267929+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -233,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify the three installed small-device fixes at 200%. P212 consumed its original allocation, but its21:52:56Z action-time check found sharply higher load and it took no lease, boot or input. Its21:54:36Z disposition asks original Hands for current resource recovery and an attended hold. Next: that existing allocation’s actual execution/release, then Website’s current admission and own lease. Original wait16Oct20:16 remains; no reliable waiting-time estimate."
+        "text": "Waiting — Verify the three installed small-device fixes at 200%. Hands answered22:04Z and retained the existing P212 allocation after restart-related load. Its exact eligibility condition is1-minute load below20, free swap above2GiB and a dedicated5-second attended hold. Next: Hands posts an eligible reading, the original native owner rechecks and uses/releases that allocation, then Website qualifies its current admission and own lease. Original wait16Oct20:16 remains; no reliable waiting-time estimate."
       },
       {
         "complete": true,
@@ -245,17 +245,17 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish connected capability acceptance. C02 is COMPLETE6/6 and restored OFF. C10 source, tests, governing code approval, merge and four-file install/readback20:49Z are complete. Ordinary desktop drawer open/close/reopen/focus, full bag and404Tee rendering passed21:43Z–21:46Z (about3 min; receipt21:48:51Z). The existing profile was signed in: guest, empty-bag, native200% and full connected C10 remain unproved. The21:17 catalogue read found no qualifying representative bundle; that case alone is not testable in the current catalogue. Next: original accepted contexts and resource boundaries for remaining ordinary/private journeys; no new fixture."
+        "text": "In progress — Finish connected capability acceptance. C02 is COMPLETE 6/6 and restored OFF. C10 source, tests, governing code approval, merge and four-file install/readback at20:49Z are complete. Signed-in populated drawer/focus/full-bag/PDP checks passed21:43Z–21:46Z (about3 min). Anonymous empty bag, Explore navigation, sign-in prompt, drawer Close/focus and404Tee price/size prompt passed22:06:35Z–22:09:57Z (about3 min). Those desktop substeps are complete; native200%, mounted proposal-to-bag and private journeys remain. The representative bundle case is not testable in the current catalogue. The original public TEST card is prepared, with exact notice/config and action-time admission still required; no action executed."
       },
       {
         "complete": false,
-        "text": "Pending — Freeze complete evidence and obtain the same three original final reviews (estimated35 min of active review after prerequisites; every model must score at least9.5 and no measure below9). Their start and waiting time are unestimated."
+        "text": "Pending — Obtain the same three original final reviews. The revised source/evidence snapshot and ten-measure audit are prepared; no review has been sent. Original root retains dispatch and prefers the named small-device functional result before spending the limited full round. Numerical measurements, the unavailable bundle case and private activation are not added dispatch gates. Estimate: 35 minutes of active review after dispatch; start and wait time remain unknown. Each score must reach 9.5, with no measure below 9."
       },
       {
         "complete": false,
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Ordinary drawer/full-bag/product rendering completed21:46Z; receipt verified21:48:51Z. The next milestone is the original native resource disposition and remaining permitted acceptance. Whole-goal delivery has no reliable ETA while these external dependencies, private journeys, privacy facts and final reviews remain open."
+    "landing": "Lands: Anonymous desktop substeps completed 22:09:57Z; the ten-measure evidence audit completed 22:16Z and a versioned review snapshot is prepared. Next are the original native resource boundary, the scoped connected-journey TEST prerequisites and root’s original-review disposition. Whole-goal delivery has no reliable ETA."
   }
 }
