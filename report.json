@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Search source/publication calls are terminal; no further push or code review is needed. Root alone owns the approved draft install. Original C02 backend started on the Mac at00:54Z; this does not establish the Website frontend START. The cart route workflow remains active, with source-writer START still unproven.",
+  "workerState": "Search source, publication and installer calls are terminal. The same original native owner is running; actual capture/attempt is not yet claimed. Two matching handoffs crossed and were coalesced into one obligation; root owns further native dispatch. C02 backend is active; Website frontend START remains unproven. The cart workflow is still route planning.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Search merged as a11f2c20 at01:00Z, and all five files match approved and merged bytes. The separate Safari control attempt ended without changing the preference; Settings was closed and control released. Its saved failure was returned once through the existing recovery route.",
+  "lastActualProgress": "One CSS asset is installed in the unpublished draft and exact source/body/storage hashes agree. The cumulative census now binds165files across15manifests. The original native owner has the new binding and the unchanged numerical-versus-functional gate distinction.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -119,7 +119,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
-      "164 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
+      "165 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
       "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed, merged as 3faf93ca and installed with exact hosted readback; that earlier source passed affected native acceptance at exactly 200% on the small iPhone, with settings restored and the simulator released. Current shell, product-arrow and companion repairs still require their changed-source native acceptance. The first three final ratings are recorded; named source repairs and missing evidence remain before acceptance. Never publish live."
     ],
     [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "Source review, hosted proof and merge are complete for Search. Draft installation and installed native behavior remain separate. The supported Safari attempt reached Settings, but Advanced showed a blank body and no developer checkbox; the original recovery owner has this actual failure. Cart context, Small-device custody, C02 frontend admission, C14 lifecycle authority, TEST admission, privacy facts and final ratings remain distinct dependencies.",
-  "current": "Lands: Search is merged and its approved single-file draft installation is running. Whole Website acceptance has no verified completion time. Search #4461 passed all required hosted checks and merged at01:00Z. All five changed files match the approved head and current main. The review-tier discrepancy is resolved by the canonical classifier: this exact additive pin change is standard and its original round-three approval satisfies the review count.",
-  "next": "Running — Root’s approved one-file unpublished draft installation with fresh maps and rollback checks (estimated six minutes active work, subject to readback). • Running — Original C02 backend source and cart route planning. • Waiting — Original Website C02 frontend and Small-device writer START, Safari UI recovery, TEST/privacy inputs, native acceptance and three original final ratings.",
-  "updated": "2026-10-17T01:03:09.867169+00:00",
+  "remaining": "Search source review, hosted proof, merge and draft installation are complete; native200% behavior still needs its actual source-bound result. The Safari Advanced blank-panel failure blocks numerical timing only, not a responsive functional pass with its own lease. Cart context, Small-device custody, C02 frontend admission, C14 lifecycle authority, TEST admission, privacy facts and final ratings remain distinct dependencies.",
+  "current": "Lands: Search is installed and source-verified in the unpublished draft; native acceptance is in progress. Whole Website acceptance has no verified completion time. The approved Search stylesheet was installed once at01:05Z and its exact bytes read back. The draft remains unpublished; all539live-theme files and untouched draft files are preserved.",
+  "next": "Running — Original native owner reconciles context, control and its own device lease for one changed Search200% functional check (estimated15 minutes active work after qualification). • Running — Original C02 backend and cart route planning. • Waiting — Website C02 frontend and Small-device writer START, numerical-timing Safari recovery, TEST/privacy inputs and three original final ratings.",
+  "updated": "2026-10-17T01:08:29.565783+00:00",
   "links": [
     {
       "title": "#4391",
