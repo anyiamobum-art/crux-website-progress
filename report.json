@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "All Search work is terminal and its device lease is released. The old cart box attempt is closed failed; one fresh Mac brief is queued, with no START or edit grant. Its stale input pin has been returned to the original Hands owner for correction. Public-price backend source is complete; Website frontend has no brief or START held by Hands.",
+  "workerState": "All Search work and root brief preparation are terminal. The fresh cart writer stopped before START, packet read or edits because the executed brief retained an old input hash. One changed-failure return asks original Hands to correct that brief and continue the same session. Frontend brief delivery is complete; its current holder and START remain unestablished.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original price-reader backend completed its source and remote causal proof at 01:23Z. The cart attempt was recorded failed at 01:22Z and one Mac continuation queued. At 01:39Z, the final root-custody handoff pin and completed backend dependency were sent through the original owner routes. Search’s complete 200% iPhone result and cleanup remain verified.",
+  "lastActualProgress": "The frontend checked brief was completed at 01:47Z and delivered through the original keeper at 01:48Z. It preserves fifteen accepted files and default-off behavior. The same delivery boundary returned the actual cart input-check failure for a same-session correction; no new writer or source custody was granted.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Search source review, hosted proof, merge, draft installation and changed native clipping verification are complete. Cart recovery, small-device repair and Website frontend admission remain with their original owners. Numerical timing separately needs supported Safari control; private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
   "current": "Search is installed in the unpublished draft, and its changed clipping regression passed on the original iPhone at an explicitly selected 200%. The device is back at 100% and its lease is released. All 539 live-theme files remain unchanged.",
-  "next": "Waiting — The queued cart brief needs its corrected handoff pin before an actual START and Website lead custody match. The public-price backend is source-complete; its original publication is next, while the Website lead prepares the original frontend’s checked brief for keeper admission. Small-device, numerical Safari, TEST/privacy and final ratings remain due.",
-  "updated": "2026-10-17T01:42:37.162500+00:00",
+  "next": "Waiting — Original Hands corrects the cart writer’s executed input pin and continues that same session; the Website lead matches its actual START. The checked public-price frontend brief is delivered to the original keeper for admission and START. Other named native, TEST, privacy and rating prerequisites remain.",
+  "updated": "2026-10-17T01:50:31.952926+00:00",
   "links": [
     {
       "title": "#4391",
@@ -219,15 +219,15 @@
       },
       {
         "complete": false,
-        "text": "Waiting on the queued cart writer’s corrected input pin and actual START (since 17:10Z; next check: original Hands correction, then Website lead’s custody match; est. 20 min active repair)."
+        "text": "Waiting on the original cart writer’s corrected input pin and same-session continuation (stopped before START at 01:44Z; first wait 17:10Z retained; next check: corrected executed brief and START; est. 20 min active repair after lead custody)."
       },
       {
         "complete": false,
-        "text": "Waiting on the original small-device repair writer since 20:16Z (next check: original launcher START or disposition; est. 40 min active repair after custody)."
+        "text": "In progress — Refresh the original small-device repair packet (preparation observed 01:51Z, est. 5 min; writer START remains unestablished and first wait 20:16Z is retained)."
       },
       {
         "complete": false,
-        "text": "In progress — Prepare the checked brief for the original public-price frontend continuation (01:43Z, est. 5 min preparation; keeper admission and actual writer START follow, first wait 23:42Z retained)."
+        "text": "Waiting on original frontend keeper admission and START (checked brief completed 01:47Z, took about 5 min; delivered 01:48Z; first wait 23:42Z retained; estimate follows actual writer START)."
       },
       {
         "complete": false,
@@ -246,6 +246,6 @@
         "text": "Waiting on privacy facts since 12 October 04:12Z (next check: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Search and its changed iPhone check are complete. The next cart repair needs the queued brief’s corrected input pin and an actual START matched by the Website lead; allow about 20 min active repair after custody. Whole Website acceptance time remains unknown."
+    "landing": "Lands: Search and its changed iPhone check are complete. The next cart repair needs the existing Mac writer’s corrected input pin, same-session continuation and actual START matched by the Website lead; allow about 20 min active repair after custody. Whole Website acceptance time remains unknown."
   }
 }
