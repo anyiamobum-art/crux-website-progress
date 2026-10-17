@@ -2,26 +2,36 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original A2 and service owner own the failed-run diagnosis. The same Website acceptance owner completed one temporary configuration and one exact restore; both keys are absent/OFF and no settings action remains pending. Website has no browser or native control.",
+  "workerState": "The original Website acceptance continuation owns remaining acceptance. The presenter owns this report only. The temporary public-price TEST settings were restored exactly to absent/OFF; no settings mutation is pending. Website has no browser or simulator control; the next functional boundary is requested through the existing Hands queue.",
   "journey": [
     {
       "stage": "Build",
-      "state": "Unknown",
-      "evidence": "#4251 ecc73b35; #4252 c1d08b49; #4259 31f7d302; #4255 75f2ebc0; #4257 08d4a6fa. #4057 closed with the audit and branch kept."
+      "state": "Complete",
+      "evidence": "Search #4461, cart #4466, public-price frontend #4476 and small-device #4489 source repairs are merged. Styling #4470 passed both reviews and merged at16:08Z; private checkout #4484 is also merged. These completed components still need their remaining connected acceptance."
     },
     {
       "stage": "Tests",
-      "state": "Unknown",
-      "evidence": "The three completed repairs passed 120 Node cases, 36 Python cases, 40 causal checks and six combined layout checks. The final products-per-page repair now passes 121 Node cases, 36 Python cases and six combined layout checks; all 44 causal checks also pass. Shopify shopping journeys remain separate."
+      "state": "Complete",
+      "evidence": "Small-device source:137 passed,94 WebKit skipped,40 causal pins; all hosted checks passed. Cart repair:29 cases,3 safeguards and16 causal pins. Search changed native200% check passed. The separate enabled public-price acceptance run passed3 of6 steps, then failed on service responses; it is not counted as accepted."
     },
     {
       "stage": "Review",
-      "state": "Unknown",
-      "evidence": "All three first final reports are complete. Fable 8.85, Opus 8.70; Astra overall unknown. Original review histories and remaining rounds preserved."
+      "state": "Complete",
+      "evidence": "Both original code reviews approved small-device #4489 and styling #4470; frontend #4476 passed its required original review. Code approvals are complete. The separate final website ratings remain0/3 qualified; prior scores do not rate the repaired draft."
+    },
+    {
+      "stage": "Deployed",
+      "state": "Complete",
+      "evidence": "165 candidate files across17 manifests are installed and source-verified in the unpublished Shopify draft: Search at01:05Z, six public-price files at09:49Z, three small-device assets at15:14Z. Styling's descendant deployment succeeded16:20Z with both runtime files unchanged; its served read returned403. Live Shopify files stayed unchanged."
+    },
+    {
+      "stage": "Live verified",
+      "state": "Pending",
+      "evidence": "Draft-only acceptance: earlier account return, Search200 and default-off collection/product/Back checks passed. Changed small-device200% proof needs Hands handback/own lease; numerical timing separately needs supported developer control. Buyer trust/consent, private TEST/lifecycle, privacy facts, Big Bag native proof and final ratings remain open. No live publication is authorized."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Small-device PR #4489 passed both code reviews and all hosted checks, merged15:11:49Z and installed three assets with exact unpublished-draft readback15:14:14Z. The enabled public-price run started15:42:31Z and failed15:43:19Z: its first three checks passed; stock returned non-JSON and subsequent price reads returned403. One restore was verified15:44:50Z against the original full settings bytes and storage metadata. The live theme stayed unchanged. The Safari check15:20–15:21:32Z failed to expose the developer control and released without preference changes or a numerical attempt.",
+  "lastActualProgress": "Small-device #4489: both original code approvals and hosted checks passed; merged15:11:49Z; three assets installed and byte-verified15:14:14Z. Styling #4470: both original approvals, merged16:08:49Z; a later deployment succeeded16:20:05Z with both runtime files unchanged. Its served-build read returned403 at17:11Z, so served and signed-journey acceptance remain unproved. P212 released17:07Z; the existing Website functional request was followed through17:19Z. The public-price run remains a partial result, and its draft settings are restored OFF.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -88,15 +98,15 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "Original components merged — connected acceptance pending",
-      "Endpoint #4205 and authenticated caller #4265 are merged; all 14 files match the original service owner’s verified deployment.",
-      "Actual signed-in purchaser lookup passed HTTP 200 through Shopify for the verified owned item; no review existed. Draft-only account settings verified, with the live theme unchanged. No feedback was saved or shared; public notes and full consent acceptance remain separate."
+      "Components reviewed, merged and deployed — acceptance open",
+      "Endpoint #4205 and caller #4265 are merged; all14 files match verified deployment. Historical signed-in owned-item lookup returned200 with no review. No feedback was saved or shared.",
+      "Original buyer-trust/Communication owner completes the current connected purchaser, notes and consent journey. Historical lookup alone does not close this item."
     ],
     [
       "6. Assistant privacy facts",
-      "Routing verified; privacy decision pending — assistant off",
-      "The original Ask owner verified the installed signed proxy reaches Ask v3 before model dispatch. Deployment-attested source identifies Anthropic and its pinned model; no model call was made.",
-      "Chair prepares one owner card for retention, training and notice wording when the draft is otherwise ready. Keep assistant off. The chair permits the verified route in the unpublished draft only; the privacy decision is still pending."
+      "Routing verified — privacy decision open",
+      "Signed proxy reaches Ask v3 before model dispatch; deployment source identifies its provider/model. No model call or privacy acceptance is inferred. Assistant remains off.",
+      "Original privacy owner/chair supplies retention, training and notice facts for the existing decision card; wait since12Oct04:12."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -106,9 +116,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "3/3 prior reports complete; 0/3 qualified",
-      "Prior frozen-source scores: Fable 8.85/10; Opus 8.70/10; Astra unqualified, overall average unknown. These precede the newly installed repairs.",
-      "Complete changed native/performance and prerequisite evidence, then send the repaired draft to the same original readers for the second full review."
+      "Three prior reports complete — 0/3 qualified",
+      "Prior frozen-source scores: Fable8.85, Opus8.70; Astra unqualified. The named source repairs are now reviewed, merged and installed; these old scores do not rate the repaired draft.",
+      "Original acceptance owner finishes the missing evidence and freezes one draft; the same three original readers then perform their second full reviews. No new score is claimed."
     ],
     [
       "9. Complete website assembly merge",
@@ -118,35 +128,31 @@
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Installed and source-verified — acceptance continuing",
-      "165 cumulative candidate files across17 manifests are bound to hosted readback in unpublished theme166627606744. The latest three Small200 assets match exactly. All539 live-theme files and untouched draft files are unchanged.",
-      "Earlier account return, Search200 and default-off public-price browser checks retain their scoped passes. Verify the newly repaired WhatsApp overlaps, sticky price and drawer Close at200%, then complete remaining native/performance, TEST, privacy and final-reader acceptance."
+      "Installation complete — final acceptance open",
+      "165 candidate files across17 manifests are installed and source-verified in unpublished theme166627606744. Latest stages: six C02 files09:49Z and three Small200 assets15:14Z. All539 live-theme files and untouched draft files are preserved.",
+      "Website acceptance owner verifies the changed200% WhatsApp clearance, full sticky price and drawer Close after Hands handback/own lease. Numerical timing separately needs supported Inspector control. Original service/TEST/privacy owners and final readers complete the other handover gates."
     ],
     [
       "11. BIG BAG page and navigation",
-      "PR #4316 merged; rendered acceptance pending",
-      "Required code review and hosted checks passed. Local evidence includes 380/430/1280 views, header checks and a 31.76-second journey recording. No final design score is implied.",
-      "Shopify category navigation, in-stock filter and price sort verified. At 380px, Lighting → Donut Lamp → product quantity handoff → real add → removal passed; the original bag was restored. Category failure and recovery also pass. Native and final rendered acceptance remain."
+      "Reviewed and merged — desktop journeys passed, native acceptance open",
+      "#4316 passed code review and hosted checks. Desktop380/430/1280 and header proof are saved. Shopify categories, in-stock filter and price sort passed; a scoped380px real add/remove journey restored the original bag.",
+      "Original Website acceptance owner completes native touch and final rendered acceptance on the finished draft, then the same final readers score it. No new cart or customer action is implied."
     ]
   ],
   "completed": [
-    "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at 20:47Z; remote proof passed 27 existing tests and 21 rendered cases. Review, approved draft installation and native acceptance remain.",
+    "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at20:47Z; its later review, merge, draft install and changed native200% pass are complete, as recorded in the delivery stages above.",
     "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred.",
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "The public-price test has not passed end to end. Native 200% acceptance, numerical performance evidence, enabled private journeys, admitted private TEST inputs, privacy facts and final re-review of the repaired website remain incomplete.",
-  "current": "The three small-device fixes are merged and installed in the unpublished draft after both required code reviews and all hosted checks passed. Their 200% native acceptance is pending. The first enabled public-price test ran once: its first three checks passed, but service responses blocked the remainder. The draft was restored to OFF.",
-  "next": "The original service owner is investigating the failed responses from the public-price test; the exact cause is not yet proved. The original acceptance owner still needs a qualified control window and lease for the three small-device checks. Numerical performance separately needs supported Safari developer control. Private TEST, privacy and final-rating obligations continue.",
-  "updated": "2026-10-17T15:52:19.150846+00:00",
+  "remaining": "Five final release checks remain open: connected buyer-trust and consent acceptance; retention/training/notice facts; three qualified final ratings; complete native, numerical and capability acceptance for draft handover; and Big Bag native/final acceptance. The code and installation stages listed below are complete, but they do not substitute for those checks.",
+  "current": "6/11 counts completed release requirements, not individual repairs. The five open requirements have made substantial progress, shown in the checklist and delivery stages below. The small-device repairs have passed both code reviews, merged and been installed in the unpublished draft. The public-price frontend is also reviewed, merged and installed, with its default-off browser check passed. Styling now has both code approvals, a merge and a successful deployment containing the exact reviewed runtime files. These are completed stages within the five still-open release checks.",
+  "next": "The original Website acceptance owner needs the next Hands control handback and its own lease for the installed small-device checks; P212 released at17:07Z and the existing request was followed through at17:19Z, preserving the Studio queue. Separately, the Cloudflare account owner must provide the already-requested security-event export before the service owner can identify the blocked public-price responses. No alternate access route or repeat test is being attempted.",
+  "updated": "2026-10-17T17:21:12.134205+00:00",
   "links": [
     {
-      "title": "PR #4316",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4316"
-    },
-    {
-      "title": "checkout #4480",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4480"
+      "title": "checkout #4484",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4484"
     },
     {
       "title": "Styling #4470",
@@ -171,6 +177,10 @@
     {
       "title": "Account return #4344",
       "path": "https://github.com/EON-CRUX/3.09/pull/4344"
+    },
+    {
+      "title": "Buyer notes #4294",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4294"
     }
   ],
   "source": "Published projection of the original task report",
@@ -223,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify the installed small-device fixes at 200% (source reviews and merge completed15:11Z; three-file draft install verified15:14Z; next: original native owner with supported control and its own lease)."
+        "text": "Waiting — Verify the three installed small-device fixes at 200% (reviews/merge15:11Z and exact install15:14Z complete; first wait16Oct20:16. P212 released17:07Z; existing Hands request followed through17:19Z. Next: Website acceptance owner receives scoped control and takes its own lease; Studio queue retained)."
       },
       {
         "complete": true,
@@ -235,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete enabled capability and private-journey acceptance (one C02 run failed15:43Z: the first three price/selection checks passed; service responses blocked the remainder. Exact original draft settings restored OFF15:44:50Z. Next: original service-owner diagnosis and repair; private TEST/lifecycle and styling evidence remain open)."
+        "text": "Waiting — Complete capability and private-journey acceptance (C02 source and default-off checks complete; one enabled run partially passed then failed15:43Z, exact settings restored15:44Z. Account owner supplies the already-requested security-event export; original service owner diagnoses. C07 both reviews/merge/deployment complete, served and signed proof pending; private TEST/lifecycle remains open)."
       },
       {
         "complete": false,
@@ -246,6 +256,6 @@
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Small-device source and draft installation are complete. Native checks, admitted TEST inputs, privacy and final ratings still determine the whole Website completion time."
+    "landing": "Lands: Source repairs and draft installations are complete. The next small-device check depends on actual control handback; service access, native timing, private TEST, privacy and final ratings keep whole-goal completion unestimated."
   }
 }
