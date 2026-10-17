@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same acceptance owner completed the source release and unpublished installation. Website holds no browser or native control; original acceptance and review owners remain unchanged.",
+  "workerState": "The same acceptance owner completed source release and unpublished installation. Its admitted Safari Settings check ended with control released at 15:21:32Z; the developer control remains unavailable. Website has no active browser or native control.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Small-device PR #4489 merged15:11:49Z after both original code approvals and all current hosted checks. One three-asset draft batch was verified15:14:14Z, with exact source/hosted hashes, live theme unchanged and untouched draft files preserved. Original proof remains137 passed,94 explicit WebKit skips and40 causal pins; native acceptance is separate.",
+  "lastActualProgress": "Small-device PR #4489 passed both original code reviews and all hosted checks, merged at 15:11:49Z, and its three assets were installed with exact draft readback at 15:14:14Z. The live theme and untouched draft files are unchanged. The fresh Safari control check ran 15:20–15:21:32Z and released without changing any preference; the Advanced pane still did not expose the developer control. No simulator or numerical attempt occurred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -106,9 +106,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "3/3 first reports complete; 0/3 passing",
-      "Fable 8.85/10; Opus 8.70/10; Astra not qualified, overall score unknown. All read the same frozen source.",
-      "Header, companion and product arrows now installed. Home-screen icons are verified on both devices. Named 200% repairs and remaining native/performance proof precede the same readers’ second full read."
+      "3/3 prior reports complete; 0/3 qualified",
+      "Prior frozen-source scores: Fable 8.85/10; Opus 8.70/10; Astra unqualified, overall average unknown. These precede the newly installed repairs.",
+      "Complete changed native/performance and prerequisite evidence, then send the repaired draft to the same original readers for the second full review."
     ],
     [
       "9. Complete website assembly merge",
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "Changed native200% and numerical performance evidence, enabled private journeys, admitted TEST inputs, privacy facts and final website ratings remain incomplete.",
-  "current": "The small-device repair passed both required code reviews and hosted checks, merged, and is installed with exact source readback in the unpublished draft. Its changed native checks remain. The public-price feature stays off.",
-  "next": "Verify the three repaired small-device controls through the original native owner when supported control and its lease are available. Continue the original TEST, Safari control, privacy and final-rating obligations.",
-  "updated": "2026-10-17T15:18:28.604859+00:00",
+  "remaining": "Native 200% acceptance, numerical performance evidence, enabled private journeys, admitted TEST inputs, privacy facts and the final re-review of the repaired website remain incomplete.",
+  "current": "The three small-device fixes are merged and installed in the unpublished draft after both required code reviews and all hosted checks passed. Their 200% native acceptance is next. The public-price feature remains off.",
+  "next": "The original acceptance owner will verify WhatsApp clearance, the complete sticky price and drawer Close at 200% after its functional control and lease prerequisites. Numerical performance separately needs the supported Safari developer control. Original TEST, privacy and final-rating obligations continue.",
+  "updated": "2026-10-17T15:30:50.419632+00:00",
   "links": [
     {
       "title": "PR #4316",
@@ -188,15 +188,15 @@
   "ratings": [
     {
       "model": "Fable 5.1",
-      "result": "8.85/10 — first final review failed; lowest measure 8.5. Named repairs recorded."
+      "result": "Prior review: 8.85/10, lowest measure 8.5 — below the target. Awaiting re-review of the repaired draft; this score does not rate the newly installed small-device fixes."
     },
     {
       "model": "Astra 6",
-      "result": "Not qualified — house consistency 8.5/10; nine measures unscored, so no whole-site average. Named repairs and evidence gaps recorded."
+      "result": "Prior review: unqualified — house consistency 8.5/10, nine measures unscored and no whole-site average. Awaiting re-review of the repaired draft; no new score is claimed."
     },
     {
       "model": "Opus 5.5",
-      "result": "8.70/10 — first final review failed; lowest measure 8.0. Named repairs recorded."
+      "result": "Prior review: 8.70/10, lowest measure 8.0 — below the target. Awaiting re-review of the repaired draft; this score does not rate the newly installed small-device fixes."
     }
   ],
   "timedPlan": {
@@ -231,7 +231,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Recover supported Safari control (fresh prerequisite check10:17Z–10:18:44Z failed and released; Advanced pane still blank; original wait since16 October14:30Z; next: original Hands supported control recovery, then separate timing readiness)."
+        "text": "Waiting — Recover supported Safari control (admitted check15:20Z–15:21:32Z failed and released; Advanced pane still blank; original wait since16 October14:30Z; next: original Hands supported control recovery, then separate timing readiness)."
       },
       {
         "complete": false,
