@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "No Website product writer or installer is running. Root owns the next draft rendered check after CS’s globally cleared bounded browser turn and release. The latest P212 native window remains with its existing executor; Website has no browser/native custody. Small200 still needs its original keeper’s disposition.",
+  "workerState": "Website holds no browser or native control. The admitted Chrome check is terminal and root released its turn to CS. Small200 remains with its original keeper; a changed access disposition was sent after the Hands desktop seat reached its weekly limit. Other placement routes are being reconciled. No new Website source writer, installer or browser run is active.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "PR #4476 passed its original code review and merged at09:45:18Z. One six-file installation completed at09:49:34Z with exact hosted hashes, the live theme unchanged and untouched draft files preserved. The capability remains off. A direct unauthenticated request reached the live theme and is explicitly excluded from draft rendered evidence.",
+  "lastActualProgress": "At10:08:49Z, one Chrome check verified collection reload, 404 Tee and return on unpublished theme166627606744. Price and Ask configuration, boot and panel styles were absent; 20 collection Add to bag controls and the product size chooser were observed. No cart write, activation, settings write or publication occurred. Root released its browser turn at10:08:50Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "The public-price frontend source, hosted tests, original code review, merge and six-file draft installation are complete. Its rendered check, original small-device repair, numerical timing, private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
-  "current": "Search clipping is resolved and the cart test repair is merged. The approved public-price frontend has also merged and its six files are verified in the unpublished draft. The feature remains off, its path blank, and all539 live-theme files remain unchanged.",
-  "next": "Complete the source-bound default-off rendered check on the exact unpublished preview after the shared browser handback. Continue original Small200 placement, Safari recovery, TEST/privacy prerequisites and final ratings.",
-  "updated": "2026-10-17T09:56:28.326176+00:00",
+  "remaining": "The default-off draft regression passed. Original small-device repair, numerical timing, private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
+  "current": "Search clipping is resolved and the cart test repair is merged. The public-price frontend is merged, installed and verified with the feature off in the exact unpublished draft. Enabled price checking and final website acceptance remain unqualified.",
+  "next": "Obtain the original Small200 writer intake or precise access prerequisite, and the existing Safari control recovery needed for numerical timing. Continue original TEST/account-lifecycle, privacy and final-rating prerequisites.",
+  "updated": "2026-10-17T10:11:35.548663+00:00",
   "links": [
     {
       "title": "#4391",
@@ -226,8 +226,8 @@
         "text": "Waiting — Original small-device writer placement (since16 October20:16Z; exact destination audit and keeper disposition09:40Z; next: actual holder/intake or precise prerequisite after resource eligibility)."
       },
       {
-        "complete": false,
-        "text": "In progress — Verify the installed default-off public-price frontend in the draft (review passed; merge09:45Z → install/readback09:49Z, took4 min; next: actual shared browser handback, then est.10 active min rendered check)."
+        "complete": true,
+        "text": "Completed — Verify the installed default-off public-price frontend in the exact unpublished draft (merge09:45Z, install09:49Z; admitted browser check10:04Z–10:08:49Z, took about5 min; collection, product and return passed with the feature off)."
       },
       {
         "complete": false,
@@ -246,6 +246,6 @@
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Cart repair is merged. The public-price frontend is merged and installed in the unpublished draft with the feature off; its rendered check follows the shared browser handback. Small-device, numerical timing, TEST, privacy and final ratings still leave the whole Website completion time unknown."
+    "landing": "Lands: Cart repair is merged. The public-price frontend is merged, installed and verified with the feature off in the unpublished draft. Small-device, numerical timing, TEST, privacy and final ratings still leave the whole Website completion time unknown."
   }
 }
