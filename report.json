@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "All Search work and root brief preparation are terminal. The fresh cart writer stopped before START, packet read or edits because the executed brief retained an old input hash. One changed-failure return asks original Hands to correct that brief and continue the same session. Frontend brief delivery is complete; its current holder and START remain unestablished.",
+  "workerState": "The same cart writer has read the corrected input packet and holds edit-only custody; its first permitted test edit was observed at 01:56Z. The small-device packet correction is complete and delivered. Small-device and frontend holder/START are still unestablished.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The frontend checked brief was completed at 01:47Z and delivered through the original keeper at 01:48Z. It preserves fifteen accepted files and default-off behavior. The same delivery boundary returned the actual cart input-check failure for a same-session correction; no new writer or source custody was granted.",
+  "lastActualProgress": "Cart START was verified at 01:51Z, lead custody at 01:54Z and a scoped test edit at 01:56Z. The small-device packet was corrected at 01:52Z and delivered at 01:56Z. Both unstarted source placements now explicitly require local inputs or a supported, hash-verified transfer before box execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Search source review, hosted proof, merge, draft installation and changed native clipping verification are complete. Cart recovery, small-device repair and Website frontend admission remain with their original owners. Numerical timing separately needs supported Safari control; private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
   "current": "Search is installed in the unpublished draft, and its changed clipping regression passed on the original iPhone at an explicitly selected 200%. The device is back at 100% and its lease is released. All 539 live-theme files remain unchanged.",
-  "next": "Waiting — Original Hands corrects the cart writer’s executed input pin and continues that same session; the Website lead matches its actual START. The checked public-price frontend brief is delivered to the original keeper for admission and START. Other named native, TEST, privacy and rating prerequisites remain.",
-  "updated": "2026-10-17T01:50:31.952926+00:00",
+  "next": "The original cart writer completes its focused repair and proof. Original keepers admit the checked small-device and public-price frontend packets, then record actual START. Numerical timing, TEST, privacy and final rating prerequisites remain.",
+  "updated": "2026-10-17T01:58:29.142998+00:00",
   "links": [
     {
       "title": "#4391",
@@ -219,11 +219,11 @@
       },
       {
         "complete": false,
-        "text": "Waiting on the original cart writer’s corrected input pin and same-session continuation (stopped before START at 01:44Z; first wait 17:10Z retained; next check: corrected executed brief and START; est. 20 min active repair after lead custody)."
+        "text": "In progress — Repair and prove the cart test through its original writer (corrected input read 01:51Z, lead custody 01:54Z, first edit 01:56Z; est. 20 min active repair/proof; original wait since 17:10Z retained)."
       },
       {
         "complete": false,
-        "text": "In progress — Refresh the original small-device repair packet (preparation observed 01:51Z, est. 5 min; writer START remains unestablished and first wait 20:16Z is retained)."
+        "text": "Waiting on original small-device writer admission and START (packet corrected 01:49Z–01:52Z, took about 2 min; delivered 01:56Z; first wait 20:16Z; next check: original keeper placement and START)."
       },
       {
         "complete": false,
@@ -231,7 +231,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on supported Safari control for numerical timing since 14:30Z (next check: original recovery owner’s response to the saved blank-panel failure; est. 25 min active work after recovery)."
+        "text": "Waiting on supported Safari control for numerical timing since 14:30Z (sidebar restoration withdrawn 01:49Z; next check: lead's supported-control reconciliation; est. 25 min active timing after recovery)."
       },
       {
         "complete": false,
@@ -246,6 +246,6 @@
         "text": "Waiting on privacy facts since 12 October 04:12Z (next check: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Search and its changed iPhone check are complete. The next cart repair needs the existing Mac writer’s corrected input pin, same-session continuation and actual START matched by the Website lead; allow about 20 min active repair after custody. Whole Website acceptance time remains unknown."
+    "landing": "Lands: Search and its changed iPhone check are complete. The original cart writer is editing under lead custody from 01:54Z; allow about 20 min active repair and proof from that point, subject to the actual result. Whole Website acceptance time remains unknown."
   }
 }
