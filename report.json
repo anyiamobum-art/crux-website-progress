@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Website holds no browser or native control. Root’s Safari Settings check is terminal and released. Hands reports restored Desktop allowance; the existing Small200 intake and supported Safari recovery still need concrete owner outcomes. No new Website writer or native run was started.",
+  "workerState": "The same acceptance obligation now continues with the compact acceptance custodian. Website holds no browser or native control. P212 window9 ended10:52:13Z and restored caps; this is not a Website native grant. Original source and review owners remain unchanged.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The fresh Safari prerequisite check ran10:17Z–10:18:44Z, reproduced the blank Advanced pane and absent developer control, then closed Settings and restored the original tab. No preference change, simulator boot or numerical attempt occurred. The completed default-off draft browser pass remains valid.",
+  "lastActualProgress": "Private checkout guards passed10:54:44Z and its test gate passed10:56:49Z; its exact-head holder check still fails. The historical Companion admission wait was explicitly closed at10:58:48Z against actual C02 delivery and C07 execution. No new product or browser action occurred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "The default-off draft regression passed. A fresh supported Safari Settings check again showed a blank Advanced pane and no exposed developer control. Small-device repair, numerical timing, private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
-  "current": "Search clipping is resolved and the cart test repair is merged. The public-price frontend is merged, installed and verified with the feature off in the exact unpublished draft. Enabled price checking and final website acceptance remain unqualified.",
-  "next": "Obtain the original Small200 intake or precise remaining prerequisite after reported Hands allowance recovery. Original Hands must recover visible Safari developer control or demonstrate the supported Inspector route before numerical timing can proceed. Continue TEST/account-lifecycle, privacy and final-rating prerequisites.",
-  "updated": "2026-10-17T10:20:31.385064+00:00",
+  "remaining": "Small-device repair and supported Safari control remain unresolved. Private checkout holder acceptance, styling review disposition, admitted TEST inputs, privacy facts and final website ratings remain incomplete.",
+  "current": "The public-price frontend is merged, installed and verified with the feature off in the exact unpublished draft. Private checkout checks have passed, but original holder acceptance remains pending. Styling remains on its original review hold.",
+  "next": "Original Checkout and chair resolve checkout holder acceptance; original A2 and chair resolve the styling review hold. Obtain the original Small200 intake or precise prerequisite and supported Safari developer control, then complete TEST, privacy and final-rating prerequisites.",
+  "updated": "2026-10-17T11:01:45.497010+00:00",
   "links": [
     {
       "title": "#4391",
@@ -147,6 +147,14 @@
     {
       "title": "PR #4316",
       "path": "https://github.com/EON-CRUX/3.09/pull/4316"
+    },
+    {
+      "title": "checkout #4480",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4480"
+    },
+    {
+      "title": "Styling #4470",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4470"
     },
     {
       "title": "Collection zoom #4364",
@@ -163,14 +171,6 @@
     {
       "title": "Account return #4344",
       "path": "https://github.com/EON-CRUX/3.09/pull/4344"
-    },
-    {
-      "title": "Buyer notes #4294",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4294"
-    },
-    {
-      "title": "Reference typography #4251",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4251"
     }
   ],
   "source": "Published projection of the original task report",
@@ -235,7 +235,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Admitted TEST inputs and the private account-lifecycle contract (next: original Checkout/Companion admission card; estimate follows prerequisites)."
+        "text": "Waiting — Private checkout and styling acceptance, plus admitted TEST inputs (checkout checks passed; original holder acceptance and styling review hold remain; next: original owners’ dispositions and TEST admission)."
       },
       {
         "complete": false,
