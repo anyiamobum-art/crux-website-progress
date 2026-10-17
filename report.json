@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Search source, publication and installer calls are terminal. The original iPhone pass is using the same device lease, renewed at 01:18Z. The chair approved one Mac cart continuation after the failed box attempt is closed; Hands received the instruction and no new START is yet verified. Public-price backend is active; Website frontend START remains unproven.",
+  "workerState": "All Search source, publication, installation and native calls are terminal. One native boot/pass completed, zoom100 was restored and cleanup verified zero booted devices with no remaining lease. The chair-approved cart continuation still needs Hands’ failed-attempt closure and actual packet-read START before matching edit-only custody. Public-price backend is active; Website frontend START remains unproven.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 200% on the original iPhone, the full Search placeholder and typed Shirt text are visible, with 12 pieces. This is partial functional evidence; the complete result and device cleanup remain pending. The original cart recovery now has a verified Mac route after closure of its failed attempt.",
+  "lastActualProgress": "The original iPhone showed the full Search placeholder and typed Shirt at 200%, focused and blurred, with12pieces. Close returned to the collection. The read-only product-navigation detour is recorded; no full-card census or numerical timing result is claimed. Cleanup finished at01:21Z and the result was recorded at01:22Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "Search source review, hosted proof, merge and draft installation are complete; native200% behavior still needs its actual source-bound result. The Safari Advanced blank-panel failure blocks numerical timing only, not a responsive functional pass with its own lease. Cart context, Small-device custody, C02 frontend admission, C14 lifecycle authority, TEST admission, privacy facts and final ratings remain distinct dependencies.",
-  "current": "Search is installed in the unpublished draft. The original iPhone check has verified its full placeholder and typed text at 200%; blur, results, Close and restoring 100% are still in progress. All 539 live-theme files remain unchanged.",
-  "next": "Running — Finish the single original iPhone Search check and device cleanup, estimated around 01:23Z. • Running — Original public-price backend. • Waiting — Hands closes the failed cart attempt and starts its approved Mac continuation; original small-device and Website frontend START, numerical timing, TEST/privacy and final ratings remain due.",
-  "updated": "2026-10-17T01:20:25.453379+00:00",
+  "remaining": "Search source review, hosted proof, merge, draft installation and changed native clipping verification are complete. Cart recovery, small-device repair and Website frontend admission remain with their original owners. Numerical timing separately needs supported Safari control; private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
+  "current": "Search is installed in the unpublished draft, and its changed clipping regression passed on the original iPhone at an explicitly selected 200%. The device is back at 100% and its lease is released. All 539 live-theme files remain unchanged.",
+  "next": "Running — Original public-price backend. • Waiting — Hands closes the failed cart attempt and starts its approved Mac continuation; original small-device and Website frontend START, numerical-timing Safari recovery, TEST/privacy inputs and three original final ratings remain due.",
+  "updated": "2026-10-17T01:25:09.098379+00:00",
   "links": [
     {
       "title": "#4391",
@@ -210,8 +210,8 @@
         "text": "Completed — Install Search in the unpublished draft and verify the unchanged live theme (01:01Z–01:06Z, took 5 min)."
       },
       {
-        "complete": false,
-        "text": "In progress — Finish the iPhone Search 200% check, then restore 100% and release the device (started 01:10Z, revised est. 13 min; placeholder and focused text verified)."
+        "complete": true,
+        "text": "Completed — Verify Search at 200% on the original iPhone, restore 100% and release the device (01:10Z–01:22Z, took 12 min)."
       },
       {
         "complete": false,
@@ -246,6 +246,6 @@
         "text": "Waiting on privacy facts since 12 October 04:12Z (next check: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: next native result about 01:23Z (about 4 min left at 01:19Z; completing blur, Close and device cleanup may move it). Whole Website acceptance time remains unknown."
+    "landing": "Lands: the Search repair and its changed iPhone check are complete. The next repair depends on the original owner’s settlement/START; allow about 20 min active cart repair after custody. Whole Website acceptance time remains unknown."
   }
 }
