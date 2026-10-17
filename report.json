@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same acceptance owner is integrating the completed original repair. Website holds no browser or native control. Original source and review owners remain unchanged.",
+  "workerState": "The same acceptance owner completed the source release and unpublished installation. Website holds no browser or native control; original acceptance and review owners remain unchanged.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Small-device PR #4489 was published at14:40Z after a normal main merge. All seven repaired files and the exact candidate diff remain unchanged from the original proof:137 passed,94 explicit WebKit skips and40 causal pins. The stale historical admission alert was corrected14:32Z and passes both existing parsers.",
+  "lastActualProgress": "Small-device PR #4489 merged15:11:49Z after both original code approvals and all current hosted checks. One three-asset draft batch was verified15:14:14Z, with exact source/hosted hashes, live theme unchanged and untouched draft files preserved. Original proof remains137 passed,94 explicit WebKit skips and40 causal pins; native acceptance is separate.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,14 +113,14 @@
     [
       "9. Complete website assembly merge",
       "Complete — reviewed and merged",
-      "Prior collection, assistant, buyer-notes and Big Bag assemblies remain merged. Pet/WhatsApp repair #4391 merged as 98ed2b50 after both original code approvals and every required hosted check. All nine reviewed files match the merge and captured main.",
-      "All three approved files installed and byte-verified at 06:48:58Z; rendered acceptance and final design scores remain separate."
+      "Prior collection, assistant, buyer-notes and Big Bag assemblies remain merged. The latest small-device repair #4489 passed both original code approvals and all hosted checks, then merged as6117b196 at15:11:49Z. All seven reviewed file contents match merge/main.",
+      "Three approved assets installed and byte-verified15:14:14Z; changed native acceptance and final design scores remain separate."
     ],
     [
       "10. Completed Shopify draft and handover",
       "Installed and source-verified — acceptance continuing",
-      "165 cumulative candidate files source-verified across the installed assemblies; account-feedback merchant settings verified separately. All 539 live-theme files unchanged. Real plus, size, add and remove path passes; the overlap repair #4331 is installed and verified at phone widths.",
-      "Account return, product plus/add and narrow invitation-dismiss checks verified. Native enlarged-text heading/count, Search and toggle checks pass. Latest pet/WhatsApp repair is installed; sampled title clearance passes. Desktop movement, Dance, Pause and reduced motion verified. The enlarged companion panel repair is merged and installed. Its native controls pass; the remaining 200% heading overlap is addressed in PR #4409, reviewed, merged as 3faf93ca and installed with exact hosted readback; that earlier source passed affected native acceptance at exactly 200% on the small iPhone, with settings restored and the simulator released. Current shell, product-arrow and companion repairs still require their changed-source native acceptance. The first three final ratings are recorded; named source repairs and missing evidence remain before acceptance. Never publish live."
+      "165 cumulative candidate files across17 manifests are bound to hosted readback in unpublished theme166627606744. The latest three Small200 assets match exactly. All539 live-theme files and untouched draft files are unchanged.",
+      "Earlier account return, Search200 and default-off public-price browser checks retain their scoped passes. Verify the newly repaired WhatsApp overlaps, sticky price and drawer Close at200%, then complete remaining native/performance, TEST, privacy and final-reader acceptance."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -131,19 +131,15 @@
   ],
   "completed": [
     "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at 20:47Z; remote proof passed 27 existing tests and 21 rendered cases. Review, approved draft installation and native acceptance remain.",
-    "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair is now Ready [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489), awaiting checks and review; its changed native check is still owed. No timing or rating is inferred.",
+    "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred.",
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "The small-device repair still needs hosted review, merge, installation and native proof. Supported Safari developer control, enabled private journeys, admitted TEST inputs, privacy facts and final website ratings remain incomplete.",
-  "current": "The original small-device repair is published as Ready PR #4489 and awaiting hosted checks and review. Private checkout source is merged. The public-price frontend remains verified with the feature off in the unpublished draft.",
-  "next": "Qualify the existing small-device checks and original review, merge, then install approved files in the unpublished draft and check the changed native controls. Continue original TEST, supported Safari control, privacy and final-rating obligations.",
-  "updated": "2026-10-17T14:42:48.385691+00:00",
+  "remaining": "Changed native200% and numerical performance evidence, enabled private journeys, admitted TEST inputs, privacy facts and final website ratings remain incomplete.",
+  "current": "The small-device repair passed both required code reviews and hosted checks, merged, and is installed with exact source readback in the unpublished draft. Its changed native checks remain. The public-price feature stays off.",
+  "next": "Verify the three repaired small-device controls through the original native owner when supported control and its lease are available. Continue the original TEST, Safari control, privacy and final-rating obligations.",
+  "updated": "2026-10-17T15:18:28.604859+00:00",
   "links": [
-    {
-      "title": "#4391",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4391"
-    },
     {
       "title": "PR #4316",
       "path": "https://github.com/EON-CRUX/3.09/pull/4316"
@@ -171,6 +167,10 @@
     {
       "title": "Header reflow #4345",
       "path": "https://github.com/EON-CRUX/3.09/pull/4345"
+    },
+    {
+      "title": "Account return #4344",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4344"
     }
   ],
   "source": "Published projection of the original task report",
@@ -223,7 +223,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Qualify small-device PR #4489 (original repair12:57Z–13:58Z; integration and publication14:33Z–14:40Z, took7 min; ordinary review est.35 min, draft install est.10 min after qualified merge)."
+        "text": "Waiting — Verify the installed small-device fixes at 200% (source reviews and merge completed15:11Z; three-file draft install verified15:14Z; next: original native owner with supported control and its own lease)."
       },
       {
         "complete": true,
@@ -246,6 +246,6 @@
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Small-device source is published and awaiting checks and review. Its installation, native checks, TEST, privacy and final ratings leave the whole Website completion time unknown."
+    "landing": "Lands: Small-device source and draft installation are complete. Native checks, admitted TEST inputs, privacy and final ratings still determine the whole Website completion time."
   }
 }
