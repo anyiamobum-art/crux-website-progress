@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Search round3 approved the exact published head with the original reviewer and preserved review history. Source and publication calls are terminal; no further push or code review is planned. Hosted tests and pin proof remain active or queued. The original cart route-planning workflow remains active with input readbacks, not yet source-writer START.",
+  "workerState": "Search source/publication calls are terminal; no further push or code review is needed. Root alone owns the approved draft install. Original C02 backend started on the Mac at00:54Z; this does not establish the Website frontend START. The cart route workflow remains active, with source-writer START still unproven.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Original Search round3 approval was posted00:43:59Z and has now been consumed. The missing causal-pin finding is closed, with no new findings. The prepared one-file draft candidate and rollback bytes remain uninstalled. The existing Safari control handback and Small-device original-route reconciliation are awaiting their actual owners’ responses.",
+  "lastActualProgress": "Search merged as a11f2c20 at01:00Z, and all five files match approved and merged bytes. The separate Safari control attempt ended without changing the preference; Settings was closed and control released. Its saved failure was returned once through the existing recovery route.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "Search has its final permitted code approval and still needs all required hosted checks before merge or installation. Cart context/return readiness, Small-device custody, supported Safari control, C02 frontend admission, C14 lifecycle authority, TEST admission, privacy facts and final ratings remain distinct dependencies. The chair confirmed that no isolated TEST environment is admitted.",
-  "current": "Lands: Search has final code approval on its published head; remaining hosted checks precede merge and draft installation. Whole Website acceptance has no verified completion time. The original reviewer approved095dbcd in round3 of3, closing the exact missing-pin finding with no new findings. The single source push and exact body/head readback are complete. Admission, guard, PR-body and gate checks have passed; remaining test shards and hosted pin proof are still pending.",
-  "next": "Running — Search’s remaining hosted checks, then existing merge and approved draft install. • Running — Original cart input/context route planning; source START remains unproven (est.20 min active repair after custody). • Waiting — Original Small-device named repair START; its old lane is terminal, and changed destination evidence was returned00:44Z with the20:16Z wait retained. • Waiting — Original C02 frontend keeper admission; the backend priority ruling and box-disk prerequisite do not establish frontend START. • Pending — Supported Safari control handback, native acceptance, evidence freeze, three original final ratings and privacy handover.",
-  "updated": "2026-10-17T00:53:10.393890+00:00",
+  "remaining": "Source review, hosted proof and merge are complete for Search. Draft installation and installed native behavior remain separate. The supported Safari attempt reached Settings, but Advanced showed a blank body and no developer checkbox; the original recovery owner has this actual failure. Cart context, Small-device custody, C02 frontend admission, C14 lifecycle authority, TEST admission, privacy facts and final ratings remain distinct dependencies.",
+  "current": "Lands: Search is merged and its approved single-file draft installation is running. Whole Website acceptance has no verified completion time. Search #4461 passed all required hosted checks and merged at01:00Z. All five changed files match the approved head and current main. The review-tier discrepancy is resolved by the canonical classifier: this exact additive pin change is standard and its original round-three approval satisfies the review count.",
+  "next": "Running — Root’s approved one-file unpublished draft installation with fresh maps and rollback checks (estimated six minutes active work, subject to readback). • Running — Original C02 backend source and cart route planning. • Waiting — Original Website C02 frontend and Small-device writer START, Safari UI recovery, TEST/privacy inputs, native acceptance and three original final ratings.",
+  "updated": "2026-10-17T01:03:09.867169+00:00",
   "links": [
     {
       "title": "#4391",
