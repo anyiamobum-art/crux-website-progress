@@ -2,26 +2,26 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "C10 is placed in the original running queue: the checked brief records a box start18:55:42Z on the current base. Actual session, applied effort and first source edit are not yet verified. Original A2/Hands is reconciling that same launcher; no second writer is being started. C02 acceptance and exact OFF restoration are complete. Original C07 proof awaits its owner’s final classification. Live Shopify remains unchanged.",
+  "workerState": "The original C10 writer returned its source and retired19:17:01Z. The source is committed and clean; the pending remote proof request is not a verified test execution. No C10 source has been pushed, reviewed, merged or installed. The original owners retain that next step. Live Shopify and customer settings remain unchanged.",
   "journey": [
     {
       "stage": "Build",
-      "state": "Complete",
+      "state": "Unknown",
       "evidence": "Search #4461, cart #4466, public-price frontend #4476 and small-device #4489 source repairs are merged. Styling #4470 passed both reviews and merged at16:08Z; private checkout #4484 is also merged. These completed components still need their remaining connected acceptance."
     },
     {
       "stage": "Tests",
-      "state": "Complete",
+      "state": "Unknown",
       "evidence": "Small-device source:137 passed,94 WebKit skipped,40 causal pins; all hosted checks passed. Cart repair:29 cases,3 safeguards and16 causal pins. Search changed native200% check passed. The original C02 hosted acceptance passed all6ordered steps, with source, screenshots and trace verified. C07/C14 were not accepted by that run."
     },
     {
       "stage": "Review",
-      "state": "Complete",
+      "state": "Unknown",
       "evidence": "Both original code reviews approved small-device #4489 and styling #4470; frontend #4476 passed its required original review. Code approvals are complete. The separate final website ratings remain0/3 qualified; prior scores do not rate the repaired draft."
     },
     {
       "stage": "Deployed",
-      "state": "Complete",
+      "state": "Unknown",
       "evidence": "165 candidate files across17 manifests are installed and source-verified in the unpublished Shopify draft: Search at01:05Z, six public-price files at09:49Z, three small-device assets at15:14Z. Styling's descendant deployment succeeded16:20Z with both runtime files unchanged; the original hosted run now verifies served build322edbf. Private styling acceptance remains open. Live Shopify files stayed unchanged."
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original C10 placement is now verified from the running brief and the clean starting worktree. Its recorded start18:55:42Z closes the placement wait from18:19Z; the missed18:35Z and18:45Z checks remain in history. Placement is progress, but it does not establish implementation, tests or acceptance. C02 remains accepted6/6 and restoredOFF; installed small-device fixes still need their changed native checks.",
+  "lastActualProgress": "C10 source8356b243 returned19:17Z; all13 file bindings were verified by its original owner and the clean head was rechecked19:20Z. The report records18/18 cart cases, three causal checks and99 receipt tests passing. Panel/mount/integration checks and seven causal checks remain pending on the existing remote runtime. No production or customer action occurred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,15 +140,15 @@
     ]
   ],
   "completed": [
+    "C10 source returned19:17Z at8356b243: 13 files/723 changed lines. The original owner verified all file bindings. Cart-focused proof is reported passing; real panel/mount/integration and seven causal checks remain pending. This source result is not review, merge, draft installation or acceptance.",
     "C02 public price/stock: [original hosted acceptance run](https://github.com/EON-CRUX/3.09/actions/runs/39054652270) passed all six ordered steps; deployed source, screenshots and trace were validated. Temporary draft settings were restored exactly to OFF at17:46:43Z. Private C07/C14 and final ratings remain unaccepted.",
     "At 20:54Z, the current 17e icon/default title, installed draft context, reduced-motion response and cleanup were verified against all 12 saved artifact hashes. The frame-timing attempt remains unspent. Search’s original author finished the local narrow-layout repair at20:47Z; its later review, merge, draft install and changed native200% pass are complete, as recorded in the delivery stages above.",
-    "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred.",
-    "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate."
+    "Small native pass19:31–20:04 is terminal: 23 saved artifacts verified, 16 PNGs and a30.11-second draft-app journey. Fresh CRUX title/icon, representative200% controls and actual OS Reduce Motion were checked; simulator cleanup and restored settings are verified. At200%, WhatsApp overlaps three controls, sticky price is ellipsized and the drawer Close icon clips at the edge. The original repair [PR #4489](https://github.com/EON-CRUX/3.09/pull/4489) passed both code reviews and all hosted checks, merged and was installed with exact draft readback15:14Z; its changed native check is still owed. No timing or rating is inferred."
   ],
   "remaining": "Five final release checks remain open: connected buyer-trust and consent acceptance; retention/training/notice facts; three qualified final ratings; complete native, numerical and capability acceptance for draft handover; and Big Bag native/final acceptance. The code and installation stages listed below are complete, but they do not substitute for those checks.",
-  "current": "Public price and stock C02 has passed its original acceptance check: all six ordered steps, deployed source, screenshots and trace are verified. The temporary test configuration has been restored to OFF. The small-device repairs have also passed both code reviews, merged and been installed in the unpublished draft. These are completed substages within the five still-open final release checks; 6/11 is not a count of coding tasks.",
-  "next": "Original A2/Hands is reconciling the C10 launcher’s actual session and first source action after its recorded18:55:42Z box start, then will return the source/proof result. Website will carry that result through review, merge and draft installation. Native acceptance still awaits the actual resource START/release, existing Website queue and its own successful lease; Hands’ drain-and-load condition remains in force.",
-  "updated": "2026-10-17T19:04:02.822636+00:00",
+  "current": "C10’s connected Add to bag source has returned: 13 files, 723 changed lines, clean committed head8356b243. Its cart-focused checks are reported passing; real panel, mount and integration proof remains incomplete. Separately, C02 public price/stock is accepted6/6 and restored OFF, and the small-device fixes are reviewed, merged and installed in the unpublished draft. These are substages within the five still-open final release checks.",
+  "next": "Original A2/Hands must return the one remote proof batch requested19:19:43Z, with the existing disposition due19:30Z. Original Hands owns the eventual source push after proof; the compact publisher coordinates independent review, merge and unpublished draft installation. Native acceptance separately awaits Hands’ sustained-capacity condition, the original queue and a successful lease.",
+  "updated": "2026-10-17T19:23:26.807458+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -245,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish connected capability acceptance. C02 public price/stock is COMPLETE6/6 and restoredOFF. The original C10 consumer is now placed: its running brief records a box start18:55:42Z on the current base, and original A2 reports all eight source bindings match. This closes the placement wait from18:19Z, preserving the missed18:35Z/18:45Z checks. Actual session, applied effort and first source action remain unverified; A2/Hands is reconciling the same launcher, then owns the source/proof result. Website retains review, merge and draft installation after that result. Original C07 database proof is still awaiting its owner’s final classification; private C14 lifecycle and admitted TEST context remain open. No implementation or acceptance credit follows from a launcher record."
+        "text": "In progress — Finish connected capability acceptance. C02 public price/stock is COMPLETE 6/6 and restored OFF. C10 source returned19:17Z: 13 files and 723 changed lines, with cart-focused checks reported passing. Real panel, mount, integration and remaining causal proof are incomplete. Original A2 requested one existing remote proof batch at19:19:43Z; next proof disposition19:30Z. Original Hands owns the eventual source push/Draft after proof; the compact publisher coordinates the subsequent qualified review, merge and unpublished draft installation. C07/C14 private journeys remain open. Source completion is not acceptance."
       },
       {
         "complete": false,
@@ -256,6 +256,6 @@
         "text": "Waiting — Privacy facts since 12 October 04:12Z (next: original privacy card; est. 10 min to verify and hand over once facts and final ratings arrive)."
       }
     ],
-    "landing": "Lands: Source repairs, draft installations and public price/stock acceptance are complete. Sustained native capacity, numerical timing, the connected C10 consumer and remaining private journeys, privacy and final ratings still need their named owners; whole-goal completion remains unestimated."
+    "landing": "Lands: The next C10 proof disposition is due19:30Z from the original owners; this is not a delivery estimate. Whole-goal delivery remains unestimated pending proof, reviews, draft installation, native capacity, private journeys, privacy and final ratings."
   }
 }
