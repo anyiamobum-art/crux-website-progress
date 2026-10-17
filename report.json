@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same acceptance owner completed source release and unpublished installation. Its admitted Safari Settings check ended with control released at 15:21:32Z; the developer control remains unavailable. Website has no active browser or native control.",
+  "workerState": "The original A2 and service owner own the failed-run diagnosis. The same Website acceptance owner completed one temporary configuration and one exact restore; both keys are absent/OFF and no settings action remains pending. Website has no browser or native control.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Small-device PR #4489 passed both original code reviews and all hosted checks, merged at 15:11:49Z, and its three assets were installed with exact draft readback at 15:14:14Z. The live theme and untouched draft files are unchanged. The fresh Safari control check ran 15:20–15:21:32Z and released without changing any preference; the Advanced pane still did not expose the developer control. No simulator or numerical attempt occurred.",
+  "lastActualProgress": "Small-device PR #4489 passed both code reviews and all hosted checks, merged15:11:49Z and installed three assets with exact unpublished-draft readback15:14:14Z. The enabled public-price run started15:42:31Z and failed15:43:19Z: its first three checks passed; stock returned non-JSON and subsequent price reads returned403. One restore was verified15:44:50Z against the original full settings bytes and storage metadata. The live theme stayed unchanged. The Safari check15:20–15:21:32Z failed to expose the developer control and released without preference changes or a numerical attempt.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -135,10 +135,10 @@
     "Big Bag real cart acceptance passed at 380px on the unchanged unpublished draft: Lighting → Donut Lamp → supported quantity handoff → Add to bag. The bag showed one new lamp and the existing jort; removing only the lamp restored the original item and total. No checkout or customer send occurred. Native touch acceptance remains separate.",
     "Title reflow #4409 passed its original code review and all five hosted test groups, merged as 3faf93ca, and was installed once in the unpublished draft. The one changed CSS asset matches approved source exactly. All other draft assets and the live theme are preserved; affected native acceptance and final ratings remain separate."
   ],
-  "remaining": "Native 200% acceptance, numerical performance evidence, enabled private journeys, admitted TEST inputs, privacy facts and the final re-review of the repaired website remain incomplete.",
-  "current": "The three small-device fixes are merged and installed in the unpublished draft after both required code reviews and all hosted checks passed. Their 200% native acceptance is next. The public-price feature remains off.",
-  "next": "The original acceptance owner will verify WhatsApp clearance, the complete sticky price and drawer Close at 200% after its functional control and lease prerequisites. Numerical performance separately needs the supported Safari developer control. Original TEST, privacy and final-rating obligations continue.",
-  "updated": "2026-10-17T15:30:50.419632+00:00",
+  "remaining": "The public-price test has not passed end to end. Native 200% acceptance, numerical performance evidence, enabled private journeys, admitted private TEST inputs, privacy facts and final re-review of the repaired website remain incomplete.",
+  "current": "The three small-device fixes are merged and installed in the unpublished draft after both required code reviews and all hosted checks passed. Their 200% native acceptance is pending. The first enabled public-price test ran once: its first three checks passed, but service responses blocked the remainder. The draft was restored to OFF.",
+  "next": "The original service owner is investigating the failed responses from the public-price test; the exact cause is not yet proved. The original acceptance owner still needs a qualified control window and lease for the three small-device checks. Numerical performance separately needs supported Safari developer control. Private TEST, privacy and final-rating obligations continue.",
+  "updated": "2026-10-17T15:52:19.150846+00:00",
   "links": [
     {
       "title": "PR #4316",
@@ -235,7 +235,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Private checkout and styling acceptance, plus admitted TEST inputs (checkout source merged13:22:55Z; enabled journey and TEST evidence remain open; styling stays with its original review owner)."
+        "text": "Waiting — Complete enabled capability and private-journey acceptance (one C02 run failed15:43Z: the first three price/selection checks passed; service responses blocked the remainder. Exact original draft settings restored OFF15:44:50Z. Next: original service-owner diagnosis and repair; private TEST/lifecycle and styling evidence remain open)."
       },
       {
         "complete": false,
