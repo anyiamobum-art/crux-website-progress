@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same cart writer has read the corrected input packet and holds edit-only custody; its first permitted test edit was observed at 01:56Z. The small-device packet correction is complete and delivered. Small-device and frontend holder/START are still unestablished.",
+  "workerState": "The cart writer is editing under lead custody. One frontend continuation is placed on the Mac with explicit input checks; its actual START is still pending. The small-device packet is delivered, with holder/START pending. The Safari retry is terminal and consumed no numerical attempt.",
   "journey": [
     {
       "stage": "Build",
@@ -21,7 +21,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Cart START was verified at 01:51Z, lead custody at 01:54Z and a scoped test edit at 01:56Z. The small-device packet was corrected at 01:52Z and delivered at 01:56Z. Both unstarted source placements now explicitly require local inputs or a supported, hash-verified transfer before box execution.",
+  "lastActualProgress": "Cart START, lead custody and a scoped test edit were verified at 01:51Z, 01:54Z and 01:56Z. The corrected small-device packet was delivered at 01:56Z. The frontend keeper placed one continuation at 01:56Z. Safari’s 02:00Z retry reproduced the blank Advanced pane; its diagnostic returned to the original recovery owner at 02:01Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -137,8 +137,8 @@
   ],
   "remaining": "Search source review, hosted proof, merge, draft installation and changed native clipping verification are complete. Cart recovery, small-device repair and Website frontend admission remain with their original owners. Numerical timing separately needs supported Safari control; private account lifecycle, TEST inputs, privacy facts and final ratings remain incomplete.",
   "current": "Search is installed in the unpublished draft, and its changed clipping regression passed on the original iPhone at an explicitly selected 200%. The device is back at 100% and its lease is released. All 539 live-theme files remain unchanged.",
-  "next": "The original cart writer completes its focused repair and proof. Original keepers admit the checked small-device and public-price frontend packets, then record actual START. Numerical timing, TEST, privacy and final rating prerequisites remain.",
-  "updated": "2026-10-17T01:58:29.142998+00:00",
+  "next": "The original cart writer completes focused proof. The placed frontend continuation starts through its existing slot waiter, while the small-device keeper admits its corrected packet. Safari needs actual Advanced-pane control recovery; TEST, privacy and final rating prerequisites remain.",
+  "updated": "2026-10-17T02:02:31.949776+00:00",
   "links": [
     {
       "title": "#4391",
@@ -227,11 +227,11 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original frontend keeper admission and START (checked brief completed 01:47Z, took about 5 min; delivered 01:48Z; first wait 23:42Z retained; estimate follows actual writer START)."
+        "text": "Waiting for the placed original frontend continuation to START (keeper placed one Mac job 01:56Z, next at the existing free-slot waiter; checked brief unchanged; first wait 23:42Z retained; estimate follows actual START)."
       },
       {
         "complete": false,
-        "text": "Waiting on supported Safari control for numerical timing since 14:30Z (sidebar restoration withdrawn 01:49Z; next check: lead's supported-control reconciliation; est. 25 min active timing after recovery)."
+        "text": "Waiting on supported Safari control for numerical timing since 14:30Z (02:00Z retry reproduced the blank Advanced pane; diagnostic returned 02:01Z; next check: actual control recovery; est. 25 min active timing after recovery)."
       },
       {
         "complete": false,
