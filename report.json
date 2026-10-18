@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "No Website source writer or native check is currently verified running. The original width destination had no new brief, branch or PR at 04:12Z. A fresh resource check found 36% free memory, elevated memory pressure and one-minute load 102.50. The read-only device check then reported a free lock and one booted iPhone; ownership is unresolved, so Website did not take or use it. The resource keeper has the exact evidence. The earlier disk and stopped-control-process waits are superseded; source work and existing remote proof may continue under their original owner. These observations are dated snapshots, not continuous monitoring. C10 remains OFF and the one privacy question is already sent.",
+  "workerState": "The quantity installation is finished. The original native worker passed its current resource check at 07:23:48Z and acquired its own simulator turn. The first Simulator control call timed out before input; that same worker is reconciling it once. No native check is yet claimed complete. The separate WhatsApp/subtotal brief has been delivered once to the original chair/Hands route; writer execution is pending acknowledgement. C10 stays OFF.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The completed rendered check verified the unpublished preview and confirmed passing product-page and plus/minus target dimensions, with one remaining editable-input width defect. No quantity or cart values changed. Its own browser tab closed and temporary viewport override was reset at 01:52:17Z; all calls are terminal. Earlier quantity PR #4519 merged as bc74e54a at 01:33:41Z. Its two CSS files were installed once, with exact hosted readback at 01:39:55Z and preservation at 01:40:17Z. All 539 live-theme files, unrelated draft files and settings remain unchanged. Retained remote proof is 146 tests and 17 causal checks passed, with 100 WebKit tests skipped. The revised final-reader packet has 165 payloads and 19 manifests verified, explicitly records the width defect and remains prepared but not dispatched. No final rating or native acceptance was added.",
+  "lastActualProgress": "At 07:20:49Z, exact readback and preservation confirmed the one-file quantity-width installation: 687 draft files reconciled, all 539 live-theme files and all unrelated draft files/settings unchanged. Six rendered drawer/full-bag cases passed at 380/430/1280 px. The browser was closed and its temporary viewport restored at 07:22:03Z; cart contents stayed unchanged. The separate 430 px subtotal overlap was recorded with a screenshot and geometry. No final score or native acceptance is inferred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -117,8 +117,8 @@
     [
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
-      "Prior frozen-source scores: Fable8.85, Opus8.70; Astra unqualified. The named source repairs are now reviewed, merged and installed; these old scores do not rate the repaired draft.",
-      "The revised packet has 165 payloads and 19 manifests verified and records the known width defect. It is prepared but UNSENT. The original Fable first review and clarification, plus Opus first review, are terminal; original Astra readiness is retained. The same original final readers, histories and rounds govern the next review. No new rating or dispatch is claimed."
+      "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
+      "Preserve the prior packet and bind the width fix plus its six passing browser cases in the next version. The separate subtotal-clearance finding remains open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -128,9 +128,9 @@
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Earlier repairs installed — final acceptance open",
-      "The unpublished draft has its 165-file assembly and two overlapping quantity CSS updates installed. Exact quantity-source readback passed 01:39:55Z and preservation passed 01:40:17Z. C02 is accepted 6/6 and restored OFF. Prior signed-in populated and anonymous empty-bag desktop checks retain their recorded limits.",
-      "The completed rendered check passes the 50 × 44 px product input and 44 × 44 px bag buttons. The editable bag input remains 36 × 44 px at desktop 1280 and 34 × 44 px at phone 380, with a 1 × 1 px label and no expanded input hit area. One width-only repair is owed from the original writer through a new Draft PR and two normal reviews; execution is unverified as of 03:29Z. The coordinator’s one escalation expects original placement/start or exact error by 03:45Z. The old repair is terminal and must not be replayed. All 539 live files, unrelated draft files and settings remain unchanged. C10 stays OFF and the five keys remain absent. Prior desktop options timings are 170.721 ms open and 183.185 ms close, without a blanket smoothness pass. First-row content was observed by 1,434.277 ms in one ordinary-cache desktop sample; the missing opening trace leaves exact onset, cold-load and iPhone timing unproved. Native 200%, mounted private journeys, privacy and the same-reader final ratings still gate handover."
+      "Repairs installed — final acceptance open",
+      "#4527 merged05:16:37Z as1043d83a. Its one CSS file is installed and exact-byte verified07:20:49Z. Drawer input44 × 44px at380/430/1280; full-bag input44 × 44px on phones and46 × 44px on desktop, with44 × 44px buttons and no horizontal overflow.",
+      "Original iPhone checks resumed after prior owners released. A separate430px full-bag WhatsApp/subtotal overlap awaits its original companion repair. All539 live files, unrelated draft files and settings are unchanged. C10 remainsOFF; no live publication or final rating is claimed."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,15 +140,15 @@
     ]
   ],
   "completed": [
+    "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the known editable-input width defect; a separate WhatsApp/subtotal overlap and native/final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score.",
-    "C10 [PR #4506](https://github.com/EON-CRUX/3.09/pull/4506) passed its connected remote proof and all hosted checks, received its first full approval, and merged at 20:10:23Z as 3eb8ee51. All 13 reviewed file contents match. Chair P681 resolved the review tier; all four theme files were installed once with exact hosted readback at 20:49:05Z. Live files and settings stayed unchanged; connected acceptance and final ratings remain separate.",
-    "C02 public price/stock: [original hosted acceptance run](https://github.com/EON-CRUX/3.09/actions/runs/39054652270) passed all six ordered steps; deployed source, screenshots and trace were validated. Temporary draft settings were restored exactly to OFF at17:46:43Z. Private C07/C14 and final ratings remain unaccepted."
+    "C10 [PR #4506](https://github.com/EON-CRUX/3.09/pull/4506) passed its connected remote proof and all hosted checks, received its first full approval, and merged at 20:10:23Z as 3eb8ee51. All 13 reviewed file contents match. Chair P681 resolved the review tier; all four theme files were installed once with exact hosted readback at 20:49:05Z. Live files and settings stayed unchanged; connected acceptance and final ratings remain separate."
   ],
   "remaining": "Five final release items remain open: buyer-trust acceptance, privacy facts, final ratings, complete draft handover and Big Bag native acceptance. The extra bag-input width repair belongs inside the existing draft-acceptance item and does not change the 11-item denominator. Source merge, draft installation, rendered acceptance and final ratings remain separate: release 6/11, delivery 1/3, qualified final ratings 0/3.",
-  "current": "The installed draft has one confirmed touch-target defect: the editable bag quantity input is 36 × 44 px at 1280 px and 34 × 44 px at 380 px. Its label is 1 × 1 px and no expanded input hit area was found. The product-page input is 50 × 44 px and the bag plus/minus buttons are 44 × 44 px. A width-only follow-up is authorized for the original writer; execution is not yet verified. Release work remains 6/11.",
-  "next": "The original width-repair writer still needs to start. The chair has already authorized the narrow repair; the 04:15Z start deadline passed without a verified start. The next dependency check is 04:30Z. The iPhone control route was restored, but current Mac load and memory pressure fail the test conditions, and the shared device owner must reconcile a free-lock/booted-device observation before Website takes its turn. Seven functional checks are prepared, with none yet executed. After the repair: normal reviews and merge, unpublished draft installation, changed-screen verification and the original final reviews. No live publication.",
-  "updated": "2026-10-18T04:15:57.568647+00:00",
+  "current": "Quantity-width repair #4527 is merged, installed in the unpublished Shopify draft and verified on the rendered website. The editable bag input is now 44 × 44 px in the drawer at 380/430/1280 px, 44 × 44 px in the full bag at phone widths and 46 × 44 px on desktop. The plus/minus buttons remain 44 × 44 px. No horizontal overflow or quantity change occurred. Release work remains 6/11 because final acceptance is still open.",
+  "next": "The original iPhone acceptance worker has been resumed after the previous device owners released their turns; it must verify current resources and take its own turn before the seven checks. A separate full-bag finding has been routed to the original companion writer: at 430 px, WhatsApp overlaps the end of the item subtotal. The next expected repair event is a start or precise refusal by 07:40Z. The same original final-review histories remain in place. Nothing is published live.",
+  "updated": "2026-10-18T07:25:00.443868+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -161,6 +161,10 @@
     {
       "title": "PR #4506",
       "path": "https://github.com/EON-CRUX/3.09/pull/4506"
+    },
+    {
+      "title": "Quantity-width repair #4527",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4527"
     },
     {
       "title": "PR #4519",
@@ -177,10 +181,6 @@
     {
       "title": "Collection zoom #4364",
       "path": "https://github.com/EON-CRUX/3.09/pull/4364"
-    },
-    {
-      "title": "Companion toolbar clearance #4353",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4353"
     }
   ],
   "source": "Published projection of the original task report",
@@ -233,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify seven installed small-device checks at real 200% after the original device owner returns its turn and current resource and custody conditions pass. The control route recovered; the new resource sample and free-lock/booted-device observation require the existing keeper to reconcile them. None of the seven checks has run (waiting since 16 October 20:16Z; next dependency check 04:30Z; est. 13 min after a qualified handback, start unknown)."
+        "text": "In progress — Reconcile current device resources and execute the seven installed small-iPhone checks at real 200%, restoring 100% and releasing the device. Previous P212 and Studio turns are now released; the same original worker resumed at07:23Z, with qualified takeover verified at07:23:48Z; first control call timed out and is being reconciled, checks still unverified (waiting since16 October20:16Z; est.13 min after qualified takeover)."
       },
       {
         "complete": true,
@@ -245,17 +245,17 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish connected acceptance: C02 passed 6/6 and is OFF again. Quantity #4519 is merged and installed; product input and bag buttons meet 44 px, but the editable bag input remains 36 × 44 px on desktop and 34 × 44 px on phone. Its authorized original width-only writer has no verified start; the 04:15Z deadline passed. Next dependency check: 04:30Z. The final-review packet remains UNSENT while this known defect is repaired (started 18 October 00:25Z; source, review and acceptance finish estimates unknown until execution starts)."
+        "text": "In progress — Finish connected acceptance. Quantity width installation and six rendered cases completed07:13Z–07:22Z (took9 min); C02 remains accepted and OFF. A separate430px full-bag WhatsApp/subtotal overlap is with the original repair owner (brief delivered07:24Z; expected start or precise blocker by07:40Z; repair/review duration unknown until execution starts). C10 privacy facts remain separate."
       },
       {
         "complete": false,
-        "text": "Pending — Obtain qualified final ratings from the same three original readers after the original source/evidence constraints are reconciled; the revised packet is prepared with the width defect recorded, and full second-review dispatch remains UNSENT (est. 35 min active review after dispatch; start unknown)."
+        "text": "Pending — Update the final evidence packet after the narrow clearance repair and obtain qualified ratings from the same three original readers. The full second review is still UNSENT (est.35 min active review after dispatch; start unknown)."
       },
       {
         "complete": false,
         "text": "Waiting — Receive the owner’s provider-account retention/training facts and privacy-notice wording, then verify the existing card; the one owner question is already sent and C10 stays OFF (waiting since 12 October 04:12Z; est. 10 min after the answer arrives)."
       }
     ],
-    "landing": "Lands: whole-goal time unknown while the original width repair and shared iPhone turn are unresolved. Next dependency checkpoint: about 04:30Z (15 min from this update; actual repair start or resource handback may arrive sooner). Allow about 13 min for the prepared phone check and 35 min for final reviews once their prerequisites are satisfied; these are active-work estimates, not a completion promise."
+    "landing": "Lands: about07:40Z for the next native result or original repair-start checkpoint (about16 min from this update; resource eligibility or writer refusal could move it). The quantity installation and browser measurements are complete. Whole-goal time remains unknown until remaining acceptance and original ratings pass; no live publication."
   }
 }
