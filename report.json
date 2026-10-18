@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original subtotal writer is executing; its source reproduction is complete and repair proof is next. The native worker is terminal at the resource gate: load187.63 exceeded the admitted limit15 at07:43:59Z; memory was67% free, lock free and zero devices booted. No new binding or page action occurred. The Communication worker completed its read-only check and released Chrome. C10 stays OFF.",
+  "workerState": "The original subtotal writer is executing and correcting its proof; a passing result is not yet available. The account-link writer is reconciled and queued, with no duplicate session. Hands set the local lane cap to zero during the load spike; existing jobs continue. The native worker is terminal before lease or input, with its fresh binding still unused. Studio holds the simulator reservation, followed by People. C10 remains OFF.",
   "journey": [
     {
       "stage": "Build",
@@ -31,7 +31,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Quantity installation and all six rendered cases are complete. The original clearance writer started07:28:15Z and reproduced the overlap by07:38:52Z. At07:44:29Z the buyer-check receipt verified the original authenticated order, matching product variant and blank review entry without saving or sharing feedback. The next native pass recorded its resource failure before any device effect.",
+  "lastActualProgress": "Quantity installation and all six rendered cases are complete. The original clearance writer reproduced the overlap and continued proof work at07:56:38Z. The read-only buyer check verified the matching purchased item and blank feedback entry; Hands queued its original account writer at07:55:15Z for the direct-order link correction. Public snapshot43b9494 passed its Pages build and exact served-file check at07:51:23Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -147,8 +147,8 @@
   ],
   "remaining": "Five final release items remain open: buyer-trust acceptance, privacy facts, final ratings, complete draft handover and Big Bag native acceptance. Current concrete gaps include subtotal clearance, native resource eligibility and measurements, and the buyer journey beyond read-only entry. Completed repairs stay visible inside their existing items; release6/11, delivery1/3 and qualified final ratings0/3 remain unchanged.",
   "current": "Quantity-width repair #4527 is merged, installed in the unpublished Shopify draft and verified on the rendered website. The editable bag input is now 44 × 44 px in the drawer at 380/430/1280 px, 44 × 44 px in the full bag at phone widths and 46 × 44 px on desktop. The plus/minus buttons remain 44 × 44 px. No horizontal overflow or quantity change occurred. Release work remains 6/11 because final acceptance is still open.",
-  "next": "The original writer is repairing the WhatsApp/subtotal overlap after reproducing it through the actual rendering path. The Simulator app was cleared, but the next native pass stopped at its current resource check before touching the device. A signed-in buyer check verified the matching purchased item and blank feedback entry; direct order navigation still takes an extra click.",
-  "updated": "2026-10-18T07:49:23.966264+00:00",
+  "next": "Consume the running original subtotal repair and its proof, then ordinary review, merge and draft installation. The direct-order correction is queued with the original account writer. New local jobs await the current Mac load brake; the native check follows Studio and People, current headroom and our own lease. Final reviews remain with the same three readers.",
+  "updated": "2026-10-18T07:57:58.706854+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -233,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, then restore 100% and release. The stale Simulator app was cleared at07:27Z; a fresh pass stopped before taking the device because load was187.63 at07:43:59Z, above the admitted limit15. The fresh control attempt remains unused (original wait since16 October20:16Z; next headroom check07:59Z; est.13 min after a qualified working takeover)."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, then restore100% and release (original wait since16 October20:16Z; est.13 min after a qualified working takeover). Current load failed before device use; the fresh binding remains unused. Hands reserved the device for Studio, then People. Next action needs their release, current load below15 and our own lease; no new wake during the load brake."
       },
       {
         "complete": true,
@@ -245,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish connected acceptance. Quantity installation and six rendered cases completed07:13Z–07:22Z (took9 min). The original subtotal-clearance writer started07:28Z and reproduced the overlap by07:39Z; repair proof is due for inspection07:55Z. The authenticated purchased-item and blank feedback entry passed a read-only check07:34Z–07:44Z (took10 min); direct order landing needs an extra click. Whole acceptance remains open; C02 and C10 remain OFF."
+        "text": "In progress — Finish connected acceptance. Quantity installation and six rendered cases completed07:13Z–07:22Z (took9 min). Original subtotal writer started07:28Z, reproduced the overlap and is still repairing proof at07:56Z; no passing result claimed. Authenticated purchased-item and blank feedback entry passed07:34Z–07:44Z (took10 min). Its direct-order correction is queued with the original account writer since07:55Z, awaiting the Mac load brake. C02 and C10 remain OFF."
       },
       {
         "complete": false,
@@ -256,6 +256,6 @@
         "text": "Waiting — Receive the owner’s provider-account retention/training facts and privacy-notice wording, then verify the existing card; the one owner question is already sent and C10 stays OFF (waiting since 12 October 04:12Z; est. 10 min after the answer arrives)."
       }
     ],
-    "landing": "Lands: about07:59Z for the next repair-proof and native-headroom checkpoint (about8 min left from this update; actual writer progress or Mac load could move it). This is a checkpoint estimate, not a completion promise. Whole-goal time remains unknown until remaining acceptance and original ratings pass; no live publication."
+    "landing": "Lands: about08:09Z for the next original-writer/result checkpoint (about11 min left from this update; the Mac load brake can move it). New local jobs wait for Hands to lift the brake, currently set through08:51Z unless load recovers sooner. Whole-goal time remains unknown until the repairs, remaining acceptance and original ratings pass; no live publication."
   }
 }
