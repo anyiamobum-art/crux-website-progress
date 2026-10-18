@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The #4556 merge, single install, stored readback and browser work are terminal. The coordinator is preparing the original final review packet. Checkout’s original owner is active on the release robot’s “current release proof incomplete” reason. Hands retains resource admission custody; no new pressure-wait job is claimed.",
+  "workerState": "Astra’s original FULL R2 is running. Fable and Opus placement was delivered once at19:44:37Z; no execution or new score is inferred. Checkout #4558 merged at19:37:17Z, and the original owner is verifying T2’s19:45:12Z launch identity/source. Hands retains the existing resource-recovery obligation; no native attempt is admitted.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The changed bag controls were checked at 380/430/1280 and the settled 188×275 preview dock. Note and dock hit checks pass in these scoped observations; the initial dock hit miss and narrow document overflow remain recorded limitations. The owned browser tab was closed at 19:23Z. Checkout’s second original review approved at 19:29:25Z.",
+  "lastActualProgress": "The versioned packet passed source and evidence audits:165 payloads,22 manifests and18 added references. Astra started the original review and verified its bound files. Checkout’s canonical merge and T2 launcher START are recorded; later deployment remains separate.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. PR #4556 has both original approvals and green hosted checks, merged18:51Z, and passed exact draft readback plus scoped changed-control observations. Original native acceptance remains open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. PR #4556 has both original approvals and green hosted checks, merged18:51Z, and passed exact draft readback plus scoped changed-control observations. Original native acceptance remains open. Same original histories and round limits: Astra FULL R2 is active; one Fable/Opus compact-and-review continuation is delivered, with execution unverified."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,15 +140,11 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Native acceptance lacks a qualified resource window: the latest pair has pressure 1/2, load 20.3/15.0 and only 4.2GiB free disk. The keeper has recommended recovery; no reboot or native admission is claimed. Checkout’s original owner is resolving a canonical pre-merge proof hold despite both approvals and green checks. TEST, privacy and final acceptance remain separate.",
-  "current": "PR #4556 merged at 18:51:36Z and was installed once in the unpublished draft. Exact stored bytes matched at 18:58:43Z; preservation passed at 18:59:34Z. Scoped changed-control browser observations are captured and Chrome was handed back at 19:23:31Z.",
-  "next": "Freeze the updated source-bound evidence packet, reconcile the supported continuation of the original review histories, and send the same three readers their second full review.",
-  "updated": "2026-10-18T19:38:15.437908+00:00",
+  "remaining": "Fable and Opus have one packet-ready continuation delivered to their original keeper; actual compaction and review start are still unverified. Native admission remains missing: the latest single measurement still has pressure2, although free disk recovered to6.2GiB. Permitted TEST configuration, privacy facts and full buyer acceptance remain separate.",
+  "current": "The revised draft’s exact evidence packet is frozen and audited. Original Astra6 began FULL R2 at19:45:04Z and verified the packet hashes. #4556 is merged, installed and scoped-rendered; Checkout #4558 has also merged and its original T2 continuation has started.",
+  "next": "Consume Astra’s original second-round verdict and the original keeper’s actual same-session compaction/start receipts for Fable5.1 and Opus5.5. Continue the existing native recovery and Checkout sequence as their prerequisites clear.",
+  "updated": "2026-10-18T19:49:52.428334+00:00",
   "links": [
-    {
-      "title": "PR #4556",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4556"
-    },
     {
       "title": "checkout #4484",
       "path": "https://github.com/EON-CRUX/3.09/pull/4484"
@@ -160,6 +156,10 @@
     {
       "title": "PR #4506",
       "path": "https://github.com/EON-CRUX/3.09/pull/4506"
+    },
+    {
+      "title": "Bag-control repair #4556",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4556"
     },
     {
       "title": "#4534",
@@ -197,7 +197,7 @@
     },
     {
       "model": "Astra 6",
-      "result": "Prior review: unqualified — house consistency 8.5/10, nine measures unscored and no whole-site average. Awaiting re-review of the repaired draft; no new score is claimed."
+      "result": "Prior review: unqualified — house consistency8.5/10, nine measures unscored and no whole-site average. The original second full review started19:45:04Z on the repaired draft; no new score yet."
     },
     {
       "model": "Opus 5.5",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The keeper’s 19:08:42Z/19:09:06Z samples show pressure 1/2, load 20.3/15.0, swap about 18GB and only 4.2GiB free disk, with the simulator free. The 19:10Z disposition materially answers the prior pressure-only question: resources no longer qualify. Hands recommends a restart followed by a measured quiet window, or the next qualified regular pair; neither a restart nor a native admission has occurred. The original recovery request and Companion-first order remain. The original executor must qualify its own pressure-1/load-below-15 lease; all seven checks remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The keeper’s 19:08/19:09Z pair failed pressure/load with 4.2GiB free disk. A later original single reading at19:13Z recovered to6.2GiB disk but still had pressure2; it is not a qualified pair. The original keeper is reconciling delivery of the existing safe-recovery instruction to the owner-authorized Hands continuation. No reboot or native admission is claimed. Preserve Companion first and the original executor’s own pressure-1/load-below-15 lease. All seven checks remain unexercised."
       },
       {
         "complete": true,
@@ -256,11 +256,11 @@
       },
       {
         "complete": false,
-        "text": "In progress — Update the exact final evidence packet with the reviewed, merged, installed and scoped-rendered repairs, then obtain qualified ratings from the same three original readers (est. 35 min active review after dispatch; start unknown). Preserve all adverse measurements and original histories. Reconcile the supported same-session compact route at this boundary; the full second review remains UNSENT. Unknown native, privacy and activation evidence can limit scores but does not add a review-dispatch permission gate."
+        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet prepared and independently audited by19:44:10Z; Astra original FULL R2 started19:45:04Z; est.35 min active review after each start). All165 tracked payloads,22 manifests and18 added evidence references are verified; three current source replacements preserve the prior assembly lineage. One continuation for Fable5.1 and Opus5.5 was delivered to their original keeper at19:44:37Z for supported same-session compaction then FULL R2; actual compaction and review start are unverified. No new scores. All adverse measurements and native/privacy/activation limits remain explicit."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller review chain (named-fix source 18:07Z–18:26Z; keeper 18:32Z–18:45Z; one fix push 18:47:25Z; FIRST round 2 approval 18:58:07Z; hosted test gate 19:19:08Z; SECOND round 2 approval 19:29:25Z). Both original reviewers approved 72bb3180 with no findings; all five test shards and both pin checks passed. The canonical release robot stopped with “current release proof incomplete”; the original owner is actively identifying the precise missing proof. No merge or deployment is claimed. T2, P209, signed contact intake, TEST access and lifecycle acceptance retain their original owners and sequence; completion time is unknown."
+        "text": "In progress — Complete the original signed-caller review chain (named-fix source18:07Z–18:26Z; keeper18:32Z–18:45Z; fix push18:47Z; original FIRST/SECOND round2 approvals18:58Z/19:29Z). All required checks passed, and #4558 merged at19:37:17Z as44504232. The original owner is binding the next T2 launcher START at19:45:12Z on its existing branch; P209 follows T2. Merge is verified; later deployment and TEST acceptance remain separate. Signed contact intake and lifecycle acceptance retain their original owners and sequence."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. #4556 is merged, installed and scoped-rendered in the unpublished draft; the exact second-round packet and original-reader continuation are now executable. Checkout has both approvals and green checks, with its original owner resolving a canonical pre-merge proof hold. Native acceptance needs an actual qualified resource window: the latest pressure/load and free-disk readings fail. Allow 13 min for phone checks after a qualified start and 35 min for final reviews after dispatch. TEST and privacy inputs can affect qualification. No live publication."
+    "landing": "Lands: overall completion time remains unknown. #4556 is merged, installed and scoped-rendered in the unpublished draft. The exact second-round packet is frozen; original Astra is reviewing, while Fable and Opus await their original keeper’s verified compaction/start. Checkout #4558 has merged and T2 has started. Native acceptance needs a qualified resource window; the latest single reading still has pressure2 despite disk recovery. Allow13 min for phone checks after a qualified start and35 min for reviews after each actual start. TEST and privacy inputs can affect qualification. No live publication."
   }
 }
