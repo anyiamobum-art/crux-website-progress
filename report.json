@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Astra FULL R2 is terminal. Original Fable/Opus continuation was delivered19:44Z and its unresolved disposition corrected19:55Z without a duplicate review. Original source triage was delivered19:55Z; no start is claimed. Checkout’s original T2 source job is running. No native job is admitted.",
+  "workerState": "Original Opus FULL R2 started20:12:02Z and has verified source reads. Astra FULL R2 is terminal; Fable remains staged. Original source triage is queued after compaction completed20:03:58Z, with no source start yet verified. Checkout’s original keeper has525 passing tests and one skip; its87 selected mutation checks are in progress. No Website native job is admitted.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Astra accepted the scoped header, quantity, clearance, direct-order/return and Search repairs, then reported the remaining target/layout and evidence findings together. Checkout #4558 is merged, deployed and served with17/17 changed blobs verified by its original owner. Native recovery delivery is now acknowledged.",
+  "lastActualProgress": "Original Opus is executing its full second review on the frozen packet. The repair writer’s same-session compaction completed and its existing brief is queued. Checkout’s keeper finished all four test files on the current integrated source; remaining checks precede its one publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -111,9 +111,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "Three prior reports complete — 0/3 qualified",
-      "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. PR #4556 has both original approvals and green hosted checks, merged18:51Z, and passed exact draft readback plus scoped changed-control observations. Original native acceptance remains open. Same original histories and round limits: Astra FULL R2 is active; one Fable/Opus compact-and-review continuation is delivered, with execution unverified."
+      "Second reviews in progress — 0/3 qualified",
+      "Astra FULL R2 is NOT_QUALIFIED: house fit9.0, nine unscored. Original Opus FULL R2 started20:12Z; no new score. Fable remains staged.",
+      "Same original reviewers, histories and round limits. Verify the already-delivered Fable instruction’s adoption, consume original results and queued source triage, and address all second-round findings before the final named-fix check."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The original Fable/Opus compaction and review start remain unverified; a read acknowledgement did not complete that obligation. Native recovery is acknowledged but the latest profile remains pressure2 with15.6–17.8GB swap and6GB disk; no qualified window is verified. Permitted TEST acceptance and privacy facts remain open.",
-  "current": "Astra’s original full second review has finished: NOT_QUALIFIED, house fit9.0, nine measures unscored, whole average/minimum unknown. The installed repairs received scoped credit. Two concrete UI findings are with the original writer for triage; Fable and Opus still await their original compaction/start.",
-  "next": "Consume the original keeper’s actual same-session compaction/start receipts for Fable5.1 and Opus5.5, and the original writer’s Back-target/narrow-preview triage. Integrate all original second-round findings before one cohesive publication and the final named-fix check. Continue the original native and Checkout prerequisites independently.",
-  "updated": "2026-10-18T19:56:47.637782+00:00",
+  "remaining": "Fable’s current task-specific instruction is delivered but adoption, compaction and review start remain unverified. Native safe recovery is being prepared by its original keeper; no restart or qualified window is verified. Permitted TEST acceptance and privacy facts remain open.",
+  "current": "The original Opus full second review is running, with source reads verified after its20:12Z start. Astra’s full second review is NOT_QUALIFIED: house fit9.0, nine measures unscored, whole average/minimum unknown. The original repair writer is queued after successful session compaction. Fable remains staged while its keeper adopts the current task-specific instruction.",
+  "next": "Consume the original Opus result and the same writer’s Back-target/narrow-preview triage, and verify adoption of the already-delivered Fable instruction. Integrate all original second-round findings before one cohesive publication and the final named-fix check. Continue native and Checkout prerequisites through their original owners.",
+  "updated": "2026-10-18T20:15:49.949504+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -201,7 +201,7 @@
     },
     {
       "model": "Opus 5.5",
-      "result": "Prior review: 8.70/10, lowest measure 8.0 — below the target. Awaiting re-review of the repaired draft; this score does not rate the newly installed small-device fixes."
+      "result": "Original FULL R2 started20:12:02Z; actual source reads verified. No new verdict or score yet. Prior review8.70/10, lowest8.0, remains below target and does not rate the latest installed draft."
     }
   ],
   "timedPlan": {
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16October20:16Z; est.13min after a qualified start). Hands acknowledged the existing recovery request at19:48Z: the latest readings still have pressure2,15.6–17.8GB swap and6GB disk. The existing post-restart wake remains armed; an owner restart was requested, but no restart or qualified window is verified. Companion keeps its admitted order; Website still needs the original executor’s fresh pressure1/load-below15 lease after handback. All seven checks remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16October20:16Z; est.13min after a qualified start). The original keeper acknowledged the operator’s safe-recovery authority and is preparing the existing post-restart hook. Its intended quiet boundary is20:25Z, with restart around20:55Z only after running work finishes and the hook is verified. These are plans; no restart or qualified window is verified. Companion goes first, then Website needs its original executor’s fresh pressure1/load-below15 lease after handback. All seven checks remain unexercised."
       },
       {
         "complete": true,
@@ -256,11 +256,11 @@
       },
       {
         "complete": false,
-        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet audited by19:44:10Z; Astra FULL R2 ran19:45:04Z–19:50:38Z, about6min). Astra is NOT_QUALIFIED: house fit9.0, nine measures UNSCORED, whole average/minimum UNKNOWN. It accepted the scoped header, quantity, clearance, account-return and Search repairs. Back-target size and narrow-preview overflow/transient-hit findings were routed to the original writer at19:55Z; source triage has no verified start, and all R2 findings must be integrated before one cohesive publication. Fable/Opus same-session compaction and FULL R2 remain with their original keeper; its read-only acknowledgement was corrected once19:55Z, with firstwait13:34 and next20:03 retained. No final named-fix check has been spent."
+        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet audited19:44Z; first second review ran19:45Z–19:50Z; another started20:12Z, est.35min). The completed review is not qualified: house fit9.0, nine measures unscored. The original writer’s two UI findings are queued after compaction ended20:03:58Z; no source start is verified. The remaining reader is staged; the specific current instruction was delivered20:06Z and adoption remains unverified. Preserve the first wait13:34Z. Integrate all second-round findings before one cohesive publication and the final named-fix check."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence. #4558 received both original round2 approvals and required green checks, merged19:37:17Z as44504232, deployed19:40Z and was verified served by its original owner19:42:05Z with17/17 changed blobs matching. The original T2 continuation started19:45:12Z and is running on its existing source; P209 follows T2. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work."
+        "text": "In progress — Complete the original signed-caller release sequence (merged19:37Z, deployed19:40Z, served verification19:42Z). The original follow-up source is integrated and the corrected keeper started20:08Z; all four test files finished with525 passes and one skip by20:15Z. Its87 selected mutation checks remain in progress before one publication and the next original caller handback. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. #4556 is merged, installed and scoped-rendered in the unpublished draft. Astra’s full second review is not qualified; the original writer has the two concrete UI findings for triage, while Fable and Opus still need their original keeper’s compaction/start. Checkout #4558 is deployed and T2 is running. Native checks require the original qualified resource window; no restart or admission is verified. TEST and privacy inputs affect qualification. No live publication."
+    "landing": "Lands: overall completion time remains unknown. The original second review that started20:12Z is estimated to finish around20:47Z; queued source triage and the remaining reader still need actual starts. The first completed second review is not qualified. Checkout’s original keeper is proving its remaining checks. Native recovery is planned around20:55Z only at a verified safe boundary; allow13min for phone checks after a qualified Website start. TEST and privacy inputs affect qualification. The Shopify theme remains unpublished."
   }
 }
