@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Website source work, remote proof and the original Draft push are terminal. One hosted correctness job is queued. Checkout’s original keeper completed successfully and its holder published #4558 once, Ready at 1ba912a2; hosted checks are running or queued. The original native keeper is active, but no pressure-wait call or admitted window has been verified.",
+  "workerState": "Website source work, remote proof and the original Draft push are terminal. Hosted structural gates passed at 17:22Z; the original pin-proof job is queued. Checkout #4558 remains Ready under its original holder, with three hosted test shards running at 17:30Z. The original native keeper is active, but an actual admitted window remains unverified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The scoped #4556 admission request was delivered and read back at 17:15Z. Checkout’s affected proof passed 356 tests and all 97 selected pins at 17:08Z; #4558 opened at 17:11:34Z and is Ready under holder 4558.1. Website proof remains 59 tests passed, 57 skipped because WebKit is unavailable, plus 46 passing causal checks.",
+  "lastActualProgress": "Website structural gates completed successfully at 17:22:34Z. The native keeper’s original destination was inspected again and its missing 30-minute disposition was recorded at 17:29:15Z, preserving the 16:58 request time. Checkout retains 356 passing affected tests, all 97 selected pins and one Ready publication. Website remote proof remains 59 tests passed, 57 skipped because WebKit is unavailable, plus 46 passing causal checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. Original Draft #4556 and holder are verified; Ready waits on the existing chair’s queue cap and queued preliminary check. Ordinary review, merge and changed draft verification are still pending. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. Original Draft #4556 and holder are verified; The scoped Ready request is with the existing chair; structural gates passed and the original pin-proof is queued. Ordinary review, merge and changed draft verification are still pending. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "The latest chair ruling reports room under the review cap and retains its priority queue; #4556 still awaits its scoped admission. Correctness is waiting for a runner; the red admission and test-gate results are Draft policy only. Native acceptance awaits an explicit next-window admission from the same keeper. Isolated test access, privacy facts and final acceptance remain separate.",
-  "current": "Draft #4556 has one scoped Ready-admission request with the existing chair. The exact repair head and original holder are verified. The chair’s accepted exception remains limited to the smallest admin preview with Shopify’s 64px bar.",
-  "next": "Consume the chair’s exact-head admission and queued correctness result, then continue ordinary code review. After merge, install once into the unpublished theme and verify the changed controls before the same three final readers receive their second full review.",
-  "updated": "2026-10-18T17:17:07.629556+00:00",
+  "remaining": "#4556 awaits scoped admission under the existing cap and priority queue, plus its queued pin-proof. The red admission and test-gate results are Draft policy only. Native admission passed its 30-minute response boundary without an explicit answer; one disposition asks the same keeper to bind an admission or evidenced deferral to its actual trigger. No current pressure-wait job is claimed. Isolated test access, privacy facts and final acceptance remain separate.",
+  "current": "Draft #4556 has passed its hosted structural gates. Its pin-proof is queued in the same workflow, and its one scoped Ready-admission request awaits the existing chair. The accepted exception remains limited to the smallest admin preview with Shopify’s 64px bar.",
+  "next": "Consume the chair’s exact-head admission and the original pin-proof result, then continue ordinary code review. After merge, install once into the unpublished theme and verify the changed controls before the same three final readers receive their second full review.",
+  "updated": "2026-10-18T17:32:05.826909+00:00",
   "links": [
     {
       "title": "Draft #4556",
@@ -152,10 +152,6 @@
     {
       "title": "scoped Ready-admission request",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6252777832"
-    },
-    {
-      "title": "#4558",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4558"
     },
     {
       "title": "checkout #4484",
@@ -176,6 +172,10 @@
     {
       "title": "#4535",
       "path": "https://github.com/EON-CRUX/3.09/pull/4535"
+    },
+    {
+      "title": "Quantity-width repair #4527",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4527"
     }
   ],
   "source": "Published projection of the original task report",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The existing keeper confirmed no pressure-wait job remains; the 13:38Z window is spent. One next-admission request was delivered at 16:58Z. Its original destination was inspected at 17:14Z: no explicit admission or pressure-wait call was exposed. Preserve Companion first, the original executor, one own-leased device, normal memory pressure and load below 15 throughout. Next original result or 17:28Z disposition; all seven remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The existing keeper confirmed no pressure-wait job remains; the 13:38Z window is spent. One next-admission request was delivered at 16:58Z. Inspections at 17:14Z and 17:27–17:28Z exposed no admission or pressure-wait call. At 17:29Z the same obligation received its 30-minute disposition: the keeper must bind an admission or an evidenced deferral to its actual trigger. Preserve Companion first, the original executor, one own-leased device, normal memory pressure and load below 15 throughout. Next original result or 17:43Z inspection; the request still dates from 16:58Z and all seven remain unexercised."
       },
       {
         "complete": true,
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Qualify original control-repair Draft #4556 for review (Draft 16:44Z–16:55Z, took 11 min; Ready wait since 16:55Z, finish estimate unknown). Exact b2adfd55 and holder 4556.1 are verified. The chair accepted only 188×275 with the 64px admin preview bar; every shopper size retains 60% visibility. Proof: 59 tests passed, 57 skipped because WebKit is unavailable, plus 46 causal checks passed. One scoped Ready request was delivered at 17:15Z, preserving the latest cap and priority queue. Guard, body and test plan pass; correctness is queued, and Draft-policy failures need no rerun. Next chair result or 17:33Z inspection; ordinary reviews, merge and one unpublished-draft installation follow."
+        "text": "Waiting — Qualify original control-repair Draft #4556 for review (Draft 16:44Z–16:55Z, took 11 min; Ready wait since 16:55Z, finish estimate unknown). Exact b2adfd55 and holder 4556.1 are verified. The chair accepted only 188×275 with the 64px admin preview bar; every shopper size retains 60% visibility. Proof: 59 tests passed, 57 skipped because WebKit is unavailable, plus 46 causal checks passed. One scoped Ready request was delivered at 17:15Z, preserving the latest cap and priority queue. Structural gates passed at 17:22Z; the same workflow’s pin-proof is queued. Guard, body and test plan pass, and Draft-policy failures need no rerun. Next chair result or 17:33Z inspection; ordinary reviews, merge and one unpublished-draft installation follow."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original signed-caller review chain (source 16:40Z–16:54Z, took 14 min; transfer, affected proof and publication 17:00Z–17:12Z, took 12 min). The original keeper passed 356 tests and all 97 selected pins. Original holder 4558.1 published #4558 once at 1ba912a2 and marked it Ready; hosted checks are running or queued. Next original result or 17:25Z inspection. Remaining reviews, T2, P209, signed contact intake, TEST access and lifecycle acceptance stay with their original owners; completion estimate unknown."
+        "text": "Waiting — Complete the original signed-caller review chain (source 16:40Z–16:54Z, took 14 min; transfer, affected proof and publication 17:00Z–17:12Z, took 12 min). The original keeper passed 356 tests and all 97 selected pins. Original holder 4558.1 published #4558 once at 1ba912a2 and marked it Ready; hosted checks are running or queued. The original 17:29:50Z boundary was inspected at 17:30Z: three hosted test shards were running. Next original result or 17:45Z inspection. Remaining reviews, T2, P209, signed contact intake, TEST access and lifecycle acceptance stay with their original owners; completion estimate unknown."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The scoped Ready request for #4556 is delivered; the existing chair’s answer and ordinary checks/reviews determine its next step. Checkout #4558 is Ready with hosted checks in progress. The original native-admission request awaits its keeper, with the 30-minute disposition at 17:28Z. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
+    "landing": "Lands: overall completion time remains unknown. The scoped Ready request for #4556 is delivered; the existing chair’s answer and ordinary checks/reviews determine its next step. Checkout #4558 is Ready with hosted checks in progress. The original native-admission request awaits its keeper’s explicit admission or evidenced deferral after the 17:29Z disposition; next inspection 17:43Z. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
   }
 }
