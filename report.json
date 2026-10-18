@@ -147,8 +147,8 @@
   ],
   "remaining": "Five final release items remain open: buyer-trust acceptance, privacy facts, final ratings, complete draft handover and Big Bag native acceptance. The extra bag-input width repair belongs inside the existing draft-acceptance item and does not change the 11-item denominator. Source merge, draft installation, rendered acceptance and final ratings remain separate: release 6/11, delivery 1/3, qualified final ratings 0/3.",
   "current": "The installed draft has one confirmed touch-target defect: the editable bag quantity input is 36 × 44 px at 1280 px and 34 × 44 px at 380 px. Its label is 1 × 1 px and no expanded input hit area was found. The product-page input is 50 × 44 px and the bag plus/minus buttons are 44 × 44 px. A width-only follow-up is authorized for the original writer; execution is not yet verified. Release work remains 6/11.",
-  "next": "Receive the original writer’s verified start or exact placement error, then complete the width-only repair through its new Draft PR and two normal code reviews before installation in the unpublished draft. The coordinator escalated the missing placement once at 03:29Z; the next expected start or error is 03:45Z, not a promised repair finish. Native acceptance awaits the original owner’s run and release, then Website’s own qualified turn. The prepared final-reader packet remains UNSENT. Privacy facts and all three qualified final ratings remain open.",
-  "updated": "2026-10-18T03:32:49.020893+00:00",
+  "next": "The original width-repair writer still needs to start. The chair reaffirmed the instruction at 03:43Z; the expected 03:45Z placement deadline was missed. The next check is 04:00Z. The iPhone owner found that the attended control process had stopped, so Hands must restore that original route before the queued device checks. Seven Website functional checks are prepared, with none yet executed. Then: normal review and merge, unpublished draft installation, changed-screen verification and the original final reviews. No live publication.",
+  "updated": "2026-10-18T03:51:27.960898+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -233,7 +233,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify the three installed small-device fixes at 200% after the original owner completes the SAME allocation and releases it, then Website qualifies its own queue and lease; actual TAKE/run/release remains unproved (waiting since 16 October 20:16Z; 03:28Z load 28.66 still exceeded the under-20 condition, and 03:29Z free disk 4.498 GiB was below the 5 GB heavy-local-work threshold; next check follows the existing owner’s changed resource/run result; finish estimate unknown)."
+        "text": "Waiting — Verify the installed small-device fixes at real 200% after the original attended control route is restored and the preceding device owner hands back its turn. Seven functional checks are prepared; none executed. Website then takes its own qualified lease (waiting since 16 October 20:16Z; original route failure verified 18 October 03:36Z; next check on the original recovery result; est. 13 min after handback, start unknown)."
       },
       {
         "complete": true,
@@ -245,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish connected acceptance: C02 is accepted 6/6 and restored OFF. Quantity #4519 is merged and its two CSS files are installed and source-verified in the unpublished draft. Rendered product input and bag buttons meet 44 px; the editable bag input remains 36 × 44 px on desktop and 34 × 44 px on phone. One extra width-only repair is owed within this item. Its original writer is awaiting verified placement/start, not building as far as current evidence shows; one escalation at 03:29Z expects start or an exact error by 03:45Z. The revised 165-payload, 19-manifest packet is prepared with the defect recorded and remains UNSENT (started 18 October 00:25Z; public evidence update started 03:30Z, est. 8 min; whole acceptance finish unknown)."
+        "text": "In progress — Finish connected acceptance: C02 passed 6/6 and is OFF again. Quantity #4519 is merged and installed; product input and bag buttons meet 44 px, but the editable bag input remains 36 × 44 px on desktop and 34 × 44 px on phone. Its original width-only repair is authorized and awaits verified start; the 03:45Z placement deadline was missed, with the chair reaffirming the same writer at 03:43Z. Next check: 04:00Z. The prepared final-review packet remains UNSENT (started 18 October 00:25Z; this public evidence refresh started 03:51Z, est. 5 min; full acceptance finish unknown)."
       },
       {
         "complete": false,
@@ -256,6 +256,6 @@
         "text": "Waiting — Receive the owner’s provider-account retention/training facts and privacy-notice wording, then verify the existing card; the one owner question is already sent and C10 stays OFF (waiting since 12 October 04:12Z; est. 10 min after the answer arrives)."
       }
     ],
-    "landing": "Lands: about 03:40Z for this public evidence update only (10 min left at the 03:30Z start; 8 min estimated active work, with Pages build and exact served-file verification able to move it). Whole-goal finish remains unknown: original width repair, native run/release, connected private journeys, privacy facts and final ratings are dependencies."
+    "landing": "Lands: about 03:56Z for this public evidence refresh only (5 min left at the 03:51Z start; Pages build and exact served-file verification could move it). Whole-goal finish remains unknown until the original width repair, native handback, connected private journeys, privacy facts and final ratings are complete."
   }
 }
