@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "At 15:02Z the corrected source passed focused suites with 7 and 21 cases. A later wrapper check failed and the original writer is capturing its exact result. At 15:05Z the keeper acknowledged both coverage findings and staged the same-session continuation; compaction, resumed execution and qualifying remote proof are not yet verified.",
+  "workerState": "The corrected source passed focused suites with 7 and 21 cases at 15:02Z. A later wrapper failure passed on a single-file repeat at 15:05Z; the cause remains unproved. The amended source was committed at 15:05Z and its original causal checks are running. The staged continuation still awaits the current turn ending; its compaction and resumed execution are not yet verified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Corrected source passed 7/7 and 21/21 focused cases at 15:02Z. The original keeper verified the continuation brief at 15:05Z, preserving the writer and both coverage findings; this is delivery readiness, not completed source or proof. Separate signed-checkout database proof remains green and awaits original publication.",
+  "lastActualProgress": "Corrected source passed 7/7 and 21/21 focused cases at 15:02Z. The original keeper verified the continuation brief at 15:05Z, preserving the writer and both coverage findings; this is delivery readiness, not completed source or proof. Separate signed-checkout database proof remains green. Its original owner queued a one-file wording correction at 15:08Z before the existing publication sequence; execution is not yet verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The revised bag-control repair still needs passing remote browser and regression results. Native checks await the next qualified resource window. Permitted private test access, privacy facts and final acceptance remain open.",
   "current": "The original writer corrected the Checkout regression and passed both focused suites. The keeper has staged a continuation in the same session to apply the two test-coverage findings and run the required remote proof after the current turn ends.",
   "next": "Consume the original control proof and report, preserving exposed-tap checks and ordinary support availability. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. Consume the separate original Checkout publication without starting another writer.",
-  "updated": "2026-10-18T15:06:32.368099+00:00",
+  "updated": "2026-10-18T15:09:36.371464+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote waits and failed checks). The selector correction passed focused suites at 15:02Z. The keeper staged a same-session continuation at 15:05Z for two coverage findings and remote-only proof; its execution awaits the current turn ending. A later wrapper failure is being captured. Original reviews, merge and draft installation remain pending. Next keeper disposition 15:18Z; original wait 10:43Z is retained."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote waits and failed checks). The selector correction passed focused suites at 15:02Z. The keeper staged a same-session continuation at 15:05Z for two coverage findings and remote-only proof; its execution awaits the current turn ending. A later wrapper check passed on repeat; its cause remains unproved. Original reviews, merge and draft installation remain pending. Next keeper disposition 15:18Z; original wait 10:43Z is retained."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing five-file signed-caller repair through its original owner (placed 14:22Z, started 14:27Z, source handoff 14:40Z; database proof completed 14:49Z). All 361 caller/cart/quote cases and 66 causal checks passed. The original owner now owes first publication into its existing stack, then ordinary reviews and merge. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
+        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, source handoff 14:40Z; database proof completed 14:49Z). All 361 caller/cart/quote cases and 66 causal checks passed. The original owner queued a one-file wording correction at 15:08Z; its START is still owed. The existing stack’s named review repair and publication sequence remain with that owner. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The original repair needs the staged continuation, qualifying proof, reviews and installation; next keeper disposition 15:18Z. The signed-checkout repair is ready for its original publication. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. The original repair needs the staged continuation, qualifying proof, reviews and installation; next keeper disposition 15:18Z. The signed-checkout owner has queued its wording correction before the existing publication sequence. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
