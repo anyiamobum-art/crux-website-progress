@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original proof ran against the committed corrections. Browser results are 2 failed, 57 passed and 57 skipped. Its connection ended during the causal-check phase; the original owner is reconciling the retained remote result before any continuation. No second job has been started.",
+  "workerState": "The same original writer committed the changed test and started the next remote run at 16:02Z. This run is real execution, but any green result must be assessed against the unchanged availability contract. The earlier interrupted result is now terminal and fully reconciled.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The tight control sample exercised 708 Checkout taps and 40 note taps, including 10 with the dock, with no overlap or missed tap. The support-return assertion still failed. The original writer read the failure and began reconciling the interrupted remote connection. The separate checkout repair retains its final named approval; hosted checks and merge remain with its owner.",
+  "lastActualProgress": "The earlier tight control sample exercised 708 Checkout taps and 40 note taps, including 10 with the dock, with no overlap or missed tap; all 46 causal checks passed. The support-return assertion failed. A specific test-contract correction was delivered to the original keeper at 16:04Z; disposition remains due at 16:13Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "The smallest preview-size support-return failure needs a source-bound remedy and passing proof. The interrupted causal result must be reconciled. Native resource access, permitted private test access, privacy facts and final acceptance remain separate open requirements.",
-  "current": "The remote browser checks found a remaining support-return failure at the smallest size with the preview bar. Overlap and exposed-tap checks passed there, but WhatsApp did not return when the test expected available space. The original writer is investigating.",
-  "next": "Consume the original control proof and report, preserving exposed-tap checks and ordinary support availability. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. Consume the separate original Checkout publication without starting another writer.",
-  "updated": "2026-10-18T15:57:19.281101+00:00",
+  "remaining": "A test that permits zero support availability does not satisfy the existing requirement to preserve the button. The specific gap is with the original Hands owner; the genuine remote run is preserved. Native resource access, isolated test access, privacy facts and final acceptance remain separate.",
+  "current": "The original remote result is fully recovered: 46 causal checks passed, while two smallest-preview-size availability checks failed. The author has started a changed-head run with additional diagnostics. Its changed test permits WhatsApp to remain hidden throughout that case, so it cannot yet establish the required availability.",
+  "next": "Consume the current diagnostic result and the original author’s availability correction or the chair’s explicit measured scope disposition. The keeper retains first-Draft custody; qualifying proof, ordinary reviews, merge and one unpublished-draft installation follow. The separate Checkout publication stays with its original owner.",
+  "updated": "2026-10-18T16:05:34.319974+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; corrections committed 15:41Z; browser run 15:48Z–15:51Z, took about 3 min). Two smallest-preview-size availability checks failed; 57 passed and 57 were skipped. The intended overlap and partially visible tap cases were exercised successfully. The connection ended during the causal checks at 15:55Z; the original owner is reconciling the retained result before continuing the remaining source remedy. Next disposition 16:03Z. A finish estimate is unknown until that remedy is proved. Original source wait 10:43Z and correction wait 14:19Z are retained; reviews, merge and draft installation remain pending."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; first browser proof completed 15:51Z and causal proof 15:55Z). The recovered result is 2 browser failures, 57 passes, 57 skips and all 46 causal checks passed. A changed-head diagnostic run started 16:02Z. Its new test allows support to remain hidden at the smallest preview size, which does not yet satisfy the existing availability requirement. The original keeper received this exact gap at 16:04Z; next disposition 16:13Z. Finish estimate unknown until qualifying proof; original waits 10:43Z and 14:19Z retained. Review, merge and draft installation follow."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The original writer must resolve the two smallest-preview-size availability failures and reconcile the interrupted remote result; next disposition 16:03Z. Qualifying proof, original reviews and draft installation follow. Signed-checkout source and documentation await their original publication sequence. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. The current remote run supplies diagnostics; original-author availability correction or an explicit measured chair disposition is still required, with the next source disposition at 16:13Z. Qualifying proof, original reviews and draft installation follow. Signed-checkout source awaits its original publication sequence; isolated TEST setup awaits the owner’s existing store and database-cost decisions. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither start is confirmed. No live publication."
   }
 }
