@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The Website writer and both remote test jobs are terminal. Hands is executing and its current plan names the Website Draft. The original Checkout integration started at16:40Z and has verified source and test activity through16:45Z; its committed return and affected proof are pending.",
+  "workerState": "Website source work, remote proof and the original Draft push are terminal. Hosted preliminary gates are queued. Checkout’s original writer returned successfully at16:54Z; its original owner is qualifying the transfer and changed-only canonical proof before publication. No new writer or proof run was launched by Website.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The scoped chair decision accepts only188×275 with the64px Shopify admin preview bar. The test exception includes that bar height, and the existing PR description names it. Remote proof remains59 tests passed,57 skipped because WebKit is unavailable, plus46 passing causal checks. No new proof run or review round was created.",
+  "lastActualProgress": "Draft #4556 opened16:54:51Z at b2adfd55; holder4556.1 was named16:55Z and the published body records the chair’s exact bar-only exception. Remote proof remains59 tests passed,57 skipped because WebKit is unavailable, plus46 passing causal checks. Checkout returned source1ba912a2; its affected canonical proof remains pending.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. Original Hands has queued first Draft; ordinary review, merge and changed draft verification are still pending. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The chair accepted the precise admin-preview exception at16:44Z. Original Draft #4556 and holder are verified; Ready waits on the existing chair’s queue cap and queued preliminary check. Ordinary review, merge and changed draft verification are still pending. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,11 +140,15 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "The original Draft has not yet returned. Native acceptance needs a current admission or wait-job receipt from the existing resource keeper; the old window is spent. Isolated test access, privacy facts and final acceptance remain separate.",
-  "current": "The chair accepted the small admin-preview exception at16:44Z. The 60% visibility floor remains for every shopper size; at188×275 without the preview bar, WhatsApp shows at298 of391 scroll positions. The original Hands owner has adopted the ruling and queued the Draft.",
-  "next": "Consume the original Draft, exact head and holder receipt, then continue ordinary checks and reviews. After merge, install once into the unpublished theme and verify the changed controls before the same three final readers receive their second full review.",
-  "updated": "2026-10-18T16:54:34.270398+00:00",
+  "remaining": "The chair’s current review queue cap holds new Ready marks. Preliminary gates are queued; admission and test-gate are red only because the PR is a Draft. Native acceptance has no active pressure-wait job, confirmed by Hands; one explicit next-admission request now sits with the same keeper. Isolated test access, privacy facts and final acceptance remain separate.",
+  "current": "Draft #4556 is open at the exact control-repair source, with the original holder named. The chair’s accepted exception applies only to the smallest admin preview with Shopify’s64px bar; every shopper size keeps the60% visibility floor.",
+  "next": "Finish the queued preliminary check and obtain the existing chair’s scoped Ready admission, then continue ordinary code review. After merge, install once into the unpublished theme and verify the changed controls before the same three final readers receive their second full review.",
+  "updated": "2026-10-18T16:59:31.156317+00:00",
   "links": [
+    {
+      "title": "Draft #4556",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4556"
+    },
     {
       "title": "checkout #4484",
       "path": "https://github.com/EON-CRUX/3.09/pull/4484"
@@ -172,10 +176,6 @@
     {
       "title": "PR #4519",
       "path": "https://github.com/EON-CRUX/3.09/pull/4519"
-    },
-    {
-      "title": "original hosted acceptance run",
-      "path": "https://github.com/EON-CRUX/3.09/actions/runs/39054652270"
     }
   ],
   "source": "Published projection of the original task report",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16 October20:16Z; est.13 min after a qualified start). The same executor adopted normal memory pressure and load below15 throughout, one own-leased device and immediate cleanup if either fails. The13:38Z window was spent by Companion’s terminal preflight. The16:51Z keeper audit found no current pressure-window job in its visible running list; the old checkpoint’s one-shot cannot be assumed active. Await the existing keeper’s current admission or actual job receipt, then Companion’s current handback and the original executor’s action-time check. Next original event or17:07Z; all seven remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16 October20:16Z; est.13 min after a qualified start). The same executor retains normal memory pressure and load below15 throughout, one own-leased device and immediate cleanup if either fails. Hands confirmed16:55Z that no pressure-wait job is queued or running and the13:38Z window is spent. A single request for the next concrete admission through the existing keeper was delivered16:58Z, preserving Companion first and the original executor. Await its admission or exact prerequisite and trigger; next original response or17:14Z. No new timer or device attempt; all seven remain unexercised."
       },
       {
         "complete": true,
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Publish and qualify the original WhatsApp control repair (source started12:33Z, resumed15:34Z, report completed16:21Z; publication admitted16:44Z, est.10 min to Draft receipt). The chair accepted the admin-preview-only exception:188×275 with64px Shopify preview bar. Every shopper size retains the60% visibility floor; bar0 shows298/391. Proof is59 tests passed,57 skipped because WebKit is unavailable, plus46 causal checks passed. Hands’ current plan adopts publication; exact Draft/head/holder are pending. Next original result or17:07Z inspection; original10:43Z/14:19Z/16:04Z wait ages retained. Ordinary reviews, merge and one unpublished-draft installation follow."
+        "text": "Waiting — Qualify original control-repair Draft #4556 for review (Draft16:44Z–16:55Z, took11 min including admission; Ready wait since16:55Z, estimate unknown under the existing queue cap). Exact source b2adfd55 and holder4556.1 are verified. The chair accepted only188×275 with64px admin preview bar; every shopper size retains60% visibility. Proof remains59 tests passed,57 skipped because WebKit is unavailable, plus46 causal checks passed. Guard, body and test plan pass; preliminary gates are queued, and Draft-policy failures need no rerun. Once gates qualify, consume or request the existing chair’s scoped Ready admission exactly once. Ordinary reviews, merge and one unpublished-draft installation follow."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing signed-caller integration through its original owner (started16:40Z; est.20 min for source return, affected-proof duration unknown). The predecessor merged16:03Z; the original16:06Z request was recovered once after missed intake. The same writer lineage now runs on the existing remote worker, with source and test work verified through16:45Z. Its original owner consumes the committed return and changed-only canonical proof before publication. Next result or16:55Z inspection. The remaining sequence and signed contact-intake contract stay with that owner; TEST access and lifecycle acceptance remain separate."
+        "text": "In progress — Qualify the original signed-caller integration return (source16:40Z–16:54Z, took14 min; est.15 min for transfer and affected proof after placement). Original writer returned1ba912a2 with exit0; the original owner consumed it16:56Z and retains HOME transfer, one changed-only keeper proof and first publication. Unaffected918 tests/117 pins remain attributed to their earlier source; changed canonical results are pending. Next original result or17:10Z inspection. The remaining sequence, signed contact-intake contract, TEST access and lifecycle acceptance stay with their original owners."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The original control-repair Draft is queued after the16:44Z chair decision; allow about10 min for its receipt, then ordinary review and installation time. The original Checkout integration is running; its next inspection is16:55Z. Native admission has no verified current wait-job pointer; next keeper disposition or17:07Z. Allow13 min for functional phone checks after a qualified start and35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
+    "landing": "Lands: overall completion time remains unknown. Draft #4556 is verified; Ready depends on the queued preliminary check and the existing chair’s review-cap disposition. The original Checkout return awaits transfer and affected proof, with the next inspection17:10Z. The next native admission was requested once from the existing keeper, due17:14Z or earlier response. Allow13 min for functional phone checks after a qualified start and35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
   }
 }
