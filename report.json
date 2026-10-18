@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The writer’s focused check passed7/7 and reproduced exactly2 named failures on the original source13:13Z, then extended the browser regression and repaired its existing pin anchor13:14Z. The native executor’s functional-only gate correction was adopted and read back13:17Z; that is instruction adoption, with zero additional native checks executed.",
+  "lastActualProgress": "The original writer finished four causal checks13:25Z, with each targeted removal failing and each restoration passing. The repaired source was independently verified byte for byte. Its later read-only readiness and queue checks ended13:27–13:28Z without launching remote proof. The exact dirty-source snapshot and existing command are saved for the original keeper’s safe continuation.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "Remote browser proof is capacity-held: the latest bounded check ended13:17Z without launching, with five waiters behind one running job. The last native resource sample had elevated memory pressure. The approved functional-only profile requires normal pressure and load below15; timing, performance and final9.5 evidence retain the stricter free-memory requirement. Permitted private test access, owner-held privacy facts and final acceptance remain open.",
+  "remaining": "Remote browser proof has not entered the shared queue. The keeper confirmed that waiting for an empty queue is unnecessary; the correction still needs to reach the active writer. Its latest readiness check ended13:27Z without launching, with eight waiters and one running job. Native functional checks await normal pressure and load below15 after Companion’s earlier turn. Private test access, privacy facts and final acceptance remain open.",
   "current": "The original writer has made both targeted bag-control changes and proved the focused regression: all7 cases pass with the repair, while the original source fails exactly the2 new cases. Remote browser proof and a corrected commit remain owed. The original native executor has adopted the resource owner’s functional-check correction; no new iPhone attempt has started.",
-  "next": "Consume the original writer’s remote browser proof, corrected commit and terminal report. The original keeper retains first-Draft custody; ordinary review, merge and unpublished-draft installation follow. Next source disposition is13:26Z if no further progress arrives. The existing resource owner must qualify a normal-pressure window, then Companion completes its earlier turn before Website’s functional checks.",
-  "updated": "2026-10-18T13:19:13.509336+00:00",
+  "next": "The keeper has removed the empty-queue prerequisite and authorized one durable remote proof. Apply that correction through the same writer at its restored-source safe boundary, then consume remote browser proof, corrected commit and terminal report. First-Draft custody, ordinary reviews, merge and unpublished-draft installation remain with their original owners. Next remote-admission disposition is13:41Z if no actual admission arrives.",
+  "updated": "2026-10-18T13:29:43.067430+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started12:33Z, est.20 min active source/proof; delayed by remote capacity). Targeted source edits were verified13:05–13:06Z; focused regression passed7/7 versus2 exact named failures on the original source13:13Z. Browser regression and the affected pin anchor were updated13:14Z. The latest bounded capacity check ended13:17Z without launching, with five waiters and one running job. Remote browser proof, corrected commit and terminal report remain owed; next source disposition13:26Z if no further progress arrives. Original wait10:43Z and missed11:00Z/11:28Z/12:09Z deadlines remain recorded."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started12:33Z, est.20 min active source/proof; delayed by remote capacity and an obsolete readiness rule). Source edits and focused regression7/7 are verified; four causal checks ended13:25Z with exact restoration. The latest readiness check ended13:27Z without launching. The keeper removed the empty-queue rule and authorized one durable queued proof; that instruction still needs safe delivery to the same active writer. Remote browser proof, corrected commit and terminal report remain owed; next admission disposition13:41Z. Original wait10:43Z and missed deadlines remain recorded."
       },
       {
         "complete": false,
@@ -267,6 +267,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown while the original remote browser proof, native resource window, permitted private test access and privacy facts are pending. Next source disposition13:26Z if no further progress arrives. The earlier12:53Z source/proof estimate was displaced by verified remote capacity. Allow13 min for the functional phone checks after a qualified start and35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown while original remote proof, the native resource window, permitted private test access and privacy facts are pending. Next remote-admission disposition13:41Z if no actual queued proof arrives. The earlier12:53Z source/proof estimate was displaced by remote capacity and the obsolete empty-queue rule, now removed by its owner. Allow13 min for functional phone checks after a qualified start and35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
