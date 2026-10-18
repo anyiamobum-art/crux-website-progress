@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original diagnostic executed at 14:42Z and ended at 14:44Z with four failures, five passes and nine skips; all four measured misses hit the page header. The same writer began revising the control behavior at 14:48Z and its focused regression at 14:49Z. The preceding jobs are terminal; no duplicate run is needed.",
+  "workerState": "The control diagnostic ended at 14:44Z; all four missed taps hit the page header. The original writer committed its revision at 14:51Z and is completing causal checks. The latest log reports three successful restoration checks and one failed restoration check; it does not establish a green result.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 14:48Z the original writer began changing the dock behavior to give way in place where support overlaps Checkout, while retaining the Add a note protection. Its regression update began at 14:49Z. The separate signed-checkout repair completed its source handoff at 14:40Z; database proof remains owed. The app restart caused an observation gap from 14:27Z to 14:47Z, with original wait ages retained.",
+  "lastActualProgress": "The revised control commit and focused 7/7 passed at 14:51Z. Two read-only test-coverage concerns were sent through the original keeper once; adoption is unverified. Separate signed-checkout database proof finished at 14:49Z: 171 caller, 34 cart and 156 quote cases, plus all 66 causal checks. The original owner retains first publication. App-restart observation gaps and original wait ages remain recorded.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
   "remaining": "The revised bag-control repair still needs passing remote browser and regression results. Native checks await the next qualified resource window. Permitted private test access, privacy facts and final acceptance remain open.",
-  "current": "The completed diagnostic identified the page header as the target receiving all four missed Add a note taps. The original writer is revising the scoped control repair and its regression coverage. The committed head still lacks qualifying browser proof; no revised file is installed.",
-  "next": "Consume the original writer’s revised control tests and remote proof, then its terminal report. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. The separate signed-checkout repair is committed and awaits its PostgreSQL proof.",
-  "updated": "2026-10-18T14:49:35.489295+00:00",
+  "current": "The original writer committed the revised control repair; its remote browser proof and two test-coverage corrections remain open. The signed-checkout repair has passed its database proof and awaits its original owner’s publication into the review sequence.",
+  "next": "Consume the original control proof and report, preserving exposed-tap checks and ordinary support availability. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. Consume the separate original Checkout publication without starting another writer.",
+  "updated": "2026-10-18T14:58:52.472337+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote waits and test failures). The first combined run ended 14:13Z: 46 causal checks passed, but four browser cases failed. The diagnostic ended 14:44Z and identified the header receiving all four missed taps. Original source and focused-regression revisions began 14:48Z–14:49Z. Qualifying remote proof, original reviews, merge and installation remain owed. Next source/proof disposition 15:03Z; original wait 10:43Z is retained."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote waits and failed checks). The diagnostic ended 14:44Z and identified the header receiving four missed taps. Revised source was committed at 14:51Z with focused 7/7 passing; causal checks, two test-coverage concerns and qualifying remote proof remain open. Original reviews, merge and draft installation follow. Next source/proof disposition 15:03Z; original wait 10:43Z is retained."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing five-file signed-caller repair through its original owner (placed 14:22Z, started 14:27Z, source handoff 14:40Z; took 13 min for source work). The three named fixes are committed; PostgreSQL cases and official regression execution remain owed to the existing keeper before original review and publication. This work is independent of the bag proof and privacy facts. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
+        "text": "In progress — Complete the existing five-file signed-caller repair through its original owner (placed 14:22Z, started 14:27Z, source handoff 14:40Z; database proof completed 14:49Z). All 361 caller/cart/quote cases and 66 causal checks passed. The original owner now owes first publication into its existing stack, then ordinary reviews and merge. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The revised control repair needs qualifying proof, then reviews and installation; its next source/proof disposition is 15:03Z. The signed-checkout repair awaits database proof. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. The control repair needs qualifying proof, then reviews and installation; next source/proof disposition 15:03Z. The signed-checkout repair is ready for its original publication. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
