@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The same original writer committed the two-control repair at 13:59Z. It restored the exact committed source after four causal checks, then started the combined remote run at 14:03Z. The remote container was independently observed running. No corrected theme file has been installed yet.",
+  "workerState": "The same original writer inspected the four failures, added actual hit-target diagnostics and submitted the bounded diagnostic at 14:14Z. The preceding combined run ended normally and its container was removed; no duplicate run is needed. No corrected theme file has been installed yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Corrected commit at 13:59Z; four causal checks and exact restoration verified by 14:03Z; combined remote execution began at 14:03:47Z on that commit. The app restart interrupted coordinator observation between 13:37Z and 13:57Z; the original writer survived. Missed inspection times and original wait ages are retained.",
+  "lastActualProgress": "The combined remote run completed at 14:13Z with four remaining browser failures and 46 passing causal checks. The original writer began diagnosis immediately and added hit-target evidence at 14:14Z. The coordinator restart gap from 13:37Z to 13:57Z and original wait ages remain recorded.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The note/200% Checkout repair is committed and undergoing remote proof; installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The note/200% Checkout repair has four remaining browser failures under original-writer diagnosis; installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "The original remote proof is now running. Its result, ordinary code approvals and installation are still owed. The last native resource window ended before booting because Companion’s fresh samples showed elevated pressure; Website awaits the next qualified window. Permitted private test access, privacy facts and final acceptance remain open.",
-  "current": "Both targeted bag-control fixes are committed as 333551e6. The focused regression passes all 7 cases, and each of four causal checks failed when its repair was removed and passed after exact restoration. The original worker’s combined remote browser and regression run started at 14:03Z on that commit; its result is pending.",
-  "next": "Consume the original remote before-and-after results and affected regression gates, then the original writer’s terminal report. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow. Check the original tool’s 14:13Z boundary without restarting any surviving remote job.",
-  "updated": "2026-10-18T14:07:14.448341+00:00",
+  "remaining": "Four browser failures remain on the committed control repair. The original diagnostic entered its existing remote-readiness queue at 14:14Z; no diagnostic execution was observed by 14:17Z. Native checks await the next qualified resource window. Permitted private test access, privacy facts and final acceptance remain open.",
+  "current": "The original remote run finished at 14:13Z: 46 of 46 affected causal checks passed, but the repaired head still has four browser hit-target failures (55 passed, 57 skipped). This head is not ready for review. The same writer is investigating the actual element receiving each missed tap.",
+  "next": "Consume the original hit-target diagnostic, correct only the named control defects or a demonstrated test error, and rerun the affected remote proof. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result.",
+  "updated": "2026-10-18T14:18:20.198938+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote capacity and an obsolete readiness rule). Corrected commit and focused 7/7 were verified at 13:59Z; four causal checks ended with exact restoration by 14:03Z. The combined remote run started 14:03Z and is still running. Its result, terminal report, original reviews, merge and draft installation remain owed. Next original tool boundary 14:13Z; preserve any surviving job. Original wait 10:43Z remains recorded."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote capacity and four remaining browser failures). Commit and focused 7/7 were verified at 13:59Z. The combined remote run ended 14:13Z: 46 causal checks passed, but four browser cases failed. The original hit-target diagnostic was submitted 14:14Z and remains in the readiness queue at 14:17Z; its 240-second boundary is 14:18Z. Consume the actual result before correction and affected proof. Original reviews, merge and draft installation remain owed; original wait 10:43Z is retained."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Prepare the existing five-file signed-caller repair through its original owner after Checkout’s source handback (ready 13:49Z; source wait since 12:05Z, finish estimate unknown). This preparation can proceed independently of the bag proof and privacy facts. The existing keeper owes placement or an exact remaining prerequisite; original inspection 14:04Z and disposition 14:19Z. No capability activation."
+        "text": "Waiting — Prepare the existing five-file signed-caller repair through its original owner after Checkout’s source handback (ready 13:49Z; source wait since 12:05Z, finish estimate unknown). This preparation can proceed independently of the bag proof and privacy facts. The chair directed placement through the original owner; actual placement and first source action remain unverified. Original disposition 14:19Z. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The original remote run started 14:03Z; its next tool boundary is 14:13Z, with actual results governing the next release step. Native checks, permitted private test access and privacy facts remain open. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. Four browser failures require diagnosis and qualifying proof before review and installation. The diagnostic readiness boundary is 14:18Z; original caller placement is due 14:19Z and reader continuation readiness is due 14:23Z. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
