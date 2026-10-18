@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The two installed repair writers are finished. The same buyer-acceptance owner resumed at11:04Z after a terminal browser error and a verified recovery on the draft. The two-control follow-up was delivered10:43Z; its11:00Z placement deadline was missed and one original-destination follow-up was sent. Delivery is not execution.",
+  "workerState": "The installed repair writers are finished, and the buyer’s named direct-order and shop-return checks completed11:21Z. The two-control follow-up was delivered10:43Z; the chair’s placement ruling is recorded, but no new writer START is verified. Delivery and authorization are separate from execution.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Six changed subtotal-render samples passed11:00Z–11:03Z, including clearance and return-visible checks; quantity1 stayed unchanged and the owned tab was closed. Both approved files remain installed from the one10:46Z batch, with exact storage readback and full preservation. The signed-in journey has no new pass yet.",
+  "lastActualProgress": "The original buyer-acceptance owner verified direct order opening11:16Z and the actual Back to the shop link11:21Z, retaining the same signed-in context. Its temporary tab was closed. The six subtotal checks and exact installed-source/preservation receipts remain valid.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -95,7 +95,7 @@
       "5. Buyer trust and WhatsApp reviews",
       "Components reviewed, merged and installed — acceptance open",
       "Authenticated owned-item and blank feedback entry passed07:44Z. The direct-order follow-up #4535 passed its original code review, merged10:41Z and was installed with exact source readback10:47Z.",
-      "The same original acceptance owner checks direct landing and return; no feedback is entered or saved. Read-only entry alone does not close this item."
+      "The named direct-order and Back to the shop checks passed11:21Z through the original owner. Verified-review consent and the existing connected CS flow remain separate; no feedback was entered or saved."
     ],
     [
       "6. Assistant privacy facts",
@@ -125,7 +125,7 @@
       "10. Completed Shopify draft and handover",
       "Latest repairs installed — final acceptance open",
       "Quantity #4527 is rendered and verified. Bag-total clearance #4534 and direct-order link #4535 are now reviewed, merged and installed; exact readback10:47:27Z and preservation10:48:43Z passed.",
-      "The subtotal rendered check passed. Finish the two remaining control overlaps, the signed-in journey, original native checks and final ratings. All539 live files, unrelated draft files and settings are unchanged. C10 remainsOFF; no live publication."
+      "The subtotal rendered check passed. The named signed-in direct-order and return journey passed. Finish the two remaining control overlaps, original native checks and final ratings. All539 live files, unrelated draft files and settings are unchanged. C10 remainsOFF; no live publication."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "The remaining visible defects are WhatsApp over Add a note and zoomed Checkout. Original repair placement is not yet acknowledged. Native load now meets its limit, but free memory42% remains below the required50%; supported device control and shared custody still apply. Owner-held privacy facts and final acceptance remain open.",
-  "current": "The installed bag-total fix passed six rendered samples at380/430/1280: WhatsApp clears the amount and returns outside it. The direct-order link repair is installed, and its original owner has resumed the signed-in journey check after browser control recovered. The 44px quantity repair remains verified. Release acceptance remains6/11.",
-  "next": "Consume the original buyer-check result and the original companion writer’s placement for the Add a note and enlarged Checkout overlaps. Finish those two controls, then the remaining iPhone checks and one source-bound review by the same three readers.",
-  "updated": "2026-10-18T11:07:45.614419+00:00",
+  "remaining": "The two visible control overlaps still need their original writer’s repair. Native checks need fresh shared-device custody, sufficient headroom and supported control after the app restart. Owner-held privacy facts and final acceptance remain open.",
+  "current": "The installed direct-order repair now passes its signed-in journey: the correct order opens directly, and Back to the shop returns to the draft collection. The bag-total fix passed six rendered samples, and the44px quantity controls remain verified. These scoped passes do not close the remaining full acceptance items.",
+  "next": "The original companion author’s next repair covers WhatsApp over Add a note and enlarged Checkout. The chair has directed its keeper to place that repair by11:28Z. Then finish the original iPhone checks and obtain one source-bound second review from the same three readers.",
+  "updated": "2026-10-18T11:25:37.637057+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since16 October20:16Z; est.13 min after qualified takeover). At11:06Z load6.89 meets its limit, but memory free42% is below the required50%. The lock reads free; the original shared-device/pane allocation still needs a safe handback. No Website lease or input."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16 October20:16Z; est.13 min after qualified takeover). The prior Studio allocation ended without input during the app restart; a fresh shared-device allocation and current headroom are required. No Website lease or input."
       },
       {
         "complete": true,
@@ -247,12 +247,12 @@
         "text": "Completed — Verify the installed bag-total clearance at380/430/1280 and confirm support returns outside the totals (11:00Z–11:03Z, took3 min). Six rendered samples passed; the existing quantity stayed unchanged."
       },
       {
-        "complete": false,
-        "text": "In progress — Verify direct order opening and return through its original acceptance owner (started10:49Z; first browser failure recorded10:52Z, recovered supported draft control11:00Z; same owner resumed11:04Z, est.10 min). The earlier estimate moved because the original tab binding timed out."
+        "complete": true,
+        "text": "Completed — Verify direct order opening and return through the original buyer-acceptance owner (10:49Z–11:21Z, took32 min including browser recovery). The correct order opened directly; Back to the shop returned to the draft collection. The temporary check tab was closed and the original account tab retained."
       },
       {
         "complete": false,
-        "text": "Waiting — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (waiting since10:43Z; expected placement11:00Z missed, original destination checked11:00Z; next disposition11:13Z). No second writer or duplicate launch."
+        "text": "Waiting — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (waiting since10:43Z; missed11:00Z placement escalated11:14Z). The chair directed the original keeper to place the prepared repair or report the actual error by11:28Z. No writer START verified yet."
       },
       {
         "complete": false,
@@ -263,6 +263,6 @@
         "text": "Waiting — Receive the owner’s provider-account retention/training facts and privacy-notice wording, then verify the existing card; the one owner question is already sent and C10 stays OFF (waiting since 12 October 04:12Z; est. 10 min after the answer arrives)."
       }
     ],
-    "landing": "Lands: about11:15Z for the current buyer-check result and original repair-placement disposition (about8 min left; browser control and the keeper’s queue can move it). Full completion time remains unknown pending the two-control repair, native checks, privacy facts and final ratings. No live publication."
+    "landing": "Lands: about11:28Z for the original repair-placement disposition (about3 min left; the keeper’s queue or an actual execution error can move it). Full completion time remains unknown pending the two-control repair, native checks, privacy facts and final ratings. No live publication."
   }
 }
