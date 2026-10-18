@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Actual same-session resume succeeded at 15:33:59Z. The original writer read the combined brief, verified the source head and inspected the finding’s test code by 15:34Z. The duplicate brief is parked. No new remote proof has started yet.",
+  "workerState": "The same original writer remains active. Its normal remote job cleared the shared queue at 15:48Z, and the log confirms the corrected source. The existing keeper has retained remote output and exit recording; there is one proof job.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original writer resumed and inspected the finding’s source at 15:34Z. Separate signed-checkout documentation completion landed at 15:34Z; only its documentation changed, retaining the 361-case/66-check proof. The existing stack’s single keeper proof passed at 15:27Z with 107 cases and 44 causal checks; its original push and final named review remain pending.",
+  "lastActualProgress": "Both coverage corrections were committed at 15:41Z, and the source-bound remote proof started at 15:48Z. Separate signed-checkout documentation is complete with its 361-case/66-check proof retained. The existing stack’s named repair was pushed once and passed its final named review at 15:36Z; hosted checks and merge remain with the original owner.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The note/200% Checkout repair has four remaining browser failures under original-writer diagnosis; installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The note/200% Checkout coverage corrections are committed and their original remote proof is executing; installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -141,9 +141,9 @@
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
   "remaining": "The revised bag-control repair still needs passing remote browser and regression results. Native checks await the next qualified resource window. Permitted private test access, privacy facts and final acceptance remain open.",
-  "current": "The original writer has resumed in the same session and is inspecting the two test-coverage findings. Its existing source and causal proof are retained; corrected remote proof is next.",
+  "current": "Both test-coverage corrections are committed. The original remote proof began executing against that exact source at 15:48Z; its rendered and regression results are pending.",
   "next": "Consume the original control proof and report, preserving exposed-tap checks and ordinary support availability. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. Consume the separate original Checkout publication without starting another writer.",
-  "updated": "2026-10-18T15:37:28.165864+00:00",
+  "updated": "2026-10-18T15:49:14.638546+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; est. 20 min active correction and proof, with remote queue time unknown). The original estimate was exceeded by failed checks and an obsolete empty-queue wait. The keeper recovered the same session and parked the duplicate brief; actual resumed source inspection began at 15:34Z. The two coverage corrections and one normal remote proof are now with that writer. Original reviews, merge and draft installation follow a qualifying result. Next progress disposition 15:49Z; original source wait 10:43Z and correction wait 14:19Z are retained."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; corrections committed 15:41Z; remote proof executing since 15:48Z, est. 8 min after execution starts). Earlier estimates were exceeded by failed checks and an obsolete empty-queue wait. Both coverage corrections are now committed; the normal queue cleared and the exact source is recorded. The keeper retains the remote output through the caller timeout. Original reviews, merge and draft installation follow qualifying results. Next result disposition 16:03Z; reconcile any earlier caller timeout at about 15:53Z without repeating the job. Original source wait 10:43Z and correction wait 14:19Z are retained."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, database proof completed 14:49Z; documentation completion landed 15:34Z). All 361 caller/cart/quote cases and 66 causal checks passed; only documentation changed afterward, preserving that proof. The existing stack’s named repair also passed its one keeper proof at 15:27Z: 107 cases and 44 causal checks. Its original owner must push and complete the final named review, then continue the existing publication sequence. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
+        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, database proof completed 14:49Z; documentation completion landed 15:34Z). All 361 caller/cart/quote cases and 66 causal checks passed; documentation-only changes preserve that proof. The existing stack’s named repair passed 107 cases and 44 causal checks, was pushed once at 15:31Z and received its final named approval at 15:36Z. Hosted checks and merge remain, followed by the original ordered publication sequence. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The original repair resumed at 15:34Z; allow about 20 min active correction/proof, with remote queue time unknown and next progress disposition 15:49Z. Reviews and draft installation follow qualifying proof. Signed-checkout source and documentation proofs await their original publication sequence. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. The original remote proof started at 15:48Z; allow about 8 min of execution, with a result disposition by 16:03Z. Reviews and draft installation follow qualifying proof. Signed-checkout source and documentation await their original publication sequence. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
