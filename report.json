@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "Second reviews in progress — 0/3 qualified",
-      "Astra FULL R2 is NOT_QUALIFIED: house fit9.0, nine unscored. Original Opus FULL R2 started20:12Z; no new score. Fable remains staged.",
-      "Same original reviewers, histories and round limits. Verify the already-delivered Fable instruction’s adoption, consume original results and queued source triage, and address all second-round findings before the final named-fix check."
+      "Opus FULL R2: 8.75 average / 8.0 minimum. Astra: not qualified, house fit 9.0 and nine unscored. Same Fable session compacted; full R2 in its original inbox, start unverified.",
+      "Consume original queued results and triage; address every original R2 finding before the final named-fix check. Preserve source owners and round limits."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,8 +140,8 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Fable’s keeper requested the exact source of the instruction; that original user-message pointer has been verified and delivered, but adoption and start are unverified. New Mac jobs are held until21:27:43Z while the existing recovery hook and quiet restart boundary are prepared; restart and a qualified native window remain unverified. Permitted TEST acceptance and privacy facts remain open.",
-  "current": "Opus’s original full second review returned: 8.75 average, lowest8.0, so the draft does not meet the target. Astra’s second review is not qualified: house fit9.0, nine measures unscored, whole average/minimum unknown. Fable remains staged. The same repair obligation now includes all nine Opus findings for triage, with original source ownership preserved.",
+  "remaining": "Fable’s instruction scope is resolved; its original queued review and source triage await verified starts. Hands reported a qualified P212/A2 window at 20:48:47Z and the recovery hook installed; this is not Website native admission. The app restarted at 20:58:03Z and existing jobs are being reconciled. Permitted TEST acceptance and privacy facts remain open.",
+  "current": "Opus’s original full second review returned: 8.75 average, lowest 8.0. Astra’s second review is not qualified: house fit 9.0, nine measures unscored. Fable’s same session completed compaction at 20:31:35Z and its full R2 brief is in the original inbox; execution is unverified. All nine Opus findings are included in the same triage obligation, with original source owners preserved.",
   "next": "Verify the keeper’s adoption of the exact original user instruction, then the existing Fable compaction and review start. Address all original second-round findings through their original source owners before one cohesive publication and the final named-fix check. Continue the existing Checkout correction and native recovery work.",
   "updated": "2026-10-18T20:35:02.258634+00:00",
   "links": [
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real200%, restore100% and release (waiting since16October20:16Z; est.13min after a qualified start). The original keeper acknowledged the operator’s safe-recovery authority and is preparing the existing post-restart hook. Its intended quiet boundary is20:25Z, with restart around20:55Z only after running work finishes and the hook is verified. These are plans; no restart or qualified window is verified. Companion goes first, then Website needs its original executor’s fresh pressure1/load-below15 lease after handback. All seven checks remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The recovery hook was installed at20:49Z and the app restarted at20:58Z; eight of nine wake jobs resumed and one failed. The recorded20:48:47Z–21:03:47Z window belongs to the two prerequisite jobs, not Website. Companion must finish before the original Website executor receives a fresh pressure1/load-below15 admission. All seven checks remain unexercised."
       },
       {
         "complete": true,
@@ -256,11 +256,11 @@
       },
       {
         "complete": false,
-        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet audited19:44Z; first second review ran19:45Z–19:50Z; another started20:12Z, est.35min). The completed review is not qualified: house fit9.0, nine measures unscored. The original writer’s two UI findings are queued after compaction ended20:03:58Z; no source start is verified. The remaining reader is staged; the specific current instruction was delivered20:06Z and adoption remains unverified. Preserve the first wait13:34Z. Integrate all second-round findings before one cohesive publication and the final named-fix check."
+        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet audited19:44Z; preserve first wait13:34Z). Astra completed19:50Z: house fit9.0, nine measures unscored, not qualified. Opus completed20:25Z: average8.75, minimum8.0 across all ten measures, below the required bar. Fable completed compaction20:31Z and its original review brief is queued; execution remains unverified. The original writer acknowledged bounded triage at20:35Z; its source start remains unverified. Preserve source owners and integrate all second-round findings before one cohesive publication and the final named-fix check."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence (merged19:37Z, deployed19:40Z, served verification19:42Z). The original follow-up source is integrated and the corrected keeper started20:08Z; all four test files finished with525 passes and one skip by20:15Z. Its87 selected mutation checks remain in progress before one publication and the next original caller handback. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work."
+        "text": "In progress — Complete the original signed-caller release sequence (merged19:37Z, deployed19:40Z, served verification19:42Z). The original follow-up keeper finished20:15Z with525 passes, one skip and87 mutation checks passed. Its single follow-up PR #4564 has failed hosted test-gate and guards checks; the original owner received one continuation at20:33Z and execution is still unverified. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The original second review that started20:12Z is estimated to finish around20:47Z; queued source triage and the remaining reader still need actual starts. The first completed second review is not qualified. Checkout’s original keeper is proving its remaining checks. Native recovery is planned around20:55Z only at a verified safe boundary; allow13min for phone checks after a qualified Website start. TEST and privacy inputs affect qualification. The Shopify theme remains unpublished."
+    "landing": "Lands: overall completion time remains unknown. Two original second reviews have returned below qualification; the remaining reader and source triage need actual starts. Checkout needs its existing failed hosted checks resolved through its original owner. The app restart is verified, but Website has no native admission; allow13min for phone checks after a qualified start. TEST and privacy inputs still affect qualification. The Shopify theme remains unpublished."
   }
 }
