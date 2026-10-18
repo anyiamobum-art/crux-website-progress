@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The remote job ended at 16:09Z. The same original author is preparing its report; Hands has acknowledged the required availability correction and retains first-Draft custody. No second writer or review has started.",
+  "workerState": "The writer’s turn and both remote jobs are terminal. Hands retains first-Draft custody, is preparing the same writer’s continuation, and awaits the existing chair ruling. No replacement writer or review has started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The measured fixed position conflicts with the dock at 354 scroll positions, main Checkout at 22 and Add a note at 15. All 391 positions hide support. No overlap or missed control tap was observed, including 10 note taps with the dock. Separately, the original Checkout repair merged at 16:03Z; its owner has admitted the next integration step.",
+  "lastActualProgress": "The final report records 354 dock conflicts, 22 main-Checkout conflicts and 15 Add a note conflicts at the current fixed position. It confirms zero support visibility there; it does not establish that every alternative placement is impossible. The original Checkout owner separately recovered its unstarted integration request at 16:23Z and adopted the signed contact-intake contract in its existing queue.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -113,7 +113,7 @@
       "8. Final three-model ratings",
       "Three prior reports complete — 0/3 qualified",
       "Prior scores remain Fable8.85, Opus8.70 and Astra unqualified; none rates the latest installed draft.",
-      "Bind the latest installed repairs and their changed-path evidence. The note/200% Checkout coverage corrections are committed; the remote run found two remaining smallest-preview-size support-return failures. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
+      "Bind the latest installed repairs and their changed-path evidence. The control-overlap report is complete; tests pass but the smallest preview hides support at every position. First Draft is held for the existing chair disposition and a meaningful availability check. Installed and native acceptance remain open. Same original histories and round limits; second full reviews UNSENT."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "A test that permits zero support availability does not satisfy the existing requirement to preserve the button. The specific gap is with the original Hands owner; its completed remote receipt is preserved. Native resource access, isolated test access, privacy facts and final acceptance remain separate.",
-  "current": "The changed remote run is complete: 59 browser cases and all 46 causal checks passed, while 57 WebKit cases were skipped because the browser was unavailable. The smallest preview case still hides WhatsApp at every position. Its weakened availability assertion means this is diagnostic evidence, not qualifying release proof.",
-  "next": "The original keeper will return the specific availability requirement to the same author when its current report is finished. Preserve exposed-control taps and overlap guards while proving support remains available, or obtain the chair’s explicit measured scope disposition. Qualifying proof, ordinary reviews, merge and one unpublished-draft installation follow.",
-  "updated": "2026-10-18T16:14:35.839952+00:00",
+  "remaining": "The chair’s current ruling preserves the original availability requirement. Hands has asked for a narrow preview-bar exception and holds first Draft pending the answer. Native resource access, isolated test access, privacy facts and final acceptance remain separate.",
+  "current": "The original writer finished its report at 16:21Z. Tests passed 59 browser cases and 46 causal checks, with 57 WebKit cases skipped. The smallest preview still hides WhatsApp at all 391 positions; the equivalent shopper size without the preview bar shows it at 298 of 391. This has not yet qualified the repair for release.",
+  "next": "Consume the chair’s decision on the precise preview-bar exception already submitted by Hands. The same author supplies any required source correction and an independently meaningful availability check. Qualified proof, original reviews, merge and one unpublished-draft installation follow.",
+  "updated": "2026-10-18T16:27:18.933660+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; latest remote run 16:02Z–16:09Z, took 7 min). The changed run passed 59 browser cases and all 46 causal checks; 57 WebKit cases were skipped. The smallest preview case still hides support at all 391 positions, and its weakened availability assertion does not satisfy the original requirement. Hands acknowledged the exact gap at 16:04Z and will return it to the same author after its current report. The 16:13Z check found report preparation still active; next check is its handback or 16:28Z. Finish estimate unknown. Original waits 10:43Z and 14:19Z retained. Qualifying proof, review, merge and draft installation remain."
+        "text": "Waiting — Finish the original WhatsApp control repair (started 12:33Z; resumed 15:34Z; report finished 16:21Z; remote proof 16:02Z–16:09Z, took 7 min). Tests passed 59 browser cases and 46 causal checks; 57 WebKit cases skipped. The smallest preview hides support at all 391 positions; the shopper size without the preview bar shows it at 298 of 391. Hands submitted that scoped exception to the chair at 16:22Z and holds first Draft. The existing chair ruling preserves availability; no exception is approved yet. The same author remains responsible for any required repair, with an independent availability check. Waiting since 16:04Z; next original ruling or 16:37Z inspection; finish estimate unknown. Original source waits 10:43Z and 14:19Z retained. Review, merge and draft installation follow qualified proof."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, database proof completed 14:49Z; documentation completion landed 15:34Z). All 361 caller/cart/quote cases and 66 causal checks passed; documentation-only changes preserve that proof. The preceding named repair passed 107 cases and 44 causal checks, received its final named approval and merged at 16:03Z. The original owner admitted the next integration at 16:06Z; execution and deployment readback remain to be verified. Original next check 16:20Z, source wait 12:05Z retained; finish estimate unknown. No capability activation."
+        "text": "Waiting — Complete the existing signed-caller integration through its original owner (source started 14:27Z; database proof finished 14:49Z; documentation landed 15:34Z). Its 361 cases and 66 causal checks passed. The predecessor repair merged at 16:03Z; the next integration was admitted at 16:06Z. The original owner verified no start on either host and requested recovery once at 16:23Z. Waiting since 16:06Z; next original start or 16:35Z inspection; finish estimate unknown. The signed contact-intake contract is adopted in the existing queue after the current integration sequence; implementation is pending. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The current remote run supplies diagnostics; original-author availability correction or an explicit measured chair disposition is still required, with the next source disposition at its report handback or 16:28Z. Qualifying proof, original reviews and draft installation follow. Signed-checkout source awaits its original publication sequence; isolated TEST setup awaits the owner’s existing store and database-cost decisions. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither start is confirmed. No live publication."
+    "landing": "Lands: completion time remains unknown. The next control-repair decision is the existing chair ruling or 16:37Z inspection; its report is complete and first Draft is held. Required source correction, qualified proof, reviews and draft installation follow that ruling. Signed-checkout integration awaits its original start, due 16:35Z. Isolated TEST setup and privacy facts retain their original owner inputs. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither start is confirmed. No live publication."
   }
 }
