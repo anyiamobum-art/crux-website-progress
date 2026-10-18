@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The writer’s turn and both remote jobs are terminal. Hands retains first-Draft custody, is preparing the same writer’s continuation, and awaits the existing chair ruling. No replacement writer or review has started.",
+  "workerState": "The writer’s turn and both remote jobs are terminal. Hands holds first Draft and has staged the same writer’s availability requirement; its stated native compaction is not yet verified. The 16:37Z inspection found no newer chair ruling. The separate checkout request is queued and unread with Hands; acknowledgement and start are still pending.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The final report records 354 dock conflicts, 22 main-Checkout conflicts and 15 Add a note conflicts at the current fixed position. It confirms zero support visibility there; it does not establish that every alternative placement is impossible. The original Checkout owner separately recovered its unstarted integration request at 16:23Z and adopted the signed contact-intake contract in its existing queue.",
+  "lastActualProgress": "The report records 354 dock conflicts, 22 main-Checkout conflicts and 15 Add a note conflicts at the current fixed position. The existing guide also contains an Ask the team route to WhatsApp, but its reachability at the smallest preview size is unverified. The original Checkout owner queued its existing integration request at 16:35Z; no new writer or proof was launched by Website.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The chair’s current ruling preserves the original availability requirement. Hands has asked for a narrow preview-bar exception and holds first Draft pending the answer. Native resource access, isolated test access, privacy facts and final acceptance remain separate.",
   "current": "The original writer finished its report at 16:21Z. Tests passed 59 browser cases and 46 causal checks, with 57 WebKit cases skipped. The smallest preview still hides WhatsApp at all 391 positions; the equivalent shopper size without the preview bar shows it at 298 of 391. This has not yet qualified the repair for release.",
   "next": "Consume the chair’s decision on the precise preview-bar exception already submitted by Hands. The same author supplies any required source correction and an independently meaningful availability check. Qualified proof, original reviews, merge and one unpublished-draft installation follow.",
-  "updated": "2026-10-18T16:27:18.933660+00:00",
+  "updated": "2026-10-18T16:38:40.600005+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the original WhatsApp control repair (started 12:33Z; resumed 15:34Z; report finished 16:21Z; remote proof 16:02Z–16:09Z, took 7 min). Tests passed 59 browser cases and 46 causal checks; 57 WebKit cases skipped. The smallest preview hides support at all 391 positions; the shopper size without the preview bar shows it at 298 of 391. Hands submitted that scoped exception to the chair at 16:22Z and holds first Draft. The existing chair ruling preserves availability; no exception is approved yet. The same author remains responsible for any required repair, with an independent availability check. Waiting since 16:04Z; next original ruling or 16:37Z inspection; finish estimate unknown. Original source waits 10:43Z and 14:19Z retained. Review, merge and draft installation follow qualified proof."
+        "text": "Waiting — Finish the original WhatsApp control repair (started 12:33Z; resumed 15:34Z; report finished 16:21Z; remote proof 16:02Z–16:09Z, took 7 min). Tests passed 59 browser cases and 46 causal checks; 57 WebKit cases skipped. The smallest preview hides support at all 391 positions; the shopper size without the preview bar shows it at 298 of 391. Hands submitted that scoped exception to the chair at 16:22Z and holds first Draft. The existing chair ruling preserves availability; no exception is approved yet. The same author remains responsible for any required repair, with an independent availability check. Waiting since 16:04Z; the 16:37Z inspection found no new ruling or writer action. Next check follows the original chair or Hands result; finish estimate unknown. Original source waits 10:43Z and 14:19Z retained. Review, merge and draft installation follow qualified proof."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the existing signed-caller integration through its original owner (source started 14:27Z; database proof finished 14:49Z; documentation landed 15:34Z). Its 361 cases and 66 causal checks passed. The predecessor repair merged at 16:03Z; the next integration was admitted at 16:06Z. The original owner verified no start on either host and requested recovery once at 16:23Z. Waiting since 16:06Z; next original start or 16:35Z inspection; finish estimate unknown. The signed contact-intake contract is adopted in the existing queue after the current integration sequence; implementation is pending. No capability activation."
+        "text": "Waiting — Complete the existing signed-caller integration through its original owner (source started 14:27Z; database proof finished 14:49Z; documentation landed 15:34Z). Its 361 cases and 66 causal checks passed. The predecessor repair merged at 16:03Z; the next integration was admitted at 16:06Z. The original owner verified no start on either host and requested recovery once at 16:23Z. At 16:35Z its existing request was queued and unread in Hands; acknowledgement and execution remain unobserved. Waiting since 16:06Z; next original event or 16:45Z inspection; finish estimate unknown. The signed contact-intake contract is adopted in the existing queue after the current integration sequence; implementation is pending. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The next control-repair decision is the existing chair ruling or 16:37Z inspection; its report is complete and first Draft is held. Required source correction, qualified proof, reviews and draft installation follow that ruling. Signed-checkout integration awaits its original start, due 16:35Z. Isolated TEST setup and privacy facts retain their original owner inputs. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither start is confirmed. No live publication."
+    "landing": "Lands: completion time remains unknown. The next control-repair decision awaits the existing chair ruling; the 16:37Z inspection is complete, and first Draft remains held. Required source correction, qualified proof, reviews and draft installation follow that ruling. Signed-checkout integration is queued with Hands; its original owner checks for acknowledgement and start by 16:45Z. Isolated TEST setup and privacy facts retain their original owner inputs. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither start is confirmed. No live publication."
   }
 }
