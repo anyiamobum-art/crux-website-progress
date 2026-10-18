@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Website #4556 has two test shards running and three queued; its first review and correctness checks passed. The original Checkout owner is returning both review findings to the same writer. Hands is actively reconciling installed-app custody and its native disposition; no pressure-wait job or admitted window is claimed.",
+  "workerState": "Website #4556 has three test shards passed and two running. Checkout’s same-writer repair started remotely at 18:07:52Z and was actively editing at 18:14Z. Hands owns the existing qualified-window event; its latest samples failed the resource profile. The local cap ends at 19:11:30Z, which does not itself admit a native attempt.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#4556 first review approved at 17:49Z; post-Ready pin proof passed at 18:02:13Z and guards at 18:02:22Z. The public Ready update was exactly verified at 17:59:46Z after the restart. Source proof remains 59 tests passed, 57 WebKit skips and 46 passing causal checks.",
+  "lastActualProgress": "#4556 third test shard passed at 18:16:57Z; first review and post-Ready guards remain green. The native keeper supplied measured telemetry and a concrete next-window trigger; the later Interface release removed the occupied-device condition. Checkout’s original repair START and custody are verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open.",
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
-  "remaining": "Full hosted tests and the second independent code review remain for #4556. Native acceptance needs the original keeper’s admitted window and Companion handback. Checkout has two named review findings in its original repair queue. Isolated test access, privacy facts and final acceptance remain separate.",
-  "current": "PR #4556 has its first independent approval with no findings at the unchanged head. Post-Ready pin proof and guards passed at 18:02Z. Full tests and the second independent critical review remain.",
+  "remaining": "Full hosted tests and the second independent code review remain for #4556. Native acceptance has a measured resource hold; the simulator lock is now free, but no qualified window is admitted. Checkout’s original named-fix repair is running. Isolated test access, privacy facts and final acceptance remain separate.",
+  "current": "PR #4556 has its first independent approval with no findings, green correctness checks and three full-test shards passed. Two shards and the second independent critical review remain at the unchanged head.",
   "next": "Consume the original full-test and second-review results. After the canonical approved merge, install once into the unpublished theme and verify the changed controls before the same three final readers receive their second full review.",
-  "updated": "2026-10-18T18:05:49.237469+00:00",
+  "updated": "2026-10-18T18:19:06.448098+00:00",
   "links": [
     {
       "title": "PR #4556",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The 13:38Z window is spent and no pressure-wait job remains. One admission request dates from 16:58Z, with its existing 17:29Z disposition. At 18:04Z the original keeper was actively reconciling installed-app custody after restarting Codex; no new window was admitted. Preserve Companion first, the original executor, one own-leased device, normal memory pressure and load below 15 throughout. Consume the same scoped result or inspect at 18:19Z. All seven remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). Hands supplied a measured resource hold at 18:12Z: pressure 2 in both samples, load 51.5/168.1 and swap growth 915 MB/min. The simulator lock was subsequently released at 18:13Z; app-custody and reader lookups are separate. The existing keeper will emit its quiet-window event after a qualified fresh sample pair. Preserve Companion first, then the same Website executor’s own lease and stricter pressure 1/load below 15 throughout. The local lane cap runs through 19:11:30Z; expiry alone admits nothing. Consume the original event or inspect at 18:32Z. The original admission request dates from 16:58Z; all seven remain unexercised."
       },
       {
         "complete": true,
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Review and merge original control-repair PR #4556, then install and verify it in the unpublished theme (Draft 16:44Z–16:55Z, took 11 min; proof and Ready 16:55Z–17:42Z, took 47 min; first review approved 17:49Z; finish estimate unknown). Head b2adfd55 and holder 4556.1 are unchanged. The first independent robot review approved with no findings; the second critical review remains owed through the same robot. Post-Ready pin proof and guards passed at 18:02Z. Two full-test shards are running and three queued. The exception remains only 188×275 with the 64px admin preview bar; shopper visibility stays protected. Source proof remains 59 tests passed, 57 WebKit skips and 46 causal checks passed. Consume original results or inspect at 18:18Z; canonical merge follows both approvals and green required checks."
+        "text": "In progress — Review and merge original control-repair PR #4556, then install and verify it in the unpublished theme (Draft 16:44Z–16:55Z, took 11 min; proof and Ready 16:55Z–17:42Z, took 47 min; first review approved 17:49Z; finish estimate unknown). Head b2adfd55 and holder 4556.1 are unchanged. The first independent robot review approved with no findings; the second critical review remains owed through the same robot. Post-Ready pin proof and guards passed at 18:02Z. Three full-test shards passed and two are running. The exception remains only 188×275 with the 64px admin preview bar; shopper visibility stays protected. Source proof remains 59 tests passed, 57 WebKit skips and 46 causal checks passed. Consume original results or inspect at 18:30Z; canonical merge follows both approvals and green required checks."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original signed-caller review chain (source 16:40Z–16:54Z, took 14 min; transfer, affected proof and publication 17:00Z–17:12Z, took 12 min; named-fix intake active since 17:59Z). #4558 hosted checks passed, but its first review found a confirmation-recovery defect and missing stale/future cart-revision tests. The original owner is returning both together to the same writer, with connected recovery coverage. Consume that placement/result or inspect at 18:20Z. T2, P209, signed contact intake, TEST access and lifecycle acceptance retain their original owners; completion estimate unknown."
+        "text": "In progress — Complete the original signed-caller review chain (source 16:40Z–16:54Z, took 14 min; transfer, affected proof and publication 17:00Z–17:12Z, took 12 min; original named-fix repair started 18:07:52Z). #4558 hosted checks passed, but its first review found a confirmation-recovery defect and missing stale/future cart-revision tests. The same writer’s compact continuation was actively editing both fixes at 18:14Z. Consume its original report, then the existing connected PostgreSQL proof and one fix push; inspect at the original owner’s 18:23Z boundary if no result arrives. T2, P209, signed contact intake, TEST access and lifecycle acceptance retain their original owners; completion estimate unknown."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. #4556 has its first approval and green guards; full tests and the second independent review remain before merge and one unpublished installation. Checkout #4558 is in original-writer named-fix intake. The native keeper is reconciling custody; no window is admitted. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
+    "landing": "Lands: overall completion time remains unknown. #4556 has its first approval, green guards and three test shards passed; two shards and the second independent review remain before merge and one unpublished installation. Checkout’s original named-fix repair is running remotely. Native acceptance has a measured resource hold; 19:11:30Z is a capacity boundary, not an admission or finish promise. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch. TEST access and privacy inputs can move completion. No live publication."
   }
 }
