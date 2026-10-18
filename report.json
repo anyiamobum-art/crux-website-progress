@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The four causal checks finished at 15:10Z: each failed with its protection removed and passed after exact restoration. The keeper stopped the repeated empty-queue wait at 15:13Z, compacted the same writer at 15:15Z and placed its continuation at 15:16Z. Actual resume START is still owed; both coverage findings and one normally queued remote proof remain with that writer.",
+  "workerState": "Actual same-session resume succeeded at 15:33:59Z. The original writer read the combined brief, verified the source head and inspected the finding’s test code by 15:34Z. The duplicate brief is parked. No new remote proof has started yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "All four causal checks finished with failing sabotages and passing exact restoration at 15:10Z. The same writer’s native compaction completed at 15:15Z; continuation placement followed at 15:16Z, while actual START is still owed. The separate signed-checkout documentation correction arrived at 15:11Z and changes only one line; its 361 passing cases and 66 passing causal checks remain applicable. Its original stack repair has started; publication remains pending.",
+  "lastActualProgress": "The original writer resumed and inspected the finding’s source at 15:34Z. Separate signed-checkout documentation completion landed at 15:34Z; only its documentation changed, retaining the 361-case/66-check proof. The existing stack’s single keeper proof passed at 15:27Z with 107 cases and 44 causal checks; its original push and final named review remain pending.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Ordinary C10 desktop rendering now covers both contexts: signed-in populated drawer/full bag/PDP at21:43Z–21:46Z, then anonymous empty bag/Explore/sign-in prompt/drawer Close and focus/PDP at22:06:35Z–22:09:57Z. All28 saved artifacts across the two receipts match their hashes. Owned browsing contexts were closed and the original profile/cart stayed untouched. This does not prove native200%, a mounted proposal/add journey, private capabilities or a final score."
   ],
   "remaining": "The revised bag-control repair still needs passing remote browser and regression results. Native checks await the next qualified resource window. Permitted private test access, privacy facts and final acceptance remain open.",
-  "current": "The keeper recovered the original writer from the obsolete empty-queue wait, compacted the same session and placed its continuation. The next result is actual resumed work on the two coverage findings and the required remote proof.",
+  "current": "The original writer has resumed in the same session and is inspecting the two test-coverage findings. Its existing source and causal proof are retained; corrected remote proof is next.",
   "next": "Consume the original control proof and report, preserving exposed-tap checks and ordinary support availability. The keeper retains first-Draft custody; ordinary reviews, merge and one unpublished-draft installation follow a qualifying result. Consume the separate original Checkout publication without starting another writer.",
-  "updated": "2026-10-18T15:19:20.465165+00:00",
+  "updated": "2026-10-18T15:37:28.165864+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -252,7 +252,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; planned 20 min active source/proof, exceeded because of remote waits and failed checks). The four causal checks finished at 15:10Z: each failed with its protection removed and passed after exact restoration. The keeper stopped the repeated empty-queue wait at 15:13Z, compacted the same writer at 15:15Z and placed its continuation at 15:16Z. Actual resume START is still owed; both coverage findings and one normally queued remote proof remain with that writer. Original reviews, merge and draft installation remain pending. Next launch reconciliation by 15:31Z; original wait 10:43Z and correction wait 14:19Z are retained."
+        "text": "In progress — Repair WhatsApp over Add a note and enlarged Checkout through the original writer (started 12:33Z; resumed 15:34Z; est. 20 min active correction and proof, with remote queue time unknown). The original estimate was exceeded by failed checks and an obsolete empty-queue wait. The keeper recovered the same session and parked the duplicate brief; actual resumed source inspection began at 15:34Z. The two coverage corrections and one normal remote proof are now with that writer. Original reviews, merge and draft installation follow a qualifying result. Next progress disposition 15:49Z; original source wait 10:43Z and correction wait 14:19Z are retained."
       },
       {
         "complete": false,
@@ -260,7 +260,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, source handoff 14:40Z; database proof completed 14:49Z). All 361 caller/cart/quote cases and 66 causal checks passed. Its one-line documentation correction arrived at 15:11Z; all other files are unchanged, preserving that proof. The existing stack’s final named review repair started at 15:11Z. Original Checkout publication remains pending; original source wait 12:05Z is retained. Finish estimate unknown; no capability activation."
+        "text": "In progress — Complete the existing signed-caller repair through its original owner (started 14:27Z, database proof completed 14:49Z; documentation completion landed 15:34Z). All 361 caller/cart/quote cases and 66 causal checks passed; only documentation changed afterward, preserving that proof. The existing stack’s named repair also passed its one keeper proof at 15:27Z: 107 cases and 44 causal checks. Its original owner must push and complete the final named review, then continue the existing publication sequence. Original source wait 12:05Z is retained; finish estimate unknown. No capability activation."
       },
       {
         "complete": false,
@@ -271,6 +271,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: completion time remains unknown. The same writer has been compacted and its continuation placed; actual resume and qualifying remote proof are next, with launch reconciliation by 15:31Z. Reviews and draft installation follow. Signed-checkout documentation is corrected; its original stack repair and publication remain pending. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
+    "landing": "Lands: completion time remains unknown. The original repair resumed at 15:34Z; allow about 20 min active correction/proof, with remote queue time unknown and next progress disposition 15:49Z. Reviews and draft installation follow qualifying proof. Signed-checkout source and documentation proofs await their original publication sequence. Allow 13 min for functional phone checks after a qualified start and 35 min for final reviews after dispatch; neither has a confirmed start. No live publication."
   }
 }
