@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original storefront writer resumed at 15:33:43Z through the supported holder route, ran the price probe remotely and waited on that same job. The original styling writer resumed at 15:41:00Z; parent proof was executing at 15:45Z and a remote atlas call ran at 15:53:52Z. No duplicate writer or remote job was started. Shopify draft 166627606744 remains unpublished; live theme 161299857624 is untouched.",
+  "workerState": "Both original writers have completed their bounded work. The price fix is local at 38d86cbc; the styling contract is 987e451a and its stacked caller is b832e141. The original keeper owns the next proof and publication actions. No product push, merge or draft installation is claimed. Draft 166627606744 stays unpublished; live theme 161299857624 is untouched.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Corrected styling source 8aa5f74bd1a799c340dd290651021a6de48a8f91 finished its remote keeper at 15:49:46Z: all 70 declared checks passed, focused suites passed 1 + 1 + 1 + 4, and atlas passed 147 with one skip; terminal exits were all zero. Root independently verified the exact keeper log. Final split proof remains ongoing. The storefront exploratory probe passed 20 checks at 15:50:32Z on e6921325; that is diagnosis, not final repair proof. The last fully served task-site source is ecede2d, verified at 15:13:47Z; source 6032a11, pushed at 15:29Z, is not yet verified served.",
+  "lastActualProgress": "At 16:21Z the price writer returned its clean, unpushed fix: the focused seven-test suite passes and its mutation regression fails then restores to green. Broader box checks retain eight failures at both old and new price rules. The styling split finished at 16:07Z: the child has exactly the already-proved 8aa5f74b file tree with 70/70 mutation checks; the separate parent still owes execution of its ten declared checks. The prior task-site snapshot 6032a11 was verified served at 16:16:07Z. Newer snapshot 911bedf is pushed and its original Pages deployment remains queued.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The styling split and storefront repair still need final proof, review, merge and draft installation. Native evidence, owner privacy facts and all three qualified final ratings remain outstanding. Separately, task-site source 6032a11 passed its Pages build and report checks but deployment was still waiting at 15:53Z during the GitHub Actions/Pages incident; no missing user approval was found.",
-  "current": "Both original writers have resumed. The storefront writer is investigating the price wrap through the cleared holder route. The corrected styling source has verified full remote proof; its chair-approved connected 668-line and 846-line split is in progress.",
-  "next": "Finish the original writers’ bounded repair and split proof, then obtain the required fresh review receipts. Code reviews, merge, unpublished-draft installation, iPhone acceptance and the same readers’ final named-fix checks remain separate steps.",
-  "updated": "2026-10-19T15:58:29Z",
+  "remaining": "The storefront split has six cart-width and two Choose-size tap failures. Both old and corrected price rules produce the same failures; the price edit did not introduce them. They remain open checks, not a pass. The chair and original keeper have the exact report. Styling still needs parent proof, receipts and review. Native evidence, owner privacy facts and all three qualified final ratings remain outstanding.",
+  "current": "The original writer completed the price-wrap fix. Its focused regression passes, but eight broader checks fail on the current split, so it is not ready to merge. The styling split is complete and has moved to the original keeper for proof, review receipts and publication.",
+  "next": "Resolve the eight split-dependency failures through the original writers, preserving the chair’s split ruling and review history. In parallel, finish the styling contract’s remaining proof, then open its parent and stacked child for normal review. Merge and install approved source into the unpublished draft before native acceptance and the three original final named-fix checks.",
+  "updated": "2026-10-19T16:24:03Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -287,8 +287,12 @@
         "text": "Completed — Dispose the four fresh self-review findings, push the admitted repair once and mark it Ready (11:36Z–11:45Z, took 9 min). The published PR body records all four dispositions. The pushed a4223eea head matches the chair’s candidate size admission; the terminal keeper has 365 passing tests and 211/211 mutation checks."
       },
       {
+        "complete": true,
+        "text": "Completed — The original writer repaired price wrapping and proved its focused regression (15:33Z–16:21Z, took 48 min). Seven focused checks pass and the causal mutation fails then restores to green. The wider run found eight pre-existing split-dependency failures; this completes the scoped repair, not review or release."
+      },
+      {
         "complete": false,
-        "text": "In progress — The original storefront writer fixes the price wrap and prepares proof through the cleared holder route (started 15:33:43Z, est. 20 min for bounded repair/proof; original release wait since 11:45Z preserved). The same remote exploratory job passed 20 checks at 15:50:32Z on e6921325; this is diagnosis, not final fix proof. The 15:54Z estimate has passed and completion is unconfirmed; obtain the existing attempt’s result before review, merge and draft installation. Review duration remains unknown."
+        "text": "Waiting — Resolve the six cart-width and two Choose-size tap failures through the original keeper and writers (waiting since 16:21Z; original release wait since 11:45Z preserved; next reconciliation about 16:42Z). The chair’s existing split ruling is retained; no failed assertion is weakened. Repair and review duration remain unknown."
       },
       {
         "complete": true,
@@ -303,18 +307,26 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       },
       {
+        "complete": true,
+        "text": "Completed — The original styling writer completed the connected 668-line contract and 846-line caller split (15:41Z–16:07Z, took 26 min). The caller’s file tree exactly matches the source with 70/70 verified mutation checks. Parent tests and atlas passed; ten declared parent mutation checks still need execution."
+      },
+      {
         "complete": false,
-        "text": "In progress — The original styling writer prepares the approved connected 668-line and 846-line split and its final proof (started 15:41:00Z, est. 20 min for bounded split/proof preparation; original wait since 12:05:53Z preserved). Full corrected-source proof at 8aa5f74b is independently verified: 70/70 declared checks passed, focused suites passed 1 + 1 + 1 + 4, and atlas passed 147 with one skip; terminal completion was 15:49:46Z. Parent proof was executing at 15:45Z and a remote atlas call ran at 15:53:52Z; final split proof, review receipts, merge and installation remain open."
+        "text": "Waiting — The original keeper owes the styling parent proof and both review receipts, then publishes each branch once (handoff 16:15Z; execution not yet verified; est. 20 min after the keeper starts; next reconciliation about 16:35Z). Child review follows the parent. Review and merge duration are unknown."
       },
       {
         "complete": true,
         "text": "Completed — Publish the corrected caller queue and admission state to the task report (12:43Z–12:45Z, took 2 min). The matching Pages build passed and both served files exactly match the pushed source. Snapshot d9c6ad3 retains the product state verified at12:43Z."
       },
       {
+        "complete": true,
+        "text": "Completed — Verify the prior task-site deployment and both served files (16:15Z–16:16Z, took 1 min): source 6032a11 matches the public site."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Verify the existing task-site Pages deployment and served bytes (source 6032a11 pushed 15:29Z; observed waiting at 15:53Z; first wait time unknown; next check after the existing deployment changes). Build and report checks passed; no reviewers, wait timer or missing user approval were found, and main is allowed. GitHub reports an Actions/Pages incident beginning 15:49Z. Last fully served source ecede2d was verified 15:13:47Z; this prepared update is not published. Finish estimate unknown."
+        "text": "Waiting — Verify the newer task-site snapshot’s original Pages run (911bedf pushed 16:01Z; still queued at 16:22Z; next check on a changed deployment). GitHub Actions/Pages is experiencing an incident; no user approval is missing. This snapshot adds the completed repair reports; publication and served-file verification are recorded separately."
       }
     ],
-    "landing": "Lands: next original repair/proof disposition about 16:19Z (about 17 min from this update; remote proof or writer findings may move it). The storefront’s initial 20-minute estimate passed while its remote probe ran; the final repair remains in progress. Overall review, merge, draft installation, native evidence, privacy facts and final ratings have unknown duration. GitHub is delaying the task-site deployment. No live Shopify publication is authorized."
+    "landing": "Lands: next original keeper disposition about 16:42Z (about 18 min from this update; failed dependency checks and remote proof may move it). The initial price estimate was exceeded because the writer compared the eight broader failures against the old rule. Overall review, merge, draft installation, native acceptance, privacy facts and final ratings have unknown duration. No live Shopify publication."
   }
 }
