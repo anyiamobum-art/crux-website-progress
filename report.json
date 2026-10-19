@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4580 is Draft at 38d86cbc; the chair’s repair grant is verified, but the original writer’s new execution is not yet verified. #4612 is Ready at 987e451a with failed hosted and holder checks. The same styling writer finished the saved-looks repair at 37d6de28; it is not pushed. The keeper received the changed-state handoff at 17:28Z. No new product merge or Shopify installation is claimed.",
+  "workerState": "#4580 remains Draft at 38d86cbc; the original writer’s bounded repair was placed once at 17:33Z. Styling contract #4612 is Ready at 987e451a and its holder gate passed at 17:35Z. UI #4613 is Draft at 37d6de28, stacked on #4612. No new product merge or Shopify installation is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original styling writer finished the newest-first saved-looks correction with focused proof; all 71 causal checks are declared, with full execution still owed. At 17:16Z the chair returned the storefront repair ruling and current size admission. At 17:28Z the coordinator reconciled both current PRs and routed the exact holder and hosted failures through the original keeper. The previous task-site snapshot was independently verified served at 16:41Z.",
+  "lastActualProgress": "The styling UI’s keeper completed seven focused tests, 147 atlas checks with one skip and all 71 causal checks at 17:21Z. Its clean self-review returned at 17:23Z; the original keeper pushed it once and opened #4613. The holder acceptance for #4612 passed at 17:35Z. The existing price-layout writer is queued, and the upstream test failure was delivered to its original owner. The prior task-site update was verified served at 17:37Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Price-wrap correction 38d86cbc is pushed; the chair has authorized its remaining dependency repair. Styling contract #4612 has green focused proof but a holder mismatch and an upstream hosted test failure. The corrected saved-looks UI at 37d6de28 is local and awaits its 71-check keeper. None of these steps changes the frozen final ratings.",
+      "Price-wrap correction 38d86cbc is pushed; its authorized dependency repair is queued with the same writer. Styling contract #4612 has its holder gate restored but an upstream hosted test failure still needs diagnosis. The corrected saved-looks UI passed all 71 causal checks and is stacked Draft #4613. These source gates do not change the frozen final ratings.",
       "Original-owner final repair/split proof and fresh receipts, code reviews and merge, unpublished-draft installation, retained rendered samples, admitted native checks and final named-fix checks by the same readers."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "#4580 still has eight layout failures to resolve under the chair’s new ruling. #4612 has a holder-record mismatch and a failing report-watch test introduced upstream; the cause has not yet been diagnosed by its original owner. The corrected styling UI still needs exact-source keeper proof and publication. Native acceptance, privacy facts and the three qualified final ratings remain open.",
-  "current": "The chair has authorized the final dependency repair for #4580 and admitted its current size. The price-wrap correction is already on that Draft. Styling contract #4612 is Ready but blocked by a holder-record mismatch and a failing upstream test; both are routed to the existing keeper. The saved-looks UI correction is finished locally and awaits its final keeper proof.",
-  "next": "The original storefront writer makes the split pass on its own under the chair’s named-fix ruling. The existing keeper executes all 71 styling UI mutation checks, refreshes its receipt and opens the stacked PR. Resolve the styling contract’s holder and upstream-test blockers, complete protected reviews and merges, then install only in the unpublished draft and finish the retained iPhone checks and original final ratings.",
-  "updated": "2026-10-19T17:29:38Z",
+  "remaining": "The price-layout writer is queued behind the existing resource cap. Styling contract #4612 still has an upstream hosted test failure requiring diagnosis. The saved-looks UI #4613 awaits its parent’s review and merge. Native acceptance, privacy facts and all three qualified final ratings remain open.",
+  "current": "The chair has unblocked the remaining price-layout repair and its original writer is queued. Styling contract #4612 now has its holder acceptance; its upstream test failure is with the original test owner. The corrected saved-looks UI passed all 71 causal checks and opened as stacked Draft #4613.",
+  "next": "Complete the original price-layout repair, box proof and one push, then the chair’s exact-head admission and review. Diagnose the styling contract’s upstream test failure through its original owner and complete review of #4612, followed by #4613. Merge approved source, install only in the unpublished draft, then complete original iPhone acceptance and final named-fix ratings.",
+  "updated": "2026-10-19T17:38:34Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -292,7 +292,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Carry the chair-authorized dependency repair through the original storefront writer, box proof and one push (grant received 17:16Z; coordination started 17:28Z; est. 25 min after writer execution starts). The eight failures remain real. The parent must pass the small-screen product-bar test and no longer depend on its child’s cart styles; no assertion is weakened. Original release wait since 11:45Z is preserved."
+        "text": "Waiting — Original storefront writer completes the chair-authorized layout repair, box proof and one push (placed 17:33Z; queued behind the existing resource cap; est. 25 min after execution starts). The parent must pass the small-screen product-bar test and carry no check requiring its child’s cart styles. Eight original assertions are retained. Next keeper disposition about 17:45Z; original release wait since 11:45Z preserved."
       },
       {
         "complete": true,
@@ -319,8 +319,16 @@
         "text": "Completed — Correct the saved-looks recency claim through the original styling writer (16:36Z–16:50Z, took about 14 min). Local head 37d6de28 orders the latest four by saved time and passed focused behavior and causal regression checks. It has not been pushed."
       },
       {
+        "complete": true,
+        "text": "Completed — Prove the corrected styling UI and publish its stacked Draft (17:12Z–17:27Z, took 15 min). Exact head 37d6de28 passed seven focused tests, 147 atlas checks with one skip and all 71 causal checks; self-review found no issue. #4613 follows #4612."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Restore the styling contract’s original holder acceptance (17:29Z–17:35Z, took 6 min). The holder check is verified green at 987e451a."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Execute the corrected styling UI’s 71 causal checks, refresh its self-review and publish the stacked PR through the existing keeper (result available about 16:50Z; routed 17:28Z; est. 15 min after keeper start). Parent #4612 separately needs its original holder acceptance and upstream test diagnosis. Next original-keeper inspection about 17:45Z."
+        "text": "Waiting — Resolve the styling contract’s upstream hosted test failure and finish both original reviews (failure observed 17:01Z; sent to its original test owner 17:34Z; next disposition about 17:45Z). The keeper had already rerun the failed jobs before reading the no-rerun request; that result will not be treated as a diagnosis. No assertion is weakened."
       },
       {
         "complete": true,
@@ -336,9 +344,9 @@
       },
       {
         "complete": false,
-        "text": "In progress — Publish and verify this changed-state task report (started 17:29Z, est. 5 min; hosted deployment may take longer). Keep the final-release counts unchanged until their acceptance evidence passes."
+        "text": "In progress — Publish this verified repair-and-review update (started 17:39Z, est. 5 min). The previous snapshot 281bdb3 is verified publicly served at 17:37Z; release counts remain unchanged until acceptance passes."
       }
     ],
-    "landing": "Lands: next keeper disposition about 17:45Z (about 15 min from this update; original writer placement, remote proof and hosted checks may move it). Final review, merge, draft installation, native acceptance, privacy facts and ratings have unknown duration. No live Shopify publication."
+    "landing": "Lands: next keeper disposition about 17:45Z (about 6 min from this update; resource capacity, the original repair and hosted review may move it). Final merge, draft installation, native acceptance, privacy facts and ratings have unknown duration. No live Shopify publication."
   }
 }
