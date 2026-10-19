@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original saved-looks writer completed and pushed its one named privacy fix at 6bbab202. The original layout writer began the chair’s split at 19:44Z and remains active. The bag keeper started at 19:32Z, passed seven test files and is executing its 217 mutation checks. No new Shopify installation or feature activation is claimed.",
+  "workerState": "Original Hands keeps the layout and arrow release work. The completed bag keeper passed all 217 mutation checks at 20:02Z. The dependent styling server change #4620 is merged; the five shared panel files were handed back to the existing writer after both merge and content checks. No second writer or review was started.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Bag follow-up 09cc17e3 is complete locally. The original writer is separating #4580’s layout and arrow groups. Saved-looks 6bbab202 corrects the sole privacy-copy finding and is pushed. The next styling follow-up keeps its original dependency and file-custody requirements."
+      "evidence": "The layout/arrow split is complete. Layout a382cd28 answers both named findings; arrow 2d3be224 needs two missed script arrows fixed. Bag source09cc17e3 is prepared and verified, awaiting reconciliation with the revised parent."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Current saved-looks head passes 62/62 mutation checks; four hosted suite shards pass and one is running. Bag keeper: 249 tests pass across seven files, with 84 skips; full 217 mutation checks are running. Browser skips do not establish WebKit or native acceptance."
+      "evidence": "Layout keeper: all five full-bag cases pass, shell8/8 and181/181 mutation checks. Bag keeper:249 tests pass with84 recorded skips and217/217 mutations. Arrow keeper:47/47 mutations and15 Liquid suites pass; named review repair remains. Browser skips do not establish native acceptance."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "#4612 passed review and merged. #4613’s Round 1 privacy fix is pushed; its old receipt blocks admission, so the original custodian must refresh the receipt and description. No passing new verdict is claimed. #4580’s chair-ordered smaller split is running. All three final design ratings remain unqualified."
+      "evidence": "Styling #4613 passed Round2 and merged20:15Z. Layout #4580 is in its final Round3 named-fix review; arrow #4618 has one Round1 finding with its original writer. No design rating has reached the requested threshold."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Prior #4556, quantity, subtotal and direct-order repairs remain installed in the unpublished draft with exact stored-byte and settings-preservation receipts. The new layout, saved-looks and bag changes are not installed. No live publication or C07/C10 activation has occurred."
+      "evidence": "Prior quantity, subtotal, direct-order and bag-control repairs remain installed in the unpublished draft. New layout, arrows, styling and bag follow-up installation remains unverified. Live publication and feature activation are excluded."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Saved-looks proof now includes 62/62 executed mutation checks and four passing hosted test shards; the fifth shard is still running. The sole review finding is corrected in source, but it has not received a passing new verdict. The prepared PR description identifies the new source and preserves prior proof as historical. Bag verification has passed 249 tests across seven files, with 84 recorded skips; its full mutation phase is still running.",
+  "lastActualProgress": "Styling repair merged at 20:15Z with the corrected privacy notice. Layout repair pushed at 23:43Z: its five failing full-bag cases now pass, and its product-bar header guard has an executed regression. The independent keeper passed 181 mutation checks. The arrow keeper passed 47 checks; review subsequently identified two missed script arrows.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Styling contract #4612 is merged. Saved-looks repair 6bbab202 is pushed and passes 62/62 mutation checks; its receipt needs updating before admission. The original #4580 split and bag keeper are running.",
-      "Finish original exact-source verification, review and merge; install in the unpublished draft; complete admitted native checks and final named-fix checks by the same readers."
+      "Styling contract and caller #4612/#4613 are merged; all 12 caller files match the reviewed source. Layout #4580 is in its final named-fix review; arrow #4618 is with its original repair writer. Bag verification passed 217 mutation checks.",
+      "Finish the remaining original reviews and integration, install only in the unpublished draft, then complete the original native and final named-fix checks."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Saved-looks admission fails only because the receipt still belongs to the earlier diff; no extra code push is needed for that correction. The layout split and bag verification are running. Native acceptance, provider privacy facts and all three qualified final ratings remain open.",
-  "current": "The saved-looks privacy correction is pushed at 6bbab202 and all 62 mutation checks pass. Review admission still needs its self-review receipt updated to the new source; the original custodian has the prepared description. The layout/arrow split is running through its original writer, and the completed bag follow-up is in independent verification.",
-  "next": "Refresh the saved-looks receipt and description, then consume the existing review and final hosted checks. Complete the original layout/arrow split and its verification. Merge qualified changes, install only in the unpublished draft, then finish the original iPhone checks and final named-fix ratings.",
-  "updated": "2026-10-19T19:58:00Z",
+  "remaining": "Layout review and hosted checks are running. Arrow cleanup needs the two missed script arrows corrected by its existing writer. The bag follow-up must integrate the revised layout before its own publication. Native acceptance, provider privacy facts and all three qualified ratings remain open.",
+  "current": "The saved-looks repair #4613 has passed review and merged; all 12 reviewed files match the merge. The layout repair #4580 is pushed at a382cd28 for its final named-fix review. Arrow cleanup #4618 has one named fix with its original writer.",
+  "next": "Finish the existing layout and arrow reviews, then reconcile the bag follow-up through its original writer. Verify the eligible merged source for the unpublished draft. Complete the original iPhone checks and final named-fix ratings after the integrated repairs are installed.",
+  "updated": "2026-10-19T23:56:45Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -351,20 +351,20 @@
         "text": "Completed — Correct the styling desk’s privacy wording through its original writer and push once (19:33Z–19:44Z, took 11 min). Source 6bbab202 states that submitted descriptions are retained even without Save. The old sentence fails the rendered regression; exact restoration passes. This is the single named Round 1 fix."
       },
       {
-        "complete": false,
-        "text": "In progress — Refresh the original self-review receipt and PR description for the corrected styling source, then finish review and merge (started 19:53Z, est. 12 min for the next disposition). Admission currently fails only because its receipt describes the old diff; four hosted test shards have passed and one is still running. No extra code push or duplicate review."
+        "complete": true,
+        "text": "Completed — Refresh the styling receipt, pass its original review and merge (19:53Z–20:15Z, took22 min). Genuine receipt7c05c09f replaced the stale receipt; Round2 approved; all12 approved files match mergec7a9366f. The original estimate was exceeded by10 min while the receipt and review completed."
       },
       {
         "complete": true,
         "text": "Completed — Restore the bag width cases and verify the retained layout repair (18:47Z–19:15Z, took 28 min). Clean local source 09cc17e3 passes all 12 width checks, 19 shell checks and 66 Small200 checks, including the five full-bag overlap cases. The suites retain 18 and 65 WebKit skips; native acceptance is still owed. This source is not pushed or installed."
       },
       {
-        "complete": false,
-        "text": "In progress — Split #4580 through the original holder, verify both parts and publish each once (started 19:44Z, est. 40 min for the source disposition). The same writer keeps layout, companion and Big Bag in #4580 and moves the arrow sweep to one new Draft; the chair marks each Ready after green checks."
+        "complete": true,
+        "text": "Completed — Split layout and arrows through the original holder (19:44Z–20:12Z, took28 min). The layout remains #4580; the arrow change is #4618. Both have since entered the original review route."
       },
       {
-        "complete": false,
-        "text": "In progress — Qualify the completed bag follow-up through its original keeper (started 19:32Z, est. 30 min for the current proof). All seven test files have passed with their recorded skips; the 217 mutation checks are executing. Its source must be reconciled with the revised parent before publication; it remains behind #4580."
+        "complete": true,
+        "text": "Completed — Qualify the prepared bag follow-up through its original keeper (19:32Z–20:02Z, took30 min). Seven files passed249 tests with84 recorded skips; all217 mutation checks passed. Original parent integration and a fresh release receipt remain separate."
       },
       {
         "complete": true,
@@ -381,8 +381,36 @@
       {
         "complete": true,
         "text": "Completed — Publish and verify the preceding repair-and-review update (18:26Z–18:27Z, took 1 min). Snapshot ed03b86 matched both public files after its matching Pages build succeeded. Release counts remain unchanged until the remaining acceptance passes."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Repair the layout review’s two findings and push once (22:00Z–23:43Z, took103 min including verification and receipt). All five failing bag cases now pass and the header guard has a CI regression."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Finish the final layout review and hosted checks (since23:43Z; next check00:20Z). Preserve the third-round limit; a rejection returns to the chair."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Correct the two script arrows missed by the sweep, through its original writer (placed23:44Z, next disposition00:20Z; est.25 min after execution starts). Review and merge follow the existing lane."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Reconcile and release the verified bag follow-up after the layout merges (waiting since20:02Z; est.25 min after the parent is qualified)."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Verify both styling dependencies and hand back the five shared panel files (23:55Z–23:55Z, took less than1 min). Both merges are on main; all five files match the reviewed caller. This is custody release, not feature activation."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Verify the merged styling installation path for the unpublished draft (started23:56Z, est.15 min). Read back the existing theme and settings before any scoped installation."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Update and verify the public task snapshot (started23:56Z, est.5 min)."
       }
     ],
-    "landing": "Lands: next receipt/review disposition about 20:05Z (about 10 min left; the original custodian and hosted review may move it). The layout split began at 19:44Z, so its source estimate is now about 20:24Z. Final merge, draft installation, iPhone acceptance, privacy facts and ratings remain unscheduled. No live Shopify publication."
+    "landing": "Lands: public update about00:01Z (5 min from the23:56Z start); installation disposition about00:11Z (15 min from that start). Review and original-writer completion may move the remaining merge dates. Final iPhone acceptance and ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
