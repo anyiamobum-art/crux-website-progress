@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original keeper has both jobs in flight. #4580 is checking b29acd82; #4613 is checking 21ac1538 after a normal merge of current main. Their remote PRs still show the earlier Draft heads until those checks and fresh receipts finish. No duplicate job, Shopify installation or feature activation is claimed.",
+  "workerState": "#4580 is pushed at b29acd82 after its terminal verification and fresh receipt. #4613 is pushed and Ready at 21ac1538 after its terminal verification and a clean fresh receipt. The original bag writer resumed at 18:47Z for the retained child change. No new Shopify installation or feature activation is claimed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Both original writers are executing the retained repairs. The storefront holder was cleared; the price-wrap probe is diagnostic only. Corrected styling source 8aa5f74b has full remote proof and its approved connected split is in progress. No split publication, merge or installation is verified. Previously installed #4556 and its prior repairs remain unchanged."
+      "evidence": "Layout repair b29acd82 and saved-looks UI 21ac1538 are committed and pushed. Styling contract #4612 is merged; #4613 is Ready. The original writer has resumed the remaining bag layout, with its width checks intact; the arrow remainder keeps its separate original owner. New theme installation remains pending."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Corrected styling source 8aa5f74b: 70/70 declared remote checks passed, focused suites 1 + 1 + 1 + 4 passed, atlas 147 passed and one skipped; exact terminal keeper independently verified. Final split proof remains open. The storefront e6921325 exploratory probe passed 20 checks; this is not final repair proof. Quantity source 42b96267: 146 tests and 17/17 causal checks passed, with 100 WebKit tests skipped. All five hosted shards and the test gate succeeded by 01:32:58Z; required checks were green before normal merge. Remote Chromium proof does not establish WebKit or native acceptance. Retained C10, small-device and C02 proof remains source-bound; C02 passed 6/6 and was restored OFF."
+      "evidence": "Layout head b29acd82 passed its selected Chromium and source checks, atlas and 198/198 mutation checks. Saved-looks head 21ac1538 passed seven focused tests, 147 atlas checks with one skip and 61/61 mutation checks. Its hosted test shards are running. Five full-bag overlap cases remain assigned to the original bag follow-up. Browser skips do not count as WebKit or native acceptance; C02 retains its separate 6/6 receipt and is OFF."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "#4534 has both original first/critical approvals. #4535 followed its standard merged lane with one original first approval; no second is invented. These code reviews are separate from the three final design ratings."
+      "evidence": "Styling contract #4612 passed review and merged. #4613 is Ready for its original review after verified proof; no verdict is claimed yet. #4580 has an exact-head chair admission but a later size report disagrees, so the chair owns that disposition and Ready. Its CI-coverage finding remains disclosed. All three final design ratings remain below the qualified completion threshold."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "#4556 installed once18:57Z, exact stored readback18:58:43Z and preservation18:59:34Z; all687 draft and539 live records/settings preserved. Prior quantity, subtotal and direct-order repairs remain installed. C10 isOFF."
+      "evidence": "The prior #4556, quantity, subtotal and direct-order repairs are installed in the unpublished draft with exact stored-byte and settings-preservation receipts. The new layout and saved-looks changes have not been installed. No live publication or C07/C10 activation has occurred."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 18:24Z, the layout keeper had passed its selected Chromium and source checks plus 147 atlas tests, with browser skips recorded; its 198 selected mutation checks were executing. The original keeper confirmed saved-looks main integration at 18:19Z; the local tree is clean at 21ac1538, with 862 changed lines in 12 files. The preceding task-site snapshot was verified publicly served at 18:05Z.",
+  "lastActualProgress": "The layout verification finished at 18:33Z with all 198 selected mutation checks passing; its fresh receipt and one push followed. Saved-looks verification finished at 18:43Z with seven focused tests, 147 atlas tests and 61 mutation checks passing, one atlas skip; a fresh receipt reported no finding and the PR became Ready at 18:47Z. The original bag follow-up resumed at 18:47Z. The preceding task-site snapshot was verified served at 18:27Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Styling contract #4612 passed review and merged; all five files match. Product-bar repair b29acd82 is in its original full selected verification. Saved-looks UI #4613 has merged current main at 21ac1538 and its original verification job is running. Five full-bag overlap checks remain recorded for the cart-style change.",
+      "Styling contract #4612 passed review and merged; all five files match. Product-bar repair b29acd82 passed its original verification and awaits the chair’s size-read disposition before Ready. Saved-looks UI #4613 passed verification at 21ac1538, is Ready and has hosted checks running. Five full-bag overlap checks remain recorded for the cart-style change.",
       "Original exact-head proof and receipts, code reviews and merge, unpublished-draft installation, retained rendered samples, admitted native checks and final named-fix checks by the same readers."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Verification is executing, so neither new local head has final proof or a new review verdict yet. Five full-bag overlap checks remain open in the cart-style follow-up. Native acceptance, privacy facts and all three qualified final ratings remain open.",
-  "current": "The styling contract is merged. Both original verification jobs are now running: the product-bar repair has passed its selected browser and source checks and is executing the full selected mutation checks; saved-looks PR #4613 has been merged with current main and its remaining change is 862 lines.",
-  "next": "Finish both existing verification jobs, refresh their self-review receipts and push each exact repair once through its original keeper. Take both through independent code review and merge; retain the cart-width and WhatsApp-overlap repairs in their assigned follow-up. Install approved source only in the unpublished draft, then complete the original iPhone checks and final named-fix ratings.",
-  "updated": "2026-10-19T18:26:04Z",
+  "remaining": "#4580 awaits the chair’s disposition of the later size read and Ready; its earlier Draft-only test gate did not execute a suite. #4613 awaits hosted checks and independent review. The bag follow-up is in progress. Native acceptance, privacy facts and all three qualified final ratings remain open.",
+  "current": "Both original verification jobs passed and each repair was pushed once. Saved-looks #4613 is Ready with hosted checks running. The chair has admitted layout repair #4580 at its exact head, but a later size read disagrees with that grouping; its disposition and Ready are with the chair. The original bag-repair writer has resumed the assigned follow-up.",
+  "next": "Resolve the size-review disagreement through the chair and take #4580 through its original code review. Complete #4613 hosted checks and review. Continue the original bag repair with the six restored width cases and five recorded overlap failures. Merge approved changes, install only in the unpublished draft, then complete original iPhone checks and final named-fix ratings.",
+  "updated": "2026-10-19T18:50:19Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -295,8 +295,12 @@
         "text": "Completed — Finish the original product-bar layout repair (17:38Z–18:02Z, took about 24 min). Seven product-bar checks and thirteen shell checks pass on Chromium; the causal revert restores the two failures and the exact source restores green. The six cart-width cases are assigned intact to the cart-style change; five further bag-overlap failures remain open there."
       },
       {
+        "complete": true,
+        "text": "Completed — Qualify and push the original layout repair once (18:15Z–18:38Z, took 23 min). The existing keeper passed its selected browser and source checks, atlas and all 198 mutation checks; fresh receipt and published head b29acd82 are verified."
+      },
+      {
         "complete": false,
-        "text": "In progress — Qualify and publish the original local layout repair, then obtain exact-head admission and review (started 18:15Z; original wait since 18:02Z; est. 20 min for proof and receipt). Selected browser and source checks and atlas have passed; the 198 selected mutation checks are executing in the same original job. The keeper then owns one push, a fresh size binding and review. Next inspection about 18:35Z; review duration is not included in that estimate."
+        "text": "Waiting — Resolve the later size-read disagreement and mark layout repair Ready through the chair (waiting since 18:47Z; next check 19:10Z; est. 5 min after the ruling). The chair’s exact-head size grant predates the dissenting size read. Hosted source checks and guards passed; the Draft test gate skipped its suite. The disclosed coverage finding remains for its code review."
       },
       {
         "complete": true,
@@ -339,8 +343,16 @@
         "text": "Completed — Merge current main into the saved-looks UI without rebasing (17:59Z–18:19Z, took about 20 min). Clean local head 21ac1538 contains only the remaining 862-line, 12-file child change. The parent is already merged."
       },
       {
+        "complete": true,
+        "text": "Completed — Qualify the integrated saved-looks UI, refresh its receipt, push once and mark Ready (18:18Z–18:47Z, took 29 min). Exact head 21ac1538 passed seven focused tests, 147 atlas tests with one skip and all 61 selected mutation checks; the fresh receipt found no issue."
+      },
+      {
         "complete": false,
-        "text": "In progress — Qualify the integrated saved-looks UI, refresh its receipt and take it through review (running by 18:19Z; original dependency cleared 17:50Z; est. 20 min for proof and receipt). The original keeper owns the existing job and one push after proof. Next inspection about 18:35Z; a review finding may extend delivery."
+        "text": "In progress — Finish saved-looks hosted checks and independent review, then merge (started 18:47Z, est. 30 min for the next disposition). Five hosted test shards are running and admission passed; a review finding may extend delivery."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Repair the retained bag layout through its original writer (resumed 18:47Z, est. 40 min for source and focused proof). Keep the six width cases intact, address the five recorded WhatsApp-overlap failures and preserve the separate arrow follow-up. This child becomes Ready only after its parent."
       },
       {
         "complete": true,
@@ -356,9 +368,9 @@
       },
       {
         "complete": true,
-        "text": "Completed — Publish and verify the preceding repair-and-review update (18:03Z–18:05Z, took 2 min). Snapshot 687db33 matched both public files after its matching Pages build succeeded. Release counts remain unchanged until the remaining acceptance passes."
+        "text": "Completed — Publish and verify the preceding repair-and-review update (18:26Z–18:27Z, took 1 min). Snapshot ed03b86 matched both public files after its matching Pages build succeeded. Release counts remain unchanged until the remaining acceptance passes."
       }
     ],
-    "landing": "Lands: next verification disposition about 18:35Z (about 7 min left; mutation execution or a named finding may move it). The earlier 18:17Z checkpoint was passed while verification started. Final review, merge, draft installation, native acceptance, privacy facts and ratings have unknown duration. No live Shopify publication."
+    "landing": "Lands: next admission/review disposition about 19:10Z (about 20 min left; the chair’s ruling or hosted checks may move it). Bag-repair source is estimated around 19:27Z. Final merge, draft installation, native acceptance, privacy facts and ratings still have unknown duration. No live Shopify publication."
   }
 }
