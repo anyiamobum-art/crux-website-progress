@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Hands placed one split job at12:49:14Z; the launcher confirms write-box start at12:50:40Z under holder4580.2. Its brief requests Opus5.5/high; applied runtime is unexposed. The original F5 brief is held outside the inbox until part2 exists. The private-style caller remains queued, with the latest launcher wait at12:50:50Z. The P212 Mac allocation is not Website native admission; the original native owner retains seven unspent checks.",
+  "workerState": "The original box split ran12:50:40Z–12:57Z under holder4580.2 and stopped at the size boundary. Its brief requested Opus5.5/high; applied runtime is unexposed. No replacement job was opened. The F5 brief stays held. The private-style caller remains queued; latest verified launcher wait12:50:50Z. No Website native admission is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Independently verified the running split brief, its launcher start and holder claim, plus the held F5 brief. A live PR read still shows #4580 at a4223eea, draft, with1,517 changed lines. No split completion, per-part proof or new acceptance credit is claimed.",
+  "lastActualProgress": "Verified both commit parents, the 1,070/447 line counts and the child’s exact match to the original source tree. The local branch is clean but currently points to the child, so original Hands must select the parent before pushing. Delivered one exact chair-disposition request at13:04Z with a13:15Z deadline; delivery is verified, adoption remains pending.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Completed split and accepted reviews precede merge and draft installation. The private-style caller’s actual start remains unverified under the Mac admission hold. Fresh Website native admission, rendered acceptance, qualified final ratings and privacy facts remain open.",
-  "current": "The original keeper’s chair-approved split started on the box at12:50:40Z. It must produce shell/bag/companion and one stacked geometry/arrow change, each below 1,000 changed lines. Website #4580 remains a draft at a4223eea; the split result and per-part proof are pending. The earlier size admission lapses. Prior full tests and correctness passed; the newer draft-skipped test gate is red.",
-  "next": "Receive the same split job’s result and each head’s original keeper proof, then fresh reviews and merge. The child becomes Ready only after the parent. The original F5 remainder joins the child only within the size limit. The private-style caller remains queued through the existing keeper.",
-  "updated": "2026-10-19T12:54:20.153319+00:00",
+  "remaining": "The split parent exceeds the chair’s limit. Its exact disposition is due13:15Z through original Hands. New-head proof, accepted reviews, merge and draft installation remain ahead. The private-style caller’s start, fresh Website native admission, rendered acceptance, qualified final ratings and privacy facts remain unverified.",
+  "current": "The original split finished at12:57Z. Its shell/bag/companion parent is 1,070 changed lines, above the chair’s 1,000-line limit; its stacked geometry/arrow child is 447 lines. Together they reproduce the original source exactly. Original Hands now owns one request for the chair’s exact disposition. Website #4580 remains a draft at a4223eea; no new-head tests or push occurred.",
+  "next": "Receive the original chair’s exact parent size admission or permission for the bounded test partition. Original Hands selects the correct parent before pushing, obtains fresh remote proof and review for each head, and makes the child Ready only after the parent. The original arrow remainder stays held; the private-style caller stays in its existing keeper queue.",
+  "updated": "2026-10-19T13:06:05.579189+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -288,7 +288,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Carry the chair-approved split through the original keeper, fresh reviews, merge and unpublished-draft installation (original release wait since 11:45Z; split ruled 12:09Z; est. 30 min for source split and checks, review timing unknown). The original review ended without a verdict and the repair returned to draft. Hands must split the same commits into shell/bag/companion and one stacked geometry/arrow change, each under 1,000 changed lines. The old size admission lapses; each head receives its own review, and the child becomes Ready after the parent. The original arrow-writer remainder joins the child only if it stays under the limit. Hands placed one split job at12:49:14Z; the launcher confirms its box start at12:50:40Z under holder4580.2. The split result and each part’s proof remain pending. The original F5 remainder is held outside the inbox until part2 exists. Prior full tests and pin proofs passed; the newer draft-skipped gate is red. After merge and draft installation, complete overflow, four phone screenshots, same-tab account → same order → Back twice, rendered Big Bag glyph samples, seven native checks and the same readers’ final named-fix checks. Original wait ages remain."
+        "text": "Waiting — Obtain the original chair’s disposition, then carry the two source parts through the original keeper, fresh reviews, merge and unpublished-draft installation (original release wait since 11:45Z; split ran 12:50Z–12:57Z, took 7 min; disposition requested 13:04Z, next check 13:15Z; est. 30 min for admitted source and checks, review timing unknown). The parent is 1,070 changed lines and exceeds the 1,000-line contract; the child is 447 lines. Together they reproduce the original source exactly. Hands must obtain exact parent size admission or permission for the bounded test partition, then select the parent before pushing; the local branch currently points to the child. No new-head tests or push occurred. The original arrow remainder stays held. Each head needs fresh remote proof and review; child Ready follows parent. After merge and draft installation, complete the retained rendered, four-phone, same-tab account, glyph, seven native and original-reader acceptance checks."
       },
       {
         "complete": true,
@@ -311,6 +311,6 @@
         "text": "Completed — Publish the corrected caller queue and admission state to the task report (12:43Z–12:45Z, took 2 min). The matching Pages build passed and both served files exactly match the pushed source. Snapshot d9c6ad3 retains the product state verified at12:43Z."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The chair requires a source split before fresh reviews; the original box split is running from12:50:40Z, with result and each part’s proof pending. Prior full tests and correctness passed; the current draft-skipped gate is red. The original private-style caller is placed and queued, with no verified launch under the new Mac admission hold. Merge and unpublished-draft installation precede rendered/native checks and qualified final ratings; privacy facts remain outstanding."
+    "landing": "Lands: overall completion time remains unknown. The split finished at12:57Z, but its 1,070-line parent exceeds the chair’s limit. Original Hands owns the exact chair disposition due13:15Z, correct parent selection and subsequent proof/review. The private-style caller remains queued without a verified start. Merge and unpublished-draft installation precede rendered/native checks and qualified final ratings; privacy facts remain outstanding."
   }
 }
