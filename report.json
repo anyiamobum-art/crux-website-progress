@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#4590 merged as da895330 at 10:23Z; all 14 source files match the approved content, deployment succeeded at 10:28Z, and the original Chrome check verified the served source at 10:30Z. Website’s integrated proof remains 365 tests, 10 subtests and 208 mutation checks passed, with 149 browser skips; size admission and its 16-finding self-review receipt are verified.",
+  "lastActualProgress": "All 16 findings have dispositions in the PR body. The original writer completed a4223eea with the Keep looking arrow selector, full-arrow test and causal mutation check; the worktree is clean. Earlier integrated proof of 365 tests, 10 subtests and 208 mutation checks belongs to e327e1bf, with 149 browser skips. Checkout’s seven source-release checks remain verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Website’s original-owner disposition is overdue after the 10:39Z check; the existing destination is being inspected, with exact recovery or a named blocker due 10:53Z. Installation and fresh native admission, retained rendered samples, privacy inputs and current-draft tracking initiator verification remain open.",
-  "current": "Checkout repair #4590 is merged, deployed and verified in the served browser source: all seven source-release checks passed. Website repair #4580 remains Draft at e327e1bf. Its integrated proof and size admission are verified; the original holder must dispose of 16 self-review findings before Ready.",
-  "next": "The original Website holder resolves or records the disposition of the self-review findings, then completes Ready and ordinary review. Merge, unpublished-draft installation, retained rendered samples and admitted phone checks precede the same readers’ final named-fix checks.",
-  "updated": "2026-10-19T10:46:58.070868+00:00",
+  "remaining": "The completed original-writer report was returned through the existing owner route at 11:03Z; actual successor keeper START or a running job still needs verification. Installation and fresh native admission, retained rendered samples, privacy inputs and current-draft tracking initiator verification remain open.",
+  "current": "Checkout repair #4590 is merged, deployed and verified in the served browser source: all seven source-release checks passed. Website repair #4580 remains Draft remotely at e327e1bf. All 16 self-review findings are disposed, and the original writer completed the arrow repair at local a4223eea. The original sitewide arrow finding remains open: residual rendered-source arrows still need disposition and the required phone screenshots remain outstanding. Successor integrated proof remains unverified.",
+  "next": "The same Website holder reconciles the existing sitewide arrow scope and its successor proof job, completes the fresh receipt and size rebind, then pushes once for Ready and ordinary review. Merge, unpublished-draft installation, retained rendered samples and admitted phone checks precede the same readers’ final named-fix checks.",
+  "updated": "2026-10-19T11:12:08.457709+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -275,8 +275,12 @@
         "text": "Completed — Finish the integrated keeper on e327e1bf (09:38Z–10:02Z, took 24 min): 365 tests, 10 subtests and all 208 mutation checks passed; 149 WebKit or real-browser cases were skipped. The original holder pushed this exact source once to #4580 at 10:05Z."
       },
       {
+        "complete": true,
+        "text": "Completed — Dispose of all 16 self-review findings and finish the original writer’s arrow repair (10:47Z–10:55Z, took 8 min). Full PR paths and the size disposition are recorded; the inset finding has a source-based disagreement. The original writer completed a4223eea with the arrow fix, wider test and causal mutation check."
+      },
+      {
         "complete": false,
-        "text": "In progress — Resolve the original holder’s self-review findings on #4580, then complete Ready and ordinary review (receipt 10:20Z; disposition delivered 10:23Z and 10:25Z; missed 10:39Z check; exact recovery or named blocker due 10:53Z). Size admission and integrated proof are verified. Merge, unpublished-draft installation, remaining rendered samples and admitted native checks precede the same three readers’ final named-fix checks. First rating wait 13:34Z retained; completion time is unknown."
+        "text": "In progress — Resolve the original sitewide arrow finding through its existing owners, then reconcile and finish the original holder’s integrated proof on the resulting source, obtain its fresh receipt and size rebind, then push once for Ready and ordinary review (completed writer report returned at 11:03Z; actual successor job or START remains unverified; next existing check 11:18Z and holder commitment 12:00Z). The earlier 365 tests and 208 mutation checks apply to e327e1bf. Merge, unpublished-draft installation, retained rendered samples and admitted native checks precede the same readers’ final named-fix checks. Original 10:23Z/10:25Z disposition ages and first rating wait 13:34Z are retained; completion time is unknown."
       },
       {
         "complete": true,
@@ -291,6 +295,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. Checkout’s seven source-release checks are complete. Website proof and size admission are verified; the original holder owes disposition of the receipt’s findings before Ready, ordinary review, merge and unpublished-draft installation. Exact recovery or a named blocker is due 10:53Z. Native installation dependency is accepted in the existing queue; allow 13 minutes for seven phone checks after installation and qualified admission. Privacy inputs, rendered samples and final ratings remain open."
+    "landing": "Lands: overall completion time remains unknown. Checkout’s seven source-release checks are complete. Website’s 16 receipt findings are disposed and the Keep looking arrow repair is complete at a4223eea; the original sitewide arrow finding remains open. Its integrated proof, fresh receipt and size rebind must precede one push, Ready, ordinary review, merge and unpublished-draft installation. The same holder must identify the existing successor job or actual START on its next pass. Native installation dependency is accepted in the existing queue; allow 13 minutes for seven phone checks after installation and qualified admission. Privacy inputs, retained rendered samples and final ratings remain open."
   }
 }
