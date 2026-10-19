@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Local source is e327e1bf; the existing Hands keeper started at 09:38Z and has reached its mutation checks. Draft #4580 remains at 522e6a73. Checkout repair ed98973e is now on #4590 with hosted checks and its original named-fix review pending. The native call remains terminal with seven checks unspent.",
+  "workerState": "The integrated keeper finished successfully at 10:02Z; #4580 now contains e327e1bf and remains Draft. Checkout’s original owner has resumed its due check of #4590 hosted gates and the original named-fix review. The native call remains terminal with seven checks unspent.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shell, account and Big Bag reports returned in sequence. The original writer’s header-model proof completed at 09:19Z: 66 passes and 65 WebKit skips, nine expected failures under real header-covering sabotage, then 66 passes after restoring identical source. The new combined keeper passes Small200 and is executing 208 mutation checks. Checkout hosted admission, PR-body and guard checks passed; its remaining gates and review are still pending.",
+  "lastActualProgress": "At 10:02Z the integrated keeper passed 365 tests, 10 subtests and all 208 declared mutation checks, with 149 WebKit or real-browser skips. Hands pushed the proved source once at 10:05Z. Checkout repair ed98973e has canonical proof of 1,082 passes, one skip and 175 mutation passes; its hosted checks and review remain separate.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Assigned shell, account and Big Bag reports returned; local e327e1bf includes the original writer’s Small200 header-model correction. Its scoped proof passed 66 tests with 65 WebKit skips and retained real-overlap failure detection. The combined keeper is running; no final acceptance is inferred. Tracking initiator verification remains open.",
-      "Existing combined proof, receipt, one push, ordinary review/merge, unpublished-draft install, admitted native checks and final named-fix checks by the same readers."
+      "Integrated e327e1bf passed 365 tests, 10 subtests and 208 mutation checks, with 149 browser skips. The exact source is pushed to Draft #4580; receipt and size admission remain open. Collection-timing, order-return and tracking initiator samples still require the original acceptance path.",
+      "Holder receipt/admission, Ready, ordinary review/merge, unpublished-draft install, retained rendered samples, admitted native checks and final named-fix checks by the same readers."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The integrated mutation proof has not returned. #4580 remains Draft at the preceding remote source; no Ready receipt is claimed. Fresh dated native admission, privacy inputs and current-draft tracking initiator verification remain open.",
-  "current": "The assigned shell, account and Big Bag repairs have returned. The integrated proof found seven Small200 failures; the original bag writer corrected the header geometry test model and proved that real header overlap still fails. Hands is running the existing combined keeper on the repaired local source e327e1bf.",
-  "next": "Finish the existing combined keeper, record a fresh self-review receipt, push once and make #4580 Ready. Complete ordinary review and merge, install into the unpublished draft, then finish admitted native checks and the final named-fix checks with the same readers.",
-  "updated": "2026-10-19T10:02:14.968794+00:00",
+  "remaining": "The fresh self-review receipt and chair size admission have not yet been verified. Remaining collection-timing and order-return samples, fresh dated native admission, privacy inputs and current-draft tracking initiator verification remain open.",
+  "current": "The complete repair assembly has passed its integrated remote keeper: 365 tests, 10 subtests and all 208 mutation checks, with 149 browser skips. Hands pushed this exact e327e1bf source once to #4580. The PR remains Draft while its fresh self-review receipt and chair size admission are completed.",
+  "next": "The original holder completes the receipt and size admission, then makes #4580 Ready. Ordinary review and merge, unpublished-draft installation, retained rendered samples and admitted native checks come before the same readers’ final named-fix checks.",
+  "updated": "2026-10-19T10:10:01.483538+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -271,12 +271,16 @@
         "text": "Completed — Return the Small200 header-model repair to the original bag writer and verify its scoped proof (08:43Z–09:23Z, took 40 min). At e327e1bf, 66 tests pass and 65 WebKit cases skip; real header-covering sabotage causes nine failures, and restoring the exact source returns 66 passes."
       },
       {
-        "complete": false,
-        "text": "In progress — Complete the existing integrated keeper on e327e1bf (started 09:38Z, est. 30 min; mutation execution in progress after the Small200 cases passed). The original holder then records a fresh self-review receipt, pushes once and makes #4580 Ready. Final named-fix ratings from the same three readers remain pending after ordinary review, merge, unpublished-draft installation and admitted native checks; first rating wait 13:34Z retained."
+        "complete": true,
+        "text": "Completed — Finish the integrated keeper on e327e1bf (09:38Z–10:02Z, took 24 min): 365 tests, 10 subtests and all 208 mutation checks passed; 149 WebKit or real-browser cases were skipped. The original holder pushed this exact source once to #4580 at 10:05Z."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence. #4579 remains merged and served-source verified. The repaired C12a-2 source ed98973e is now on #4590; exact-head hosted checks and the existing original named-fix review are running or pending (since 09:53Z; next existing check 10:08Z). TEST positive/refusal, signed-contact and lifecycle acceptance remain separate."
+        "text": "In progress — Complete the original holder’s fresh self-review receipt and chair size admission, then make #4580 Ready (waiting since 10:05Z; next check on the existing holder event). Ordinary review, merge, unpublished-draft installation, remaining rendered samples and admitted native checks precede the same three readers’ final named-fix checks. First rating wait 13:34Z retained; completion time is unknown."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Complete the original signed-caller release sequence. #4579 remains merged and served-source verified. Repair ed98973e is on #4590 with canonical proof of 1,082 passes, one skip and 175 mutation passes. The original owner resumed the existing 10:08Z check of hosted gates and the original named-fix review; no duplicate push or review. TEST positive/refusal, signed-contact and lifecycle acceptance remain separate."
       },
       {
         "complete": false,
@@ -287,6 +291,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The original integrated keeper is expected around 10:08Z if its mutation proof passes; receipt, one push, review, merge and unpublished-draft installation follow. Checkout awaits its existing hosted gates and review. Website still needs fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. Privacy inputs and final ratings remain open."
+    "landing": "Lands: overall completion time remains unknown. Integrated source proof and the single push are complete; the holder’s receipt and size admission precede Ready, review, merge and unpublished-draft installation. Checkout is consuming its existing hosted gates and review. Website still needs fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. Privacy inputs, rendered timing/return samples and final ratings remain open."
   }
 }
