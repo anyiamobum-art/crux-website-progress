@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original keeper owns the chair-approved split; no split start is verified. The original shell-arrow writer remains queued. The private-style handoff to its original keeper has waited since 12:05:53Z, missed the 12:15Z reply, and retains the existing 12:35:53Z overdue disposition point. The original native owner still holds seven unspent checks without fresh Website admission.",
+  "workerState": "The original keeper owns the chair-approved split; no split start is verified. The original shell-arrow writer remains queued. The private-style continuation was placed at12:35Z, answering the earlier missed reply; its actual launch remains unverified. Hands reported a Mac admission hold at12:40:43Z for P212 through13:20Z or terminal cleanup. This is no Website native allocation; the original native owner still holds seven unspent checks.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The chair ruling was verified directly: split the existing commits, keep each part below 1,000 changed lines, fresh review per head and child Ready after parent. Original keeper text through 12:19:38Z and the incoming mailbox provide no factual private-style source start or current conflicting file holder. The earlier keeper and hosted test successes remain retained evidence.",
+  "lastActualProgress": "Verified the original caller brief in the keeper inbox and reconciled the latest queue and admission report. A live PR read still shows #4580 at a4223eea, draft, with 1,517 changed lines; the ordered split remains unverified. The earlier keeper and hosted test successes remain retained evidence.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Repair split and accepted reviews precede merge and draft installation. The private-style source handoff is specifically unacknowledged, with no verified start or conflicting file holder. Fresh Website native admission, rendered acceptance, qualified final ratings and privacy facts remain open.",
+  "remaining": "Repair split and accepted reviews precede merge and draft installation. The private-style source brief is placed and queued; actual start is unverified under the Mac admission hold. Fresh Website native admission, rendered acceptance, qualified final ratings and privacy facts remain open.",
   "current": "The chair has ruled that the existing repair must be split into shell/bag/companion and one stacked geometry/arrow change, each below 1,000 changed lines. Website #4580 remains a draft at a4223eea. Its original review ended without a verdict; the earlier size admission lapses. Prior full tests and both correctness pin proofs passed; the newer draft-skipped test gate is red. Source split execution is unverified.",
-  "next": "The original keeper splits the same commits, obtains a fresh review of each head and marks the child Ready after the parent. The original arrow remainder joins the child only within the size limit. Separately, the keeper must recover the existing private-style caller job/result or admit its authorized default-off source cut after current file custody is checked.",
-  "updated": "2026-10-19T12:21:21.536228+00:00",
+  "next": "The original keeper splits the same commits, obtains a fresh review of each head and marks the child Ready after the parent. The original arrow remainder joins the child only within the size limit. The original private-style caller continuation is placed; its actual start must come through the existing keeper after admission.",
+  "updated": "2026-10-19T12:43:36.748716+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -304,9 +304,13 @@
       },
       {
         "complete": false,
-        "text": "In progress — Original keeper prepared the authorized private-style caller continuation at12:27Z (waiting since 12:05:53Z; est. 10 min from verified launch). The brief names the original caller and reports no existing job or conflict across the seven source paths after the current open-PR and queue census. Actual placement and launch remain unverified; the existing 12:35:53Z disposition point must assess this new preparation. Private controls, Save, public mappings and acceptance remain off or unqualified."
+        "text": "Waiting — Original keeper placed the authorized private-style caller continuation at12:35Z (waiting since 12:05:53Z; est. 10 min from verified launch). Inbox placement is verified for the original caller; the keeper reports no conflict across the seven source paths. Actual launch remains unverified. Hands reports the caller queued behind refresh, arrow-fix and notification work; new Mac lane starts are held from12:40:43Z until13:20Z for the P212 allocation, or until its terminal cleanup. The existing keeper owns admission. Private controls, Save, public mappings and acceptance remain off or unqualified."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Publish the corrected caller queue and admission state to the task report (started 12:43Z, est. 3 min), then verify the exact Pages build and served files."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The chair requires the existing repair to be split before fresh review; split execution is unverified. The full prior tests and pin checks passed, while the current draft-skipped gate is red. The original arrow remainder is queued. The original keeper prepared the private-style caller continuation at12:27Z; actual launch is unverified. Merge and unpublished-draft installation precede rendered/native checks and qualified final ratings; privacy facts remain outstanding."
+    "landing": "Lands: overall completion time remains unknown. The chair requires a source split before fresh reviews; that execution is unverified. Prior full tests and correctness passed; the current draft-skipped gate is red. The original private-style caller is placed and queued, with no verified launch under the new Mac admission hold. Merge and unpublished-draft installation precede rendered/native checks and qualified final ratings; privacy facts remain outstanding."
   }
 }
