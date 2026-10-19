@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original bag/companion job has returned at clean, unpushed source 522e6a7379. Hands received the next original shell → account → Big Bag handoff at 02:50Z; actual placement is still unverified. The original Checkout holder has merged and deployed #4579 and is handing C12a-2 back to Hands. Its served-build check returned HTTP 403 and remains unverified. The original native call is terminal, with seven checks unspent.",
+  "workerState": "The original bag/companion job has returned at clean, unpushed source 522e6a7379. Hands received the next original shell → account → Big Bag handoff at 02:50Z; actual placement is still unverified. The original Checkout holder has merged and deployed #4579 and is handing C12a-2 back to Hands. Its original Chrome session verified the served build at 02:50Z; the earlier static-file HTTP 403 is retained as a separate observation. The original native call is terminal, with seven checks unspent.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original repair source passed its remote proof at 02:43Z: 346 tests, 10 subtests and all 92 mutation checks; 131 WebKit tests were skipped because the box lacks WebKit. The report arrived at 02:48Z. Checkout #4579 merged at 02:40:42Z and deployed at 02:44:23Z after 1,020 tests and 153 mutation checks; served-build verification is still open.",
+  "lastActualProgress": "The original repair source passed its remote proof at 02:43Z: 346 tests, 10 subtests and all 92 mutation checks; 131 WebKit tests were skipped because the box lacks WebKit. The report arrived at 02:48Z. Checkout #4579 merged at 02:40:42Z and deployed at 02:44:23Z after 1,020 tests and 153 mutation checks; the original Chrome session verified the served stamp at 02:50Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Remaining original-owner repairs, explicit adoption of the assigned cart-template findings and the combined proof remain open. The Big Bag seat hold is lifted. Website still needs a fresh dated native admission and the existing privacy inputs.",
   "current": "The original bag/companion writer returned its scoped repair report and successful remote proof. The same branch is back with Hands for the original shell, account and Big Bag owners. Remaining cart-template findings need explicit custody adoption; the combined repair package and all final ratings remain open.",
   "next": "Hands places the original shell owner on the same branch, then the original account and Big Bag owners. Reconcile the remaining cart-template findings with the original writer’s existing assignment, complete one cohesive remote proof, then ordinary review, merge and unpublished-draft installation. The same final readers check the named fixes after acceptance evidence is ready.",
-  "updated": "2026-10-19T02:52:45.129836+00:00",
+  "updated": "2026-10-19T02:56:53.594932+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -264,7 +264,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence (original holder resumed at 02:44Z). #4579 merged at 02:40:42Z and deployed at 02:44:23Z after the original reviewers approved. The original holder is handing C12a-2 back to Hands. The served-build request returned HTTP 403, so that verification and TEST positive/refusal, signed-contact and lifecycle acceptance remain open."
+        "text": "In progress — Complete the original signed-caller release sequence (original holder resumed at 02:44Z). #4579 merged at 02:40:42Z and deployed at 02:44:23Z after the original reviewers approved. The original holder is handing C12a-2 back to Hands. The original Chrome session verified the served build at 02:50Z. C12a-2 placement and TEST positive/refusal, signed-contact and lifecycle acceptance remain open."
       },
       {
         "complete": false,
@@ -275,6 +275,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The original bag/companion scoped report and remote proof are complete. Hands received the remaining original-owner handoff at 02:50Z; actual placement, remaining cart-template adoption, combined proof, review and unpublished-draft installation are open. Checkout #4579 is merged and deployed; served-build verification and C12a-2 remain with its original owner. Website still needs a fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. TEST and privacy inputs remain open. The Shopify theme stays unpublished."
+    "landing": "Lands: overall completion time remains unknown. The original bag/companion scoped report and remote proof are complete. Hands received the remaining original-owner handoff at 02:50Z; actual placement, remaining cart-template adoption, combined proof, review and unpublished-draft installation are open. Checkout #4579 is merged, deployed and its served stamp is verified; C12a-2 remains with its original owner. Website still needs a fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. TEST and privacy inputs remain open. The Shopify theme stays unpublished."
   }
 }
