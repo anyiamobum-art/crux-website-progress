@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original bag/companion job has returned at clean, unpushed source 522e6a7379. Hands received the next original shell → account → Big Bag handoff at 02:50Z; actual placement is still unverified. The original Checkout holder has merged and deployed #4579 and is handing C12a-2 back to Hands. Its original Chrome session verified the served build at 02:50Z; the earlier static-file HTTP 403 is retained as a separate observation. The original native call is terminal, with seven checks unspent.",
+  "workerState": "The original bag residual job has returned at clean, unpushed d802cd01. Draft #4580 remains at 522e6a73. The original shell brief is staged; one changed-dependency handoff at 03:32Z asks Hands to move that same brief forward. Checkout C12a-2 is restored in its original checkout at d164db9b and awaits its existing PostgreSQL keeper proof; the original owner has resumed its due inspection. The native call is terminal, with seven checks unspent.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original repair source passed its remote proof at 02:43Z: 346 tests, 10 subtests and all 92 mutation checks; 131 WebKit tests were skipped because the box lacks WebKit. The report arrived at 02:48Z. Checkout #4579 merged at 02:40:42Z and deployed at 02:44:23Z after 1,020 tests and 153 mutation checks; the original Chrome session verified the served stamp at 02:50Z.",
+  "lastActualProgress": "The original bag residual proof finished at 03:28Z: 346 tests, 10 subtests and all 95 mutation checks passed; 131 WebKit tests were skipped. Seven bag arrows were corrected and checked in rendered output; the existing CSS already covers the assigned markup press behavior. Checkout C12a-2 returned and was restored at 03:14Z, with both corrections present across 14 admitted files and 714 changed lines; its canonical PostgreSQL proof remains open.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Original bag/companion report returned with 346 tests and 92 mutation checks passed; 131 WebKit checks skipped. Remaining shell, account and Big Bag repairs plus original cart-template custody adoption and combined proof are open. Tracking finding remains open: the draft has a conditional owned Meta snippet with no pixel ID. Channel ownership is verified, but the matching historical pixel configuration belongs to the live theme. Current-draft initiator verification is still due.",
+      "Original bag/companion and residual markup reports returned; latest scoped proof passed 346 tests and 95 mutation checks, with 131 WebKit skips. Original shell brief staged; account and Big Bag follow. Combined proof and final named-fix review remain open. Tracking finding remains open: the draft has a conditional owned Meta snippet with no pixel ID. Channel ownership is verified, but the matching historical pixel configuration belongs to the live theme. Current-draft initiator verification is still due.",
       "Original source owners execute the chair’s retained route and conditional dock-total proof, then one cohesive proof/review/draft install, original native checks and final named-fix reader check."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Remaining original-owner repairs, explicit adoption of the assigned cart-template findings and the combined proof remain open. The Big Bag seat hold is lifted. Website still needs a fresh dated native admission and the existing privacy inputs.",
-  "current": "The original bag/companion writer returned its scoped repair report and successful remote proof. The same branch is back with Hands for the original shell, account and Big Bag owners. Remaining cart-template findings need explicit custody adoption; the combined repair package and all final ratings remain open.",
-  "next": "Hands places the original shell owner on the same branch, then the original account and Big Bag owners. Reconcile the remaining cart-template findings with the original writer’s existing assignment, complete one cohesive remote proof, then ordinary review, merge and unpublished-draft installation. The same final readers check the named fixes after acceptance evidence is ready.",
-  "updated": "2026-10-19T02:56:53.594932+00:00",
+  "remaining": "Remaining shell, account and Big Bag repairs and the combined proof remain open. The bag-template ownership gap is resolved by the original writer’s returned source and proof. The Big Bag seat hold is lifted. Website still needs fresh dated native admission and the existing privacy inputs.",
+  "current": "The original bag/companion writer has completed its assigned residual markup repair and returned a second successful remote proof. Draft #4580 contains the preceding repair source; the new residual commit remains clean and unpushed. The existing shell-owner brief is staged for the same branch, followed by the original account and Big Bag owners.",
+  "next": "Hands moves the already-staged original shell brief forward at the returned residual head, then continues the original account and Big Bag owners in order. Complete one cohesive remote proof, ordinary review and merge, install into the unpublished draft, and return the named fixes to the same final readers.",
+  "updated": "2026-10-19T03:33:52.235737+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -259,12 +259,16 @@
         "text": "Completed — Receive the original bag/companion scoped repair report and verify its exact-source remote proof: 346 tests, 10 subtests and 92 mutation checks passed; 131 WebKit checks were skipped (01:37Z–02:43Z, took 66 min; report received 02:48Z). This does not close remaining original-owner repairs or native acceptance."
       },
       {
-        "complete": false,
-        "text": "In progress — Obtain qualified final ratings from the same three original readers (first wait 13:34Z retained). Their second reviews are complete and none qualifies. The original bag/companion scoped repair report and remote proof have returned. Hands received the original shell → account → Big Bag handoff at 02:50Z; actual placement and remaining cart-template adoption are unverified. The combined proof, review, draft installation and final checks remain open; completion time is unknown."
+        "complete": true,
+        "text": "Completed — Receive the original bag residual repair and exact-source proof: seven arrows corrected and rendered checks passed; 346 tests, 10 subtests and 95 mutation checks passed, with 131 WebKit skips (03:09Z–03:28Z, took 19 min). The original writer also verified that the assigned press behavior is already covered by CSS."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence (original holder resumed at 02:44Z). #4579 merged at 02:40:42Z and deployed at 02:44:23Z after the original reviewers approved. The original holder is handing C12a-2 back to Hands. The original Chrome session verified the served build at 02:50Z. C12a-2 placement and TEST positive/refusal, signed-contact and lifecycle acceptance remain open."
+        "text": "In progress — Obtain qualified final ratings from the same three original readers (first wait 13:34Z retained). Their second reviews are complete and none qualifies. Both original bag/companion reports and scoped remote proofs have returned, including the assigned markup findings. The existing shell brief is staged; Hands received its changed source dependency at 03:32Z. Shell, account and Big Bag repairs, combined proof, review, draft installation and final checks remain open; completion time is unknown."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Complete the original signed-caller release sequence. #4579 is merged, deployed and its served build was verified at 02:50Z. C12a-2 returned at 03:11Z and its clean original checkout was restored at 03:14Z. It awaits the existing PostgreSQL keeper proof; the original owner resumed the due 03:30Z inspection. TEST positive/refusal, signed-contact and lifecycle acceptance remain separate."
       },
       {
         "complete": false,
@@ -275,6 +279,6 @@
         "text": "Completed — Reconcile the original repair queue, deliver its overdue escalation and prepare the checkout fallback update (12:25Z–12:29Z, took4 min). This coordination adds no source, test, acceptance or rating credit."
       }
     ],
-    "landing": "Lands: overall completion time remains unknown. The original bag/companion scoped report and remote proof are complete. Hands received the remaining original-owner handoff at 02:50Z; actual placement, remaining cart-template adoption, combined proof, review and unpublished-draft installation are open. Checkout #4579 is merged, deployed and its served stamp is verified; C12a-2 remains with its original owner. Website still needs a fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. TEST and privacy inputs remain open. The Shopify theme stays unpublished."
+    "landing": "Lands: overall completion time remains unknown. The original bag/companion and residual markup reports have returned with scoped proofs; their findings still await the final combined review. The original shell brief is staged for the returned source, followed by account and Big Bag. Combined proof, review and unpublished-draft installation remain open. Checkout C12a-2 awaits its existing canonical PostgreSQL proof. Website still needs fresh dated native admission; allow 13 minutes for seven phone checks after a qualified start. TEST and privacy inputs remain open. The Shopify theme stays unpublished."
   }
 }
