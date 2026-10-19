@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Opus FULL R2 returned20:25:22Z: below target. Astra FULL R2 is complete; Fable is staged. The original repair writer’s source start is unverified; its existing queue and resource admission remain. Checkout has525 passing tests, one skip and87 passing selected mutation checks; required hosted guards and test-gate are failing, and its original owner has been asked to continue. No Website native job is admitted.",
+  "workerState": "Fable, Opus and Astra FULL R2 are returned. The original F1/F2 triage returned an unpushed bag candidate with local single-file checks only; the header and other owners’ findings remain open. The existing Checkout owner continues its merged follow-up. No Website device admission is current.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Opus returned its complete second review, and all nine findings were recorded in the same repair obligation. The exact original user instruction was verified and returned to Fable’s keeper. Checkout’s required hosted failures were reconciled through its original owner.",
+  "lastActualProgress": "All three R2 reports and the original bag triage were reconciled into the existing chair obligation. Checkout follow-up #4564 merged on 18 October 20:45:29Z and its original owner verified the served build at 21:02Z. Public status is being refreshed from these receipts.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -111,9 +111,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "Second reviews in progress — 0/3 qualified",
-      "Opus FULL R2: 8.75 average / 8.0 minimum. Astra: not qualified, house fit 9.0 and nine unscored. Same Fable session compacted; full R2 in its original inbox, start unverified.",
-      "Consume original queued results and triage; address every original R2 finding before the final named-fix check. Preserve source owners and round limits."
+      "All second reviews returned — 0/3 qualified",
+      "Fable 9.05/minimum 8.5; Opus 8.75/minimum 8.0; Astra house 9.0 with nine unscored. Original bag candidate is unpushed; header and other findings remain open.",
+      "Same chair/original owners complete all named repairs, one cohesive proof/review/draft install, then original native checks and final named-fix reader check."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Fable’s instruction scope is resolved; its original queued review and source triage await verified starts. Hands reported a qualified P212/A2 window at 20:48:47Z and the recovery hook installed; this is not Website native admission. The app restarted at 20:58:03Z and existing jobs are being reconciled. Permitted TEST acceptance and privacy facts remain open.",
-  "current": "Opus’s original full second review returned: 8.75 average, lowest 8.0. Astra’s second review is not qualified: house fit 9.0, nine measures unscored. Fable’s same session completed compaction at 20:31:35Z and its full R2 brief is in the original inbox; execution is unverified. All nine Opus findings are included in the same triage obligation, with original source owners preserved.",
-  "next": "Verify the keeper’s adoption of the exact original user instruction, then the existing Fable compaction and review start. Address all original second-round findings through their original source owners before one cohesive publication and the final named-fix check. Continue the existing Checkout correction and native recovery work.",
-  "updated": "2026-10-18T20:35:02.258634+00:00",
+  "remaining": "Chair adoption and original-owner repair execution remain unverified. Native acceptance needs a new qualified resource handoff: the preceding P212 attempt ended after post-boot pressure failed; its earlier capacity window has expired.",
+  "current": "All three original full second reviews have returned; none qualifies. Fable scored 9.05 average/minimum 8.5, Opus 8.75/minimum 8.0, and Astra left nine measures unscored. The original bag writer has an unpushed candidate. At widths ≤319 px it hides the dock total visually, retains its screen-reader value and keeps the summary total visible; the header still needs repair. The chair now has all findings and this shopper-visible trade for one bounded integration decision.",
+  "next": "The existing chair must retain each original source owner, settle the small-width dock-total trade, and bound one cohesive repair integration. Complete remote proof, ordinary review/merge and unpublished-draft installation, then the original iPhone checks and readers’ final named-fix check.",
+  "updated": "2026-10-19T00:36:02.768746+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -193,7 +193,7 @@
   "ratings": [
     {
       "model": "Fable 5.1",
-      "result": "Prior review: 8.85/10, lowest measure 8.5 — below the target. Awaiting re-review of the repaired draft; this score does not rate the newly installed small-device fixes."
+      "result": "Original FULL R2: FAIL — average9.05/10, lowest8.5. Eleven named findings remain assigned through original source custody. This is the completed second full review; the next permitted reader step is the final named-fix check after all R2 repairs."
     },
     {
       "model": "Astra 6",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The recovery hook was installed at20:49Z and the app restarted at20:58Z; eight of nine wake jobs resumed and one failed. The recorded20:48:47Z–21:03:47Z window belongs to the two prerequisite jobs, not Website. Companion must finish before the original Website executor receives a fresh pressure1/load-below15 admission. All seven checks remain unexercised."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The preceding P212 attempt ended 18 October 20:59:46Z after post-boot pressure 2/2 failed. The device lease is free, but no current Website admission exists and the earlier capacity window is expired. The original native owner needs a changed, current resource pair from Hands; no new probe, boot or duplicate request."
       },
       {
         "complete": true,
@@ -256,11 +256,11 @@
       },
       {
         "complete": false,
-        "text": "In progress — Obtain qualified final ratings from the same three original readers (packet audited19:44Z; preserve first wait13:34Z). Astra completed19:50Z: house fit9.0, nine measures unscored, not qualified. Opus completed20:25Z: average8.75, minimum8.0 across all ten measures, below the required bar. Fable completed compaction20:31Z and its original review brief is queued; execution remains unverified. The original writer acknowledged bounded triage at20:35Z; its source start remains unverified. Preserve source owners and integrate all second-round findings before one cohesive publication and the final named-fix check."
+        "text": "In progress — Obtain qualified final ratings from the same three original readers (preserve first wait 13:34Z). All FULL R2 reports returned: Fable 9.05/minimum 8.5; Opus 8.75/minimum 8.0; Astra house 9.0 with nine measures unscored. None qualifies. The chair now has every R2 finding and the original unpushed bag candidate. Resolve original-owner integration and the ≤319 px dock-total trade, then one cohesive remote proof, ordinary review/merge and unpublished-draft install. Only the original final named-fix check follows all fixes; no additional full review. No reliable completion time before the chair disposition and current native admission."
       },
       {
         "complete": false,
-        "text": "In progress — Complete the original signed-caller release sequence (merged19:37Z, deployed19:40Z, served verification19:42Z). The original follow-up keeper finished20:15Z with525 passes, one skip and87 mutation checks passed. Its single follow-up PR #4564 has failed hosted test-gate and guards checks; the original owner received one continuation at20:33Z and execution is still unverified. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work."
+        "text": "In progress — Complete the original signed-caller release sequence. Follow-up PR #4564 merged 18 October 20:45:29Z; the original Checkout owner verified its served build at 21:02Z and remains active. The earlier hosted-failure hold is resolved. TEST positive/refusal, signed contact and lifecycle acceptance remain separate original-owner work; no duplicate continuation."
       },
       {
         "complete": false,
