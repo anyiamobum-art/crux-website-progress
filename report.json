@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4580 remains Draft at 38d86cbc; the original writer’s bounded repair was placed once at 17:33Z. Styling contract #4612 is Ready at 987e451a and its holder gate passed at 17:35Z. UI #4613 is Draft at 37d6de28, stacked on #4612. No new product merge or Shopify installation is claimed.",
+  "workerState": "#4580 remains Draft at 38d86cbc; the original writer’s bounded repair was placed once at 17:33Z and execution was verified at 17:39Z. Styling contract #4612 is Ready at 987e451a and its holder gate passed at 17:35Z. UI #4613 is Draft at 37d6de28, stacked on #4612. No new product merge or Shopify installation is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The styling UI’s keeper completed seven focused tests, 147 atlas checks with one skip and all 71 causal checks at 17:21Z. Its clean self-review returned at 17:23Z; the original keeper pushed it once and opened #4613. The holder acceptance for #4612 passed at 17:35Z. The existing price-layout writer is queued, and the upstream test failure was delivered to its original owner. The prior task-site update was verified served at 17:37Z.",
+  "lastActualProgress": "The styling UI’s keeper completed seven focused tests, 147 atlas checks with one skip and all 71 causal checks at 17:21Z. Its clean self-review returned at 17:23Z; the original keeper pushed it once and opened #4613. The holder acceptance for #4612 passed at 17:35Z. The existing price-layout writer is now executing, and the upstream test failure was delivered to its original owner. The prior task-site update was verified served at 17:40Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Price-wrap correction 38d86cbc is pushed; its authorized dependency repair is queued with the same writer. Styling contract #4612 has its holder gate restored but an upstream hosted test failure still needs diagnosis. The corrected saved-looks UI passed all 71 causal checks and is stacked Draft #4613. These source gates do not change the frozen final ratings.",
+      "Price-wrap correction 38d86cbc is pushed; its authorized dependency repair is running with the same writer. Styling contract #4612 has its holder gate restored but an upstream hosted test failure still needs diagnosis. The corrected saved-looks UI passed all 71 causal checks and is stacked Draft #4613. These source gates do not change the frozen final ratings.",
       "Original-owner final repair/split proof and fresh receipts, code reviews and merge, unpublished-draft installation, retained rendered samples, admitted native checks and final named-fix checks by the same readers."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The price-layout writer is queued behind the existing resource cap. Styling contract #4612 still has an upstream hosted test failure requiring diagnosis. The saved-looks UI #4613 awaits its parent’s review and merge. Native acceptance, privacy facts and all three qualified final ratings remain open.",
-  "current": "The chair has unblocked the remaining price-layout repair and its original writer is queued. Styling contract #4612 now has its holder acceptance; its upstream test failure is with the original test owner. The corrected saved-looks UI passed all 71 causal checks and opened as stacked Draft #4613.",
+  "remaining": "The original price-layout repair is running; its proof and result are still owed. Styling contract #4612 still has an upstream hosted test failure requiring diagnosis. The saved-looks UI #4613 awaits its parent’s review and merge. Native acceptance, privacy facts and all three qualified final ratings remain open.",
+  "current": "The chair has unblocked the remaining price-layout repair and its original writer is now running. Styling contract #4612 now has its holder acceptance; its upstream test failure is with the original test owner. The corrected saved-looks UI passed all 71 causal checks and opened as stacked Draft #4613.",
   "next": "Complete the original price-layout repair, box proof and one push, then the chair’s exact-head admission and review. Diagnose the styling contract’s upstream test failure through its original owner and complete review of #4612, followed by #4613. Merge approved source, install only in the unpublished draft, then complete original iPhone acceptance and final named-fix ratings.",
-  "updated": "2026-10-19T17:38:34Z",
+  "updated": "2026-10-19T17:40:53Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -292,7 +292,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Original storefront writer completes the chair-authorized layout repair, box proof and one push (placed 17:33Z; queued behind the existing resource cap; est. 25 min after execution starts). The parent must pass the small-screen product-bar test and carry no check requiring its child’s cart styles. Eight original assertions are retained. Next keeper disposition about 17:45Z; original release wait since 11:45Z preserved."
+        "text": "In progress — Original storefront writer completes the chair-authorized layout repair, box proof and one push (placed 17:33Z; started about 17:38Z, est. 25 min). The parent must pass the small-screen product-bar test and carry no check requiring its child’s cart styles. Eight original assertions are retained. Next keeper disposition about 17:45Z; original release wait since 11:45Z preserved."
       },
       {
         "complete": true,
@@ -343,10 +343,10 @@
         "text": "Completed — Verify the prior task-site snapshot publicly served (1631ba3 pushed 16:26Z; both files matched at 16:41Z, took 15 min). This closes that deployment wait without replaying its push."
       },
       {
-        "complete": false,
-        "text": "In progress — Publish this verified repair-and-review update (started 17:39Z, est. 5 min). The previous snapshot 281bdb3 is verified publicly served at 17:37Z; release counts remain unchanged until acceptance passes."
+        "complete": true,
+        "text": "Completed — Publish and verify the repair-and-review update (17:38Z–17:40Z, took 2 min). Snapshot dabb8b5 matched both public files. The same report also records the original writer’s subsequent start; release counts remain unchanged until acceptance passes."
       }
     ],
-    "landing": "Lands: next keeper disposition about 17:45Z (about 6 min from this update; resource capacity, the original repair and hosted review may move it). Final merge, draft installation, native acceptance, privacy facts and ratings have unknown duration. No live Shopify publication."
+    "landing": "Lands: current repair result estimated about 18:03Z (about 22 min left; box proof or a new named finding may move it). Original keeper inspection remains about 17:45Z. Final merge, draft installation, native acceptance, privacy facts and ratings have unknown duration. No live Shopify publication."
   }
 }
