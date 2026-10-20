@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "#4630 was marked Ready at02:09:23Z on96b715c7. Its hosted mutation check passed and five test shards are queued. The bag follow-up at c49fb2c8 is confirmed in the original running queue, behind three other jobs; no duplicate was started. Both Shopify draft installations are finished and verified.",
+  "workerState": "The original bag writer returned clean source3203e094 at03:15Z, unpushed. Remote checks passed102 cases with83 WebKit skips; the full successor mutation run is owed. #4630 merged at03:13:31Z; all five files match reviewed source. Two theme files are staged offline, not installed.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout and arrows are merged and installed. The original owner integrated the remaining bag source as c49fb2c8. The saved-look successor96b715c7 fixes the stale edit base, passed verification and has a clean final receipt; it is now #4630 awaiting the original review route."
+      "evidence": "Layout and arrows are merged and installed. The original writer repaired the bag’s interim header conflict as3203e094. Saved-look source96b715c7 has merged as #4630; its original shared-test disposition remains open."
     },
     {
       "stage": "Tests",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Styling #4613, layout #4580 and arrows #4618 passed both original code reviews and merged. Bag and saved-look successors still require their original release route. No final design rating has reached the requested threshold."
+      "evidence": "Styling #4613, layout #4580 and arrows #4618 passed both original code reviews and merged. The saved-look successor #4630 passed its original code read and merged; its shared-test disposition remains open. The bag successor still requires its original release route. No final design rating has reached the requested threshold."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The saved-look repair’s Draft-only block was diagnosed and cleared through the original release owner. #4630 is now in the existing hosted test and review route. The layout and arrow installations remain verified, with unchanged settings and live theme.",
+  "lastActualProgress": "Consumed the bag repair, verified its clean local source and absence of a PR, and sent its next step to the original release owner. Verified #4630’s merge and exact source, then raised the unresolved shared-test disposition with the original owner and chair. The Shopify live theme remains unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Styling #4612/#4613 and layout #4580 are merged and installed. Arrow #4618 also passed both reviews, merged and is installed. Original bag and saved-look follow-ups remain before final acceptance.",
+      "Styling #4612/#4613 and layout #4580 are merged and installed. Arrow #4618 also passed both reviews, merged and is installed. The saved-look follow-up is merged but awaits its original test disposition; the repaired bag follow-up still needs review before final acceptance.",
       "Finish the remaining original reviews and integration, install only in the unpublished draft, then complete the original native and final named-fix checks."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The Draft-only block is resolved. #4630 now awaits its existing hosted test jobs and independent reviews. The bag verification is genuinely queued behind the original remote jobs. Native acceptance, the existing privacy decision and all three qualified ratings remain open.",
-  "current": "Both layout and arrow repairs are merged and verified in the unpublished Shopify draft. The saved-look repair, #4630, is now Ready and its hosted tests are queued. Its final pre-push review found no issue and all55 mutation checks passed; independent review and merge remain required.",
-  "next": "Complete #4630’s existing hosted tests and independent reviews, finish the original bag verification, then merge and install approved source. The original iPhone checks and final named-fix ratings follow on the finished draft.",
-  "updated": "2026-10-20T02:11:00Z",
+  "remaining": "The bag’s new source still needs integrated verification and code review. #4630 merged after a successful second test attempt while the chair’s shared-test investigation remains open; a green retry is not evidence of a repair. Native checks remain held by existing resource limits. The privacy decision and final ratings remain open.",
+  "current": "The bag repair removes the temporary header rule that covered Checkout at enlarged text sizes. All nine reported Chromium failures pass with the fix, and restoring the old rule reproduces them. The saved-look repair has merged as #4630; its draft installation awaits the original release owner’s disposition of a shared test failure.",
+  "next": "The original release owner verifies the returned bag source, completes its receipt and PR review, and resolves the saved-look test disposition. Then install qualified merged files into the unpublished draft. Original iPhone checks and final named-fix ratings follow.",
+  "updated": "2026-10-20T03:19:01.904560+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -396,7 +396,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Verify and release the integrated bag follow-up through its original owner (waiting since19 October20:02Z; main integrated20 October01:50Z, original verification queued; est.25 min after execution starts, next check02:20Z). The eight-file successor is prepared; its fresh verification, receipt and PR remain owed."
+        "text": "Waiting — Complete the bag follow-up through its original release owner (waiting since19 October20:02Z; repaired source returned20 October03:15Z; est.25 min after successor verification starts, next check03:40Z). The interim header conflict is repaired at3203e094; integrated verification, receipt, PR reviews and merge remain owed."
       },
       {
         "complete": true,
@@ -475,10 +475,18 @@
         "text": "Completed — Diagnose and clear #4630’s Draft-only block through the original release owner (02:06Z–02:09Z, took3 min). Ready is recorded at02:09:23Z; the hosted mutation check passed and five test shards are queued."
       },
       {
+        "complete": true,
+        "text": "Completed — Verify the saved-look code approval, merge and exact source (03:15Z–03:18Z, took3 min). #4630 merged at03:13:31Z; all five files match the reviewed head. This does not resolve the separately reported shared-test failure."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Complete #4630’s original hosted tests, independent reviews and merge (since02:09Z; next check02:20Z). The original jobs are queued or running. Install only after the required checks, reviews and merge pass."
+        "text": "Waiting — Resolve #4630’s shared-test disposition through the original owner and chair (since03:18Z; next check03:40Z). The successful second test attempt is recorded; the original diagnosis must determine whether the merged source qualifies for draft installation."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Repair the bag’s interim header conflict through its original writer (03:00Z–03:15Z, took15 min). All nine named failures pass; reverting the stylesheet reproduces all nine. Remote checks passed102 cases with83 WebKit skips. Native proof remains owed."
       }
     ],
-    "landing": "Lands: next original release inspection about02:20Z (about9 min; hosted tests and independent review determine the next merge). Native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: next original release inspection about03:40Z (about20 min; remote verification, code review and the shared-test disposition determine the next installation). Native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
