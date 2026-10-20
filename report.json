@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The owner separately authorized the moving pet to go live on 20 October; only that scoped release is being assessed. All other unfinished storefront features remain unpublished.",
-  "workerState": "Saved-look installation is terminal and verified; it must not be replayed. Bag is merged, with its one installation assignment retained by the root release owner. The pet request was delivered at 12:18:01Z and followed up at 12:36Z; the original job receipt is still missing.",
+  "workerState": "Both repair installations are terminal and verified. The same original native continuation was accepted after source qualification; no native result is claimed. The pet request was delivered at 12:18:01Z and followed up at 12:36Z; its original job receipt is still missing.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Saved-look is installed and Bag is merged awaiting its qualified draft installation. The pet source inspection is complete; the original host job receipt is still missing after its 12:51Z deadline."
+      "evidence": "Saved-look and Bag are merged and installed in the unpublished draft. The pet source inspection is complete; the original host job receipt is still missing after its 12:51Z deadline."
     },
     {
       "stage": "Tests",
@@ -22,11 +22,11 @@
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Saved-look’s two-file repair is installed in the unpublished draft and verified at 13:07:30Z, with complete preservation. Bag installation remains pending. No pet live write, whole-theme publication, native pass or final rating is claimed."
+      "evidence": "Saved-look’s two files were verified in the unpublished draft at 13:07:30Z; Bag’s five files and full preservation at 13:33:17Z. Source qualification clears the original iPhone source prerequisite. No pet live write, whole-theme publication, native pass or final rating is claimed."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Saved-look installation completed at 13:07:30Z: two exact files totaling 80,510 bytes, with 687 unrelated draft files and all 539 live files preserved. Bag merged at 13:18:24Z as 6e83d669 after both reviews and CI passed. Assistant, C02, C07 and C10 remain OFF.",
+  "lastActualProgress": "Bag installation and preservation completed at 13:33:17Z: five exact files totaling 51,186 bytes, with 684 unrelated draft files, both saved-look files and all 539 live files preserved. The 689-file draft census and settings are intact. Root consumed 167 tracked source files and 29 manifests offline and delivered the changed source to the original native route at 13:35:57Z. Assistant, C02, C07 and C10 remain OFF.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "0/3 qualified; original named-fix checks pending",
-      "Saved-look #4646 is installed with exact source and preservation verified. Bag #4652 passed both reviews and CI and is merged; its draft installation is pending.",
-      "Finish Bag installation and the original acceptance evidence before the final named-fix reader checks."
+      "Saved-look #4646 and Bag #4652 are installed with exact source and preservation verified. The 167-file, 29-manifest source census was consumed offline.",
+      "Complete the original native and acceptance evidence before the final named-fix reader checks; no native or rating credit from source qualification."
     ],
     [
       "9. Complete website assembly merge",
@@ -123,9 +123,9 @@
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Saved-look repair installed and Bag repair merged — final acceptance open",
-      "Saved-look’s two approved files match hosted readback at 13:07:30Z; all 687 unrelated draft files, 539 live files and settings are preserved. Pet browser movement and reduced motion remain verified at 09:26:45Z.",
-      "Install merged Bag repair once through its qualified owner, then complete native checks and original final named-fix ratings. Assistant, C02, C07 and C10 remain OFF."
+      "Both named repairs installed — final acceptance open",
+      "Saved-look’s two files were verified at 13:07:30Z; Bag’s five files at 13:33:17Z. The 689-file draft census, 539 live files, settings and saved-look bodies are preserved.",
+      "Continue the same original native checks after dated allocation, resource clearance and handback, then the original final named-fix ratings. Assistant, C02, C07 and C10 remain OFF."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Bag is merged and awaits its qualified draft installation. The pet host request still lacks an acknowledgment or job receipt after the missed 12:51Z deadline. Native allocation, buyer-trust and privacy acceptance, and the original final named-fix ratings remain outstanding.",
-  "current": "Saved-look #4646 is installed in the unpublished draft, with both files verified at 13:07:30Z and all unrelated draft files, live files and settings preserved. Bag #4652 passed both original reviews and CI and merged at 13:18:24Z; its installation is still pending. The original pet host job receipt remains missing.",
-  "next": "The root release owner assigns the sole qualified Bag installer, then consumes its terminal installation and preservation receipt. Continue the original native and final-reader prerequisites after the finished source qualifies. The pet’s next event is the original owner’s job/result or an exact missing prerequisite.",
-  "updated": "2026-10-20T13:23:32.444432+00:00",
+  "remaining": "Native checks await the dated Hands allocation, resource clearance and handback. The pet host request still lacks an acknowledgment or job receipt after the missed 12:51Z deadline. Buyer-trust and privacy acceptance and the original final named-fix ratings remain outstanding.",
+  "current": "Saved-look #4646 and Bag #4652 are installed in the unpublished draft. Bag’s five files and preservation were verified at 13:33:17Z, retaining the exact saved-look files, all unrelated draft files, all live files and settings. The iPhone source prerequisite is cleared; original native execution and final acceptance remain outstanding.",
+  "next": "The original native owner continues on the verified installed source after dated Hands allocation, resource clearance and handback. Root delivered the changed source at 13:35:57Z; the same continuation handle accepted it, with execution and result still separate. The pet’s next event is the original owner’s job/result or an exact missing prerequisite.",
+  "updated": "2026-10-20T13:38:03.282877+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -227,19 +227,19 @@
         "text": "Completed — Take saved-look PR #4646 through its original reviews and merge (merge verified before the 13:07:30Z installation; both reviews and required CI passed; elapsed work time unknown; first proof wait 03:40Z retained)."
       },
       {
-        "complete": false,
-        "text": "In progress — Install each approved merged repair in the unpublished draft and verify exact files and preservation (C04 applied 13:06Z–13:07Z, took about 1 min through verification; two exact files and preservation verified 13:07:30Z; Bag installation awaits the sole root-assigned installer, est. 10 min; next event is its terminal installation receipt)."
+        "complete": true,
+        "text": "Completed — Install each approved merged repair in the unpublished draft and verify exact files and preservation (Bag qualification, installation and verification 13:22Z–13:33Z, took 11 min; five exact files verified 13:33:17Z; C04’s two files were already verified at 13:07:30Z and remain exact; full draft/live/settings preservation passed)."
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; est. 13 min for the seven checks after allocation; needs final source, resource clearance and original turn)."
+        "text": "Waiting — Complete the original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; source prerequisite cleared and same original continuation accepted at 13:35:57Z; est. 13 min for the seven checks after dated Hands allocation, resource clearance and handback; next event is the original allocation or execution result)."
       },
       {
         "complete": false,
         "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (estimate unknown until source and acceptance evidence qualify)."
       }
     ],
-    "landing": "Lands: full draft completion time remains unknown. C04 is installed; Bag is merged and its qualified installation is next, estimated at 10 min once assigned. Native and final acceptance remain outstanding. The pet’s original owner must return a job/result or exact prerequisite after the missed acknowledgment deadline. Only the pet is authorized for live release; the unfinished redesign remains unpublished."
+    "landing": "Lands: full draft completion time remains unknown. Both repairs are installed and source-qualified; the original native continuation is resumed, with allocation, resource clearance and handback still required. Native checks are estimated at 13 min after those prerequisites; final acceptance time remains unknown. The pet’s original owner must return a job/result or exact prerequisite after the missed acknowledgment deadline. Only the pet is authorized for live release; the unfinished redesign remains unpublished."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
