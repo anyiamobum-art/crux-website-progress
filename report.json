@@ -2,22 +2,22 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original bag writer returned clean source3203e094 at03:15Z, unpushed. Remote checks passed102 cases with83 WebKit skips; the full successor mutation run is owed. #4630 merged at03:13:31Z; all five files match reviewed source. Two theme files are staged offline, not installed.",
+  "workerState": "Original Hands retains release custody. Bag source 3203e094’s existing keeper PID 62632 was running at 03:39Z in keeper_4580_part2_3203e094.out; no rerun. C04 d96387c5 is clean and unpushed, with no PR or installation. #4630 is merged; its two theme files remain staged offline.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout and arrows are merged and installed. The original writer repaired the bag’s interim header conflict as3203e094. Saved-look source96b715c7 has merged as #4630; its original shared-test disposition remains open."
+      "evidence": "Layout and arrows are merged and installed. Saved-look #4630 is merged but not installed. C04 returned clean, unpushed source d96387c5: 22 files, 357 changed lines. The bag repair remains source 3203e094 under its original keeper."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Layout verification: all five full-bag cases pass, shell8/8 and181/181 mutation checks. Bag verification:249 tests pass with84 skips and217/217 mutations. Arrow verification:159 passes,1 skip and56/56 mutations. Browser skips do not establish native acceptance."
+      "evidence": "C04 has 45 passing panel cases, but P1/P2 and four database pins are unexecuted; 62 database setup errors are not passes. All 211 selected mutation checks remain owed. The current bag keeper was running at 03:39Z; earlier bag proof does not qualify this successor. Prior layout and arrow proof remains accepted; browser skips do not establish native acceptance."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Styling #4613, layout #4580 and arrows #4618 passed both original code reviews and merged. The saved-look successor #4630 passed its original code read and merged; its shared-test disposition remains open. The bag successor still requires its original release route. No final design rating has reached the requested threshold."
+      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes. #4630’s draft-installation disposition remains open. C04 and the bag successor still require their original release proof and review routes. Final design ratings remain 0/3 qualified."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Consumed the bag repair, verified its clean local source and absence of a PR, and sent its next step to the original release owner. Verified #4630’s merge and exact source, then raised the unresolved shared-test disposition with the original owner and chair. The Shopify live theme remains unchanged.",
+  "lastActualProgress": "At 03:40Z, consumed the C04 return and the 03:27Z socket diagnosis. The real unrelated CS persona thread reproduced interference 5/5; the exact #4630 CI predecessor is unproved and no fix is committed. One request was sent to original Hands and the chair at 03:40Z for explicit draft-installation eligibility; no installation followed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The bag’s new source still needs integrated verification and code review. #4630 merged after a successful second test attempt while the chair’s shared-test investigation remains open; a green retry is not evidence of a repair. Native checks remain held by existing resource limits. The privacy decision and final ratings remain open.",
-  "current": "The bag repair removes the temporary header rule that covered Checkout at enlarged text sizes. All nine reported Chromium failures pass with the fix, and restoring the old rule reproduces them. The saved-look repair has merged as #4630; its draft installation awaits the original release owner’s disposition of a shared test failure.",
-  "next": "The original release owner verifies the returned bag source, completes its receipt and PR review, and resolves the saved-look test disposition. Then install qualified merged files into the unpublished draft. Original iPhone checks and final named-fix ratings follow.",
-  "updated": "2026-10-20T03:19:01.904560+00:00",
+  "remaining": "C04’s P1/P2 and four database pins are unexecuted; 62 database setup errors are not green proof, and all 211 selected mutation checks remain owed. #4630’s exact CI predecessor remains unproved despite a reproduced shared-thread fault. P1329’s native resource hold persists. Privacy facts and final ratings remain open.",
+  "current": "C04 has returned clean, unpushed source d96387c5: 22 files and 357 changed lines, with 45 panel cases passing. PostgreSQL proof remains missing. Saved-look #4630 is merged; the returned shared-test diagnosis still needs the original owner’s draft-installation decision.",
+  "next": "Original Hands completes C04’s PostgreSQL-capable verification, all 211 selected mutation checks, fresh receipt and original PR/review route, and consumes the existing bag keeper result. Hands and the chair decide #4630’s draft-installation eligibility. Next existing-result inspection: 04:05Z.",
+  "updated": "2026-10-20T03:40:25.809038+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -396,7 +396,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the bag follow-up through its original release owner (waiting since19 October20:02Z; repaired source returned20 October03:15Z; est.25 min after successor verification starts, next check03:40Z). The interim header conflict is repaired at3203e094; integrated verification, receipt, PR reviews and merge remain owed."
+        "text": "Waiting — Complete the bag follow-up through its original release owner (waiting since 19 October 20:02Z; repaired source returned 20 October 03:15Z; next existing-result check 04:05Z; finish estimate unknown). The existing keeper for 3203e094 was running at 03:39Z; consume its result without rerunning it. Receipt, original PR reviews and merge remain owed."
       },
       {
         "complete": true,
@@ -480,13 +480,21 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Resolve #4630’s shared-test disposition through the original owner and chair (since03:18Z; next check03:40Z). The successful second test attempt is recorded; the original diagnosis must determine whether the merged source qualifies for draft installation."
+        "text": "Waiting — Resolve #4630’s draft-installation eligibility through original Hands and the chair (since 03:18Z; diagnosis returned 03:27Z; one request sent 03:40Z; next check 04:05Z; finish estimate unknown). A real unrelated CS persona thread caused interference 5/5. The exact CI predecessor remains unproved, no fix is committed, and the merged panel has not been installed."
       },
       {
         "complete": true,
         "text": "Completed — Repair the bag’s interim header conflict through its original writer (03:00Z–03:15Z, took15 min). All nine named failures pass; reverting the stylesheet reproduces all nine. Remote checks passed102 cases with83 WebKit skips. Native proof remains owed."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Reconcile the returned one-piece correction and shared-test diagnosis, and update the saved task report (03:38Z–03:42Z, took 4 min). C04 is clean and unpushed; database and mutation proof remain owed. The diagnosis is consumed and original release custody retained. Public deployment is recorded separately in its receipt."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Complete C04 proof through original Hands (first wait unknown; proof gap recorded 03:40Z; next existing-result inspection 04:05Z; finish estimate unknown). P1/P2 and four database pins need PostgreSQL; 62 setup errors are not passes. All 211 selected mutation checks, fresh receipt, original PR/reviews and merge remain owed. The feature stays OFF; draft installation is separate."
       }
     ],
-    "landing": "Lands: next original release inspection about03:40Z (about20 min; remote verification, code review and the shared-test disposition determine the next installation). Native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: next original result inspection about 04:05Z (about 23 min from this snapshot; existing keeper results and original-owner disposition determine the next action). Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
