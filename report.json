@@ -2,22 +2,22 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "C08-2 is clean and unpushed, with no PR or installation. One scoped recommendation reached original Hands/A2; acknowledgement and repair execution have not been observed. C04 and bag verification remain in the existing Hands box-lock queue; no terminal proof is inferred. #4630’s two approved theme files remain installed and byte-verified. Original owners and review histories are unchanged.",
+  "workerState": "C08-2 d5e62486 is clean, local and unpushed, with no PR or installation. Its prior-source keeper PID 74363 was active; that proof cannot qualify the successor. C04’s keeper is terminal at exit 1, and the same-lineage refusal-code correction task is placed with its original writer; the report has not returned. Original bag job 20261020T033831Z_62640_7947 had no remote container at 04:21:50Z and awaits a slot. Original Hands retains custody.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout, arrows and saved-look #4630 remain merged and installed. C08-2 returned clean, unpushed 98ef9d20: 14 files, 518 changed lines; its writer reported a false downloaded-copy guarantee needing repair. C04 d96387c5 and bag 3203e094 retain their original owners and existing keeper queue."
+      "evidence": "Layout, arrows and saved-look #4630 remain merged and installed. C08-2’s original writer returned clean local d5e62486 with the named copy fix: 14 files, 560 changed lines within the chair’s bound. Account fences and two-tap confirmation remain. C04 and bag retain their original writers and keepers."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C08-2’s writer reports 43 passing panel cases; real LiquidJS mount, companion integration, C02 browser checks and all 99 selected mutations are unproved. C04 has 45 passing panel cases, but PostgreSQL P1/P2, four database pins and all 211 selected mutations remain owed; 62 setup errors are not passes. C04/bag queue admission is not execution proof. Prior accepted source proof remains valid; native acceptance is separate."
+      "evidence": "C08-2 has 45 passing panel cases as writer evidence; full 101-mutation execution and real mount/integration/C02 browser proof remain owed. C04 ended at exit 1: connection cases 125 passed and 2 failed; the mutation clean baseline failed on the same two. Passing C04 checks include 29 owned-style cases with P1/P2, 30 routes, 298 contracts, panel wrapper 1, JS contract 4 and atlas 147 with 1 skip. The bag has no test-execution credit while it waits for a slot. Native acceptance is separate."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes. #4630’s approved two-file draft installation is complete. C08-2’s reported defect is writer evidence, not an independent rating; original Hands/A2 owns its repair, scope disposition and release route. C04 and bag still owe their original proof/reviews. Final design ratings remain 0/3 qualified."
+      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes; #4630’s two-file draft installation remains complete. C08-2’s source copy repair and scope disposition are complete, while qualified keeper, receipt and original reviews/merge are owed. C04’s named failures and the bag proof retain original custody. Final design ratings remain 0/3 qualified."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Consumed C08-2’s 03:45Z return at 03:57Z: 14 files, 518 changed lines and 43 passing panel cases reported by its writer. A page/account change or timeout can interrupt the promised downloaded copy after deletion. One scoped original-owner recommendation was delivered to require download first and preserve account fences; acknowledgement and repair remain unobserved. #4630’s verified two-file draft installation at 03:48:33Z remains complete.",
+  "lastActualProgress": "Hands’ 04:25Z receipt confirms C04’s terminal exit 1 and places the named refusal-code correction with the original writer. PostgreSQL-backed P1/P2 passed; the two connection assertions and the mutation clean baseline failed. C08-2’s 04:19Z source fix was consumed at 04:23Z: download-first wording, no unconditional or empty-copy claim, with account fences and two-tap confirmation preserved. P1329’s Mac-wide hold was lifted at 03:52:57Z under P1371 and chair disposition 6283198047; no Website native allocation is granted by that ruling.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "C08-2 still owes the named copy repair, real LiquidJS mount, companion integration, C02 browser checks, all 99 selected mutation checks, receipt, reviews and merge. C04’s PostgreSQL P1/P2, four database pins and all 211 selected mutations remain owed; 62 setup errors are not green proof. C04/bag queue admission is not a completed result. P1329’s native hold, privacy facts and final ratings remain open.",
-  "current": "C08-2 returned clean, unpushed source 98ef9d20 with 43 panel cases passing as writer evidence. Its writer reported an incorrect guarantee of a downloaded copy if a page/account change or timeout interrupts the response after deletion; the named repair remains with original Hands/A2. Saved-look #4630 remains installed in the unpublished draft, with exact preservation verified at 03:48:33Z.",
-  "next": "Original Hands/A2 corrects C08-2’s confirmation to tell shoppers to download first if they want a copy, preserving account/lifecycle fences, then completes its missing integration and 99-mutation proof, receipt and original release route. Consume the existing C04/bag results at 04:05Z; inspect C08’s original-owner disposition at 04:15Z.",
-  "updated": "2026-10-20T03:57:36.101984+00:00",
+  "remaining": "C08-2’s copy and scope waits are closed; its qualified successor keeper, all 101 selected mutations, real mount/integration/C02 browser proof, receipt, original reviews and merge remain owed. C04’s keeper ended with two failed assertions, and its mutation clean baseline failed on the same two; the original correction report is not back. Both remote slots were occupied at 04:21:50Z, leaving the bag queued without test-execution credit. Native acceptance needs qualified source, a fresh dated Website allocation and prior handback. Privacy facts and final ratings remain open.",
+  "current": "C08-2’s original writer returned the download-first copy fix at 04:19Z: clean local d5e62486, 560 changed lines within the chair’s bound, and 45 passing panel cases. C04’s PostgreSQL keeper finished with exit 1: 125 connection cases passed and two assertions failed; the named correction is back with the original writer. The bag job still awaits a remote slot. #4630 remains installed with draft preservation verified at 03:48:33Z.",
+  "next": "Original Hands reconciles C08-2’s existing prior-source keeper before qualifying the integrated successor with all 101 selected mutations and missing suites. The original C04 writer now resolves the two refusal-code assertions and preserves tests that catch the fault; its correction report is awaited. Consume the existing bag result without restarting it. Next original-result inspection: 04:35Z; the bag attempt’s queue deadline is 04:38:31Z.",
+  "updated": "2026-10-20T04:25Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -228,7 +228,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The preceding P212 attempt ended 18 October 20:59:46Z after post-boot pressure 2/2 failed. The device lease is free, but no current Website admission exists and the earlier capacity window is expired. The original native owner reconciled the evidence at 00:40Z on 19 October: the later Hands report still had pressure level 2 and no Website window. One continuation of the existing request asks Hands for a dated admission and current queue/custody disposition; no probe, boot or new attempt."
+        "text": "Waiting — Complete the original seven small-iPhone checks at real 200%, restore 100% and release (waiting since 16 October 20:16Z; est. 13 min after a qualified start). The preceding P212 attempt ended 18 October 20:59:46Z after its pressure check failed. P1329’s Mac-wide hold was lifted 20 October 03:52:57Z under P1371; the ruling grants no Website allocation. The original native owner still needs qualified source, a fresh dated Website allocation and prior handback before a new attempt."
       },
       {
         "complete": true,
@@ -236,7 +236,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete numerical native timing when the supported Inspector and original resource turn are ready; desktop options timing is attributed and first-row content was observed by 1.43s in one desktop sample, with exact onset and iPhone timing unproved (waiting since 16 October 14:30Z; next action follows the original resource release and admission; finish estimate unknown)."
+        "text": "Waiting — Complete numerical native timing when the supported Inspector and original native turn are ready; desktop options timing is attributed and first-row content was observed by 1.43s in one desktop sample, with exact onset and iPhone timing unproved (waiting since 16 October 14:30Z; next action needs qualified source, a fresh dated Website allocation and prior handback; finish estimate unknown). The Mac-wide hold is lifted."
       },
       {
         "complete": true,
@@ -396,7 +396,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the bag follow-up through its original release owner (waiting since 19 October 20:02Z; repaired source returned 20 October 03:15Z; next existing-result check 04:05Z; finish estimate unknown). The original 3203e094 keeper remains in the existing Hands box-lock queue; consume its result without rerunning it. Queue admission is not terminal proof. Receipt, original PR reviews and merge remain owed."
+        "text": "Waiting — Complete the bag follow-up through its original release owner (source wait since 19 October 20:02Z; current attempt started 20 October 03:38:31Z; next inspection 04:35Z; finish estimate unknown). Original job 20261020T033831Z_62640_7947 was still waiting on both occupied remote slots at 04:21:50Z, with no remote container or test-execution credit. Its current queue deadline is 04:38:31Z. Consume the original result without a restart; receipt, original PR reviews and merge remain owed."
       },
       {
         "complete": true,
@@ -492,7 +492,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete C04 proof through original Hands (first wait unknown; proof gap recorded 03:40Z; next existing-result inspection 04:05Z; finish estimate unknown). The existing Hands box-lock queue adds no proof. P1/P2 and four database pins need PostgreSQL; 62 setup errors are not passes. All 211 selected mutation checks, fresh receipt, original PR/reviews and merge remain owed. The feature stays OFF; draft installation is separate."
+        "text": "Waiting — Complete C04’s named correction and proof through original Hands (first wait unknown; original proof gap recorded 03:40Z; terminal keeper and writer placement received 04:25Z; next inspection 04:35Z; finish estimate unknown). The PostgreSQL keeper ended at exit 1: 125 connection cases passed and two failed; the mutation clean baseline failed on the same assertions. P1/P2 passed. The same original writer must resolve the adopted refusal code versus the base check while preserving effective pins; its correction report has not returned."
       },
       {
         "complete": true,
@@ -503,10 +503,14 @@
         "text": "Completed — Consume the C08-2 writer return and record its original-owner disposition (03:55Z–03:57:36Z, took about 3 min). Clean, unpushed source 98ef9d20 has 43 passing panel cases as writer evidence. The reported downloaded-copy guarantee needs a named repair; one recommendation was delivered, with acknowledgement and execution unobserved."
       },
       {
+        "complete": true,
+        "text": "Completed — Receive the original C08-2 named copy fix and scope disposition (03:45Z–04:19Z, took 34 min including the wait; consumed 04:23Z). Clean local d5e62486 has 560 changed lines within the chair’s bound and 45 passing panel cases. Download-first wording replaces the false guarantee; account fences and two-tap confirmation remain. This closes the source repair wait, not keeper or release proof."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Complete the C08-2 named repair and missing proof through original Hands/A2 (since 03:45Z; next inspection 04:15Z; finish estimate unknown). Tell shoppers to download first while preserving account/lifecycle fences. Real LiquidJS mount, companion integration, C02 browser checks, all 99 selected mutations, receipt, original reviews and merge remain owed. Preserve the existing C04 integration order; the feature stays OFF."
+        "text": "Waiting — Qualify C08-2’s integrated successor through original Hands (since 04:19Z; next inspection 04:35Z; finish estimate unknown). Reconcile the active prior-source keeper before one successor run. All 101 selected mutations, real LiquidJS mount, companion integration, C02 browser and Liquid-dependent neighbors, receipt, original reviews and merge remain owed. No PR or installation; the feature stays OFF."
       }
     ],
-    "landing": "Lands: existing C04/bag result inspection about 04:05Z and C08 disposition inspection about 04:15Z (about 7 and 17 min from this snapshot; original keeper results and named-repair acknowledgement determine the next action). Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: next original-result inspection about 04:35Z (about 10 min from this evidence snapshot; original correction/keeper results and remote-slot availability determine the next action). The bag attempt’s queue deadline is 04:38:31Z. Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
