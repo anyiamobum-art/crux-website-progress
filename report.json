@@ -1,32 +1,32 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The saved-look contract lane started on its original remote worker at 10:59:34Z and returned fe803158 by 11:03Z. Both corrections are now together and unpushed. The combined result was sent to the existing release owner at 11:05Z for one keeper and one push. Bag’s completed result was delivered at 10:50Z; its keeper acknowledgement is being reconciled.",
+  "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The owner separately authorized the moving pet to go live on 20 October; only that scoped release is being assessed. All other unfinished storefront features remain unpublished.",
+  "workerState": "Bag keeper job 20261020T113358Z_19385_1595 passed on 19eb322c; its PR opened at 12:07:38Z. Saved-look fe803158 is pushed and hosted tests are running. One bounded source reader is identifying the live pet mount; no new writer or reviewer has been started.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Original saved-look source 600e02a5 is pushed to Ready PR #4646; its hosted contract correction waits for the original review findings. Bag source 2c141082 is unchanged while its original writer measures every unpinned narrow-screen rule before one repair commit."
+      "evidence": "Both Bag and saved-look repairs are pushed. The separate pet-only live mount is under source inspection; the current live theme has no companion assets."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Saved-look keeper: 640 passes, one skip and 222 selected causal checks passed. Hosted shard 3 then found one dependent removal-test failure: the edit-preparation refusal differs from its old expectation; dependent removal tests will join keeper coverage. Bag keeper: 249 passes, 84 skips and 51 causal checks passed; later probes confirm missing picture-width coverage. No proof transfers automatically to a successor head."
+      "evidence": "Bag exact-head keeper passed 249 tests, 84 skipped and 55 causal checks. Saved-look hosted tests are running; no earlier-head proof is transferred. Native WebKit checks remain separate."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Saved-look original first review was observed running at 10:16:30Z; no approval is recorded. Its findings and the hosted contract failure go to the same writer together. Bag internal receipt round 2 held the picture-width gap; the next internal receipt is final. Original PR review rounds and final design ratings are separate."
+      "evidence": "Both current PRs have a self-review receipt/diff admission mismatch. The original release owner has the exact failures and the new one-pre-push-read rule; code review rounds are preserved."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Download-and-clear #4643 is installed once in the unpublished draft; exact readback and preservation passed 09:04:16Z. The installed pet passed browser movement, controls, hover, guide open/close and reduced-motion checks at 09:26:45Z. No native, 200% text, performance or rating credit; no live publication. C07/C10 remain OFF."
+      "evidence": "Latest approved download-and-clear controls remain installed in the unpublished draft. Pet movement passed browser checks there. No pet live write, whole-theme publication, native pass or final rating is claimed."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The saved-look contract correction returned at 11:03Z: only the preparation-refusal expectation changed; Save refusals and the no-resurrection assertion remain intact. Its test environment lacked required dependencies, so validation is still owed. Bag’s 10:45:25Z remote result remains 66 small-screen and 19 shell passes; WebKit remains untested.",
+  "lastActualProgress": "Both repairs have moved from local commits into GitHub. Bag keeper passed 249 tests with 84 skips and all 55 selected causal checks; the skips are WebKit, not native proof. Saved-look hosted validation is still running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -111,9 +111,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "All second reviews returned — 0/3 qualified",
-      "Both saved-look corrections have returned on fe803158; validation in the equipped worker remains owed. Bag writer tests passed on 19eb322c and its successor keeper/final receipt are next. Pet browser proof remains complete.",
-      "Complete the original scoped repairs, exact-source proof, reviews and draft integration, then native acceptance and final named-fix checks."
+      "0/3 qualified; original named-fix checks pending",
+      "Bag #4652 and saved-look #4646 are now pushed; admission and original reviews remain.",
+      "Finish qualified merges, installation and acceptance before the original final reader checks."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Both prepared repairs still need release verification and review. The saved-look worker lacked PostgreSQL and jsdom, so its changed assertion has not yet passed there; the properly equipped keeper must run it. Native source, allocation and resource requirements, privacy facts and final ratings remain open.",
-  "current": "Both saved-look corrections have returned on clean source fe803158. Their combined final test run and round-two review are next. Bag writer tests passed on 19eb322c; its successor keeper and final receipt are next.",
-  "next": "The existing release owner runs the two prepared repairs through their required tests, receipts and original reviews. Root installs each approved merge into the unpublished draft, then continues the original iPhone acceptance and final named-fix ratings.",
-  "updated": "2026-10-20T11:05:53.981665+00:00",
+  "remaining": "Review admission needs the existing release owner to reconcile the exact-diff receipt requirement with the new no-repeat-review rule. The live theme contains no companion assets, so the pet needs a compatible mount. Native acceptance and the final ratings remain outstanding.",
+  "current": "The Bag repair is published as Draft PR #4652, and both saved-look fixes are pushed to #4646. Their admission checks reject receipts tied to earlier diffs; the original release owner has the exact failures. The pet-only live integration is being scoped against the current public theme.",
+  "next": "Resolve the existing receipt/admission mismatch without buying another review, then continue the original reviews and merges. In parallel, prepare the smallest pet mount for the live theme; do not publish the unfinished redesigned theme.",
+  "updated": "2026-10-20T12:14:09.519122+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -208,19 +208,23 @@
     "steps": [
       {
         "complete": true,
-        "text": "Completed — Install the approved saved-look controls and verify exact draft files, settings and unchanged live theme (08:52Z–09:04Z, took 12 min)."
+        "text": "Completed — Install the approved download-and-clear controls and verify exact draft files and preservation (08:52Z–09:04Z, took 12 min)."
       },
       {
         "complete": true,
-        "text": "Completed — Check the pet in the installed draft and publish the motion evidence (09:04Z–09:40Z, took 36 min; native and 200% checks remain separate)."
+        "text": "Completed — Check the pet in the installed draft and publish its motion evidence (09:04Z–09:40Z, took 36 min; native and 200% checks remain separate)."
       },
       {
         "complete": false,
-        "text": "In progress — Take the repaired Bag through its original keeper, review and merge (regression work 09:57Z–10:45Z, took 48 min; final proof passed; keeper request 10:50Z, follow-up sent at 11:05Z; next disposition check 11:20Z; remaining estimate depends on review)."
+        "text": "In progress — Prepare the pet-only live integration against the current public theme (started 11:14Z, resumed 12:10Z after provider-capacity interruption; dependency read est. 15 min, then estimate the required integration)."
       },
       {
         "complete": false,
-        "text": "In progress — Take the combined saved-look repair through one equipped test run, push, review and merge (first proof wait 03:40Z retained; contract lane 10:59Z–11:03Z, took 4 min; combined result delivered 11:05Z; next disposition check 11:20Z; remaining estimate unknown)."
+        "text": "In progress — Take Bag PR #4652 through admission, original review and merge (keeper passed; PR opened 12:07Z; receipt/diff blocker delivered 12:18Z; next check 12:35Z or changed result; remaining estimate depends on review)."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Take saved-look PR #4646 through admission, original second review and merge (first proof wait 03:40Z retained; both fixes pushed; hosted tests running; receipt/diff blocker delivered 12:18Z; next check 12:35Z or changed result)."
       },
       {
         "complete": false,
@@ -228,14 +232,14 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the seven original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; est. 13 min for the seven checks after allocation; timing estimate unknown; needs final installed source, resource clearance and original sixth-place turn)."
+        "text": "Waiting — Complete the original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; est. 13 min for the seven checks after allocation; needs final source, resource clearance and original turn)."
       },
       {
         "complete": false,
-        "text": "Pending — Complete the remaining buyer-trust and privacy acceptance, then the original final named-fix ratings and draft handover (estimate unknown until source and acceptance evidence qualify)."
+        "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (estimate unknown until source and acceptance evidence qualify)."
       }
     ],
-    "landing": "Lands: full draft completion time is not yet defensible; repair results, original reviews, native allocation and final acceptance can move it. A completed task-site update does not complete this plan."
+    "landing": "Lands: full draft completion time remains unknown. Pet release timing follows its mount inspection and required review; a provider interruption delayed this inspection. All other unfinished storefront features remain unpublished."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
