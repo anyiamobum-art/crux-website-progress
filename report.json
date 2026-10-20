@@ -2,22 +2,22 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The saved-look keeper is terminal green on the exact pushed head. Its existing PR is Ready and open. The Bag’s old queue is closed by a green keeper; the same original writer is now running the named repair. No new worker or review route was created. Pet browser proof and the prior draft installation remain terminal.",
+  "workerState": "The original saved-look reviewer was observed running at 10:16:30Z; its named findings will join the hosted regression in one original-writer repair. The same Bag writer is executing remote probes on the unchanged source. The earlier keeper results, pet browser evidence and installed draft remain verified.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Original C04 writer returned merge 600e02a5, retaining C04 and reviewed download-and-clear behavior; 22 files and 411 lines. Its exact head is pushed to existing Ready PR #4646. Bag 2c141082 passed its keeper, but the original writer is now repairing the newly named narrow-picture regression gap."
+      "evidence": "Original saved-look source 600e02a5 is pushed to Ready PR #4646; its hosted contract correction waits for the original review findings. Bag source 2c141082 is unchanged while its original writer measures every unpinned narrow-screen rule before one repair commit."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C04’s original keeper ended 10:01:52Z with 640 passes, one skip and all 222 selected causal checks passing; 174 named tests / 192 clean nodes also passed. The writer’s earlier 378-entry declaration is a different recorded count. Replacement hosted checks are running; earlier cancelled checks are not a code verdict. Bag 2c141082 passed 249 tests with 84 skips and all 51 causal checks; this proof does not transfer automatically to the new repair head."
+      "evidence": "Saved-look keeper: 640 passes, one skip and 222 selected causal checks passed. Hosted shard 3 then found one dependent removal-test failure: the edit-preparation refusal differs from its old expectation; dependent removal tests will join keeper coverage. Bag keeper: 249 passes, 84 skips and 51 causal checks passed; later probes confirm missing picture-width coverage. No proof transfers automatically to a successor head."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "C04 receipt 743e74f4 had description-only findings that Hands reports fixed; exact 600e02a5 is now pushed and Ready, with hosted checks and original reviews still open. Bag receipt round 2 f8017592 held an uncovered picture-width rule. The same writer is checking every rule in the 319px block; round 3 is final, with no additional round. Final design ratings remain 0/3 qualified."
+      "evidence": "Saved-look original first review was observed running at 10:16:30Z; no approval is recorded. Its findings and the hosted contract failure go to the same writer together. Bag internal receipt round 2 held the picture-width gap; the next internal receipt is final. Original PR review rounds and final design ratings are separate."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "C04’s original keeper ended at 10:01:52Z: 640 passes and one skip across ten suites, 174 named tests / 192 clean nodes passing, and all 222 selected causal checks passing. The exact head is now pushed and Ready. Bag 2c141082 returned 249 passes, 84 skips and 51 passing causal checks at 09:58:54Z; its round-2 receipt then held a missing narrow-picture regression, assigned to the same writer.",
+  "lastActualProgress": "At 10:20:36Z the original Bag probe finished: removing the picture-width rule left 66 Small200 tests and all 12 width cases passing, confirming missing coverage; removing the summary rule caused one collected assertion failure. Both probes restored the original CSS hash. The original writer started the next label-and-dock probe at 10:20:42Z. Saved-look hosted shard 3 failed one dependent removal test at 10:16:16Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "The saved-look keeper passed ten suites and all 222 selected causal checks; its exact head is now pushed and Ready. The Bag keeper passed, then its fresh receipt returned one narrow-picture regression gap to the same writer. Pet browser proof remains complete.",
-      "Consume the original keeper and final receipt results, complete reviews and integration, then original native acceptance and final named-fix checks."
+      "Saved-look hosted checks found a dependent refusal-contract mismatch; its original review is underway. Bag probes confirmed the picture-width test gap and continue through the original writer. Pet browser proof remains complete.",
+      "Complete the original scoped repairs, exact-source proof, reviews and draft integration, then native acceptance and final named-fix checks."
     ],
     [
       "9. Complete website assembly merge",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Latest controls installed and pet browser proof verified — final acceptance open",
-      "Three approved files match readback at 09:04:16Z; all unrelated draft files, live records and settings are preserved. Pet browser movement and reduced motion passed at 09:26:45Z.",
-      "Finish the saved-look hosted checks and original review route, plus the Bag’s same-writer final regression repair and receipt, then final integration, native checks and ratings. C07/C10 remain OFF."
+      "Three approved files match readback at 09:04:16Z; unrelated draft files, live records and settings are preserved. Pet browser movement and reduced motion passed at 09:26:45Z.",
+      "Finish the saved-look contract correction and original review route, plus the Bag’s original narrow-block repair and final receipt, then integration, native checks and ratings. C07/C10 remain OFF."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The saved-look PR is Ready but remains open; replacement hosted checks and original review are not complete. Earlier cancelled checks are not a code verdict. The Bag’s fresh receipt held an uncovered picture-width rule, and its original repair is active. Native acceptance still needs qualified final source, recovered resources, a Website allocation and prior handback. Privacy facts and final ratings remain open.",
-  "current": "The saved-look keeper passed, and original Hands has pushed the exact source and marked its existing PR Ready. Replacement hosted checks are running; original review remains separate. The Bag keeper passed, then its fresh receipt returned a narrow picture-width regression gap to the same original writer.",
-  "next": "Consume the original saved-look hosted checks and review results, then qualify its merge for draft installation. Consume the same Bag writer’s narrow-block regression repair, exact-head proof and final permitted receipt before release.",
-  "updated": "2026-10-20T09:38Z",
+  "remaining": "Saved-look hosted tests fail on the preparation-refusal contract; no original review approval is recorded. The Bag picture-width gap is confirmed and its same-writer repair is unfinished. Native acceptance remains sixth in the existing queue and needs final merged-and-installed source, more than 10GB free disk, fresh action-time resource checks and the original Website allocation and handback. Privacy facts and final ratings remain open.",
+  "current": "The saved-look change hit one real hosted regression: preparing an edit of a removed look returns a different refusal code from the older test contract. Its original review is underway. The Bag writer confirmed the missing picture-width assertion and is checking the remaining narrow-screen rules.",
+  "next": "Receive the original saved-look review findings, then its original writer makes one scoped correction including the dependent removal tests. Receive the Bag writer’s complete narrow-block proof and repair, then its final permitted receipt and original release route.",
+  "updated": "2026-10-20T10:23:12.153505+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -236,7 +236,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete numerical native timing when the supported Inspector and original native turn are ready; desktop options timing is attributed and first-row content was observed by 1.43s in one desktop sample, with exact onset and iPhone timing unproved (waiting since 16 October 14:30Z; next action needs qualified source, a fresh dated Website allocation and prior handback; finish estimate unknown). The earlier P1329 hold is closed; the new heavy-work resource hold remains, along with the separate Website allocation requirement."
+        "text": "Waiting — Complete numerical native timing when the supported Inspector and original native turn are ready; desktop options timing is attributed and first-row content was observed by 1.43s in one desktop sample, with exact onset and iPhone timing unproved (waiting since 16 October 14:30Z; next action needs qualified source, a fresh dated Website allocation and prior handback; finish estimate unknown). The general heavy-work hold was lifted at 10:11Z; the separate Website disk, resource, queue and allocation requirements remain."
       },
       {
         "complete": true,
@@ -528,7 +528,7 @@
       },
       {
         "complete": true,
-        "text": "Completed — Receive the same Bag writer’s two-regression repair (07:24Z–08:56Z, took 92 min including remote probes). Two proof files changed; runtime is unchanged. Both new checks fail under sabotage and pass after exact restoration. Final remote suites passed 85 cases with 83 skips, plus a 12-case subset. The full 48-pin keeper and fresh receipt remain with original Hands."
+        "text": "Completed — Receive the same Bag writer’s two-regression repair (07:24Z–08:56Z, took 92 min including remote probes). Two proof files changed; runtime is unchanged. Both new checks fail under sabotage and pass after exact restoration. Final remote suites passed 85 cases with 83 skips, plus a 12-case subset. The later exact-head keeper completed 51 selected pins; its fresh receipt named the picture-width gap now assigned to the original writer."
       },
       {
         "complete": true,
@@ -612,26 +612,38 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Consume the original saved-look hosted checks, code reviews and merge (first proof wait 03:40Z retained; Ready observed 10:05Z; finish estimate unknown). Continue only from the original lane’s changed result."
+        "text": "Waiting — Receive the original saved-look review and one scoped correction for its hosted removal-contract failure (first proof wait 03:40Z retained; failure 10:16Z; original review observed running 10:16:30Z; next check is its changed result; finish estimate unknown). Include dependent removal tests in the original keeper, then preserve the same release route."
       },
       {
         "complete": false,
-        "text": "Waiting — Receive the Bag’s same-writer narrow-block repair and final permitted receipt (started 09:57:31Z; finish estimate unknown; next event is the original writer result). The earlier queue wait is closed by the terminal green keeper."
+        "text": "Waiting — Receive the Bag’s same-writer narrow-block repair and final permitted receipt (started 09:57:31Z; next remote probe started 10:20:42Z; next check is its changed result; finish estimate unknown). Picture deletion confirms the missing assertion; summary deletion fails a collected test. Both original CSS restorations match; final clean proof and successor source remain owed."
       },
       {
         "complete": true,
         "text": "Completed — Reconcile the original running keeper and its exact source (10:01Z–10:06Z, took about 5 min). New terminal keeper, Ready state and cancelled-check reconciliation extended this step; the original remaining review gates are verified; the Bag’s queue closed with a green keeper and one fresh receipt finding."
       },
       {
-        "complete": false,
-        "text": "In progress — Publish one changed task snapshot and verify Pages plus served files (started 10:06Z, est. 4 min)."
+        "complete": true,
+        "text": "Completed — Publish one changed task snapshot and verify Pages plus served files (10:06Z–10:10Z, took about 5 min). One push produced e212984; matching Pages succeeded and all five served files match the commit. Pet media and completion counts remain unchanged."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Save the original jobs, prerequisites and restart boundary locally (10:11Z–10:11Z, took less than 1 min). This publication is terminal; original hosted checks, reviews and Bag repair remain with their owners. No active or uncertain consumer effect remains."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Consume the original keeper, receipt hold and first narrow-rule probe (10:00Z–10:21Z, took about 21 min including the original remote wait). Preserve the original writer, exact source and source-restoration evidence."
       },
       {
         "complete": false,
-        "text": "Pending — Save the original jobs, prerequisites and restart boundary locally (est. 1 min)."
+        "text": "In progress — Update the existing task snapshot with the real hosted failure and current original Bag proof (started 10:23Z, est. 4 min). Publish once and verify the matching Pages deployment and served files."
+      },
+      {
+        "complete": false,
+        "text": "Pending — Save the compact handoff and original active calls after verification (est. 2 min). Continue consuming the original writer result."
       }
     ],
-    "landing": "Lands: about 10:11Z (5 min left for this snapshot; Pages availability could move it). Keeper and repair finish times, and full Website completion, remain unknown."
+    "landing": "Lands: about 10:29Z (6 min left for this snapshot; Pages completion or changed original evidence could move it). Full Website completion remains unknown."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
