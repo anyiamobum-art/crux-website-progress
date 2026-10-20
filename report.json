@@ -2,17 +2,17 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The owner separately authorized the moving pet to go live on 20 October; only that scoped release is being assessed. All other unfinished storefront features remain unpublished.",
-  "workerState": "The original pet writer is terminal: exit 0 at 15:30:04Z; both original processes had exited by 15:36Z. The same release consumer is preparing transport offline, with no live effect. The original request wait remains 12:18:01Z. Runtime model and applied effort remain unreported. Seven native checks remain NOT EXERCISED and the binding UNSPENT.",
+  "workerState": "The same pet writer session resumed at 16:24:55Z. The original account repair returned at 16:28Z as local commit 08244f1d; no push or PR, and full hosted render proof remains owed. Wrapper preparation is terminal and root-consumed, with no network, production runtime, journal attempt or installation. C11 tests 0–4 are running, pin proof queued and first review pending; it is not merged.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Pet writer terminal 15:30:04Z at c90b69c7; exact offline binding covers 12 keys and 1,615,587 raw bytes, with no PR/remote branch at 15:36Z. Original delivery/total source 464544f8 is a clean local 858-line commit, unmounted and OFF; its adopted 292-line wiring split is saved and apply-check verified."
+      "evidence": "Same pet writer resumed 16:24:55Z; exact repaired source pending. Account repair returned at 16:28Z as local 08244f1d, with no push or PR. C11 PR #4661 is Ready at 464544f8 and not merged; its 292-line wiring successor follows merge. Saved-look test source is committed at 48fc7f64. Wrapper preparation is complete offline; pet binding remains provisional."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Pet: 28 original final pin cycles verified and preserved without rerun; 74 skipped browser cases remain unproved. Account block and saved-look test size are accepted, while exact account proof and the original saved-look commit/hosted journey remain owed. Delivery-step owner reports 12 cases and 12 pins; broader Liquid/PostgreSQL proof and six wiring pins remain unproved. Seven native checks are still unexercised."
+      "evidence": "Offline wrapper: 14/14 in 10.340 s, all artifacts matched and root inspection complete; no network/runtime/install effect. Pet repair and 74 skipped pet browser cases remain unproved. Account repair has 8/9 cases passing and restored causal RED; its Liquid render case needs liquidjs and full hosted proof remains owed. C11 tests 0–4 running, pins queued, first review pending. Saved-look hosted journey has not run; seven native checks remain unexercised."
     },
     {
       "stage": "Review",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The pet terminal report and exact offline source binding were consumed by 15:38:25Z: candidate c90b69c7, 12 Shopify keys and 1,615,587 raw bytes. Twenty-eight final pin cycles were preserved and verified without rerunning them; 74 skipped browser cases receive no proof credit. The chair accepted the account block and connected saved-look test size at 15:32:51Z. The original delivery/total-step return and saved wiring split were consumed at 15:37:27Z.",
+  "lastActualProgress": "Root consumed the frozen wrapper receipt at 16:25:02Z after inspecting its code and test cases and matching every artifact/helper/runtime hash. Fourteen offline tests passed in 10.340 seconds; total preparation ran 15:47Z–16:25Z, taking 38 minutes because scoped guard coverage exceeded the initial 15-minute estimate. The original pet repair resumed at 16:24:55Z; its repaired source is still pending. The account writer then returned local commit 08244f1d at 16:28Z with its named repair and causal RED proof; the Liquid render case still requires hosted execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The pet candidate had no PR or remote branch at 15:36Z. Its 74 skipped browser cases still need proof, followed by required reviews, merge, qualified live transport, installation and public acceptance. Hands still owes the effort/custody disposition; configured high and historical xhigh remain distinct. Connected render/database/wiring proof and Website native resource/custody gates remain outstanding.",
-  "current": "The original pet writer finished successfully at 15:30:04Z. Its exact candidate and install list are bound offline; Hands’ release qualification and publication remain pending. The original release consumer is preparing the transport offline. Connected account and delivery acceptance remains open, with features OFF.",
-  "next": "Hands resolves the original effort/custody disposition and publishes the pet candidate through its required checks, reviews and merge; the release consumer qualifies the scoped transport offline. P1480 disposition remains due 15:45Z. The original connected-feature owners continue exact proof and their accepted source scope. Native checks retain their existing prerequisites.",
-  "updated": "2026-10-20T15:42:03.144077+00:00",
+  "remaining": "The pet repair result is still pending. The account repair returned at 08244f1d with 8/9 cases passing; its Liquid render case cannot run without liquidjs, so full hosted proof remains owed. The offline wrapper passed its scoped tests, but c90b69c7 remains provisional and requires repaired-source binding, real reviews/merge and fresh live qualification. C11’s current checks and review have not finished; saved-look hosted execution, browser/connected acceptance and native prerequisites remain open.",
+  "current": "The original pet repair resumed at 16:24:55Z; its result is pending. Offline wrapper preparation finished at 16:25Z with all 14 tests passing and root’s inspection complete. C11 PR #4661 is Ready with tests running, pins queued and its first review pending. Pet source remains provisional; live installation has not begun.",
+  "next": "Consume the same pet writer’s repaired source, then rebind exact source and complete the existing release gates. The account repair returned at 16:28Z; full hosted render proof and release gates remain. Follow C11’s hosted checks and original reviews; its wiring successor follows merge. Saved-look hosted execution and native allocation remain owed. Root’s existing next observation is 16:45Z or a changed original result.",
+  "updated": "2026-10-20T16:31:37.248246+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,7 +216,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the pet-only live host through its original Hands route (writer 14:57:52Z–15:30:04Z, took 32 min, exit 0; exact offline source binding consumed 15:38:25Z; original request wait since 12:18:01Z retained, with follow-up 12:36Z and missed 12:51Z commitment historical; original release consumer prepares transport offline while Hands owes effort/custody disposition by 15:45Z and source publication, required proof/reviews/merge; no install or release credit; estimate unknown)."
+        "text": "In progress — Complete the pet-only live host through its original Hands route (original build 14:57:52Z–15:30:04Z, took 32 min; same-writer repair resumed 16:24:55Z, result pending; offline wrapper 15:47Z–16:25Z, took 38 min versus est. 15 min because scoped guard coverage expanded the test work; 14/14 passed in 10.340 s, root inspection complete; next is exact repaired-source binding and required release gates; original request wait since 12:18:01Z, follow-up 12:36Z and missed 12:51Z commitment retained; original effort/custody disposition remains open; no install or release credit; overall estimate unknown)."
       },
       {
         "complete": true,
@@ -236,10 +236,10 @@
       },
       {
         "complete": false,
-        "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (chair accepted account block and saved-look test size at 15:32:51Z; original owners still owe exact account proof, saved-look commit/hosted journey, and delivery-step Liquid/PostgreSQL and wiring proof; features remain OFF and delivery source unmounted; two full rating rounds consumed, only original final named-fix checks remain; next event is qualified original-owner proof; estimate unknown)."
+        "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (original account repair returned 16:28Z at local 08244f1d, 8/9 cases pass and Liquid render proof owed, no push or PR; C11 PR #4661 Ready with tests running, pins queued and first review pending, not merged; wiring follows merge; saved-look source committed, hosted journey not run; features OFF and delivery unmounted; connected/browser/native proof remains; two full rating rounds consumed, only original final named-fix checks remain; estimate unknown)."
       }
     ],
-    "landing": "Lands: full draft completion time remains unknown. The pet writer is terminal and source is bound offline; Hands’ release qualification, required proof/reviews/merge, scoped installation and public acceptance remain. Both draft repairs are installed. Connected functional proof and Website native resource, allocation and handback prerequisites remain. Original final named-fix checks are still owed; the unfinished redesign remains unpublished."
+    "landing": "Lands: full draft completion time remains unknown. Offline wrapper preparation is complete; original pet repair and exact source/release qualification remain; the account repair returned locally and still needs full hosted proof. C11 is in its original Ready PR lane with checks and review pending. Saved-look hosted execution, actual native allocation, scoped pet installation/public acceptance and original final named-fix checks are still owed. Both draft repairs stay installed; the unfinished redesign remains unpublished."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
