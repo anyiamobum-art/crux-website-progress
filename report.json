@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Original Hands owns layout, arrow and bag release work. The eight-file styling installation and separate settings-preservation check are complete. The saved-look correction follow-up started on the build server at 00:17Z using the five released panel files. Its result and review are still pending; the original owner has been asked to preserve CRUX’s existing colors.",
+  "workerState": "Original Hands owns verification and release. The arrow writer started at 00:40Z after the chair resolved its branch assignment. The saved-look writer finished at 00:42Z with five changed files; its broader tests, receipt and PR remain with Hands. CRUX colors are preserved in source.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 00:03Z Shopify returned exact bytes for all eight merged styling files. A second read confirmed 689 draft files, all 539 live files unchanged, unrelated draft files preserved and settings byte-identical. Private styling and assistant switches remain off. The saved-look correction follow-up started at 00:17Z. Layout awaits its final verdict; arrows await their original named repair.",
+  "lastActualProgress": "At 00:42Z the saved-look correction returned clean source 2985b38d: specific unclear-piece messages, Basic styling labels and editing over a saved version. Reported proof is 36 panel cases and 44 causal mutation checks; ten Liquid suites and the browser wrapper remain for the original keeper. This is built source, not a reviewed or installed result. The earlier eight-file draft installation remains verified and private switches stay off.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The layout’s hosted test gate is green; its final review verdict is pending. The arrow repair is queued, but its assignment conflicts with the chair’s latest direction; Hands has one request to reconcile it. The bag follow-up depends on the revised layout. Native acceptance, the existing privacy decision and all three qualified ratings remain open.",
-  "current": "The reviewed styling contract and saved-looks UI are merged and installed in the unpublished Shopify draft. All eight installed files match their reviewed source; settings and the live theme are unchanged. Layout #4580 awaits its final named-fix verdict. The arrow repair is queued and awaits Hands’ reconciliation of its writer assignment.",
+  "remaining": "The layout’s test gate is green, but its final review has no verdict. Its original dispatcher skipped while checks were pending; the original review keeper has been asked to reconcile that request now the checks pass. The saved-look correction still needs broader verification and review. Native acceptance, the existing privacy decision and all three qualified ratings remain open.",
+  "current": "The saved-look correction is built and awaiting its original broader verification: 36 panel cases and 44 causal mutation checks pass in the writer’s report. The arrow repair started after the chair cleared its branch blocker. Earlier styling files are installed in the unpublished Shopify draft; the new correction is not installed.",
   "next": "Finish the original layout and arrow reviews, then integrate and release the verified bag follow-up. Install the remaining qualified repairs in the draft and finish the original iPhone checks and final named-fix ratings.",
-  "updated": "2026-10-20T00:21:43Z",
+  "updated": "2026-10-20T00:46:53Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -388,11 +388,11 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the final layout review (since23:43Z; checked00:20Z, next check00:40Z). Hosted checks are green. Preserve the third-round limit; a rejection returns to the chair."
+        "text": "Waiting — Finish the final layout review (since23:43Z; checked00:43Z, next check01:00Z). Hosted checks are green. Preserve the third-round limit; a rejection returns to the chair."
       },
       {
         "complete": false,
-        "text": "Waiting — Correct the two script arrows missed by the sweep (waiting since23:11Z; assignment discrepancy sent00:12Z, next check00:30Z; est.25 min after execution starts). The chair’s original writer and the queued writer differ; Hands owns reconciliation before execution."
+        "text": "In progress — Correct the two script arrows missed by the sweep (started00:40Z, est.25 min). The chair resolved the assignment and released the blocked branch; the same original writer is running. Verification and review still follow."
       },
       {
         "complete": false,
@@ -419,14 +419,18 @@
         "text": "Completed — Prepare the layout’s eleven-file draft candidate (00:09Z–00:10Z, took 1 min). Every installed-file fingerprint matches the reviewed base. This is preparation only; final review, merge and a fresh theme read are required before upload."
       },
       {
-        "complete": false,
-        "text": "In progress — Build the saved-look correction follow-up through its original owner (started00:17Z; est.30 min, result not yet returned). Preserve CRUX colors and keep the private feature off."
+        "complete": true,
+        "text": "Completed — Build the saved-look correction through its original owner (00:17Z–00:42Z, took25 min). Five files, 36 passing panel cases and44 causal checks; CRUX colors preserved. No PR or installation yet."
       },
       {
         "complete": false,
-        "text": "Waiting — Original layout final review and arrow repair (layout waiting since19 October23:43Z; checked20 October00:20Z, next check00:40Z). All layout test shards and its test gate pass; the bag follow-up waits on the layout merge."
+        "text": "Waiting — Complete the original broader verification and receipt for the saved-look correction (since00:42Z; est.20 min after the keeper starts; next check01:00Z). Ten Liquid suites and the browser wrapper could not run on the writer’s box; the existing CI-image keeper owns them."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Original layout final review and arrow repair (layout waiting since19 October23:43Z; checked20 October00:43Z, next check01:00Z). All layout test shards and its test gate pass; the bag follow-up waits on the layout merge."
       }
     ],
-    "landing": "Lands: the styling installation is verified. The saved-look follow-up aims to return about00:47Z (an estimate from its00:17Z start; findings or box availability may move it). Arrow custody is due for inspection00:30Z and the layout verdict00:40Z. Remaining review, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: the arrow repair aims to return about01:05Z (25 min from its00:40Z start; findings may move it). The saved-look source is built; its broader verification and the layout review need original results, next inspected01:00Z. Final merge, native acceptance and ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
