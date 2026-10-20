@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "Both draft installations are finished and verified. The saved-look verifier started at01:46:23Z on96b715c7; its panel, mount and syntax checks pass so far. The original owner integrated the bag follow-up at c49fb2c8 and queued its verification. No duplicate jobs are running from this task.",
+  "workerState": "The saved-look verifier finished successfully at01:59:47Z on96b715c7. The original owner integrated the bag follow-up at c49fb2c8 and queued its verification; no execution log is present yet. Both existing draft installations are finished and verified.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout and arrows are merged and installed. The original owner integrated the remaining bag source as c49fb2c8. The saved-look successor96b715c7 fixes the stale edit base; its verification is running."
+      "evidence": "Layout and arrows are merged and installed. The original owner integrated the remaining bag source as c49fb2c8. The saved-look successor96b715c7 fixes the stale edit base and passed its original verification; its release receipt and PR are next."
     },
     {
       "stage": "Tests",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Layout #4580 merged01:40Z and its eleven files were verified in the draft01:48Z. Arrow #4618 merged01:44Z and its sixteen files were verified01:52Z. All539 live files, unrelated draft files and settings remain unchanged; private features stay OFF.",
+  "lastActualProgress": "Saved-look verification completed successfully: panel, mount,190 syntax and147 atlas cases passed with1 skip; all55 selected mutation checks passed. Earlier in this pass, the layout and arrow repairs were installed with exact stored-file readbacks and unchanged settings/live theme.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The remaining bag verification is queued and the saved-look verification is running. Native acceptance still needs the qualified final source and retained resource admission. The existing privacy decision and all three qualified ratings remain open.",
-  "current": "Both the layout and arrow repairs passed their original reviews, merged and are installed in the unpublished Shopify draft. Exact file readbacks and preservation checks passed. The remaining bag and saved-look repairs continue through their original release owner.",
-  "next": "Finish the original bag and saved-look verification, reviews and merges, install their approved files, then complete the original iPhone checks and final named-fix ratings.",
-  "updated": "2026-10-20T01:55:00Z",
+  "remaining": "The saved-look repair still needs its original release receipt, PR reviews and merge. Bag verification remains queued. Native acceptance needs the qualified final source and retained resource admission. The existing privacy decision and all three qualified ratings remain open.",
+  "current": "Both layout and arrow repairs are merged and verified in the unpublished Shopify draft. The saved-look repair has also completed its original broader verification, including all55 mutation checks; its release receipt and PR review are next.",
+  "next": "Complete the original saved-look receipt and review, finish the queued bag verification, then merge and install those approved files. The original iPhone checks and final named-fix ratings follow on the finished draft.",
+  "updated": "2026-10-20T02:01:00Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -455,8 +455,8 @@
         "text": "Completed — Consume the saved-look base-reset repair (returned01:38Z, checked01:40Z; took2 min to reconcile). Its39 focused cases pass. The two-piece-look claim is challenged with an actual read-path regression because saved looks require three pieces."
       },
       {
-        "complete": false,
-        "text": "In progress — Verify the saved-look successor through its original release owner (started01:46Z, est.15 min; next check02:00Z). The exact-source panel, mount and syntax checks pass; broader verification and all52 mutation checks remain underway. The third receipt and one PR follow."
+        "complete": true,
+        "text": "Completed — Verify the saved-look successor through its original release owner (01:46Z–01:59Z, took13 min). Panel, mount,190 syntax and147 atlas cases passed with1 skip; all55 selected mutation checks passed. The exact source is now ready for its original release receipt."
       },
       {
         "complete": true,
@@ -465,8 +465,12 @@
       {
         "complete": true,
         "text": "Completed — Publish and verify the task-site update (01:53Z–01:54Z, took1 min). The matching Pages deployment passed and both served files match the published source; real draft installations and remaining original jobs are recorded."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Complete the saved-look release receipt and original PR review (since01:59Z; next check02:10Z). Its original release owner holds the third receipt, one publication and review route. Draft installation follows approval and merge."
       }
     ],
-    "landing": "Lands: saved-look verification about02:01Z (about6 min left if its remaining checks pass). Bag verification start and both original release paths next check02:00Z. Native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: next original release inspection about02:10Z (about9 min; receipt execution and queue timing determine the next merge). Native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
