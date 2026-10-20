@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The owner separately authorized the moving pet to go live on 20 October; only that scoped release is being assessed. All other unfinished storefront features remain unpublished.",
-  "workerState": "Saved-look fe803158 has passing hosted tests and pins, first-review round-2 approval, and a pending critical review. Bag 19eb322c is Ready; run 39421919211 has four shards running and one queued in the 12:33Z snapshot, with first review pending. The earlier Draft-opening skipped tests and canceled pins are historical. Pet writer execution has not yet been observed.",
+  "workerState": "Saved-look installation is terminal and verified; it must not be replayed. Bag is merged, with its one installation assignment retained by the root release owner. The pet request was delivered at 12:18:01Z and followed up at 12:36Z; the original job receipt is still missing.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Both Bag and saved-look repairs are pushed. The pet mount inspection is complete; the original writer request was delivered at 12:18:01Z and acknowledgment is owed. Live-header source is verified; no live write occurred."
+      "evidence": "Saved-look is installed and Bag is merged awaiting its qualified draft installation. The pet source inspection is complete; the original host job receipt is still missing after its 12:51Z deadline."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Saved-look passed all five hosted shards, test gate and pins. Bag’s new Ready-triggered run is active; the earlier Draft-opening failed/skipped run and canceled pins are historical. Its keeper remains 249 passes, 84 WebKit skips and 55 causal checks; current hosted checks are not yet all green."
+      "evidence": "Saved-look and Bag have passing current hosted tests, test gates, pins and guards. Bag’s earlier Draft-opening failures and canceled pins remain historical. Its keeper remains 249 passes, 84 WebKit skips and 55 causal checks; native acceptance stays separate."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Saved-look’s original FIRST reviewer approved full round 2 at 12:23:49Z; critical review is pending. Bag is Ready, passed admission at 12:24:38Z and awaits its first review. Both remain unmerged; original review rounds are preserved."
+      "evidence": "Saved-look and Bag passed both original code reviews and merged. Original review rounds and source custody remain preserved; whole-website final named-fix ratings remain separate."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Latest approved download-and-clear controls remain installed in the unpublished draft. Pet movement passed browser checks there. No pet live write, whole-theme publication, native pass or final rating is claimed."
+      "evidence": "Saved-look’s two-file repair is installed in the unpublished draft and verified at 13:07:30Z, with complete preservation. Bag installation remains pending. No pet live write, whole-theme publication, native pass or final rating is claimed."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Saved-look’s original first reviewer approved full round 2 at 12:23:49Z, and the test gate passed at 12:29:09Z. Bag moved to Ready, passed admission at 12:24:38Z and started its new hosted test run. Both remain open and unmerged.",
+  "lastActualProgress": "Saved-look installation completed at 13:07:30Z: two exact files totaling 80,510 bytes, with 687 unrelated draft files and all 539 live files preserved. Bag merged at 13:18:24Z as 6e83d669 after both reviews and CI passed. Assistant, C02, C07 and C10 remain OFF.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "0/3 qualified; original named-fix checks pending",
-      "Saved-look #4646 has passing hosted tests and first-review round-2 approval; critical review is pending. Bag #4652 is Ready with new tests and first review pending. Both remain unmerged.",
-      "Finish qualified merges, installation and acceptance before the original final reader checks."
+      "Saved-look #4646 is installed with exact source and preservation verified. Bag #4652 passed both reviews and CI and is merged; its draft installation is pending.",
+      "Finish Bag installation and the original acceptance evidence before the final named-fix reader checks."
     ],
     [
       "9. Complete website assembly merge",
@@ -123,9 +123,9 @@
     ],
     [
       "10. Completed Shopify draft and handover",
-      "Latest controls installed and pet browser proof verified — final acceptance open",
-      "Three approved files match readback at 09:04:16Z; unrelated draft files, live records and settings are preserved. Pet browser movement and reduced motion passed at 09:26:45Z.",
-      "Finish both repaired PRs through their existing tests, reviews and merges, then qualified installation, native checks and ratings. C07/C10 remain OFF."
+      "Saved-look repair installed and Bag repair merged — final acceptance open",
+      "Saved-look’s two approved files match hosted readback at 13:07:30Z; all 687 unrelated draft files, 539 live files and settings are preserved. Pet browser movement and reduced motion remain verified at 09:26:45Z.",
+      "Install merged Bag repair once through its qualified owner, then complete native checks and original final named-fix ratings. Assistant, C02, C07 and C10 remain OFF."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Saved-look awaits its original critical review. Bag awaits the new Ready-triggered hosted tests and original reviews. The pet-only host request awaits its original writer’s acknowledgment. Native allocation, source acceptance and final ratings remain separate dependencies.",
-  "current": "Saved-look #4646 has passed all five hosted test shards, its test gate and pins. The original first reviewer approved full round 2 at 12:23:49Z; the critical review is pending. Bag #4652 is Ready with successful admission and a new hosted test run active. Both repairs remain unmerged.",
-  "next": "Consume the original saved-look critical review and Bag’s active tests and first review, then take each qualified merge through exact draft installation. The original pet host request still awaits acknowledgment; its next destination check is 12:36Z.",
-  "updated": "2026-10-20T12:34:47.604815+00:00",
+  "remaining": "Bag is merged and awaits its qualified draft installation. The pet host request still lacks an acknowledgment or job receipt after the missed 12:51Z deadline. Native allocation, buyer-trust and privacy acceptance, and the original final named-fix ratings remain outstanding.",
+  "current": "Saved-look #4646 is installed in the unpublished draft, with both files verified at 13:07:30Z and all unrelated draft files, live files and settings preserved. Bag #4652 passed both original reviews and CI and merged at 13:18:24Z; its installation is still pending. The original pet host job receipt remains missing.",
+  "next": "The root release owner assigns the sole qualified Bag installer, then consumes its terminal installation and preservation receipt. Continue the original native and final-reader prerequisites after the finished source qualifies. The pet’s next event is the original owner’s job/result or an exact missing prerequisite.",
+  "updated": "2026-10-20T13:23:32.444432+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,19 +216,19 @@
       },
       {
         "complete": false,
-        "text": "In progress — Prepare the pet-only live host against the current public theme (started 11:14Z, resumed 12:10Z; source inspection complete and header read verified 12:18:59Z; writer request delivered 12:18:01Z, awaiting acknowledgment; next check 12:36Z, disposition 12:51Z; integration estimate awaits the original writer)."
+        "text": "Waiting — Complete the pet-only live host through its original writer (scope started 11:14Z; request waiting since 12:18:01Z; bounded follow-up delivered 12:36Z; chair deadline 12:51Z missed, with no acknowledgment or new job observed at 13:07Z; next event is the original owner’s job/result or exact prerequisite; integration estimate unknown)."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Take Bag PR #4652 through its original reviews and merge (merged 13:18:24Z after both reviews and required CI passed; elapsed work time unknown; source wait since 19 October 20:02Z and keeper queue wait since 20 October 01:50:50Z retained)."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Take saved-look PR #4646 through its original reviews and merge (merge verified before the 13:07:30Z installation; both reviews and required CI passed; elapsed work time unknown; first proof wait 03:40Z retained)."
       },
       {
         "complete": false,
-        "text": "In progress — Take Bag PR #4652 through required tests, original reviews and merge (source wait since 19 October 20:02Z; keeper queue wait since 20 October 01:50:50Z retained; now Ready with admission passed 12:24:38Z; new hosted tests active and first review pending at 12:33Z; next check 12:36Z or changed result; review estimate unknown)."
-      },
-      {
-        "complete": false,
-        "text": "In progress — Take saved-look PR #4646 through its original critical review and merge (first proof wait 03:40Z retained; all five test shards and pins passed, test gate passed 12:29:09Z; original first reviewer approved full round 2 at 12:23:49Z; critical review pending at 12:33Z; next check 12:36Z or changed result; review estimate unknown)."
-      },
-      {
-        "complete": false,
-        "text": "Pending — Install each approved merged repair in the unpublished draft and verify exact files and preservation (est. 10 min per qualified merge)."
+        "text": "In progress — Install each approved merged repair in the unpublished draft and verify exact files and preservation (C04 applied 13:06Z–13:07Z, took about 1 min through verification; two exact files and preservation verified 13:07:30Z; Bag installation awaits the sole root-assigned installer, est. 10 min; next event is its terminal installation receipt)."
       },
       {
         "complete": false,
@@ -239,7 +239,7 @@
         "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (estimate unknown until source and acceptance evidence qualify)."
       }
     ],
-    "landing": "Lands: full draft completion time remains unknown. The pet source inspection has finished; its original writer acknowledgment, host implementation and required checks now determine timing. The earlier provider interruption is recorded. Only the pet is authorized for live release; the unfinished redesign remains unpublished."
+    "landing": "Lands: full draft completion time remains unknown. C04 is installed; Bag is merged and its qualified installation is next, estimated at 10 min once assigned. Native and final acceptance remain outstanding. The pet’s original owner must return a job/result or exact prerequisite after the missed acknowledgment deadline. Only the pet is authorized for live release; the unfinished redesign remains unpublished."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
