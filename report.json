@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The original saved-look verifier is running: 14 test files passed, with 454 cases passed and one skipped; 49 mutation checks are underway. The arrow repair returned and its original launcher pushed once at 00:45Z. Verification, receipts and review remain with the original release owner.",
+  "workerState": "The original saved-look writer is running the one named test-and-pin repair. Its broader verifier finished successfully at00:56Z. Hands retains verification and release custody; no duplicate writer, review or push has been started. The next result check is01:15Z.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 00:54Z, the saved-look verifier had completed 454 passing cases, including the previously missing browser and Liquid coverage. Its mutation phase has no terminal result yet. Arrow source e88b5353 is on GitHub; its admission needs a fresh self-review receipt. The earlier eight-file draft installation remains verified and private switches stay off.",
+  "lastActualProgress": "The original saved-look verifier completed454 passing cases and49 of49 mutation checks. At00:59Z the same writer began the missing product-switch regression. At01:00Z the two-file Shopify candidate was prepared, with both starting fingerprints matching the installed draft; review, merge and a fresh theme read are still required.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "The layout’s test gate is green, but its final review still has no verdict. Its original review keeper has the dispatch evidence. Arrow review admission rejected a receipt for the previous source; the same owner has the exact correction needed. Saved-look mutation checks, native acceptance, the existing privacy decision and all three qualified ratings remain open.",
-  "current": "The saved-look correction has passed 454 tests in its original broader verification environment; mutation checks are running. The arrow fix is pushed and needs a fresh receipt before review admission. Earlier styling files remain installed in the unpublished Shopify draft; these new repairs are not installed.",
+  "remaining": "One saved-look test is missing for changing a look after a quiet product switch; its original test-only repair started at00:59Z. Arrow admission needs a self-review receipt covering its current source. The layout’s final review has no verdict. Native acceptance, the existing privacy decision and all three qualified ratings remain open.",
+  "current": "The saved-look correction passed its broader checks: 454 tests passed, one skipped, and all49 mutation checks passed. Its release check found one missing regression test, and the original writer is adding that test. The arrow fix is pushed; its review admission needs a fresh receipt. These repairs are not installed yet.",
   "next": "Finish the original layout and arrow reviews, then integrate and release the verified bag follow-up. Install the remaining qualified repairs in the draft and finish the original iPhone checks and final named-fix ratings.",
-  "updated": "2026-10-20T00:56:16Z",
+  "updated": "2026-10-20T01:03:02Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -423,14 +423,22 @@
         "text": "Completed — Build the saved-look correction through its original owner (00:17Z–00:42Z, took25 min). Five files, 36 passing panel cases and44 causal checks; CRUX colors preserved. No PR or installation yet."
       },
       {
-        "complete": false,
-        "text": "In progress — Complete the original broader verification and receipt for the saved-look correction (started00:44Z, est.20 min; next check01:00Z). All14 test files passed454 cases with1 skipped, including Liquid and browser coverage. The49 mutation checks are underway."
+        "complete": true,
+        "text": "Completed — Verify the saved-look correction in the original broader environment (00:44Z–00:56Z, took12 min). All14 test files passed454 cases with1 skipped; all49 mutation checks passed."
       },
       {
         "complete": false,
-        "text": "Waiting — Original layout final review and arrow admission (layout since19 October23:43Z; checked20 October00:54Z, next check01:00Z). Layout checks pass. Arrow admission needs a fresh receipt for its pushed source; original owner notified, next check01:10Z. The bag follow-up waits on the layout merge."
+        "text": "In progress — Add the one missing product-switch regression and recheck the release receipt (started00:59Z, est.15 min; next check01:15Z). The original writer changes only tests and their mutation check."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Prepare the saved-look draft candidate (01:00Z–01:00Z, took less than1 min). Both starting file fingerprints match the installed draft. This is preparation, not approval or upload."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Original layout final review and arrow admission (layout since19 October23:43Z; checked20 October01:01Z, next check01:15Z). Layout checks pass. Arrow admission needs a fresh receipt for its pushed source; original owner notified, next check01:10Z. The bag follow-up waits on the layout merge."
       }
     ],
-    "landing": "Lands: saved-look verification aims to finish about01:04Z (20 min from its00:44Z start; mutation findings may move it). Arrow source is pushed; its receipt and the layout review need original results. Final merge, native acceptance and ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: the saved-look test-only repair aims to return about01:14Z (15 min from00:59Z; proof findings may move it). Arrow receipt check01:10Z; original layout review check01:15Z. Final merge, native acceptance and ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
