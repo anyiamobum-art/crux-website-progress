@@ -2,22 +2,22 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "C08-2 d5e62486 is clean, local and unpushed, with no PR or installation. Its prior-source keeper PID 74363 was active; that proof cannot qualify the successor. C04’s keeper is terminal at exit 1, and the same-lineage refusal-code correction task is placed with its original writer; the report has not returned. Original bag job 20261020T033831Z_62640_7947 had no remote container at 04:21:50Z and awaits a slot. Original Hands retains custody.",
+  "workerState": "C04 5f23801b is clean, local and unpushed, with no PR or installation. C08-2 d5e62486 is likewise local and unqualified; proof from its active prior-source keeper cannot transfer. Original bag job 20261020T033831Z_62640_7947 acquired slot 1 and began its first suite, observed at 04:35Z. Original Hands retains all product keeper and release custody.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout, arrows and saved-look #4630 remain merged and installed. C08-2’s original writer returned clean local d5e62486 with the named copy fix: 14 files, 560 changed lines within the chair’s bound. Account fences and two-tap confirmation remain. C04 and bag retain their original writers and keepers."
+      "evidence": "Layout, arrows and saved-look #4630 remain merged and installed. C08-2’s original writer returned clean local d5e62486 with the named copy fix: 14 files, 560 changed lines within the chair’s bound. Account fences and two-tap confirmation remain. C04’s two-file refusal-code correction returned at clean local 5f23801b, with runtime unchanged. The original bag keeper acquired its remote slot. Both retain their original writers and keepers."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C08-2 has 45 passing panel cases as writer evidence; full 101-mutation execution and real mount/integration/C02 browser proof remain owed. C04 ended at exit 1: connection cases 125 passed and 2 failed; the mutation clean baseline failed on the same two. Passing C04 checks include 29 owned-style cases with P1/P2, 30 routes, 298 contracts, panel wrapper 1, JS contract 4 and atlas 147 with 1 skip. The bag has no test-execution credit while it waits for a slot. Native acceptance is separate."
+      "evidence": "C04 successor 5f23801b has 76 passing non-PostgreSQL cases and 51 PostgreSQL setup errors; full 127 connection cases and 211 mutations remain owed, including causal RED execution. Preserve the prior keeper exit 1 with 125 passed and two failed connection cases and the same two clean-baseline failures. C08-2 has 45 passing panel cases; its full 101 mutations and real mount/integration/C02 browser proof remain owed. The original bag job has started at exact 3203e094; no terminal result is claimed. Native acceptance is separate."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes; #4630’s two-file draft installation remains complete. C08-2’s source copy repair and scope disposition are complete, while qualified keeper, receipt and original reviews/merge are owed. C04’s named failures and the bag proof retain original custody. Final design ratings remain 0/3 qualified."
+      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes; #4630’s two-file draft installation remains complete. C08-2’s source copy repair and scope disposition are complete, while qualified keeper, receipt and original reviews/merge are owed. C04’s named correction is returned and the original bag keeper is running; qualified results and release retain original custody. Final design ratings remain 0/3 qualified."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Hands’ 04:25Z receipt confirms C04’s terminal exit 1 and places the named refusal-code correction with the original writer. PostgreSQL-backed P1/P2 passed; the two connection assertions and the mutation clean baseline failed. C08-2’s 04:19Z source fix was consumed at 04:23Z: download-first wording, no unconditional or empty-copy claim, with account fences and two-tap confirmation preserved. P1329’s Mac-wide hold was lifted at 03:52:57Z under P1371 and chair disposition 6283198047; no Website native allocation is granted by that ruling.",
+  "lastActualProgress": "C04’s original writer returned the two-assertion correction at 04:34Z; the source and receipt were consumed at 04:35:56Z. Both edit cases now follow the adopted changed-look contract, Save refusals and other-owner checks remain, and the relevant causal check names both cases. The original bag job acquired its slot and began execution. One changed-state acknowledgement was delivered at 04:38:27Z; original Hands adoption and successor execution are not inferred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Styling #4612/#4613 and layout #4580 are merged and installed. Arrow #4618 also passed both reviews, merged and is installed. The saved-look follow-up is merged but awaits its original test disposition; the repaired bag follow-up still needs review before final acceptance.",
+      "Styling #4612/#4613 and layout #4580 are merged and installed. Arrow #4618 also passed both reviews, merged and is installed. Saved-look #4630 is merged and installed with preservation verified at 03:48:33Z. C04 and C08-2 corrections still need qualified integrated proof and release; the original bag keeper is executing before its receipt and review.",
       "Finish the remaining original reviews and integration, install only in the unpublished draft, then complete the original native and final named-fix checks."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "C08-2’s copy and scope waits are closed; its qualified successor keeper, all 101 selected mutations, real mount/integration/C02 browser proof, receipt, original reviews and merge remain owed. C04’s keeper ended with two failed assertions, and its mutation clean baseline failed on the same two; the original correction report is not back. Both remote slots were occupied at 04:21:50Z, leaving the bag queued without test-execution credit. Native acceptance needs qualified source, a fresh dated Website allocation and prior handback. Privacy facts and final ratings remain open.",
-  "current": "C08-2’s original writer returned the download-first copy fix at 04:19Z: clean local d5e62486, 560 changed lines within the chair’s bound, and 45 passing panel cases. C04’s PostgreSQL keeper finished with exit 1: 125 connection cases passed and two assertions failed; the named correction is back with the original writer. The bag job still awaits a remote slot. #4630 remains installed with draft preservation verified at 03:48:33Z.",
-  "next": "Original Hands reconciles C08-2’s existing prior-source keeper before qualifying the integrated successor with all 101 selected mutations and missing suites. The original C04 writer now resolves the two refusal-code assertions and preserves tests that catch the fault; its correction report is awaited. Consume the existing bag result without restarting it. Next original-result inspection: 04:35Z; the bag attempt’s queue deadline is 04:38:31Z.",
-  "updated": "2026-10-20T04:25Z",
+  "remaining": "C04’s named source correction is complete; its full database-backed and mutation proof, receipt, original review and merge remain owed. C08-2 still needs its qualified integrated successor, all 101 mutations and missing mount/integration/browser suites. The bag queue wait is closed, but no terminal test or pin result has been consumed. Native acceptance needs qualified source, a fresh dated Website allocation and prior handback. Privacy facts and final ratings remain open.",
+  "current": "C04’s named refusal-code correction returned at 04:34Z: clean local 5f23801b, two files changed and runtime unchanged. Its 76 passing cases and 51 PostgreSQL setup errors are partial writer evidence; the database-backed cases and causal checks remain owed. The same original bag keeper acquired slot 1 after 3,063 seconds and started on exact source 3203e094. #4630 remains installed with draft preservation verified at 03:48:33Z.",
+  "next": "Original Hands reconciles any existing C04 successor call, then qualifies the integrated source with all 127 PostgreSQL connection cases and 211 selected mutations, a fresh receipt and the original review/merge route. Reconcile C08-2’s prior-source keeper before its integrated successor proof. Consume the original bag result without restarting it. Next original-result inspection: 04:50Z, or an earlier result event.",
+  "updated": "2026-10-20T04:39Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -396,7 +396,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the bag follow-up through its original release owner (source wait since 19 October 20:02Z; current attempt started 20 October 03:38:31Z; next inspection 04:35Z; finish estimate unknown). Original job 20261020T033831Z_62640_7947 was still waiting on both occupied remote slots at 04:21:50Z, with no remote container or test-execution credit. Its current queue deadline is 04:38:31Z. Consume the original result without a restart; receipt, original PR reviews and merge remain owed."
+        "text": "Waiting — Complete the bag follow-up through its original release owner (source wait since 19 October 20:02Z; first queue notice 20 October 01:50:50Z; current attempt started 03:38:31Z; next inspection 04:50Z; finish estimate unknown). The SAME original job 20261020T033831Z_62640_7947 acquired slot 1 after 3,063 seconds; exact 3203e094 source and the first suite were observed at 04:35Z. Its 04:38:31Z queue deadline is closed. No terminal test or pin result is claimed; consume the original result without a restart, then retain receipt, original PR reviews and merge."
       },
       {
         "complete": true,
@@ -491,8 +491,12 @@
         "text": "Completed — Reconcile the returned one-piece correction and shared-test diagnosis, and update the saved task report (03:38Z–03:42Z, took 4 min). C04 is clean and unpushed; database and mutation proof remain owed. The diagnosis is consumed and original release custody retained. Public deployment is recorded separately in its receipt."
       },
       {
+        "complete": true,
+        "text": "Completed — Receive and consume C04’s original refusal-code correction (04:24:50Z–04:35:56Z, took about 11 min including the writer wait). Two assertions now expect look_changed under the adopted base-check contract; Save variants and locks remain unchanged. Runtime is unchanged. The 76 passes and 51 PostgreSQL setup errors do not close full keeper proof."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Complete C04’s named correction and proof through original Hands (first wait unknown; original proof gap recorded 03:40Z; terminal keeper and writer placement received 04:25Z; next inspection 04:35Z; finish estimate unknown). The PostgreSQL keeper ended at exit 1: 125 connection cases passed and two failed; the mutation clean baseline failed on the same assertions. P1/P2 passed. The same original writer must resolve the adopted refusal code versus the base check while preserving effective pins; its correction report has not returned."
+        "text": "Waiting — Qualify C04’s corrected integrated source through original Hands (original proof gap recorded 03:40Z; named correction returned 04:34Z; next inspection 04:50Z; finish estimate unknown). Clean local 5f23801b has 76 passes and 51 PostgreSQL setup errors. Full 127 connection cases, all 211 selected mutations and causal RED execution remain owed, then receipt, original review and merge. Preserve the prior keeper exit 1 and two failed assertions as history; no source-to-proof transfer."
       },
       {
         "complete": true,
@@ -508,9 +512,25 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Qualify C08-2’s integrated successor through original Hands (since 04:19Z; next inspection 04:35Z; finish estimate unknown). Reconcile the active prior-source keeper before one successor run. All 101 selected mutations, real LiquidJS mount, companion integration, C02 browser and Liquid-dependent neighbors, receipt, original reviews and merge remain owed. No PR or installation; the feature stays OFF."
+        "text": "Waiting — Qualify C08-2’s integrated successor through original Hands (since 04:19Z; next inspection 04:50Z; finish estimate unknown). Reconcile the active prior-source keeper before one successor run. All 101 selected mutations, real LiquidJS mount, companion integration, C02 browser and Liquid-dependent neighbors, receipt, original reviews and merge remain owed. No PR or installation; the feature stays OFF."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Read the compact handoff and reconcile only new original-owner mailbox bytes (04:36Z–04:37Z, took 1 min). No new return or duplicate acknowledgement was present."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Record the returned C04 source and original bag slot acquisition with the existing chair (04:37Z–04:38Z, took 1 min). One exact acknowledgement was delivered; original product custody and wait ages remain. Delivery is separate from original-owner adoption."
+      },
+      {
+        "complete": false,
+        "text": "In progress — Update the existing task page and verify its matching deployment and served files (started 04:39Z, est. 4 min)."
+      },
+      {
+        "complete": false,
+        "text": "Pending — Save the same compact checkpoint with exact receipts and the next original action (est. 1 min)."
       }
     ],
-    "landing": "Lands: next original-result inspection about 04:35Z (about 10 min from this evidence snapshot; original correction/keeper results and remote-slot availability determine the next action). The bag attempt’s queue deadline is 04:38:31Z. Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: this status update about 04:44Z (5 min left; Pages deployment and served-file propagation may move it). Original keeper-result inspection remains 04:50Z. Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
