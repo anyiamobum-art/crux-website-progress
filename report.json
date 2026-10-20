@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "The Bag writer has finished; the final result was delivered to its existing release keeper at 10:50Z. The saved-look source repair has returned and the same team’s contract correction is queued. No new PR, push, merge or installation is inferred from those handoffs.",
+  "workerState": "The saved-look contract lane started on its original remote worker at 10:59:34Z and returned fe803158 by 11:03Z. Both corrections are now together and unpushed. The combined result was sent to the existing release owner at 11:05Z for one keeper and one push. Bag’s completed result was delivered at 10:50Z; its keeper acknowledgement is being reconciled.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 10:45:25Z, Bag remote tests finished with 66 small-screen passes and 19 shell passes; WebKit cases remain untested. Four new regression checks also failed under their intended mutations and passed after restoration. The saved-look repair passed 52 panel tests; dependent removal and mount tests still belong to its combined keeper run.",
+  "lastActualProgress": "The saved-look contract correction returned at 11:03Z: only the preparation-refusal expectation changed; Save refusals and the no-resurrection assertion remain intact. Its test environment lacked required dependencies, so validation is still owed. Bag’s 10:45:25Z remote result remains 66 small-screen and 19 shell passes; WebKit remains untested.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,7 +112,7 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "The saved-look source fix has returned; its contract correction is queued with the same team. Bag writer tests passed on 19eb322c and its successor keeper/final receipt are next. Pet browser proof remains complete.",
+      "Both saved-look corrections have returned on fe803158; validation in the equipped worker remains owed. Bag writer tests passed on 19eb322c and its successor keeper/final receipt are next. Pet browser proof remains complete.",
       "Complete the original scoped repairs, exact-source proof, reviews and draft integration, then native acceptance and final named-fix checks."
     ],
     [
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "Bag awaits its successor keeper and final receipt. Saved-look awaits the queued contract correction and dependent tests. Native acceptance needs final installed source, the existing sixth-place allocation, resource clearance and handback. Privacy facts and final ratings remain open.",
-  "current": "The Bag repair’s final remote tests passed on 19eb322c. Its original keeper and final receipt are next. The saved-look edit-during-loading repair has returned at 5c2c2e8a; its narrowly related removal-contract test correction is queued with the same original team.",
-  "next": "Complete the original Bag keeper and final receipt, then its existing review and merge route. Combine the two saved-look corrections into one tested push for round-two review. Install only approved merged source in the unpublished draft before native acceptance.",
-  "updated": "2026-10-20T10:54:33.845110+00:00",
+  "remaining": "Both prepared repairs still need release verification and review. The saved-look worker lacked PostgreSQL and jsdom, so its changed assertion has not yet passed there; the properly equipped keeper must run it. Native source, allocation and resource requirements, privacy facts and final ratings remain open.",
+  "current": "Both saved-look corrections have returned on clean source fe803158. Their combined final test run and round-two review are next. Bag writer tests passed on 19eb322c; its successor keeper and final receipt are next.",
+  "next": "The existing release owner runs the two prepared repairs through their required tests, receipts and original reviews. Root installs each approved merge into the unpublished draft, then continues the original iPhone acceptance and final named-fix ratings.",
+  "updated": "2026-10-20T11:05:53.981665+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,11 +216,11 @@
       },
       {
         "complete": false,
-        "text": "In progress — Take the repaired Bag through its original keeper, review and merge (regression work 09:57Z–10:45Z, took 48 min; final proof passed; keeper request 10:50Z; next acknowledgement check 11:05Z; remaining estimate depends on review)."
+        "text": "In progress — Take the repaired Bag through its original keeper, review and merge (regression work 09:57Z–10:45Z, took 48 min; final proof passed; keeper request 10:50Z, follow-up sent at 11:05Z; next disposition check 11:20Z; remaining estimate depends on review)."
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the queued saved-look contract correction, then one combined test run, push, review and merge (first proof wait 03:40Z retained; source fix returned 10:45Z; next queue check 10:59Z; remaining estimate unknown)."
+        "text": "In progress — Take the combined saved-look repair through one equipped test run, push, review and merge (first proof wait 03:40Z retained; contract lane 10:59Z–11:03Z, took 4 min; combined result delivered 11:05Z; next disposition check 11:20Z; remaining estimate unknown)."
       },
       {
         "complete": false,
