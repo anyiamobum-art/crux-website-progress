@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver a tested, unpublished Shopify draft with merged source and 9.5+ from Fable 5.1, Astra 6 and Opus 5.5. You decide when to publish once the collection is ready.",
-  "workerState": "C04 5f23801b is clean, local and unpushed, with no PR or installation. C08-2 d5e62486 is likewise local and unqualified; proof from its active prior-source keeper cannot transfer. Original bag job 20261020T033831Z_62640_7947 acquired slot 1 and began its first suite, observed at 04:35Z. Original Hands retains all product keeper and release custody.",
+  "workerState": "Original Hands started C04’s final-source keeper at 08:09:55Z; its log had no output at the 08:15Z read. The same bag writer’s reconciled continuation is active, with a title-regression remote command and no result yet. C08-2 is open as #4643 and Ready, but its holder check failed and review preflight explicitly did not dispatch. Original ownership is retained.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Layout, arrows and saved-look #4630 remain merged and installed. C08-2’s original writer returned clean local d5e62486 with the named copy fix: 14 files, 560 changed lines within the chair’s bound. Account fences and two-tap confirmation remain. C04’s two-file refusal-code correction returned at clean local 5f23801b, with runtime unchanged. The original bag keeper acquired its remote slot. Both retain their original writers and keepers."
+      "evidence": "C04 ab4fd872 contains the Save-in-flight and saved-list edit fixes: 22 files, 411 changed lines within the 480-line scope. C08-2 d5e62486 is published as #4643 with its original copy correction. The bag remains at 3203e094 while its same writer repairs two receipt findings; no newer commit is claimed."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C04 successor 5f23801b has 76 passing non-PostgreSQL cases and 51 PostgreSQL setup errors; full 127 connection cases and 211 mutations remain owed, including causal RED execution. Preserve the prior keeper exit 1 with 125 passed and two failed connection cases and the same two clean-baseline failures. C08-2 has 45 passing panel cases; its full 101 mutations and real mount/integration/C02 browser proof remain owed. The original bag job has started at exact 3203e094; no terminal result is claimed. Native acceptance is separate."
+      "evidence": "C04’s earlier 5f23801b keeper ended green at 07:40Z with 212/212 mutations; that proof does not transfer to ab4fd872. The latest writer reports 46 panel cases and one new causal RED/restored-GREEN check; all 214 selected mutations and full mount/database proof remain with the keeper started 08:09:55Z. The original bag run ended 04:52Z with 249 passes, 84 skips and 45/45 causal checks, followed by two receipt findings. Its existing title-regression command has no result yet."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Styling #4613, layout #4580, arrows #4618 and saved-look #4630 are merged through their original routes; #4630’s two-file draft installation remains complete. C08-2’s source copy repair and scope disposition are complete, while qualified keeper, receipt and original reviews/merge are owed. C04’s named correction is returned and the original bag keeper is running; qualified results and release retain original custody. Final design ratings remain 0/3 qualified."
+      "evidence": "#4643 is Ready, but the exact head lacks its holder claim: review preflight did not dispatch. The original request at 08:07:46Z awaits holder/chair acceptance, with inspection due 08:23Z. C04’s fresh receipt and review follow its current keeper; the bag needs its two receipt findings resolved and fresh proof. Original custody and rounds remain. Final design ratings remain 0/3 qualified."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Styling was verified at 00:03Z, layout at 01:48Z, arrows at 01:52Z and saved-look #4630 at 03:48Z. The latest upload installed two exact approved files; all 689 draft records are preserved except those two, all 539 live records and settings are unchanged. C07/C10 stay OFF. C04, C08-2, bag release, rendered/native acceptance and final ratings remain open."
+      "evidence": "The latest saved-look installation remains verified at 03:48:33Z: two exact approved files; all 689 draft records preserved except those two; all 539 live records and settings unchanged. Three C08-2 candidate files were prepared offline at 08:12Z, with no Shopify call or installation. C07/C10 stay OFF. Remaining release, native acceptance and ratings are open."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "C04’s original writer returned the two-assertion correction at 04:34Z; the source and receipt were consumed at 04:35:56Z. Both edit cases now follow the adopted changed-look contract, Save refusals and other-owner checks remain, and the relevant causal check names both cases. The original bag job acquired its slot and began execution. One changed-state acknowledgement was delivered at 04:38:27Z; original Hands adoption and successor execution are not inferred.",
+  "lastActualProgress": "C04’s original writer returned the saved-list edit correction at 07:54Z; its 411-line integrated source and 46 passing panel cases were consumed. The earlier C04 keeper finished green on its earlier source and cannot qualify the new head. The bag’s original keeper finished at 04:52:30Z with 249 passes, 84 skips and 45/45 causal checks; its two receipt findings now have one active same-writer continuation. The coordinator prepared three candidate theme files offline at 08:12Z; this is preparation only, with no installation.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "All second reviews returned — 0/3 qualified",
-      "Styling #4612/#4613 and layout #4580 are merged and installed. Arrow #4618 also passed both reviews, merged and is installed. Saved-look #4630 is merged and installed with preservation verified at 03:48:33Z. C04 and C08-2 corrections still need qualified integrated proof and release; the original bag keeper is executing before its receipt and review.",
-      "Finish the remaining original reviews and integration, install only in the unpublished draft, then complete the original native and final named-fix checks."
+      "Styling, layout, arrows and saved-look #4630 are merged and installed. The latest preservation check remains 03:48:33Z. C04’s new source has an active final keeper; the bag’s green keeper led to two receipt findings and a same-writer continuation. #4643 is Ready but review awaits holder acceptance.",
+      "Finish original proof, receipts, reviews and integration; install only qualified merged files in the unpublished draft, then complete the original native and final named-fix checks."
     ],
     [
       "9. Complete website assembly merge",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "C04’s named source correction is complete; its full database-backed and mutation proof, receipt, original review and merge remain owed. C08-2 still needs its qualified integrated successor, all 101 mutations and missing mount/integration/browser suites. The bag queue wait is closed, but no terminal test or pin result has been consumed. Native acceptance needs qualified source, a fresh dated Website allocation and prior handback. Privacy facts and final ratings remain open.",
-  "current": "C04’s named refusal-code correction returned at 04:34Z: clean local 5f23801b, two files changed and runtime unchanged. Its 76 passing cases and 51 PostgreSQL setup errors are partial writer evidence; the database-backed cases and causal checks remain owed. The same original bag keeper acquired slot 1 after 3,063 seconds and started on exact source 3203e094. #4630 remains installed with draft preservation verified at 03:48:33Z.",
-  "next": "Original Hands reconciles any existing C04 successor call, then qualifies the integrated source with all 127 PostgreSQL connection cases and 211 selected mutations, a fresh receipt and the original review/merge route. Reconcile C08-2’s prior-source keeper before its integrated successor proof. Consume the original bag result without restarting it. Next original-result inspection: 04:50Z, or an earlier result event.",
-  "updated": "2026-10-20T04:39Z",
+  "remaining": "The final saved-look source still needs its complete database-backed, mount and mutation proof. The bag needs the two receipt findings resolved and a fresh qualified release receipt. The download-and-clear review has not started because its exact head lacks holder acceptance. Native acceptance still needs qualified source, a fresh Website allocation and prior handback. Privacy facts and final ratings remain open.",
+  "current": "The saved-look corrections are returned and their final verification has started. The bag’s earlier test run passed, but its release receipt identified two missing regression checks; the same writer is working on them. The download-and-clear change is Ready and awaiting holder acceptance before its review can start. The saved-look draft installation remains verified at 03:48:33Z.",
+  "next": "Consume the original saved-look keeper and bag writer results, then complete their original receipt and review routes. The existing holder acceptance request is due for inspection at 08:23Z. Only qualified merged files may be installed in the unpublished draft; native acceptance and final ratings follow.",
+  "updated": "2026-10-20T08:17Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -495,8 +495,8 @@
         "text": "Completed — Receive and consume C04’s original refusal-code correction (04:24:50Z–04:35:56Z, took about 11 min including the writer wait). Two assertions now expect look_changed under the adopted base-check contract; Save variants and locks remain unchanged. Runtime is unchanged. The 76 passes and 51 PostgreSQL setup errors do not close full keeper proof."
       },
       {
-        "complete": false,
-        "text": "Waiting — Qualify C04’s corrected integrated source through original Hands (original proof gap recorded 03:40Z; named correction returned 04:34Z; next inspection 04:50Z; finish estimate unknown). Clean local 5f23801b has 76 passes and 51 PostgreSQL setup errors. Full 127 connection cases, all 211 selected mutations and causal RED execution remain owed, then receipt, original review and merge. Preserve the prior keeper exit 1 and two failed assertions as history; no source-to-proof transfer."
+        "complete": true,
+        "text": "Completed — Finish the original refusal-correction keeper on its exact earlier source (07:07Z–07:40Z, took 33 min). The original run exited 0 with 212/212 mutation checks. This closes proof for that earlier source only; the subsequent Save and saved-list corrections require their own final-source keeper."
       },
       {
         "complete": true,
@@ -512,7 +512,23 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Qualify C08-2’s integrated successor through original Hands (since 04:19Z; next inspection 04:50Z; finish estimate unknown). Reconcile the active prior-source keeper before one successor run. All 101 selected mutations, real LiquidJS mount, companion integration, C02 browser and Liquid-dependent neighbors, receipt, original reviews and merge remain owed. No PR or installation; the feature stays OFF."
+        "text": "Waiting — Obtain the original holder’s acceptance for the download-and-clear change, then begin its original review (Ready 07:56Z; exact-head refusal since 07:58Z; original request delivered 08:07:46Z; next inspection 08:23Z; finish estimate unknown). #4643 is open at d5e62486; preflight did not dispatch because that head lacks its holder claim. No duplicate request or review. Three candidate theme files are prepared offline; review, required checks, merge and final content matching remain prerequisites to installation."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Receive and consume the Save-in-flight and saved-list edit corrections (returned by 07:54Z; consumed 08:10Z–08:17Z, took 7 min). The final 411-line source passes 46 reported panel cases; the new causal check was reported RED and restored GREEN. All 214 declared mutation checks and full mount/database integration still need final-source execution."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Consume the existing final-source saved-look keeper and its fresh receipt (original proof wait since 03:40Z; current keeper started 08:09:55Z; est. unknown). Original Hands owns the running command; its empty log proves no terminal outcome. Preserve the earlier green run as earlier-source evidence, then continue the original review and merge after qualified proof."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Consume the original bag keeper’s green result (03:38Z–04:52Z, took 74 min including its queue). It passed 249 cases and all 45 causal checks, with 84 recorded skips. The release receipt at 04:55Z found missing effective title-size and totals-wrap regressions, so release is still open."
+      },
+      {
+        "complete": false,
+        "text": "Waiting — Receive the same bag writer’s two-regression repair (receipt finding since 04:55Z; interruption reconciled 07:22Z; same-writer continuation admitted 07:24Z; title proof command active since about 07:54Z; finish estimate unknown). The original interrupted call ended without a commit; the existing continuation has no returned proof or newer commit. Consume it once, then original Hands qualifies the exact changed source and refreshes its receipt."
       },
       {
         "complete": true,
@@ -523,14 +539,26 @@
         "text": "Completed — Record the returned C04 source and original bag slot acquisition with the existing chair (04:37Z–04:38Z, took 1 min). One exact acknowledgement was delivered; original product custody and wait ages remain. Delivery is separate from original-owner adoption."
       },
       {
-        "complete": false,
-        "text": "In progress — Update the existing task page and verify its matching deployment and served files (started 04:39Z, est. 4 min)."
+        "complete": true,
+        "text": "Completed — Update the existing task page and verify its matching deployment and served files (04:39Z–04:40:55Z, took about 2 min). One push produced 42f5d4c; its Pages deployment passed and both served files match the committed bytes."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Save the same compact checkpoint with exact receipts and the next original action (04:42Z–04:42Z, took less than 1 min). Product keepers and all remaining acceptance stay with their original owners."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Reconcile the returned corrections, terminal keeper result and original continuations (08:10Z–08:17Z, took 7 min). Reading the existing interruption reconciliation and active successor added 3 min to the estimate. The saved-look source still needs its final keeper; the bag has one active same-writer continuation; the review awaits its existing holder request."
       },
       {
         "complete": false,
-        "text": "Pending — Save the same compact checkpoint with exact receipts and the next original action (est. 1 min)."
+        "text": "In progress — Update the existing task report and publish one verified snapshot (started 08:17Z, est. 4 min). Verify the matching Pages deployment and both served files before recording publication."
+      },
+      {
+        "complete": false,
+        "text": "Pending — Save the compact handoff and give the original coordinator the next action (est. 1 min)."
       }
     ],
-    "landing": "Lands: this status update about 04:44Z (5 min left; Pages deployment and served-file propagation may move it). Original keeper-result inspection remains 04:50Z. Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
+    "landing": "Lands: this status update about 08:22Z (5 min left; Pages propagation may move it). Product delivery, native acceptance and final ratings have no verified finish time. The Shopify theme stays unpublished."
   }
 }
