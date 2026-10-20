@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The owner separately authorized the moving pet to go live on 20 October; only that scoped release is being assessed. All other unfinished storefront features remain unpublished.",
-  "workerState": "The same installer owner completed the actual approval-record linkage repair: 21/21 offline tests and 30 release scenarios, including the actual accepted artifact. Root’s inspection is complete; activation remains unqualified and no install was attempted. The original pet and C11 approvals stand while their CI continues; saved-look awaits original round 2. Root recovered the shared-CI cart log and four exact-source files without tests or edits, then delivered one diagnosis packet through Hands. The original cart writer’s acknowledgment and execution are not yet verified. Native work has no dated Website start.",
+  "workerState": "The pet diagnostic owner began a bounded read-only investigation at 20:00Z; no repair or recovery time is promised. C11’s one upload and later read-only preservation recovery are terminal, without resend. A2 already routed saved-look’s two named fixes at 19:24Z. The cart diagnosis was still running without a report at 19:58Z in a chair-authorized new session under the original owner brief.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Pet 1caf443f is published, with its original CSS-regression repair in three test files, +45/-1 and runtime unchanged. C17 is merged and installed. C11 7ca18544 and saved-look 254e9ab0 remain unmerged; C11 wiring is unapplied. Same-head admission corrections are complete."
+      "evidence": "Pet #4668 at 1caf443f merged as dc563221 at 19:19:44Z. C11 #4661 at 7ca18544 merged as 5ce1e00a at 19:05:28Z; its two assets are installed off and unloaded. Original wiring and the missing contract asset remain. Saved-look’s two review findings are with its original writer."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Actual approval-record installer repair passed 21/21 offline tests in 55.039 seconds across 30 release scenarios; Root inspection completed 18:44:01Z. In the latest saved CI snapshot, pet shard 4 passed and 0–3 plus pin proof were queued; C11 shards 3–4 passed, 0/2 were running and 1 queued; saved-look 0–2 were running and 3–4 queued. Separately, #4663’s shared-CI cart test failed at line 246: cleared marker expected 0, actual 1. Its exact-source diagnosis is assigned to the original writer; timing is unproved."
+      "evidence": "Pet and C11 required CI passed. Pet’s original review, current policy and final Root qualification are complete, but its initial read-only preflight and one reconciliation failed; the cause is unknown. Saved-look CI passed but two review-proof gaps remain. The shared cart assertion is under diagnosis; seven native checks remain unexercised."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Pet’s original round 2 APPROVE on 1caf443f and C11’s final round 3 named-fix APPROVE on 7ca18544 remain valid. Saved-look 254e9ab0 awaits original round 2; current admissions are green. Approved #4663 stays untouched while its original writer diagnoses the separate shared-CI cart assertion. C17 passed its required original review and merged. Only the original final named-fix ratings remain, 0/3 qualified; no new review round or score."
+      "evidence": "Pet’s original round 2 approval and C11’s final round 3 named-fix approval are retained. Saved-look #4667’s full round 2 returned REJECT at 19:16:57Z with two proof findings; A2 routed both to the same writer at 19:24Z for round 3 named fixes only. Two full final-rating rounds remain consumed, with 0/3 qualified."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Saved-look’s two draft files were verified 13:07:30Z; Bag’s five and preservation 13:33:17Z; C17’s four and preservation 17:31:31Z after one 17:29Z installation. All 691 draft/539 live files are accounted for and C17 remains OFF. Original owners retain connected test admission. Pet live installation awaits CI, merge, fresh governance and final Root qualification; the installer repair is offline preparation only. No install attempt, whole-theme publication, native pass or final rating is claimed."
+      "evidence": "C11’s two delivery assets uploaded once at 19:26:46Z. Read-only recovery verified preservation at 19:52:26Z without resend: 693 draft files, all prior 691 preserved and all 539 live files unchanged. C11 and the assistant remain off; C11 is unloaded. The pet’s one guarded attempt stopped before upload, with zero physical mutations. Full redesign remains unpublished."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Installer proof completed at 18:40:53Z: 21/21 offline tests in 55.039 seconds, with 30 release scenarios and preserved guards. Root completed the 16-reference/code inspection at 18:44:01Z. The latest saved release snapshot shows pet shard 4 green; C11 shards 3–4 green and 0/2 running; saved-look shards 0–2 running. The cart evidence packet records the failed assertion at line 246 on #4663’s exact source; one original-owner delivery is recorded, with acknowledgment and result still owed. No live qualification, installation or acceptance credit follows from these checks.",
+  "lastActualProgress": "C11 merged at 19:05:28Z; two assets uploaded once at 19:26:46Z and full preservation passed at 19:52:26Z. The draft now has 693 files, preserving its prior 691; all 539 live files, settings and roles stayed unchanged. Pet release qualification completed at 19:53Z. Its 19:56–19:57Z attempt stopped before upload; one read-only reconciliation also failed. Zero physical mutations were sent.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -89,7 +89,7 @@
       "4. Cart recovery repair",
       "Complete — merged and integrated",
       "#4233 passed its original R3 named-fix review and merged as 681f9388 at 05:38 UTC. All four reviewed files match the merge and final assembly. 91 behavior cases, six test entry points and 16 causal checks passed.",
-      "Timing follow-up #4257 is merged. The later deterministic Studio open/close test repair #4466 merged as7ad4e974 at02:37:40Z; its proved test bytes match current main. No theme install or weakened assertion. Shared-CI #4663 now has a cleared-marker assertion failure assigned to the original P159 writer through Hands; exact-source diagnosis is owed and its cause remains unproved."
+      "Original repairs remain preserved. The separate #4663 cleared-marker assertion is under diagnosis in the chair-authorized new session using the original P159 brief; still running without a report at 19:58Z. Cause unproved; approved head untouched."
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "Saved-look verified 13:07:30Z, Bag 13:33:17Z and C17’s four files 17:31:31Z. The census accounts for 691 draft and 539 unchanged live files; settings, account templates and earlier repairs are preserved. C17 is OFF with zero Order help blocks.",
-      "Original connected acceptance and admitted test inputs remain. Native checks await the owner-controlled quiet restart, original queue/handback, dated Website start and full qualification; seven checks remain unexercised."
+      "Saved-look, Bag and C17 installations remain preserved. C11’s two staged assets were verified at 19:52:26Z; 693 draft files and all 539 unchanged live files are accounted for. Settings and roles are unchanged. C11 is off and unloaded.",
+      "Original C11 contract/wiring, scoped test inputs, connected acceptance and native qualification remain. Seven native checks are unexercised; the full redesign stays unpublished."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "[Quantity-width repair #4527](https://github.com/EON-CRUX/3.09/pull/4527) merged and was installed in the unpublished draft. Six rendered cases meet at least44 × 44px, with unchanged cart contents and live theme. This closes the editable-input width defect. The later subtotal repair also passed its changed rendered check; the later #4556 note/preview-dock repair is now installed and scoped-rendered; native and final acceptance remain open.",
     "Quantity [PR #4519](https://github.com/EON-CRUX/3.09/pull/4519) passed its original first code review and required hosted checks, then merged as bc74e54a at01:33:41Z. One batch installed its two approved CSS files in the unpublished draft; exact hosted bytes matched at01:39:55Z and live/draft/settings preservation passed at01:40:17Z. Changed rendered acceptance and all three final ratings remain open."
   ],
-  "remaining": "In the latest saved CI snapshot, pet #4668, C11 #4661 and saved-look #4667 remain open and unmerged; current admissions are green. Shared CI also has an unresolved cart assertion on approved #4663 at c5c08a84: the test expected its cleared marker to be 0 and found 1. Chair P1530 assigned that diagnosis to the original P159 writer; acknowledgment and outcome are owed. Async timing is a hypothesis, not a confirmed cause or live defect. Native restart, dated Website start, handback and full qualification remain unproved; memory above 50% is still required for numerical performance and final ratings.",
-  "current": "The pet’s original round 2 approval and C11’s final named-fix approval remain valid; their CI and merges are incomplete. The installer’s actual approval-record repair is prepared and checked offline. A separate shared-CI cart assertion is assigned to its original writer through Hands; its cause is still unproved. Installed draft repairs and acceptance counts are unchanged.",
-  "next": "Consume the original pet and C11 CI/merge results and saved-look’s original round 2/CI results. The original cart writer must diagnose the failed cleared-marker assertion using the exact failed source; Root delivered the packet once and awaits acknowledgment and a result, with the next check at 19:04Z. Root’s final installer qualification follows the pet’s CI/merge and fresh governance. Native checks still await the owner-controlled quiet restart, original queue handbacks and a dated Website start.",
-  "updated": "2026-10-20T18:50:06.515711+00:00",
+  "remaining": "Pet preflight and its one read-only reconciliation both failed; the exact cause is unknown. C11 needs its contract dependency and original wiring before connected acceptance. Saved-look #4667’s original full round 2 rejected two proof gaps. Native checks lack a dated Website start: Hands’ 19:04:42Z sample showed 6.46 GB free, pressure 2 and load 17.84. Seven checks remain unexercised.",
+  "current": "C11’s two delivery assets are installed and verified in the unpublished draft, still off and unloaded. The approved pet merged, but its single installation attempt stopped during read-only preflight before any upload. No live files changed. A bounded read-only diagnosis is running; full draft acceptance remains open.",
+  "next": "Consume the pet-read diagnosis without replaying the installation. Original Hands/A2 retain C11’s missing contract asset and wiring; A2 acknowledged the staged installation at 19:58Z. Saved-look’s two review findings are already with its original writer for the final named-fix round. The cart diagnosis and native admission remain with their existing owners. Next checkpoint: 20:15Z or a changed result.",
+  "updated": "2026-10-20T20:00:34.264766+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,7 +216,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete the pet-only live host through its original release route (original build 14:57:52Z–15:30:04Z, took 32 min; four-fix run 16:24:55Z–about 16:55Z, took about 30 min; published 1caf443f retains original round 2 approval at 18:19Z; admission green, shard 4 passed, shards 0–3 and pin proof queued in the latest saved CI snapshot; actual approval-record installer repair passed 21/21 offline checks in 55.039 seconds with 30 release cases, preparation complete 18:42Z and Root inspection complete 18:44Z; historical read capability remains terminal with zero mutations; original wait since 12:18:01Z, follow-up 12:36Z and missed 12:51Z retained, lineage/effort disposition resolved 16:29:13Z; CI/merge, fresh governance and final Root live qualification remain; next check 19:04Z or changed original result; no install attempt or release credit; estimate unknown)."
+        "text": "In progress — Install and verify the approved pet-only live change (release qualification completed 19:53Z; single attempt 19:56Z–19:57Z stopped during a read-only preflight, before either upload; one read-only reconciliation also failed; no live files changed. Diagnose the exact read failure, started 20:00Z, est. 10 min; original attempt retained, no replay)."
       },
       {
         "complete": true,
@@ -227,19 +227,19 @@
         "text": "Completed — Take saved-look PR #4646 through its original reviews and merge (merge verified before the 13:07:30Z installation; both reviews and required CI passed; elapsed work time unknown; first proof wait 03:40Z retained)."
       },
       {
-        "complete": true,
-        "text": "Completed — Install each approved merged repair in the unpublished draft and verify exact files and preservation (Bag qualification, installation and verification 13:22Z–13:33Z, took 11 min; five exact files verified 13:33:17Z; C04’s two files were already verified at 13:07:30Z and remain exact; full draft/live/settings preservation passed)."
+        "complete": false,
+        "text": "In progress — Install each approved merged repair in the unpublished draft and verify exact files and preservation (Bag 13:22Z–13:33Z, took 11 min; saved-look installed 13:07:30Z; account care 17:29Z–17:31Z, took 2 min; delivery 19:18Z–19:52Z, took 34 min: one two-file upload and a read-only recovery after the network interruption, all prior files preserved; delivery stays off and unloaded; remaining original wiring and its contract dependency are with their owner)."
       },
       {
         "complete": false,
-        "text": "Waiting — Complete the original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; source rebound 20 October 13:38:44Z and C17 reconciled 18:20Z; 17:37Z’s 9.4 GiB equals about 10.09 GB and was not a disk failure; dated 18:12:26Z observation was 11.40 GB free, pressure 2 and load 15.51, not fresh qualification; owner-controlled quiet Mac restart, original queue/handback and dated Website start remain required; sessions may not restart the Mac; then disk above 10 GB, load below 15 twice 60 seconds apart, cap 0, pressure level 1 and device/browser custody; memory above 50% remains required for numerical performance/final ratings; seven checks unexercised, binding unspent, no start; next check 19:04Z or changed admission; estimate unknown)."
+        "text": "Waiting — Complete the original small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z respectively; source rebound and account-care supplement verified; Hands’ 19:04:42Z sample: 6.46 GB disk, pressure 2 and load 17.84; no safe boundary or dated Website start. Owner-controlled quiet restart, original queue, handback and resource qualification remain; sessions may not restart the Mac; seven checks unexercised, original attempt unspent; next check 20:15Z or changed admission; estimate unknown)."
       },
       {
         "complete": false,
-        "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (account #4664 merged as 21fa16c4, four files installed 17:29Z and preservation verified 17:31:31Z; C17 OFF with zero Order help blocks and original test input still pending; C11 7ca18544 retains final named-fix approval, shards 3–4 passed, 0/2 running and 1 queued in the latest saved CI snapshot; saved-look 254e9ab0 awaits original round 2, shards 0–2 running and 3–4 queued; current admissions green, both unmerged and C11 wiring unapplied; shared-CI cart assertion on approved #4663 expects cleared marker 0 but sees 1, assigned to the original writer through Hands with one packet delivered, acknowledgment/result owed and cause unproved; approved head stays untouched; installed #4646 remains OFF and original shopper/Checkout owners retain test admission; two full rating rounds consumed, only original final named-fix checks remain; next check 19:04Z or changed original result; estimate unknown)."
+        "text": "Pending — Complete buyer-trust and privacy acceptance, original final named-fix ratings and draft handover (delivery source merged and installed off; original wiring plus a missing contract asset remain; saved-look acceptance review returned two test-proof findings, already routed to the original writer for the final named-fix round; account care stays off pending scoped test inputs; original cart diagnosis running, cause unproved; native and privacy prerequisites remain; only original final rating checks remain; next check 20:15Z or changed result; estimate unknown)."
       }
     ],
-    "landing": "Lands: full draft completion time remains unknown. Pet and C11 await required CI/merge; saved-look still needs original round 2 and CI. The actual approval-record installer repair is prepared offline; fresh governance and final Root live qualification remain. The separate shared-CI cart assertion awaits its original writer’s diagnosis and result. Native restart/allocation/handback, admitted test inputs, privacy and final named-fix acceptance remain. Installed repairs stay preserved; the unfinished redesign remains unpublished."
+    "landing": "Lands: the updated task snapshot and a precise pet-read diagnosis about 20:15Z (about 14 min left at 20:01Z; provider/network evidence may move it). Pet installation and full draft completion times remain unknown pending the read recovery, original wiring, native allocation, scoped test inputs, privacy and final ratings. Full redesign stays unpublished; only the pet has separate live authorization."
   },
   "petEvidence": {
     "result": "Verified 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. Touch dispatch was unsupported; this is responsive browser evidence, with no native, 200% text, performance or final-rating credit.",
