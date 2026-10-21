@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "At 12:44Z, the drawer’s hosted source checks were executing on the existing remote worker and its test jobs were queued. Its original remote proof had finished at 12:33Z and the successor was pushed. Aftercare’s two code approvals are verified; it was still open at 12:42Z. Privacy installation and preservation are terminal. The shared-footer fix returned at 12:43Z, with original proof/publication requested but no start verified. SEO source-repair placement remains unverified. The first admin group is complete; the next group waits for Root’s real release quiet point.",
+  "workerState": "The SEO writer returned the clean repair at 12:57Z; original remote proof and one-push preparation were requested around 13:00Z, with no start verified. Aftercare merged at 12:42:57Z and source qualification completed at 12:59Z. The shared-footer queue is waiting for its predecessor; BIG BAG follows the existing predecessor queue. Drawer hosted proof was running at its last observation, 12:44Z; no later terminal result is claimed. Native work has no qualified allocation or start, and acknowledgement of the latest source handoff is unverified.",
   "journey": [
     {
       "stage": "Build",
       "state": "Pending",
-      "evidence": "BIG BAG and shared-footer source fixes have returned; their original proof and release remain due. Product-page residuals are routed separately. SEO safeguards were requested; repair placement remains unverified."
+      "evidence": "SEO safeguards returned with mocked local proof; remote proof, review and deployment remain pending. BIG BAG and shared-footer fixes are queued behind predecessor work. Product-page residual custody is unresolved."
     },
     {
       "stage": "Tests",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Pending",
-      "evidence": "Aftercare has both exact-source fix-check code approvals but was still open at 12:42Z. Drawer review remains unresolved; no approval is inferred from a completed workflow alone. Narrow fixes retain original review routes. Three original final website ratings remain 0/3."
+      "evidence": "Aftercare has both original fix-check code approvals and merged at 12:42:57Z; no theme upload applies. Drawer review remains unresolved; no approval is inferred from a completed workflow alone. Narrow fixes retain original review routes. Three original final website ratings remain 0/3."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "One five-file privacy upload and readback ran 12:40:58Z–12:41:50Z; preservation passed at 12:42:50Z. The unpublished draft, feature-off state, prior dependencies, live theme and settings were preserved. Aftercare received its two code approvals at 12:31:15Z and 12:41:33Z. Drawer remote proof finished at 12:33:30Z with all 43 source checks passing; its successor is pushed and hosted proof is executing. The shared-footer fix returned at 12:43Z. No new delivery gate, final rating or native check is complete.",
+  "lastActualProgress": "The original SEO repair returned at 12:57Z with mocked local regression and restoration proof; no remote branch, deployment or live copy change was verified. Aftercare merged at 12:42:57Z; all seven merged acceptance files matched the qualified source at 12:59Z, with zero theme files and no upload applicable. Privacy’s five-file draft installation and preservation remain complete at 12:42:50Z. No new delivery gate, final rating or native check is complete.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -94,8 +94,8 @@
     [
       "5. Buyer trust and WhatsApp reviews",
       "Components installed — connected acceptance open",
-      "Aftercare’s exact source has both fix-check code approvals at 12:31:15Z and 12:41:33Z. It was still open at 12:42Z. Prior scoped journey evidence is retained.",
-      "The original merge lane completes release; the service owner then proves review consent and the connected customer-care journey."
+      "Aftercare’s original fix-check approvals and 12:42:57Z merge are verified. Source qualification found seven acceptance files and no theme payload. Prior scoped journey evidence is retained.",
+      "The original acceptance owner consumes the merged checks; the service owner proves review consent and the connected customer-care journey."
     ],
     [
       "6. Assistant privacy facts",
@@ -124,26 +124,26 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — final acceptance open",
-      "Privacy installation and preservation are complete. Drawer’s pushed source has hosted checks running or queued. Aftercare has both code approvals but no observed merge. Narrow fixes still need release. No pet host upload applies to the draft.",
+      "Privacy installation and preservation are complete. Drawer’s pushed source has hosted checks running or queued. Aftercare acceptance checks are merged with no theme upload applicable. Narrow fixes are queued for original proof and release. No pet host upload applies to the draft.",
       "Finish remaining original release steps and applicable installs, then verify affected journeys, narrow layouts, native behavior and the original final-reader evidence before handover."
     ],
     [
       "11. BIG BAG page and navigation",
       "Prior assembly merged — narrow repair and acceptance open",
-      "BIG BAG’s narrow fix returned at 12:26Z; the shared-footer fix returned at 12:43Z. Writer evidence is retained; original remote proof, independent review and merge remain unverified.",
-      "Complete those original release routes, then verify finished-draft narrow layout, native touch and final rendered acceptance. Product-page KEEP LOOKING and gallery controls remain with their separate original owner."
+      "BIG BAG’s narrow fix returned at 12:26Z; the shared-footer fix returned at 12:43Z. Writer evidence is retained; original remote proof is queued behind predecessor work, without a verified start. Independent review and merge remain open.",
+      "Complete those original release routes, then verify finished-draft narrow layout, native touch and final rendered acceptance. Product-page KEEP LOOKING and gallery-control repair custody remains unresolved; inspect the original chair request at 13:15Z."
     ]
   ],
   "completed": [
+    "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open.",
     "[Privacy repair #4682](https://github.com/EON-CRUX/3.09/pull/4682) merged as d439f86d at 12:23:47Z. Its approved five-file set was installed once in the unpublished draft at 12:40:58Z–12:41:50Z; exact readback passed, and preservation finished at 12:42:50Z. Prior dependencies, settings and the live theme are preserved. Features stay off and unmounted, lifecycle disabled; no connected, rendered, native or final-rating credit.",
     "[CS geometry dependency #4691](https://github.com/EON-CRUX/3.09/pull/4691) merged on 21 October at 11:26:02Z as e18d66ec after its required checks and original approval passed. The drawer’s original owner subsequently integrated this dependency; remote proof passed at 12:33Z and the pushed source is in hosted checks. This dependency merge itself adds no draft installation or acceptance credit.",
-    "[Pet control repair #4686](https://github.com/EON-CRUX/3.09/pull/4686) merged on 21 October at 09:05:49Z as fc80692b after its observed first approval and required hosted checks passed. Readback at 09:38Z confirms this host repair does not apply to the draft’s separate pet component; no upload was performed. Live installation remains forbidden and existing draft pet acceptance is separate. No second approval is inferred and no new live-theme write is authorized.",
-    "C11 [original repair #4675](https://github.com/EON-CRUX/3.09/pull/4675) merged on 21 October at 03:41Z as 8a7802ed from 2a0ad5ee after its required FIRST round-two approval and all hosted checks passed. Its qualified C11/C06 six-file set was installed once at 04:07Z, exact readback passed at 04:07:55Z and preservation at 04:09:16Z. Root verified at 04:10Z and the original acceptance owner at 04:12Z. Installation and dependency waits are closed. Wiring stays off and unmounted in the unpublished draft; connected, rendered, native and final-rating acceptance remain open."
+    "[Pet control repair #4686](https://github.com/EON-CRUX/3.09/pull/4686) merged on 21 October at 09:05:49Z as fc80692b after its observed first approval and required hosted checks passed. Readback at 09:38Z confirms this host repair does not apply to the draft’s separate pet component; no upload was performed. Live installation remains forbidden and existing draft pet acceptance is separate. No second approval is inferred and no new live-theme write is authorized."
   ],
-  "remaining": "Privacy source installation is complete, but retention/training facts, notice and connected acceptance remain open; the assistant stays off. Aftercare merge is unverified. Drawer hosted proof and review are unfinished. BIG BAG and shared-footer fixes need proof, review and merge; product-page overflow repairs remain assigned. Native evidence and all three original final website ratings remain open. Running remote proof prevents the remaining admin group’s quiet point.",
-  "current": "The privacy repair is installed in the unpublished draft: all five files match, preservation passed and the features remain off. Connected privacy acceptance is still open. Aftercare has both code approvals and awaits merge. The drawer’s integrated source passed its original remote proof; hosted checks are now running or queued. Five delivery gates remain.",
-  "next": "The original acceptance owners consume the installed privacy source and finish the required connected, rendered and native proof without inferring activation. The original merge lane consumes aftercare’s approvals, and the drawer owner consumes its existing hosted checks. BIG BAG and the returned shared-footer fix still need original proof and release; product-page residuals stay with their original owner. Next original-result inspection: 13:00Z.",
-  "updated": "2026-10-21T12:48:07.173036+00:00",
+  "remaining": "Actual consent and connected customer care, privacy facts and connected acceptance, all three original final ratings, final draft journeys and BIG BAG narrow/native proof remain open. The shared-footer and BIG BAG release queues have no verified start. Product-page KEEP LOOKING and gallery-control custody is unresolved. Native allocation lacks the required free disk; no native work has started. Remaining admin work awaits a verified release quiet point.",
+  "current": "Aftercare’s acceptance checks are merged and source-qualified; they contain no theme files and need no draft upload. The SEO safeguard repair returned with local mocked proof and awaits remote proof and review. Privacy remains installed in the unpublished draft with features off. Five delivery gates remain open.",
+  "next": "The original acceptance owner consumes the merged aftercare checks and verifies the required connected journey. The SEO owner’s returned repair goes through its original remote proof, pre-push check and Draft review route. BIG BAG and shared-footer proof remain queued; original product-page custody is still being resolved. Next original-result inspection: 13:15Z.",
+  "updated": "2026-10-21T13:03:21.018477+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,17 +205,17 @@
     }
   ],
   "recentChanges": [
-    "The approved privacy repair was installed in one five-file batch at 12:40:58Z–12:41:50Z. All files matched; preservation passed at 12:42:50Z. The draft remains unpublished, features stay off, and the live theme and settings are unchanged. Connected, rendered and native acceptance remain open.",
-    "Aftercare received both code approvals at 12:31:15Z and 12:41:33Z. It was still open at 12:42Z; approval is not a merge or connected-care acceptance.",
-    "The drawer’s original remote proof finished at 12:33:30Z with all 43 source checks passing. The integrated source is pushed. Hosted source checks were running at 12:44Z, with hosted tests queued and review unresolved.",
-    "The shared-footer repair returned at 12:43Z with writer evidence; its original remote proof and publication route was requested, with no start verified. BIG BAG’s returned narrow repair still awaits release. KEEP LOOKING and gallery-control overflow remain with the original product-page owner.",
-    "The completed admin group and SEO diagnosis remain separate from storefront delivery. The remaining admin group cannot start while Website remote proof is running. SEO source-repair placement acknowledgement is still unverified after its 12:45Z checkpoint; no live copy change occurred."
+    "Aftercare’s original source merged at 12:42:57Z. Qualification at 12:59Z authenticated the original code approvals and all seven merged files. This is acceptance-check support with no theme payload, so no Shopify upload applies; connected care acceptance is still open.",
+    "The SEO safeguard repair returned at 12:57Z. Local mocked proof covers preserving the other SEO field, refusing writes after unread values and rejecting weak or unchanged proposals. The original remote proof and Draft release route were requested around 13:00Z; no start, review, deployment or restored live copy is claimed.",
+    "Shared-footer and BIG BAG fixes remain in their original proof queue, waiting for predecessor work. Neither has a verified proof start. KEEP LOOKING and gallery-control repair custody is unresolved; the original chair request is due for inspection at 13:15Z.",
+    "Privacy’s approved five-file set remains installed and byte-verified in the unpublished draft, with features off. Native work has no qualified allocation because the free-disk requirement is unmet; acknowledgement of the latest source handoff is unverified.",
+    "The first admin group remains complete and the second waits for a verified release quiet point. The separate audit/refinement track stays at 1/2; original storefront delivery stays at 6/11, final ratings 0/3 and native checks 0/7."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "Consent and the connected customer-care journey still lack final acceptance. Aftercare has both code approvals, but merge and connected proof remain unverified.",
-      "next": "The original merge lane completes the protected merge; the service owner then proves consent and the connected journey on the qualified source."
+      "blocker": "Consent and the connected customer-care journey still lack final acceptance. Aftercare’s acceptance checks are merged and qualified, but actual connected proof remains unverified.",
+      "next": "The original acceptance owner consumes the merged checks; the service owner proves consent and the connected journey on the qualified source."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -229,12 +229,12 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Drawer hosted proof and release, aftercare merge, narrow-page repairs and final draft journeys remain open. Privacy installation is complete; the merged pet host repair is not a draft upload dependency.",
+      "blocker": "Drawer hosted proof and release, narrow-page repairs and final draft journeys remain open. Aftercare acceptance checks are merged and need no draft upload. Privacy installation is complete; the merged pet host repair is not a draft upload dependency.",
       "next": "Finish the original release steps, install any remaining qualified applicable repairs, verify affected journeys and complete the original acceptance evidence before handing over the unpublished draft."
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "BIG BAG and shared-footer fixes have returned with writer evidence but lack completed remote proof, independent review and merge. Native touch and final rendered acceptance remain open; product-page KEEP LOOKING and gallery controls retain separate original-owner repairs.",
+      "blocker": "BIG BAG and shared-footer fixes have returned with writer evidence but lack completed remote proof, independent review and merge. Native touch and final rendered acceptance remain open; product-page KEEP LOOKING and gallery-control repair custody is unresolved.",
       "next": "The original owners finish each scoped repair’s proof and release, then verify narrow layouts and native touch on the finished draft."
     }
   ],
@@ -266,14 +266,14 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The prior native window ended unqualified, with no Website start or executor. A qualified allocation and fresh pressure pair remain required; original timing attempt is unspent. Functional pass est. 10 min after a qualified native handback; timing estimate unknown. A separate limited Chrome handback arrived at 08:30Z, but recording controls were refused while the user was interacting. Root ended that attempt: zero recordings, exports or metrics. Resume browser work only at an idle reconciled boundary; no native transfer or acceptance is implied."
+        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The prior native window ended unqualified, with no Website start or executor. A qualified allocation and fresh pressure pair remain required; the latest free-disk evidence is below the required threshold, so no native start is verified. Latest-source handoff acknowledgement is unverified; original timing attempt is unspent. Functional pass est. 10 min after a qualified native handback; timing estimate unknown. A separate limited Chrome handback arrived at 08:30Z, but recording controls were refused while the user was interacting. Root ended that attempt: zero recordings, exports or metrics. Resume browser work only at an idle reconciled boundary; no native transfer or acceptance is implied."
       },
       {
         "complete": false,
-        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The 05:44:37Z–05:54:51Z desktop subset took 10.2 min. Drawer original remote proof ran 12:18:10Z–12:33:30Z, took 15.3 min; all 43 source checks passed and its successor is pushed. Hosted source checks started at 12:38:24Z and were executing at 12:44Z; hosted tests were queued, with completion time unknown. Privacy merged at 12:23:47Z; installation/readback finished at 12:41:50Z and preservation at 12:42:50Z, as recorded above. Connected privacy proof remains open with features off. Aftercare remote proof ran 11:34:23Z–11:38:06Z, took 3.7 min; its two code approvals arrived at 12:31:15Z and 12:41:33Z, but it remained open at 12:42Z. BIG BAG’s fix returned at 12:26Z and the shared-footer fix at 12:43Z; original proof and release remain due. Product-page residual repairs remain assigned separately. Final website passes remain 0/3. Next original-result inspection 13:00Z; completion estimate unknown."
+        "text": "Waiting — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The 05:44:37Z–05:54:51Z desktop subset took 10.2 min. Drawer original remote proof ran 12:18:10Z–12:33:30Z, took 15.3 min; all 43 source checks passed and its successor is pushed. Hosted source checks started at 12:38:24Z and were executing at 12:44Z; hosted tests were queued, with completion time unknown. Privacy merged at 12:23:47Z; installation/readback finished at 12:41:50Z and preservation at 12:42:50Z, as recorded above. Connected privacy proof remains open with features off. Aftercare remote proof ran 11:34:23Z–11:38:06Z, took 3.7 min; its two code approvals arrived at 12:31:15Z and 12:41:33Z, then it merged at 12:42:57Z. Source qualification at 12:59Z confirmed seven acceptance files and zero theme files; no upload applies. BIG BAG’s fix returned at 12:26Z and the shared-footer fix at 12:43Z; both remain queued behind predecessor work, with no proof start verified. Product-page residual custody is unresolved; the original request at 12:54Z is due for inspection at 13:15Z. Final website passes remain 0/3. Next original-result inspection 13:15Z; completion estimate unknown."
       }
     ],
-    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 12:36Z. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
+    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 12:50Z. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -284,7 +284,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next original-result inspection 13:00Z). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits Root’s quiet point; drawer remote hosted proof was still executing at 12:44Z. SEO read-only diagnosis returned at 12:23Z and was consumed at 12:27Z; source safeguards were requested, with placement acknowledgement still unverified after its 12:45Z checkpoint. Partial-field erasure remains a hypothesis. No live copy change, policy save or app activation occurred. Completion estimate remains unknown."
+        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next original-result inspection 13:15Z). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits Root’s quiet point; drawer remote hosted proof was still executing at 12:44Z. SEO read-only diagnosis returned at 12:23Z and was consumed at 12:27Z; the original safeguard repair returned at 12:57Z with mocked local proof. Original remote proof, pre-push and one-push Draft preparation were requested around 13:00Z; execution, review and deployment remain unverified. The placement wait is closed. Partial-field erasure remains a hypothesis. No live copy change, policy save or app activation occurred. Completion estimate remains unknown."
       }
     ],
     "landing": "Lands: initial audit finished at 08:54Z, took 12 min. Refinement completion remains unknown until the scoped admin checks and original source-repair route establish and finish the work. Original draft release timing remains unknown and proceeds independently.",
