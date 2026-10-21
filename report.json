@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Root completed the one picker upload, hosted readback, preservation and source recording. Big Bag’s original final wording correction is queued at the existing worker limit. Hands owns the SEO final named repair. No browser or iPhone execution is claimed while allocation is pending.",
+  "workerState": "Root completed and verified the picker installation. Big Bag and SEO writers have returned their fixes; pending handoffs are not claimed as running jobs. No browser or iPhone execution is claimed while allocation is pending.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Footer and product-page repairs are merged and installed. Big Bag’s selected-label correction is returned and being qualified. Companion publication and SEO proof recovery retain their original owners."
+      "evidence": "Footer and product-page repairs are merged and installed. Big Bag’s selected-label correction is returned and being qualified. Companion picker is installed; Big Bag and SEO final fixes are returned for their original release checks."
     },
     {
       "stage": "Tests",
@@ -17,16 +17,16 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Footer #4700 and product-page #4703 passed their original reviews and are merged. Companion, Big Bag and SEO successors still need their remaining release checks. Final website ratings remain 0/3."
+      "evidence": "Footer #4700 and product-page #4703 passed their original reviews and are merged. Companion picker #4714 also passed review and is installed. Big Bag and SEO still need their remaining release checks. Final website ratings remain 0/3."
     },
     {
       "stage": "Deployed",
       "state": "Verified",
-      "evidence": "Footer CSS and product-page CSS are installed and byte-verified; their preservation checks passed at 18:51Z and 19:18Z. Unrelated assets, the live theme, roles and settings remain unchanged. This is the unpublished draft; rendered, native, connected and final-rating acceptance remains open."
+      "evidence": "Footer, product-page and companion-picker CSS are installed and byte-verified; preservation passed at 18:51Z, 19:18Z and 21:35Z respectively. Unrelated assets, the live theme, roles and settings remain unchanged. This is the unpublished draft; rendered, native, connected and final-rating acceptance remains open."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Picker #4714 merged at 20:12Z and its single CSS asset passed hosted readback at 21:33:58Z. GitHub confirms SEO’s repaired head was pushed and passed its hosted tests, but review rejected one remaining finding. The chair assigned that finding to the same original writer.",
+  "lastActualProgress": "Picker #4714 is installed and preserved. The original SEO writer returned its final named fix at cb77f81; Big Bag returned its final wording correction at 69b5b89. Both are with the existing release owner for the remaining proof and review steps. The preceding public update passed served-file verification at 21:38Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The earlier browser slot expired unused; Root requested a fresh dated handback at 21:26Z and is available to use it. Native checks need their separate allocation. Big Bag is queued with its original writer; SEO has one remaining named finding with its original writer.",
+  "remaining": "The fresh browser request still needs a dated handback. Native checks need their separate allocation. Both original Big Bag and SEO fixes have returned; their original release owner must finish validation, publication and review.",
   "current": "The companion picker repair has passed review, merged and been uploaded to the unpublished draft. Hosted readback and preservation passed; all other draft files and the live theme were preserved. The footer and product-page fixes remain installed.",
   "next": "Picker release is recorded. Use the requested fresh browser slot for the installed footer and product-page checks, while Hands continues the original Big Bag and SEO repairs. Native, connected and final named-fix reviews follow their own evidence requirements.",
-  "updated": "2026-10-21T21:36:57.591403+00:00",
+  "updated": "2026-10-21T21:43:29.024098+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -207,8 +207,8 @@
   "recentChanges": [
     "Footer #4700 and product-page #4703 are merged, installed and byte-verified in the unpublished draft. Their changed-source visual checks await the fresh browser slot.",
     "Companion picker #4714 is merged. Its single CSS upload and hosted readback succeeded at 21:33Z; preservation passed and the installed source record was updated at 21:36Z. This gives no rendered or native acceptance credit.",
-    "Big Bag’s remaining wording correction is in the existing original-writer queue. Hands has been asked to preserve the original requested effort; no replacement or duplicate repair was started.",
-    "SEO’s earlier stopped proof job recovered: head 84c973e6 was pushed and its hosted tests passed. Review found one remaining issue; the chair assigned the final named-fix push to the original writer.",
+    "Big Bag’s remaining wording correction has returned from its original writer. The release owner retains validation and publication; no duplicate repair was started.",
+    "SEO’s earlier stopped proof job recovered: head 84c973e6 was pushed and its hosted tests passed. Review found one remaining issue; the original writer has returned the final named fix. The existing release owner retains proof, one push and the final review round.",
     "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. Those counts require complete acceptance evidence. The Shopify theme stays unpublished."
   ],
   "openDeliveryGates": [
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish original Big Bag narrow-screen repair (returned 18:46Z; sort-label repair qualified 20:02Z; final wording correction and remote proof remain; duration unknown)."
+        "text": "In progress — Finish original Big Bag narrow-screen repair (returned 18:46Z; sort-label repair qualified 20:02Z; final wording correction returned 21:39Z; remote proof and review remain; duration unknown)."
       },
       {
         "complete": true,
@@ -285,7 +285,7 @@
         "text": "Waiting — Connected buyer/privacy evidence and original final named-fix ratings (next check after qualified repaired source and original service prerequisites; duration unknown)."
       }
     ],
-    "landing": "Lands: latest source installation completed 21:36Z. The targeted visual pass takes about 10 min after the shared-browser handback (20:15Z–20:25Z allocation expired unused; fresh slot requested 21:26Z, next check 21:40Z). Whole draft completion remains unknown until repairs, native, connected and original final-reader gates pass. No live publication."
+    "landing": "Lands: latest source installation completed 21:36Z. The targeted visual pass takes about 10 min after the shared-browser handback (20:15Z–20:25Z allocation expired unused; fresh slot requested 21:26Z, next check 21:55Z). Whole draft completion remains unknown until repairs, native, connected and original final-reader gates pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
