@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Root completed and verified the picker installation. Big Bag and SEO writers have returned their fixes; pending handoffs are not claimed as running jobs. No browser or iPhone execution is claimed while allocation is pending.",
+  "workerState": "Root completed the six-minute browser pass and released Chrome. One bounded support check is reconciling the original native handoff. Big Bag and SEO release results remain with their existing owner; no unverified running claim.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Picker #4714 is installed and preserved. The original SEO writer returned its final named fix at cb77f81; Big Bag returned its final wording correction at 69b5b89. Both are with the existing release owner for the remaining proof and review steps. The preceding public update passed served-file verification at 21:38Z.",
+  "lastActualProgress": "At21:51Z, footer and PDP layout checks finished at188/380/430/1280px. The PDP quantity control is50×44px and selecting XL exposes Add to bag without changing the cart. The narrow companion panel contains its choices and all four motion controls. First Look still overflows at188px.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,20 +130,20 @@
     [
       "11. BIG BAG page and navigation",
       "Narrow repair installed — bounded desktop checks passed",
-      "Normal 380px/1280px BIG BAG fits and Plus opens options. At 188px, product/sort text compresses and page width is 189px. The footer repair is now installed and byte-verified; its targeted rendered check remains pending, so no new visual acceptance is claimed.",
+      "Normal 380px/1280px BIG BAG fits and Plus opens options. At 188px, product/sort text compresses and page width is 189px. The footer repair is now installed and byte-verified; its targeted desktop footer check passed21:51Z; this does not close BIG BAG names/sort or native acceptance.",
       "Original owners resolve the narrow findings and remaining releases; native and final qualification remain open."
     ]
   ],
   "completed": [
-    "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. At 188px, companion clipping, compressed product/sort text and one-pixel page overflow remain. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released.",
+    "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released.",
     "[BIG BAG narrow-layout repair #4698](https://github.com/EON-CRUX/3.09/pull/4698) merged as 0529efe7 at 15:14:12Z after its required tests and original code approval passed. One approved CSS asset was installed and byte-verified at 16:36:57Z; preservation passed at 16:38:36Z. All 694 unrelated draft assets, 550 live-theme assets, all 13 theme roles, settings and prior dependencies are preserved. The draft is unpublished. The later 16:47Z run passed normal desktop fit and options opening; remaining narrow findings, native/timing proof and final ratings stay open.",
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The fresh browser request still needs a dated handback. Native checks need their separate allocation. Both original Big Bag and SEO fixes have returned; their original release owner must finish validation, publication and review.",
-  "current": "The companion picker repair has passed review, merged and been uploaded to the unpublished draft. Hosted readback and preservation passed; all other draft files and the live theme were preserved. The footer and product-page fixes remain installed.",
-  "next": "Picker release is recorded. Use the requested fresh browser slot for the installed footer and product-page checks, while Hands continues the original Big Bag and SEO repairs. Native, connected and final named-fix reviews follow their own evidence requirements.",
-  "updated": "2026-10-21T21:43:29.024098+00:00",
+  "remaining": "Native checks still need their separate allocation and original delivery reconciliation. Big Bag and SEO fixes are returned to their existing release owner. The new First Look finding needs the original collection writer; no duplicate writer was started.",
+  "current": "The chair granted a fresh browser slot. The installed footer, 404 Tee product page and companion picker passed their bounded desktop layout checks. The slot ended at21:51Z and Chrome was released. A separate First Look heading overflow was reproduced at188px and routed to its original owner.",
+  "next": "Finish the original Big Bag and SEO release checks, resolve the reproduced First Look heading overflow, and obtain the original iPhone allocation. Then complete the remaining measured, connected and original final named-fix reviews.",
+  "updated": "2026-10-21T21:52:31.188604+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,8 +205,8 @@
     }
   ],
   "recentChanges": [
-    "Footer #4700 and product-page #4703 are merged, installed and byte-verified in the unpublished draft. Their changed-source visual checks await the fresh browser slot.",
-    "Companion picker #4714 is merged. Its single CSS upload and hosted readback succeeded at 21:33Z; preservation passed and the installed source record was updated at 21:36Z. This gives no rendered or native acceptance credit.",
+    "Fresh browser slot used21:44Z–21:51Z, then released. Footer and404 Tee product-page fit verified; Add to bag appears after selecting a size. Companion controls fit the narrow panel. Separate First Look heading overflow at188px is now a concrete original-owner repair, not an inferred pass.",
+    "Companion picker #4714 is merged. Its single CSS upload and hosted readback succeeded at 21:33Z; preservation passed and the installed source record was updated at 21:36Z. Its narrow picker layout and internal control reachability passed the21:51Z desktop check; no native or motion-rating credit.",
     "Big Bag’s remaining wording correction has returned from its original writer. The release owner retains validation and publication; no duplicate repair was started.",
     "SEO’s earlier stopped proof job recovered: head 84c973e6 was pushed and its hosted tests passed. Review found one remaining issue; the original writer has returned the final named fix. The existing release owner retains proof, one push and the final review round.",
     "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. Those counts require complete acceptance evidence. The Shopify theme stays unpublished."
@@ -234,7 +234,7 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; the footer repair is now installed, with its changed-source visual check pending. Native and final qualification remain open.",
+      "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; the footer repair is now installed, with its bounded footer visual check passed21:51Z. Native and final qualification remain open.",
       "next": "The original BIG BAG writer now has the narrow names/sort follow-up; consume its repair and original review results. Footer and product-page source releases are installed; original acceptance owners complete the changed-source visual, native and final checks."
     }
   ],
@@ -257,8 +257,12 @@
         "text": "Completed — Prepare, install and verify the approved footer CSS in the unpublished draft (18:46Z–18:51Z, took 5 min; all preservation checks passed)."
       },
       {
+        "complete": true,
+        "text": "Completed — Check installed footer, product-page wrapping and narrow companion controls (21:44Z–21:51Z, took 7 min; desktop188/380/430/1280; no native credit)."
+      },
+      {
         "complete": false,
-        "text": "Waiting — Check installed footer and product-page wrapping at four desktop widths (requested shared-browser handback 18:53Z; est. 10 min after handback)."
+        "text": "Waiting — Original collection owner fixes reproduced First Look heading overflow at188px (reported21:51Z; next check22:06Z; duration unknown)."
       },
       {
         "complete": true,
@@ -285,7 +289,7 @@
         "text": "Waiting — Connected buyer/privacy evidence and original final named-fix ratings (next check after qualified repaired source and original service prerequisites; duration unknown)."
       }
     ],
-    "landing": "Lands: latest source installation completed 21:36Z. The targeted visual pass takes about 10 min after the shared-browser handback (20:15Z–20:25Z allocation expired unused; fresh slot requested 21:26Z, next check 21:55Z). Whole draft completion remains unknown until repairs, native, connected and original final-reader gates pass. No live publication."
+    "landing": "Lands: targeted desktop pass completed21:51Z. Next original handoff check22:06Z; repairs, native allocation, connected proof and original final ratings determine whole-draft timing, currently unknown. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
