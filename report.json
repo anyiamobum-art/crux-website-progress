@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "SEO hosted checks are running. Big Bag has a placed same-writer repair brief; execution is not yet confirmed. The authorized First Look repair brief was delivered once at22:29Z; execution is not yet confirmed. No browser or iPhone run is active for this task.",
+  "workerState": "SEO has one passed test group and remaining queued checks. First Look and Big Bag briefs are in the existing launcher inbox. No new writer, duplicate test job, browser session or iPhone run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Native checks need their separate allocation and original delivery reconciliation. Big Bag has one named test gap. The First Look owner question is resolved; its scoped repair brief was delivered at22:29Z, with placement still unconfirmed.",
-  "current": "The SEO repair was pushed at22:12Z after its recovered remote proof passed. Hosted checks are running. Big Bag’s remote proof passed, and its review returned one focused test-gap repair to the same writer. The chair assigned the new First Look heading fix to this website task.",
-  "next": "Finish the existing SEO review and Big Bag named repair; place the narrow First Look fix through the approved build route. Resolve the original iPhone delivery and allocation, then complete the remaining acceptance evidence. The theme stays unpublished.",
-  "updated": "2026-10-21T22:28:54.562727+00:00",
+  "remaining": "No browser or iPhone allocation is active. First Look and Big Bag are queued, with execution not yet confirmed. Mounted assistant acceptance retains its original policy and safe-context prerequisites.",
+  "current": "The First Look heading repair is placed with its assigned writer. SEO’s first hosted test group passed at22:41Z; four groups and regression proof remain queued. Big Bag’s same-writer gutter test correction remains queued.",
+  "next": "Consume the original repair results and SEO review. The chair has a fresh request for an OFF-draft browser check; iPhone acceptance still needs its separate qualified allocation and original delivery reconciliation.",
+  "updated": "2026-10-21T22:45:29.584058+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -209,7 +209,7 @@
     "Companion picker #4714 is merged. Its single CSS upload and hosted readback succeeded at 21:33Z; preservation passed and the installed source record was updated at 21:36Z. Its narrow picker layout and internal control reachability passed the21:51Z desktop check; no native or motion-rating credit.",
     "Big Bag’s original remote run completed with51/51 regression checks at22:08Z. Review found one test gap in the narrow gutter check; a focused repair was placed with the same writer. No duplicate run was started.",
     "SEO’s recovered proof was accepted, and the original publisher pushed its final named fix at22:12Z. The exact head is now in hosted checks and the final review round; it has not merged.",
-    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. Those counts require complete acceptance evidence. The Shopify theme stays unpublished."
+    "First Look’s narrow heading fix is now placed with its assigned writer. A fresh browser request and original iPhone delivery reconciliation were sent to the chair at22:47Z. Delivery remains6/11, ratings0/3 and native0/7; the theme stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -250,15 +250,15 @@
       },
       {
         "complete": false,
-        "text": "Repair publication: SEO pushed22:12Z, hosted checks running; Big Bag same-writer named repair placed22:17Z (next check22:45Z)."
+        "text": "Repair publication: SEO pushed22:12Z, one hosted group passed22:41Z, other checks queued; Big Bag same-writer named repair queued (next check23:02Z)."
       },
       {
         "complete": false,
-        "text": "First Look heading: owner resolved22:12Z; scoped build handoff delivered22:29Z (22:26Z–22:29Z, took3 min; waiting for placement, next check22:43Z)."
+        "text": "First Look heading: owner resolved22:12Z; scoped build handoff delivered22:29Z and placement verified22:45Z (waiting for original writer START; next check23:02Z)."
       },
       {
         "complete": false,
-        "text": "iPhone acceptance: waiting for original delivery reconciliation and qualified device START since16Oct20:16Z (next check22:45Z)."
+        "text": "iPhone acceptance: waiting for original delivery reconciliation and qualified device START since16Oct20:16Z (next check23:02Z)."
       },
       {
         "complete": false,
@@ -269,7 +269,7 @@
         "text": "Final three independent named-fix ratings and draft handover: pending qualified evidence; no live publication."
       }
     ],
-    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Next handoff check about22:45Z."
+    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Next handoff check about23:02Z."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
