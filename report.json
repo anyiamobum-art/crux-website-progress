@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The chair placed companion-picker and Big Bag text/sort repairs with their original writers. Footer #4700 and product-page #4703 remain in the original remote validation queue. SEO remote proof passed, but two pre-push findings went back to its original writer. Browser capture is complete and the owned tab is closed.",
+  "workerState": "Footer #4700 was pushed and marked Ready after exact-source remote proof and a zero-finding pre-push review. Product-page #4703 remote validation is complete; pre-push review and push remain with its original owner. SEO’s two further corrections returned at 17:57Z and need their original keeper validation. Companion and Big Bag narrow-screen repairs remain placed with their original writers.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 17:43Z offline analysis completed for the 43-frame header trace; at 17:47Z it was indexed into the existing acceptance packet. The first complete product row appeared by 937 ms; the primary renderer recorded no task longer than 50 ms in the first ten seconds. These are one-sample measurements, not formal total blocking time, native proof or a final score.",
+  "lastActualProgress": "At 17:58Z product-page remote validation finished with 50/50 mutation checks. The footer’s admission check passed every requirement except its Draft status; after verifying its remote proof and self-review, it was marked Ready. These are release steps, not merges, draft installations or final ratings.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "One desktop reload is not the required repeated performance or native pass. Narrow companion/product/sort issues, connected buyer/privacy acceptance and final ratings remain open. The original native allocation still needs a dated start and fresh resource qualification.",
-  "current": "The new 380px draft reload trace is saved and indexed: both first-row product images, names and prices appeared within 0.94 seconds in this one sample. Original narrow-screen repairs and release checks continue; five delivery gates remain open.",
-  "next": "Consume the original footer and product-page validation results, the SEO writer’s two pre-push corrections, and the companion/Big Bag narrow-screen repairs. Complete the remaining qualified native, connected and timing evidence before the three original final named-fix reads.",
-  "updated": "2026-10-21T17:47:41.878445+00:00",
+  "current": "Footer #4700 is Ready for its original hosted review. Product-page #4703 completed remote validation with 417 passed tests across 18 files and all 50 regression-mutation checks; its original release owner has the next push. Five delivery gates remain open.",
+  "next": "Follow footer #4700 through hosted checks and original review; consume the original product-page push and SEO successor validation. Complete the companion/Big Bag repairs, qualified native and connected evidence, then the original final named-fix ratings.",
+  "updated": "2026-10-21T18:00:51.049893+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "A new 380px draft reload was captured before navigation, exported and analyzed: 43 saved frames; both first-row product images, names and prices visible within 0.94 seconds in this one sample.",
-    "No primary-renderer task exceeded 50 ms in the first ten seconds. Header positions looked stable in the inspected frames, while delayed icons and the saved count changed. Repeated samples, other header states, native checks and the original readers’ verdicts remain open.",
-    "The chair placed the clipped companion picker and compressed Big Bag names/sort controls with their original writers. Footer and product-page validation remain in the original queue; no duplicate writers or uploads were started.",
-    "SEO remote proof completed successfully at 17:35Z. Its pre-push reader found two further issues, now returned to the original writer; review and merge are not yet complete.",
-    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The new evidence advances work inside those open gates without changing their acceptance rules. The theme remains unpublished."
+    "Footer #4700 passed remote proof and its pre-push review with no findings. It is now Ready for the normal hosted tests and original review; it is not yet merged or installed.",
+    "Product-page #4703 finished remote validation: 417 passed tests across 18 files, with browser-engine skips retained, and all 50 regression-mutation checks passed. Its original release owner has the next pre-push review and push.",
+    "The SEO writer returned both pre-push corrections at 17:57Z. They still need the original remote validation and publication step. Companion-picker and Big Bag narrow-text repairs stay with their original writers.",
+    "The new 380px reload evidence remains indexed: both first-row products visible within 0.94 seconds in one sample, with no primary-renderer task over 50 ms in its first ten seconds. Repeated/native measurements and original verdicts remain open.",
+    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. No new merge, theme installation or final acceptance is inferred. The Shopify theme remains unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -275,9 +275,13 @@
       {
         "complete": true,
         "text": "Completed — Capture and analyze one current-draft phone-width reload (21 October 17:35Z–17:43Z, took 8 min); index the result at 17:47Z. Both first-row products were fully visible within 0.94 seconds; no primary-renderer task exceeded 50 ms in the first ten seconds. This is one sample, not formal total blocking time or the required repeated/native pass. Delayed icons and count changes remain explicit. The browser tab is closed."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Validate footer repair and send it into the original review lane (21 October 17:38Z–17:59Z, took 21 min including remote proof and pre-push review). Product-page remote proof finished at 17:58Z after an 18-minute job; its original owner still owes pre-push review and push. Hosted checks, reviews and merges remain pending."
       }
     ],
-    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 17:21Z; this publication adds the completed header trace and changed original repair state. Next changed-result check is 17:55Z; the native allocation request is due 18:00Z. Targeted follow-up measurement est. 10 min after a qualified handback; whole completion has no defensible time yet. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
+    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 17:21Z; this publication adds the completed header trace and changed original repair state. The 17:55Z reconciliation was completed, followed by the returned release results above. Next changed-result check is 18:15Z; the native allocation request due 18:00Z remains unanswered. Targeted follow-up measurement est. 10 min after a qualified handback; whole completion has no defensible time yet. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -288,7 +292,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next check follows the original repair result and a verified release quiet point). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits a verified release quiet point. SEO diagnosis returned at 12:23Z and the original safeguard repair at 12:57Z; its successor passed original remote proof with 20 source checks and hosted proof and guards passed at 14:56Z. SEO’s critical first-round rejection returned at 15:57Z on f33645f6 with one repeat-charge finding. The original holder received one repair request at 16:37Z and returned repair a5d74771. Original remote keeper proof completed at 17:35Z (17:32Z–17:35Z, took about 3 min). The pre-push reader found two additional issues; both returned to the original writer at 17:39Z for one correction and its keeper check. The original publication step owns the eventual push. No new approval, merge or deployment is verified. Partial-field erasure remains a hypothesis. No live copy restoration, policy save or app activation is claimed. Completion estimate remains unknown."
+        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next check follows the original repair result and a verified release quiet point). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits a verified release quiet point. SEO diagnosis returned at 12:23Z and the original safeguard repair at 12:57Z; its successor passed original remote proof with 20 source checks and hosted proof and guards passed at 14:56Z. SEO’s critical first-round rejection returned at 15:57Z on f33645f6 with one repeat-charge finding. The original holder received one repair request at 16:37Z and returned repair a5d74771. Original remote keeper proof completed at 17:35Z (17:32Z–17:35Z, took about 3 min). The pre-push reader found two additional issues; both returned to the original writer at 17:39Z. That writer resumed at 17:49Z and returned the correction at 17:57Z (took 8 min); its keeper check is next. The original publication step owns the eventual push. No new approval, merge or deployment is verified. Partial-field erasure remains a hypothesis. No live copy restoration, policy save or app activation is claimed. Completion estimate remains unknown."
       }
     ],
     "landing": "Lands: initial audit finished at 08:54Z, took 12 min. Refinement completion remains unknown until the scoped admin checks and original source-repair route establish and finish the work. Original draft release timing remains unknown and proceeds independently.",
