@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The separately authorized pet-only live installation completed on 20 October; its rendered acceptance remains open. The whole redesigned storefront remains unpublished in draft 166627606744.",
-  "workerState": "C11’s original repair is pushed at 2a0ad5ee. Hosted run 39537530544 completed successfully at 03:29:18Z: all five test groups and test-gate passed; pins and guards also passed. Original holder 4675.2 retains the matching-receipt correction, requested once at 03:25Z. The shared-resource window closed at 03:32:09Z without a qualified Website start; existing Hands owns the next handback.",
+  "workerState": "C11 #4675 merged at 03:41:00Z as 8a7802ed from repaired head 2a0ad5ee. Its standard classification was verified at 03:48:46Z: FIRST is the required review and its approval is recorded. Original approval-artifact authentication and fresh preimages are underway; no draft installation yet. Existing Hands retains the 03:45:18Z resource window, ending by 04:15Z, without a qualified Website start. The late cart report matches already-merged #4673 and adds no completion credit.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "C11’s original named repair is pushed at 2a0ad5ee. Pet-only live installation is complete and source-bound. C04 #4667 is merged as 80ef561d and requires no storefront upload."
+      "evidence": "C11’s original named repair at 2a0ad5ee is merged as 8a7802ed. Pet-only live installation is source-bound. C04 #4667 is a merged test repair. The late P159 report matched already-merged cart #4673; its original Home integration remains separate."
     },
     {
       "stage": "Tests",
@@ -17,16 +17,16 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "C11’s self-review receipt still references the prior diff. Original holder 4675.2 received the matching-receipt request once at 03:25Z; the original second review and merge remain. C04 #4667 is merged. The same original final readers retain their named-fix checks; qualified ratings remain 0/3."
+      "evidence": "C11 received FIRST round-two approval 6307451399 and merged at 03:41:00Z. Canonical policy with full file metadata confirmed the standard tier at 03:48:46Z, requiring FIRST only. No second approval or exception wait applies. Original approval-artifact authentication remains part of installation qualification. Historical self-review body remains old; prepared correction 98868a52 was not applied. Qualified final website ratings remain 0/3."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Pet-only live installation completed 20 October at 21:47Z with all 12 records and preservation verified. Public homepage HTML includes pet markup and controls; the three public CSS/JS files match minified installed source after the recorded source-map and whitespace differences. This proves delivery, not rendered motion or interaction. C11’s repaired wiring and contract await the original review, merge and qualified draft installation; delivery stays off. The full redesigned storefront remains unpublished in draft 166627606744."
+      "evidence": "Pet-only live installation completed 20 October at 21:47Z with all 12 records and preservation verified. Public homepage markup and the three CSS/JS files are accounted for; rendered motion and interaction remain unverified. C11’s merged wiring and canonical contract are being qualified for one five-file OFF draft installation; no installation yet. The full redesigned storefront remains unpublished in draft 166627606744."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "C11’s original named fix was pushed at 03:14:57Z and its hosted test run completed successfully at 03:29:18Z on 21 October; Root verified completion at 03:33Z. The pet’s three public CSS/JS files match local minification of installed source after the recorded source-map and whitespace differences are accounted for, verified at 03:26:35Z. This is delivery evidence; rendered motion and interaction remain unverified.",
+  "lastActualProgress": "C11’s FIRST round-two approval and 03:41:00Z merge were verified at 03:44Z. At 03:48:46Z, canonical policy with full file metadata confirmed the standard tier and FIRST-only review requirement. The original approval artifact and fresh draft preimages are now being checked before exact installation. The late P159 report matched already-merged #4673; original Home integration remains. The resource window opened at 03:45:18Z without a qualified Website start.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -89,7 +89,7 @@
       "4. Cart recovery repair",
       "Complete — merged and integrated",
       "#4233 passed its original R3 named-fix review and merged as 681f9388 at 05:38 UTC. All four reviewed files match the merge and final assembly. 91 behavior cases, six test entry points and 16 causal checks passed.",
-      "The separate two-line test correction merged in PR #4673 as 4045af62 at 21:06:47Z after required checks and review passed. The original dependent holder integrates main once; no failed-job rerun. Controlled testing supports the wait defect; the historical runner’s exact delay remains inferred."
+      "The separate two-line test correction merged in PR #4673 as 4045af62 at 21:06:47Z after required checks and review passed. The late P159 report was reconciled to this already-merged source with matching content; no new completion credit. Original Home holder 4663.1 retains one main integration; no duplicate repair or failed-job rerun. Controlled testing supports the wait defect; the historical runner’s exact delay remains inferred."
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "Pet-only live installation, all 12 records and preservation are verified. Public HTML and all three CSS/JS assets are accounted for; rendered acceptance remains open. C11’s original repair is pushed at 2a0ad5ee, with all hosted tests, pins and guards passed; it stays off and unloaded.",
-      "Original holder 4675.2 must correct the receipt that references the prior diff, then complete the original review, merge and qualified draft installation including the contract. The 03:32Z quiet window ended without a Website allocation; existing Hands owns the next handback and 03:40Z check. Connected inputs, privacy, seven native checks and final ratings remain; full redesign draft 166627606744 stays unpublished."
+      "Pet-only live installation, preservation and public asset delivery are verified; rendered acceptance remains open. C11 #4675 merged at 03:41Z as 8a7802ed after its original FIRST round-two approval and passing hosted checks.",
+      "The standard review requirement is verified and FIRST approval recorded. Finish original approval-artifact authentication and fresh draft-file checks, then complete one qualified five-file OFF installation in unpublished draft 166627606744; no C11 wiring installation yet. No second approval or exception wait. Existing Hands retains the new 03:45:18Z–04:15Z window, with no Website start; next disposition 03:55Z. Connected inputs, privacy, seven native checks and final ratings remain."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,15 +135,15 @@
     ]
   ],
   "completed": [
-    "C11 [original repair #4675](https://github.com/EON-CRUX/3.09/pull/4675) was pushed at 2a0ad5ee. Hosted run 39537530544 completed successfully at 03:29:18Z on 21 October, with all five test groups and test-gate passed; pins and guards also passed. The original matching-receipt correction, review, merge and qualified draft installation remain open.",
+    "C11 [original repair #4675](https://github.com/EON-CRUX/3.09/pull/4675) received FIRST round-two approval 6307451399 and merged on 21 October at 03:41:00Z as 8a7802ed from head 2a0ad5ee. All five hosted test groups, test-gate, pins and guards passed. The old review and merge wait is closed. The standard tier and FIRST-only review requirement were verified at 03:48:46Z. Original approval-artifact authentication and fresh preimages are preparing one qualified five-file OFF installation in the unpublished draft; no installation yet.",
     "Pet public-delivery comparison completed at 03:26:35Z on 21 October: all three served CSS/JS files match local minification of the installed source after the recorded source-map trailers and one optional CSS space are accounted for. Raw bytes differ and the actual Shopify minifier version is unknown. This does not prove rendered motion or interaction.",
     "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. Live rendered motion is still unverified; the full redesigned storefront remains unpublished in draft 166627606744. The retained motion clips show the earlier unpublished draft only.",
     "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate."
   ],
-  "remaining": "C11’s self-review receipt refers to the previous diff and blocks the next review; its original holder already received the correction request at 03:25Z. Live pet motion, interaction and seven native checks remain unverified after the quiet window ended without an allocation. Connected private inputs, privacy acceptance and all three final ratings remain open.",
-  "current": "The pet-only live installation is verified, and its public HTML and three CSS/JS files are accounted for; motion and interaction still need a rendered check. C11’s original repair is pushed and all hosted tests passed. Review now waits on its original holder’s matching receipt. The 03:32Z quiet window ended without a Website allocation.",
-  "next": "Original Hands must correct C11’s receipt to match the pushed repair, then complete the original review and merge before qualified draft installation; delivery stays off. Existing Hands also owns the next browser/native handback. The next recorded owner check is 03:40Z. No additional review or device request is needed.",
-  "updated": "2026-10-21T03:33:00Z",
+  "remaining": "C11’s required review tier is resolved; its original approval artifact and fresh draft-file preimages still need verification before installation. No qualified Website start exists in the new resource window. Live pet motion, seven native checks, connected private inputs, privacy acceptance and all three final ratings remain open.",
+  "current": "C11’s original repair merged at 03:41Z after its FIRST round-two approval and passing hosted checks. Its standard review requirement is now verified; no second approval or exception wait applies. Original approval-artifact authentication and fresh draft-file checks are preparing one exact installation; no installation has happened. The 03:45:18Z resource window still has no qualified Website start.",
+  "next": "Finish the original approval-artifact authentication and fresh draft-file checks, then complete one qualified five-file installation in unpublished draft 166627606744 with delivery off. Existing Hands retains the browser/native handback and original queue. Next original result or disposition: 03:55Z. Installation is estimated at 20 min after qualification; rendered pet checks at 10 min after handback.",
+  "updated": "2026-10-21T03:48:46.674810+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -228,18 +228,18 @@
       },
       {
         "complete": false,
-        "text": "In progress — Install each approved repair in the unpublished draft (Bag: 20 October 13:22Z–13:33Z, took 11 min; account care: 17:29Z–17:31Z, took 2 min; delivery: 19:18Z–19:52Z, took 34 min). The original C11 repair was pushed on 21 October at 03:14Z; hosted pins, guards, all five test groups and test-gate passed by 03:29Z. Its review receipt still refers to the prior diff; original holder 4675.2, retained since 03:07Z, has the matching-receipt request sent at 03:25Z, with no duplicate repair or review. Next owner check: 03:40Z. C04 test repair merged 20 October 22:20Z and needs no storefront upload. Next delivery install: est. 20 min after review and merge; stays off."
+        "text": "In progress — Install each approved repair in the unpublished draft (Bag: 20 October 13:22Z–13:33Z, took 11 min; account care: 17:29Z–17:31Z, took 2 min; delivery: 19:18Z–19:52Z, took 34 min). C11’s original repair passed its FIRST round-two review and merged on 21 October at 03:41Z; all five hosted test groups, test-gate, pins and guards passed. The original review and merge wait is closed. The standard review requirement is verified and FIRST approval is recorded. Original approval-artifact authentication and fresh draft-file checks are underway before one qualified five-file installation; no installation yet, delivery stays off. No second approval or exception wait applies. Next: original qualification result or 03:55Z disposition; install est. 20 min after qualification. C04 is a merged test repair with no storefront upload."
       },
       {
         "complete": false,
-        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The Mac restarted on 21 October. The 03:32Z quiet window ended without an allocation; existing Hands owns the next handback, with the next recorded check at 03:40Z. No qualified Website start; original queue and unspent timing attempt retained. Functional pass est. 10 min after admission; timing estimate unknown."
+        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The earlier quiet window ended without allocation. A new shared-resource window opened on 21 October at 03:45:18Z, lasting no later than 04:15Z. No qualified Website start; existing Hands retains the same queue and handback. Next original check: 03:55Z or changed handback. Functional pass est. 10 min after admission; timing estimate unknown; original timing attempt remains unspent."
       },
       {
         "complete": false,
         "text": "Pending — Complete connected buyer/privacy checks, original final ratings and draft handover (original repair/acceptance owners retain their work; private test inputs and native evidence are still needed; estimate unknown)."
       }
     ],
-    "landing": "Lands: whole draft completion unknown; original receipt, review, merge, device handback, connected inputs and final ratings remain. Delivery installation is estimated at 20 min after review and merge; the live pet rendered check is estimated at 10 min after handback. The previous task-site update was verified at 03:23Z on 21 October. The full redesign stays unpublished; only the separately approved pet has been installed live."
+    "landing": "Lands: whole draft completion unknown; final installation checks, draft installation, device handback, connected inputs and final ratings remain. C11 installation is estimated at 20 min after qualification; live pet rendering is estimated at 10 min after handback. Next original qualification result or 03:55Z disposition. The previous task-site update was verified at 03:38Z on 21 October. The full redesign stays unpublished; only the separately approved pet has been installed live."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
