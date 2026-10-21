@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Footer installation preparation is running in read-only support; Root alone applies the qualified draft change. Product-page #4703 remains Ready with hosted checks pending. SEO recovered from its launcher failure and passed remote proof with 25/25 mutation checks; its original release owner owes the single push. The companion writer returned its narrow-screen repair, which still needs original release proof. Big Bag returned a repair but its real alphabetical sort labels still clip; the same writer has that correction.",
+  "workerState": "Footer source installation is complete; rendered acceptance remains open. Product-page #4703 has four hosted test groups passed, one running, and mutation proof running at the last check. SEO passed remote proof with 25/25 mutation checks and awaits its original release owner’s push. Companion release proof and the Big Bag selected-label correction remain with their original owners.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 18:45Z, GitHub confirmed #4700 merged as 57470e07. The recovered SEO job completed at 18:28Z with exit 0 and all 25 mutation checks passing. Returned companion and Big Bag reports were reconciled at 18:46Z, with remaining work routed to their original owners.",
+  "lastActualProgress": "The footer installation ran 18:49Z–18:50Z; preservation finished at 18:51Z. All 694 unrelated draft files, 550 live-theme files, 13 theme roles and both themes’ settings remained unchanged. The installed-source record now includes the approved footer fix.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "One desktop reload is not the required repeated performance or native pass. Narrow companion/product/sort issues, connected buyer/privacy acceptance and final ratings remain open. The original native allocation still needs a dated start and fresh resource qualification.",
-  "current": "Footer repair #4700 is merged. Its one-file installation packet is being prepared for the unpublished Shopify draft. Product-page #4703 remains in its original hosted checks and review. Five delivery gates remain open.",
-  "next": "Install and verify the approved footer CSS, including preservation of unrelated draft and live files. Continue the original product-page review, SEO publication, companion proof and Big Bag sort-label correction; then complete qualified native and connected evidence for the original final readers.",
-  "updated": "2026-10-21T18:49:09.571443+00:00",
+  "current": "Footer repair #4700 is merged, installed and byte-verified in the unpublished Shopify draft. Preservation passed at 18:51Z. Its targeted visual check needs the shared browser handback; product-page #4703 remains in original hosted checks and review.",
+  "next": "Use the next shared-browser handback for the installed footer’s targeted visual check. Continue product-page review, SEO publication, companion proof and Big Bag correction. Complete qualified native and connected evidence before the three original final named-fix ratings.",
+  "updated": "2026-10-21T18:52:44.641987+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "Footer repair #4700 is merged; its unpublished-draft installation is now in preparation. Merge and installation remain separate steps.",
+    "Footer repair #4700 is merged, installed and byte-verified in the unpublished draft. Preservation passed at 18:51Z; the targeted rendered check remains open.",
     "Product-page #4703 is Ready after 417 passing remote tests and 50/50 mutation checks. Its original hosted review and checks continue.",
     "SEO's launcher failure is recovered: the corrected source passed remote validation and all 25 mutation checks. The original release owner has the one push.",
     "The companion picker repair is returned, with original release proof still owed. Big Bag's selected alphabetical sort label still clips at 188px; the original writer has the correction before publication.",
@@ -234,7 +234,7 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; footer repair is uninstalled, with causality unproved. Native and final qualification remain open.",
+      "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; the footer repair is now installed, with its changed-source visual check pending. Native and final qualification remain open.",
       "next": "The original BIG BAG writer now has the narrow names/sort follow-up; consume its repair and original review results. Original footer/product-page holders finish releases; original acceptance owners complete native and final checks."
     }
   ],
@@ -253,8 +253,12 @@
         "text": "Completed — Take footer repair through review and merge (17:38Z–18:45Z verification window, took 67 min; merge 57470e07)."
       },
       {
+        "complete": true,
+        "text": "Completed — Prepare, install and verify the approved footer CSS in the unpublished draft (18:46Z–18:51Z, took 5 min; all preservation checks passed)."
+      },
+      {
         "complete": false,
-        "text": "In progress — Prepare, install and verify the approved footer CSS in the unpublished draft (started 18:46Z, est. 20 min; preservation checks required)."
+        "text": "Waiting — Check the installed footer at four desktop widths (requested shared-browser handback 18:53Z; est. 10 min after handback)."
       },
       {
         "complete": false,
@@ -273,7 +277,7 @@
         "text": "Waiting — Connected buyer/privacy evidence and original final named-fix ratings (next check after qualified repaired source and original service prerequisites; duration unknown)."
       }
     ],
-    "landing": "Lands: footer installation about 19:06Z (20 min from its start; source or preservation differences could move it). Whole draft completion remains unknown until the native, connected and original final-reader gates pass. No live publication."
+    "landing": "Lands: footer installation finished at 18:51Z. Its targeted visual check needs about 10 min after browser handback; no handback time is confirmed. Whole draft completion remains unknown until the native, connected and original final-reader gates pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
