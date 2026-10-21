@@ -2,22 +2,22 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The parallel Shopify audit started at 08:42Z and now has a dedicated lane under Root; the recovered Claude handoff is being reconciled after read-only admin inspection. Release evidence is verified through 08:43:46Z: drawer release tests and its first independent review passed; the pet repair is Ready with hosted checks and independent review pending. The privacy writer returned both named fixes, but mount/browser proof is missing and no new push is authorized by that result. Aftercare second review rejected one permission check, with no repair start verified. Native remains 0/7; the earlier desktop capture yielded no recording or metrics.",
+  "workerState": "Release evidence is verified through 09:31:43Z; pet component readback through 09:38:19Z. Pet #4686 merged at 09:05:49Z with hosted checks passing; no new installation is verified. The original CS dependency repair returned at 09:24:33Z with six tests passing. Privacy’s authorized original repair started at 09:29:14Z; its review hold remains. Aftercare’s current hosted test run is still executing. The separate read-only Shopify audit finished at 08:54Z; no settings refinements were applied.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Both privacy second-review fixes returned from the original writer, with qualified mount/browser proof still missing. Aftercare has one new second-review permission finding; original repair start is unverified. Drawer has its first approval and the pet repair entered review. The separate Shopify audit began at 08:42Z; its dedicated lane is reconciling the prior settings handoff, with no changes applied."
+      "evidence": "Pet is merged. The original CS dependency repair returned at 09:24:33Z with six passing tests. Privacy’s chair-authorized named fix started at 09:29:14Z; its hold remains. Aftercare’s named repair is pushed. The parallel read-only Shopify audit completed at 08:54Z; settings refinements are unapplied."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Drawer release tests passed at 08:36Z: 73 passed and 72 WebKit cases skipped; all 42 source checks passed. Pet successor tests passed at 08:39Z: five tests and all 19 source checks. Privacy partial proof passed but its Liquid mount/browser checks remain unproved because the writer environment lacked the needed tools. Aftercare hosted tests passed; review still requires its named permission fix. No new rendered or native credit."
+      "evidence": "Pet required hosted checks passed. Drawer release proof retained 73 passed and 72 WebKit cases skipped, with 42 source checks passing; hosted tests later failed on CS geometry, so the drawer is not qualified. Its original dependency repair has six local passing tests but still needs its release route. Aftercare current source checks and guards pass, with one hosted group running. Existing privacy hosted checks do not lift the review hold. No new rendered or native credit."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Drawer #4685 received its first independent approval at 08:41Z; hosted checks and the remaining review are pending. Pet #4686 is Ready; hosted checks and independent reviews remain pending. Privacy and aftercare each consumed two full code-review rounds; after their named fixes and required proof, only the original third named-fix checks remain. Website rating history is separate: 0 of 3 final 9.5 passes."
+      "evidence": "Pet merged after its observed first approval and green checks; no second approval is inferred. Drawer retains its first approval. Privacy’s third review rejected at 09:13Z; the chair’s one-time named correction is running with its hold retained. Aftercare’s third review result is not yet observed. Website rating history remains separate: 0 of 3 final 9.5 passes."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Drawer first review approved at 08:41Z, after successful release tests. Pet checks completed at 08:39Z and its original pull request became Ready at 08:40Z. Both privacy fixes returned with partial proof; aftercare second review named one permission defect. The separate Shopify audit began at 08:42Z and is reconciling the prior settings handoff. No admin refinements, new repair installation or final pass are claimed.",
+  "lastActualProgress": "Pet merged at 09:05:49Z. The original CS dependency repair returned with six passing tests at 09:24:33Z. The chair-authorized privacy named fix started at 09:29:14Z. The Shopify audit completed at 08:54Z after 12 minutes. Pet component mapping and full preservation were verified at 09:38:19Z with zero uploads. These advances add no draft installation, native check or final rating credit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -100,8 +100,8 @@
     [
       "6. Assistant privacy facts",
       "Routing verified — privacy decision open",
-      "Signed proxy routing is verified and the assistant remains off. Account retention/training facts and notice wording remain unresolved. Both second-review source fixes returned; mount/browser proof is still missing.",
-      "The original owner confirms the actual settings and notice. The original proof route verifies invalid guest links and saved-text clearing on account changes before one push and the third named-fix-only code check. Preserve the privacy-facts wait since 12 October 04:12Z."
+      "Signed proxy routing is verified and the assistant remains off. Account retention/training facts and notice wording remain unresolved. The third code review rejected; the chair-authorized original named correction is running, with the review hold retained.",
+      "Confirm the actual settings and notice. Complete the original named fix, qualified proof and original review route before release. Preserve the privacy-facts wait since 12 October 04:12Z."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "The prior approved six-file set remains installed. Drawer and pet release checks passed; the drawer has its first approval and the pet pull request is Ready for review. Privacy proof and aftercare permission repair remain open. No new repair is installed.",
-      "Finish the original repair/proof/review routes, then install only qualified merged theme changes in the unpublished draft. Verify files, preservation and affected journeys at an idle browser boundary; complete narrow-page, timing, native, connected and final-reader evidence. No new live-theme writes. The separate Shopify audit does not block this work."
+      "The prior approved six-file set remains installed. Pet host source is merged; mapping is reconciled and this repair needs no draft upload. Existing draft pet acceptance remains open. No new installation occurred. Drawer is blocked by its CS test dependency; privacy is on hold with its authorized fix running; aftercare tests/review remain open.",
+      "Continue acceptance of the draft’s existing pet; no host-repair upload is applicable. Finish the original remaining repair and release routes, then verify files, preservation and affected journeys at a qualified browser boundary. Complete narrow-page, timing, native, connected and final-reader evidence. The separate audit does not block release work."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,15 +135,15 @@
     ]
   ],
   "completed": [
+    "[Pet control repair #4686](https://github.com/EON-CRUX/3.09/pull/4686) merged on 21 October at 09:05:49Z as fc80692b after its observed first approval and required hosted checks passed. Readback at 09:38Z confirms this host repair does not apply to the draft’s separate pet component; no upload was performed. Live installation remains forbidden and existing draft pet acceptance is separate. No second approval is inferred and no new live-theme write is authorized.",
     "C11 [original repair #4675](https://github.com/EON-CRUX/3.09/pull/4675) merged on 21 October at 03:41Z as 8a7802ed from 2a0ad5ee after its required FIRST round-two approval and all hosted checks passed. Its qualified C11/C06 six-file set was installed once at 04:07Z, exact readback passed at 04:07:55Z and preservation at 04:09:16Z. Root verified at 04:10Z and the original acceptance owner at 04:12Z. Installation and dependency waits are closed. Wiring stays off and unmounted in the unpublished draft; connected, rendered, native and final-rating acceptance remain open.",
     "Pet public-delivery comparison completed at 03:26:35Z on 21 October: all three served CSS/JS files match local minification of the installed source after the recorded source-map trailers and one optional CSS space are accounted for. Raw bytes differ and the actual Shopify minifier version is unknown. This does not prove rendered motion or interaction.",
-    "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. The 21 October desktop check observed live keyboard motion and controls but requires a named pointer-hit repair; full live acceptance remains open. The full redesign stays unpublished in draft 166627606744, and retained motion clips show the earlier unpublished draft only.",
-    "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate."
+    "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. The 21 October desktop check observed live keyboard motion and controls but requires a named pointer-hit repair; full live acceptance remains open. The full redesign remains in the unpublished draft, and retained motion clips show the earlier unpublished draft only."
   ],
-  "remaining": "The Shopify audit is in progress; findings and refinement scope are not yet established. The original five delivery gates remain open. Privacy mount/browser proof and the aftercare permission fix remain due; drawer and pet reviews remain open. Native allocation and a new idle Chrome boundary are still needed. No new live-theme write is authorized.",
-  "current": "The Shopify product-copy and settings audit is running in parallel, with initial findings estimated for 09:02Z. No changes have been applied. The drawer repair has its first approval, the pet repair entered review, and privacy proof plus one aftercare permission fix remain open.",
-  "next": "Complete the initial Shopify audit, then define evidence-based refinements and their estimate. In parallel, finish the original repair proof and review routes, then install qualified merged theme fixes in the unpublished draft and verify the affected journeys.",
-  "updated": "2026-10-21T08:49:43.792606+00:00",
+  "remaining": "The five original delivery gates remain open. Drawer hosted checks failed on a CS geometry assertion; its original dependency repair has local test proof but is not yet landed. Privacy remains on a review hold with one chair-authorized named fix running. Aftercare checks and its final code-review result remain pending. Native and browser work need qualified resource handbacks.",
+  "current": "The pet host repair is merged. Readback at 09:38Z confirmed it does not apply to the draft’s separate pet component, so no upload is needed for that repair. Draft pet acceptance remains open; no live change was made. The Shopify audit is complete: prior descriptions and categories are preserved, with a later SEO automation conflict identified for the original owner. Settings refinements remain unapplied.",
+  "next": "Continue the existing draft pet’s rendered and native acceptance through its original owner. Keep the merged live-host repair held under the current no-live-write instruction. Continue the existing drawer dependency repair, privacy named fix and aftercare checks. Resume scoped admin follow-ups when the shared Mac resource conditions qualify.",
+  "updated": "2026-10-21T09:40:11.361478+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,10 +205,11 @@
     }
   ],
   "recentChanges": [
-    "A separate Shopify product-copy and settings audit started at 08:42Z. The prior settings handoff is recovered and being reconciled; admin inspection has been read-only. Initial findings are estimated for 09:02Z, with refinements scoped afterward. Release work continues in parallel.",
-    "The drawer fix passed its release tests and first independent review. The pet repair passed its release tests and entered review. Both still need their remaining checks and approvals before any draft installation.",
-    "Both privacy fixes returned from the original writer with partial proof. The missing mount/browser checks must pass before one push and the final named-fix code check.",
-    "The aftercare second review named one remaining defect: confirm the operator can view and complete a care task before sending it. The original repair and final named-fix code check remain due."
+    "The pet control repair merged at 09:05:49Z after its original review and hosted checks passed. Readback at 09:38Z confirmed the draft uses its separate pet component, so this host repair requires no draft upload. Both themes and settings were preserved. Existing draft acceptance remains open; the merged live-host repair stays held under the no-live-write instruction.",
+    "The drawer remains blocked by a CS geometry test. The original CS owner returned a narrow repair with six passing tests at 09:24:33Z; its release and drawer integration remain open.",
+    "Privacy’s third code review stopped the change. The chair authorized one named correction, and the same original writer started at 09:29:14Z. The review hold remains until its required proof and release steps complete.",
+    "Aftercare’s named repair is pushed. Current admission, source checks and guards pass; one hosted test group is still running and its third code-review result is not yet observed.",
+    "The separate Shopify audit finished at 08:54Z after 12 minutes. Prior descriptions and categories are preserved; a later SEO automation conflict is identified for the original owner. Settings refinements remain unapplied and wait on shared Mac resource conditions."
   ],
   "openDeliveryGates": [
     {
@@ -218,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Account retention/training facts and notice wording remain unresolved; the returned privacy fixes still lack mount/browser proof.",
-      "next": "Confirm the actual settings and notice, verify the returned invalid-link and account-change fixes, then finish the original final named-fix code check. Keep the assistant off until its requirements pass."
+      "blocker": "Account retention/training facts and notice wording remain unresolved; the third code review stopped the change and its hold remains.",
+      "next": "Confirm the actual settings and notice; finish the chair-authorized original named fix, its required proof and original review route. Keep the assistant off until its requirements pass."
     },
     {
       "label": "8. Final three-model ratings",
@@ -228,7 +229,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Earlier approved repairs are installed, but the new pet, privacy, aftercare and drawer repairs still need their remaining checks and reviews; narrow-page observations remain open.",
+      "blocker": "Earlier approved repairs are installed. The merged pet host repair does not apply to the draft and no upload is queued; existing draft pet acceptance remains open; drawer has a failed hosted dependency check, privacy remains on hold and aftercare checks/review are pending. Narrow-page observations remain open.",
       "next": "Install only qualified, merged repairs in the unpublished draft, verify the stored files and affected journeys, then complete the handover evidence."
     },
     {
@@ -249,7 +250,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish the pet control repair in the unpublished draft (original scope started 20 October 19:53Z). The historical live installation completed 20 October 21:44Z–21:47Z, took 3 min. The 21 October desktop check ran 05:20:12Z–05:26:47Z, took 6.6 min, and found four controls intercepted at 380px. The original writer resumed at 06:41:02Z. Successor release tests ran 08:36:38Z–08:39:04Z, took 2.4 min: five tests and all 19 source checks passed. The original pet pull request became Ready at 08:40Z; hosted checks and independent reviews are pending, followed by merge and unpublished-draft installation only. Installation est. 20 min after qualification; targeted desktop readback est. 10 min after installation and idle Chrome handback. No new live-theme writes are authorized. Native, 200% text, reduced motion, recording and performance acceptance remain open."
+        "text": "In progress — Complete acceptance of the draft pet and retain the separate host repair (original scope started 20 October 19:53Z). Historical live installation completed 20 October 21:44Z–21:47Z, took 3 min. The 21 October desktop check ran 05:20:12Z–05:26:47Z, took 6.6 min, and found four live-host controls intercepted at 380px. Successor release tests ran 08:36:38Z–08:39:04Z, took 2.4 min; the host repair received its first approval at 08:46Z and merged at 09:05:49Z with hosted checks passing. Readback completed at 09:38:19Z: the draft uses a separate pet component, so no host-repair upload applies. Both themes and settings remain preserved; zero uploads. Keep the merged live-host repair held under the no-live-write instruction. The original draft pet continues its existing rendered, native, 200% text, reduced-motion, recording and performance acceptance. Targeted desktop readback est. 10 min after a qualified idle Chrome handback; remaining acceptance duration unknown."
       },
       {
         "complete": true,
@@ -269,25 +270,25 @@
       },
       {
         "complete": false,
-        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The 05:44:37Z–05:54:51Z draft desktop subset took 10.2 min and retained scoped options, Back-target and Checkout-tile proof. Drawer original release tests finished at 08:36Z and its first independent review approved at 08:41Z; hosted checks and the remaining review are pending. Privacy #4682 returned both second-review fixes, but mount/browser checks are missing; qualified proof and one push must precede its original third named-fix-only check. Aftercare #4681 passed hosted checks and admission, then second review at 08:33Z rejected one task-permission check; the original fix and third named-fix-only check remain due, with no repair start verified. Narrow-page original-owner placement remains open. No new repair is merged, installed or accepted. Final 9.5 passes remain 0 of 3; completion estimate unknown. Original release support continues independently of the Shopify audit, with its next result inspection at 08:55Z or earlier result."
+        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The 05:44:37Z–05:54:51Z desktop subset took 10.2 min and retained scoped options, Back-target and Checkout-tile proof. Drawer has its first approval but is blocked by a hosted CS geometry test; the original dependency repair returned at 09:24:33Z with six passing tests, pending its release and drawer integration. Privacy’s third code review stopped at 09:13Z; the chair-authorized original named fix started at 09:29:14Z, with the review hold retained. Aftercare’s named repair is pushed, current admission/source checks/guards pass, one hosted test group is running and its third named-fix review result is unobserved. Pet merged at 09:05:49Z; no new repair installation or acceptance is verified. Narrow-page placement remains open. Final 9.5 passes remain 0 of 3; completion estimate unknown. Continue the same original jobs and inspect their changed results; the Shopify audit is separate."
       }
     ],
-    "landing": "Lands: whole draft completion unknown until the remaining proof, reviews and resource results arrive. The prior approved six-file set remains installed. New qualified merged theme changes go only to the unpublished draft. Draft installation est. 20 min after qualification; targeted desktop readback est. 10 min after installation and idle Chrome handback. Native, connected and original final-reader acceptance remain separate. Previous task-site publication was verified at 08:32Z. No new live-theme writes, including pet, are authorized. The parallel Shopify audit has its own estimate below and does not hold release work."
+    "landing": "Lands: whole draft completion unknown until the remaining proof, reviews and resource results arrive. The prior approved six-file set remains installed. New qualified merged theme changes go only to the unpublished draft. Other draft repair installations est. 20 min after source qualification; targeted desktop readback est. 10 min after installation and idle Chrome handback. Native, connected and original final-reader acceptance remain separate. Previous task-site publication was verified at 08:52Z. No new live-theme writes, including pet, are authorized. The completed Shopify audit and its remaining refinements are separate below and do not hold release work."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
     "steps": [
       {
-        "complete": false,
-        "text": "In progress — Audit the existing Claude product-copy and Shopify admin/settings work (started 21 October 08:42Z, est. 20 min). Root and the dedicated parallel audit lane are reconciling the recovered Claude settings handoff. Products, General, Checkout and Apps have been inspected read-only; no settings or copy changes have been applied and initial findings are not yet verified. This runs alongside the original release work and adds no completed delivery gate."
+        "complete": true,
+        "text": "Completed — Audit the existing Claude product-copy and Shopify admin/settings work (21 October 08:42Z–08:54Z, took 12 min). Read-only evidence confirms prior descriptions and categories are preserved and identifies a later SEO automation conflict for the original owner. No settings or copy changes were applied. This is one of two separate audit/refinement steps and adds no completed delivery gate."
       },
       {
         "complete": false,
-        "text": "Pending — Apply scoped Shopify refinements supported by the audit (estimate after the audit; findings and exact scope not yet established). The parallel audit lane retains this work under Root and verifies each authorized change. No new live-theme writes; no private customer metrics are published here."
+        "text": "Waiting — Apply scoped Shopify refinements supported by the audit (UI resource wait first observed 08:48Z; existing next check 10:00Z). At 09:32Z the shared Mac remained outside the required load and free-memory thresholds. No active Chrome owner was reported at 09:16Z, but that alone does not qualify resource use. The SEO conflict was routed once to its original owner at 09:31Z; no automatic copy rollback is authorized. Scoped admin screen checks precede any refinement. No settings refinements or new live-theme writes have been applied. Duration estimate follows a qualified resource handback and confirmed change scope."
       }
     ],
-    "landing": "Lands: initial audit about 09:02Z (20 min from its 08:42Z start; available evidence and admin access may move it). Refinement estimate follows the audit. Original draft release timing remains unknown and proceeds independently.",
-    "basis": "Separate from the eleven delivery gates; no audit completion or refinement result claimed."
+    "landing": "Lands: initial audit finished at 08:54Z, took 12 min. Refinement completion is unknown until the shared Mac conditions qualify and the scoped checks establish the work. Original draft release timing remains unknown and proceeds independently.",
+    "basis": "Separate track: one of two steps complete. The read-only audit is verified; settings refinements remain unapplied. This adds no delivery-gate credit."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
@@ -308,7 +309,7 @@
     "limits": "Responsive browser evidence. Touch dispatch was unsupported. Native iPhone, 200% text, performance measurements and final ratings remain separate."
   },
   "draftEvidence": {
-    "result": "Unpublished draft 166627606744, 21 October 2026, 05:44–05:54Z, desktop at 380 CSS px. Selecting available 12pro enabled Add to bag and Plan a store visit. No item was added and no store/customer message was sent. This image is scoped desktop evidence, not native, 200% text, timing or final acceptance.",
+    "result": "Unpublished draft, 21 October 2026, 05:44–05:54Z, desktop at 380 CSS px. Selecting available 12pro enabled Add to bag and Plan a store visit. No item was added and no store/customer message was sent. This image is scoped desktop evidence, not native, 200% text, timing or final acceptance.",
     "image": {
       "label": "Options selected in the unpublished draft · 380px · 21 October 2026",
       "path": "assets/draft-options-380-20261021.jpg"
