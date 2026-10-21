@@ -1,32 +1,32 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The separately authorized pet-only live installation completed on 20 October; its rendered acceptance remains open. The whole redesigned storefront remains unpublished in draft 166627606744.",
-  "workerState": "Verified through 07:21Z: the original pet fix is returned with clean source and checked CSS bytes; its local tests and browser checks are writer-reported, with independent release checks still owed. #4681 is Ready with hosted checks running. #4682’s named sign-out privacy fix started at 07:14:27Z after a rejected first code review; original-history confirmation stays with the coordinator. The drawer candidate requires original-writer adoption and commit. No new merge, installation, native pass or final rating.",
+  "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. New fixes, including the pet repair, target the unpublished draft only. No new live-theme writes are authorized in this continuation.",
+  "workerState": "Verified through 08:28Z: drawer tests are executing remotely, with no terminal result. The aftercare repair passed all five hosted test groups, test-gate, guards and source-proof checks; its size exception is bound to the current source, but admission still showed failure while the original coordinator corrected the receipt. The privacy continuation is placed in the original running queue; runtime start is not independently established. Pet successor checks and narrow-page original-owner placement remain owed. No new merge, installation or final rating.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "The prior approved C11/C06 set remains installed. #4681 is Ready for review; #4682’s existing named-fix lane is addressing the single sign-out privacy finding from its first code review. Neither new repair is merged or installed. The original pet source fix has returned with clean source and writer-reported local proof; independent release checks remain. The drawer candidate needs original-writer adoption and commit."
+      "evidence": "The original drawer writer adopted and committed the repair; the pet documentation successor is returned. The aftercare repair addressing three first-review findings was pushed at 08:07Z. The privacy continuation is placed for its two second-review findings; no terminal result is recorded. Narrow-page original-owner placement remains due. New fixes target the unpublished draft only."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "The rejected pre-fix version of #4682 passed all five hosted test groups, test-gate, pins and guards. Its named fix still needs regression and causal proof plus the required checks. #4681’s hosted checks are running. Earlier scoped options, Back and Checkout evidence is retained; applicable repair readback, timing, film, native and connected proof remain open."
+      "evidence": "The earlier pet fix passed five independent tests and 19 source checks; successor proof is not established. Drawer remote tests are executing, with no terminal result. Aftercare all five hosted test groups, test-gate, guards and source proof pass. Privacy checks include a failed test group and gate attributed to a separately repaired race; original current-main integration and affected proof remain due. No test result substitutes for approval or acceptance."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "#4682’s first full code review rejected one finding: retained guest text survives same-tab sign-out. Its existing named-fix lane started at 07:14:27Z; the next original full code-review round follows verified fixes. #4681 is Ready after size admission at 07:13:11Z, with hosted checks and original independent reviews pending. Neither new repair is approved or merged. Website rating rounds and qualified ratings 0/3 are unchanged."
+      "evidence": "Privacy second full code review rejected two findings at 08:02Z; its third check is named-fix-only. Aftercare first-round repairs passed hosted checks and source-bound size review. Its admission receipt is being corrected; the second-round marker is not an approval or completed review. New pet/drawer review routes remain open. Final website review history is separate: 0 of 3 final 9.5 passes."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Pet-only live installation completed 20 October at 21:47Z; public HTML and CSS/JS delivery are accounted for. Live desktop behavior was exercised on 21 October and requires the named control-hit repair; full acceptance remains open. C11/C06’s six-file set was uploaded once at 04:07Z, exact readback passed at 04:07:55Z and preservation at 04:09:16Z. All 13 roles, settings, live pet and 689 unrelated draft files were preserved. Wiring stays off and lifecycle disabled; the full redesign remains unpublished in draft 166627606744."
+      "evidence": "Historical pet-only live installation completed 20 October at 21:47Z. Its desktop check found the control-hit defect; acceptance remains open. The approved C11/C06 six-file set was uploaded to the unpublished draft at 04:07Z, exact readback passed 04:07:55Z and preservation 04:09:16Z. No newer repair is installed. Wiring stays off and lifecycle disabled. All new theme changes, including pet repairs, are unpublished-draft-only; no new live-theme writes are authorized."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The pet control-hit fix was returned and its source verified clean; the writer reports five tests, browser checks at 380/390/430/1280px and a failing reversal followed by restored passing proof. These are local writer results, not live acceptance. The drawer route was resolved to original-writer adoption and commit. Separately, #4681 entered the review lane at 07:13:11Z, and #4682’s named sign-out privacy fix started at 07:14:27Z after its first code-review rejection.",
+  "lastActualProgress": "The aftercare repair passed hosted tests and its size review; the original coordinator was correcting the admission receipt at 08:27Z. The drawer job began remote execution after waiting about 29 minutes for its test slot. Its original writer adoption is complete. The privacy original-holder continuation is placed, with no terminal repair result; the pet documentation successor remains returned and clean.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -100,8 +100,8 @@
     [
       "6. Assistant privacy facts",
       "Routing verified — privacy decision open",
-      "Signed proxy reaches Ask v3 before model dispatch; deployment source identifies its provider/model. No model call or privacy acceptance is inferred. Assistant remains off.",
-      "Chair item 5 at 22:49:39Z assigns account retention/training settings and the card’s notice wording to the owner. One owner line is already sent; C10 remains OFF. Preserve the wait since 12 Oct 04:12, existing card and current guest-baseline requirement; no second card or repeated lookup."
+      "Signed proxy routing is verified; the assistant remains off. Account retention/training facts and notice wording remain unresolved. The new privacy repair received two second-review code findings.",
+      "The original owner confirms the actual settings and notice. The original writer fixes invalid guest style-path handling and saved-text clearing on every observed account change, then supplies proof for the third named-fix-only code check. Preserve the privacy-facts wait since 12 October 04:12Z."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -111,9 +111,9 @@
     ],
     [
       "8. Final three-model ratings",
-      "0/3 qualified; original final named-fix checks pending",
-      "Scoped options, Back and Checkout evidence is retained. Separate code review found one sign-out privacy defect in #4682; the existing named fix is running. #4681 is Ready with hosted checks running. No final website reader check or new score.",
-      "Complete the original code-review routes and named repairs, then each reader’s applicable timing, film, contrast, native and connected evidence. Fable/Opus exclude disabled private flows; Astra retains its named connected/privacy requirements."
+      "0/3 final 9.5 passes; original final named-fix checks pending",
+      "Prior full reviews are complete: Fable 9.05, Opus 8.75, Astra unqualified with whole average unknown. Scoped options, Back and Checkout evidence is retained. No new final rating.",
+      "Complete each reader’s named repairs and applicable rendered, timing, film, contrast, native and connected evidence, then use the same original final named-fix checks. Fable/Opus exclude disabled private flows; Astra retains its named connected/privacy requirements."
     ],
     [
       "9. Complete website assembly merge",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "The prior approved six-file set remains installed and preserved. The original pet source fix has returned. #4681 is Ready; #4682’s checks passed on the pre-fix version but first review rejected a sign-out privacy finding, now in the existing named-fix lane. No new repair is installed.",
-      "Complete pet release checks/review, the sign-out fix and next original review, and original-writer adoption/commit of the drawer candidate. Targeted readback, narrow-page diagnosis and applicable timing, native, connected and final-reader evidence remain open. Draft unpublished; wiring off and lifecycle disabled."
+      "The prior approved six-file set remains installed and preserved. Drawer original adoption is complete and remote tests are executing. Pet successor proof is due. Aftercare hosted checks and size review pass but admission receipt correction remains; privacy repair has two second-review findings. No new repair is installed.",
+      "Finish the original repair/proof/review routes, then install only qualified merged changes in the unpublished draft. Verify files, preservation and affected journeys after Chrome handback; finish narrow-page, timing, native, connected and final-reader evidence. No new live-theme writes."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. The 21 October desktop check observed live keyboard motion and controls but requires a named pointer-hit repair; full live acceptance remains open. The full redesign stays unpublished in draft 166627606744, and retained motion clips show the earlier unpublished draft only.",
     "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate."
   ],
-  "remaining": "The pet source fix is returned but not yet qualified, reviewed, merged or installed. The sign-out privacy fix is running without completed fix proof or a new approval. #4681’s hosted checks and independent reviews remain pending. The drawer adoption route is settled, but original-writer adoption and commit are unverified. Narrow product/Big Bag diagnosis, timing, film, contrast, exact first-dock, native and connected evidence remain open. No Chrome lease is verified.",
-  "current": "The original pet writer has returned the control-hit source fix; independent release checks, review, merge and installation remain. Repair #4681 is Ready with hosted checks running. Repair #4682 passed checks on its pre-fix version, but first code review found guest text retained across same-tab sign-out; its named fix started at 07:14Z. The drawer candidate must now be adopted and committed by its original writer before one push.",
-  "next": "Take the returned pet fix through the existing release-check and review route. Complete the sign-out privacy fix and regression proof, retain the original-history check, then return it through its next original code-review round. Consume #4681’s hosted checks and independent reviews. The original drawer writer must adopt and commit the candidate before one push. Targeted browser readback follows qualified installation and Chrome handback.",
-  "updated": "2026-10-21T07:21:54.765471+00:00",
+  "remaining": "Five original delivery gates remain open: buyer-trust acceptance, privacy facts, final ratings, complete draft handover and Big Bag acceptance. New repairs are not installed. Chrome has not been handed back, and native allocation remains unqualified. No new live-theme write is authorized.",
+  "current": "The original drawer repair is committed and its remote tests are running. The aftercare repair passed hosted checks and size review; its review-admission receipt is being corrected. The pet successor needs release checks. The privacy repair still has two second-review findings. None of these new repairs is installed.",
+  "next": "Consume the drawer test result, finish the aftercare admission receipt and next review, complete the two privacy fixes and their final named-fix code check, and verify the pet successor. Install only qualified merged fixes in the unpublished draft, then verify affected journeys after Chrome handback.",
+  "updated": "2026-10-21T08:28:38.683209+00:00",
   "links": [
     {
       "title": "Sign-out privacy repair #4682",
@@ -204,6 +204,39 @@
       "result": "Original FULL R2 returned20:25:22Z: FAIL, average8.75/10, lowest8.0, all ten measures scored. The9.5 average and minimum9 requirements remain unmet."
     }
   ],
+  "recentChanges": [
+    "The original drawer writer adopted and committed the repair. Its remote tests are now executing after a 29-minute wait for a test slot; the result is pending.",
+    "The pet control-hit fix passed five independent release tests and all 19 source checks. A documentation correction then returned; the successor still needs its own checks before it can proceed.",
+    "The aftercare repair addressing all three findings was pushed at 08:07Z and passed its hosted tests and size review. The original coordinator is correcting its review-admission receipt; no approval or merge is claimed.",
+    "The privacy repair received a second rejection at 08:02Z: invalid style links must not open the guest assistant, and saved guest text must clear on every observed account change. Its original continuation is placed; both fixes and the final named-fix code check remain due."
+  ],
+  "openDeliveryGates": [
+    {
+      "label": "5. Buyer trust and WhatsApp reviews",
+      "blocker": "Review consent and the connected customer-care journey still lack final acceptance.",
+      "next": "The original service owner verifies consent and the connected journey with the required evidence."
+    },
+    {
+      "label": "6. Assistant privacy facts",
+      "blocker": "Account retention/training facts and notice wording remain unresolved; the privacy repair has two second-review findings.",
+      "next": "Confirm the actual settings and notice, repair invalid guest links and account-change text clearing, then finish the original final named-fix code check. Keep the assistant off until its requirements pass."
+    },
+    {
+      "label": "8. Final three-model ratings",
+      "blocker": "0 of 3 final 9.5 passes. Reviews have occurred; named repairs and each reader’s required rendered/measured evidence remain open.",
+      "next": "Complete those repairs and evidence, then return the same finished source to the three original final named-fix checks."
+    },
+    {
+      "label": "10. Completed Shopify draft and handover",
+      "blocker": "Earlier approved repairs are installed, but the new pet, privacy, aftercare and drawer repairs still need their remaining checks and reviews; narrow-page observations remain open.",
+      "next": "Install only qualified, merged repairs in the unpublished draft, verify the stored files and affected journeys, then complete the handover evidence."
+    },
+    {
+      "label": "11. BIG BAG page and navigation",
+      "blocker": "Desktop evidence is partial; native touch and final rendered acceptance remain unverified, with no qualified device handback.",
+      "next": "The original acceptance owner completes the outstanding narrow-page diagnosis and native checks on the finished draft when the relevant resource handback is granted."
+    }
+  ],
   "timedPlan": {
     "steps": [
       {
@@ -216,7 +249,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish the separately approved live pet (started 20 October 19:53Z). Installation and preservation verified 21:47Z; final execution 21:44Z–21:47Z, took 3 min. The live desktop check ran on 21 October 05:20:12Z–05:26:47Z, took 6.6 min, and found homepage hero layers intercepting four pet controls at 380px. The original writer resumed at 06:41:02Z; its source fix was returned and verified clean by 07:21Z, with actual finish time unrecorded. The writer reports five tests, browser checks at 380/390/430/1280px and a causal reversal check passing. Independent release checks, review, merge and live installation remain pending. No new live acceptance: 200% text, reduced motion, continuous recording, native and performance checks remain open. Installation est. 20 min after qualification; targeted desktop recheck est. 10 min after installation and Chrome handback."
+        "text": "In progress — Finish the pet control repair in the unpublished draft (original scope started 20 October 19:53Z). The historical live installation completed 20 October 21:44Z–21:47Z, took 3 min. The 21 October desktop check ran 05:20:12Z–05:26:47Z, took 6.6 min, and found four controls intercepted at 380px. The original writer resumed at 06:41:02Z. Its first fix passed five independent release tests and 19 source checks by 07:48Z; the later documentation successor returned clean but has no verified successor test start or result at the 08:28Z cutoff. Original proof, reviews and merge remain due. Any qualified installation is unpublished-draft-only, est. 20 min; targeted desktop readback est. 10 min after draft installation and Chrome handback. No new live-theme writes are authorized. Native, 200% text, reduced motion, recording and performance acceptance remain open."
       },
       {
         "complete": true,
@@ -232,14 +265,14 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). Hands ended the 03:45:18Z resource window at 04:19:07Z as unqualified, with no Website start or executor. At 05:10Z, native pressure remained level 2 with 39% free memory, 6.4 GB swap and no booted simulator; no qualified window was supplied. Existing Hands retains the same queue and native handback. Functional pass est. 10 min after a qualified native handback; timing estimate unknown; original timing attempt remains unspent. Root’s separate desktop-only check does not transfer native custody. A new Chrome boundary was requested at 06:50Z for separate desktop checks; no Chrome lease or native transfer is established."
+        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). Hands ended the 03:45:18Z window at 04:19:07Z as unqualified, with no Website start or executor. The last recorded 05:10Z resource sample had pressure level 2, 39% free memory, 6.4 GB swap and no booted simulator. A qualified native allocation and fresh pressure pair remain required; original timing attempt is unspent. Functional pass est. 10 min after a qualified native handback; timing estimate unknown. Separate Chrome handback has been awaited since approximately 06:48Z and still depends on the current browser owner ending. The original 08:20Z handback inspection was requested; this 08:28Z snapshot supplies no Chrome or native grant. The existing source owner’s next disposition is 08:40Z or an earlier result."
       },
       {
         "complete": false,
-        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The draft desktop subset ran 21 October 05:44:37Z–05:54:51Z, took 10.2 min: options, 44px Back targets and yellow Checkout arrow tiles passed scoped checks. Repair #4681 cleared size admission at 07:13:11Z and is now Ready for review, with hosted checks running. The pre-fix version of #4682 passed all five hosted test groups, test-gate, pins and guards, but its first full code review rejected one privacy finding: retained guest text can survive sign-out in the same tab. The existing named-fix lane started at 07:14:27Z; the fix, regression proof and next original code review remain pending. The coordinator retains the original-history check at a safe point. The drawer ownership route is now settled: the candidate must be adopted and committed by the original writer before one push; adoption is not yet verified. Narrow product/Big Bag observations still need diagnosis. Neither new repair is merged, installed or accepted. Timing, film, native and connected proof remain unverified. Fable/Opus exclude disabled private flows from scores; Astra retains its named connected/privacy evidence. Final ratings remain 0/3; completion estimate unknown."
+        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The draft desktop subset ran 21 October 05:44:37Z–05:54:51Z, took 10.2 min: options, 44px Back targets and yellow Checkout arrow tiles passed scoped checks. Aftercare repair #4681 was pushed at 08:07:07Z with all three first-review findings addressed; all five hosted test groups, test-gate, guards and source proof now pass, and size review is bound to this source. The admission receipt is being corrected; the next original full review remains due. Privacy repair #4682 received a second full code-review rejection at 08:02Z: reject invalid guest style links and clear saved guest text on every observed account change. The original continuation is placed, but runtime start is not independently established. Both fixes, exact-source proof and the original third named-fix-only check remain due. The original drawer writer adopted and committed its candidate; its release tests are executing remotely after the 07:55Z local launch and a 29-minute slot wait, with no terminal result. Original narrow-page repair placement remains owed; no writer start is verified. No new repair is merged, installed or accepted. Fable/Opus exclude disabled private flows; Astra retains named connected/privacy proof. Final 9.5 passes remain 0 of 3; completion estimate unknown."
       }
     ],
-    "landing": "Lands: whole draft completion unknown until repair, review and resource results arrive. The prior approved six-file set remains installed. The pet source fix is returned, awaiting independent release checks, review, merge and installation. Sign-out privacy repair started at 07:14Z after a rejected first code review; the other source repair is Ready with hosted checks running. The drawer candidate now awaits original-writer adoption and commit. Installation is estimated at 20 min after qualification, with a targeted desktop recheck estimated at 10 min after installation and Chrome handback. No Chrome lease is verified. Native, connected and original final-reader acceptance remain separate. The previous public task-site update was verified at 07:04Z. The full redesign stays unpublished; only the separately approved pet is installed live."
+    "landing": "Lands: whole draft completion unknown until repair, review and resource results arrive. The prior approved six-file set remains installed. New pet, privacy, aftercare and drawer fixes still need their remaining proof and reviews; qualified merged changes go only to the unpublished draft. Draft installation est. 20 min after qualification; targeted desktop readback est. 10 min after installation and Chrome handback. No Chrome or native grant is verified at the 08:28Z evidence cutoff. Native, connected and original final-reader acceptance remain separate. Previous task-site publication was verified at 07:32Z. No new live-theme writes, including pet, are authorized in this continuation."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
