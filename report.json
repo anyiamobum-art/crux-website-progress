@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original repair heads a2dc931a, 03f4f67a and a5d74771 are queued with the existing remote validation and single-push owner. Big Bag contrast capture is complete and the shared browser is released. No new native, timing, rating or live publication is claimed.",
+  "workerState": "The chair placed companion-picker and Big Bag text/sort repairs with their original writers. Footer #4700 and product-page #4703 remain in the original remote validation queue. SEO remote proof passed, but two pre-push findings went back to its original writer. Browser capture is complete and the owned tab is closed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 17:16Z the current draft contrast check completed: minimum sampled hero-text contrast was 12.25:1 on phone and 10.10:1 on desktop, above the required 4.5:1. The actual second-room caption measured 15.42:1 on white. These are scoped desktop contrast results, not final ratings.",
+  "lastActualProgress": "At 17:43Z offline analysis completed for the 43-frame header trace; at 17:47Z it was indexed into the existing acceptance packet. The first complete product row appeared by 937 ms; the primary renderer recorded no task longer than 50 ms in the first ten seconds. These are one-sample measurements, not formal total blocking time, native proof or a final score.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The bounded desktop BIG BAG/options/bag checks passed, while 188px companion clipping, compressed product/sort text and one-pixel page overflow remain. Connected buyer/privacy acceptance, final draft journeys, native qualification, timing and all three original final ratings are still open. Original footer, product-page and SEO release work remains separate.",
-  "current": "The installed Big Bag hero text passes the original contrast measurement at 380px and 1280px. The second-room caption also passes on its solid white background. Footer, product-page and SEO fixes are in their original remote validation queue; five delivery gates remain open.",
-  "next": "Consume the original validation, review and merge results for footer #4700, product-page #4703 and SEO #4702. The clipped companion picker and compressed narrow Big Bag controls have been routed to their original writers. Native, connected buyer/privacy and final-reader prerequisites remain separate.",
-  "updated": "2026-10-21T17:18:04.861516+00:00",
+  "remaining": "One desktop reload is not the required repeated performance or native pass. Narrow companion/product/sort issues, connected buyer/privacy acceptance and final ratings remain open. The original native allocation still needs a dated start and fresh resource qualification.",
+  "current": "The new 380px draft reload trace is saved and indexed: both first-row product images, names and prices appeared within 0.94 seconds in this one sample. Original narrow-screen repairs and release checks continue; five delivery gates remain open.",
+  "next": "Consume the original footer and product-page validation results, the SEO writer’s two pre-push corrections, and the companion/Big Bag narrow-screen repairs. Complete the remaining qualified native, connected and timing evidence before the three original final named-fix reads.",
+  "updated": "2026-10-21T17:47:41.878445+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Footer and product-page repairs returned at 16:52Z and 16:54Z. Both clean local heads were verified and are queued with their original remote validation and review owner; neither is claimed merged or installed.",
-    "Existing checkout-arrow and companion Back evidence was recovered and indexed, avoiding duplicate desktop capture. Native acceptance remains separate.",
-    "Current Big Bag hero text passes the original 4.5:1 contrast check at phone and desktop widths; measured minima are 12.25:1 and 10.10:1. The second-room caption measures 15.42:1 on solid white. Browser custody was released; no native or final-rating credit is added.",
-    "The current unpublished draft already passed the bounded 16:47Z Plus, normal BIG BAG and settled narrow-bag checks. The 188px companion picker and compressed product/sort text remain with their original owners.",
-    "Final ratings remain 0/3, native checks 0/7 and delivery 6/11. Source work inside these gates has advanced; their full acceptance criteria remain open."
+    "A new 380px draft reload was captured before navigation, exported and analyzed: 43 saved frames; both first-row product images, names and prices visible within 0.94 seconds in this one sample.",
+    "No primary-renderer task exceeded 50 ms in the first ten seconds. Header positions looked stable in the inspected frames, while delayed icons and the saved count changed. Repeated samples, other header states, native checks and the original readers’ verdicts remain open.",
+    "The chair placed the clipped companion picker and compressed Big Bag names/sort controls with their original writers. Footer and product-page validation remain in the original queue; no duplicate writers or uploads were started.",
+    "SEO remote proof completed successfully at 17:35Z. Its pre-push reader found two further issues, now returned to the original writer; review and merge are not yet complete.",
+    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The new evidence advances work inside those open gates without changing their acceptance rules. The theme remains unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -235,7 +235,7 @@
     {
       "label": "11. BIG BAG page and navigation",
       "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; footer repair is uninstalled, with causality unproved. Native and final qualification remain open.",
-      "next": "The original BIG BAG owner reconciles the narrow text/sort finding with its named-fix scope. Original footer/product-page holders finish releases; original acceptance owners complete native and final checks."
+      "next": "The original BIG BAG writer now has the narrow names/sort follow-up; consume its repair and original review results. Original footer/product-page holders finish releases; original acceptance owners complete native and final checks."
     }
   ],
   "timedPlan": {
@@ -250,7 +250,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Complete acceptance of the draft pet and retain the separate host repair (original scope started 20 October 19:53Z). Historical live installation completed 20 October 21:44Z–21:47Z, took 3 min. The 21 October desktop check ran 05:20:12Z–05:26:47Z, took 6.6 min, and found four live-host controls intercepted at 380px. Successor release tests ran 08:36:38Z–08:39:04Z, took 2.4 min; the host repair received its first approval at 08:46Z and merged at 09:05:49Z with hosted checks passing. Readback completed at 09:38:19Z: the draft uses a separate pet component, so no host-repair upload applies. Both themes and settings remain preserved; zero uploads. Keep the merged live-host repair held under the no-live-write instruction. At 16:47Z its draft controls were accessible at 380px and Dance was dispatched, with no motion score. The 188px companion picker clips and is routed through its original owner. Remaining native, true 200% text, reduced-motion, recording and performance acceptance stays open. Targeted changed-source desktop recheck est. 10 min after an approved repair and qualified Chrome handback; remaining acceptance duration unknown."
+        "text": "Waiting — Complete acceptance of the draft pet and retain the separate host repair (original scope started 20 October 19:53Z). Historical live installation completed 20 October 21:44Z–21:47Z, took 3 min. The 21 October desktop check ran 05:20:12Z–05:26:47Z, took 6.6 min, and found four live-host controls intercepted at 380px. Successor release tests ran 08:36:38Z–08:39:04Z, took 2.4 min; the host repair received its first approval at 08:46Z and merged at 09:05:49Z with hosted checks passing. Readback completed at 09:38:19Z: the draft uses a separate pet component, so no host-repair upload applies. Both themes and settings remain preserved; zero uploads. Keep the merged live-host repair held under the no-live-write instruction. At 16:47Z its draft controls were accessible at 380px and Dance was dispatched, with no motion score. The 188px companion picker clips; the chair placed its repair with the original writer at 17:39Z. Remaining native, true 200% text, reduced-motion, recording and performance acceptance stays open. Targeted changed-source desktop recheck est. 10 min after an approved repair and qualified Chrome handback; remaining acceptance duration unknown."
       },
       {
         "complete": true,
@@ -271,9 +271,13 @@
       {
         "complete": false,
         "text": "Waiting — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The desktop subset ran 05:44:37Z–05:54:51Z, took 10.2 min. Drawer original remote proof ran 12:18:10Z–12:33:30Z, took 15.3 min; its release merged at 14:20:44Z and one CSS upload/readback ran 14:59:06Z–15:00:11Z, took 1.1 min. Preservation passed at 15:03:08Z (4 min including upload, readback and preservation); the installed-source record was adopted at 15:03:20Z. The settled drawer passed its 188px desktop fit and 44 × 44px quantity-control checks at 16:47Z; native, true 200% text, timing and final qualification remain open. Privacy installation/readback finished at 12:41:50Z and preservation at 12:42:50Z; connected acceptance remains open with features off. Aftercare remote proof ran 11:34:23Z–11:38:06Z, took 3.7 min; merge completed 12:42:57Z and source qualification at 12:59Z found no theme payload or upload step. BIG BAG’s five hosted test groups and test gate passed, and merge completed at 15:14:12Z. One approved CSS apply/readback ran 16:35:34Z–16:36:57Z, took 1.4 min; preservation passed at 16:38:36Z (3 min including preservation). All unrelated draft/live assets, roles and settings are preserved. The bounded desktop check ran 16:41:52Z–16:47:14Z, took 5.4 min: normal BIG BAG fits and Plus opens options. At 188px, companion clipping, compressed product/sort text and one-pixel page overflow remain with original owners. Browser custody was released. Footer repair returned at 16:52Z and product-page integration returned at 16:54Z; both exact local heads are clean. The original remote validation and single-push owner has the results; review, merge and installation remain open. The original contrast method was replayed exactly at 17:04Z. Current draft capture and calculation ran 17:13Z–17:16Z, took about 3 min: hero text passes 4.5:1 at 380px and 1280px; the second-room caption passes on solid white at both widths. The second hero image has no overlaid text at desktop and is hidden on phone, so no synthetic image state is claimed. Browser custody was released. Original repair validation is queued; no rating or native credit is added. The privacy reconciliation completed at 16:37Z; ordinary OFF proof can proceed independently, while mounted connected acceptance retains original facts, policy and safe-context requirements. Final website passes remain 0/3. Next result check follows original named-holder repair and qualified native results; completion estimate unknown."
+      },
+      {
+        "complete": true,
+        "text": "Completed — Capture and analyze one current-draft phone-width reload (21 October 17:35Z–17:43Z, took 8 min); index the result at 17:47Z. Both first-row products were fully visible within 0.94 seconds; no primary-renderer task exceeded 50 ms in the first ten seconds. This is one sample, not formal total blocking time or the required repeated/native pass. Delayed icons and count changes remain explicit. The browser tab is closed."
       }
     ],
-    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Latest public snapshot verified at 17:06Z; this publication carries current-draft contrast evidence and the original repair queue. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
+    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 17:21Z; this publication adds the completed header trace and changed original repair state. Next changed-result check is 17:55Z; the native allocation request is due 18:00Z. Targeted follow-up measurement est. 10 min after a qualified handback; whole completion has no defensible time yet. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -284,7 +288,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next check follows the original repair result and a verified release quiet point). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits a verified release quiet point. SEO diagnosis returned at 12:23Z and the original safeguard repair at 12:57Z; its successor passed original remote proof with 20 source checks and hosted proof and guards passed at 14:56Z. SEO’s critical first-round rejection returned at 15:57Z on f33645f6 with one repeat-charge finding. The original holder received one repair request at 16:37Z and returned repair a5d74771. Original keeper validation and push remain owed; no new approval, merge or deployment is verified. Partial-field erasure remains a hypothesis. No live copy restoration, policy save or app activation is claimed. Completion estimate remains unknown."
+        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next check follows the original repair result and a verified release quiet point). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits a verified release quiet point. SEO diagnosis returned at 12:23Z and the original safeguard repair at 12:57Z; its successor passed original remote proof with 20 source checks and hosted proof and guards passed at 14:56Z. SEO’s critical first-round rejection returned at 15:57Z on f33645f6 with one repeat-charge finding. The original holder received one repair request at 16:37Z and returned repair a5d74771. Original remote keeper proof completed at 17:35Z (17:32Z–17:35Z, took about 3 min). The pre-push reader found two additional issues; both returned to the original writer at 17:39Z for one correction and its keeper check. The original publication step owns the eventual push. No new approval, merge or deployment is verified. Partial-field erasure remains a hypothesis. No live copy restoration, policy save or app activation is claimed. Completion estimate remains unknown."
       }
     ],
     "landing": "Lands: initial audit finished at 08:54Z, took 12 min. Refinement completion remains unknown until the scoped admin checks and original source-repair route establish and finish the work. Original draft release timing remains unknown and proceeds independently.",
