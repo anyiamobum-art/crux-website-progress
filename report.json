@@ -284,14 +284,14 @@
     "steps": [
       {
         "complete": true,
-        "text": "Completed — Audit the existing Claude product-copy and Shopify admin/settings work (21 October 08:42Z–08:54Z, took 12 min). Read-only evidence confirms prior descriptions and categories are preserved and identifies a later SEO automation conflict for the original owner. No settings or copy changes were applied. This is one of two separate audit/refinement steps and adds no completed delivery gate."
+        "text": "Completed — Audit existing product copy and settings (08:42Z–08:54Z, took 12 min). Prior descriptions and categories are preserved; the original SEO owner is repairing the automation conflict."
       },
       {
         "complete": false,
-        "text": "Waiting — Finish the remaining scoped admin work (first UI resource wait 08:48Z; resources qualified 12:28Z; first check group 12:28Z–12:34Z, took about 6 min; next check follows the original repair result and a verified release quiet point). Refund-policy note captured, with policy unchanged. Size-chart activation was found inactive and left off. Eligible old alerts were marked read and verified after reload; the current approval request stayed unread. Browser custody was released. The next admin group awaits a verified release quiet point. SEO diagnosis returned at 12:23Z and the original safeguard repair at 12:57Z; its successor passed original remote proof with 20 source checks and hosted proof and guards passed at 14:56Z. SEO’s critical first-round rejection returned at 15:57Z on f33645f6 with one repeat-charge finding. The original holder received one repair request at 16:37Z and returned repair a5d74771. Original remote keeper proof completed at 17:35Z (17:32Z–17:35Z, took about 3 min). The pre-push reader found two additional issues; both returned to the original writer at 17:39Z. That writer resumed at 17:49Z and returned the correction at 17:57Z (took 8 min); its keeper check is next. The original publication step owns the eventual push. No new approval, merge or deployment is verified. Partial-field erasure remains a hypothesis. No live copy restoration, policy save or app activation is claimed. Completion estimate remains unknown."
+        "text": "Waiting — Finish scoped settings refinements (first resource wait 08:48Z; next check at the shared-browser handback and release quiet point; duration unknown). First checks finished 12:28Z–12:34Z: policy unchanged, size-chart activation left off, eligible old alerts cleared. The remaining address, pickup, delivery, consent and brand settings await their authorized quiet point. SEO’s latest correction is returned; its remote-proof launcher needs recovery before review and merge."
       }
     ],
-    "landing": "Lands: initial audit finished at 08:54Z, took 12 min. Refinement completion remains unknown until the scoped admin checks and original source-repair route establish and finish the work. Original draft release timing remains unknown and proceeds independently.",
+    "landing": "Lands: audit complete. Settings completion is not yet timed because the required browser and release quiet point is unconfirmed. Draft release continues independently; no live theme publication.",
     "basis": "Separate track: one of two steps complete. The read-only audit is verified; settings refinements remain unapplied. This adds no delivery-gate credit."
   },
   "petEvidence": {
