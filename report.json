@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The separately authorized pet-only live installation completed on 20 October; its rendered acceptance remains open. The whole redesigned storefront remains unpublished in draft 166627606744.",
-  "workerState": "The pet installation is terminal and verified. C04 #4667 is merged. C11 holder 4675.2 has retained the single named fix since 03:07:57Z on 21 October; Root has not yet observed its execution start. The original Website queue is retained, with no qualified native start and no additional request or probe.",
+  "workerState": "C11’s original repair is pushed at 2a0ad5ee. Hosted run 39537530544 completed successfully at 03:29:18Z: all five test groups and test-gate passed; pins and guards also passed. Original holder 4675.2 retains the matching-receipt correction, requested once at 03:25Z. The shared-resource window closed at 03:32:09Z without a qualified Website start; existing Hands owns the next handback.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "The pet-only live installation is complete and source-bound. C04 #4667 is merged as 80ef561d. C11 #4675 retains one named review fix with original holder 4675.2; execution start is not yet observed by Root."
+      "evidence": "C11’s original named repair is pushed at 2a0ad5ee. Pet-only live installation is complete and source-bound. C04 #4667 is merged as 80ef561d and requires no storefront upload."
     },
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "All 12 pet records match and preservation passed. Earlier C11 six tests and 35 causal checks and C04 143 tests and 55 causal checks remain source proof; the new C11 finding still needs its own repair proof. Live pet rendering and seven native checks remain unverified."
+      "evidence": "C11 hosted run 39537530544 completed successfully at 03:29:18Z: all five test groups and test-gate passed; pins and guards also passed. Its earlier box attempt had a jsdom dependency failure; the successful hosted result is separate. Pet readback and preservation passed, and all three public CSS/JS files match after the recorded delivery-only differences. Live rendered behavior and seven native checks remain unverified."
     },
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "C04 #4667 merged at 22:20:37Z on 20 October. C11 #4675 has one first-review finding with its original repair holder since 03:07:57Z on 21 October. The same original final readers retain their named-fix checks; qualified ratings remain 0/3."
+      "evidence": "C11’s self-review receipt still references the prior diff. Original holder 4675.2 received the matching-receipt request once at 03:25Z; the original second review and merge remain. C04 #4667 is merged. The same original final readers retain their named-fix checks; qualified ratings remain 0/3."
     },
     {
       "stage": "Deployed",
       "state": "Unknown",
-      "evidence": "Public homepage HTML at 03:19:20Z on 21 October contains the pet markup, controls and stylesheet/module-script tags; browser execution is unverified. The separately authorized pet-only live installation completed 20 October at 21:47Z with exact readback of all 12 records and preservation verified; rendered acceptance is still open. C11 remains off and unloaded in the draft; its repaired wiring and canonical contract await review, merge and qualified installation. C04 is test-only and requires no storefront upload. The full redesigned storefront remains unpublished in draft 166627606744."
+      "evidence": "Pet-only live installation completed 20 October at 21:47Z with all 12 records and preservation verified. Public homepage HTML includes pet markup and controls; the three public CSS/JS files match minified installed source after the recorded source-map and whitespace differences. This proves delivery, not rendered motion or interaction. C11’s repaired wiring and contract await the original review, merge and qualified draft installation; delivery stays off. The full redesigned storefront remains unpublished in draft 166627606744."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The public homepage returned HTTP 200 at 03:19:20Z on 21 October with pet markup, Pause/Hide/Show controls and stylesheet/module-script tags; this proves served HTML only. Pet-only live installation finished at 21:47:00Z on 20 October with exact readback of all 12 records and preservation verified. C04 #4667 merged at 22:20:37Z as 80ef561d; it changes tests and needs no storefront upload. C11 #4675 received one first-review finding and its original named-fix holder was recorded at 03:07:57Z on 21 October.",
+  "lastActualProgress": "C11’s original named fix was pushed at 03:14:57Z and its hosted test run completed successfully at 03:29:18Z on 21 October; Root verified completion at 03:33Z. The pet’s three public CSS/JS files match local minification of installed source after the recorded source-map and whitespace differences are accounted for, verified at 03:26:35Z. This is delivery evidence; rendered motion and interaction remain unverified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "The separately authorized pet-only live installation completed 20 October 21:47Z; all 12 records and preservation verified. Its rendered acceptance is still open. C11 remains installed off and unloaded; #4675 has one first-review finding with original holder 4675.2.",
-      "Finish the original C11 named fix, proof, review, merge and qualified draft installation including its contract; then complete connected inputs, privacy, native and final-reader checks. C04 #4667 is a merged test repair with no storefront upload. Seven native checks are unexercised; full redesign draft 166627606744 stays unpublished."
+      "Pet-only live installation, all 12 records and preservation are verified. Public HTML and all three CSS/JS assets are accounted for; rendered acceptance remains open. C11’s original repair is pushed at 2a0ad5ee, with all hosted tests, pins and guards passed; it stays off and unloaded.",
+      "Original holder 4675.2 must correct the receipt that references the prior diff, then complete the original review, merge and qualified draft installation including the contract. The 03:32Z quiet window ended without a Website allocation; existing Hands owns the next handback and 03:40Z check. Connected inputs, privacy, seven native checks and final ratings remain; full redesign draft 166627606744 stays unpublished."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -135,15 +135,15 @@
     ]
   ],
   "completed": [
+    "C11 [original repair #4675](https://github.com/EON-CRUX/3.09/pull/4675) was pushed at 2a0ad5ee. Hosted run 39537530544 completed successfully at 03:29:18Z on 21 October, with all five test groups and test-gate passed; pins and guards also passed. The original matching-receipt correction, review, merge and qualified draft installation remain open.",
+    "Pet public-delivery comparison completed at 03:26:35Z on 21 October: all three served CSS/JS files match local minification of the installed source after the recorded source-map trailers and one optional CSS space are accounted for. Raw bytes differ and the actual Shopify minifier version is unknown. This does not prove rendered motion or interaction.",
     "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. Live rendered motion is still unverified; the full redesigned storefront remains unpublished in draft 166627606744. The retained motion clips show the earlier unpublished draft only.",
-    "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate.",
-    "[Bag-control repair #4556](https://github.com/EON-CRUX/3.09/pull/4556) passed both original reviews and all required hosted checks, merged at18:51:36Z, and was installed once in the unpublished draft. Exact stored JavaScript readback and all-file/settings preservation passed. Scoped note-control hit checks at380/430/1280 and the settled188×275 preview dock passed; the immediate transient miss and318px document overflow remain visible limitations, not a whole-layout or native200% pass. The exception is only for the actual64px admin preview bar. Chrome was reset, the owned tab closed and handback recorded19:23:31Z.",
-    "Bag-total clearance [#4534](https://github.com/EON-CRUX/3.09/pull/4534) and direct-order link [#4535](https://github.com/EON-CRUX/3.09/pull/4535) passed their code review lanes and merged. Both files were installed once into the unpublished draft, with exact hosted readback10:47:27Z and full preservation10:48:43Z on18 October. The later note and preview-dock repair #4556 is now installed and scoped-rendered as recorded above; real native acceptance and whole-site ratings remain separate."
+    "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate."
   ],
-  "remaining": "Live pet rendered acceptance is still unverified. C11 must clear its one review finding and install its wiring and canonical contract in the draft while remaining off. The Mac restarted and its 03:02Z quiet window opened, but Website has no qualified start. Seven native checks, connected private inputs, privacy acceptance and all three final ratings remain open.",
-  "current": "The separately approved pet is installed live: all 12 records and preservation checks passed at 21:47Z on 20 October. The public homepage served the pet markup and controls at 03:19Z on 21 October; live motion and interaction still need a rendered check. The C04 test repair has merged. C11 has one review finding with its original repair holder.",
-  "next": "The original C11 owner repairs the one named finding, proves and pushes it once, then completes review and merge before a qualified draft installation. Delivery stays off. The original shared-resource queue must admit Website before live pet rendering and the seven native checks; the next keeper result is due by 03:32Z on 21 October.",
-  "updated": "2026-10-21T03:19:20.667985+00:00",
+  "remaining": "C11’s self-review receipt refers to the previous diff and blocks the next review; its original holder already received the correction request at 03:25Z. Live pet motion, interaction and seven native checks remain unverified after the quiet window ended without an allocation. Connected private inputs, privacy acceptance and all three final ratings remain open.",
+  "current": "The pet-only live installation is verified, and its public HTML and three CSS/JS files are accounted for; motion and interaction still need a rendered check. C11’s original repair is pushed and all hosted tests passed. Review now waits on its original holder’s matching receipt. The 03:32Z quiet window ended without a Website allocation.",
+  "next": "Original Hands must correct C11’s receipt to match the pushed repair, then complete the original review and merge before qualified draft installation; delivery stays off. Existing Hands also owns the next browser/native handback. The next recorded owner check is 03:40Z. No additional review or device request is needed.",
+  "updated": "2026-10-21T03:33:00Z",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,7 +216,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish the separately approved live pet (started 20 October 19:53Z). Installation and preservation verified 21:47Z; final execution 21:44Z–21:47Z, took 3 min. Rendered motion verification waits on the shared browser handback (est. 10 min after admission)."
+        "text": "In progress — Finish the separately approved live pet (started 20 October 19:53Z). Installation and preservation verified 21:47Z; final execution 21:44Z–21:47Z, took 3 min. Public homepage markup is served, and all three CSS/JS files match locally minified installed source after the recorded delivery differences are accounted for (public HTML verified 21 October 03:19Z; asset comparison verified 03:26Z; elapsed work time unknown). Rendered motion and interaction still wait on the shared browser handback (est. 10 min after admission)."
       },
       {
         "complete": true,
@@ -228,18 +228,18 @@
       },
       {
         "complete": false,
-        "text": "In progress — Install each approved repair in the unpublished draft (Bag: 20 October 13:22Z–13:33Z, took 11 min; account care: 17:29Z–17:31Z, took 2 min; delivery: 19:18Z–19:52Z, took 34 min). Delivery wiring has one review finding with its original repair holder since 21 October 03:07Z. C04 test repair merged 20 October 22:20Z and needs no storefront upload. Next delivery install: est. 20 min after approval and merge; stays off."
+        "text": "In progress — Install each approved repair in the unpublished draft (Bag: 20 October 13:22Z–13:33Z, took 11 min; account care: 17:29Z–17:31Z, took 2 min; delivery: 19:18Z–19:52Z, took 34 min). The original C11 repair was pushed on 21 October at 03:14Z; hosted pins, guards, all five test groups and test-gate passed by 03:29Z. Its review receipt still refers to the prior diff; original holder 4675.2, retained since 03:07Z, has the matching-receipt request sent at 03:25Z, with no duplicate repair or review. Next owner check: 03:40Z. C04 test repair merged 20 October 22:20Z and needs no storefront upload. Next delivery install: est. 20 min after review and merge; stays off."
       },
       {
         "complete": false,
-        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The Mac restarted on 21 October; the original quiet window opened 03:02Z but has no qualified Website start. Next check: keeper result by 03:32Z. Functional pass est. 10 min after admission; timing estimate unknown."
+        "text": "Waiting — Finish small-iPhone checks and native timing (waiting since 16 October 20:16Z and 14:30Z; seven checks unexercised). The Mac restarted on 21 October. The 03:32Z quiet window ended without an allocation; existing Hands owns the next handback, with the next recorded check at 03:40Z. No qualified Website start; original queue and unspent timing attempt retained. Functional pass est. 10 min after admission; timing estimate unknown."
       },
       {
         "complete": false,
         "text": "Pending — Complete connected buyer/privacy checks, original final ratings and draft handover (original repair/acceptance owners retain their work; private test inputs and native evidence are still needed; estimate unknown)."
       }
     ],
-    "landing": "Lands: task-site refresh about 03:30Z (14 min left at 03:16Z; Pages publication could move it). Whole draft completion remains unknown until the original repair, device handback, connected inputs and final ratings finish. The full redesign stays unpublished; only the separately approved pet has been installed live."
+    "landing": "Lands: whole draft completion unknown; original receipt, review, merge, device handback, connected inputs and final ratings remain. Delivery installation is estimated at 20 min after review and merge; the live pet rendered check is estimated at 10 min after handback. The previous task-site update was verified at 03:23Z on 21 October. The full redesign stays unpublished; only the separately approved pet has been installed live."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
