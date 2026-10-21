@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested Shopify draft with merged source and 9.5+ from all three original readers. The separately authorized pet-only live installation completed on 20 October; its rendered acceptance remains open. The whole redesigned storefront remains unpublished in draft 166627606744.",
-  "workerState": "Root completed the separate live desktop check at 05:26:47Z, closed its tab, reset the viewport and restored the draft preview. The result is named repair required; END and one scoped original-writer request were sent. No installation, publication, cart mutation or native action occurred in that check. The approved six-file draft set remains installed with wiring off and lifecycle disabled. No final reader check or passing score has been added.",
+  "workerState": "Root completed the unpublished-draft desktop subset at 05:54:51Z and closed its own tab. Dialogs were closed, viewport reset, draft preview retained and bag count 1 preserved. There were no theme writes, activation or live publication. One scoped finding handoff was sent through Hands; repair acknowledgment remains unverified. Final ratings stay 0/3 and native checks 0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "C11 hosted run 39537530544 passed all five test groups and test-gate; pins and guards passed. Pet source readback, preservation and public asset delivery are verified. The live desktop check confirmed keyboard motions/controls, one mount after navigation and unchanged bag count 1, but found hero layers intercepting four pet controls at 380px. Enlarged text, reduced motion, recording, native and performance checks remain untested."
+      "evidence": "Required C11 hosted checks passed. The live pet check requires its named pointer-hit repair. The new draft desktop subset passed options, 44px Back and correct Checkout arrow-tile checks; drawer quantities clip at 188/195px and other narrow widths need diagnosis. No add, store send or cart mutation occurred. Timing, film, glyph contrast, exact first-dock, native and connected proof remain unverified."
     },
     {
       "stage": "Review",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the actual live theme, the 05:20:12Z–05:26:47Z desktop check verified distinct keyboard Dance/Bounce/Wave/Lean motion, pause/allow, hide/show and one pet mount before and after navigation. Menu/cart opened and closed; quick add opened options without submitting, preserving bag count 1. At 380px, hit tests identified homepage hero layers above Wave/Lean/Pause/Hide. This named repair is with the original writer. No 200% text, reduced-motion, recording, native, performance or final-rating credit was added.",
+  "lastActualProgress": "During 05:44:37Z–05:54:51Z, collection Add to bag opened options and selecting an available choice enabled the actions without submitting. Companion Back measured 44×44 at 380/188px; Checkout arrow children had the correct yellow background, withdrawing the earlier parent-background concern. Collection widths fit 188/195/380px and the listed drawer targets met 44px height at 380px. Drawer quantity clipping was reproduced at 188/195px; other narrow product/Big Bag observations await original-owner diagnosis.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -112,8 +112,8 @@
     [
       "8. Final three-model ratings",
       "0/3 qualified; original final named-fix checks pending",
-      "Source preparation is complete. The apple-icon source assertion, existing 450 ms decision and viewport-inset choice are recorded. No new review or score.",
-      "Supply each original reader’s remaining rendered/measured proof before its final named-fix check. Fable and Opus exclude disabled private flows from their scores; Astra retains its named connected/privacy evidence. C11/C17 are not a blanket all-reader gate."
+      "Source preparation and scoped draft options/Back/Checkout checks are documented. The Checkout arrow tile is correct; the earlier parent-background concern is withdrawn. No reader check or new score.",
+      "Original owners address the narrow-width findings; complete each reader’s applicable timing, film, contrast, native and connected evidence. Fable/Opus exclude disabled private flows from scores; Astra retains its named connected/privacy requirements."
     ],
     [
       "9. Complete website assembly merge",
@@ -124,8 +124,8 @@
     [
       "10. Completed Shopify draft and handover",
       "Named repairs installed — final acceptance open",
-      "Pet-only live installation and asset delivery are verified. C11/C06’s six-file set was installed once, read back at 04:07:55Z and preservation verified at 04:09:16Z. The live desktop pet check ended at 05:26:47Z with working keyboard controls/navigation and a named pointer-hit repair.",
-      "Original writer owns the homepage hero-layer repair for Wave/Lean/Pause/Hide at 380px. Live acceptance stays open, with enlarged text, reduced motion and recording still untested. Seven native checks, C11/C17 connected acceptance, privacy, applicable original final-reader evidence and whole-draft handover remain. The draft stays unpublished with wiring off and lifecycle disabled."
+      "The approved six-file set is installed and preserved. Draft desktop checks verified options selection, 44px Back at 380/188px, correct yellow Checkout arrow tiles, collection fit and 380px bag targets. Bag count 1 and draft preview were preserved.",
+      "Drawer quantity clipping at 188/195px is reproduced; narrow product/Big Bag observations need original-owner diagnosis. One scoped handoff went through Hands with no repair acknowledgment yet. LIVE-PET-HIT-01 and applicable timing, film, native, connected and final-reader evidence remain open. Draft stays unpublished; wiring off and lifecycle disabled."
     ],
     [
       "11. BIG BAG page and navigation",
@@ -140,10 +140,10 @@
     "The separately authorized pet-only live installation completed on 20 October at 21:47:00Z. Exact readback of all 12 records and preservation passed. The 21 October desktop check observed live keyboard motion and controls but requires a named pointer-hit repair; full live acceptance remains open. The full redesign stays unpublished in draft 166627606744, and retained motion clips show the earlier unpublished draft only.",
     "[C04 test repair #4667](https://github.com/EON-CRUX/3.09/pull/4667) merged on 20 October at 22:20:37Z as 80ef561d. It repairs tests and requires no storefront installation; native acceptance and final ratings remain separate."
   ],
-  "remaining": "Live pet acceptance needs the named control-hit repair and the remaining 200% text, reduced-motion and continuous-motion checks. Native allocation is still unqualified: seven checks are unexercised and the original timing attempt unspent. Final readers need their own applicable rendered/measured evidence. C11/C17 connected acceptance retains original private test, lifecycle, proxy, CS and privacy inputs; these affect Astra where its original findings require them, without holding every reader.",
-  "current": "The live desktop pet check finished at 05:26:47Z and found a specific control-hit problem: homepage hero layers intercept Wave, Lean, Pause and Hide taps at 380px. Keyboard controls worked. Root sent the named repair to the original writer once; live acceptance remains open. The approved draft installation is complete, and original final-reader evidence remains separate.",
-  "next": "The original writer repairs the verified homepage control-hit issue through its existing lane, followed by the required source/installation checks and a bounded desktop recheck. Repair timing is unknown; the recheck is estimated at 10 min after the fix and Chrome handback. Continue each original reader’s applicable evidence: Fable/Opus exclude disabled private flows from scores, while Astra retains its named connected/privacy proof.",
-  "updated": "2026-10-21T05:27:15.815825+00:00",
+  "remaining": "Drawer quantity controls extend outside 188/195px viewports; product and Big Bag width observations need original-owner diagnosis. LIVE-PET-HIT-01 remains pending with its original writer. Timing, continuous film, glyph contrast, the exact first-dock target, native and connected journeys remain unverified. C11/C17 inputs apply to their own feature acceptance and Astra’s named overlapping findings, rather than every reader.",
+  "current": "The draft desktop check finished at 05:54:51Z. Add to bag/options, 44px Back targets and the yellow Checkout arrow tiles passed their scoped checks. Drawer quantities still clip at 188/195px; narrow product and Big Bag observations need the original owners’ diagnosis. Root sent one scoped handoff through Hands, with no repair acknowledgment yet. The separate live pet-control issue remains open.",
+  "next": "Original writers consume the drawer clipping and narrow-page observations through Hands, alongside the existing live pet-control repair. Their scoped fixes follow the original review, merge and installation routes, then targeted readback. Repair acknowledgments and timing are not yet known. Keep the original final readers unspent while their required rendered/measured, native and connected evidence is completed.",
+  "updated": "2026-10-21T05:55:57.930004+00:00",
   "links": [
     {
       "title": "checkout #4484",
@@ -216,7 +216,7 @@
       },
       {
         "complete": false,
-        "text": "In progress — Finish the separately approved live pet (started 20 October 19:53Z). Installation and preservation verified 21:47Z; final execution 21:44Z–21:47Z, took 3 min. Public HTML and CSS/JS delivery are accounted for. The separate live desktop check ran on 21 October 05:20:12Z–05:26:47Z, took 6.6 min, and ended with a named repair: homepage hero layers intercept Wave, Lean, Pause and Hide taps at 380px. Keyboard motions, pause/allow and hide/show worked; one pet remained after navigation and bag count 1 was preserved. Root sent the scoped repair to the original writer once. Live acceptance stays open; 200% text, reduced motion, continuous recording, native and performance checks are untested. Repair timing unknown; desktop recheck est. 10 min after the original fix and Chrome handback."
+        "text": "Waiting — Finish the separately approved live pet (started 20 October 19:53Z). Installation and preservation verified 21:47Z; final execution 21:44Z–21:47Z, took 3 min. Public HTML and CSS/JS delivery are accounted for. The separate live desktop check ran on 21 October 05:20:12Z–05:26:47Z, took 6.6 min, and ended with a named repair: homepage hero layers intercept Wave, Lean, Pause and Hide taps at 380px. Keyboard motions, pause/allow and hide/show worked; one pet remained after navigation and bag count 1 was preserved. Root sent the scoped repair to the original writer once; no repair acknowledgment is verified. Live acceptance stays open; 200% text, reduced motion, continuous recording, native and performance checks are untested. Repair timing unknown; desktop recheck est. 10 min after the original fix and Chrome handback."
       },
       {
         "complete": true,
@@ -236,10 +236,10 @@
       },
       {
         "complete": false,
-        "text": "Pending — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. The source-readiness audit is complete; rendered and measured proof is still needed for each original reader’s own findings. Fable and Opus exclude the disabled private flows from their scores; Astra retains its named connected and privacy evidence. C11/C17 keep their separate feature acceptance. No final review has started; completion estimate unknown."
+        "text": "In progress — Complete connected buyer/privacy checks, original final named-fix ratings and draft handover. A draft desktop subset ran 21 October 05:44:37Z–05:54:51Z, took 10.2 min: Add to bag opened options, available selection enabled actions, Back measured 44×44 at 380/188px, and Checkout arrow tiles were correctly yellow. Drawer quantities clip at 188/195px; narrow product/Big Bag observations need original-owner diagnosis. Root handed the findings through Hands once; no repair acknowledgment yet. Timing, continuous film, native and connected proof remain unverified. Fable/Opus exclude disabled private flows from scores; Astra retains its named connected/privacy evidence. No final review or score; completion estimate unknown."
       }
     ],
-    "landing": "Lands: whole draft completion unknown. The approved six-file set is installed. The live desktop check finished at 05:26:47Z with a named control-hit repair, now with the original writer; repair timing is unknown. A desktop recheck is estimated at 10 min after the fix and Chrome handback. Native allocation, connected inputs and each original final reader’s evidence remain separate. The previous public task-site update was verified at 04:17Z on 21 October. The full redesign stays unpublished; only the separately approved pet is installed live."
+    "landing": "Lands: whole draft completion unknown. The approved six-file set is installed. The live desktop check finished at 05:26:47Z with the pet-control repair open; the draft desktop subset finished at 05:54:51Z with verified options/Back/Checkout checks and remaining narrow-width findings. Both scoped handoffs are with original writers through Hands; repair acknowledgments and timing are unknown. Targeted readback follows qualified fixes and installation. Native allocation, timing, connected inputs and original final-reader evidence remain separate. The previous public task-site update was verified at 05:31Z. The full redesign stays unpublished; only the separately approved pet is installed live."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
@@ -258,5 +258,12 @@
       "path": "assets/pet-phone-settled.png"
     },
     "limits": "Responsive browser evidence. Touch dispatch was unsupported. Native iPhone, 200% text, performance measurements and final ratings remain separate."
+  },
+  "draftEvidence": {
+    "result": "Unpublished draft 166627606744, 21 October 2026, 05:44–05:54Z, desktop at 380 CSS px. Selecting available 12pro enabled Add to bag and Plan a store visit. No item was added and no store/customer message was sent. This image is scoped desktop evidence, not native, 200% text, timing or final acceptance.",
+    "image": {
+      "label": "Options selected in the unpublished draft · 380px · 21 October 2026",
+      "path": "assets/draft-options-380-20261021.jpg"
+    }
   }
 }
