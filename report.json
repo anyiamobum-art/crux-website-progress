@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Footer #4700 is Ready, with first review approved on the exact pushed source; remaining review and hosted checks are pending. Product-page #4703 has 417 passing tests across 18 files and 50/50 mutation checks; the original owner pushed it and Root marked it Ready at 18:12Z. Hosted review and CI remain pending. SEO’s newer head entered original remote validation at 18:07Z. Companion and Big Bag narrow-screen repairs remain with their original writers.",
+  "workerState": "Footer #4700 is Ready, with first review approved on the exact pushed source; remaining review and hosted checks are pending. Product-page #4703 has 417 passing tests across 18 files and 50/50 mutation checks; the original owner pushed it and Root marked it Ready at 18:12Z. Hosted review and CI remain pending. SEO’s launcher recorded a start, but its error file shows a permission failure; actual remote execution is unverified. The original release owner has the error and must reconcile the attempt before recovering it. Companion and Big Bag narrow-screen repairs remain with their original writers.",
   "journey": [
     {
       "stage": "Build",
       "state": "Running",
-      "evidence": "Footer and product-page repairs have returned and passed remote proof. Companion and BIG BAG narrow-screen follow-ups remain with their original writers. The latest SEO repair is in original remote validation."
+      "evidence": "Footer and product-page repairs have returned and passed remote proof. Companion and BIG BAG narrow-screen follow-ups remain with their original writers. The latest SEO repair awaits original-owner recovery of a launcher permission error; remote execution is unverified."
     },
     {
       "stage": "Tests",
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "One desktop reload is not the required repeated performance or native pass. Narrow companion/product/sort issues, connected buyer/privacy acceptance and final ratings remain open. The original native allocation still needs a dated start and fresh resource qualification.",
-  "current": "Footer #4700 passed its first hosted review at 18:06Z with no findings. Hosted tests and mutation proof are still running. Product-page #4703 was pushed by its original owner and marked Ready at 18:12Z after remote validation and pre-push review. Five delivery gates remain open.",
+  "current": "Footer #4700 passed its first hosted review at 18:06Z with no findings. Hosted mutation proof has passed; all five hosted test groups are running. Product-page #4703 was pushed by its original owner and marked Ready at 18:12Z after remote validation and pre-push review. Five delivery gates remain open.",
   "next": "Follow footer #4700 through hosted checks and original review; follow product-page #4703 through hosted review and CI, and consume SEO successor validation. Complete the companion/Big Bag repairs, qualified native and connected evidence, then the original final named-fix ratings.",
-  "updated": "2026-10-21T18:13:00.077887+00:00",
+  "updated": "2026-10-21T18:17:27.169219+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "Footer #4700 passed remote proof, its pre-push review and its first hosted review. Hosted tests and mutation proof are running; the remaining review, merge and draft installation are pending.",
+    "Footer #4700 passed remote proof, its pre-push review and its first hosted review. Hosted mutation proof has passed and tests are running; the remaining review, merge and draft installation are pending.",
     "Product-page #4703 finished remote validation: 417 passed tests across 18 files, with browser-engine skips retained, and all 50 regression-mutation checks passed. Its original release owner has the next pre-push review and push.",
     "The SEO writer returned both pre-push corrections at 17:57Z. They still need the original remote validation and publication step. Companion-picker and Big Bag narrow-text repairs stay with their original writers.",
     "The new 380px reload evidence remains indexed: both first-row products visible within 0.94 seconds in one sample, with no primary-renderer task over 50 ms in its first ten seconds. Repeated/native measurements and original verdicts remain open.",
