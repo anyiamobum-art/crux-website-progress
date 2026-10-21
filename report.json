@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Footer #4700 is Ready, with first review approved on the exact pushed source; remaining review and hosted checks are pending. Product-page #4703 has 417 passing tests across 18 files and 50/50 mutation checks; original pre-push review and publication remain owed. SEO’s newer head entered original remote validation at 18:07Z. Companion and Big Bag narrow-screen repairs remain with their original writers.",
+  "workerState": "Footer #4700 is Ready, with first review approved on the exact pushed source; remaining review and hosted checks are pending. Product-page #4703 has 417 passing tests across 18 files and 50/50 mutation checks; the original owner pushed it and Root marked it Ready at 18:12Z. Hosted review and CI remain pending. SEO’s newer head entered original remote validation at 18:07Z. Companion and Big Bag narrow-screen repairs remain with their original writers.",
   "journey": [
     {
       "stage": "Build",
@@ -17,7 +17,7 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Footer #4700 first review approved at 18:06Z; remaining review and hosted checks are pending. SEO’s prior-head rejection remains until its validated successor is pushed and reviewed. Final website ratings remain 0/3."
+      "evidence": "Product-page #4703 is Ready at 18:12Z. Footer #4700 first review approved at 18:06Z; remaining reviews and hosted checks are pending. SEO’s prior-head rejection remains until its validated successor is pushed and reviewed. Final website ratings remain 0/3."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The footer’s first review approved the pushed repair at 18:06Z. Its tests now wait for an actual product-bar draw before asserting the overlap guard, without weakening the assertions. SEO’s newer repair is in remote validation. Neither change is claimed merged or installed.",
+  "lastActualProgress": "Product-page #4703 was pushed and marked Ready at 18:12Z after exact-source proof and a zero-finding pre-push review. Footer #4700 passed its first review at 18:06Z. Their remaining hosted checks and reviews continue; neither is claimed merged or installed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "One desktop reload is not the required repeated performance or native pass. Narrow companion/product/sort issues, connected buyer/privacy acceptance and final ratings remain open. The original native allocation still needs a dated start and fresh resource qualification.",
-  "current": "Footer #4700 passed its first hosted review at 18:06Z with no findings. Hosted tests and mutation proof are still running. Product-page #4703 passed remote validation and awaits its original owner’s push. Five delivery gates remain open.",
-  "next": "Follow footer #4700 through hosted checks and original review; consume the original product-page push and SEO successor validation. Complete the companion/Big Bag repairs, qualified native and connected evidence, then the original final named-fix ratings.",
-  "updated": "2026-10-21T18:10:21.096129+00:00",
+  "current": "Footer #4700 passed its first hosted review at 18:06Z with no findings. Hosted tests and mutation proof are still running. Product-page #4703 was pushed by its original owner and marked Ready at 18:12Z after remote validation and pre-push review. Five delivery gates remain open.",
+  "next": "Follow footer #4700 through hosted checks and original review; follow product-page #4703 through hosted review and CI, and consume SEO successor validation. Complete the companion/Big Bag repairs, qualified native and connected evidence, then the original final named-fix ratings.",
+  "updated": "2026-10-21T18:13:00.077887+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -278,10 +278,10 @@
       },
       {
         "complete": true,
-        "text": "Completed — Validate footer repair and send it into the original review lane (21 October 17:38Z–17:59Z, took 21 min including remote proof and pre-push review). Product-page remote proof finished at 17:58Z after an 18-minute job; its original owner still owes pre-push review and push. Hosted checks, reviews and merges remain pending. First hosted review approved at 18:06Z; no merge or installation is claimed."
+        "text": "Completed — Validate footer repair and send it into the original review lane (21 October 17:38Z–17:59Z, took 21 min including remote proof and pre-push review). Product-page remote proof finished at 17:58Z after an 18-minute job; its original owner completed pre-push review and push, and Root marked it Ready at 18:12Z. Hosted checks, reviews and merges remain pending. First hosted review approved at 18:06Z; no merge or installation is claimed."
       }
     ],
-    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 17:21Z; this publication adds the completed header trace and changed original repair state. The 17:55Z reconciliation was completed, followed by the returned release results above. Next changed-result check is 18:15Z; the native allocation request due 18:00Z remains unanswered. Targeted follow-up measurement est. 10 min after a qualified handback; whole completion has no defensible time yet. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
+    "landing": "Lands: whole draft completion remains unknown until the remaining release, journey, resource and original final-reader evidence is verified. Other applicable draft installations est. 20 min after source qualification; targeted desktop checks est. 10 min after installation and a qualified Chrome handback. The pet host repair needs no draft upload. Previous public snapshot verified at 17:21Z; this publication adds the completed header trace and changed original repair state. The 17:55Z reconciliation was completed, followed by the returned release results above. Next changed-result check is 18:15Z; the native allocation request was answered at 18:10Z: swap is 7 GB, free disk is falling and the required remote worker is busy. The original keeper will allocate a qualified window; no native check has started. Targeted follow-up measurement est. 10 min after a qualified handback; whole completion has no defensible time yet. The full redesign remains unpublished; no new live-theme writes are authorized. Parallel settings work does not hold independent release work."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
