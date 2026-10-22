@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original remote title keeper acquired slot1 after210seconds. It printed the exact candidate head, prepared its CI fixtures and passed all three test files (19 tests); regression safeguards are underway. This is execution evidence, not a full pass, review, merge or installation. No duplicate job or writer was started.",
+  "workerState": "The original title job finished successfully at17:40Z. No duplicate run or writer. Read-only support is checking the retained browser-helper inputs; Hands owns browser handback and protected publication. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At17:39Z the original remote keeper showed all three test files passed (19 tests), with the regression safeguards still executing. Public advisory-route snapshot2d2afa6 was verified against all five served files at17:26Z.",
+  "lastActualProgress": "The title keeper finished at17:40Z with19 passing tests and all21 selected regression checks. Public execution snapshot4f31106 was built and its five served files verified at17:42Z. An intake check caught the historical ink helper’s wrong-page and trial-style bindings before a capture.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The title job is executing; full proof and browser measurement are still owed. Studio’s last native window ended17:30Z, but Website handback has not been supplied. Remote work and pushes may continue through native windows under the chair’s17:32 ruling. Native, connected and original final-reader acceptance remain open.",
-  "current": "The original title-proof job has started once on the exact candidate source. After210seconds waiting for a remote slot, all three test files passed (19 tests); regression safeguards are still running. Argon’s supervised advisory route is verified and the public contribution update is served. Delivery stays6/11, final passes0/3 and native checks0/7.",
-  "next": "Consume the existing title job result; do not launch another. Original Hands retains its publication, header proof and SEO integration. Collect the earlier accepted Website response and complete installed-source/title checks after explicit Chrome handback. The embedding advisory remains prepared and unsent pending its own placement.",
-  "updated": "2026-10-22T17:40:48.362508+00:00",
+  "remaining": "Candidate overlap measurement needs the actual candidate-bound helper and explicit Website Chrome handback. The last native window ended17:30Z; no Website handback has been supplied. Remote work and pushes are allowed during native windows. Native, connected and original final-reader acceptance remain open.",
+  "current": "Big Bag’s original remote proof passed on the exact candidate:19 tests and21 selected regression safeguards. The candidate still needs browser measurement before review, merge and installation. The old ink helper was found to load an earlier page and trial adjustment; its source binding is being corrected through the original owner. Delivery remains6/11, final passes0/3 and native checks0/7.",
+  "next": "Correct only the old capture helper’s source binding through its original owner; measure the candidate after Chrome handback, then proceed through review and merge. Collect the earlier accepted Website advisory answer without resending. Header and SEO repairs remain with their original keepers.",
+  "updated": "2026-10-22T17:44:37.530868+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "The original title-proof job started once at17:31Z and acquired a remote slot after210seconds. The changed file passed2tests; neighbouring tests and pins are still running. Browser proof, review and installation remain owed. No duplicate job or new writer was started.",
+    "The original title-proof job finished at17:40Z:19 tests and all21 selected regression safeguards passed. Browser proof, review, merge and installation remain owed. The old ink helper’s historical page and trial-style bindings were caught before capture and sent to the original writer for correction. No duplicate job was started.",
     "The first accepted marketing recommendation now has returned source: an API upper-bound flag and explanation. The on-screen explanation and wallet change remain pending. No review, merge, deployment or measured-benefit credit is claimed.",
     "The source audit checked 112 advisory claims: 41 confirmed fully or partly, 44 refuted wholly or in their mechanism, 3 already fixed and 24 not checkable. Two uncovered recommendations were accepted into the original marketing build plan. This is not a quality score or shipped improvement.",
     "The repaired review route completed four supervised advisory calls at16:44–16:48Z. Client logs recorded High for each call, and the chair admitted the route at16:49Z. Advice is not a quality score, shipped work or measured improvement. The original Website response still needs collection; the embedding advisory remains prepared and unsent pending its own placement.",
@@ -235,7 +235,7 @@
     {
       "label": "11. BIG BAG page and navigation",
       "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title repair returned at 14:06Z and is not yet reviewed or installed.",
-      "next": "Check the installed source independently when the original Chrome handback arrives. Complete full remote and browser proof for the returned 12 px lift, then its original review/release and changed-source acceptance."
+      "next": "Check the installed source independently when the original Chrome handback arrives. Remote proof for the12px lift is complete (19tests,21selected safeguards). Correct the original capture helper’s source binding, measure the actual candidate, then complete its original review, release and changed-source acceptance."
     }
   ],
   "timedPlan": {
@@ -317,8 +317,8 @@
         "text": "Locate existing safe journey inputs and supported timing intake (14:27Z–14:32Z, took5 min; retained context found, current readback and Inspector recovery still owed)."
       },
       {
-        "complete": false,
-        "text": "Original title remote proof executing (started17:31Z; slot acquired17:35Z after210s; all three files19passed, pin execution incomplete; est.10 min from slot). Header/SEO remain with their original keepers."
+        "complete": true,
+        "text": "Complete original title remote proof (17:31Z–17:40Z, took9 min including210s slot wait;19 tests and21 selected regression checks passed). Review, merge and installation remain separate."
       },
       {
         "complete": true,
@@ -373,11 +373,19 @@
         "text": "Reconcile the original title proof launch and actual execution (17:35Z–17:36Z, took1 min; one job, first file passed, no overall pass)."
       },
       {
+        "complete": true,
+        "text": "Publish title-proof execution status and verify served checklist (17:36Z–17:43Z, took7 min; five files exact, rendered view still unverified)."
+      },
+      {
         "complete": false,
-        "text": "Publish the changed title-proof status and synchronize the checklist (started17:36Z, est.8 min)."
+        "text": "Correct the original capture intake and bind the actual candidate (started17:45Z, est.8 min; old ink helper loads an earlier page and an8px trial). No browser run yet."
+      },
+      {
+        "complete": false,
+        "text": "Publish the completed remote-proof result and next measurement prerequisite (est.5 min)."
       }
     ],
-    "landing": "Lands: changed checklist about17:44Z (8 min; hosting may delay readback). Original title result expected after its existing neighbours/pins, estimate17:45Z with queue/runtime uncertainty. Browser checks take15 min after explicit handback. Full draft completion remains unknown; Shopify remains unpublished."
+    "landing": "Lands: refreshed green-proof checklist about17:55Z (8 min; hosting may delay readback). Candidate browser checks take15 min after explicit handback and original helper binding. Full draft completion remains unknown; Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -388,7 +396,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish scoped settings refinements (first resource wait 08:48Z; next check at the shared-browser handback and release quiet point; duration unknown). First checks finished 12:28Z–12:34Z: policy unchanged, size-chart activation left off, eligible old alerts cleared. The remaining address, pickup, delivery, consent and brand settings await their authorized quiet point. SEO’s current required gate failed on the slow-report deadline test; its qualified trace is routed to the original owner, with the head preserved."
+        "text": "Waiting — Finish scoped settings refinements (first resource wait 08:48Z; next check at the shared-browser handback and release quiet point; duration unknown). First checks finished 12:28Z–12:34Z: policy unchanged, size-chart activation left off, eligible old alerts cleared. The remaining address, pickup, delivery, consent and brand settings await their authorized quiet point. The upstream slow-report repair has merged. The original SEO head still awaits the already-authorized main integration through its existing keeper; no duplicate writer or push."
       }
     ],
     "landing": "Lands: audit complete. Settings completion is not yet timed because the required browser and release quiet point is unconfirmed. Draft release continues independently; no live theme publication.",
