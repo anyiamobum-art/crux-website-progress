@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "One evidence-only correction is queued for the original writer. No duplicate writer, browser run or product test was started. The two bounded support checks and the title test job are complete. Shopify remains unpublished.",
+  "workerState": "The original title-helper and motion-question jobs have returned and been consumed. No product job is represented as running. The public checklist is being updated; the next browser action awaits explicit resource custody. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate 12 px title lift returned at14:06Z. Full remote proof remains with the existing keeper; browser proof awaits explicit Chrome handback. No push, review or installation of this candidate is claimed. SEO remains in its original lane."
+      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate 12 px title lift returned at14:06Z; its19 tests and21 safeguards passed, and its measurement scripts are corrected and accepted. Browser proof awaits explicit Chrome handback. No push, review or installation of this candidate is claimed. SEO remains in its original lane."
     },
     {
       "stage": "Tests",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At19:16Z the source-bound helper correction was placed once in the existing launcher queue after checking the original terminal result and absence of a matching active job. The same writer, candidate and measurement rules are retained.",
+  "lastActualProgress": "At19:29Z the original motion question was resolved: the modal intentionally blocks the launcher during closing, and the recorded post-close reopen works. The documented outcome is retained for the original readers; no new quality score or whole-journey pass is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The helper correction has a concrete queue entry; its execution and result are still pending. An explicit Website browser allocation is also needed. The motion disposition, retention policy, connected and native evidence, and final-reader acceptance remain open.",
-  "current": "The missing capture-helper correction is now placed in the original writer’s actual queue. Execution has not yet been verified. The product candidate remains unchanged, with 19 tests and 21 regression safeguards passed. Delivery remains 6/11; final passes 0/3; native checks 0/7.",
-  "next": "Inspect the original writer’s corrected helper, then use an allocated browser turn for candidate checks. Collect the earlier Website advisory without resending it. The motion question and privacy runtime confirmation remain with their original owners.",
-  "updated": "2026-10-22T19:17:37.632448+00:00",
+  "remaining": "The source-bound title check is ready but needs shared browser handback. Original privacy-owner confirmation, retention policy, connected and native evidence, and final-reader acceptance remain open.",
+  "current": "Two prerequisites are resolved: the corrected Big Bag measurement scripts passed source review, and the original writer answered the close-and-reopen question. Candidate browser checks are next once shared browser custody is allocated. Delivery remains6/11, final passes0/3 and native checks0/7.",
+  "next": "Measure the actual title repair, then continue its original review and installation. Collect the earlier Website advisory without resending it. Complete remaining privacy, connected and native proof with the original owners.",
+  "updated": "2026-10-22T19:29:39.473184+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "The Big Bag candidate passed19 tests and21 regression safeguards. Its capture-helper correction now has an actual queue entry for the original writer, placed19:16Z. Execution and acceptance are still pending; source, review and installation gates remain unchanged.",
+    "The Big Bag candidate passed19 tests and21 regression safeguards. Corrected measurement scripts passed source review at19:27Z. The original close-and-reopen question is also resolved: modal protection during closing is intentional, and reopening afterward was observed. These evidence steps are complete; browser checks, code review, installation and final ratings remain open.",
     "The provider-account decision is supplied. The privacy draft now distinguishes public chat, temporary styling handoff and optional saved looks. Source behavior is partly verified; actual retention policy, mounted controls and connected acceptance remain open. No policy was published and no assistant was activated.",
     "The parallel Shopify audit now has current API readback and prepared pickup wording. Location and delivery flags are verified; consent behavior still needs browser proof, and checkout-branding values were denied by the API. No settings changed and no delivery gate was marked complete from this audit.",
     "Two source-audited marketing recommendations entered the original build plan. One now has returned API source; its on-screen explanation remains pending. No review, deployment, measured benefit or quality-score credit is claimed.",
@@ -235,7 +235,7 @@
     {
       "label": "11. BIG BAG page and navigation",
       "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title repair returned at 14:06Z and is not yet reviewed or installed.",
-      "next": "Check the installed source independently when the original Chrome handback arrives. Remote proof for the12px lift is complete (19tests,21selected safeguards). Correct the original capture helper’s source binding, measure the actual candidate, then complete its original review, release and changed-source acceptance."
+      "next": "Check the installed source independently when the original Chrome handback arrives. Remote proof for the12px lift is complete (19tests,21selected safeguards). The original measurement scripts are now source-bound and accepted; measure the actual candidate, then complete its original review, release and changed-source acceptance."
     }
   ],
   "timedPlan": {
@@ -306,7 +306,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original Chrome handback since13:34Z (Studio round6 ended17:30Z; the next native window requires swap below4GB. No Website handback inferred). Installed-source and title checks follow (est.15 min)."
+        "text": "Waiting on original browser handback since13:34Z (accepted measurement scripts ready19:27Z; next keeper event or19:45Z). Candidate and installed-source checks follow (est.15 min)."
       },
       {
         "complete": true,
@@ -366,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; 18:16Z inspection found no handback; deadline escalation delivered18:17Z; next keeper event or18:55Z; collection est.5 min)."
+        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; next keeper event or19:45Z; collection est.5 min, no resubmission)."
       },
       {
         "complete": true,
@@ -377,8 +377,8 @@
         "text": "Publish title-proof execution status and verify served checklist (17:36Z–17:43Z, took7 min; five files exact, rendered view still unverified)."
       },
       {
-        "complete": false,
-        "text": "Waiting on the original capture-helper correction since17:45Z (placed19:16Z; next existing check19:25Z; repair est.8 min after execution starts). Queue placement is verified; execution and browser allocation are not yet verified."
+        "complete": true,
+        "text": "Complete and inspect the original measurement-script correction (19:18Z–19:27Z, took9 min; same writer, source binding verified, no browser measurement yet)."
       },
       {
         "complete": true,
@@ -413,15 +413,23 @@
         "text": "Reconcile the omitted motion question with its original brief and return it to the same owner (18:41Z–18:45Z, took4 min; no new measurement or source change)."
       },
       {
+        "complete": true,
+        "text": "Reconcile the original privacy-owner confirmation (19:26Z–19:28Z, took2 min; original receipt unchanged, no adoption found)."
+      },
+      {
         "complete": false,
-        "text": "Waiting on original storage-policy/runtime confirmation (source intake returned18:45Z; next original event or19:00Z; first facts wait12Oct04:12Z retained)."
+        "text": "Waiting on the original source-owner privacy confirmation since18:45Z (next changed receipt or19:45Z; original facts wait12Oct04:12Z retained)."
       },
       {
         "complete": true,
         "text": "Place the missing capture-helper correction in the original writer’s queue (19:14Z–19:17Z, took3 min; same session, evidence-only scope, no duplicate job)."
+      },
+      {
+        "complete": true,
+        "text": "Consume the original close-and-reopen requirement answer (19:23Z–19:29Z, took6 min; modal protection is intentional, documented outcome retained, no rating)."
       }
     ],
-    "landing": "Lands: helper correction is queued with the original writer. Candidate checks take15 min after the corrected helper is accepted and browser custody is granted. Full draft completion remains unknown; Shopify stays unpublished."
+    "landing": "Lands: next bounded browser check takes about15 min after handback. The script correction and motion question are finished. Full draft completion remains unknown until remaining proof and original final reviews pass; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
