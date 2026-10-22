@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The existing voice-repair publisher is in its remote keeper stage on the returned source. Its current output records 75 voice tests and three Big Bag tests passing, declaration complete, and causal checks executing. The prior remote-custody refusal is resolved by the original holder continuation. No duplicate job or new publication is inferred. Measures 1/5/6 are terminal; the contrast continuation has been delivered but execution remains unverified.",
+  "workerState": "The voice and First Look publication jobs are terminal and marked pushed; GitHub confirms both exact heads Ready and open. The previous voice proof condition, First Look placement wait and P684 Draft-admission wait are closed. Contrast and companion work have acknowledgment and placement, but no execution claim while their local capacity prerequisite is unmet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The voice-test repair returned on local head 1e57db3c. Its original keeper output records 75 voice tests passing in 12.95 seconds and three Big Bag tests passing in 24.16 seconds; causal execution has begun. The 3-second and 4-second limits and all assertions are unchanged. No pre-test garbage-collection change or root-cause fix is claimed.",
+  "lastActualProgress": "Voice head 1e57db3c passed 75 voice tests, three Big Bag tests and 73/73 causal pins. The separate real-route proof produced both deliberate named timeout failures and restored clean source. First Look head 72811557 passed two focused tests and 5/5 pins; its keeper ended at 10:39:44Z and the pushed head is verified on GitHub.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The new voice-test source is not yet verified pushed. Existing remote checks and two named real-route timeout failures remain required; normal passing tests do not prove those failure diagnostics. The original timeout cause, partial measurement results, contrast, release/review work, native and connected acceptance, and final-reader evidence remain open.",
-  "current": "The original voice-test diagnostic repair has returned on clean local source. Its existing remote keeper has passed all 75 voice tests and three Big Bag tests, and causal pin execution is underway. The repair identifies which timeout expired; it does not establish or fix the original timeout cause.",
-  "next": "Finish the existing keeper and the two required forced timeout failures on the real route with its database fixture before publication. The original writer’s stand-in finish test does not satisfy that condition. Hands received this condition at 10:09:59Z; acknowledgment is due at 10:25Z. Continue the separately delivered contrast and companion dispositions through their original owners.",
-  "updated": "2026-10-22T10:11:53.204980+00:00",
+  "remaining": "Hosted CI, original reviews, merge and installation remain separate gates for both repairs. The voice diagnostics now prove their failure messages, but the original timeout cause remains unproved. Local capacity holds the acknowledged contrast and companion launch lanes. Partial measurements, native and connected acceptance, and final-reader evidence remain open.",
+  "current": "Both original repair owners have published their new source. The voice diagnostic repair passed its remote keeper and both required forced timeout checks on the real route. First Look integrated current main, passed its focused tests and causal pins, and pushed the resulting head. Both PRs are Ready and open; neither is merged. P684 #4758 has also entered Ready after admission succeeded at 10:10:32Z; its test groups are running or queued.",
+  "next": "Consume hosted CI and the remaining original reviews on each exact pushed head. The desktop contrast helper and companion overlap diagnosis are acknowledged and placed, but their local launch lanes await capacity. Resume those same owners when the prerequisite clears; native acceptance retains its separate capacity and custody requirements.",
+  "updated": "2026-10-22T10:41:29.156692+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original voice-test repair has returned on clean local head 1e57db3c. This is a test-only change that names the expired wait and records diagnostic task state. The 3-second and 4-second limits and every assertion remain unchanged; no pre-test garbage-collection change was added. The original timeout cause remains unproved.",
-    "The existing remote keeper passed all 75 voice tests and three Big Bag tests on that source. Declaration is complete and causal pin checks are executing. This is partial remote proof, not a completed keeper, hosted pass or publication.",
-    "Before publication, both forced named timeout failures must be demonstrated on the real route with its database fixture. The original writer’s stand-in finish test does not prove that requirement. Hands received the condition at 10:09:59Z, with acknowledgment due at 10:25Z; the same existing job and owner retain custody.",
-    "The former voice remote-custody refusal is resolved by the original continuation. The PR was last verified Ready and open on its prior source at 10:09Z; the returned repair is not yet verified pushed. First Look’s recovery remains placed with execution unverified, and P684 #4758 retains its Draft admission wait.",
-    "The accepted measurement return remains unchanged: measure 1 FAIL, measure 5 PARTIAL, and the permitted public segment recorded while the whole journey stays NOT_MEASURED. The contrast and companion handoff was delivered at 10:04:09Z, with execution unverified. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; the draft remains unpublished with its private assistant off."
+    "The original voice diagnostic repair is pushed on 1e57db3c and remains Ready and open. Its remote keeper completed with 75 voice tests, three Big Bag tests and 73/73 causal pins passing. The 3-second and 4-second limits and assertions remain unchanged; this is diagnostic improvement, not a proved root-cause fix.",
+    "The outstanding real-route diagnostic proof is complete: 75 normal tests passed, then the two deliberately forced timeouts failed under their correct ready-wait and finish-wait names. The real route and database fixture were used, and the scratch changes were removed with clean source restored. The prior proof wait is closed.",
+    "First Look’s original owner integrated current main and pushed 72811557. Its remote keeper passed both focused tests and 5/5 causal pins, ending successfully at 10:39:44Z. GitHub confirms the new head Ready and open. Fresh hosted CI and original reviews remain separate; neither repair is merged or installed.",
+    "The original desktop contrast helper and companion overlap diagnosis were acknowledged and placed at 10:35–10:36Z. Both local launch lanes are held by current capacity, so the wait is no longer missing acknowledgment. Native acceptance has separate capacity and custody prerequisites; no execution or acceptance is inferred. P684 #4758 is now Ready with admission verified at 10:10:32Z and hosted tests running or queued; its earlier Draft-skipped check is not a product test failure.",
+    "Measurement results remain unchanged: measure 1 FAIL, measure 5 PARTIAL, and the permitted public segment recorded while the whole journey stays NOT_MEASURED. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The draft remains unpublished with its private assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -257,16 +257,24 @@
         "text": "Old Studio quiet-window hold closed (END 06:13:34Z, release 06:17:41Z). This does not qualify Website native acceptance."
       },
       {
+        "complete": true,
+        "text": "First Look original recovery and source publication complete (keeper 10:37Z–10:39:44Z, took about 3 min). Current main integrated; head 72811557 pushed; two focused tests and 5/5 pins passed."
+      },
+      {
         "complete": false,
-        "text": "First Look hosted recovery: original brief placement verified 10:00Z after the 09:44:59Z handoff; placement wait closed, execution unverified (duration unknown; next check on original execution/result). Shared-main #4752 and review history are retained."
+        "text": "First Look hosted CI and original reviews: Ready/open on 72811557, not merged (duration unknown; next check on exact-head CI/review result)."
       },
       {
         "complete": true,
         "text": "P684 separate Draft publication completed after the original pre-push read (published 09:48Z; duration unknown). #4758 holds tested dd2142de; protected SEO #4702 remains unchanged."
       },
       {
+        "complete": true,
+        "text": "P684 Ready admission completed (waiting from Draft publication 09:48Z; admission succeeded 10:10:32Z, took about 23 min). Exact dd2142de is Ready/open."
+      },
+      {
         "complete": false,
-        "text": "P684 Ready admission: waiting since Draft publication 09:48Z for fewer than five queued runs; current verified queue ten (duration unknown; original owner checks changed queue state)."
+        "text": "P684 hosted tests and original reviews: test groups running or queued; not merged (duration unknown; next check on original results). The prior Draft-skipped check is not a product failure."
       },
       {
         "complete": true,
@@ -274,7 +282,7 @@
       },
       {
         "complete": false,
-        "text": "Measurement follow-up: original companion product-decision handoff delivered 10:04:09Z; earlier phone-overlap handoff retained. Desktop timing cause remains for the existing GPU/native check (duration unknown; acknowledgment check 10:22Z, no automatic rerun)."
+        "text": "Measurement follow-up: original companion overlap diagnosis acknowledged and placed 10:35–10:36Z, now held for local capacity; modal product decision remains open. Desktop timing cause stays with the existing GPU/native check (duration unknown; next check on original capacity release or disposition)."
       },
       {
         "complete": false,
@@ -282,11 +290,15 @@
       },
       {
         "complete": false,
-        "text": "Desktop contrast correction: original continuation handoff delivered 10:04:09Z for one 1280 px capture now measures 1/5/6 are terminal (duration unknown; acknowledgment check 10:22Z, execution unverified). Phone contrast retains its original overlap dependency."
+        "text": "Desktop contrast correction: original handoff delivered 10:04:09Z, helper acknowledged and placed 10:35–10:36Z for one 1280 px capture; local launch held for capacity, execution unverified (duration unknown; next check on original capacity release). Phone contrast retains its original overlap dependency."
+      },
+      {
+        "complete": true,
+        "text": "Original voice-test proof and source publication complete (keeper 10:09Z–10:18:37Z, took about 10 min; forced proof 10:34:04Z–10:34:51Z, took 47 sec). 75 + 3 tests, 73/73 pins and both real-route named timeout failures proved; clean source 1e57db3c pushed."
       },
       {
         "complete": false,
-        "text": "Original voice-test repair: returned local source; existing remote keeper has 75 voice + 3 Big Bag tests passed and causal checks executing (duration unknown; real-route forced timeout proof still required). Condition delivered 10:09:59Z, acknowledgment check 10:25Z; prior custody refusal resolved."
+        "text": "Original voice repair hosted CI and reviews: Ready/open, not merged; diagnostic improvement does not prove the timeout cause (duration unknown; next check on exact-head CI/review result)."
       },
       {
         "complete": false,
@@ -298,10 +310,10 @@
       },
       {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 10:11Z, est. 4 min; Pages propagation may move it)."
+        "text": "Refresh and verify this public snapshot (started 10:40Z, est. 4 min; Pages propagation may move it)."
       }
     ],
-    "landing": "Lands: public snapshot about 10:15Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: public snapshot about 10:44Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
