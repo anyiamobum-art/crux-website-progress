@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title writer remains the sole writer. Original native source reconciliation is complete; iPhone execution still awaits a dated turn and Inspector qualification. The checkout settings turn ended at 22:56Z after successful save and reload checks. No final review or uncertain native action has been repeated.",
+  "workerState": "One existing title queue entry was amended to a compact remote continuation in the original lineage. No second writer, capture, test run or review was launched by Website. Hands retains keeper/publication custody and will identify actual execution separately.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "22:54Z–22:56Z: saved both approved Shopify checkout settings, reloaded the page, and reopened the regions dialog to verify 0 of 237 selected. Earlier at 22:47Z, the original acceptance owner adopted all later installed-source receipts through #4743. Source reconciliation adds no native or rating credit.",
+  "lastActualProgress": "23:25Z: verified Hands amended the existing title entry for remote execution after staging and hash-checking the saved source/trace inputs. The original context was too large to resume under the standing context rule. Earlier at 22:54Z–22:56Z, both approved checkout settings were saved and verified after reload.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The title continuation remains queued with its original writer under the existing Mac memory gate. Native testing has no allocated turn yet because memory pressure and swap exceed the shared limits; Hands is resolving its queue position. Header/SEO release, policy/runtime, connected evidence and final acceptance remain open. The checkout settings no longer have a blocker.",
-  "current": "Both approved checkout improvements are saved and verified after reload: address line 2 is Optional, and email marketing is unchecked by default in all 237 regions. The original iPhone acceptance owner has reconciled all 18 later installations into 173 tracked assets and 40 source manifests. Delivery remains 6/11, final passes 0/3 and native checks 0/7.",
+  "remaining": "The title analysis no longer needs to wait for a Mac-only writer slot; the original remote continuation must return its result. Header/SEO release, qualified native allocation, policy/runtime, connected evidence and final acceptance remain open.",
+  "current": "The title-repair handoff has moved to a compact remote continuation. Hands staged and hash-checked the saved inputs and amended the existing queue entry; actual execution is not yet confirmed. Both approved checkout settings remain saved and reload-verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
   "next": "Consume the original title disposition, finish repair reviews and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-22T22:58:10.807775+00:00",
+  "updated": "2026-10-22T23:25:53.922342+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -209,7 +209,7 @@
     "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
     "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
     "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
-    "The original title continuation remains queued under the existing memory gate. Final ratings remain unchanged while repair releases and required evidence are completed."
+    "The title continuation now has its exact saved inputs on the remote worker, with the existing entry amended in place. Actual start and result remain separate; ratings are unchanged."
   ],
   "openDeliveryGates": [
     {
@@ -269,8 +269,12 @@
         "text": "Publish the verified settings and source update on the task site (22:58Z–23:00Z, took 2 min; all five hosted files match the published source)."
       },
       {
+        "complete": true,
+        "text": "Move the original title analysis to a compact remote continuation (23:23Z–23:25Z, took 2 min; exact inputs staged, same queued entry amended; execution not yet confirmed)."
+      },
+      {
         "complete": false,
-        "text": "Waiting on original title-owner disposition since 20:40Z (placed 22:09Z; existing memory gate still closed at 22:52Z; next original result or23:07Z; est. 5 min to consume result)."
+        "text": "Waiting on the original title result since 20:40Z (remote continuation now queued; next launcher result; est. 5 min to consume result)."
       },
       {
         "complete": false,
@@ -285,7 +289,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: checkout refinements completed22:56Z and task-site update verified23:00Z. Next original title/repair check23:07Z. Full draft completion remains unknown until required evidence and original reviews pass. Shopify stays unpublished."
+    "landing": "Lands: checkout refinements completed at 22:56Z; title continuation moved to the remote queue by 23:25Z. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
