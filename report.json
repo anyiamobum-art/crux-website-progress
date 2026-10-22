@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original measures 3/4 continuation and original voice diagnosis are terminal. The voice diagnosis returned 0 failures in 102 diagnostic runs; it did not rerun the hosted gate or make a code change. Original header and contrast next-step briefs are acknowledged and placed, with no start verified. First Look’s correction was last verified queued.",
+  "workerState": "The original header repair has returned and is committed locally, with no push or release claim. The earlier measures 3/4 continuation and voice diagnosis are terminal. Contrast and remaining-measures execution are not established by their placement; no running job is inferred from a queued brief. Native work is held by the measured resource prerequisites.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original voice owner completed PR/main comparisons and returned a not-reproduced diagnosis. Hands acknowledged and placed the original header repair and source-first contrast continuation at 05:13Z. The remaining measures 1/5/6 serialized brief was delivered at 05:13Z, with acknowledgment pending. No repair, new measurement, review pass or release is inferred from these handoffs.",
+  "lastActualProgress": "Root verified the clean original header commit 64ff21a2: four changed files, including the CSS reservation and regression/pin coverage. The original author reports 10/10 focused checks and causal failure/restoration evidence. Required remote proof is still owed. No installation or rendered result is credited.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Big Bag remains Ready, unmerged and blocked by its failed hosted voice gate and review admission. The timeout cause is unproved; garbage collection or host stalls are hypotheses. Header movement still fails, contrast remains invalid without qualified source and method, and First Look’s original correction remains open. Native, connected and final-reader evidence stay open.",
-  "current": "The original Big Bag voice diagnosis returned: the timeout was not reproduced in 102 runs across the PR and main. That does not clear the failed hosted gate. Hands acknowledged and placed the original header repair and contrast continuation at 05:13Z; neither has a verified start.",
-  "next": "The original Ask owner received one diagnostic follow-up at 05:19:21Z, with acknowledgment due 05:40Z: identify which existing wait expires, keeping the 3-second and 4-second waits and every assertion. Collection before the timed window is conditional on the owner’s justification, not a confirmed fix. Reconcile starts for the acknowledged header and contrast briefs; the remaining-measures brief still awaits acknowledgment.",
-  "updated": "2026-10-22T05:20:01.812388+00:00",
+  "remaining": "The header repair is unpushed and still needs remote proof, review, merge, draft installation and rendered acceptance. Big Bag’s hosted voice failure remains unresolved; contrast still lacks qualified evidence. The 05:28Z Mac resource check did not meet native prerequisites, so no new native start is admitted. Connected and final-reader evidence remain open.",
+  "current": "The original header owner returned a committed, unpushed repair. The guide slot had no reserved width in the measured preview’s early CSS; later CSS expanded it to 44px and moved the controls 34px. The repair reserves its settled width from first paint. Remote proof and all release/installation/visual acceptance steps remain open.",
+  "next": "Hands received the original header remote-proof and publication handoff at 05:36:37Z, with acknowledgment due 05:55Z. The original writer is correcting one evidence description. Required remote proof, independent review and the original release route remain open. Native checks wait for the existing Mac resource prerequisites; remote proof remains independent.",
+  "updated": "2026-10-22T05:37:24.767984+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original Big Bag voice diagnosis returned: 0 failures in 102 runs, split between the PR and main, including loaded-worker comparisons. The hosted failure was not reproduced. Garbage collection or a host stall remains a hypothesis, not a proved cause or a fixed gate.",
-    "Big Bag #4743 remains Ready and unmerged on the same source, with its hosted voice failure and review-admission requirement still open. The original Ask diagnostic follow-up was delivered at 05:19:21Z, with acknowledgment due 05:40Z. It proposes evidence naming the expired wait while retaining the 3-second/4-second waits and every assertion. Pre-test garbage collection requires the original owner’s justification and is not a confirmed fix. No hosted rerun or pass credit is claimed.",
-    "Hands acknowledged and placed the original header repair and original contrast continuation at 05:13Z; neither has a verified start. Contrast still requires exact source qualification before a separate 58-file manifest and one contrast-only run with unobscured paired targets.",
-    "The serialized brief for remaining measures 1, 5 and 6 was delivered at 05:13Z; acknowledgment is pending. Delivery does not authorize parallel capture or establish execution. Existing measurement findings stay visible until qualified new evidence exists.",
-    "Accepted results remain header arrival FAIL, separate no-JavaScript link PASS, and contrast INVALIDATED with no number. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off."
+    "The original header owner returned a committed, unpushed repair. Root verified the clean commit 64ff21a2, with four changed files. This is source progress only; remote proof, independent review, merge, draft installation and rendered acceptance remain open.",
+    "The source cause is the shared header’s guide slot: the measured preview lacked its early width reservation. Late CSS expanded the slot from 0 to 44px, moving the controls 34px. The scoped repair reserves the existing settled width from first paint and includes regression/pin coverage.",
+    "The original author reports 10/10 focused checks plus causal failure/restoration proof. The original keeper/publication handoff was delivered to Hands at 05:36:37Z, with acknowledgment due 05:55Z. The original writer is correcting one evidence description; required remote proof and independent review remain open. No browser measurement or passing acceptance is inferred.",
+    "The 05:28Z resource reading did not meet the existing native prerequisites. Native starts remain held; remote proof can continue. The original voice diagnosis remains not reproduced, and contrast still needs its source-first qualification. A queued brief is not a running job.",
+    "Accepted measurement results remain header arrival FAIL, separate no-JavaScript link PASS and contrast INVALIDATED. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -285,8 +285,12 @@
         "text": "Qualify all 68 returned artifacts and deliver the original header/contrast next steps (05:02Z–05:09Z, took about 7 min)."
       },
       {
+        "complete": true,
+        "text": "Original header source repair returned and clean local commit verified (returned 05:35Z; exact start/duration unknown). Unpushed; local focused checks reported 10/10."
+      },
+      {
         "complete": false,
-        "text": "Original header repair: Hands acknowledged and placed the brief 05:13Z; no start verified (duration unknown; next check on original start/result)."
+        "text": "Header remote proof and original release route: handoff delivered 05:36:37Z, acknowledgment due 05:55Z (duration unknown). Original writer correcting one evidence description; no review, merge, draft install or rendered acceptance yet."
       },
       {
         "complete": false,
@@ -314,7 +318,7 @@
       },
       {
         "complete": false,
-        "text": "iPhone acceptance: waiting for original delivery reconciliation and qualified device START since16Oct20:16Z (next check on original delivery result; 0/7 unchanged)."
+        "text": "iPhone acceptance: original wait since 16 Oct 20:16Z retained. The 05:28Z resource check failed existing native prerequisites; no new native start (next check when the original resource owner verifies readiness; duration unknown; 0/7 unchanged)."
       },
       {
         "complete": true,
@@ -333,7 +337,7 @@
         "text": "Final three original named-fix ratings and draft handover: pending required evidence (duration unknown; no live publication)."
       }
     ],
-    "landing": "Lands: publish and verify this update in about 3 min (hosting propagation may move it). Original Ask acknowledgment is due 05:40Z; header/contrast starts remain unverified. Overall draft completion remains untimed because repair, measurement, release, device and final-reader prerequisites stay open."
+    "landing": "Lands: publish and verify this update in about 3 min (hosting propagation may move it). Header keeper acknowledgment is due 05:55Z. Overall draft completion has no defensible ETA: remote proof, releases, qualified measurements, native resources and final-reader evidence remain prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
