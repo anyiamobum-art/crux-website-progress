@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Reconciled the original keeper checkpoint and removed obsolete pending claims for the title capture, embedding source validation, privacy source confirmation and modal requirement answer. The remaining handoffs retain their original owners and wait times.",
+  "lastActualProgress": "Five hosted files were verified at 21:52Z. The original title handoff was corrected at 21:54Z to point to the completed capture and single remaining finding, preventing an obsolete request for another capture. The remaining handoffs retain their original owners and wait times.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Hands reports new Mac jobs held at 7.1 GB swap. Separately, the original title follow-up and browser allocation have no acknowledgement. Header/SEO release, actual retention/log/backup policy, mounted controls, connected and native proof, and final-reader acceptance remain open.",
+  "remaining": "New Mac jobs are held for resource capacity: Hands reported 7.1 GB swap, and the launcher measured 11.18 GiB free disk against its 12 GiB start threshold at 21:50Z. Remote jobs can continue. Separately, the original title follow-up and browser allocation have no acknowledgement. Header/SEO release, actual retention/log/backup policy, mounted controls, connected and native proof, and final-reader acceptance remain open.",
   "current": "The exact-source title capture is complete. The original owner still owes disposition of the WhatsApp guard at 320px, and a fresh browser slot is unallocated. The coordinator has escalated both missed handoffs. Delivery remains 6/11, final passes 0/3 and native checks 0/7.",
   "next": "Get the original title decision and browser allocation, finish repair reviews and unpublished installation, then complete the retained account/order, bag, privacy and iPhone checks before the three final named-fix reviews.",
-  "updated": "2026-10-22T21:49:09.564958+00:00",
+  "updated": "2026-10-22T21:58:12.076539+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -257,8 +257,8 @@
         "text": "Reconcile overdue original handoffs with the coordinator (21:46Z–21:49Z, took 3 min; missing placements confirmed, escalation delivered once)."
       },
       {
-        "complete": false,
-        "text": "Update the task site to remove stale pending claims (started 21:49Z, est. 8 min; verify hosted files after publishing)."
+        "complete": true,
+        "text": "Update the task site to remove stale pending claims (21:49Z–21:52Z, took 3 min; all five hosted files verified)."
       },
       {
         "complete": false,
@@ -281,7 +281,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: corrected public checklist about 21:57Z (8 min from start; hosting propagation may move it). Full draft completion remains unknown until the remaining checks and original final reviews pass. Shopify stays unpublished."
+    "landing": "Lands: corrected public checklist verified at 21:52Z. Next original handoff inspection is 22:05Z; full draft completion remains unknown until the remaining checks and original final reviews pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -292,7 +292,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish scoped settings refinements (first resource wait08:48Z; current API read17:55Z–17:59Z, took4 min; next original browser event or21:10Z). Location and delivery flags are verified, pickup wording is prepared, and consent integration still needs browser proof. Checkout-branding API access was denied. No settings changed; original SEO integration remains with its keeper."
+        "text": "Waiting — Finish scoped settings refinements (first resource wait08:48Z; current API read17:55Z–17:59Z, took4 min; next original browser grant or22:05Z). Location and delivery flags are verified, pickup wording is prepared, and consent integration still needs browser proof. Checkout-branding API access was denied. No settings changed; original SEO integration remains with its keeper."
       }
     ],
     "landing": "Lands: current configuration read and wording prepared. Remaining browser/settings completion is unknown until the original browser release and field-specific review. Draft release continues independently; no live theme publication.",
