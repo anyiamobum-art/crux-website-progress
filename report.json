@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At17:55–17:59Z, four Shopify reads established current location, delivery, pickup and privacy flags; a fifth returned an explicit checkout-branding denial. Pickup wording was prepared by18:00Z. The prior green-proof page built successfully and all five files were verified served exactly at17:48Z.",
+  "lastActualProgress": "Current Shopify settings were read and scoped pickup wording prepared by18:00Z. The sanitized progress update7a650c6 was built and all five served files matched at18:03Z. Its browser render is unverified. The title, header and SEO branches remain unpublished or in their original review queue.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Candidate proof needs a source-correct helper and explicit Chrome handback. The latest allocation holds new Mac lanes until18:16Z because of swap pressure. Checkout-branding API access was denied; those values remain unverified. Native, connected and original final-reader acceptance remain open.",
   "current": "Big Bag’s exact candidate passed19 tests and21 regression safeguards. Its old measurement helper needs correction before browser proof. In parallel, the Shopify settings audit advanced through the existing API and pickup wording is prepared; no settings were changed. Delivery remains6/11, final passes0/3 and native checks0/7.",
   "next": "The original writer corrects the capture helper; Hands releases a Website browser slot for candidate and installed-source checks. Inspect the existing consent integration and original Admin findings before settings edits. Collect the earlier Website advisory answer without resending. Header and SEO work remain with their original keepers.",
-  "updated": "2026-10-22T18:01:50.293956+00:00",
+  "updated": "2026-10-22T18:04:56.569922+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -389,11 +389,11 @@
         "text": "Read current Shopify configuration through the existing API and prepare scoped refinements (17:54Z–18:00Z, took6 min; four successful read operations and one exact branding-access refusal; no settings changes)."
       },
       {
-        "complete": false,
-        "text": "Publish the settings-audit progress and refreshed remaining steps (started18:02Z, est.5 min)."
+        "complete": true,
+        "text": "Publish the settings-audit progress and refreshed remaining steps (18:02Z–18:03Z, took1 min; matching Pages build complete and all five served files exact; browser rendering unverified)."
       }
     ],
-    "landing": "Lands: refreshed settings checklist about18:07Z (5 min; hosting may delay readback). Candidate browser checks take15 min after explicit handback and original helper correction. Full draft completion remains unknown; Shopify stays unpublished."
+    "landing": "Lands: settings-audit progress published18:03Z. Candidate checks take15 min after original helper correction and explicit Chrome handback; next keeper check18:16Z. Full draft completion remains unknown; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
