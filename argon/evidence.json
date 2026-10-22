@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-22T16:20:50.391760+00:00",
+  "snapshot": "2026-10-22T16:28:42.419494+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -231,7 +231,7 @@
       "name": "Embedding engine",
       "status": "Argon feedback pending",
       "title": "Is the compute doing useful work?",
-      "summary": "The live fashion embedding endpoint and a dated EmbeddingGemma 2 lab are different scopes. Review inputs remain prepared and unsent. The original shared-runner repair has logged a connection error; its keeper must reconcile the uncertain attempt. No embedding verdict is available.",
+      "summary": "The live fashion embedding endpoint and a dated EmbeddingGemma 2 lab are different scopes. Review inputs remain prepared and unsent. The shared runner repair has returned and its source checks pass; the original supervised trial is still owed. No embedding verdict is available.",
       "before": "Should EmbeddingGemma 2 be kept, improved, repurposed or retired?",
       "after": "Existing use of the live FashionSigLIP endpoint is verified. The separate lab’s current activity, hosting cost and benefit still need evidence.",
       "resultTitle": "Investigation prepared",
@@ -244,7 +244,7 @@
         },
         {
           "title": "Keep the decision with the original owner.",
-          "text": "The shared context, two evidence sections and final question are prepared and screened, with no embedding provider call. A separate first trial stopped before product evidence was sent. Its original repair logged a connection error while the process remained present; the existing keeper must establish the outcome before any continuation.",
+          "text": "The shared context, two evidence sections and final question are prepared and screened, with no embedding provider call. The original runner repair returned after the first trial stopped. Its four named fixes and source hashes are checked; live behavior awaits the original chair-attended trial. These inputs also need their own placement.",
           "state": "Review pending / no recommendation adopted"
         },
         {

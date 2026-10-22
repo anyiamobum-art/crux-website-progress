@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The header wording report is consumed: clean source is confirmed, but no remote branch or PR exists. The original Argon repair logged ECONNRESET, observed at16:17Z; its process was still present and no result had returned. This is an uncertain attempt, not a completed repair. Original title remote proof, header publication and SEO integration retain their existing owners.",
+  "workerState": "The original Argon writer completed without a restart after the connection error. Its returned source contains all four named fixes; the retained report records 189 passing offline fake-runner checks and nine sabotage cases. These were not independently rerun and do not prove live behavior. The original chair owns the next supervised trial. Header publication, title proof and SEO integration retain their existing owners.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The latest task report was served exactly at16:13Z. The prior animated exhibit was hosted and visibly verified at16:00Z. The original runner changed source and its self-test at15:49Z and15:54Z, then logged a connection error. No product acceptance or rating credit is added.",
+  "lastActualProgress": "The returned runner source was checked at16:28Z; all nine hashes match. The exact outgoing context binding was clarified so the original trial will not fail on a trailing-newline mismatch. The previous report was served exactly at16:13Z, and the animated exhibit was visibly verified at16:00Z. No product acceptance or rating credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "The title repair still needs full remote and rendered proof. Disk capacity recovered at15:46Z; Studio holds the current shared Mac window. Website Chrome restoration and explicit handback are unverified. Native, connected and original final-reader acceptance remain open. Database access remains disconnected.",
-  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair awaits full remote and browser proof. The original Argon repair has logged a connection error; its process remains present and its outcome is unknown. The original keeper has been asked to reconcile that attempt before any retry; acknowledgement is pending. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
-  "next": "Complete the installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The original review-runner writer must fix the text-only instructions and denied-command handling before Hands conducts the next supervised advisory. Marketing and the prepared embedding advisory retain their own source and placement gates.",
-  "updated": "2026-10-22T16:20:50.391760+00:00",
+  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair awaits full remote and browser proof. The original Argon runner repair returned at16:21Z; its four named fixes and nine file hashes are checked. The original chair read and supervised trial remain pending. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
+  "next": "Continue the original chair-attended advisory trial with the corrected context binding after the chair reads the returned repair. Complete installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The embedding advisory remains prepared and unsent until its own placement.",
+  "updated": "2026-10-22T16:28:42.419494+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -208,7 +208,7 @@
     "The title writer completed the 12 px lift at 14:06Z. The new causal regression passed after restoration; the absent browser engine caused a separate skip. Full remote and browser proof are still owed, so this repair is not yet reviewed, pushed or installed.",
     "The first accepted marketing recommendation now has returned source: an API upper-bound flag and explanation. The on-screen explanation and wallet change remain pending. No review, merge, deployment or measured-benefit credit is claimed.",
     "The source audit checked 112 advisory claims: 41 confirmed fully or partly, 44 refuted wholly or in their mechanism, 3 already fixed and 24 not checkable. Two uncovered recommendations were accepted into the original marketing build plan. This is not a quality score or shipped improvement.",
-    "The first supervised review-runner trial stopped on a denied command before any product evidence was sent. Its original writer has two named corrections; the abandoned attempt will not be replayed. The embedding advisory is prepared and unsent, with no verdict or implementation credit.",
+    "The first supervised review-runner trial stopped on a denied command before any product evidence was sent. The original writer returned the four transport fixes at16:21Z; source checks match, while live proof awaits the original chair-attended trial. The abandoned attempt will not be replayed. The embedding advisory remains prepared and unsent, with no verdict or implementation credit.",
     "Remaining measurement obligations are reconciled. The earlier public journey and desktop contrast runs are complete. Desktop frame timing, modal interruption and whole-journey coverage retain their precise missing evidence; completed measurements will not be replayed. Historical signed-buyer and populated-bag context exists. Its current availability needs a read in the retained browser session; no login, session transfer or cart mutation is implied. Shopify remains unpublished."
   ],
   "openDeliveryGates": [
@@ -302,7 +302,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting for the original review-transport repair after the supervised run stopped (since15:30:57Z; abandonment confirmed15:35:55Z; original repair started15:46:52Z; network error observed16:17Z with process still present; keeper reconciliation due on original result or16:40Z). The embedding advisory remains unsent."
+        "text": "Waiting for the original chair read and supervised trial (first wait15:30:57Z; original repair returned16:21Z and source check completed16:28Z; next original result or16:40Z). The embedding advisory remains unsent."
       },
       {
         "complete": false,
@@ -347,9 +347,13 @@
       {
         "complete": true,
         "text": "Reconcile the due report and original repair attempt (16:12Z–16:21Z, took9 min; public report served exactly, new connection error referred to the original keeper)."
+      },
+      {
+        "complete": true,
+        "text": "Check the returned review-transport repair and exact context binding (16:21Z–16:28Z, took7 min; four fixes present, nine source hashes match, live proof still owed)."
       }
     ],
-    "landing": "Lands: existing public update verified at16:00Z; later report verified at16:13Z. Changed blocker update in progress (started16:21Z, est.5 min). Original keeper result or next check16:40Z; installed-source browser checks take about15 min after handback. Full draft completion remains unknown pending repairs, native proof and original ratings; Shopify remains unpublished."
+    "landing": "Lands: changed-result public update about16:33Z (5 min; hosting or readback may delay verification). Original keeper/chair result or next check16:40Z. Installed-source browser checks take about15 min after handback. Full draft completion remains unknown pending repairs, native proof and original ratings; Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
