@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-22T20:42:15.006070+00:00",
+  "snapshot": "2026-10-22T20:51:27.529347+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -239,63 +239,63 @@
     "embedding": {
       "number": "05",
       "name": "Embedding engine",
-      "status": "Advisory returned · chair read pending",
-      "title": "Is the compute doing useful work?",
-      "summary": "The live fashion embedding endpoint and the dated EmbeddingGemma2 lab remain separate scopes. Four advisory calls returned in one conversation. The chair read and original-owner decision are next; no service change or savings claim.",
+      "status": "Advisory admitted · source validation pending",
+      "title": "Keep useful search. Prove the lab’s value.",
+      "summary": "Argon recommends improving the existing fashion-image search and conditionally retiring the separate EmbeddingGemma lab only after its callers and queued experiments are checked. Advisory, no service change.",
       "before": "Should EmbeddingGemma 2 be kept, improved, repurposed or retired?",
-      "after": "Existing use of the live FashionSigLIP endpoint is verified. The separate lab’s current activity, hosting cost and benefit still need evidence.",
-      "resultTitle": "Advisory returned",
-      "result": "Four responses recorded against the frozen evidence. Recommendation adoption and implementation remain unverified.",
+      "after": "Separate a used search service from a research reservation. Judge each with its own caller, quality, latency and hosting-cost evidence.",
+      "resultTitle": "Conditional advice, not a service decision",
+      "result": "The chair admitted the advisory. The original Search owner has received one source-validation request. No retirement, deployment, savings or measured quality gain is attributed to Argon.",
       "stages": [
         {
           "title": "Identify the service before judging it.",
-          "text": "The inspected live endpoint reports Marqo FashionSigLIP, ready. October records describe a separate EmbeddingGemma 2 research lab; the proposed production service had not been built by its original owner.",
-          "state": "Current endpoint verified / separate lab unresolved"
+          "text": "The inspected live endpoint reports Marqo FashionSigLIP, ready. Dated research describes a separate EmbeddingGemma 2 lab. They are different scopes with different evidence.",
+          "state": "Identity reconciled / current lab resources unknown"
         },
         {
-          "title": "Keep the decision with the original owner.",
-          "text": "The prepared four-part packet completed one attended run. Its response is now awaiting the chair read before routing conclusions to the original owner. No second review or change to either service was made.",
-          "state": "Four answers returned / owner decision pending"
+          "title": "Improve the search people already use.",
+          "text": "Argon proposes clearer caller attribution, current-image indexing, model and version boundaries, and confidence-based refusal when a photo cannot be matched reliably. These recommendations still need validation against the existing implementation.",
+          "state": "Advisory / original-owner source check requested"
         },
         {
-          "title": "Preserve the existing system during investigation.",
-          "text": "Recorded calls confirm use of the live fashion embedding endpoint. They do not establish utilization or hosting cost. No replacement, retirement, configuration change or implementation is attributed to this review.",
-          "state": "Existing use verified / no new build"
+          "title": "Prove whether the lab earns its place.",
+          "text": "Retirement is conditional on confirming no callers and no queued authorized experiment. A possible Studio or catalogue role would need a controlled comparison with the repaired baseline. Railway remains held and untouched.",
+          "state": "Advisory, no service change"
         },
         {
-          "title": "Compare like-for-like evidence.",
-          "text": "Dated lab tests favoured EmbeddingGemma on catalogue photos, but a small customer-photo comparison tied. Real text queries did not establish an advantage over keywords. Warm lab timing was not a production capacity test. Current lab activity, cost and user benefit remain unknown.",
-          "state": "Historical benchmarks / current outcome unknown"
+          "title": "Claim a benefit only after measuring it.",
+          "text": "Verify hosting cost, caller coverage, accuracy and latency separately. Earlier retrieval repairs and historical benchmark gains belong to the original work, not this advisory. Proposed thresholds and code names are not observed production facts.",
+          "state": "No adopted implementation or measured saving yet"
         }
       ],
       "evidence": [
         {
-          "title": "Current endpoint identity and use",
-          "date": "22 October 2026",
-          "text": "The configured endpoint reported Marqo FashionSigLIP, ready. The operational record confirms real calls; it does not measure unique shoppers, CPU utilization or hosting cost."
+          "title": "Existing service identity and use",
+          "date": "22 October 2026 · original-owner receipt",
+          "text": "The configured endpoint identified itself as Marqo FashionSigLIP. Recorded calls establish use, not unique shoppers, CPU utilization or hosting cost."
         },
         {
-          "title": "Separate dated EmbeddingGemma research",
-          "date": "7 October 2026 research; reconciled 22 October",
-          "text": "Catalogue-photo results, customer-photo results and text-query results address different tasks. The recorded warm lab timing does not establish current production latency or capacity."
+          "title": "One completed advisory conversation",
+          "date": "22 October 2026, 20:31–20:37 UTC",
+          "text": "All four prepared calls returned in one conversation. Client logs identify Gemini 4 Argon at High. Independent server model attestation is absent. No quality score was requested."
         },
         {
-          "title": "Next evidence required",
-          "date": "Prepared and checked 22 October 2026",
-          "text": "Four review inputs are prepared with source identity, dated quality and timing evidence, uncertainty and a conditional keep/improve/repurpose/retire question. No scores from other readers are included. Argon feedback, current lab activity and hosting cost remain unverified."
+          "title": "Chair admitted the findings",
+          "date": "22 October 2026, 20:45 UTC",
+          "text": "The findings may inform this page and the original owner’s next decision. They do not authorize a Railway service change, replacement model or customer-care trial."
         },
         {
-          "title": "Prepared inputs refreshed for the repaired route",
-          "date": "22 October 2026, 19:56 UTC",
-          "text": "The same frozen evidence and conditional question are now prepared with the current shared context and explicit text-only instructions. All four parts passed preparation and scans. Nothing was sent. One attended advisory placement is requested through the existing keeper; feedback and any service recommendation remain unverified."
+          "title": "Source validation requested",
+          "date": "22 October 2026 · original Search owner",
+          "text": "One bounded request asks the original owner to accept, contradict, defer or mark each material claim unknown using source evidence. The reply includes proposed names that are not verified in the inspected source, so its sample code is not an installable patch."
         },
         {
-          "title": "Original attended advisory completed",
-          "date": "22 October2026 · run started20:31 UTC",
-          "text": "All four calls returned in one conversation. The client recorded Gemini4ArgonHigh; independent server model attestation is absent. The chair has not yet admitted the result for owner triage. No verdict, code change, retirement or measured saving is claimed."
+          "title": "What remains unknown",
+          "date": "Current boundary",
+          "text": "The separate lab’s current activity, replicas, resource bill and user benefit remain unverified. Proposed experiments and thresholds are plans, not results. No savings or quality gain is claimed."
         }
       ],
-      "limit": "The advisory is awaiting chair review and original-owner disposition. Historical benchmarks, current utilization, cost and user outcomes remain distinct."
+      "limit": "Advisory, no service change. Source validation and any implementation remain with the original Search owner. Railway is held; existing review history and the three required website ratings remain unchanged."
     }
   },
   "reviewRoute": {
