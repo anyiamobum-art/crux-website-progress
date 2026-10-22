@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Studio full-source triage and Companion owner disposition are complete. Website additional response is awaiting collection; no resend is required. The fourth-seat runner is being prepared; no product review has executed through it yet. Existing product work remains with its original owners.",
+  "workerState": "The original title writer’s first fit-width candidate failed and was reverted. A single 12 px lift continuation requested at 13:16Z was placed in the original launcher at 13:38:05Z; execution has not been observed. The shared runner’s original writer holds four corrections. Ad Brain’s separate full read is invalid for scoring; its findings remain leads pending original source checking. Website additional response awaits collection.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Footer and product-page repairs are merged and installed. Big Bag’s selected-label correction is returned and being qualified. Companion picker is installed; Big Bag and SEO final fixes are returned for their original release checks."
+      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate title-overlap repair remains with its original writer after the first candidate failed and was reverted; one 12 px lift continuation requested 13:16Z and queued13:38:05Z, execution not observed. Source proof may proceed independently; browser work waits for keeper handback. SEO remains in its original lane."
     },
     {
       "stage": "Tests",
@@ -17,16 +17,16 @@
     {
       "stage": "Review",
       "state": "Unknown",
-      "evidence": "Footer #4700 and product-page #4703 passed their original reviews and are merged. Companion picker #4714 also passed review and is installed. Big Bag and SEO still need their remaining release checks. Final website ratings remain 0/3."
+      "evidence": "First Look and #4743 consumed their original code reviews and are merged/installed. Separate title-overlap work and SEO retain their original review paths. Final website ratings remain 0/3."
     },
     {
       "stage": "Deployed",
       "state": "Verified",
-      "evidence": "Footer, product-page and companion-picker CSS are installed and byte-verified; preservation passed at 18:51Z, 19:18Z and 21:35Z respectively. Unrelated assets, the live theme, roles and settings remain unchanged. This is the unpublished draft; rendered, native, connected and final-rating acceptance remains open."
+      "evidence": "First Look and reviewed Big Bag CSS are installed and byte-verified; Big Bag preservation verified13:22:23Z and census adopted13:27:53Z. Unrelated assets, live theme, roles and settings remain unchanged. Rendered, native, connected and final-rating acceptance remain open."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original setup owner ran one no-tools arithmetic/readiness check from 12:15:33Z to 12:15:44Z; it returned 391 and ready, with reported execution duration 4.786 seconds. Client logs show the explicit High model override; the output itself has no server model attestation. Studio source validation consumed the advisory once without new code, tests or review rounds. First Look installation and preservation remain verified; counts stay 6/11, 0/3 and 0/7.",
+  "lastActualProgress": "Big Bag hosted bytes verified at 13:21:14Z, preservation at 13:22:23Z and installed-source census adopted at 13:27:53Z. The live theme and private-off state are preserved. Public exhibit publication 7e216dee and all ten served files were verified at 13:33:00Z; this adds no product acceptance or rating credit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -129,9 +129,9 @@
     ],
     [
       "11. BIG BAG page and navigation",
-      "Narrow repair installed — bounded desktop checks passed",
-      "Normal 380px/1280px BIG BAG fits and Plus opens options. At 188px, product/sort text compresses and page width is 189px. The footer repair is now installed and byte-verified; its targeted desktop footer check passed21:51Z; this does not close BIG BAG names/sort or native acceptance.",
-      "Original owners resolve the narrow findings and remaining releases; native and final qualification remain open."
+      "Reviewed CSS installed — changed-source acceptance open",
+      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate title-overlap candidate failed and was reverted.",
+      "Original title writer continues the requested 12 px lift; rendered, native and final qualification remain open."
     ]
   ],
   "completed": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The harmless CLI check proves bounded execution, not source review or a final rating. Its model selection is supported by client logs, without independent server attestation. The extension panel still defaults to Medium; High was explicit for the CLI check. The fourth-seat runner is being prepared, database access remains disconnected, and original rendered/native/connected/final-reader prerequisites remain open.",
-  "current": "The Argon contribution exhibit is ready for publication after desktop and phone browser review. It distinguishes adopted advice, owner-corrected findings, implementation and verified outcomes across Ad Brain, Studio, Website and Shopping Companion. Existing website delivery remains 6/11, final ratings 0/3 and native checks 0/7.",
-  "next": "Publish the reviewed exhibit once and verify exact served files. Then consume the additional Website response through its original conversation and continue original repair, rendered, native, connected and final-reader obligations.",
-  "updated": "2026-10-22T12:44:35.408839+00:00",
+  "remaining": "The separate title-overlap repair and source-bound rendered, native, connected and final-reader evidence remain open. The shared runner implementation is complete, but four integration corrections remain and its first attended product execution is unverified. Database access remains disconnected.",
+  "current": "Reviewed Big Bag CSS is installed in the unpublished draft, with exact hosted bytes and preservation verified. The separate title-overlap repair remains with its original writer. The Argon exhibit is published and verified, including the additional embedding investigation. Delivery remains 6/11, final ratings 0/3 and native checks 0/7.",
+  "next": "Complete affected desktop checks on the already installed #4743/#4744 source independently of the title repair. The browser route was unavailable at 13:34Z; the original keeper’s safe-boundary handback was requested, with next check at 13:50Z or handback. In parallel, the original title writer can continue source proof from its queued 12 px lift brief.",
+  "updated": "2026-10-22T13:40:18.461147+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The new Argon evidence exhibit covers Ad Brain, Studio, Website and Shopping Companion. Select a system and follow a finding through its original owner, implementation and verified outcome. Optional animation explains the sequence; it does not report live activity.",
-    "Desktop and phone browser review passed after one heading correction. At the actual 384 px viewport, page scroll width fell from 506 px to 384 px. Product selectors, stage controls, disclosure, playback, keyboard access and reduced motion were checked; this is not native acceptance.",
-    "Studio source validation corrected two excerpt-based findings. Companion owner validation reinforced boundary checks and separated read-only verification from recovery, while correcting two assumptions. New attributable implementation remains unverified.",
-    "Ad Brain's advisory is adopted without a claimed implemented lift. Website's additional response is awaiting collection; no resend is required. The fourth-seat runner is being prepared, with no product review executed through it yet. Database access remains disconnected.",
-    "First Look remains installed and source-verified in the unpublished draft. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; private features stay off. Original repair, rendered, native, connected and final-reader obligations remain open."
+    "Reviewed Big Bag CSS is installed in the unpublished draft. Exact hosted bytes, preservation and source-census adoption are verified; the live theme remains unchanged. Separate title overlap and rendered/native/final-rating acceptance remain open.",
+    "The original title writer’s first fit-width candidate failed and was reverted. One 12 px lift continuation requested at 13:16Z was placed in the original launcher at 13:38:05Z; execution is not yet observed. Source proof can proceed independently of browser handback. The original request age and owner remain intact.",
+    "The shared runner implementation finished at 13:03Z. Four integration corrections are with its original writer; first attended product execution through that runner remains unverified. A separate Ad Brain full read is invalid for scoring, with findings only as leads pending original source checking.",
+    "The animated Argon exhibit is published and served-byte verified. Its four core systems remain intact; an additional embedding investigation distinguishes the current FashionSigLIP endpoint from dated EmbeddingGemma lab evidence. Argon feedback is pending; current lab activity, cost and benefit remain unknown.",
+    "Storefront repairs and draft checks continue with Sol 6.1 support under original building and review ownership. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. No Argon lift is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -234,19 +234,19 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; the footer repair is now installed, with its bounded footer visual check passed21:51Z. Native and final qualification remain open.",
-      "next": "The original narrow names/sort repair is PR #4743; consume its original hosted voice-timeout diagnosis, remaining checks, reviews and chair queue disposition. Footer and product-page source releases are installed; original acceptance owners complete the changed-source visual, native and final checks."
+      "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title-overlap candidate failed and was reverted.",
+      "next": "Check the already installed source independently when browser custody returns. The original writer’s 12 px lift continuation is queued from 13:38:05Z; source proof may proceed, with execution unverified and next inspection 13:55Z. Its own review/release and acceptance remain separate."
     }
   ],
   "timedPlan": {
     "steps": [
       {
         "complete": true,
-        "text": "Qualified source and measurement returns accepted (completed 05:51Z; original run times retained in evidence). The 58-file source matches; header arrival failed, no-JavaScript link passed, and contrast remains unmeasured."
+        "text": "Qualified source and measurement returns accepted (completed 05:51Z; original run times retained in evidence). The 58-file source matches; header arrival failed, no-JavaScript link passed, and contrast was unmeasured at that return; the later 1280 px result appears below."
       },
       {
         "complete": true,
-        "text": "First Look corrected head published and original remote proof/first approval verified (first approval 06:26Z; exact proof duration unknown). Ready/open, not merged or installed."
+        "text": "First Look corrected head published and original remote proof/first approval verified (first approval 06:26Z; exact proof duration unknown). This was the earlier Ready milestone; its later merge and installation are recorded below."
       },
       {
         "complete": true,
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "First Look installed-source rendered acceptance remains pending (duration unknown; next action through the original acceptance owner). No native or rating credit from installation."
+        "text": "First Look installed-source desktop checks: independent of title repair, waiting on browser route/keeper handback since actual unavailability 13:34Z (next check 13:50Z or handback; duration unknown). No native or rating credit from installation."
       },
       {
         "complete": true,
@@ -294,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Original Big Bag page repair: placed once and acknowledged 11:40:35Z; execution unverified (request since 11:18Z; placement/acknowledgment wait closed; duration unknown; next check on original execution/result)."
+        "text": "Original Big Bag title-overlap repair: first fit-width candidate failed and was reverted; one 12 px lift continuation requested 13:16Z and placed in original launcher 13:38:05Z, execution not yet observed (original request since 11:18Z; earlier placement acknowledged 11:40:35Z; duration unknown; next check 13:55Z or original result). Source proof may proceed; browser measurements wait for keeper handback."
       },
       {
         "complete": false,
@@ -321,8 +321,12 @@
         "text": "Original voice-test proof and source publication complete (keeper 10:09Z–10:18:37Z, took about 10 min; forced proof 10:34:04Z–10:34:51Z, took 47 sec). 75 + 3 tests, 73/73 pins and both real-route named timeout failures proved; clean source 1e57db3c pushed."
       },
       {
+        "complete": true,
+        "text": "Reviewed #4743 named fixes merged and installed in the unpublished draft (hosted bytes verified 13:21:14Z; preservation 13:22:23Z; census adopted 13:27:53Z; full elapsed duration unknown). Required original code reviews consumed; live theme unchanged."
+      },
+      {
         "complete": false,
-        "text": "Voice #4743 original named fixes running after critical review rejection 11:22:22Z: narrow WhatsApp clearance and missing 188/195 px assertions (duration unknown; original holder retained; next check on original return)."
+        "text": "Big Bag installed-source desktop checks: independent of title repair, waiting on browser route/keeper handback since actual unavailability 13:34Z (next check 13:50Z or handback; duration unknown). Separate title repair retains its own source/review/measurement path. Installation grants no native or final-rating credit."
       },
       {
         "complete": false,
@@ -361,8 +365,16 @@
         "text": "Original research setup connected and one harmless CLI check completed (12:15:33Z-12:15:44Z, took 11 sec elapsed; reported execution 4.786 sec). Explicit High selection supported by client logs; panel default remains Medium."
       },
       {
+        "complete": true,
+        "text": "Shared runner implementation completed (13:03Z; duration unknown). This is implementation evidence only."
+      },
+      {
         "complete": false,
-        "text": "Fourth-seat runner being prepared; no product review executed through it yet (duration unknown; next action remains with original setup owner). Database remains disconnected; no database grant or activation."
+        "text": "Shared runner integration corrections: four items with original writer since 13:16Z; bounded reconciliation 13:31Z, next check 13:46Z (duration unknown). First attended product execution through that runner is unverified; database remains disconnected."
+      },
+      {
+        "complete": false,
+        "text": "Separate Ad Brain full-read source checking: owner marked the read invalid for scoring at 13:22Z; findings are leads only (duration unknown; original owner disposition pending)."
       },
       {
         "complete": false,
@@ -374,18 +386,34 @@
       },
       {
         "complete": true,
-        "text": "Check semantics and hand local preview to Root (12:34Z-12:37Z, took 3 min). Links, privacy scan, syntax and interaction logic checked; local HTTP bytes exact. Browser/render acceptance remains pending."
+        "text": "Check semantics and hand local preview to Root (12:34Z-12:37Z, took 3 min). Links, privacy scan, syntax and interaction logic checked; local HTTP bytes exact. Initial browser review followed below."
       },
       {
         "complete": true,
         "text": "Root desktop/phone, keyboard and reduced-motion review and phone-heading correction complete (12:34Z-12:43Z, took about 9 min). Actual CSS384 viewport now has384 scroll width; no native claim."
       },
       {
+        "complete": true,
+        "text": "Publish reviewed Argon exhibit and verify exact served files (12:43Z–12:48:59Z, took about 6 min). Initial publication and all ten files exact."
+      },
+      {
+        "complete": true,
+        "text": "Publish approved Ad Brain evidence follow-up (12:53Z–12:54:57Z, took about 2 min). Two accepted evidence follow-ups and one deferred finding; no implemented lift."
+      },
+      {
+        "complete": true,
+        "text": "Publish additional embedding investigation and qualified installation/runner wording (13:30Z–13:33:00Z, took about 3 min). Exact Pages commit and all ten files verified; phone 372/372 px and desktop 1293/1293 px showed no overflow."
+      },
+      {
+        "complete": true,
+        "text": "Reconcile main dashboard, source and timed plan for Root review (13:34Z–13:40Z, took about 6 min). Root checked installed-source status and independent desktop-check path."
+      },
+      {
         "complete": false,
-        "text": "Publish reviewed Argon exhibit and verify exact served files (started 12:43Z, est. 4 min). One authorized push; matching Pages and ten public files."
+        "text": "Publish the approved main-dashboard update and verify exact served files (started 13:40Z, est. 4 min). One push; matching Pages and ten public files."
       }
     ],
-    "landing": "Lands: verified public exhibit about 12:47Z (4 min left; Pages propagation may move it). Whole-goal completion remains unknown."
+    "landing": "Lands: verified main-dashboard update about 13:44Z (4 min estimate from 13:40Z; Pages propagation may move it). Whole-goal completion remains unknown."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
