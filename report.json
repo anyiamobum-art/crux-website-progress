@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title job finished successfully at17:40Z. No duplicate run or writer. Read-only support is checking the retained browser-helper inputs; Hands owns browser handback and protected publication. Shopify remains unpublished.",
+  "workerState": "The title’s remote job completed at17:40Z. Its helper correction was sent to the original writer through Hands at17:45Z; no acknowledgement or browser release appeared by18:00Z. The independent settings read completed. No duplicate writer or review; Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The title keeper finished at17:40Z with19 passing tests and all21 selected regression checks. Public execution snapshot4f31106 was built and its five served files verified at17:42Z. An intake check caught the historical ink helper’s wrong-page and trial-style bindings before a capture.",
+  "lastActualProgress": "At17:55–17:59Z, four Shopify reads established current location, delivery, pickup and privacy flags; a fifth returned an explicit checkout-branding denial. Pickup wording was prepared by18:00Z. The prior green-proof page built successfully and all five files were verified served exactly at17:48Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,7 +130,7 @@
     [
       "11. BIG BAG page and navigation",
       "Reviewed CSS installed — changed-source acceptance open",
-      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate 12 px title lift returned at14:06Z; remote and browser proof remain.",
+      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate12px title lift returned at14:06Z and passed its remote proof at17:40Z; source-correct browser proof remains.",
       "Original proof, review and installation for the title lift; installed-source desktop, native and final qualification remain open."
     ]
   ],
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Candidate overlap measurement needs the actual candidate-bound helper and explicit Website Chrome handback. The last native window ended17:30Z; no Website handback has been supplied. Remote work and pushes are allowed during native windows. Native, connected and original final-reader acceptance remain open.",
-  "current": "Big Bag’s original remote proof passed on the exact candidate:19 tests and21 selected regression safeguards. The candidate still needs browser measurement before review, merge and installation. The old ink helper was found to load an earlier page and trial adjustment; its source binding is being corrected through the original owner. Delivery remains6/11, final passes0/3 and native checks0/7.",
-  "next": "Correct only the old capture helper’s source binding through its original owner; measure the candidate after Chrome handback, then proceed through review and merge. Collect the earlier accepted Website advisory answer without resending. Header and SEO repairs remain with their original keepers.",
-  "updated": "2026-10-22T17:44:37.530868+00:00",
+  "remaining": "Candidate proof needs a source-correct helper and explicit Chrome handback. The latest allocation holds new Mac lanes until18:16Z because of swap pressure. Checkout-branding API access was denied; those values remain unverified. Native, connected and original final-reader acceptance remain open.",
+  "current": "Big Bag’s exact candidate passed19 tests and21 regression safeguards. Its old measurement helper needs correction before browser proof. In parallel, the Shopify settings audit advanced through the existing API and pickup wording is prepared; no settings were changed. Delivery remains6/11, final passes0/3 and native checks0/7.",
+  "next": "The original writer corrects the capture helper; Hands releases a Website browser slot for candidate and installed-source checks. Inspect the existing consent integration and original Admin findings before settings edits. Collect the earlier Website advisory answer without resending. Header and SEO work remain with their original keepers.",
+  "updated": "2026-10-22T18:01:50.293956+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
+    "The parallel Shopify audit now has current API readback and prepared pickup wording. Location and delivery flags are verified; consent behavior still needs browser proof, and checkout-branding values were denied by the API. No settings changed and no delivery gate was marked complete from this audit.",
     "The original title-proof job finished at17:40Z:19 tests and all21 selected regression safeguards passed. Browser proof, review, merge and installation remain owed. The old ink helper’s historical page and trial-style bindings were caught before capture and sent to the original writer for correction. No duplicate job was started.",
     "The first accepted marketing recommendation now has returned source: an API upper-bound flag and explanation. The on-screen explanation and wallet change remain pending. No review, merge, deployment or measured-benefit credit is claimed.",
     "The source audit checked 112 advisory claims: 41 confirmed fully or partly, 44 refuted wholly or in their mechanism, 3 already fixed and 24 not checkable. Two uncovered recommendations were accepted into the original marketing build plan. This is not a quality score or shipped improvement.",
-    "The repaired review route completed four supervised advisory calls at16:44–16:48Z. Client logs recorded High for each call, and the chair admitted the route at16:49Z. Advice is not a quality score, shipped work or measured improvement. The original Website response still needs collection; the embedding advisory remains prepared and unsent pending its own placement.",
-    "Remaining measurement obligations are reconciled. The earlier public journey and desktop contrast runs are complete. Desktop frame timing, modal interruption and whole-journey coverage retain their precise missing evidence; completed measurements will not be replayed. Historical signed-buyer and populated-bag context exists. Its current availability needs a read in the retained browser session; no login, session transfer or cart mutation is implied. Shopify remains unpublished."
+    "The repaired review route completed four supervised advisory calls at16:44–16:48Z. Client logs recorded High for each call, and the chair admitted the route at16:49Z. Advice is not a quality score, shipped work or measured improvement. The original Website response still needs collection; the embedding advisory remains prepared and unsent pending its own placement."
   ],
   "openDeliveryGates": [
     {
@@ -366,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; next keeper event or17:50Z; collection est.5 min)."
+        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; original18:00Z inspection found no handback; next keeper event or18:16Z; collection est.5 min)."
       },
       {
         "complete": true,
@@ -378,14 +378,22 @@
       },
       {
         "complete": false,
-        "text": "Correct the original capture intake and bind the actual candidate (started17:45Z, est.8 min; old ink helper loads an earlier page and an8px trial). No browser run yet."
+        "text": "Waiting on original capture-helper correction since17:45Z (next check18:16Z; repair est.8 min after placement). Old helper loads an earlier page and an8px trial; original writer request is unacknowledged and the Mac lane cap is0 until18:16Z."
+      },
+      {
+        "complete": true,
+        "text": "Publish the completed remote-proof result and next measurement prerequisite (17:44Z–17:48Z, took4 min; matching build complete, five files served exactly; rendered view unverified)."
+      },
+      {
+        "complete": true,
+        "text": "Read current Shopify configuration through the existing API and prepare scoped refinements (17:54Z–18:00Z, took6 min; four successful read operations and one exact branding-access refusal; no settings changes)."
       },
       {
         "complete": false,
-        "text": "Publish the completed remote-proof result and next measurement prerequisite (est.5 min)."
+        "text": "Publish the settings-audit progress and refreshed remaining steps (started18:02Z, est.5 min)."
       }
     ],
-    "landing": "Lands: refreshed green-proof checklist about17:55Z (8 min; hosting may delay readback). Candidate browser checks take15 min after explicit handback and original helper binding. Full draft completion remains unknown; Shopify remains unpublished."
+    "landing": "Lands: refreshed settings checklist about18:07Z (5 min; hosting may delay readback). Candidate browser checks take15 min after explicit handback and original helper correction. Full draft completion remains unknown; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -396,10 +404,10 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish scoped settings refinements (first resource wait 08:48Z; next check at the shared-browser handback and release quiet point; duration unknown). First checks finished 12:28Z–12:34Z: policy unchanged, size-chart activation left off, eligible old alerts cleared. The remaining address, pickup, delivery, consent and brand settings await their authorized quiet point. The upstream slow-report repair has merged. The original SEO head still awaits the already-authorized main integration through its existing keeper; no duplicate writer or push."
+        "text": "Waiting — Finish scoped settings refinements (first resource wait08:48Z; current API read17:55Z–17:59Z, took4 min; next original browser event or18:16Z). Location and delivery flags are verified, pickup wording is prepared, and consent integration still needs browser proof. Checkout-branding API access was denied. No settings changed; original SEO integration remains with its keeper."
       }
     ],
-    "landing": "Lands: audit complete. Settings completion is not yet timed because the required browser and release quiet point is unconfirmed. Draft release continues independently; no live theme publication.",
+    "landing": "Lands: current configuration read and wording prepared. Remaining browser/settings completion is unknown until the original browser release and field-specific review. Draft release continues independently; no live theme publication.",
     "basis": "Separate track: one of two steps complete. The read-only audit is verified; settings refinements remain unapplied. This adds no delivery-gate credit."
   },
   "petEvidence": {
