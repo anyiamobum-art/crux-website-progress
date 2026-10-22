@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The header wording report is consumed: clean source is confirmed, but no remote branch or PR exists. Its original publication handoff is retained. The original review-runner writer resumed at15:46:52Z; no result is returned yet. The shared review instructions now explicitly use supplied text without tools. Studio entered the current shared Mac hold at15:49:41Z; remote proof can continue with its original owner.",
+  "workerState": "The header wording report is consumed: clean source is confirmed, but no remote branch or PR exists. The original Argon repair logged ECONNRESET, observed at16:17Z; its process was still present and no result had returned. This is an uncertain attempt, not a completed repair. Original title remote proof, header publication and SEO integration retain their existing owners.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The public report and animated exhibit are hosted exactly and rendered at16:00Z. The publisher now keeps its embedded evidence and content-versioned script together, preventing the stale-card issue found during verification. The original runner repair is active, and the late header/title reports are reconciled without duplicate work. No product acceptance or rating credit is added.",
+  "lastActualProgress": "The latest task report was served exactly at16:13Z. The prior animated exhibit was hosted and visibly verified at16:00Z. The original runner changed source and its self-test at15:49Z and15:54Z, then logged a connection error. No product acceptance or rating credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "The title repair still needs full remote and rendered proof. Disk capacity recovered at15:46Z; Studio holds the current shared Mac window. Website Chrome restoration and explicit handback are unverified. Native, connected and original final-reader acceptance remain open. Database access remains disconnected.",
-  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair awaits full remote and browser proof. The original Argon runner repair started at15:46:52Z after its first supervised trial stopped before product evidence. The embedding advisory remains unsent. Delivery remains6/11, final rating passes0/3 and native checks0/7.",
+  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair awaits full remote and browser proof. The original Argon repair has logged a connection error; its process remains present and its outcome is unknown. The original keeper has been asked to reconcile that attempt before any retry; acknowledgement is pending. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
   "next": "Complete the installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The original review-runner writer must fix the text-only instructions and denied-command handling before Hands conducts the next supervised advisory. Marketing and the prepared embedding advisory retain their own source and placement gates.",
-  "updated": "2026-10-22T16:01:20.297281+00:00",
+  "updated": "2026-10-22T16:20:50.391760+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -302,11 +302,11 @@
       },
       {
         "complete": false,
-        "text": "Waiting for the original review-transport repair after the supervised run stopped (since15:30:57Z; abandonment confirmed15:35:55Z; original repair started15:46:52Z; next original result or16:10Z). The embedding advisory remains unsent."
+        "text": "Waiting for the original review-transport repair after the supervised run stopped (since15:30:57Z; abandonment confirmed15:35:55Z; original repair started15:46:52Z; network error observed16:17Z with process still present; keeper reconciliation due on original result or16:40Z). The embedding advisory remains unsent."
       },
       {
         "complete": false,
-        "text": "Waiting on Chrome handback since13:34Z (original keeper asked14:55Z; disk recovered15:46Z, Studio holds the current shared window, next check16:10Z). Existing installed-source and title checks follow (est.15 min)."
+        "text": "Waiting on Chrome handback since13:34Z (original keeper asked14:55Z; disk recovered15:46Z, Studio holds the current shared window, next check16:40Z). Existing installed-source and title checks follow (est.15 min)."
       },
       {
         "complete": true,
@@ -318,7 +318,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original header/SEO publication and integration dispositions (header report and branch checked15:39Z; no remote branch or PR; next original result or16:10Z; no duplicate writer)."
+        "text": "Waiting on original header/SEO publication and integration dispositions (header report and branch checked15:39Z; no remote branch or PR; network error observed16:17Z with process still present; keeper reconciliation due on original result or16:40Z; no duplicate writer)."
       },
       {
         "complete": true,
@@ -343,9 +343,13 @@
       {
         "complete": true,
         "text": "Publish and verify the changed review blocker (15:40Z–16:00Z, took20 min; fixed stale embedded evidence and browser caching, all four hosted files exact and both pages rendered)."
+      },
+      {
+        "complete": true,
+        "text": "Reconcile the due report and original repair attempt (16:12Z–16:21Z, took9 min; public report served exactly, new connection error referred to the original keeper)."
       }
     ],
-    "landing": "Lands: public update verified at16:00Z. Next original result or handback check16:10Z (10 min; dependent on original owners). Installed-source browser checks take about15 min after handback. Full draft completion remains unknown pending repairs, native proof and original ratings; Shopify remains unpublished."
+    "landing": "Lands: existing public update verified at16:00Z; later report verified at16:13Z. Changed blocker update in progress (started16:21Z, est.5 min). Original keeper result or next check16:40Z; installed-source browser checks take about15 min after handback. Full draft completion remains unknown pending repairs, native proof and original ratings; Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
