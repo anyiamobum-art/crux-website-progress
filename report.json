@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title writer finished at 14:06Z and the review-runner correction returned by 15:03Z. Root verified its four corrections and prepared the embedding advisory at 15:13Z without sending it. The original shared-resource handoff was delivered at 14:55Z and checked at 15:12Z; no matching Chrome handback was found. The additional accepted Website advisory response will be collected, not resent.",
+  "workerState": "The title writer finished at 14:06Z and the review-runner correction returned by 15:03Z. Root verified its four corrections and prepared the embedding advisory at 15:13Z without sending it. The original shared-resource handoff was delivered at14:55Z and checked at15:27Z; no matching Chrome handback was found. A second native window did not open because free disk failed its required gate; heavy Mac starts are held with the original resource keeper. The additional accepted Website advisory response will be collected, not resent.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The contribution update130c3f1 was served-byte verified at15:09Z and rendered. The corrected runner’s four integration repairs were verified at15:05Z; the embedding advisory’s four chunks were prepared at15:13Z and inspected. Existing draft installations remain byte-verified. No final acceptance or rating credit is added.",
+  "lastActualProgress": "The public status update e7c98d9 was served-byte verified at15:24:52Z and rendered by15:27Z. Five changed files match the committed source. The original resource destination was checked at15:27Z: the attempted native window did not open because its disk gate failed. No Website handback or new source-proof result is verified; no acceptance or rating credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "The title repair still needs full remote and rendered proof. The shared native window closed at 14:54:34Z; Website Chrome restoration and explicit handback are not yet verified. Native, connected and original final-reader acceptance remain open. Database access remains disconnected.",
   "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair is source-ready and awaits full remote and browser proof. Argon’s corrected review runner has returned and its four integration fixes are checked; the embedding advisory is prepared with no provider call. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
-  "next": "Complete the installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The first supervised review-runner execution remains with the original Ad Brain owner; the prepared embedding advisory follows its admitted route.",
-  "updated": "2026-10-22T15:18:00.742895+00:00",
+  "next": "Complete the installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The first supervised advisory now belongs to the existing Money owner under the latest chair ruling. Marketing follows its frozen source; the prepared embedding advisory awaits its own disposition.",
+  "updated": "2026-10-22T15:29:03.995650+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -302,11 +302,11 @@
       },
       {
         "complete": false,
-        "text": "Waiting for the original supervised product review and the embedding advisory’s first-run disposition (since15:16Z; next check on original result or15:30Z; duration unknown)."
+        "text": "Waiting for the original supervised advisory run and the embedding advisory’s separate disposition (since15:16Z; latest owner acknowledgment15:25Z; next check on original result or15:45Z; duration unknown)."
       },
       {
         "complete": false,
-        "text": "Waiting on Chrome handback since13:34Z (native lock released14:54Z; original keeper asked14:55Z, original destination checked15:12Z, next check15:25Z). Existing installed-source and title checks follow (est.15 min)."
+        "text": "Waiting on Chrome handback since13:34Z (native lock released14:54Z; original keeper asked14:55Z, original destination checked15:27Z; disk gate failed, next check15:45Z). Existing installed-source and title checks follow (est.15 min)."
       },
       {
         "complete": true,
@@ -318,7 +318,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original header/SEO publication and integration dispositions (next check after native-window END; no duplicate writer)."
+        "text": "Waiting on original header/SEO publication and integration dispositions (checked15:27Z; next original result or15:45Z; no duplicate writer)."
       },
       {
         "complete": true,
@@ -329,11 +329,11 @@
         "text": "Publish and verify the contribution update (14:55Z–15:12Z, took17 min; hosting queued until15:06Z, four changed files exact and rendered)."
       },
       {
-        "complete": false,
-        "text": "Publish the returned-runner status and corrected title checklist (started15:18Z, est.7 min)."
+        "complete": true,
+        "text": "Publish and verify the returned-runner status and corrected title checklist (15:18Z–15:27Z, took9 min; five files exact and both pages rendered)."
       }
     ],
-    "landing": "Lands: updated public status about15:25Z (7 min left at15:18Z; hosting propagation may move it). Browser checks follow the original explicit Chrome handback; full draft completion remains unknown pending repairs, native proof and original ratings. Shopify remains unpublished."
+    "landing": "Lands: public update verified15:27Z. Installed-source browser checks take about15 min after the original Chrome handback; full draft completion remains unknown pending repairs, native proof and original ratings. Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
