@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original measures 1/5/6 remote job completed with exit 0 at 09:55:22Z. Its source was clean: all 56 assets loaded on this collection page matched the qualified 58-file manifest; the two Big Bag assets were not requested here. The desktop contrast continuation handoff is delivered, with execution unverified. First Look recovery is in its original inbox, with no execution claim. Header wording and the original voice custody correction retain their existing waits.",
+  "workerState": "The existing voice-repair publisher is in its remote keeper stage on the returned source. Its current output records 75 voice tests and three Big Bag tests passing, declaration complete, and causal checks executing. The prior remote-custody refusal is resolved by the original holder continuation. No duplicate job or new publication is inferred. Measures 1/5/6 are terminal; the contrast continuation has been delivered but execution remains unverified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original remote measurement run completed from 09:54:59Z to 09:55:22Z; Root independently verified all 39 returned files. After settling, 1,025 recorded frames had a maximum interval of 33.3 ms and no interval above 50 ms. Startup layout shift remains 0.1086; this is partial browser evidence, not a score or full pass. First Look recovery placement was verified at 10:00Z.",
+  "lastActualProgress": "The voice-test repair returned on local head 1e57db3c. Its original keeper output records 75 voice tests passing in 12.95 seconds and three Big Bag tests passing in 24.16 seconds; causal execution has begun. The 3-second and 4-second limits and all assertions are unchanged. No pre-test garbage-collection change or root-cause fix is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The returned evidence does not establish a full measurement pass. Startup layout shift is 0.1086, the desktop timing cause remains unresolved, the close-interruption interaction is obstructed, and full journey and native evidence remain incomplete. Contrast, original release/review work, connected acceptance and final-reader evidence are still open.",
-  "current": "The original remaining-measurements run has returned, and all 39 evidence files were independently verified. Measure 1’s earlier failure stands with the desktop cause unresolved. Measure 5 is partial: the open panel blocks its launcher until closing finishes. A permitted 21.56-second public journey segment is recorded; the whole journey remains unmeasured.",
-  "next": "The next handoff was delivered at 10:04:09Z: promote the original staged desktop contrast correction for one 1280 px capture, reconcile the original phone-overlap handoff, and route the obstructed close interaction to its original companion owner. Acknowledgment is due at 10:22Z; no new run has started. The unresolved desktop timing cause remains for the existing GPU/native check, with no rerun merely to obtain a passing number. First Look’s recovery brief is now placed with its original holder; execution remains unverified.",
-  "updated": "2026-10-22T10:04:18.683081+00:00",
+  "remaining": "The new voice-test source is not yet verified pushed. Existing remote checks and two named real-route timeout failures remain required; normal passing tests do not prove those failure diagnostics. The original timeout cause, partial measurement results, contrast, release/review work, native and connected acceptance, and final-reader evidence remain open.",
+  "current": "The original voice-test diagnostic repair has returned on clean local source. Its existing remote keeper has passed all 75 voice tests and three Big Bag tests, and causal pin execution is underway. The repair identifies which timeout expired; it does not establish or fix the original timeout cause.",
+  "next": "Finish the existing keeper and the two required forced timeout failures on the real route with its database fixture before publication. The original writer’s stand-in finish test does not satisfy that condition. Hands received this condition at 10:09:59Z; acknowledgment is due at 10:25Z. Continue the separately delivered contrast and companion dispositions through their original owners.",
+  "updated": "2026-10-22T10:11:53.204980+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original remaining-measurements run completed at 09:55:22Z with exit 0. Root independently verified all 39 evidence files. All 56 assets loaded on the collection page matched the qualified 58-file manifest; the two Big Bag assets were not requested on this page. No dirty or invalid source was found.",
-    "Measure 1’s earlier failure stands. Analysis rules out the initial page probe as the cause of the desktop failures, but product rendering cost versus the remote rendering environment remains unresolved. No retiming, subtraction or pass credit was added.",
-    "Measure 5 is partial. Close duration, final selection and local reduced-motion behavior were recorded. The open panel covers the launcher until closing finishes, so reopening during close could not be exercised with a pointer. No forced interaction was used; the original companion owner needs a product decision.",
-    "Measure 6 records the permitted 21.56-second public segment. After settling, 1,025 frames had a maximum interval of 33.3 ms and no interval above 50 ms. Startup layout shift remains 0.1086; the first 655 ms of frames were not measurable. Populated bag, same-account order return, native and private flows remain excluded, so the whole journey stays NOT_MEASURED.",
-    "First Look’s original recovery brief was placed at 10:00Z, closing the placement wait; execution is not yet verified. P684 #4758 remains published Draft with its queue admission wait. The original desktop contrast and companion product-decision handoff was delivered at 10:04:09Z, with acknowledgment due 10:22Z; no new run is claimed, and phone title-box overlap remains open. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The draft remains unpublished and its private assistant off. No measurement return adds review, merge, installation or final-score credit."
+    "The original voice-test repair has returned on clean local head 1e57db3c. This is a test-only change that names the expired wait and records diagnostic task state. The 3-second and 4-second limits and every assertion remain unchanged; no pre-test garbage-collection change was added. The original timeout cause remains unproved.",
+    "The existing remote keeper passed all 75 voice tests and three Big Bag tests on that source. Declaration is complete and causal pin checks are executing. This is partial remote proof, not a completed keeper, hosted pass or publication.",
+    "Before publication, both forced named timeout failures must be demonstrated on the real route with its database fixture. The original writer’s stand-in finish test does not prove that requirement. Hands received the condition at 10:09:59Z, with acknowledgment due at 10:25Z; the same existing job and owner retain custody.",
+    "The former voice remote-custody refusal is resolved by the original continuation. The PR was last verified Ready and open on its prior source at 10:09Z; the returned repair is not yet verified pushed. First Look’s recovery remains placed with execution unverified, and P684 #4758 retains its Draft admission wait.",
+    "The accepted measurement return remains unchanged: measure 1 FAIL, measure 5 PARTIAL, and the permitted public segment recorded while the whole journey stays NOT_MEASURED. The contrast and companion handoff was delivered at 10:04:09Z, with execution unverified. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; the draft remains unpublished with its private assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -286,7 +286,7 @@
       },
       {
         "complete": false,
-        "text": "Original Ask diagnostic follow-up: holder refused execution without a remote claim; Hands has requested the existing chair custody correction, with no relaunch or execution proof (duration unknown; next check on original result)."
+        "text": "Original voice-test repair: returned local source; existing remote keeper has 75 voice + 3 Big Bag tests passed and causal checks executing (duration unknown; real-route forced timeout proof still required). Condition delivered 10:09:59Z, acknowledgment check 10:25Z; prior custody refusal resolved."
       },
       {
         "complete": false,
@@ -298,10 +298,10 @@
       },
       {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 10:03Z, est. 4 min; Pages propagation may move it)."
+        "text": "Refresh and verify this public snapshot (started 10:11Z, est. 4 min; Pages propagation may move it)."
       }
     ],
-    "landing": "Lands: public snapshot about 10:07Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: public snapshot about 10:15Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
