@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The official Antigravity extension is connected and recognizes the subscribed tier; credit overages remain off. Workspace trust is confined to the explicitly approved isolated workspace. One harmless CLI check completed at 12:15:44Z. The staged fourth-seat runner has not executed. Companion advisory delivery is now confirmed with a response running; its earlier send had not completed. Studio original-owner full-source triage corrected two excerpt-based findings and retained the existing native evidence gap.",
+  "workerState": "Studio full-source triage and Companion owner disposition are complete. Website additional response is awaiting collection; no resend is required. The fourth-seat runner is being prepared; no product review has executed through it yet. Existing product work remains with its original owners.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The harmless CLI check proves bounded execution, not source review or a final rating. Its model selection is supported by client logs, without independent server attestation. The extension panel still defaults to Medium; High was explicit for the CLI check. The fourth-seat runner is staged, database access remains disconnected, and original rendered/native/connected/final-reader prerequisites remain open.",
-  "current": "The original research setup is connected and one harmless Argon High CLI check succeeded. First Look remains installed and source-verified in the unpublished draft. The Companion advisory prompt is now confirmed sent and its response is running; no final visual score is available.",
-  "next": "Consume the original Companion advisory response when it returns and finish the Website follow-up. Keep the staged fourth-seat runner unexecuted until its original owner proceeds within its scope. Continue original installed-source rendered acceptance, voice named fixes and the Big Bag repair before the remaining 380 px evidence.",
-  "updated": "2026-10-22T12:22:01.592061+00:00",
+  "remaining": "The harmless CLI check proves bounded execution, not source review or a final rating. Its model selection is supported by client logs, without independent server attestation. The extension panel still defaults to Medium; High was explicit for the CLI check. The fourth-seat runner is being prepared, database access remains disconnected, and original rendered/native/connected/final-reader prerequisites remain open.",
+  "current": "The Argon contribution exhibit is ready for publication after desktop and phone browser review. It distinguishes adopted advice, owner-corrected findings, implementation and verified outcomes across Ad Brain, Studio, Website and Shopping Companion. Existing website delivery remains 6/11, final ratings 0/3 and native checks 0/7.",
+  "next": "Publish the reviewed exhibit once and verify exact served files. Then consume the additional Website response through its original conversation and continue original repair, rendered, native, connected and final-reader obligations.",
+  "updated": "2026-10-22T12:44:35.408839+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Antigravity setup is connected through its original owner. The official extension recognizes the subscribed tier; credit overages remain off. Trust is limited to the explicitly approved isolated workspace, and database access remains disconnected.",
-    "One harmless Argon High CLI check succeeded at 12:15:33Z-12:15:44Z, returning 391 and ready. Reported execution took 4.786 seconds. Client logs support the explicit High selection; there is no independent server model attestation. The extension panel default remains Medium.",
-    "The fourth-seat runner brief is staged and has not executed. Studio's original-owner full-source triage corrected two excerpt-based findings; the native evidence gap remains. No new final visual score, implementation or review round is claimed.",
-    "Companion advisory delivery is now confirmed and its response is running; the earlier attempted send had remained unsent. Website follow-up remains in preparation. Studio, Marketing, Website and Companion remain the first workstream; AGI, People and Inventory stay staged for later.",
-    "First Look remains installed and source-verified in the unpublished draft, with preservation and census adoption complete. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; private features stay off. Rendered, native, connected and final-reader acceptance remain open."
+    "The new Argon evidence exhibit covers Ad Brain, Studio, Website and Shopping Companion. Select a system and follow a finding through its original owner, implementation and verified outcome. Optional animation explains the sequence; it does not report live activity.",
+    "Desktop and phone browser review passed after one heading correction. At the actual 384 px viewport, page scroll width fell from 506 px to 384 px. Product selectors, stage controls, disclosure, playback, keyboard access and reduced motion were checked; this is not native acceptance.",
+    "Studio source validation corrected two excerpt-based findings. Companion owner validation reinforced boundary checks and separated read-only verification from recovery, while correcting two assumptions. New attributable implementation remains unverified.",
+    "Ad Brain's advisory is adopted without a claimed implemented lift. Website's additional response is awaiting collection; no resend is required. The fourth-seat runner is being prepared, with no product review executed through it yet. Database access remains disconnected.",
+    "First Look remains installed and source-verified in the unpublished draft. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; private features stay off. Original repair, rendered, native, connected and final-reader obligations remain open."
   ],
   "openDeliveryGates": [
     {
@@ -354,7 +354,7 @@
       },
       {
         "complete": false,
-        "text": "Complete first-workstream research handoff (started 11:37Z; duration unknown). Studio source triage complete with native gap retained; Marketing follow-up ready; Companion advisory confirmed sent and response running; Website follow-up preparing. Actual GitHub code inspection remains unverified."
+        "text": "Complete first-workstream research handoff (started 11:37Z; duration unknown). Studio source triage complete with native gap retained; Marketing follow-up ready; Companion owner disposition complete; Website additional response awaiting collection. Actual GitHub code inspection remains unverified."
       },
       {
         "complete": true,
@@ -362,18 +362,30 @@
       },
       {
         "complete": false,
-        "text": "Fourth-seat runner staged, not executed (duration unknown; next action remains with original setup owner). Database remains disconnected; no database grant or activation."
+        "text": "Fourth-seat runner being prepared; no product review executed through it yet (duration unknown; next action remains with original setup owner). Database remains disconnected; no database grant or activation."
       },
       {
         "complete": false,
         "text": "Later research workstream: AGI, People and Inventory staged until the first handoff is working (activation time unassigned)."
       },
       {
+        "complete": true,
+        "text": "Build Argon contribution exhibit from existing evidence (12:28Z-12:37Z, took 9 min). Four systems, finding-to-result story, public-safe disclosures and optional motion."
+      },
+      {
+        "complete": true,
+        "text": "Check semantics and hand local preview to Root (12:34Z-12:37Z, took 3 min). Links, privacy scan, syntax and interaction logic checked; local HTTP bytes exact. Browser/render acceptance remains pending."
+      },
+      {
+        "complete": true,
+        "text": "Root desktop/phone, keyboard and reduced-motion review and phone-heading correction complete (12:34Z-12:43Z, took about 9 min). Actual CSS384 viewport now has384 scroll width; no native claim."
+      },
+      {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 12:21Z, est. 4 min). One publication, matching Pages success and six served-file checks."
+        "text": "Publish reviewed Argon exhibit and verify exact served files (started 12:43Z, est. 4 min). One authorized push; matching Pages and ten public files."
       }
     ],
-    "landing": "Lands: public snapshot about 12:25Z (4 min left; Pages propagation may move it). The whole draft has no defensible ETA while original repair, rendered, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: verified public exhibit about 12:47Z (4 min left; Pages propagation may move it). Whole-goal completion remains unknown."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
