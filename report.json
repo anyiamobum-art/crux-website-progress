@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original box run completed at 00:48:02Z on 22 October. It proved public access and unpublished theme identity, then stopped dependent measurements at the source gate. The original writer is finalizing; no final report was present at this check. Exit 0 is process completion, not acceptance.",
+  "workerState": "The original measurement job is terminal and its report has returned. Ten listed assets matched exactly; five mismatches have specific historical delivered-byte continuity. The remaining source differences are pending qualification. No measurement job is currently claimed to be running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 00:48:01Z on 22 October, the fresh remote page returned HTTP 200 and identified the target theme as unpublished. Source binding was false and all six measures returned NOT_MEASURED. No timing, contrast, journey, native or rating pass was added.",
+  "lastActualProgress": "The returned report records 55 listed referenced assets: 10 exact matches and 45 differences, plus one unlisted script. Five pet-script differences were independently linked to historical executed hashes, identical CDN URLs and current stored metadata. That bounded continuity does not qualify the whole page or add fresh execution proof.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Public preview access and draft identity are proved, but fetched-source qualification failed. All six requested measurements remain unmeasured. The exact mismatch is awaiting the original writer’s reconciliation; other repair, native and connected-acceptance prerequisites remain open.",
-  "current": "The original remote run reached the correct unpublished draft with HTTP 200. Source binding failed, so all six measurements stopped as NOT_MEASURED. The original writer is reconciling the exact mismatch and finalizing the report.",
-  "next": "Consume the same original writer’s source-mismatch explanation and final report before deciding any next measurement action. Keep the existing First Look, Big Bag and SEO handoffs with their original owners; no new run is started.",
-  "updated": "2026-10-22T00:49:16.709965+00:00",
+  "remaining": "Forty listed asset differences and one script outside the expected list still need source qualification. The extra script exists in the installed theme; its delivered bytes are not yet qualified. This is source uncertainty, not an authentication failure, so it does not trigger an automatic morning fallback.",
+  "current": "The original measurement report is complete: the run stopped at source qualification after proving access to the correct unpublished draft. All six measures remain NOT_MEASURED. The next action is to qualify captured delivered assets, not to repeat the run.",
+  "next": "Consume the existing raw evidence packet through the original Hands handoff and qualify the remaining delivered-source differences. The packet request is due at 01:10Z. No new measurement run is admitted; the existing repair handoffs continue unchanged.",
+  "updated": "2026-10-22T00:54:37.062929+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original remote run reached the correct unpublished draft in a fresh context: HTTP 200 and theme identity verified at 00:48:01Z on 22 October. Public access is now proved for that run.",
-    "Fetched-source binding failed. Options, startup/warm content, header, contrast, companion and journey measurements all returned NOT_MEASURED. The process’s successful exit does not establish acceptance.",
-    "The same original writer is reconciling the exact mismatch and finalizing its report; no report was present at this check. No new run, duplicate job or additional review was started.",
-    "First Look’s shared-home proof, Big Bag’s final-source 52-pin proof and SEO’s causal disposition remain with their existing original owners. Those handoffs are unchanged.",
-    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The assistant stays off, and the existing owner policy card still follows draft readiness."
+    "The original measurement report is complete and the job is terminal: access and unpublished draft identity passed, source qualification stopped the run, and all six measures remain NOT_MEASURED. No new measurement run is admitted.",
+    "Of 55 listed referenced assets, 10 matched exactly and 45 differed. Five pet-script differences have specific historical delivered-byte continuity; this is not whole-page identity or fresh execution proof.",
+    "Forty listed differences and one script outside the expected list still need qualification. That script exists in the installed theme. Possible CDN transformation remains a hypothesis until the relevant source and delivered bytes are qualified.",
+    "One original Hands request to copy the existing raw packet and support qualification was delivered at 00:53:14Z, due 01:10Z. No authentication failure was observed, so no automatic morning-access fallback applies. Other repair handoffs are unchanged.",
+    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The assistant remains off, and the existing owner policy card still follows draft readiness."
   ],
   "openDeliveryGates": [
     {
@@ -266,7 +266,7 @@
       },
       {
         "complete": false,
-        "text": "Remote draft measurements: original box run00:47:28Z–00:48:02Z on22Oct proved public access and unpublished theme identity; source binding failed, all six measures NOT_MEASURED. Waiting for original writer mismatch reconciliation/report (duration unknown; no new run; first delivery21Oct22:59:43Z and original due23:15Z retained)."
+        "text": "Remote draft measurements: original run terminal, report complete; access proved, source gate unresolved and all six measures NOT_MEASURED. Existing packet-copy/qualification request delivered00:53:14Z on22Oct, due01:10Z; remaining40 listed differences plus one unlisted script require qualification (duration unknown; no new run; first delivery21Oct22:59:43Z/original due23:15Z retained)."
       },
       {
         "complete": true,
@@ -285,7 +285,7 @@
         "text": "Final three independent named-fix ratings and draft handover: pending qualified evidence; no live publication."
       }
     ],
-    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due21Oct23:15Z retained; public access is proved, but source binding failed; next event is original writer mismatch reconciliation/report. SEO waits for original causal disposition; Big Bag waits for final-source proof; First Look waits for original shared-home proof before draft publication."
+    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due21Oct23:15Z retained; original report is complete, with source qualification pending; packet request due22Oct01:10Z. SEO waits for original causal disposition; Big Bag waits for final-source proof; First Look waits for original shared-home proof before draft publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
