@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "SEO has one failed shard and a failed aggregate gate, with shards 1–4 and pin-proof passed. Big Bag’s clean returned repair is awaiting the original proof/review route. First Look is running without a report. The original measurement job is preparing remotely; no source-qualified measurements are verified.",
+  "workerState": "First Look returned clean; one bounded homepage-proof request is routed to the same original writer. SEO awaits original-owner causal disposition. Big Bag awaits its original final-source proof/review route. The same measurement job remains running, without source-qualified measurements.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "By the 00:38Z reconciliation on 22 October, the natural SEO failure trace was qualified and Big Bag’s returned clean repair was verified. The bounded handoff went once to the original owners around 00:40Z. Measurement tools last verified at 00:34:47Z; source-qualified access and results remain open.",
+  "lastActualProgress": "First Look’s returned source was qualified on 22 October: collection fit and normal widths are retained, and the shared homepage proof gap is now explicitly routed to the original writer. No homepage failure, installation or final acceptance is inferred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "SEO’s required test gate failed; its head is preserved while the original owner determines the correction. Big Bag still needs final-source proof and a draft PR. Running First Look and measurement jobs have no report yet; native and connected acceptance remain separate.",
-  "current": "SEO is blocked by one failed slow-report deadline check; the original owner has the qualified failure trace. Big Bag’s focused repair has returned and awaits its final 52-pin proof and draft review publication. First Look and remote measurements remain running.",
-  "next": "Consume the original owner’s SEO failure disposition and Hands’ exact-source Big Bag proof, then its draft review publication. Wait for the same First Look and measurement jobs’ results; measurement preview/source qualification remains unverified.",
-  "updated": "2026-10-22T00:40:35.220035+00:00",
+  "remaining": "First Look’s shared homepage effect is unmeasured; collection evidence alone does not cover it. SEO’s required gate failed, Big Bag needs final-source proof and a draft PR, and the running measurement job has no source-qualified result. Native and connected acceptance remain separate.",
+  "current": "First Look’s clean repair has returned with collection fit at 188px and retained normal-width evidence. Its shared homepage heading needs one original-writer before-and-after proof before publication; a homepage defect has not been demonstrated. SEO and Big Bag retain their existing proof dependencies.",
+  "next": "Consume the original writer’s bounded homepage proof, then Hands’ final-source five-pin and neighboring-suite proof before one draft PR. Continue the original SEO failure disposition, Big Bag proof and same running measurement job’s results.",
+  "updated": "2026-10-22T00:43:53.172057+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "SEO’s hosted run finished with one failed slow-report deadline test: shards 1–4 and pin-proof passed, but shard 0 and the aggregate gate failed. The qualified trace is with the original owner; the underlying cause and correction remain open. The SEO head is unchanged and no rerun was started.",
-    "Big Bag’s focused test/pin repair returned clean. It still needs the original Hands keeper’s final-source 52-pin proof and one draft PR through its existing review route. The older proof is preserved; the returned repair is not yet published or installed.",
-    "First Look is running with its original writer and has no report yet. The original remote measurement job also remains running; preparation is verified, while preview/source qualification and actual measurements remain unverified.",
-    "One bounded repair handoff was delivered to the existing owners around 00:40Z on 22 October. No duplicate job, review, source push or rating was created by this update.",
-    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The assistant stays off, and account/privacy wording remains on the existing owner card after draft readiness."
+    "First Look’s clean repair returned with local collection width reduced from 327px to 188px and retained 380/430/1280px evidence. The repair is not yet published or installed; this is not native, enlarged-text or final-rating proof.",
+    "The changed heading rule also applies to the homepage. That effect is unmeasured, not proven broken. One bounded before-and-after homepage proof is routed to the same original writer, preserving the existing layout and scope.",
+    "After that proof, original Hands qualifies the final source, five declared pins and named neighboring suites before one draft PR. No new writer, review round, duplicate renderer or source change was introduced by this update.",
+    "SEO still awaits original-owner disposition of the failed slow-report deadline check. Big Bag awaits final-source 52-pin proof and a draft PR. The original measurement job remains running without source-qualified measurements.",
+    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The assistant stays off; account/privacy wording remains on the existing owner card after draft readiness."
   ],
   "openDeliveryGates": [
     {
@@ -258,7 +258,7 @@
       },
       {
         "complete": false,
-        "text": "First Look heading: original writer running, no report yet (start time not established in this update; next check on original result, duration unknown)."
+        "text": "First Look heading: clean repair returned; collection188/380/430/1280 proof retained. Waiting for same original writer’s shared-home before/after proof, then original Hands five-pin/neighbor proof and one draft PR (duration unknown; next check on original proof result)."
       },
       {
         "complete": false,
@@ -285,7 +285,7 @@
         "text": "Final three independent named-fix ratings and draft handover: pending qualified evidence; no live publication."
       }
     ],
-    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due21Oct23:15Z retained; execution is running, with source-qualified access/result still required. SEO waits for original causal disposition; Big Bag waits for final-source proof; First Look remains running."
+    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due21Oct23:15Z retained; execution is running, with source-qualified access/result still required. SEO waits for original causal disposition; Big Bag waits for final-source proof; First Look waits for original shared-home proof before draft publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
