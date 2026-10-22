@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title’s remote job completed at17:40Z. The original correction request was sent17:45Z and remains unacknowledged at18:16Z; its deadline escalation was delivered18:17Z. Placement and actual execution are unverified. No background product work is inferred. Shopify remains unpublished.",
+  "workerState": "The title’s remote job completed at17:40Z. Its capture correction was missing from the keeper’s current action queue at18:34Z; that exact omission has been returned to the original owner. Placement and execution remain unverified. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Current Shopify settings were read and pickup wording prepared by18:00Z. Public snapshot590bc9f built18:05Z and all five served files matched18:08Z. Its browser render remains unverified. The original title correction and browser allocation were escalated after the18:16 checkpoint; this is coordination, not a product completion.",
+  "lastActualProgress": "The provider-account decision was consumed and the notice component prepared at18:33Z, with source hashes and current official-term exceptions checked. The account-only question is resolved; no policy was published or assistant activated. The preceding progress snapshotd5e1cf3 built18:18Z and all five files served exactly.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "The18:16Z resource checkpoint passed without an explicit Website browser allocation. Candidate proof also needs the original source-correct measurement script. The chair has the exact escalation; no new writer or capture was started. Checkout-branding values remain unverified after an API access denial. Native, connected and original final-reader acceptance remain open.",
-  "current": "The original Big Bag repair passed 19 tests and 21 regression safeguards. Its measurement-script correction is still unacknowledged after 30 minutes. The missed handoff and browser allocation were escalated to the chair at18:17Z. Delivery remains6/11, final passes0/3 and native checks0/7.",
-  "next": "The original writer corrects the capture helper; Hands releases a Website browser slot for candidate and installed-source checks. Inspect the existing consent integration and original Admin findings before settings edits. Collect the earlier Website advisory answer without resending. Header and SEO work remain with their original keepers.",
-  "updated": "2026-10-22T18:17:48.189339+00:00",
+  "current": "One privacy prerequisite cleared: the companion provider-account decision is supplied, and its notice component is prepared. CRUX storage/history wording and connected acceptance remain open. Big Bag’s 19 tests and21 safeguards passed; its original capture correction and browser allocation are still pending. Delivery6/11, final passes0/3, native0/7.",
+  "next": "Consume the original capture-helper correction and allocated browser turn. Complete CRUX storage/history wording and the mounted notice using the existing privacy packet; do not ask again for the supplied provider-account line. Collect the earlier Website advisory without resending. Header and SEO work stay with their original keepers.",
+  "updated": "2026-10-22T18:39:19.049625+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
+    "The companion provider-account decision is now supplied and its notice component prepared. The repeated account-only question is removed. CRUX storage/history wording and connected acceptance remain open; no policy publication or activation occurred.",
     "The parallel Shopify audit now has current API readback and prepared pickup wording. Location and delivery flags are verified; consent behavior still needs browser proof, and checkout-branding values were denied by the API. No settings changed and no delivery gate was marked complete from this audit.",
     "The original title-proof job finished at17:40Z:19 tests and all21 selected regression safeguards passed. Browser proof, review, merge and installation remain owed. The old ink helper’s historical page and trial-style bindings were caught before capture and sent to the original writer for correction. No duplicate job was started.",
-    "The first accepted marketing recommendation now has returned source: an API upper-bound flag and explanation. The on-screen explanation and wallet change remain pending. No review, merge, deployment or measured-benefit credit is claimed.",
-    "The source audit checked 112 advisory claims: 41 confirmed fully or partly, 44 refuted wholly or in their mechanism, 3 already fixed and 24 not checkable. Two uncovered recommendations were accepted into the original marketing build plan. This is not a quality score or shipped improvement.",
+    "Two source-audited marketing recommendations entered the original build plan. One now has returned API source; its on-screen explanation remains pending. No review, deployment, measured benefit or quality-score credit is claimed.",
     "The repaired review route completed four supervised advisory calls at16:44–16:48Z. Client logs recorded High for each call, and the chair admitted the route at16:49Z. Advice is not a quality score, shipped work or measured improvement. The original Website response still needs collection; the embedding advisory remains prepared and unsent pending its own placement."
   ],
   "openDeliveryGates": [
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The original Ask source/dated terms/draft-notice packet is complete, but current runtime, actual account arrangements and mounted connected acceptance remain unverified. Features stay off.",
-      "next": "After draft readiness, use the one existing owner card to confirm account arrangements and matching notice/policy wording including CRUX storage/history handling. Continue ordinary OFF acceptance independently; no new packet, card or provider call."
+      "blocker": "Provider-account decision supplied at18:25Z and notice component prepared; CRUX’s own storage/history handling, complete notice/policy wording, current runtime and mounted connected acceptance remain unverified. Features stay off.",
+      "next": "Finish those remaining checks on the same existing policy packet. Do not ask again for the supplied provider-account decision; no new card, provider call or activation."
     },
     {
       "label": "8. Final three-model ratings",
@@ -366,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; 18:16Z inspection found no handback; deadline escalation delivered18:17Z; next keeper event or18:31Z; collection est.5 min)."
+        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; 18:16Z inspection found no handback; deadline escalation delivered18:17Z; next keeper event or18:55Z; collection est.5 min)."
       },
       {
         "complete": true,
@@ -378,7 +378,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original capture-helper correction since17:45Z (next check18:31Z; repair est.8 min after placement). Original request remains unacknowledged at18:16Z and was escalated18:17Z; no new writer or browser grant inferred."
+        "text": "Waiting on original capture-helper correction since17:45Z (next check18:55Z; repair est.8 min after placement). Current keeper queue omitted this correction at18:34Z; changed-state reconciliation delivered18:39Z. First wait17:45Z preserved; no new writer or browser grant inferred."
       },
       {
         "complete": true,
@@ -391,9 +391,25 @@
       {
         "complete": true,
         "text": "Publish the settings-audit progress and refreshed remaining steps (18:02Z–18:03Z, took1 min; matching Pages build complete and all five served files exact; browser rendering unverified)."
+      },
+      {
+        "complete": true,
+        "text": "Adopt the provider-account decision and prepare the existing privacy notice component (18:31Z–18:33Z, took2 min; source hashes and published-term exceptions checked; unpublished)."
+      },
+      {
+        "complete": true,
+        "text": "Reconcile the original capture correction against the keeper’s current action queue (18:32Z–18:38Z, took6 min; omission evidenced and returned to the same owner)."
+      },
+      {
+        "complete": false,
+        "text": "Publish the privacy-decision and handoff update (started18:39Z, est.5 min)."
+      },
+      {
+        "complete": false,
+        "text": "Check CRUX storage/history source for the existing privacy notice (started18:39Z, est.10 min)."
       }
     ],
-    "landing": "Lands: settings-audit progress published18:03Z. Candidate checks take15 min after original helper correction and explicit Chrome handback; next keeper event or18:31Z; the missed18:16 handoff was escalated. Full draft completion remains unknown; Shopify stays unpublished."
+    "landing": "Lands: public update about18:45Z (5 min; hosting could move it). Candidate checks take15 min after the original helper correction and explicit browser handback; next keeper event or18:55Z. Full draft completion remains unknown; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
