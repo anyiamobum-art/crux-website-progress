@@ -265,8 +265,8 @@
         "text": "Apply and verify the two approved checkout settings (22:54Z–22:56Z, took 2 min; Optional address line 2 and no email preselection in any of 237 regions; verified after reload)."
       },
       {
-        "complete": false,
-        "text": "Publish the verified settings and source update on the task site (started 22:58Z, est. 5 min; hosted readback required)."
+        "complete": true,
+        "text": "Publish the verified settings and source update on the task site (22:58Z–23:00Z, took 2 min; all five hosted files match the published source)."
       },
       {
         "complete": false,
@@ -285,7 +285,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: task-site update about23:03Z (5 min planned; hosting can move it). Checkout refinements completed22:56Z. Full draft completion remains unknown until required evidence and original reviews pass. Shopify stays unpublished."
+    "landing": "Lands: checkout refinements completed22:56Z and task-site update verified23:00Z. Next original title/repair check23:07Z. Full draft completion remains unknown until required evidence and original reviews pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
