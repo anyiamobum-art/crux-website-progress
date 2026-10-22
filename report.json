@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At19:51Z the verified image-review route was delivered to the original Studio owner. Four approved fixture images were described and received advisory feedback; the chair admitted that capability at19:46Z. Studio execution and adoption remain unverified. This adds no final score or delivery-gate credit.",
+  "lastActualProgress": "Original Ask completed source-handling adoption at20:00Z; the same receipt was read back and its obsolete confirmation wait closed. Studio also adopted the verified image-review route conditions. The embedding advisory has refreshed, checked inputs but no provider call or verdict.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The prepared title capture has no browser allocation at the19:45Z check. The missed handoff was escalated to the original keeper at19:44Z. Original privacy-owner confirmation, retention policy, connected and native evidence, and final-reader acceptance remain open.",
-  "current": "Two prerequisites are resolved: the corrected Big Bag measurement scripts passed source review, and the original writer answered the close-and-reopen question. Candidate browser checks are next once shared browser custody is allocated. Delivery remains6/11, final passes0/3 and native checks0/7.",
+  "remaining": "The prepared title capture still lacks explicit browser allocation; next existing keeper check20:04Z. Actual CRUX retention/log/backup policy, mounted controls, connected and native proof, and final-reader acceptance remain open. Source-owner privacy confirmation is complete.",
+  "current": "Three prerequisites are resolved: the Big Bag measurement scripts passed source review, the original writer answered the close-and-reopen question, and the original Ask owner confirmed source handling. Candidate browser checks are next after shared browser allocation. Delivery remains6/11, final passes0/3 and native checks0/7.",
   "next": "Measure the actual title repair, then continue its original review and installation. Collect the earlier Website advisory without resending it. Complete remaining privacy, connected and native proof with the original owners.",
-  "updated": "2026-10-22T19:54:33.338772+00:00",
+  "updated": "2026-10-22T20:02:40.882874+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -206,9 +206,10 @@
   ],
   "recentChanges": [
     "Big Bag: the original source-bound measurement scripts are reviewed and ready. Browser allocation remains outstanding; no measurement, push or installation is claimed.",
-    "Motion: the original writer confirmed that the modal intentionally protects its closing transition. The observed close-and-reopen outcome is documented; no extra test or rating was invented.",
-    "Argon: four approved fixture images were read and received visual advice. The chair admitted the image route; its conditions were delivered once to Studio. Studio’s next image review and product benefit remain unverified.",
-    "Public status: the previous update was served exactly at19:48Z. This update adds the newly verified Argon capability while retaining6/11 delivery,0/3 final passes and0/7 native checks."
+    "Motion: the original writer confirmed that the modal intentionally protects its closing transition. The recorded close-and-reopen outcome is retained.",
+    "Privacy: the source-only handoff reached its original owner directly and is now completed. The prepared notice distinguishes public chat, guest handoff and saved looks. Actual policy and mounted controls remain unverified.",
+    "Argon: four approved fixture images were read and received visual advice. Studio verified the receipt and recorded the route conditions, preserving its completed review scope and unfinished native proof.",
+    "Embedding: the original evidence and conditional question were prepared with the repaired review tool and current shared context. No send, service change or verdict. One attended placement is requested through the existing keeper."
   ],
   "openDeliveryGates": [
     {
@@ -416,8 +417,8 @@
         "text": "Reconcile the original privacy-owner confirmation (19:26Z–19:28Z, took2 min; original receipt unchanged, no adoption found)."
       },
       {
-        "complete": false,
-        "text": "Waiting on the original source-owner privacy confirmation since18:45Z (next changed receipt or20:04Z; original facts wait12Oct04:12Z retained)."
+        "complete": true,
+        "text": "Complete original-owner source-handling confirmation after correcting the relay-only handoff (19:58Z–20:02Z, took4 min; earlier18:45Z placement retained, policy and mounted behavior remain open)."
       },
       {
         "complete": true,
@@ -430,6 +431,10 @@
       {
         "complete": true,
         "text": "Verify approved-image review evidence and deliver its conditions to the original Studio owner (19:46Z–19:54Z, took8 min; capability verified, adoption and product improvement unverified)."
+      },
+      {
+        "complete": true,
+        "text": "Refresh and inspect the existing embedding advisory inputs for the repaired review tool (19:56Z–19:58Z, took2 min; four parts checked, no provider call)."
       }
     ],
     "landing": "Lands: the19:45Z handback check found no grant; the next keeper batch is expected20:04Z. The bounded browser check takes about15 min after an actual handback. The script correction and motion question are finished. Full draft completion remains unknown until remaining proof and original final reviews pass; Shopify stays unpublished."

@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-22T19:53:54.987494+00:00",
+  "snapshot": "2026-10-22T20:00:35.390015+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -124,7 +124,7 @@
         {
           "title": "Image review route now verified",
           "date": "22 October 2026, 19:46 UTC · chair admission",
-          "text": "A separate supervised advisory read four approved interface fixture images and returned visual feedback. The client recorded Argon High; independent server model attestation is absent. The chair admitted this route for a bounded Studio packet of approved images. The original Studio owner has received the conditions; its packet, execution and adoption are not yet verified. This adds no Studio score or shipped improvement."
+          "text": "A separate supervised advisory read four approved interface fixture images and returned visual feedback. The client recorded Argon High; independent server model attestation is absent. The chair admitted this route for approved Studio images. The original Studio owner checked the receipt and recorded the conditions; its earlier review scope is already consumed and has no outstanding visual call. No new image submission, score or shipped improvement is claimed."
         }
       ],
       "limit": "The advisory read excerpts. The owner disposition used complete source. Native behavior and the overall visual rating remain unverified."
@@ -283,6 +283,11 @@
           "title": "Next evidence required",
           "date": "Prepared and checked 22 October 2026",
           "text": "Four review inputs are prepared with source identity, dated quality and timing evidence, uncertainty and a conditional keep/improve/repurpose/retire question. No scores from other readers are included. Argon feedback, current lab activity and hosting cost remain unverified."
+        },
+        {
+          "title": "Prepared inputs refreshed for the repaired route",
+          "date": "22 October 2026, 19:56 UTC",
+          "text": "The same frozen evidence and conditional question are now prepared with the current shared context and explicit text-only instructions. All four parts passed preparation and scans. Nothing was sent. One attended advisory placement is requested through the existing keeper; feedback and any service recommendation remain unverified."
         }
       ],
       "limit": "Argon feedback is pending. Historical lab results are not a current deployment or improvement claim. Current lab activity, hosting cost and user benefit remain unverified."
@@ -294,7 +299,7 @@
     "imageAdvisory": "Three supervised calls completed 19:40–19:45 UTC. The response described all four approved interface fixture images before returning advisory findings; chair admission 19:46 UTC.",
     "modelEvidence": "Client logs recorded Gemini4ArgonHigh. Independent server model attestation is absent.",
     "limits": "Historical fixtures only. No quality score, current installed acceptance, native proof or shipped improvement follows from this capability. Each original owner retains its own packet and review history.",
-    "studioDelivery": "Original Studio owner notified. Packet execution and adoption remain unverified.",
+    "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   }
 }
