@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title writer remains the sole writer. The original iPhone acceptance owner has adopted the completed desktop evidence and is reconciling later installed-source receipts. The completed 22:10Z–22:16Z browser check remains released. No title capture or final review has been repeated.",
+  "workerState": "The original title writer remains the sole writer. Original native source reconciliation is complete; iPhone execution still awaits a dated turn and Inspector qualification. The checkout settings turn ended at 22:56Z after successful save and reload checks. No final review or uncertain native action has been repeated.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original acceptance owner adopted the nonblank account returns and 44px bag-control evidence, keeping native checks at 0/7. Your two checkout changes were approved at 22:35Z; a scoped browser turn was requested. Approval is recorded separately from application and verification.",
+  "lastActualProgress": "22:54Z–22:56Z: saved both approved Shopify checkout settings, reloaded the page, and reopened the regions dialog to verify 0 of 237 selected. Earlier at 22:47Z, the original acceptance owner adopted all later installed-source receipts through #4743. Source reconciliation adds no native or rating credit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The title writer remains queued. Disk recovery cleared the earlier storage hold at 22:37Z; the chair opened a conditional single-job priority route at 22:38Z, with an evidence pack ahead. Start and execution are not yet verified. The approved settings changes await a fresh shared browser turn. Header/SEO release, policy/runtime, connected/native evidence and final acceptance remain open.",
-  "current": "You approved two checkout changes: optional address line 2 and email marketing unchecked by default in every region. The next shared browser turn is requested; neither setting has been changed yet. The original title repair is queued, and the retained desktop evidence has reached the iPhone acceptance owner. Delivery remains 6/11, final passes 0/3 and native checks 0/7.",
+  "remaining": "The title continuation remains queued with its original writer under the existing Mac memory gate. Native testing has no allocated turn yet because memory pressure and swap exceed the shared limits; Hands is resolving its queue position. Header/SEO release, policy/runtime, connected evidence and final acceptance remain open. The checkout settings no longer have a blocker.",
+  "current": "Both approved checkout improvements are saved and verified after reload: address line 2 is Optional, and email marketing is unchecked by default in all 237 regions. The original iPhone acceptance owner has reconciled all 18 later installations into 173 tracked assets and 40 source manifests. Delivery remains 6/11, final passes 0/3 and native checks 0/7.",
   "next": "Consume the original title disposition, finish repair reviews and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-22T22:46:10.154498+00:00",
+  "updated": "2026-10-22T22:58:10.807775+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Both owned-order Back journeys returned without a blank account page; the original acceptance owner has adopted the evidence. This does not add native or final-rating credit.",
-    "The two retained bag items have enabled 44 × 44px plus buttons and quantity fields. No cart contents, orders, payments or customer messages changed.",
-    "You approved optional address line 2 and email marketing unchecked by default in every region. The application turn is requested; neither setting has changed yet.",
-    "The earlier disk-space hold has cleared. The original title continuation remains queued on the chair’s conditional priority route; execution is not yet verified.",
-    "The three final ratings remain unchanged. Original repair releases, iPhone/performance, policy and connected evidence still precede the final named-fix checks."
+    "Address line 2 is now Optional, so shoppers can enter apartment or unit details without making the field mandatory.",
+    "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
+    "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
+    "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
+    "The original title continuation remains queued under the existing memory gate. Final ratings remain unchanged while repair releases and required evidence are completed."
   ],
   "openDeliveryGates": [
     {
@@ -258,15 +258,19 @@
       },
       {
         "complete": true,
-        "text": "Update the same acceptance packet and public task site (22:19Z–22:30Z, took 11 min; all five hosted files verified; no whole-site score awarded)."
+        "text": "Reconcile the latest installed-source receipts with the original acceptance owner (22:39Z–22:47Z, took 8 min; 173 tracked assets, 40 source manifests; no native credit)."
+      },
+      {
+        "complete": true,
+        "text": "Apply and verify the two approved checkout settings (22:54Z–22:56Z, took 2 min; Optional address line 2 and no email preselection in any of 237 regions; verified after reload)."
       },
       {
         "complete": false,
-        "text": "Waiting on original title-owner disposition since 20:40Z (placed 22:09Z; disk hold cleared22:37Z; conditional priority route opened22:38Z with one evidence pack ahead; next original launcher result or23:03Z; est. 5 min to consume result)."
+        "text": "Publish the verified settings and source update on the task site (started 22:58Z, est. 5 min; hosted readback required)."
       },
       {
         "complete": false,
-        "text": "Apply and verify the two approved checkout settings (approved22:35Z; shared browser turn requested; est. 10 min after allocation)."
+        "text": "Waiting on original title-owner disposition since 20:40Z (placed 22:09Z; existing memory gate still closed at 22:52Z; next original result or23:07Z; est. 5 min to consume result)."
       },
       {
         "complete": false,
@@ -281,7 +285,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: the two approved checkout changes need about10 min after the browser turn begins. Next title and native allocation check23:03Z. Full draft completion remains unknown until required evidence and original reviews pass. Shopify stays unpublished."
+    "landing": "Lands: task-site update about23:03Z (5 min planned; hosting can move it). Checkout refinements completed22:56Z. Full draft completion remains unknown until required evidence and original reviews pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -291,12 +295,12 @@
         "text": "Completed — Audit existing product copy and settings (08:42Z–08:54Z, took12 min; API refreshed17:55Z–17:59Z; Admin read22:13Z–22:16Z). Prior descriptions and categories are preserved; original SEO repair keeps its owner."
       },
       {
-        "complete": false,
-        "text": "Approved, waiting for browser — Apply optional address line 2 and email marketing unchecked by default in every region (approved22:35Z; est.10 min after the shared turn begins). Save and reload both settings; record actual results separately from approval. Other settings stay outside this scoped action."
+        "complete": true,
+        "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: about10 min after browser allocation; original browser custody can move that time. Draft release continues independently and stays unpublished.",
-    "basis": "Separate track: one of two steps complete. The read-only audit is verified; settings refinements remain unapplied. This adds no delivery-gate credit."
+    "landing": "Lands: completed22:56Z for these two scoped optimization steps. This is separate from the unfinished Shopify draft and its final ratings.",
+    "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
     "result": "Historical evidence from 20 October at 09:26:45Z on the installed unpublished draft: automatic movement and all four controls, head tilt, guide open/close and 20 seconds of reduced-motion stillness. Settled 380px/430px views fit at normal text size. These clips do not verify the later pet-only live installation. Touch dispatch was unsupported; no native, 200% text, performance or final-rating credit.",
