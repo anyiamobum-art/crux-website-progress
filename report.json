@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original six-measure job is terminal and its 53 listed artifacts are verified. The original writer’s measures 3/4 continuation is delivered, with acknowledgment and execution not yet observed. Big Bag’s failed hosted shard is under original-owner diagnosis; First Look remains Draft.",
+  "workerState": "The original six-measure job is terminal, with 53 listed artifacts verified. Original Hands acknowledged the 03:16Z continuation and 03:33Z reminder; one measures 3/4 brief is queued. The worker continuation requires a fresh session because the earlier session cannot resume; original writer and source lineage are retained. At 04:12:06Z the brief remained in the inbox, with no local running/completed entry or matching remote artifact. The 04:06Z clarification is delivered, but adoption is unobserved. First Look is Ready and unmerged.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Root verified all 53 manifest-listed artifacts (54 files including the manifest), accepted the bounded result dispositions and delivered one original-owner continuation at 03:16Z. Both helper gaps have 23/23 self-checks with causal failure/restoration evidence. The main context’s 56 controlled theme files matched exactly in the same run.",
+  "lastActualProgress": "Root verified the returned 53-artifact packet and closed main-context source gate. Original Hands has since acknowledged and queued the bounded header/contrast continuation. Big Bag’s hosted test groups are now all terminal, and Root observed First Look’s change to Ready. Queue admission and Ready status add no measurement or delivery credit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The separate no-JS header context has 27 unhashed records covering 25 unique script URLs, so the old aggregate remains invalidated. The scoped continuation must bind actual response HTML/CSS and prove disabled-script classification. Big Bag’s hosted voice test timed out; its cause is unknown. Native, connected and final-reader evidence remain open.",
-  "current": "The original remote measurement run returned with its source gate closed. Its main browsing context matched all 56 served files. Startup and warm-content samples passed; companion Back/Close geometry passed. Desktop options frame timing failed. Header evidence was invalidated, contrast was not measured and the full journey remains unmeasured.",
-  "next": "Original Hands has one delivered continuation for header and contrast measures 3 and 4 only, after scoped helper checks. Its acknowledgment is due 03:31Z and progress or an exact prerequisite by 03:46Z. Big Bag’s hosted voice-test timeout is routed to the original Ask/Hands owners for diagnosis; no rerun is admitted.",
-  "updated": "2026-10-22T03:16:40.263384+00:00",
+  "remaining": "The old no-JS header aggregate remains invalidated by 27 unhashed records covering 25 unique script URLs. Its continuation must bind actual response HTML/CSS and prove disabled-script classification; contrast remains unmeasured. Big Bag’s voice timeout still lacks a causal diagnosis. First Look’s hosted browser test cannot launch because the Chromium executable is missing; this does not establish a rendering failure. Native, connected and final-reader evidence remain open.",
+  "current": "The original header and contrast continuation is acknowledged and queued once. Its actual start has not been observed. Big Bag’s five hosted test groups have finished: four passed and the voice group failed with a timeout. First Look is Ready, with an original-owner correction requested for a missing CI browser executable.",
+  "next": "At 04:22Z, inspect the original queued brief for adoption of the delivered clarification and actual eligibility/start evidence. A nominal hold expiry does not prove execution. Consume the original header/contrast result when it returns. Original Ask/Hands owns the Big Bag voice-timeout diagnosis; no hosted test rerun is admitted.",
+  "updated": "2026-10-22T04:12:06+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Root verified all 53 listed artifacts from the completed original remote run. Both source-gate helper gaps have 23/23 passing checks, deliberate failure controls and successful restoration. The main context matched all 56 controlled theme files.",
-    "Startup blocking total was 38 ms; warm useful-content samples were 440, 306 and 310 ms. These recorded desktop Chromium metrics passed. Companion Back and Close geometry passed at 44×44px with separate hit areas; the close/reopen interruption did not execute.",
-    "Options passed four interactions at 380px, but three failed the frame thresholds at 1280px: a 50.1 ms gap and 55.4/61.9 ms long frames. That failure is retained. Loaded-host, instrumentation and sound effects remain unproven causes; no product diagnosis or adjusted result is claimed.",
-    "The old header aggregate remains invalidated: its no-JS context has 27 unhashed records for 25 script URLs. Contrast and the whole journey remain unmeasured. Root delivered one original-owner continuation for measures 3/4 only at 03:16Z; acknowledgment and execution are unobserved. The original results will not be replayed for better numbers.",
-    "Big Bag #4743’s hosted voice test timed out; the cause is unknown and diagnosis is routed to the original Ask/Hands owners without a rerun. First Look #4744 stays Draft and SEO’s original Engine repair remains pending. Delivery is 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off."
+    "Original Hands acknowledged the header/contrast continuation and its reminder. One brief is queued for measures 3 and 4 only, preserving the original writer and source lineage. The earlier worker session cannot resume, so this is a fresh continuation session. No actual start or new measurement result is verified.",
+    "At 04:12:06Z, the original brief was still queued: no actual start, running/completed entry or matching remote artifact was found. Detailed remote instructions are available. The delivered clarification has not yet been adopted in the queued brief; the next original-owner check is 04:22Z. Nominal hold expiry does not prove eligibility or execution.",
+    "Big Bag #4743 remains Ready on the same source. All five hosted test groups finished: groups 0, 1, 3 and 4 passed; group 2 failed with a voice-test TimeoutError. Guards and pin proof passed, and the first review approval is verified. Final critical approval and a causal timeout diagnosis remain unproved; no rerun is admitted.",
+    "First Look #4744 is Ready and unmerged. Its first review and guards passed, but hosted group 0 stopped because the Chromium executable was missing; no rendering failure is inferred. One original-owner browser-prerequisite correction was delivered at 04:08Z, with acknowledgment due 04:23Z. SEO #4702 remains Ready and unmerged, pending its original Engine repair.",
+    "The original measurement dispositions are unchanged: options frame timing failed, startup/warm-content metrics passed, the old header aggregate is invalidated, contrast and the whole journey remain unmeasured, and companion Back/Close geometry alone passed. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -269,12 +269,24 @@
         "text": "Qualify the returned packet and deliver one original header/contrast continuation (03:10Z–03:16Z, took6 min)."
       },
       {
-        "complete": false,
-        "text": "Waiting for original header/contrast continuation acknowledgment since03:16Z (next check03:31Z; progress or exact prerequisite due03:46Z)."
+        "complete": true,
+        "text": "Original Hands acknowledged the header/contrast continuation and queued one bounded brief (observed by 04:05Z; exact acknowledgment time unknown)."
       },
       {
         "complete": false,
-        "text": "Existing releases: Big Bag’s hosted voice test timed out; original Ask/Hands diagnosis requested03:14Z, cause unknown and no rerun. First Look stays Draft; SEO stays Ready under its chair exception while Engine repairs the causal test (duration unknown; next check on original results)."
+        "text": "Header/contrast continuation: still queued at 04:12:06Z, first delivery 03:16Z retained. Waiting for clarification adoption and actual eligible start (next original-owner check 04:22Z; start and duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Big Bag release: all five hosted groups are complete, four passed and the voice group failed; guards and pin proof passed. Original diagnosis request since 03:14Z retained; no rerun. Waiting for original causal diagnosis and final critical review (next red-clock checkpoint 04:53Z; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "First Look release: Ready and unmerged; first review and guards passed, hosted group 0 lacks the Chromium executable. Original-owner correction delivered 04:08Z (acknowledgment due 04:23Z; execution unobserved; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "SEO release: Ready and unmerged, awaiting its original Engine causal repair (duration unknown; next check on changed original results)."
       },
       {
         "complete": false,
@@ -297,7 +309,7 @@
         "text": "Final three original named-fix ratings and draft handover: pending required evidence (duration unknown; no live publication)."
       }
     ],
-    "landing": "Lands: packet qualification and the bounded continuation decision completed03:16Z. Next acknowledgment check03:31Z, progress or exact prerequisite03:46Z. Overall draft completion remains untimed; valid measurements, original release diagnoses/reviews, device custody and final evidence are prerequisites."
+    "landing": "Lands: publish this verified status snapshot at about 04:15Z (est. 3 min for Pages and served-file verification; hosting propagation may move it). Next original-owner checks are 04:22Z for queued measurement clarification/eligibility and the repair response, and 04:23Z for First Look. Overall draft completion remains untimed because measurement, release, device and final-reader prerequisites are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
