@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title’s remote job completed at17:40Z. Its helper correction was sent to the original writer through Hands at17:45Z; no acknowledgement or browser release appeared by18:00Z. The independent settings read completed. No duplicate writer or review; Shopify remains unpublished.",
+  "workerState": "The title’s remote job completed at17:40Z. The original correction request was sent17:45Z and remains unacknowledged at18:16Z; its deadline escalation was delivered18:17Z. Placement and actual execution are unverified. No background product work is inferred. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Current Shopify settings were read and scoped pickup wording prepared by18:00Z. The sanitized progress update7a650c6 was built and all five served files matched at18:03Z. Its browser render is unverified. The title, header and SEO branches remain unpublished or in their original review queue.",
+  "lastActualProgress": "Current Shopify settings were read and pickup wording prepared by18:00Z. Public snapshot590bc9f built18:05Z and all five served files matched18:08Z. Its browser render remains unverified. The original title correction and browser allocation were escalated after the18:16 checkpoint; this is coordination, not a product completion.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Candidate proof needs a source-correct helper and explicit Chrome handback. The latest allocation holds new Mac lanes until18:16Z because of swap pressure. Checkout-branding API access was denied; those values remain unverified. Native, connected and original final-reader acceptance remain open.",
-  "current": "Big Bag’s exact candidate passed19 tests and21 regression safeguards. Its old measurement helper needs correction before browser proof. In parallel, the Shopify settings audit advanced through the existing API and pickup wording is prepared; no settings were changed. Delivery remains6/11, final passes0/3 and native checks0/7.",
+  "remaining": "The18:16Z resource checkpoint passed without an explicit Website browser allocation. Candidate proof also needs the original source-correct measurement script. The chair has the exact escalation; no new writer or capture was started. Checkout-branding values remain unverified after an API access denial. Native, connected and original final-reader acceptance remain open.",
+  "current": "The original Big Bag repair passed 19 tests and 21 regression safeguards. Its measurement-script correction is still unacknowledged after 30 minutes. The missed handoff and browser allocation were escalated to the chair at18:17Z. Delivery remains6/11, final passes0/3 and native checks0/7.",
   "next": "The original writer corrects the capture helper; Hands releases a Website browser slot for candidate and installed-source checks. Inspect the existing consent integration and original Admin findings before settings edits. Collect the earlier Website advisory answer without resending. Header and SEO work remain with their original keepers.",
-  "updated": "2026-10-22T18:04:56.569922+00:00",
+  "updated": "2026-10-22T18:17:48.189339+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -366,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; original18:00Z inspection found no handback; next keeper event or18:16Z; collection est.5 min)."
+        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; 18:16Z inspection found no handback; deadline escalation delivered18:17Z; next keeper event or18:31Z; collection est.5 min)."
       },
       {
         "complete": true,
@@ -378,7 +378,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original capture-helper correction since17:45Z (next check18:16Z; repair est.8 min after placement). Old helper loads an earlier page and an8px trial; original writer request is unacknowledged and the Mac lane cap is0 until18:16Z."
+        "text": "Waiting on original capture-helper correction since17:45Z (next check18:31Z; repair est.8 min after placement). Original request remains unacknowledged at18:16Z and was escalated18:17Z; no new writer or browser grant inferred."
       },
       {
         "complete": true,
@@ -393,7 +393,7 @@
         "text": "Publish the settings-audit progress and refreshed remaining steps (18:02Z–18:03Z, took1 min; matching Pages build complete and all five served files exact; browser rendering unverified)."
       }
     ],
-    "landing": "Lands: settings-audit progress published18:03Z. Candidate checks take15 min after original helper correction and explicit Chrome handback; next keeper check18:16Z. Full draft completion remains unknown; Shopify stays unpublished."
+    "landing": "Lands: settings-audit progress published18:03Z. Candidate checks take15 min after original helper correction and explicit Chrome handback; next keeper event or18:31Z; the missed18:16 handoff was escalated. Full draft completion remains unknown; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -404,7 +404,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting — Finish scoped settings refinements (first resource wait08:48Z; current API read17:55Z–17:59Z, took4 min; next original browser event or18:16Z). Location and delivery flags are verified, pickup wording is prepared, and consent integration still needs browser proof. Checkout-branding API access was denied. No settings changed; original SEO integration remains with its keeper."
+        "text": "Waiting — Finish scoped settings refinements (first resource wait08:48Z; current API read17:55Z–17:59Z, took4 min; next original browser event or18:31Z). Location and delivery flags are verified, pickup wording is prepared, and consent integration still needs browser proof. Checkout-branding API access was denied. No settings changed; original SEO integration remains with its keeper."
       }
     ],
     "landing": "Lands: current configuration read and wording prepared. Remaining browser/settings completion is unknown until the original browser release and field-specific review. Draft release continues independently; no live theme publication.",
