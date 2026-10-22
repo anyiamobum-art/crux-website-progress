@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original Big Bag and First Look keeper jobs completed successfully; their PRs already exist. The original source capture and failed measurement run are terminal. The new helper continuation is delivered to Hands; intended-owner acknowledgment and execution are not yet observed.",
+  "workerState": "The original six-measure job is terminal and its 53 listed artifacts are verified. The original writer’s measures 3/4 continuation is delivered, with acknowledgment and execution not yet observed. Big Bag’s failed hosted shard is under original-owner diagnosis; First Look remains Draft.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Captured source bytes were verified for all 41 recorded URLs at 01:37:29–01:37:50Z on 22 October. Root accepted them as measurement subjects and cross-checked the 56-file manifest. One original Hands continuation was delivered with exact readback at 02:47:14Z; this is delivery, not execution.",
+  "lastActualProgress": "Root verified all 53 manifest-listed artifacts (54 files including the manifest), accepted the bounded result dispositions and delivered one original-owner continuation at 03:16Z. Both helper gaps have 23/23 self-checks with causal failure/restoration evidence. The main context’s 56 controlled theme files matched exactly in the same run.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "All six measures remain unmeasured until the original helper rejects unknown controlled theme assets and invalidates measurements affected by mismatched or later-loaded sources. Hosted reviews, Engine’s SEO causal repair, native proof and final ratings remain open.",
-  "current": "Big Bag’s original proof passed and PR #4743 is Ready with its first approval. First Look’s original proof passed and PR #4744 is Draft. Root accepted a closed 56-file served-source manifest; the original measurement writer has one bounded helper-repair continuation.",
-  "next": "Original Hands repairs and checks the two measurement source gates, then runs the six authorized remote OFF measurements on the exact served files. Consume existing review results and the chair’s Big Bag queue disposition; retain First Look’s Draft hold.",
-  "updated": "2026-10-22T02:48:07.516759+00:00",
+  "remaining": "The separate no-JS header context has 27 unhashed records covering 25 unique script URLs, so the old aggregate remains invalidated. The scoped continuation must bind actual response HTML/CSS and prove disabled-script classification. Big Bag’s hosted voice test timed out; its cause is unknown. Native, connected and final-reader evidence remain open.",
+  "current": "The original remote measurement run returned with its source gate closed. Its main browsing context matched all 56 served files. Startup and warm-content samples passed; companion Back/Close geometry passed. Desktop options frame timing failed. Header evidence was invalidated, contrast was not measured and the full journey remains unmeasured.",
+  "next": "Original Hands has one delivered continuation for header and contrast measures 3 and 4 only, after scoped helper checks. Its acknowledgment is due 03:31Z and progress or an exact prerequisite by 03:46Z. Big Bag’s hosted voice-test timeout is routed to the original Ask/Hands owners for diagnosis; no rerun is admitted.",
+  "updated": "2026-10-22T03:16:40.263384+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Big Bag’s original keeper passed all 53 declared pins and 11 named test files. PR #4743 already exists, is Ready and has its first approval; hosted checks continue. The chair is asked once to reconcile its earlier Ready action with the later queue hold.",
-    "First Look’s unchanged source passed the original keeper: eight pins and six named files, with recorded skips. PR #4744 is Draft. Its configured-home comparison and fallback-link proof remain verified; existing narrow-home issues remain separate.",
-    "Source uncertainty is resolved for the measurement subject: 41 captured bodies plus 10 original exact matches and five historical pet files form a closed 56-file manifest. Raw provenance and limitations remain; no blanket semantic-equivalence claim or census change.",
-    "The original Hands continuation was delivered at 02:47:14Z. Two helper-gate repairs and their self-checks must pass before the six authorized remote OFF measurements; acknowledgment, execution and measurements remain unverified.",
-    "Delivery remains 6/11, final rating passes 0/3 and native checks 0/7. The draft remains unpublished and assistant off. SEO stays Ready under the chair’s exception; Engine owns the causal test repair."
+    "Root verified all 53 listed artifacts from the completed original remote run. Both source-gate helper gaps have 23/23 passing checks, deliberate failure controls and successful restoration. The main context matched all 56 controlled theme files.",
+    "Startup blocking total was 38 ms; warm useful-content samples were 440, 306 and 310 ms. These recorded desktop Chromium metrics passed. Companion Back and Close geometry passed at 44×44px with separate hit areas; the close/reopen interruption did not execute.",
+    "Options passed four interactions at 380px, but three failed the frame thresholds at 1280px: a 50.1 ms gap and 55.4/61.9 ms long frames. That failure is retained. Loaded-host, instrumentation and sound effects remain unproven causes; no product diagnosis or adjusted result is claimed.",
+    "The old header aggregate remains invalidated: its no-JS context has 27 unhashed records for 25 script URLs. Contrast and the whole journey remain unmeasured. Root delivered one original-owner continuation for measures 3/4 only at 03:16Z; acknowledgment and execution are unobserved. The original results will not be replayed for better numbers.",
+    "Big Bag #4743’s hosted voice test timed out; the cause is unknown and diagnosis is routed to the original Ask/Hands owners without a rerun. First Look #4744 stays Draft and SEO’s original Engine repair remains pending. Delivery is 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -235,7 +235,7 @@
     {
       "label": "11. BIG BAG page and navigation",
       "blocker": "Normal 380px/1280px BIG BAG and the options interaction passed. At 188px, product names and sorting compress and page width is 189px; the footer repair is now installed, with its bounded footer visual check passed21:51Z. Native and final qualification remain open.",
-      "next": "The original narrow names/sort repair is PR #4743; consume its existing hosted checks, original reviews and chair queue disposition. Footer and product-page source releases are installed; original acceptance owners complete the changed-source visual, native and final checks."
+      "next": "The original narrow names/sort repair is PR #4743; consume its original hosted voice-timeout diagnosis, remaining checks, reviews and chair queue disposition. Footer and product-page source releases are installed; original acceptance owners complete the changed-source visual, native and final checks."
     }
   ],
   "timedPlan": {
@@ -261,12 +261,20 @@
         "text": "Publish and verify this task-site evidence update: matching Pages build and six served files confirmed (02:48Z–02:49Z, took about 2 min)."
       },
       {
-        "complete": false,
-        "text": "Original measurement helper: waiting for Hands acknowledgment/execution since02:47Z; check two source-gate repairs before the six remote OFF measurements (next check03:02Z; original source wait00:53:14Z retained)."
+        "complete": true,
+        "text": "Original measurement helper and remote attempt returned: source gate closed with partial outcomes (02:56Z–03:04Z, took about8 min; original packet subsequently verified)."
+      },
+      {
+        "complete": true,
+        "text": "Qualify the returned packet and deliver one original header/contrast continuation (03:10Z–03:16Z, took6 min)."
       },
       {
         "complete": false,
-        "text": "Existing release reviews: Big Bag’s hosted work is running; chair queue disposition requested once. First Look stays Draft; SEO stays Ready under its chair exception while Engine repairs the causal test (duration unknown; next check on original results)."
+        "text": "Waiting for original header/contrast continuation acknowledgment since03:16Z (next check03:31Z; progress or exact prerequisite due03:46Z)."
+      },
+      {
+        "complete": false,
+        "text": "Existing releases: Big Bag’s hosted voice test timed out; original Ask/Hands diagnosis requested03:14Z, cause unknown and no rerun. First Look stays Draft; SEO stays Ready under its chair exception while Engine repairs the causal test (duration unknown; next check on original results)."
       },
       {
         "complete": false,
@@ -289,7 +297,7 @@
         "text": "Final three original named-fix ratings and draft handover: pending required evidence (duration unknown; no live publication)."
       }
     ],
-    "landing": "Lands: source decision, original Hands delivery and task-site verification complete at02:49Z. Overall draft completion remains untimed; next original helper acknowledgment/START check03:02Z, with hosted reviews, device custody and final evidence still prerequisites."
+    "landing": "Lands: packet qualification and the bounded continuation decision completed03:16Z. Next acknowledgment check03:31Z, progress or exact prerequisite03:46Z. Overall draft completion remains untimed; valid measurements, original release diagnoses/reviews, device custody and final evidence are prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
