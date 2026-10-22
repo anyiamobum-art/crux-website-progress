@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original measures 1/5/6 writer process is present and bound to its original running brief; no returned report exists at this check. This proves the writer process is active, not that remote capture or measurements have completed. Header wording is restored to its original inbox, and desktop contrast remains staged. The old Studio quiet-window hold is closed; Website native acceptance is still unverified.",
+  "workerState": "At 09:53:31Z the original measures 1/5/6 continuation reported 50/50 tool self-checks and six causal regressions running. These are tool-validation steps, not completed storefront measurements or scores. Header wording is held for local capacity; remote work continues. Desktop contrast remains staged, and the original voice diagnostic brief awaits a chair custody correction after the holder refused execution without a remote claim.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Root verified First Look’s pushed head 78706af4, remote two-test pass and 13/13 pins, plus its first approval. P684’s exact dd2142de remote keeper ended with exit 0, 127 and 26 tests passing and all 51 pins passing. The original measures 1/5/6 process and matching brief were checked directly; no report or measurement credit is inferred.",
+  "lastActualProgress": "P684 repair #4758 was published Draft at 09:48Z on dd2142de after its original pre-push read. The original measures 1/5/6 continuation reported its self-check results at 09:53:31Z; no completed measurement result is claimed. First Look’s recovery request was delivered at 09:44:59Z and remains due for reconciliation at 10:00Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "First Look remains unmerged with failed hosted checks; the shared-main fix is merged, but recovery and required acceptance are not yet proved. P684’s green remote proof is not publication. The header repair, voice diagnostics, valid contrast, native and connected acceptance, and final-reader evidence remain open.",
-  "current": "First Look’s corrected source is now pushed and Ready. Its original remote keeper passed, including 13/13 pins, and the first review approved it at 06:26Z. Hosted checks still failed; the existing original-holder recovery route remains open. The separate P684 repair keeper also passed, but its Draft publication is still owed.",
-  "next": "Continue First Look through its original holder’s recovery and chair route, preserving review history and the shared-main repair that merged at 06:44:45Z. Hands owns P684’s separate pre-push read and Draft publication; protected SEO #4702 remains unchanged. Consume the original measures 1/5/6 return before the staged desktop contrast correction.",
-  "updated": "2026-10-22T09:44:05.720984+00:00",
+  "remaining": "P684’s Draft state currently stops test/review admission; publication is verified, but review, merge and installation remain open. First Look’s hosted recovery is still unverified. Header wording awaits local capacity; voice diagnostics, valid contrast, native and connected acceptance, and final-reader evidence remain open.",
+  "current": "The P684 repair is published as Draft #4758 on its tested source. Its pre-push read is complete; existing proof remains 127 + 26 tests and 51/51 pins passed. It awaits the original queue admission to Ready. First Look remains Ready with its first approval and failed hosted checks; its original recovery request is delivered.",
+  "next": "The original Hands owner admits #4758 to Ready when fewer than five runs are queued; the verified queue currently has ten. Preserve protected SEO #4702 unchanged. Reconcile First Look’s original recovery request at 10:00Z, and consume the original measures 1/5/6 return before the staged desktop contrast correction.",
+  "updated": "2026-10-22T09:58:11.685638+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "First Look #4744 is now Ready and open on pushed head 78706af4. Its original remote keeper passed two tests and 13/13 pins, and the first review approved it at 06:26Z. This advances source proof and review; it is not a merge or draft installation.",
-    "First Look’s hosted run failed with runner-abort results in groups 0/2 and a shared-main test failure in group 4. The shared-main repair #4752 merged at 06:44:45Z. The original holder’s existing recovery/chair route remains owed; the hosted failure has not been relabelled as a pass.",
-    "The separate P684 repair keeper completed on dd2142de with exit 0: 127 and 26 tests passed, and 51/51 pins passed. Its original Hands pre-push read and Draft publication remain open. Protected SEO #4702 stays on its existing source.",
-    "The original measures 1/5/6 writer process is active on its matching running brief, with no returned report found. Header wording is restored to its original inbox; desktop contrast remains staged. The earlier Studio window ended at 06:13:34Z and was released at 06:17:41Z, so that old publication hold is closed.",
-    "Qualified source remains 58 files; phone contrast still has the title-box overlap and no valid contrast score. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7; draft unpublished, assistant off. No product merge or installation credit is added for these pending website repairs."
+    "P684 repair #4758 was published Draft at 09:48Z on tested head dd2142de. Its original pre-push read is complete; 127 + 26 tests and 51/51 pins remain the accepted proof. No repeat tests are owed for this unchanged source.",
+    "Draft status currently stops #4758’s test/review admission. Its original owner will admit it to Ready when fewer than five runs are queued; the verified queue has ten. Protected SEO #4702 remains unchanged. Publication does not establish review, merge or installation.",
+    "First Look #4744 remains Ready and open on 78706af4 with its first approval only. The original holder’s recovery request was delivered at 09:44:59Z and is due for reconciliation at 10:00Z; no new recovery result is verified.",
+    "At 09:53:31Z, the original measures 1/5/6 continuation reported 50/50 tool self-checks and six causal regressions running. This advances validation of the measurement tool, not measurement completion or a website score. Header wording is held for local capacity; remote work continues. Desktop contrast remains staged, and the original voice diagnostic brief awaits a chair custody correction after the holder refused execution without a remote claim.",
+    "Qualified source remains 58 files; phone contrast still has the title-box overlap and no valid contrast score. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The draft remains unpublished and its private assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -250,7 +250,7 @@
       },
       {
         "complete": true,
-        "text": "P684 remote keeper completed (06:28Z–06:34Z, took about 6 min). Exact dd2142de: 127 + 26 tests and 51/51 pins passed; publication remains separate."
+        "text": "P684 remote keeper completed (06:28Z–06:34Z, took about 6 min). Exact dd2142de: 127 + 26 tests and 51/51 pins passed; the same source was published Draft #4758 at 09:48Z."
       },
       {
         "complete": true,
@@ -258,19 +258,23 @@
       },
       {
         "complete": false,
-        "text": "First Look hosted recovery: original holder and chair route still owed after shared-main #4752 merged 06:44:45Z (duration unknown; next check on original recovery/result)."
+        "text": "First Look hosted recovery: original holder request delivered 09:44:59Z; no new recovery result verified (duration unknown; next check 10:00Z). Shared-main #4752 merged 06:44:45Z; review history is retained."
+      },
+      {
+        "complete": true,
+        "text": "P684 separate Draft publication completed after the original pre-push read (published 09:48Z; duration unknown). #4758 holds tested dd2142de; protected SEO #4702 remains unchanged."
       },
       {
         "complete": false,
-        "text": "P684 separate Draft publication: original Hands pre-push read and gated publication remain (duration unknown; next check on original publication receipt). Protected SEO #4702 remains unchanged."
+        "text": "P684 Ready admission: waiting since Draft publication 09:48Z for fewer than five queued runs; current verified queue ten (duration unknown; original owner checks changed queue state)."
       },
       {
         "complete": false,
-        "text": "Measures 1/5/6: original writer process and running brief verified at 09:43Z; no report found (duration unknown; next check on original return). No remote measurement completion is inferred."
+        "text": "Measures 1/5/6: original continuation reported 50/50 tool self-checks and six causal regressions running at 09:53:31Z (duration unknown; next check on original return). No measurement completion or score is inferred."
       },
       {
         "complete": false,
-        "text": "Header repair: original wording item restored to inbox; keeper/release result remains unverified (duration unknown; next check on changed original evidence)."
+        "text": "Header repair: original wording item held for local capacity; keeper/release result remains unverified (duration unknown; next check on original capacity release or changed evidence). Remote work continues."
       },
       {
         "complete": false,
@@ -278,7 +282,7 @@
       },
       {
         "complete": false,
-        "text": "Original Ask diagnostic follow-up: queued in the last verified handoff; no new execution proof (duration unknown; next check on original result)."
+        "text": "Original Ask diagnostic follow-up: holder refused execution without a remote claim; Hands has requested the existing chair custody correction, with no relaunch or execution proof (duration unknown; next check on original result)."
       },
       {
         "complete": false,
@@ -290,10 +294,10 @@
       },
       {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 09:43Z, est. 3 min; Pages propagation may move it)."
+        "text": "Refresh and verify this public snapshot (started 09:57Z, est. 4 min; Pages propagation may move it)."
       }
     ],
-    "landing": "Lands: public snapshot about 09:46Z (3 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: public snapshot about 10:01Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
