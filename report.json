@@ -257,12 +257,12 @@
         "text": "Accept the closed 56-file served-source manifest and deliver one original Hands continuation (02:42Z–02:47Z, took about 5 min)."
       },
       {
-        "complete": false,
-        "text": "Publish this task-site evidence update (started 02:48Z, est. 5 min)."
+        "complete": true,
+        "text": "Publish and verify this task-site evidence update: matching Pages build and six served files confirmed (02:48Z–02:49Z, took about 2 min)."
       },
       {
         "complete": false,
-        "text": "Original measurement helper: waiting for Hands acknowledgment/execution since02:47Z; check two source-gate repairs before the six remote OFF measurements (next check03:05Z; original source wait00:53:14Z retained)."
+        "text": "Original measurement helper: waiting for Hands acknowledgment/execution since02:47Z; check two source-gate repairs before the six remote OFF measurements (next check03:02Z; original source wait00:53:14Z retained)."
       },
       {
         "complete": false,
@@ -289,7 +289,7 @@
         "text": "Final three original named-fix ratings and draft handover: pending required evidence (duration unknown; no live publication)."
       }
     ],
-    "landing": "Lands: task-site update about02:53Z (5 min left; Pages deployment may move it). Overall draft completion remains untimed: original helper execution, hosted reviews, device custody and final evidence are still prerequisites."
+    "landing": "Lands: source decision, original Hands delivery and task-site verification complete at02:49Z. Overall draft completion remains untimed; next original helper acknowledgment/START check03:02Z, with hosted reviews, device custody and final evidence still prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
