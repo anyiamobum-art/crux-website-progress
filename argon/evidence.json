@@ -1,5 +1,5 @@
 {
-  "snapshot": "22 October 2026, 14:37 UTC",
+  "snapshot": "22 October 2026, 15:18 UTC",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -231,7 +231,7 @@
       "name": "Embedding engine",
       "status": "Argon feedback pending",
       "title": "Is the compute doing useful work?",
-      "summary": "The live fashion embedding endpoint and a dated EmbeddingGemma 2 lab are different scopes. Evidence is prepared; Argon has not returned a verdict.",
+      "summary": "The live fashion embedding endpoint and a dated EmbeddingGemma 2 lab are different scopes. Four bounded review inputs are prepared through the corrected runner; Argon has not returned a verdict.",
       "before": "Should EmbeddingGemma 2 be kept, improved, repurposed or retired?",
       "after": "Existing use of the live FashionSigLIP endpoint is verified. The separate lab’s current activity, hosting cost and benefit still need evidence.",
       "resultTitle": "Investigation prepared",
@@ -244,7 +244,7 @@
         },
         {
           "title": "Keep the decision with the original owner.",
-          "text": "Evidence has been prepared for a conditional keep, improve, repurpose or retire review. Argon feedback is pending. The owner must establish the specific allocation, its callers and current resource use before recommending a change.",
+          "text": "The exact shared context, two evidence sections and one final advisory question are prepared and screened. No provider call was made. The original supervised review route remains pending; current allocation, callers and hosting evidence are still required.",
           "state": "Review pending / no recommendation adopted"
         },
         {
@@ -271,8 +271,8 @@
         },
         {
           "title": "Next evidence required",
-          "date": "Review evidence prepared",
-          "text": "Reconcile the separate lab’s current allocation and callers, then obtain current resource and hosting evidence. Compare retrieval quality, response time and user benefit before any conditional decision."
+          "date": "Prepared and checked 22 October 2026",
+          "text": "Four review inputs are prepared with source identity, dated quality and timing evidence, uncertainty and a conditional keep/improve/repurpose/retire question. No scores from other readers are included. Argon feedback, current lab activity and hosting cost remain unverified."
         }
       ],
       "limit": "Argon feedback is pending. Historical lab results are not a current deployment or improvement claim. Current lab activity, hosting cost and user benefit remain unverified."

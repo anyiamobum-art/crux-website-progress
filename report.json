@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title writer finished at 14:06Z; no push or installation is claimed for that repair. The original review-runner correction started at 14:11Z. The Studio simulator lock was released at 14:54Z; the original keeper has been asked for the Website Chrome handback. The additional Website advisory response is accepted but not yet collected; it will not be resent.",
+  "workerState": "The title writer finished at 14:06Z and the review-runner correction returned by 15:03Z. Root verified its four corrections and prepared the embedding advisory at 15:13Z without sending it. The original shared-resource handoff was delivered at 14:55Z and checked at 15:12Z; no matching Chrome handback was found. The additional accepted Website advisory response will be collected, not resent.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate title-overlap repair remains with its original writer after the first candidate failed and was reverted; one 12 px lift continuation requested 13:16Z and queued13:38:05Z, execution not observed. Source proof may proceed independently; browser work waits for keeper handback. SEO remains in its original lane."
+      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate 12 px title lift returned at14:06Z. Full remote proof remains with the existing keeper; browser proof awaits explicit Chrome handback. No push, review or installation of this candidate is claimed. SEO remains in its original lane."
     },
     {
       "stage": "Tests",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original title repair returned at 14:06Z. The marketing attribution warning is verified in returned source at 14:36Z. The original runner produced an executing tool call at 14:37Z; no terminal result yet. Existing draft installations remain byte-verified; the newly prepared public update is not yet published.",
+  "lastActualProgress": "The contribution update130c3f1 was served-byte verified at15:09Z and rendered. The corrected runner’s four integration repairs were verified at15:05Z; the embedding advisory’s four chunks were prepared at15:13Z and inspected. Existing draft installations remain byte-verified. No final acceptance or rating credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,8 +130,8 @@
     [
       "11. BIG BAG page and navigation",
       "Reviewed CSS installed — changed-source acceptance open",
-      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate title-overlap candidate failed and was reverted.",
-      "Original title writer continues the requested 12 px lift; rendered, native and final qualification remain open."
+      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate 12 px title lift returned at14:06Z; remote and browser proof remain.",
+      "Original proof, review and installation for the title lift; installed-source desktop, native and final qualification remain open."
     ]
   ],
   "completed": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The separate title repair still needs full remote and rendered proof. The shared simulator window has ended; browser driving awaits the original Chrome handback, while the public update proceeds. Native, connected and original final-reader acceptance remain open. The original shared runner correction is executing; no attended product run is claimed. Database access remains disconnected.",
-  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair is source-ready; browser and full remote proof remain. Two source-backed marketing recommendations from Argon’s advisory are accepted into the original build plan, with the first API warning returned in source and release still pending. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
-  "next": "At the actual Studio/People resource handback, complete the affected installed-source desktop checks and the separate title candidate’s browser proof. Preserve the original native intake and supported Inspector recovery. The original review-runner repair is running; its first attended product run remains unverified.",
-  "updated": "2026-10-22T14:55:46.795350+00:00",
+  "remaining": "The title repair still needs full remote and rendered proof. The shared native window closed at 14:54:34Z; Website Chrome restoration and explicit handback are not yet verified. Native, connected and original final-reader acceptance remain open. Database access remains disconnected.",
+  "current": "Reviewed First Look and Big Bag fixes are installed in the unpublished draft. The separate title-overlap repair is source-ready and awaits full remote and browser proof. Argon’s corrected review runner has returned and its four integration fixes are checked; the embedding advisory is prepared with no provider call. Delivery remains 6/11, final rating passes 0/3 and native checks 0/7.",
+  "next": "Complete the installed-source desktop checks and title candidate proof when the original Chrome handback arrives. Original Hands retains title remote proof, header publication and SEO integration. The first supervised review-runner execution remains with the original Ad Brain owner; the prepared embedding advisory follows its admitted route.",
+  "updated": "2026-10-22T15:18:00.742895+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -208,7 +208,7 @@
     "The title writer completed the 12 px lift at 14:06Z. The new causal regression passed after restoration; the absent browser engine caused a separate skip. Full remote and browser proof are still owed, so this repair is not yet reviewed, pushed or installed.",
     "The first accepted marketing recommendation now has returned source: an API upper-bound flag and explanation. The on-screen explanation and wallet change remain pending. No review, merge, deployment or measured-benefit credit is claimed.",
     "The source audit checked 112 advisory claims: 41 confirmed fully or partly, 44 refuted wholly or in their mechanism, 3 already fixed and 24 not checkable. Two uncovered recommendations were accepted into the original marketing build plan. This is not a quality score or shipped improvement.",
-    "The original shared review-runner correction started at 14:11Z. Four integration issues were acknowledged; no duplicate writer or additional product review was started.",
+    "The original shared review-runner correction returned by 15:03Z; all four requested corrections are present in the returned source. The embedding advisory was prepared and screened at 15:13Z with no provider call. The first supervised product run is still unverified.",
     "Remaining measurement obligations are reconciled. The earlier public journey and desktop contrast runs are complete. Desktop frame timing, modal interruption and whole-journey coverage retain their precise missing evidence; completed measurements will not be replayed. Historical signed-buyer and populated-bag context exists. Its current availability needs a read in the retained browser session; no login, session transfer or cart mutation is implied. Shopify remains unpublished."
   ],
   "openDeliveryGates": [
@@ -234,8 +234,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title-overlap candidate failed and was reverted.",
-      "next": "Check the already installed source independently when browser custody returns. The original writer’s 12 px lift continuation is queued from 13:38:05Z; source proof may proceed, with execution unverified and next inspection 13:55Z. Its own review/release and acceptance remain separate."
+      "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title repair returned at 14:06Z and is not yet reviewed or installed.",
+      "next": "Check the installed source independently when the original Chrome handback arrives. Complete full remote and browser proof for the returned 12 px lift, then its original review/release and changed-source acceptance."
     }
   ],
   "timedPlan": {
@@ -293,12 +293,20 @@
         "text": "Verify marketing-owner adoption and correct the prepared public card (14:18Z–14:22Z, took 4 min; no publication during native window)."
       },
       {
-        "complete": false,
-        "text": "Original review-transport correction running (started14:11Z, est.45 min; fresh execution14:48Z, next result check14:58Z). Attended live proof and advisory follow separately."
+        "complete": true,
+        "text": "Consume the original review-transport correction and check its four fixes (14:11Z–15:05Z, took54 min including original writer execution; reported offline tests are separate from live proof)."
+      },
+      {
+        "complete": true,
+        "text": "Prepare and inspect the embedding advisory with the corrected transport (15:10Z–15:16Z, took6 min; one statistical-word false positive clarified, no provider call)."
       },
       {
         "complete": false,
-        "text": "Waiting on Chrome handback since13:34Z (native lock released14:54Z; original keeper asked14:55Z, next check15:10Z). Existing installed-source and title checks follow (est.15 min)."
+        "text": "Waiting for the original supervised product review and the embedding advisory’s first-run disposition (since15:16Z; next check on original result or15:30Z; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Waiting on Chrome handback since13:34Z (native lock released14:54Z; original keeper asked14:55Z, original destination checked15:12Z, next check15:25Z). Existing installed-source and title checks follow (est.15 min)."
       },
       {
         "complete": true,
@@ -317,11 +325,15 @@
         "text": "Apply verified marketing adoption to the local contribution page (14:28Z–14:30Z, took2 min; two files, other systems and counts preserved)."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the contribution update (14:55Z–15:12Z, took17 min; hosting queued until15:06Z, four changed files exact and rendered)."
+      },
+      {
         "complete": false,
-        "text": "Validate and publish the contribution update (started14:55Z, est.8 min; shared lock released)."
+        "text": "Publish the returned-runner status and corrected title checklist (started15:18Z, est.7 min)."
       }
     ],
-    "landing": "Lands: public update about15:03Z (8 min left at14:55Z; hosting and rendered readback may move it). Browser checks follow the actual Chrome handback; final draft completion remains unknown pending repairs, native proof and original ratings. Shopify remains unpublished."
+    "landing": "Lands: updated public status about15:25Z (7 min left at15:18Z; hosting propagation may move it). Browser checks follow the original explicit Chrome handback; full draft completion remains unknown pending repairs, native proof and original ratings. Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
