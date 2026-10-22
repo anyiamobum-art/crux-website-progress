@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The privacy packet is complete. Measurement, First Look and Big Bag briefs remain in the original inbox with no START observed. At 23:23Z, SEO test groups 1, 2 and 3, pin-proof and guards passed; groups 0 and 4 were queued and critical review remained pending.",
+  "workerState": "Original measurement execution is confirmed: remote preparation began by 00:27:52Z and tools continued through 00:34:47Z on 22 October. The brief is in running; no report is present. The older pulse deadline does not establish a stopped job. Other repair positions remain at their last recorded snapshots.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At21:51Z, footer and PDP layout checks finished at188/380/430/1280px. The PDP quantity control is50×44px and selecting XL exposes Add to bag without changing the cart. The narrow companion panel contains its choices and all four motion controls. First Look still overflows at188px.",
+  "lastActualProgress": "At 00:31:25Z on 22 October, the original measurement job copied the helper, asset hashes and contrast sampler to the box. Runtime/container/cache inspection followed at 00:32:41Z, and source inspection continued at 00:34:47Z. This is remote preparation, without measurement or acceptance credit.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The measurement job has no verified START or source-qualified preview result. Shared Chrome is unavailable tonight; access requiring the owner session returns to the dated Opus-hands morning window after 08:00Z. Native allocation remains separate.",
-  "current": "Original Ask completed the dated source/processor, published terms and draft-notice packet. Historical source equality is recorded; current runtime and actual account arrangements remain unverified. The assistant stays off.",
-  "next": "Retain one existing owner policy card after draft readiness for actual account arrangements and matching CRUX storage/history wording. Consume the original measurement START/access result and existing repair results; keep iPhone checks with their original owner.",
-  "updated": "2026-10-21T23:23:15.727900+00:00",
+  "remaining": "The running job has not yet returned source-qualified preview access or measurements. Shared Chrome remains unavailable in this window; an actual access failure returns to the dated original morning slot after 08:00Z. Native allocation remains separate.",
+  "current": "The original remote measurement job is running. It has found the cached browser runtime and transferred the measurement helper, asset hashes and original contrast sampler to the box. Preview identity, source qualification and measurements remain unverified.",
+  "next": "Consume the same running job’s source-qualified preview access and measurement result. Keep the existing owner policy card after draft readiness, original repair results and iPhone acceptance with their current owners.",
+  "updated": "2026-10-22T00:36:12.681929+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Original Ask’s dated processor/source, published retention/training terms and draft-notice packet is complete. Its historical served-source comparison is evidence of source equality, not a current runtime attestation or provider-call result.",
-    "The remaining account arrangement and CRUX storage/history wording stay on one existing owner policy card after draft readiness. The draft notice is unpublished and unapproved; assistant activation remains off.",
-    "The missing 99-asset hash manifest was delivered once to Hands for the same measurement obligation at 23:19Z. Measurement, First Look and Big Bag briefs remain in the original inbox with no START observed; no duplicate job was launched.",
-    "At 23:23Z, SEO’s published head had passing pin-proof, guards and test groups 1, 2 and 3; groups 0 and 4 were queued and critical review remained pending. The original first named-fix approval is retained.",
-    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. Packet completion does not close connected acceptance, final ratings or unpublished draft handover."
+    "The original remote measurement job is running: remote preparation is verified from 00:27:52Z through 00:34:47Z on 22 October. Its brief moved to running; no measurement report is present.",
+    "The job found the cached browser runtime and copied the helper, asset hashes and recovered original contrast sampler to the box. Preview identity and fetched-source qualification remain unverified; these preparation steps add no timing, native or rating credit.",
+    "The earlier pulse deadline passed while actual tools continued. The same execution is retained; no duplicate job or restart was launched.",
+    "Original Ask’s source/dated terms/draft-notice packet remains complete. Actual account arrangements and CRUX storage/history wording stay on the existing owner card after draft readiness; the assistant remains off.",
+    "Delivery remains 6/11, final ratings 0/3 and native checks 0/7. The draft remains unpublished, and original repair, connected-acceptance and final-reader obligations remain open."
   ],
   "openDeliveryGates": [
     {
@@ -262,7 +262,7 @@
       },
       {
         "complete": false,
-        "text": "Remote draft measurements: brief delivered22:59:43Z; Hands inbox placement verified23:17Z, no START/access result (est.20 min after source-qualified access; original due23:15Z retained, next check on original START/result)."
+        "text": "Remote draft measurements: original job running, remote preparation observed00:27:52Z–00:34:47Z on22Oct (est.20 min after source-qualified access, which remains unverified). First delivery21Oct22:59:43Z and original due23:15Z retained; next check on the same job’s access/result."
       },
       {
         "complete": true,
@@ -281,7 +281,7 @@
         "text": "Final three independent named-fix ratings and draft handover: pending qualified evidence; no live publication."
       }
     ],
-    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due23:15Z retained; next event is the original START/access result. Repair checks remain in their existing queue."
+    "landing": "Lands: unknown; original repair results, device custody and final evidence determine remaining time. Original measurement due21Oct23:15Z retained; execution is running, with source-qualified access/result still required. Repair checks remain in their existing queue."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
