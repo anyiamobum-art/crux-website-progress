@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The separate website research response is running after one submitted brief. This is additional research, not a replacement final review. Voice #4743 and P684 #4758 have first approvals with checks pending; First Look #4744 awaits its first approval on its current head. The previously acknowledged contrast and companion work remains held by local capacity.",
+  "workerState": "The initial advisory critique is complete; the same research conversation is continuing with sanitized assistant advancement context. Integration research and business-verification assistance remain in progress. Existing repair owners retain release work; the last verified review states and capacity prerequisites are unchanged.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The public website, maps and store-visit research brief was submitted once to the visibly selected 4 Argon / High session; its response is in progress. Latest release reconciliation retains #4743 on 1e57db3c and #4758 on dd2142de with first approvals, and #4744 on 72811557 with first review pending. No new merge or installation is claimed.",
+  "lastActualProgress": "The additional 4 Argon / High website advisory returned, with its inability to render the live site explicitly retained and no visual score. The same conversation received sanitized Ask EON and Companion advancement context. Google and Shopify integration research was added alongside generic business-verification assistance; no storefront or account change is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The additional research has no completed finding or score yet and does not close a delivery gate. Required hosted checks, remaining original reviews, merge and installation are still open. Partial measurements, native and connected acceptance, and final-reader evidence remain incomplete.",
-  "current": "A separate website, maps and store-visit research review has been submitted to Google Gemini using the visibly selected 4 Argon model and High thinking. Its response is in progress. Existing delivery continues: the voice repair and P684 each have a first approval; First Look’s first review is pending. Hosted checks remain open.",
-  "next": "Consume the website research response and distinguish useful findings from proposals before routing any changes. Preserve the three original final reviewers and their remaining named-fix checks. Continue exact-head hosted CI and reviews for the existing repairs; acknowledged contrast and companion work still await their local launch prerequisite.",
-  "updated": "2026-10-22T10:53:01.571910+00:00",
+  "remaining": "The advisory critique is not a rendered visual review or final rating. Business-verification assistance has an access limitation and remains incomplete. Required hosted checks, original reviews, merge and installation, partial measurements, native and connected acceptance, and final-reader evidence remain open.",
+  "current": "The initial website, maps and store-visit advisory critique is complete. The research model could not render the live site, so it provides no visual score. The same conversation is now reviewing sanitized Ask EON and Companion advancement context. Google and Shopify integration research and business-verification assistance are proceeding in parallel.",
+  "next": "Assess the advisory findings and the ongoing assistant-context review, then route any accepted proposals through the original owners. Continue integration research and the supported business-verification route. Preserve the three original final reviewers, existing release history and all remaining acceptance gates.",
+  "updated": "2026-10-22T11:06:07.569150+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "A separate review of the public website, maps and store-visit journey was submitted once to Google Gemini. The selected model was visibly 4 Argon with High thinking, the highest available setting. Its response is in progress; findings are not yet recorded.",
-    "This is additional research. Fable 5.1, Astra 6 and Opus 5.5 remain the original final website readers, with their review history and remaining named-fix checks preserved. The new research provides no final-rating or delivery credit.",
-    "Voice repair #4743 on 1e57db3c and P684 #4758 on dd2142de each have a first approval, with hosted checks pending. First Look #4744 on 72811557 awaits its first approval. A first approval does not complete review, merge or installation.",
-    "The original contrast helper and companion overlap work remain acknowledged and placed, with their local launch capacity prerequisite unmet. Native acceptance retains its separate prerequisites. Previous measurement results and their limits remain unchanged.",
-    "Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The Shopify draft remains unpublished with its private assistant off. Research is proceeding alongside the existing release work."
+    "The initial website, maps and store-visit advisory critique is complete. The 4 Argon / High research session could not render the live site, so the return has no visual score and does not establish rendered acceptance.",
+    "The same original research conversation is now reviewing sanitized Ask EON and Companion advancement context. This is additional advisory work; Fable 5.1, Astra 6 and Opus 5.5 remain the original final website readers with their existing history and named-fix checks.",
+    "Google and Shopify integration research is proceeding in parallel. Business-verification assistance is also in progress, with an access limitation still to resolve. No completed verification, integration change or storefront change is claimed.",
+    "Existing release evidence remains intact. The last verified states retain first approvals for voice repair #4743 and P684 #4758, while First Look #4744’s first review and hosted checks remain open. Research does not replace the original release or acceptance work.",
+    "Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The Shopify draft remains unpublished with its private assistant off. The advisory return adds no final-rating, native or delivery credit."
   ],
   "openDeliveryGates": [
     {
@@ -309,15 +309,23 @@
         "text": "Final original named-fix ratings and unpublished draft handover: pending required evidence (duration unknown; final passes 0/3)."
       },
       {
-        "complete": false,
-        "text": "Separate website, maps and store-visit research: one brief submitted, response in progress (submission time not recorded here; duration unknown; next check on the research return). Original final readers and ratings unchanged."
+        "complete": true,
+        "text": "Initial website, maps and store-visit advisory critique returned (verified 11:05Z; actual completion time and duration unknown). Live site rendering was unavailable; no visual score or final-review credit."
       },
       {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 10:52Z, est. 4 min; Pages propagation may move it)."
+        "text": "Same-conversation assistant advancement review: sanitized Ask EON and Companion context under review (duration unknown; next check on original research return)."
+      },
+      {
+        "complete": false,
+        "text": "Parallel Google and Shopify integration research and business-verification assistance: in progress; verification access limitation remains (duration unknown; next check on research result or supported verification route)."
+      },
+      {
+        "complete": false,
+        "text": "Refresh and verify this public snapshot (started 11:05Z, est. 4 min; Pages propagation may move it)."
       }
     ],
-    "landing": "Lands: public snapshot about 10:56Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: public snapshot about 11:09Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
