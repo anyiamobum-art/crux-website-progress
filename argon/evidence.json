@@ -1,5 +1,5 @@
 {
-  "snapshot": "22 October 2026, 12:43 UTC",
+  "snapshot": "22 October 2026, 12:53 UTC",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -10,48 +10,58 @@
     "adbrain": {
       "number": "01",
       "name": "Ad Brain",
-      "status": "Advisory adopted",
-      "title": "A sharper Google-side question.",
-      "summary": "Argon supplied an additional advisory perspective. The original owner adopted it as evidence for the next improvement decision.",
-      "before": "Which Google-side proposals belong in the existing Ad Brain plan?",
-      "after": "The advisory is preserved with the original owner. Proposals still require source validation, a bounded decision and measured results.",
+      "status": "Three evidence follow-ups",
+      "title": "Three questions. Clearer boundaries.",
+      "summary": "Two findings accepted for evidence follow-up; one deferred. Source checking corrected the claim that no Google pipeline exists.",
+      "before": "Do Google grading, wallet readiness and till-code counts provide enough evidence?",
+      "after": "Trace the existing Google grading boundary, verify wallet evidence and defer attribution claims until consent, identity and matching are established.",
       "resultTitle": "Verified contribution",
-      "result": "An additional advisory response adopted. No implemented lift, campaign change or financial outcome attributed to it.",
+      "result": "Three focused evidence follow-ups. No new product implementation, deployment or sales lift is attributed to this review.",
       "stages": [
         {
-          "title": "Look across the Google-side dependencies.",
-          "text": "The advisory considers the relationship between advertising, catalogue feeds, measurement and store visits. These are proposed lines of investigation, not verified product defects.",
-          "state": "Proposal / advisory"
+          "title": "Three findings need different decisions.",
+          "text": "Google spend is outside the backtest’s per-ad money grading. Wallet readiness needs source and freshness evidence. Till-code counts alone do not establish Google’s contribution to store sales.",
+          "state": "Frozen-pack advisory / live interface not inspected"
         },
         {
-          "title": "The original owner consumes the advice.",
-          "text": "The Ad Brain owner adopted the completed response into its existing assessment and prepared a named-evidence follow-up. Private assessment details are excluded from this exhibit.",
-          "state": "Adoption confirmed"
+          "title": "Accept two follow-ups; defer the third.",
+          "text": "The original lead accepted Google grading and wallet readiness for evidence follow-up. Source inspection contradicts “no Google pipeline.” Store-sales attribution is deferred; the claim that one proposed tracking method is the only answer is unsupported.",
+          "state": "Two accepted for evidence / one deferred"
         },
         {
-          "title": "No implementation is credited here.",
-          "text": "The original owner decides which findings merit work in its next bounded directive. A suggestion does not change a campaign, database or product by itself.",
-          "state": "Implementation outcome unverified"
+          "title": "Select a build after the evidence.",
+          "text": "The original lead will trace ingestion, reporting grain and grading; establish supported wallet evidence or preserve unknown; then evaluate consent, identity, deduplication and matched conversions. No implementation is credited yet.",
+          "state": "Build dispositions pending"
         },
         {
-          "title": "Measure the change before claiming lift.",
-          "text": "There is no qualified improvement metric attributable to this contribution in the public record. The value proved so far is an additional evidence input.",
-          "state": "Lift unknown / no public score"
+          "title": "Source reconciliation is the verified result.",
+          "text": "Seven relevant source files matched the reviewed version. No provider-balance readiness, conversion upload, campaign action or causal sales result was verified. No new product test, merge or deployment belongs to this contribution.",
+          "state": "Source checked / user outcome unmeasured"
         }
       ],
       "evidence": [
         {
-          "title": "Original-owner advisory adoption",
-          "date": "22 October 2026",
-          "text": "Completed response delivered privately and adopted by the original Ad Brain owner. Named-evidence follow-up prepared."
+          "title": "Google grading — accepted for evidence follow-up",
+          "date": "22 October 2026 · original-owner disposition",
+          "text": "The backtest’s per-ad grading excludes Google spend. The existing Google pipeline is present; the lead will trace ingestion, reporting grain and the grading boundary before selecting a build."
         },
         {
-          "title": "Fourth-seat directive",
-          "date": "22 October 2026",
-          "text": "Proposals remain evidence for original-owner decisions; they do not authorize spending, activation or a merge."
+          "title": "Wallet readiness — accepted for evidence follow-up",
+          "date": "Same disposition",
+          "text": "A ledger entry cannot certify a provider balance. Supported account-specific source and freshness evidence are still needed; otherwise readiness stays unknown."
+        },
+        {
+          "title": "Store-sales attribution — deferred pending evidence",
+          "date": "Same disposition",
+          "text": "Till-code counts alone do not establish Google’s contribution. Consent, identity, deduplication and matched-conversion evidence must be evaluated before implementation."
+        },
+        {
+          "title": "Source verification and next milestone",
+          "date": "Same disposition",
+          "text": "Seven relevant source files were unchanged against the reviewed version. The original lead records build dispositions before the next bounded round through the approved runner; the first Ad Brain run remains attended."
         }
       ],
-      "limit": "The underlying assessment contains private business information. This public summary intentionally exposes neither its figures nor its scores."
+      "limit": "Argon reviewed a frozen evidence pack, not the live interface or current repository through its reported connection. Its assessment remains separate from original review scores and release checks. No private figures or scores are published."
     },
     "studio": {
       "number": "02",
