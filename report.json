@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The voice and First Look publication jobs are terminal and marked pushed; GitHub confirms both exact heads Ready and open. The previous voice proof condition, First Look placement wait and P684 Draft-admission wait are closed. Contrast and companion work have acknowledgment and placement, but no execution claim while their local capacity prerequisite is unmet.",
+  "workerState": "The separate website research response is running after one submitted brief. This is additional research, not a replacement final review. Voice #4743 and P684 #4758 have first approvals with checks pending; First Look #4744 awaits its first approval on its current head. The previously acknowledged contrast and companion work remains held by local capacity.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Voice head 1e57db3c passed 75 voice tests, three Big Bag tests and 73/73 causal pins. The separate real-route proof produced both deliberate named timeout failures and restored clean source. First Look head 72811557 passed two focused tests and 5/5 pins; its keeper ended at 10:39:44Z and the pushed head is verified on GitHub.",
+  "lastActualProgress": "The public website, maps and store-visit research brief was submitted once to the visibly selected 4 Argon / High session; its response is in progress. Latest release reconciliation retains #4743 on 1e57db3c and #4758 on dd2142de with first approvals, and #4744 on 72811557 with first review pending. No new merge or installation is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "Hosted CI, original reviews, merge and installation remain separate gates for both repairs. The voice diagnostics now prove their failure messages, but the original timeout cause remains unproved. Local capacity holds the acknowledged contrast and companion launch lanes. Partial measurements, native and connected acceptance, and final-reader evidence remain open.",
-  "current": "Both original repair owners have published their new source. The voice diagnostic repair passed its remote keeper and both required forced timeout checks on the real route. First Look integrated current main, passed its focused tests and causal pins, and pushed the resulting head. Both PRs are Ready and open; neither is merged. P684 #4758 has also entered Ready after admission succeeded at 10:10:32Z; its test groups are running or queued.",
-  "next": "Consume hosted CI and the remaining original reviews on each exact pushed head. The desktop contrast helper and companion overlap diagnosis are acknowledged and placed, but their local launch lanes await capacity. Resume those same owners when the prerequisite clears; native acceptance retains its separate capacity and custody requirements.",
-  "updated": "2026-10-22T10:41:29.156692+00:00",
+  "remaining": "The additional research has no completed finding or score yet and does not close a delivery gate. Required hosted checks, remaining original reviews, merge and installation are still open. Partial measurements, native and connected acceptance, and final-reader evidence remain incomplete.",
+  "current": "A separate website, maps and store-visit research review has been submitted to Google Gemini using the visibly selected 4 Argon model and High thinking. Its response is in progress. Existing delivery continues: the voice repair and P684 each have a first approval; First Look’s first review is pending. Hosted checks remain open.",
+  "next": "Consume the website research response and distinguish useful findings from proposals before routing any changes. Preserve the three original final reviewers and their remaining named-fix checks. Continue exact-head hosted CI and reviews for the existing repairs; acknowledged contrast and companion work still await their local launch prerequisite.",
+  "updated": "2026-10-22T10:53:01.571910+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original voice diagnostic repair is pushed on 1e57db3c and remains Ready and open. Its remote keeper completed with 75 voice tests, three Big Bag tests and 73/73 causal pins passing. The 3-second and 4-second limits and assertions remain unchanged; this is diagnostic improvement, not a proved root-cause fix.",
-    "The outstanding real-route diagnostic proof is complete: 75 normal tests passed, then the two deliberately forced timeouts failed under their correct ready-wait and finish-wait names. The real route and database fixture were used, and the scratch changes were removed with clean source restored. The prior proof wait is closed.",
-    "First Look’s original owner integrated current main and pushed 72811557. Its remote keeper passed both focused tests and 5/5 causal pins, ending successfully at 10:39:44Z. GitHub confirms the new head Ready and open. Fresh hosted CI and original reviews remain separate; neither repair is merged or installed.",
-    "The original desktop contrast helper and companion overlap diagnosis were acknowledged and placed at 10:35–10:36Z. Both local launch lanes are held by current capacity, so the wait is no longer missing acknowledgment. Native acceptance has separate capacity and custody prerequisites; no execution or acceptance is inferred. P684 #4758 is now Ready with admission verified at 10:10:32Z and hosted tests running or queued; its earlier Draft-skipped check is not a product test failure.",
-    "Measurement results remain unchanged: measure 1 FAIL, measure 5 PARTIAL, and the permitted public segment recorded while the whole journey stays NOT_MEASURED. Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The draft remains unpublished with its private assistant off."
+    "A separate review of the public website, maps and store-visit journey was submitted once to Google Gemini. The selected model was visibly 4 Argon with High thinking, the highest available setting. Its response is in progress; findings are not yet recorded.",
+    "This is additional research. Fable 5.1, Astra 6 and Opus 5.5 remain the original final website readers, with their review history and remaining named-fix checks preserved. The new research provides no final-rating or delivery credit.",
+    "Voice repair #4743 on 1e57db3c and P684 #4758 on dd2142de each have a first approval, with hosted checks pending. First Look #4744 on 72811557 awaits its first approval. A first approval does not complete review, merge or installation.",
+    "The original contrast helper and companion overlap work remain acknowledged and placed, with their local launch capacity prerequisite unmet. Native acceptance retains its separate prerequisites. Previous measurement results and their limits remain unchanged.",
+    "Delivery stays 6/11, final rating passes 0/3 and native checks 0/7. The Shopify draft remains unpublished with its private assistant off. Research is proceeding alongside the existing release work."
   ],
   "openDeliveryGates": [
     {
@@ -262,7 +262,7 @@
       },
       {
         "complete": false,
-        "text": "First Look hosted CI and original reviews: Ready/open on 72811557, not merged (duration unknown; next check on exact-head CI/review result)."
+        "text": "First Look hosted CI and original reviews: Ready/open on 72811557, first review pending, not merged (duration unknown; next check on exact-head CI/review result)."
       },
       {
         "complete": true,
@@ -274,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "P684 hosted tests and original reviews: test groups running or queued; not merged (duration unknown; next check on original results). The prior Draft-skipped check is not a product failure."
+        "text": "P684 hosted tests and original reviews: first approval verified on dd2142de, checks pending; not merged (duration unknown; next check on original results). The prior Draft-skipped check is not a product failure."
       },
       {
         "complete": true,
@@ -298,7 +298,7 @@
       },
       {
         "complete": false,
-        "text": "Original voice repair hosted CI and reviews: Ready/open, not merged; diagnostic improvement does not prove the timeout cause (duration unknown; next check on exact-head CI/review result)."
+        "text": "Original voice repair hosted CI and reviews: first approval verified on 1e57db3c, checks pending, not merged; diagnostic improvement does not prove the timeout cause (duration unknown; next check on exact-head CI/review result)."
       },
       {
         "complete": false,
@@ -310,10 +310,14 @@
       },
       {
         "complete": false,
-        "text": "Refresh and verify this public snapshot (started 10:40Z, est. 4 min; Pages propagation may move it)."
+        "text": "Separate website, maps and store-visit research: one brief submitted, response in progress (submission time not recorded here; duration unknown; next check on the research return). Original final readers and ratings unchanged."
+      },
+      {
+        "complete": false,
+        "text": "Refresh and verify this public snapshot (started 10:52Z, est. 4 min; Pages propagation may move it)."
       }
     ],
-    "landing": "Lands: public snapshot about 10:44Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
+    "landing": "Lands: public snapshot about 10:56Z (4 min for publication and served-file verification; hosting propagation may move it). The whole draft has no defensible ETA while original release, measurement, native, connected and final-reader prerequisites remain open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
