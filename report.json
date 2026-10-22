@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title-helper and motion-question jobs have returned and been consumed. No product job is represented as running. The next browser action awaits explicit resource custody; no background capture or product writer is claimed. Shopify remains unpublished.",
+  "workerState": "The original Bridge is actively reconciling the browser and embedding-review handoffs. No product writer, browser capture or provider review is represented as running. The completed title-helper and motion-question results are retained. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Original Ask completed source-handling adoption at20:00Z; the same receipt was read back and its obsolete confirmation wait closed. Studio also adopted the verified image-review route conditions. The embedding advisory has refreshed, checked inputs but no provider call or verdict.",
+  "lastActualProgress": "All five public files verified exact at20:19Z. The original Ask source-handling confirmation is complete; Studio adopted the verified image-review route. A queue inspection found the current browser and embedding requests absent from the inspected action list; the original Bridge is reconciling that evidence.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The prepared title capture still lacks explicit browser allocation; next existing keeper check20:04Z. Actual CRUX retention/log/backup policy, mounted controls, connected and native proof, and final-reader acceptance remain open. Source-owner privacy confirmation is complete.",
+  "remaining": "The prepared title capture still lacks browser allocation. The 20:04Z handoff checkpoint passed without a grant; the original Bridge acknowledged destination reconciliation at20:25Z and is checking the keeper’s actual queue. Actual CRUX retention/log/backup policy, mounted controls, connected and native proof, and final-reader acceptance remain open. Source-owner privacy confirmation is complete.",
   "current": "Three prerequisites are resolved: the Big Bag measurement scripts passed source review, the original writer answered the close-and-reopen question, and the original Ask owner confirmed source handling. Candidate browser checks are next after shared browser allocation. Delivery remains6/11, final passes0/3 and native checks0/7.",
   "next": "Measure the actual title repair, then continue its original review and installation. Collect the earlier Website advisory without resending it. Complete remaining privacy, connected and native proof with the original owners.",
-  "updated": "2026-10-22T20:02:40.882874+00:00",
+  "updated": "2026-10-22T20:27:57.989506+00:00",
   "links": [
     {
       "title": "Drawer repair",
@@ -306,7 +306,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original browser handback since13:34Z (accepted measurement scripts ready19:27Z; 19:45Z checked, no grant; next keeper event or20:04Z). Candidate and installed-source checks follow (est.15 min)."
+        "text": "Waiting on original browser handback since13:34Z (accepted scripts ready19:27Z; 20:04Z checkpoint missed; original Bridge active20:25Z; next result or20:45Z). Candidate and installed-source checks follow (est.15 min)."
       },
       {
         "complete": true,
@@ -366,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; 19:45Z checked, no grant; next keeper event or20:04Z; collection est.5 min, no resubmission)."
+        "text": "Waiting to collect the original Website answer after explicit browser handback (accepted12:33Z; original Bridge reconciling custody20:25Z; next result or20:45Z; collection est.5 min, no resubmission)."
       },
       {
         "complete": true,
@@ -430,14 +430,14 @@
       },
       {
         "complete": true,
-        "text": "Verify approved-image review evidence and deliver its conditions to the original Studio owner (19:46Z–19:54Z, took8 min; capability verified, adoption and product improvement unverified)."
+        "text": "Verify approved-image review evidence and deliver its conditions to the original Studio owner (19:46Z–19:54Z, took8 min; capability and original Studio adoption verified, no product improvement claimed)."
       },
       {
         "complete": true,
         "text": "Refresh and inspect the existing embedding advisory inputs for the repaired review tool (19:56Z–19:58Z, took2 min; four parts checked, no provider call)."
       }
     ],
-    "landing": "Lands: the19:45Z handback check found no grant; the next keeper batch is expected20:04Z. The bounded browser check takes about15 min after an actual handback. The script correction and motion question are finished. Full draft completion remains unknown until remaining proof and original final reviews pass; Shopify stays unpublished."
+    "landing": "Lands: the bounded browser check takes about15 min after an actual handback; the original Bridge is reconciling the missed20:04Z checkpoint. Next result inspection by20:45Z. Full draft completion remains unknown until proof and original final reviews pass; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
