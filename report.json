@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original publisher created #4780 and holds its integration recovery. The chair ordered the Website iPhone check after the current marketing check, once the memory gate passes; no Website device turn is granted yet.",
+  "workerState": "The original publisher has started remote verification for the title merge. The chair ordered the Website iPhone check after the current marketing check, once the memory gate passes; no Website device turn is granted yet.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate 12 px title lift returned at14:06Z; its19 tests and21 safeguards passed, and its measurement scripts are corrected and accepted. Exact-source capture is complete; the original source analysis explains the retained320px visibility result. PR #4780 is pushed and open as Draft with a merge conflict; review and installation remain open. SEO remains in its original lane."
+      "evidence": "First Look and reviewed Big Bag CSS are installed. Separate 12 px title lift returned at14:06Z; its19 tests and21 safeguards passed, and its measurement scripts are corrected and accepted. Exact-source capture is complete; the original source analysis explains the retained320px visibility result. PR #4780 is open as Draft. The integration conflict is resolved locally and the merged change is in remote verification before its next push; review and installation remain open. SEO remains in its original lane."
     },
     {
       "stage": "Tests",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "23:42Z–23:45Z: verified the title PR and returned its merge conflict to the original publisher. The public-site update passed five hosted-file checks. Earlier, both approved checkout settings survived reload.",
+  "lastActualProgress": "The original writer resolved the title merge conflict and preserved its three-file scope. All 20 targeted tests passed on the remote worker with the required dependencies; 23 affected regression checks are still running. Review, installation and final ratings remain open.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -130,7 +130,7 @@
     [
       "11. BIG BAG page and navigation",
       "Reviewed CSS installed — changed-source acceptance open",
-      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate12px title lift is PR #4780. Its original analysis explained the retained320px visibility observation without changing source; integration conflict repair, review and installation remain open.",
+      "#4743 is installed in the unpublished draft with hosted bytes, preservation and census adoption verified. The separate12px title lift is PR #4780. Its original analysis explained the retained320px visibility observation without changing source; the integration conflict is repaired, with merged-change verification, review and installation still open.",
       "Original proof, review and installation for the title lift; installed-source desktop, native and final qualification remain open."
     ]
   ],
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "PR #4780 needs its original-owner merge-conflict repair before Ready and review. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
-  "current": "The title repair is submitted as PR #4780. GitHub found a merge conflict; the original publisher has the exact recovery request to integrate current main and advance review. Both approved checkout settings are saved and reload-verified. Delivery 6/11, final passes 0/3 and native checks 0/7 remain unchanged.",
+  "remaining": "PR #4780 needs the merged change to pass remote verification before review and merge. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
+  "current": "The title merge conflict is resolved. Its merged change has passed 20 targeted remote tests; the remaining regression checks are running before its original publisher pushes it for review. Both approved checkout settings are saved and reload-verified. Delivery 6/11, final passes 0/3 and native checks 0/7 remain unchanged.",
   "next": "Finish the original title and other repair reviews, merges and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-22T23:47:20.309787+00:00",
+  "updated": "2026-10-23T00:00:31.177054+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -209,7 +209,7 @@
     "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
     "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
     "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
-    "The title continuation returned without changing source. Its existing Save-heart priority rule explains the retained visibility observation. PR #4780 is now open; its merge conflict is returned to the original publisher. Review, merge, installation and final acceptance remain open."
+    "The title continuation returned without changing source. Its existing Save-heart priority rule explains the retained visibility observation. PR #4780 is now open; its merge conflict is resolved and remote verification is running. Review, merge, installation and final acceptance remain open."
   ],
   "openDeliveryGates": [
     {
@@ -234,8 +234,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title repair is PR #4780; its integration conflict, review and installation remain open.",
-      "next": "The original source analysis has resolved the retained320px finding while preserving the strict false capture result. Complete the title repair’s original review, release and changed-source installed acceptance. Remote proof has19 passing tests and21 selected safeguards. Fixture clearance does not close the installed or native gate."
+      "blocker": "Reviewed #4743 CSS is now installed and byte-verified in the unpublished draft, but changed-source rendered, native and final qualification remain open. The separate title repair is PR #4780; integration is repaired, with exact merged-change verification, review and installation still open.",
+      "next": "The original source analysis has resolved the retained320px finding while preserving the strict false capture result. Complete the title repair’s original review, release and changed-source installed acceptance. The earlier source had 19 passing tests and 21 selected safeguards. The current merged source has 20 passing targeted tests; its 23 affected regression checks are still running. Fixture clearance does not close the installed or native gate."
     }
   ],
   "timedPlan": {
@@ -281,8 +281,12 @@
         "text": "Publish the title repair and verify its review-entry state (23:35Z–23:45Z, took 10 min; PR #4780 opened, merge conflict returned to its original publisher)."
       },
       {
+        "complete": true,
+        "text": "Resolve the title integration conflict and verify its unchanged scope (23:45Z–23:55Z, took 10 min; original three-file repair preserved)."
+      },
+      {
         "complete": false,
-        "text": "Waiting on the original title conflict repair since 23:45Z (next check 00:00Z or the original result; est. 5 min to consume)."
+        "text": "Waiting on the original title remote verifier since 23:54Z (next check 00:10Z or its result; est. 5 min to consume)."
       },
       {
         "complete": false,
@@ -297,7 +301,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; integration recovery is with its original publisher. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
+    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; integration is repaired and remote verification is running with its original publisher. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
