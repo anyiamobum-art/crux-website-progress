@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title writer and full-suite remote proof are complete. The original second-review job is running, and hosted tests are queued. SEO has fresh hosted checks in progress. Header publication remains with its original owner.",
+  "workerState": "The title writer and remote proof completed; the second review returned one finding at 00:59Z. Its original continuation has been requested once; acknowledgment and execution are not yet verified. Required hosted tests remain queued. SEO has fresh checks in progress. Header publication remains with its original owner.",
   "journey": [
     {
       "stage": "Build",
       "state": "Pending",
-      "evidence": "First Look and reviewed Big Bag CSS are installed. Title correction #4780 is pushed and its targeted remote proof passed. Its original second review is running. SEO #4702 has merged current main under its existing holder; fresh checks are running. Header release remains with the original owner."
+      "evidence": "The title correction needs one named invitation-overlap fix after its second review. The original repair route has the finding. SEO has merged current main; fresh checks are running. Header release remains with its original owner."
     },
     {
       "stage": "Tests",
@@ -16,8 +16,8 @@
     },
     {
       "stage": "Review",
-      "state": "Running",
-      "evidence": "First Look and #4743 consumed their original code reviews and are merged/installed. The title correction is in its original second review; SEO retains its original review path. No new final website score: 0/3 passing."
+      "state": "Blocked",
+      "evidence": "Title #4780 second review rejected one remaining overlap; only its final named-fix check remains. SEO retains its original review path. Final website passes remain 0/3."
     },
     {
       "stage": "Deployed",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The title remote proof completed at 00:56Z on the corrected commit: 20 tests, 24 regression checks, no failures. At 00:57Z the public update matched all five hosted files. The SEO merge is verified and its new checks are running. No new theme installation or live publication occurred.",
+  "lastActualProgress": "At 01:04Z the exact second-review finding and bounded repair requirements were delivered to the original coordinator. The earlier corrected commit passed 20 tests and 24 regression checks; those checks did not detect this invitation overlap. No new theme installation or live publication occurred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -129,9 +129,9 @@
     ],
     [
       "11. BIG BAG page and navigation",
-      "Reviewed CSS installed; title correction in review",
-      "#4743 is installed with preservation and census verified. PR #4780 now contains the title lift and short-screen correction. Its exact-current remote proof passed 20 targeted tests and 24/24 selected safeguards; required hosted checks and its original second review remain pending.",
-      "Protected merge and draft-only installation, then current-source desktop/native qualification. Reported landscape limits remain disclosed."
+      "Reviewed CSS installed; one title finding remains",
+      "#4743 is installed with preservation and census verified. #4780 passed 20 targeted tests and 24/24 safeguards; its second review found one short-screen invitation overlap.",
+      "Original named correction, exact-source proof and final code check, protected merge, draft installation, then rendered/native qualification."
     ]
   ],
   "completed": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "PR #4780 needs current-candidate full test and review approval before merge and draft installation. A landscape limitation and an unmeasured invitation-card overlap are disclosed to the reviewer. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
-  "current": "The title correction has passed its full targeted remote proof: 20 tests and all 24 selected regression checks. Its original second review is running; required hosted checks remain pending. SEO is running fresh checks after merging current main. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
+  "remaining": "PR #4780 requires the named invitation-overlap correction, fresh proof and its final code review before merge or draft installation. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final website acceptance remain open.",
+  "current": "The title repair passed 20 targeted tests and 24 regression checks, but the second review found one remaining overlap: the room label meets the store invitation on very short phone screens. The original repair route has the exact finding for its final named-fix round. SEO is running fresh checks. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
   "next": "Finish the original title and other repair reviews, merges and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-23T00:59:22.855434+00:00",
+  "updated": "2026-10-23T01:04:55.152537+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -209,7 +209,7 @@
     "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
     "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
     "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
-    "The first review found an overlap on shorter phones. Its original writer returned the correction and the publisher pushed once. Current full tests and the second review remain pending; no rendered or final rating pass is claimed."
+    "The second code review found one remaining short-screen overlap with the store invitation. The exact finding is back with the original repair route for the final named-fix round; no rendered or final rating pass is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -234,8 +234,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Reviewed #4743 CSS is installed and byte-verified in the unpublished draft. Separate title repair #4780 now includes a shorter-screen correction; its exact-current remote proof passed 20 tests and 24 regression checks.",
-      "next": "required hosted checks and original second review, protected merge, draft installation, then changed-source rendered/native acceptance. The retained320px visibility finding and reported landscape limitations remain explicit."
+      "blocker": "Reviewed #4743 CSS is installed and byte-verified in the unpublished draft. Title repair #4780 passed its current remote tests, but its second review found an invitation overlap on short screens.",
+      "next": "Correct that named defect through the original writer, complete exact-source proof and the final code check, merge, install in the draft, then qualify the changed rendering and native journey. Retained visibility and landscape limits remain explicit."
     }
   ],
   "timedPlan": {
@@ -305,8 +305,16 @@
         "text": "Complete the corrected title remote proof (00:51Z-00:57Z, took 6 min; 20 tests and 24 selected regression checks passed)."
       },
       {
+        "complete": true,
+        "text": "Consume the original second review (00:50Z–01:04Z, took 14 min; one remaining invitation overlap returned to the original repair route)."
+      },
+      {
         "complete": false,
-        "text": "Complete required hosted checks and original second review (started 00:50Z; next result check 01:10Z; est. 5 min to consume returned evidence)."
+        "text": "Complete the final named title correction and its proof (waiting on original continuation since 01:04Z; next check 01:19Z; est. 5 min to consume its returned result)."
+      },
+      {
+        "complete": false,
+        "text": "Complete required hosted checks and original final code check (duration depends on repaired-source proof and available runners)."
       },
       {
         "complete": false,
@@ -321,7 +329,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; the first candidate passed hosted checks, then its review found a short-phone overlap. The original correction was pushed at 00:40Z; current-candidate remote proof passed at00:56Z, while required hosted checks and the original second review remain pending. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
+    "landing": "Lands: approved checkout refinements completed at 22:56Z. The current title correction passed its remote proof at 00:56Z, but its second review returned one invitation-overlap finding at 00:59Z. Original continuation acknowledgment is due by 01:19Z; repair and full draft completion remain unknown until the required proof, reviews and acceptance pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
