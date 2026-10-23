@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header #4818 remains open and Ready at its tested source with original holder 4818.1; no independent approval yet. The original pin keeper is alive and queued for slot 0 or 1. Neither follow-up is installed.",
+  "workerState": "Header #4818 and pin #4820 are open and Ready at their exact tested sources, with original holders 4818.1 and 4820.1. The pin keeper is terminal green. Neither follow-up is installed, and neither has an independent approval yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header admission, initial gates and PR body checks passed. The existing acceptance packet now references installed Stores source173/44/22; the original native helper has adopted it, while device checks remain unspent. The pin candidate exactly matches the installed parent before its narrow animation change.",
+  "lastActualProgress": "Pin keeper: four wrappers, 63 passes, 59 explicit skips and all ten mutation checks passed at 20:54 UTC. The original source was published and made Ready at 21:05 UTC. Header hosted pin checks, guards and two test groups passed; its first review is pending.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. Non-browser native checks remain eligible; the original helper adopted the current source, and its existing request now awaits a separate qualified Website grant. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "Header #4818 has passed admission and initial gates; two hosted test groups are running and three are queued. The original pin keeper is still waiting for a remote worker slot. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the existing header hosted checks and original review, then protected merge and unpublished installation. Complete the original pin keeper before its single publication. Resume rendered checks only after actual browser recovery and allocation; native requires its own qualified grant.",
+  "current": "The pin repair passed its real remote dependency and regression checks and is now Ready as #4820. Header #4818 has passed two hosted test groups plus pin checks and guards; its remaining groups and first review are running. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume each existing PR’s hosted checks and original first review, then protected merge and exact unpublished installation. Resume rendered checks only after actual browser recovery and allocation; native requires its own qualified grant.",
   "updated": "2026-10-23T20:54:37.117698+00:00",
   "links": [
+    {
+      "title": "Stable Stores pin #4820",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4820"
+    },
     {
       "title": "Font-arrival follow-up #4818",
       "path": "https://github.com/EON-CRUX/3.09/pull/4818"
@@ -172,10 +176,6 @@
     {
       "title": "Pet control repair",
       "path": "https://github.com/EON-CRUX/3.09/pull/4686"
-    },
-    {
-      "title": "Sign-out privacy repair #4682",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4682"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "Header #4818 is Ready on the exact tested source: six wrappers, 153 passes, 166 explicit skips and all 34 mutation checks passed with real template dependencies. Review, merge, installation and rendered acceptance remain separate.",
-    "The original Stores writer completed the pin correction at 20:27 UTC. Only the inner drawing pulses; its real-dependency keeper is now queued for an existing worker.",
-    "Hands withdrew the stale account/swap hold and granted Interface the first browser turn. Website has no grant yet; the same existing request now asks for its actual allocation boundary.",
-    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Final delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
+    "The original pin repair passed four remote test files and all ten mutation checks, then entered review as #4820 without changing its tested source.",
+    "Header #4818 passed two hosted test groups, pin checks and guards. The original first review is pending; remaining hosted groups continue.",
+    "The native helper has adopted the installed source. Browser access remains refused by the Work setting; the separate native-only allocation request is still awaiting Hands’ disposition.",
+    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
   ],
   "openDeliveryGates": [
     {
@@ -429,15 +429,23 @@
       },
       {
         "complete": false,
-        "text": "Complete header hosted checks, independent review, protected merge and exact unpublished installation (started 20:33Z; review and queue duration unknown; admission and initial gates passed; two test groups running and three queued by 20:46Z; next result check by 21:02Z)."
+        "text": "Complete header hosted checks, independent review, protected merge and exact unpublished installation (started 20:33Z; review and queue duration unknown; test groups 3 and 4, pin checks and guards passed; groups 0 and 1 running, group 2 queued and first review pending at 21:02Z; next result check by 21:17Z)."
       },
       {
         "complete": true,
         "text": "Complete the remaining pin animation correction through its original writer (20:16Z–20:27Z, took 11 min; inner icon target preserves timing and leaves the outer host untouched)."
       },
       {
+        "complete": true,
+        "text": "Verify the pin correction with real template dependencies and all affected safeguards (20:30Z–20:54Z, took 24 min including worker wait; four files, 63 passes, 59 explicit skips and all ten mutation checks passed)."
+      },
+      {
+        "complete": true,
+        "text": "Publish the original pin repair and establish its review holder (21:02Z–21:05Z, took 3 min; unchanged tested source, current-main reconciliation, PR #4820 Ready with its original writer)."
+      },
+      {
         "complete": false,
-        "text": "Verify the pin correction with real template dependencies and all affected safeguards (started 20:30Z, est. 15 min after worker allocation; original worker-slot wait verified at 20:45Z; next check 21:00Z)."
+        "text": "Complete pin hosted checks, independent review, protected merge and exact unpublished installation (started 21:05Z; review and queue duration unknown; next result check by 21:20Z)."
       },
       {
         "complete": false,
@@ -536,15 +544,15 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       },
       {
-        "complete": true,
-        "text": "Update the task site with the resource qualification rule and connected proof state (08:15Z–08:17Z, took 2 min; exact Pages build and five hosted files verified)."
+        "complete": false,
+        "text": "Update the task site with the pin proof and two active review lanes (started 21:05Z, est. 3 min; verify all five public files after publication)."
       },
       {
         "complete": true,
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: pin proof about 15 min after its remote worker starts; header #4818 is in review. The whole draft has no reliable finish time: browser access recovery, a separate Website native allocation, privacy and TEST context, both releases, rendered evidence and the three original final checks remain."
+    "landing": "Lands: whole draft time remains unknown; header and pin review/check queues, browser access, native allocation, connected policy evidence and final ratings still determine completion."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
