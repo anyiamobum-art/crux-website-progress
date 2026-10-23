@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Big Bag has two hosted test groups passed, two running and one failed on the Money drawer test. The header’s first code review approved at 05:39Z; its fresh test and regression-proof jobs are running or queued. The original native owner completed the resource check; its dated allocation is requested.",
+  "workerState": "The header’s safeguards passed and four hosted test groups are running after one passed. Big Bag’s first attempt ended with four groups passed and one Money-test failure; the chair-started second attempt is queued. The original native owner is READY in the existing device queue, awaiting a qualified grant.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header #4792 received its first code-review approval at 05:39Z. At 05:37Z the existing final review packet was reconciled to the 173-asset, 40-manifest source, completed account/Back and bag checks, the modal requirement answer and privacy source adoption. No final rating was inferred.",
+  "lastActualProgress": "At 06:09Z the original Money owner was supplied the exact reload/request sequence and a clearly labelled race hypothesis. The chair assigned that diagnosis at 06:07Z. Hands accepted the existing iPhone READY at 05:56Z; no native check has been claimed. Header first code approval remains verified at 05:39Z.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The header still needs its remaining review and hosted results. Big Bag is held on the actual Money drawer browser-test failure; the cause has not been diagnosed. A measured iPhone resource window has been submitted for the original allocation; connected/privacy and performance evidence remain separate open requirements. P2213 is closed.",
-  "current": "P2213 is cleared. Header #4792 has its first code-review approval; remaining protected review and hosted checks continue. Big Bag’s current hosted run found one Money drawer browser-test failure; it is routed to the original owner through the chair. SEO is merged. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
+  "remaining": "Header review and hosted checks are unfinished. Big Bag’s original Money-test failure remains recorded; the chair-started rerun is queued and its original owner has the diagnosis. The iPhone check needs its dated turn and qualified Mac resource readings. Connected/privacy and performance evidence remain separate open requirements. P2213 is closed.",
+  "current": "P2213 is cleared. Header #4792 has its first code-review approval and passed safeguards; remaining hosted tests and protected review continue. The chair has assigned the recurring Money-test diagnosis and started one rerun of Big Bag’s checks. The iPhone check is accepted in the existing queue. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
   "next": "Complete the original header and title reviews and required checks, merge and install only into the unpublished draft. Use the existing native allocation to finish iPhone evidence, then return the finished source to the three original final readers.",
-  "updated": "2026-10-23T05:53:13.696464+00:00",
+  "updated": "2026-10-23T06:10:24.178730+00:00",
   "links": [
     {
       "title": "Header repair #4792",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "P2213 is cleared; the chair released the original publication and merge holds.",
-    "Header #4792 is Ready on its verified commit: 45 tests passed, 18 skipped and all 23 regression checks passed; first code review approved, with the remaining review and hosted checks underway.",
-    "Big Bag’s pin proof and two hosted test groups passed. One Money drawer browser test failed and two groups are running. The chair has the exact failure for its original owner; no blind rerun or exemption.",
-    "The final review packet now includes the current source record, completed account/Back and bag checks, the modal requirement answer and privacy source adoption. Final ratings remain 0/3.",
-    "The iPhone resource pair met measured thresholds. The recovered old handoff was source-adoption only, and that source has been adopted. Hands has the exact call record to separate it from the current allocation; no native checks have been claimed. Shopify stays unpublished."
+    "P2213 is cleared; the original publication and merge holds are released.",
+    "Header #4792 has its first code-review approval and passed hosted safeguards. The remaining test groups and protected review continue.",
+    "Big Bag’s first hosted attempt finished with four groups passed and one Money drawer test failure. The chair started one rerun and assigned the recurring test diagnosis to its original owner; the original failure remains in the evidence.",
+    "The original iPhone check is accepted in the existing queue. Its source record is reconciled; the latest resource pair is not qualified, so no device run or score has been claimed.",
+    "The final review packet includes the current source, completed account/Back and bag checks, the modal requirement answer and privacy source adoption. Final ratings remain 0/3. Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -234,8 +234,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Reviewed #4743 CSS is installed and byte-verified in the unpublished draft. Title repair #4780 passed its final named-fix code review and exact-source remote tests; the shared CI hold is cleared and the current hosted run hit a Money drawer browser-test failure, routed to its original owner.",
-      "next": "Diagnose and fix the failing prerequisite, complete the protected merge, install the reviewed bytes in the unpublished draft, then qualify the changed rendering and native journey. Retained visibility and small-screen limits remain explicit."
+      "blocker": "Reviewed #4743 CSS is installed and byte-verified in the unpublished draft. Title repair #4780 passed its final named-fix code review and exact-source remote tests; the shared CI hold is cleared and the first hosted attempt hit a Money drawer browser-test failure. The chair started one rerun and assigned the recurring diagnosis to its original owner.",
+      "next": "Consume the existing rerun, complete the protected merge, install the reviewed bytes in the unpublished draft, then qualify the changed rendering and native journey. Retained visibility and small-screen limits remain explicit."
     }
   ],
   "timedPlan": {
@@ -326,7 +326,11 @@
       },
       {
         "complete": false,
-        "text": "Resolve the current hosted Money browser-test failure through its original owner, then complete title checks and merge (failed 05:49Z; routed 05:52Z; next check 06:10Z; diagnosis and repair duration unknown)."
+        "text": "Complete the chair-started title checks and protected merge (failed 05:49Z; original failure retained; chair started attempt 2 at 06:04Z; next check 06:25Z; remote runner queue may move it)."
+      },
+      {
+        "complete": true,
+        "text": "Route the recurring Money test to its original owner with precise source evidence (05:52Z–06:09Z, took 17 min; chair assigned the diagnosis; request-arrival race remains a hypothesis)."
       },
       {
         "complete": true,
@@ -342,7 +346,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the header’s original review and hosted checks (started 05:32Z; first review approved 05:39Z; next check 05:55Z; remaining review and hosted tests are running or queued)."
+        "text": "Complete the header’s original review and hosted checks (started 05:32Z; first review approved 05:39Z; safeguards passed 06:10Z; next check 06:20Z; remaining review and hosted tests are running or queued)."
       },
       {
         "complete": true,
@@ -350,7 +354,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain the original iPhone allocation from the qualified resource pair (requested 05:38Z; next check 05:55Z; dated grant and current custody still required)."
+        "text": "Complete the queued iPhone check after a qualified device grant (ready accepted 05:56Z; behind the current device check; est. 13 min once granted; latest resource pair is not qualified; existing watcher checks through 06:40Z)."
       },
       {
         "complete": true,
@@ -369,7 +373,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: next review and resource checkpoint about 05:55Z; original failure-owner response by 06:10Z. Full draft completion time remains unknown until the failed check, installation, iPhone and connected acceptance pass. Shopify stays unpublished."
+    "landing": "Lands: next header check about 06:20Z and title check about 06:25Z; iPhone work takes an estimated 13 min after its qualified grant. Full draft completion remains unknown until checks, installation and acceptance pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
