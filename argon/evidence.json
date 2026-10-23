@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-23T12:26:10.418567+00:00",
+  "snapshot": "2026-10-23T12:37:04.269437+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Follow-up returned an error",
+      "status": "Source-backed Stores improvement briefed",
       "title": "Directions are not a promise.",
       "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
       "before": "Does a directory and a directions link give a shopper enough certainty?",
-      "after": "Store discovery already exists. Fresh branch stock, reliable visit details and actual staff acceptance need their own evidence.",
-      "resultTitle": "Verified contribution",
-      "result": "A more precise store-travel question. No new storefront implementation or measured conversion improvement credited to Argon.",
+      "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
+      "resultTitle": "One concrete integration gap",
+      "result": "A bounded build brief now connects current product and size to the selected store through the existing enquiry preview. Original writer and shared-file custody are being reconciled. No implementation, release or measured benefit is claimed yet.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -186,6 +186,11 @@
           "title": "Shared advisory route proved",
           "date": "22 October2026,16:49UTC · chair admission",
           "text": "Four supervised calls completed on another system with High recorded by client logs. This establishes the route only. The earlier Website response still requires collection; no duplicate Website submission or new visual score is claimed."
+        },
+        {
+          "title": "Stores enquiry integration brief delivered",
+          "date": "23 October 2026, 12:35 UTC · original owner-map intake",
+          "text": "Source inspection found that Stores offers directions but does not connect its selected store to the existing product-and-size enquiry helper. One bounded implementation brief was delivered through the original owner map. It preserves the existing recipient and preview, with sending left to the shopper. Writer/shared-file custody is pending; no stock, reservation, foot-traffic or conversion claim is added."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next."

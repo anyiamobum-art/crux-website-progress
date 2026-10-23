@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original tracking-link worker started at 12:16Z on the combined product and acceptance-test source. All 12 selected test files have passed, including the real database-backed route tests; 127 mutation checks are still running. Header installation and preservation calls are terminal. Both prerequisite repairs passed their hosted checks and merged. No duplicate worker or test run was started.",
+  "workerState": "The original tracking-link remote worker finished successfully at 12:29Z: 849 passed, one skipped, 127/127 mutation checks. Hands consumed it and placed the source read at 12:31Z. The Stores brief was delivered at 12:35Z; execution is not yet verified. Header installation and preservation calls are terminal.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header #4799 exact hosted readback passed at 12:18Z, full preservation at 12:19Z and source-record adoption at 12:23Z. The original combined tracking-link source is executing remote proof. The advisory API warning is also confirmed merged and deployed; its visible interface follow-up remains separate.",
+  "lastActualProgress": "At 12:35Z, one bounded Stores integration brief was delivered through the existing owner map. Its missing connection is verified against source; no implementation or benefit is claimed yet. Tracking-link remote proof is green. Header installation, preservation and source-record adoption are complete.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The tracking-link and acceptance-test repair still needs its original remote proof, size admission, review and merge. First-arrival rendering, iPhone checks and numerical timing need qualified resource access. The five existing privacy owner steps still lack actual policy and TEST-context values.",
-  "current": "Header follow-up #4799 is merged and installed in the unpublished draft. Exact hosted bytes and full preservation passed; the source record now covers 173 assets across 43 manifests. Both connected prerequisite repairs are merged, and the original TEST tracking-link repair is running remote proof. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
-  "next": "Publish this verified update, consume the original tracking-link proof and continue its existing review route. Implement the useful advisory findings through their original source owners after checking what is already built. Complete changed header rendering and iPhone checks when the existing queue grants a qualified Website turn.",
-  "updated": "2026-10-23T12:26:10.418567+00:00",
+  "remaining": "The tracking-link repair still needs its original source read, publication, size admission, reviews and merge. The Stores brief needs confirmed writer and shared-file custody. First-arrival rendering, iPhone checks and numerical timing need qualified resource access. Actual privacy policy and TEST-context values remain missing.",
+  "current": "Header follow-up #4799 is merged and installed in the unpublished draft. The TEST tracking-link repair passed 849 tests and all 127 mutation checks; its original source read is placed before publication. A source-backed Stores improvement is now briefed: carry the current item, size and selected store into the existing enquiry preview. Writer and shared-file custody are being reconciled. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
+  "next": "Consume the original tracking-link source read, then continue its single publication and review route. Place the Stores integration once through its original writer and Companion file custodian. Complete changed header rendering and iPhone checks when the existing queue grants a qualified Website turn.",
+  "updated": "2026-10-23T12:37:04.269437+00:00",
   "links": [
     {
       "title": "Header arrival follow-up #4799",
@@ -206,10 +206,10 @@
   ],
   "recentChanges": [
     "Header #4799 merged at 10:21Z and its one reviewed stylesheet is now installed in the unpublished draft. All 694 unrelated draft files, 550 live-theme files, 13 roles and six settings/layout bodies were preserved.",
-    "Connected reader #4797 merged at 10:14Z; acceptance repair #4795 merged at 11:23Z. The original combined TEST tracking-link and test update is running remote proof.",
+    "Connected reader #4797 merged at 10:14Z; acceptance repair #4795 merged at 11:23Z. The original combined TEST tracking-link and test update passed 849 tests and 127 mutation checks; its source read is placed before publication.",
     "The installed-source record now contains 173 assets, 43 manifests and 21 installations since the last full review. Nineteen evidence references were checked; this adds no rendered, native or rating credit.",
     "The Argon contribution card now records the attribution upper-bound API warning as merged and deployed. The visible warning and wallet interface work remain separate; no measured benefit is claimed.",
-    "The owner has authorized implementing useful Website and Companion advisory findings through their existing owners. First-arrival rendering, native checks, timing and privacy decisions remain open; Shopify stays unpublished."
+    "A source-backed Stores brief is delivered: connect the current item and size to the chosen store in the existing enquiry preview, keeping sending under the shopper’s control. Writer and shared-file custody are being reconciled. First-arrival rendering, native checks, timing and privacy decisions remain open; Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -413,12 +413,16 @@
         "text": "Complete the connected repair reviews and merges (09:12Z–11:24Z, took 132 min; both original changes merged after required checks and reviews)."
       },
       {
-        "complete": false,
-        "text": "Complete the original TEST tracking-link and acceptance-test repair (remote proof started 12:16Z; original worker running, then size admission, review and merge; est. 30 min for proof, queue and failures may move it)."
+        "complete": true,
+        "text": "Complete original TEST tracking-link remote proof (12:16Z–12:30Z, took 14 min; 849 tests passed, one skipped and all 127 mutation checks passed)."
       },
       {
         "complete": false,
-        "text": "Implement useful source-backed Website and Shopping Companion advisory findings through their original owners (owner renewed this turn; reconcile existing findings and ownership first, estimate pending bounded scope)."
+        "text": "Complete the original tracking-link source read and publication (placed 12:31Z, est. 15 min; then exact-size admission, review and merge; next check 12:46Z)."
+      },
+      {
+        "complete": false,
+        "text": "Connect the current item and size to a chosen store enquiry (brief delivered 12:35Z; original writer and shared-file custody being reconciled; next check 12:50Z, build estimate follows placement)."
       },
       {
         "complete": false,
@@ -437,7 +441,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: tracking-link proof estimate about 12:46Z (17 min left; mutation checks or worker queue could move it). Full draft completion depends on the original release, qualified browser/native turns, actual privacy decisions and final acceptance."
+    "landing": "Lands: original tracking-link source read estimate about 12:46Z (10 min left; findings or queue could move it). Stores implementation estimate follows writer placement. Full draft completion also needs qualified browser/native turns, actual privacy decisions and final acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
