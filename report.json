@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original #4810 wording correction started on the remote worker at 12:51Z. Its predecessor proof passed 849 tests and 127 mutation checks; the corrected head will need fresh proof. Stores and the narrow remote header check are requested, with no verified start yet. Header installation calls are terminal.",
+  "workerState": "The header measurement started at 13:11:29Z and the Stores writer at 13:11:46Z on the remote box. The C17 wording job finished at 13:07:38Z; its one commit was pushed at 13:11:10Z. The original Hands coordinator resumed and repaired the shared test-launcher permission issue. Restoration and job starts are separate from delivery.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 12:51Z, the original C17 writer started the precise evidence-wording correction. At 12:54Z, the existing remote header measurement route was verified and one changed-source layout check was requested. It does not require a Mac browser allocation.",
+  "lastActualProgress": "Two remote executions began at 13:11Z. The original C17 correction now accurately distinguishes an installed route and unauthenticated 401 from the still-unproved admitted staff binding; 331 page tests, 147 atlas tests and three named causal checks passed. Wider proof and chair admission remain.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "#4810 remains Draft until its binding-route wording accurately distinguishes installed source from unproved authenticated acceptance. Stores needs writer and shared-file custody; the remote header check needs placement. iPhone and numerical timing still need qualified resources and supported instrumentation. Actual privacy policy and TEST-context values remain missing.",
-  "current": "Header follow-up #4799 is installed in the unpublished draft. Its changed first-arrival layout can use the original remote browser route; that single source-bound check is requested. C17 PR #4810 has an original evidence-wording correction running before Ready. The Stores integration is awaiting one writer and shared-file custody. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
-  "next": "Consume the original #4810 correction, refresh its source proof and size admission, then continue review and merge. Confirm one Stores writer and one original remote header measurement placement. Keep native, timing and privacy acceptance on their separate original routes.",
-  "updated": "2026-10-23T12:56:33.360180+00:00",
+  "remaining": "Stores still needs implementation results, reviews, merge and unpublished installation. Header rendering still needs a source-qualified result. C17’s corrected source needs its new-head keeper and size admission. iPhone and numerical timing need qualified resources and supported instrumentation; actual privacy policy and TEST-context values remain missing.",
+  "current": "Two remote jobs are running: the new Stores item-and-size enquiry integration, and the original header first-arrival check on installed #4799. C17’s precise evidence-wording correction returned and was pushed once to #4810. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
+  "next": "Consume the two original remote results. The restored original keeper must prove C17’s corrected head, update its proof description and obtain the chair’s exact-size admission before Ready, review and merge.",
+  "updated": "2026-10-23T13:15:28.005733+00:00",
   "links": [
     {
       "title": "Tracking-link #4810",
@@ -206,10 +206,10 @@
   ],
   "recentChanges": [
     "Header #4799 merged at 10:21Z and its one reviewed stylesheet is now installed in the unpublished draft. All 694 unrelated draft files, 550 live-theme files, 13 roles and six settings/layout bodies were preserved.",
-    "Connected reader #4797 merged at 10:14Z; acceptance repair #4795 merged at 11:23Z. The original combined TEST tracking-link and test update passed 849 tests and 127 mutation checks. Draft #4810 is published. Its original writer is correcting the installed-route evidence wording; the chair requires updated source proof and exact-size admission before Ready.",
+    "Connected reader #4797 merged at 10:14Z; acceptance repair #4795 merged at 11:23Z. The original combined TEST tracking-link and test update passed 849 tests and 127 mutation checks. Its named wording correction is now pushed to Draft #4810; the new 634-line source needs updated proof and exact-size admission before Ready.",
     "The installed-source record now contains 173 assets, 43 manifests and 21 installations since the last full review. Nineteen evidence references were checked; this adds no rendered, native or rating credit.",
     "The Argon contribution card now records the attribution upper-bound API warning as merged and deployed. The visible warning and wallet interface work remain separate; no measured benefit is claimed.",
-    "A source-backed Stores brief is delivered: connect the current item and size to the chosen store in the existing enquiry preview, keeping sending under the shopper’s control. Writer and shared-file custody are being reconciled. First-arrival rendering, native checks, timing and privacy decisions remain open; Shopify stays unpublished."
+    "The source-backed Stores integration started on its one remote writer at 13:11Z: connect the current item and size to the chosen store in the existing enquiry preview, keeping sending under the shopper’s control. Implementation results and release gates remain open. First-arrival rendering, native checks, timing and privacy decisions remain open; Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -398,7 +398,7 @@
       },
       {
         "complete": false,
-        "text": "Verify the installed header’s first arrival through the original remote browser route (requested 12:54Z; waiting on placement, next check 13:09Z; est. 10 min after start, with source checks)."
+        "text": "Verify the installed header’s first arrival through the original remote browser route (started 13:11Z, est. 10 min; source gate and first-frame coverage must qualify the result)."
       },
       {
         "complete": false,
@@ -425,8 +425,12 @@
         "text": "Complete the original tracking-link source read, publication and size admission (12:31Z–12:36Z, took 5 min; Draft #4810 admitted as one 616-line change)."
       },
       {
+        "complete": true,
+        "text": "Complete the original tracking-link evidence-wording correction (12:51Z–13:12Z, took 21 min; named change returned and pushed once, source and causal checks passed)."
+      },
+      {
         "complete": false,
-        "text": "Complete the original tracking-link evidence-wording correction (started 12:51Z, est. 15 min; then updated source proof and exact-size admission; next check 13:06Z)."
+        "text": "Complete the corrected tracking-link proof and size admission (waiting on the original keeper since 13:12Z; 634-line source needs fresh proof and chair rebind; est. 15 min after keeper starts)."
       },
       {
         "complete": false,
@@ -434,7 +438,7 @@
       },
       {
         "complete": false,
-        "text": "Connect the current item and size to a chosen store enquiry (brief delivered 12:35Z; one follow-up writer and current shared-file custody being reconciled; custody clarification sent 12:51Z; next disposition 13:05Z, build estimate follows placement)."
+        "text": "Connect the current item and size to a chosen store enquiry (started 13:11Z, est. 45 min; one remote writer, original release and shared-file custody retained)."
       },
       {
         "complete": false,
@@ -453,7 +457,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: tracking-link correction estimate about 13:06Z (10 min left; findings or queue could move it). Stores and remote header times depend on placement. Full draft completion also needs qualified native access, actual privacy decisions and final acceptance."
+    "landing": "Lands: about 13:56Z for the store integration source (45 min from actual start; source findings and queue could move it). Header arrival evidence is about 13:21Z if the source gate passes. Full draft completion time remains unknown pending native access, actual privacy decisions and final acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
