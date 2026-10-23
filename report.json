@@ -2,12 +2,12 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header groups 1, 3 and 4 passed; groups 0 and 2 are running. Reader #4797 groups 0, 2, 3 and 4 passed; group 1 is running. #4795’s original correction is complete and passed its final named-fix review; five hosted groups are queued. Their mutation safeguards and guards have passed. No rerun or duplicate repair was started.",
+  "workerState": "Original tracking-link worker started at 12:16Z on the combined product and acceptance-test source. Header installation and preservation calls are terminal. Both prerequisite repairs passed their hosted checks and merged. No duplicate worker or test run was started.",
   "journey": [
     {
       "stage": "Build",
       "state": "Unknown",
-      "evidence": "Header #4792 is reviewed, merged and installed. Big Bag title #4780 is also merged and installed; the header first-arrival follow-up #4799 has first full approval, three of five hosted test groups passed and two running after green remote proof."
+      "evidence": "Header #4792 is reviewed, merged and installed. Big Bag title #4780 is also merged and installed; the header first-arrival follow-up #4799 passed required review and all hosted groups, merged, and was installed with full preservation."
     },
     {
       "stage": "Tests",
@@ -22,11 +22,11 @@
     {
       "stage": "Deployed",
       "state": "Verified",
-      "evidence": "Header #4792 is installed and byte-verified in the unpublished draft, alongside earlier reviewed repairs. All unrelated draft/live files and settings are preserved. The title repair #4780 is also installed and byte-verified, with full preservation proof. Rendered, native, connected and final-rating acceptance remain open."
+      "evidence": "Header #4799 is installed and exact-byte verified at 12:18Z, with full preservation at 12:19Z. Header #4792 is installed and byte-verified in the unpublished draft, alongside earlier reviewed repairs. All unrelated draft/live files and settings are preserved. The title repair #4780 is also installed and byte-verified, with full preservation proof. Rendered, native, connected and final-rating acceptance remain open."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 09:40Z, #4795 passed its final named-fix review on 27b34229. At 10:08Z, header and reader hosted results were reconciled, and the native grant ended without a lease after pressure returned 2. No simulator boot, capture, theme installation or final score is claimed.",
+  "lastActualProgress": "Header #4799 exact hosted readback passed at 12:18Z, full preservation at 12:19Z and source-record adoption at 12:23Z. The original combined tracking-link source is executing remote proof. The advisory API warning is also confirmed merged and deployed; its visible interface follow-up remains separate.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,7 +124,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks; first-arrival desktop navigation still needs its original follow-up.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is now merged and installed; its changed rendering still needs verification.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
@@ -135,15 +135,15 @@
     ]
   ],
   "completed": [
-    "Big Bag title #4780 merged as 5e71ff8a at 07:25:07Z on 23 October. One reviewed CSS asset was installed in the unpublished draft; exact hosted readback passed at 07:44:57Z and full preservation/source adoption at 07:46Z. All 694 unrelated draft assets, 550 live-theme assets, 13 roles and six settings/layout bodies stayed unchanged. The first pre-send failure had no effect; one reconciled recovery sent the file. Installed source now contains 173 tracked assets across 42 manifests. Changed title rendering passed at 320/380/1280 pixels at 07:56Z. Native, connected and final-rating acceptance remain open.",
+    "Header first-arrival follow-up #4799 merged as 86e99cdd at 10:21:58Z on 23 October. One reviewed stylesheet was installed in the unpublished draft; exact hosted readback passed at 12:18:19Z and full preservation at 12:19:15Z. All 694 unrelated draft files, 550 live-theme files, 13 roles and six settings/layout bodies remain unchanged. The 173-asset, 43-manifest source record was adopted at 12:23Z. Changed first-arrival rendering, native, connected and final ratings remain open.",
+    "Big Bag title #4780 merged as 5e71ff8a at 07:25:07Z on 23 October. One reviewed CSS asset was installed in the unpublished draft; exact hosted readback passed at 07:44:57Z and full preservation/source adoption at 07:46Z. All 694 unrelated draft assets, 550 live-theme assets, 13 roles and six settings/layout bodies stayed unchanged. The first pre-send failure had no effect; one reconciled recovery sent the file. The title installation brought the source record to 173 tracked assets across 42 manifests; the later header follow-up brings it to 43 manifests. Changed title rendering passed at 320/380/1280 pixels at 07:56Z. Native, connected and final-rating acceptance remain open.",
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
-    "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released.",
-    "[BIG BAG narrow-layout repair #4698](https://github.com/EON-CRUX/3.09/pull/4698) merged as 0529efe7 at 15:14:12Z after its required tests and original code approval passed. One approved CSS asset was installed and byte-verified at 16:36:57Z; preservation passed at 16:38:36Z. All 694 unrelated draft assets, 550 live-theme assets, all 13 theme roles, settings and prior dependencies are preserved. The draft is unpublished. The later 16:47Z run passed normal desktop fit and options opening; remaining narrow findings, native/timing proof and final ratings stay open."
+    "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Required hosted checks still occupy the shared test-worker queue. TEST tracking needs both the reader and a signed tracking-link change before runtime qualification. The delivered native grant failed its fresh memory-pressure gate. Supported timing recovery and the five existing privacy owner steps remain open.",
-  "current": "Header follow-up #4799 retains its first approval, with three of five hosted test groups passed and two running. Connected reader #4797 has four of five groups passed. #4795’s final named-fix review approved at 09:40Z; its hosted suite is queued. The existing TEST tracking-link repair follows both connected merges. The native grant arrived in time, but memory pressure failed at action time: no lease or attempt. Delivery stays 6/11, final website passes 0/3 and native checks 0/7.",
-  "next": "Consume the remaining original hosted results and protected merges, then install the exact merged header stylesheet in the unpublished draft. After both connected PRs merge, the original owner starts the already-staged TEST tracking-link repair and coordinates its acceptance tests. Await the next qualified native grant through the existing queue.",
-  "updated": "2026-10-23T10:12:01.155785+00:00",
+  "remaining": "The tracking-link and acceptance-test repair still needs its original remote proof, size admission, review and merge. First-arrival rendering, iPhone checks and numerical timing need qualified resource access. The five existing privacy owner steps still lack actual policy and TEST-context values.",
+  "current": "Header follow-up #4799 is merged and installed in the unpublished draft. Exact hosted bytes and full preservation passed; the source record now covers 173 assets across 43 manifests. Both connected prerequisite repairs are merged, and the original TEST tracking-link repair is running remote proof. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
+  "next": "Publish this verified update, consume the original tracking-link proof and continue its existing review route. Implement the useful advisory findings through their original source owners after checking what is already built. Complete changed header rendering and iPhone checks when the existing queue grants a qualified Website turn.",
+  "updated": "2026-10-23T12:26:10.418567+00:00",
   "links": [
     {
       "title": "Header arrival follow-up #4799",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Header #4799 retains its first full approval. Three of five hosted groups have passed; two remain running. Its exact unpublished installation follows the protected merge.",
-    "Connected reader #4797 has four of five hosted groups passed. #4795’s original named correction passed the final fix check at 09:40Z; its hosted suite remains queued.",
-    "The acceptance notes now preserve both TEST runtime blockers. The separate signed tracking-link repair is already staged with its original owner, waiting for both connected merges. Its test, guard and page transition stays with the original acceptance owner.",
-    "The native grant was delivered in time. Fresh memory pressure was 2, so the continuation acquired no lease, booted no device and spent no attempt; END was recorded at 10:08Z. Native evidence remains 0/7.",
-    "The existing privacy owner steps and supported timing recovery remain open. Final website passes stay 0/3; Shopify stays unpublished."
+    "Header #4799 merged at 10:21Z and its one reviewed stylesheet is now installed in the unpublished draft. All 694 unrelated draft files, 550 live-theme files, 13 roles and six settings/layout bodies were preserved.",
+    "Connected reader #4797 merged at 10:14Z; acceptance repair #4795 merged at 11:23Z. The original combined TEST tracking-link and test update is running remote proof.",
+    "The installed-source record now contains 173 assets, 43 manifests and 21 installations since the last full review. Nineteen evidence references were checked; this adds no rendered, native or rating credit.",
+    "The Argon contribution card now records the attribution upper-bound API warning as merged and deployed. The visible warning and wallet interface work remain separate; no measured benefit is claimed.",
+    "The owner has authorized implementing useful Website and Companion advisory findings through their existing owners. First-arrival rendering, native checks, timing and privacy decisions remain open; Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -377,8 +377,12 @@
         "text": "Publish the exact header follow-up through its original owner (08:39Z–08:46Z, took 7 min; draft PR #4799 and holder verified)."
       },
       {
-        "complete": false,
-        "text": "Complete header follow-up reviews, protected merge and unpublished installation (first approval at 09:23Z; three of five hosted groups passed, two running at 10:08Z; next check 10:25Z or changed result; est. 15 min for installation and arrival check after approved merge and browser grant)."
+        "complete": true,
+        "text": "Complete header follow-up checks and protected merge (09:12Z–10:22Z, took 70 min; all five hosted groups passed; exact approved source merged)."
+      },
+      {
+        "complete": true,
+        "text": "Install and preserve the merged header follow-up in the unpublished draft (12:12Z–12:24Z, took 12 min; one stylesheet installed, exact bytes and preservation verified, source record adopted)."
       },
       {
         "complete": true,
@@ -405,8 +409,16 @@
         "text": "Complete the SEO repair’s reviews and merge (00:38Z–02:15Z, took 97 min; merged with required checks)."
       },
       {
+        "complete": true,
+        "text": "Complete the connected repair reviews and merges (09:12Z–11:24Z, took 132 min; both original changes merged after required checks and reviews)."
+      },
+      {
         "complete": false,
-        "text": "Complete the connected repair reviews and merges (reader #4797 has four of five hosted groups passed; #4795 passed its final named-fix review at 09:40Z and its five hosted groups are queued; both merges precede the already-staged TEST tracking-link repair and coordinated acceptance update; next check 10:25Z)."
+        "text": "Complete the original TEST tracking-link and acceptance-test repair (remote proof started 12:16Z; original worker running, then size admission, review and merge; est. 30 min for proof, queue and failures may move it)."
+      },
+      {
+        "complete": false,
+        "text": "Implement useful source-backed Website and Shopping Companion advisory findings through their original owners (owner renewed this turn; reconcile existing findings and ownership first, estimate pending bounded scope)."
       },
       {
         "complete": false,
@@ -419,9 +431,13 @@
       {
         "complete": true,
         "text": "Update the task site with the resource qualification rule and connected proof state (08:15Z–08:17Z, took 2 min; exact Pages build and five hosted files verified)."
+      },
+      {
+        "complete": false,
+        "text": "Publish the installed header, connected merges and verified advisory contribution (started 12:24Z, est. 11 min; verify the matching Pages build and five hosted files)."
       }
     ],
-    "landing": "Lands: next hosted-result check about 10:25Z (about 10 min; shared test-worker capacity can move it). Header approval is retained, with merge and unpublished installation still pending. The native grant ended without an attempt after memory pressure failed; iPhone work takes 13 min after a fresh qualified grant. Full draft completion remains unknown until tracking-link, timing, privacy and original final-rating evidence passes. Shopify stays unpublished."
+    "landing": "Lands: about 12:33Z for the public update (6 min left; hosting could move it). Full draft completion depends on the original tracking-link release, qualified browser/native turns, actual privacy decisions and final acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

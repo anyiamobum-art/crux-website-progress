@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-22T21:02:33.789238+00:00",
+  "snapshot": "2026-10-23T12:26:10.418567+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -10,13 +10,13 @@
     "adbrain": {
       "number": "01",
       "name": "Ad Brain",
-      "status": "Two changes accepted · first API change drafted",
-      "title": "Two improvements added to the build plan.",
+      "status": "API warning merged and deployed",
+      "title": "One API improvement deployed; interface work remains.",
       "summary": "An independent source read checked 112 code and evidence-pack claims: 41 confirmed fully or in part, 44 refuted wholly or in their named mechanism, 3 already fixed and 24 not checkable. These are audit counts, not a quality score.",
       "before": "Can the source substantiate the advisory findings, and which ones belong in the existing build?",
       "after": "Two source-backed recommendations are now in the original marketing build plan: explain attribution overlap and show wallet source and read time.",
-      "resultTitle": "First source change returned",
-      "result": "Two recommendations adopted. The API warning is present in returned source; interface work, wallet work, review, release and measured benefit remain pending.",
+      "resultTitle": "Deployed source verified",
+      "result": "The attribution upper-bound API warning is merged and present in the verified production source. Its visible warning and wallet source/read-time interface work remain separate accepted follow-ups. User and commercial benefit remain unmeasured.",
       "stages": [
         {
           "title": "Check the claims against source.",
@@ -29,14 +29,14 @@
           "state": "Original-owner adoption verified"
         },
         {
-          "title": "The first API change is written.",
-          "text": "The returned source now flags matched attribution as an upper bound and explains the potential overlap. It does not guess a deduction. The on-screen explanation and wallet display remain with the original build plan.",
-          "state": "API source read / not released"
+          "title": "The API warning is merged and deployed.",
+          "text": "PR #4769 merged on 22 October at 16:39 UTC. The production deployment succeeded at 21:46 UTC, and its matched-attribution source exactly matches the reviewed file. The warning labels possible overlap without guessing a deduction.",
+          "state": "Merged / deployed source verified"
         },
         {
-          "title": "Measure the result after release.",
-          "text": "The original writer returned the API flag and upper-bound explanation, and a source read confirms both. The on-screen explanation and wallet change are pending. Review, merge, deployment and measured improvement are not yet verified for this contribution. Existing work is not retroactively credited to this advisory.",
-          "state": "No shipped-work or outcome credit yet"
+          "title": "Finish the interface and measure the result.",
+          "text": "The visible upper-bound explanation and wallet source/read-time display remain separate accepted interface work. No customer-behavior or commercial improvement has been measured. Promo deduplication in the same API PR was pre-existing work and is not credited to Argon.",
+          "state": "Interface follow-ups / benefit unmeasured"
         }
       ],
       "evidence": [
@@ -56,9 +56,9 @@
           "text": "The accepted Today-page change reuses the existing wallet reader, distinguishes a provider-read balance from one entered by a person, and shows the read time."
         },
         {
-          "title": "API warning in returned source",
-          "date": "22 October 2026, 14:37 UTC · source read",
-          "text": "The original writer returned the upper-bound flag and explanation. Both are present in the inspected source. The broader change includes earlier planned work that is not attributed to this advisory. No merge, deployment or measured result is verified."
+          "title": "API warning merged and deployed",
+          "date": "22 October 2026 · merged 16:39 UTC; production success 21:46 UTC",
+          "text": "PR #4769 merged as 956a9169. The release receipt identifies production source 7ecc3dc and an exact reviewed/deployed match for matched_mer.py. Only the upper-bound warning is attributed to this advisory; separate promo-deduplication work is excluded. This is source-deployment proof, not a rendered interface or measured-outcome result."
         },
         {
           "title": "Original-owner build plan",
@@ -71,7 +71,7 @@
           "text": "Google grading and wallet readiness were accepted for evidence follow-up; store-sales attribution was deferred. Source inspection corrected the claim that no Google pipeline exists. These earlier decisions do not supply release or user-outcome proof."
         }
       ],
-      "limit": "The check establishes source findings, not live account truth or user outcomes. Original reviewers and release requirements remain unchanged. The earlier advisory read a frozen pack. No private financial figures, account details or other reviewers’ scores are published."
+      "limit": "The API source deployment is verified. Visible warning and wallet follow-ups, live account behavior and user outcomes need their own evidence. Original reviewers and release requirements remain unchanged. No private figures, account details or other reviewers’ scores are published."
     },
     "studio": {
       "number": "02",
@@ -180,7 +180,7 @@
         {
           "title": "Original-owner Big Bag draft installation",
           "date": "22 October 2026 · hosted verification 13:21 UTC; census adopted 13:27 UTC",
-          "text": "Reviewed CSS is installed in the unpublished draft. Exact hosted bytes and preservation are verified; the live theme is unchanged. The separate title overlap, rendered acceptance, native checks and final ratings remain open. This original-owner release is not attributed to Argon."
+          "text": "Reviewed Big Bag and title CSS are installed in the unpublished draft with exact hosted bytes and preservation. Title fit passed at320/380/1280 on23October. Header arrival follow-up is also installed; its changed first-arrival rendering, native checks and final ratings remain open. These original-owner releases are not attributed to Argon."
         },
         {
           "title": "Shared advisory route proved",
