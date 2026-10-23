@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header writer completed at 20:00 UTC; its remote keeper started at 20:04 UTC. Pin correction was placed once at 20:13 UTC; actual writer start remains unverified. No new header PR, installation or rendered pass yet.",
+  "workerState": "Header writer and real-dependency keeper completed; PR #4818 opened and marked Ready with original holder 4818.1. Pin writer completed at 20:27 UTC; its keeper waits for slot 0 or 1 after the third-slot load gate refused admission. Neither of these two follow-ups is installed yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The returned header source reserves outer navigation widths before the font arrives. Its real-dependency proof is running. The separate pin correction will move the existing animation to the inner icon while preserving timing and reduced-motion behavior.",
+  "lastActualProgress": "Six header wrappers and all 34 safeguards passed. The exact tested header was published without a source rewrite. The pin source now animates only its inner SVG, preserving the existing timing, cancellation and quiet behavior; rendered geometry remains unproved.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,7 +124,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now with the original writer after an actual provider refusal. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; its rendered acceptance is queued.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in source and in Ready PR #4818 after real-dependency proof. Actual rendered stability remains unverified. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; its rendered acceptance is queued.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Two qualifying Mac readings were observed at 20:11 and 20:12 UTC. Hands is verifying its own readings before allocating the existing queue; no Website turn is granted yet. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "Header regression files and mutation checks are running remotely with real template dependencies. The narrow pin-animation correction is queued with the original Stores writer. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the exact header test result and the original pin writer’s start, then continue their review and release paths. Use the existing browser/native queue when Hands issues a qualified Website turn.",
-  "updated": "2026-10-23T20:15:20.465856+00:00",
+  "remaining": "The old account/swap hold was withdrawn at 20:20 UTC and Interface received the first turn. The named queue does not yet identify a Website boundary; one follow-up extends the existing request. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
+  "current": "Header #4818 is Ready on its exact tested source. The original Stores writer returned the pin correction; its real-dependency keeper is waiting for a remote worker slot. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the header’s hosted checks and original review, then carry eligible source through protected merge and unpublished installation. Complete the pin keeper before its single publication. Use only an actual Website browser/native allocation.",
+  "updated": "2026-10-23T20:33:16.275641+00:00",
   "links": [
+    {
+      "title": "Font-arrival follow-up #4818",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4818"
+    },
     {
       "title": "Tracking-link #4810",
       "path": "https://github.com/EON-CRUX/3.09/pull/4810"
@@ -172,10 +176,6 @@
     {
       "title": "Sign-out privacy repair #4682",
       "path": "https://github.com/EON-CRUX/3.09/pull/4682"
-    },
-    {
-      "title": "Source repair #4681",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4681"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "Two qualifying Mac resource readings were reported at 20:11 and 20:12 UTC. Hands is verifying its own pair before allocating the existing queue; this is not a Website browser or native grant.",
-    "The remaining pin correction was placed once at 20:13 UTC with the original Stores writer. Its source work has not yet been observed to start.",
-    "The header returned at 20:00 UTC and entered real-dependency remote proof at 20:04. Fixed outer widths replace the preload-only mitigation; actual browser stability and 200% fit remain unverified.",
-    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Its rendered acceptance and the original final ratings remain open."
+    "Header #4818 is Ready on the exact tested source: six wrappers, 153 passes, 166 explicit skips and all 34 mutation checks passed with real template dependencies. Review, merge, installation and rendered acceptance remain separate.",
+    "The original Stores writer completed the pin correction at 20:27 UTC. Only the inner drawing pulses; its real-dependency keeper is now queued for an existing worker.",
+    "Hands withdrew the stale account/swap hold and granted Interface the first browser turn. Website has no grant yet; the same existing request now asks for its actual allocation boundary.",
+    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Final delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
   ],
   "openDeliveryGates": [
     {
@@ -420,16 +420,24 @@
         "text": "Complete stable header geometry source through the original writer (19:42Z–20:01Z, took 19 min; fixed outer widths replace preload; source returned without a rendered claim)."
       },
       {
-        "complete": false,
-        "text": "Verify the returned header with real template dependencies and its regression checks (started 20:04Z, est. 20 min; six files plus mutation checks running remotely; next check 20:19Z)."
+        "complete": true,
+        "text": "Verify the returned header with real template dependencies and its regression checks (20:04Z–20:21Z, took 17 min; six files, 153 passes, 166 explicit skips and all 34 mutation checks passed)."
+      },
+      {
+        "complete": true,
+        "text": "Complete the header source read and publish its exact tested head for review (20:23Z–20:33Z, took 10 min; PR #4818 Ready, original writer custody retained, current-main overlap absent)."
       },
       {
         "complete": false,
-        "text": "Carry the verified header through its original source read, reviews, merge and exact unpublished installation (after green remote proof; duration depends on checks and review)."
+        "text": "Complete header hosted checks, independent review, protected merge and exact unpublished installation (started 20:33Z; review and queue duration unknown; next changed-result check by 20:48Z)."
+      },
+      {
+        "complete": true,
+        "text": "Complete the remaining pin animation correction through its original writer (20:16Z–20:27Z, took 11 min; inner icon target preserves timing and leaves the outer host untouched)."
       },
       {
         "complete": false,
-        "text": "Complete the remaining pin animation correction through its original writer (queued 20:13Z; expected source work 15 min after actual start; animate the inner icon while the outer element stays fixed)."
+        "text": "Verify the pin correction with real template dependencies and all affected safeguards (started 20:30Z, est. 15 min after worker allocation; genuine remote slot wait; next check 20:45Z)."
       },
       {
         "complete": false,
@@ -437,7 +445,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (the earlier grant ended without a lease; qualifying readings observed at 20:11Z and 20:12Z, Hands verification and existing queue allocation pending; est. 13 min after a Website grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (old hold withdrawn at 20:20Z; Interface received the first turn; Website allocation remains unanswered in the same request; est. 13 min after its actual grant)."
       },
       {
         "complete": true,
@@ -536,7 +544,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: header remote proof about 20:25Z if its tests pass; reviews and installation follow. The whole draft has no reliable finish time: Stores rendered access, native qualification, actual privacy and TEST context, header release and the three original final checks remain."
+    "landing": "Lands: pin proof about 15 min after its remote worker starts; header #4818 is in review. The whole draft has no reliable finish time: actual Website browser/native allocation, privacy and TEST context, both releases, rendered evidence and the three original final checks remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
