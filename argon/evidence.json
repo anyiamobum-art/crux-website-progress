@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-23T13:15:28.005733+00:00",
+  "snapshot": "2026-10-23T13:36:59.653649+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -42,27 +42,27 @@
       "evidence": [
         {
           "title": "Source audit of the earlier advisory",
-          "date": "22 October 2026 · source read",
+          "date": "22 October 2026 \u00b7 source read",
           "text": "An independent source read checked 112 code and evidence-pack claims: 41 confirmed fully or in part, 44 refuted wholly or in their named mechanism, 3 already fixed and 24 not checkable. These are audit counts, not a quality score."
         },
         {
           "title": "Label matched attribution as an upper bound.",
-          "date": "22 October 2026 · original-owner adoption verified",
+          "date": "22 October 2026 \u00b7 original-owner adoption verified",
           "text": "The source audit confirmed that matched attribution can overlap. The accepted change adds an upper-bound explanation to the API result and, in the interface work, beside the figure. It will not subtract a guessed overlap."
         },
         {
           "title": "Bring existing wallet truth and read time into Today.",
-          "date": "22 October 2026 · original-owner adoption verified",
+          "date": "22 October 2026 \u00b7 original-owner adoption verified",
           "text": "The accepted Today-page change reuses the existing wallet reader, distinguishes a provider-read balance from one entered by a person, and shows the read time."
         },
         {
           "title": "API warning merged and deployed",
-          "date": "22 October 2026 · merged 16:39 UTC; production success 21:46 UTC",
+          "date": "22 October 2026 \u00b7 merged 16:39 UTC; production success 21:46 UTC",
           "text": "PR #4769 merged as 956a9169. The release receipt identifies production source 7ecc3dc and an exact reviewed/deployed match for matched_mer.py. Only the upper-bound warning is attributed to this advisory; separate promo-deduplication work is excluded. This is source-deployment proof, not a rendered interface or measured-outcome result."
         },
         {
           "title": "Original-owner build plan",
-          "date": "22 October 2026, 14:21 UTC · verified",
+          "date": "22 October 2026, 14:21 UTC \u00b7 verified",
           "text": "The original marketing lead added both findings to its build plan. The attribution warning is assigned to the existing writer; its on-screen explanation follows in the interface work. The wallet row follows the existing Today-page change so two writers do not edit the same file."
         },
         {
@@ -71,7 +71,7 @@
           "text": "Google grading and wallet readiness were accepted for evidence follow-up; store-sales attribution was deferred. Source inspection corrected the claim that no Google pipeline exists. These earlier decisions do not supply release or user-outcome proof."
         }
       ],
-      "limit": "The API source deployment is verified. Visible warning and wallet follow-ups, live account behavior and user outcomes need their own evidence. Original reviewers and release requirements remain unchanged. No private figures, account details or other reviewers’ scores are published."
+      "limit": "The API source deployment is verified. Visible warning and wallet follow-ups, live account behavior and user outcomes need their own evidence. Original reviewers and release requirements remain unchanged. No private figures, account details or other reviewers\u2019 scores are published."
     },
     "studio": {
       "number": "02",
@@ -123,7 +123,7 @@
         },
         {
           "title": "Image review route now verified",
-          "date": "22 October 2026, 19:46 UTC · chair admission",
+          "date": "22 October 2026, 19:46 UTC \u00b7 chair admission",
           "text": "A separate supervised advisory read four approved interface fixture images and returned visual feedback. The client recorded Argon High; independent server model attestation is absent. The chair admitted this route for approved Studio images. The original Studio owner checked the receipt and recorded the conditions; its earlier review scope is already consumed and has no outstanding visual call. No new image submission, score or shipped improvement is claimed."
         }
       ],
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Stores integration building on the remote worker",
+      "status": "Stores source built; one scope correction before release",
       "title": "Directions are not a promise.",
       "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "One concrete integration gap",
-      "result": "One bounded remote writer started at 13:11 UTC to connect the current item and size to the chosen store through the existing enquiry preview. It retains the existing recipient, optional location and shopper-controlled continuation. Implementation results, review, merge, unpublished installation and acceptance remain unverified.",
+      "result": "The original remote writer returned the current-item and store enquiry source at 13:26 UTC. Focus, disclosure and stale context have targeted tests. A new recording binding is being removed through the same writer to keep the agreed scope. Real-dependency proof, independent reviews, merge, unpublished installation and rendered acceptance remain open.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -179,18 +179,18 @@
         },
         {
           "title": "Original-owner Big Bag draft installation",
-          "date": "22 October 2026 · hosted verification 13:21 UTC; census adopted 13:27 UTC",
+          "date": "22 October 2026 \u00b7 hosted verification 13:21 UTC; census adopted 13:27 UTC",
           "text": "Reviewed Big Bag and title CSS are installed in the unpublished draft with exact hosted bytes and preservation. Title fit passed at320/380/1280 on23October. Header arrival follow-up is also installed; its changed first-arrival rendering, native checks and final ratings remain open. These original-owner releases are not attributed to Argon."
         },
         {
           "title": "Shared advisory route proved",
-          "date": "22 October2026,16:49UTC · chair admission",
+          "date": "22 October2026,16:49UTC \u00b7 chair admission",
           "text": "Four supervised calls completed on another system with High recorded by client logs. This establishes the route only. The earlier Website response still requires collection; no duplicate Website submission or new visual score is claimed."
         },
         {
-          "title": "Stores enquiry implementation started",
-          "date": "23 October 2026, 13:11 UTC · one remote writer",
-          "text": "Source inspection found directions and the existing product-and-size enquiry helper were disconnected. The original owner prepared one bounded integration and reconciled shared-file custody. The writer is running; no stock, reservation, foot-traffic, conversion or release claim is added."
+          "title": "Stores enquiry source returned",
+          "date": "23 October 2026, 13:26 UTC \u00b7 original remote writer",
+          "text": "Five source/test files returned. One explicit correction removes recording from the new links. Directions and shopper-controlled enquiry remain; no stock, reservation, conversion or released-benefit claim is added."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next."
@@ -244,7 +244,7 @@
     "embedding": {
       "number": "05",
       "name": "Embedding engine",
-      "status": "19 claims checked · source corrections recorded",
+      "status": "19 claims checked \u00b7 source corrections recorded",
       "title": "Keep the safeguards. Test the remaining questions.",
       "summary": "The original Search owner checked 19 material claims. Tenant/model separation, image-change handling and explicit no-match states already exist. The review clarified the remaining evidence gaps and restored a catalogue result the advisory omitted.",
       "before": "Should EmbeddingGemma 2 be kept, improved, repurposed or retired?",
@@ -276,12 +276,12 @@
       "evidence": [
         {
           "title": "One completed advisory conversation",
-          "date": "22 October 2026, 20:31–20:37 UTC",
+          "date": "22 October 2026, 20:31\u201320:37 UTC",
           "text": "All four prepared calls returned in one conversation. Client logs identify Gemini 4 Argon at High; independent server model attestation is absent. No quality score was requested."
         },
         {
           "title": "Original-owner source validation",
-          "date": "22 October 2026, 20:50–20:58 UTC",
+          "date": "22 October 2026, 20:50\u201320:58 UTC",
           "text": "The original Search owner checked 19 material claims against 22 source links and five saved receipt hashes. Several suggested mechanisms already exist; the remaining evidence gaps are recorded separately."
         },
         {
@@ -292,7 +292,7 @@
         {
           "title": "Historical gains keep their original attribution",
           "date": "Source and receipt reconciliation",
-          "text": "The earlier 5/22 to 6/22 customer-photo comparison predates the later repairs and Argon advisory. The five repairs were merged on 8 October and live-verified on 9–10 October. Their original final acceptance remains separate."
+          "text": "The earlier 5/22 to 6/22 customer-photo comparison predates the later repairs and Argon advisory. The five repairs were merged on 8 October and live-verified on 9\u201310 October. Their original final acceptance remains separate."
         },
         {
           "title": "What remains undecided",
@@ -305,8 +305,8 @@
   },
   "reviewRoute": {
     "status": "Text and approved-image advisory routes verified",
-    "textAdvisory": "Four supervised calls completed 16:44–16:48 UTC; chair admission 16:49 UTC.",
-    "imageAdvisory": "Three supervised calls completed 19:40–19:45 UTC. The response described all four approved interface fixture images before returning advisory findings; chair admission 19:46 UTC.",
+    "textAdvisory": "Four supervised calls completed 16:44\u201316:48 UTC; chair admission 16:49 UTC.",
+    "imageAdvisory": "Three supervised calls completed 19:40\u201319:45 UTC. The response described all four approved interface fixture images before returning advisory findings; chair admission 19:46 UTC.",
     "modelEvidence": "Client logs recorded Gemini4ArgonHigh. Independent server model attestation is absent.",
     "limits": "Historical fixtures only. No quality score, current installed acceptance, native proof or shipped improvement follows from this capability. Each original owner retains its own packet and review history.",
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
