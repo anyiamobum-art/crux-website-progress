@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Both follow-ups remain open and Ready at their approved tested sources and original holders. Neither follow-up is installed. The existing hosted jobs are running; no repeat review or source push is needed.",
+  "workerState": "Header has one accepted targeted retry. Pin is held by two failed tests; no rerun or change to its approved head has been made. Both original reviews remain recorded; neither follow-up is installed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Pin’s first independent review approved without findings at 21:30 UTC. Pin checks and guards passed at 21:25; all five hosted groups were running at 21:33. The native-only allocation remains unanswered at 21:36; its existing 21:21 disposition is retained.",
+  "lastActualProgress": "At 21:54 UTC, both pin failure artifacts and original source custody were reconciled, then one combined diagnosis handoff was delivered. Header retry was accepted at 21:49. Native allocation remains unanswered after the 21:54 destination check.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. Non-browser native checks remain eligible; the original helper adopted the current source, and its existing request now awaits a separate qualified Website grant. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "Header #4818 and pin #4820 both have their original first independent approvals on the exact tested source. Header has four hosted groups passed and one running; all five pin groups are running, with its pin checks and guards passed. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the original hosted results and protected merges, then install only the exact approved assets in the unpublished draft. Rendered and native acceptance require their separately qualified access and allocations.",
-  "updated": "2026-10-23T21:37:03.383743+00:00",
+  "current": "Both follow-ups retain their original first approvals. The header hit its hosted job ceiling; one targeted retry is queued, preserving four passed groups. Pin hosted tests ended with two real failures, now routed once to their original source owners. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the existing header retry. The original owners diagnose the assistant-mount timeout and trace worker wait before pin recovery. Only protected merged source can proceed to the prepared unpublished installations.",
+  "updated": "2026-10-23T21:55:03.556911+00:00",
   "links": [
     {
       "title": "Stable Stores pin #4820",
@@ -205,10 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Pin #4820 received its original first independent approval on the exact source, with no findings. All five hosted groups are now running; pin checks and guards passed.",
-    "Header #4818 retains its original first approval. Four hosted groups are green; the final group is genuinely running its test step.",
-    "Native source adoption is complete. Its separate allocation request still has no qualified Website START; the original 30-minute disposition remains in place. The browser Work-settings refusal is a separate access dependency.",
-    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
+    "Header’s final hosted group exceeded GitHub’s 35-minute limit without a test verdict. One targeted retry was accepted; the four passed groups are retained.",
+    "Pin’s completed hosted run has two failures: the assistant-mount subprocess exceeded 60 seconds, and the trace worker entry wait returned false. Exact artifacts and original source owners are recorded; a single diagnosis handoff is delivered, with no broad rerun or change to the approved source.",
+    "Both independent first approvals remain valid. Merge, installation and rendered acceptance are still separate.",
+    "Native source adoption is complete, but its qualified Website allocation remains absent. Browser Work-settings refusal remains a separate access dependency.",
+    "Stores enquiry remains installed and preservation-verified. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
   ],
   "openDeliveryGates": [
     {
@@ -433,7 +434,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining header hosted checks, protected merge and exact unpublished installation (started 20:33Z; queue duration unknown; four test groups, pin checks and guards passed; only group 2 running its test step since 21:08Z, verified 21:31Z; next result check by 21:46Z)."
+        "text": "Complete remaining header hosted checks, protected merge and exact unpublished installation (started 20:33Z; group 2 reached the hosted 35-minute ceiling at 21:45Z without a test verdict; one targeted retry accepted at 21:49Z, four green groups retained; next queue check by 22:04Z, duration unknown)."
       },
       {
         "complete": true,
@@ -453,7 +454,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining pin hosted checks, protected merge and exact unpublished installation (started 21:05Z; hosted duration unknown; all five groups running, pin checks and guards passed, verified 21:33Z; next result check by 21:48Z)."
+        "text": "Resolve the two pin hosted failures through their original source owners, then complete merge and unpublished installation (failures consumed 21:51Z–21:54Z; assistant mount exceeded 60 seconds and the trace worker entry wait failed; one combined handoff delivered 21:54Z, ACK check 22:09Z, exact recovery disposition by 22:24Z; no rerun or approved-source push)."
       },
       {
         "complete": false,
@@ -461,7 +462,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (non-browser native requests remain eligible; the original source packet is adopted, but a separate qualified Website native grant is still required; the existing request received a 30-minute disposition at 21:21Z, no allocation found at 21:36Z, next check 21:51Z; est. 13 min after its actual grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (non-browser native requests remain eligible; the original source packet is adopted, but a separate qualified Website native grant is still required; the existing request received a 30-minute disposition at 21:21Z, no allocation found at 21:54Z, next existing-destination check 22:09Z; est. 13 min after its actual grant)."
       },
       {
         "complete": true,
@@ -560,7 +561,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: whole draft time remains unknown; header and pin hosted checks, browser access, native allocation, connected policy evidence and final ratings still determine completion."
+    "landing": "Lands: whole draft time remains unknown; the header retry, two pin test failures, browser access, native allocation, connected policy evidence and original final ratings determine completion."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
