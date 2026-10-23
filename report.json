@@ -544,8 +544,8 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       },
       {
-        "complete": false,
-        "text": "Update the task site with the pin proof and two active review lanes (started 21:05Z, est. 3 min; verify all five public files after publication)."
+        "complete": true,
+        "text": "Update the task site with the pin proof and two active review lanes (21:05Z–21:07Z, took 2 min; five public files match the published source)."
       },
       {
         "complete": true,
