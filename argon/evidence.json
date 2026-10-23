@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-23T14:04:52.952209+00:00",
+  "snapshot": "2026-10-23T16:26:58.546332+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Stores scope correction executing before release",
+      "status": "Stores enquiry installed in unpublished draft",
       "title": "Directions are not a promise.",
       "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
-      "resultTitle": "One concrete integration gap",
-      "result": "The original remote writer returned the current-item and store enquiry source at 13:26 UTC. Its same-lineage correction began at 13:56 UTC to remove recording from the new enquiry links. Focus, disclosure and stale context retain targeted proof; real-dependency tests, independent reviews, merge, unpublished installation and rendered acceptance remain open.",
+      "resultTitle": "Source-backed integration installed",
+      "result": "The current item, size and configured store now feed the existing enquiry preview in the unpublished draft. The original correction removed recording from the new links. Real-dependency checks, hosted tests, required independent review, merge and exact two-asset installation are verified. Rendered acceptance, native checks and final ratings remain open.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -191,6 +191,11 @@
           "title": "Stores enquiry source returned",
           "date": "23 October 2026, 13:26 UTC · original remote writer",
           "text": "Five source/test files returned. One explicit correction removes recording from the new links. Directions and shopper-controlled enquiry remain; no stock, reservation, conversion or released-benefit claim is added."
+        },
+        {
+          "title": "Stores enquiry reviewed, merged and installed",
+          "date": "23 October 2026, 16:05 merge / 16:23 hosted readback / 16:24 preservation",
+          "text": "Exact two-asset installation from #4814; 164 real-dependency tests, 10 subtests and 68 mutation checks passed, with 166 disclosed matrix skips. All five hosted groups passed. Other draft files, live theme, settings and roles were preserved. No shopper message, stock promise, new recording or live publication."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next."
