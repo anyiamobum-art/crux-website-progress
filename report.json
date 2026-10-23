@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title installation and changed on-screen check are complete. The original header remote wrapper started at 07:49Z and is waiting for a free test slot. The browser turn was released at 07:56Z. The existing resource coordinator retains the iPhone queue; no duplicate job or device session was started.",
+  "workerState": "The original header wrapper and connected-proof successor are alive and waiting for remote worker slots, observed at 08:14Z. The earlier connected harness proof finished with 82 of 82 safeguards passing. The browser was released at 07:56Z. No duplicate job or device session was started.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released.",
     "[BIG BAG narrow-layout repair #4698](https://github.com/EON-CRUX/3.09/pull/4698) merged as 0529efe7 at 15:14:12Z after its required tests and original code approval passed. One approved CSS asset was installed and byte-verified at 16:36:57Z; preservation passed at 16:38:36Z. All 694 unrelated draft assets, 550 live-theme assets, all 13 theme roles, settings and prior dependencies are preserved. The draft is unpublished. The later 16:47Z run passed normal desktop fit and options opening; remaining narrow findings, native/timing proof and final ratings stay open."
   ],
-  "remaining": "The original header job is waiting for a remote test slot. Browser timing instrumentation still reports a paused document response. The coordinator has paused new heavy Mac work until 08:40Z or earlier resource qualification. Connected/privacy and whole-journey performance evidence remain open.",
+  "remaining": "The original header and connected-proof jobs are waiting for remote test slots. Browser timing instrumentation still reports a paused document response. New browser and iPhone work needs the coordinator’s qualified resource readings and explicit grant; 08:40Z is a check time, not an automatic release. Connected/privacy and whole-journey performance evidence remain open.",
   "current": "P2213 is cleared. Header #4792 and Big Bag title #4780 are reviewed, merged and installed in the unpublished draft. The installed title also fits at 320, 380 and 1280 pixels without horizontal page overflow. The remaining first-load header repair is with its original remote test job. Delivery stays 6/11; final website passes 0/3 and native checks 0/7.",
   "next": "Complete the original header follow-up, recover supported timing instrumentation, then finish the queued iPhone and connected checks before the three original final readers.",
-  "updated": "2026-10-23T08:03:37.487494+00:00",
+  "updated": "2026-10-23T08:15:25.231875+00:00",
   "links": [
     {
       "title": "Header repair #4792",
@@ -209,7 +209,7 @@
     "Header #4792 and title #4780 are reviewed, merged and installed in the unpublished draft; exact bytes and preservation checks passed.",
     "The original header follow-up test wrapper started at 07:49Z. It is waiting for a remote worker slot; its source and review history are preserved.",
     "The browser timing extension still refuses instrumentation. The completed title check was released at 07:56Z; no timing or native pass is inferred.",
-    "New heavy Mac work is paused until 08:40Z or earlier resource qualification. Existing remote jobs continue. Final website passes remain 0/3."
+    "The resource coordinator requires two qualifying readings before another browser or iPhone turn; 08:40Z does not grant a turn automatically. Earlier connected proof passed 82/82 safeguards; the successor remains queued. Existing remote jobs continue; final website passes remain 0/3."
   ],
   "openDeliveryGates": [
     {
@@ -370,7 +370,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original header first-arrival follow-up (original keeper started 07:49Z; waiting for a remote test slot, with no duplicate job; next check 08:15Z; review and installation follow successful proof)."
+        "text": "Complete the original header first-arrival follow-up (original keeper started 07:49Z; waiting for a remote test slot, with no duplicate job; observed alive 08:14Z; next check 08:30Z or returned result; review and installation follow successful proof)."
       },
       {
         "complete": true,
@@ -390,7 +390,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (ready accepted 05:56Z; resource quiet interval until 08:40Z or earlier qualification; original coordinator must grant the turn after the preceding check; est. 13 min after grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (ready accepted 05:56Z; waiting for the coordinator’s qualified resource pair and prior handback; 08:40Z is a check time, not automatic release; est. 13 min after grant)."
       },
       {
         "complete": true,
@@ -407,9 +407,13 @@
       {
         "complete": false,
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
+      },
+      {
+        "complete": false,
+        "text": "Update the task site with the resource qualification rule and connected proof state (started 08:15Z, est. 4 min)."
       }
     ],
-    "landing": "Lands: installed title rendering is complete at 07:56Z. Header follow-up is waiting for its remote test slot, next check 08:15Z. Timing needs supported browser instrumentation; iPhone work takes 13 min after a qualified grant. The current resource quiet interval ends at 08:40Z or earlier qualification. Full draft completion remains unknown until all required evidence and three final ratings pass. Shopify stays unpublished."
+    "landing": "Lands: resource-state publication about 08:19Z (4 min left; Pages build could move it). Header follow-up remains in its original remote slot wait; next check 08:30Z or returned result. Timing needs supported instrumentation. iPhone work takes 13 min after a qualified grant; 08:40Z alone does not release the resource hold. Full draft completion remains unknown until the remaining evidence and three final ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
