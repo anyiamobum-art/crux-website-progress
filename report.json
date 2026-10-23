@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header writer completed at 20:00 UTC; the existing remote keeper started at 20:04 UTC on the returned source. No new header PR, installation or rendered pass yet.",
+  "workerState": "Header writer completed at 20:00 UTC; its remote keeper started at 20:04 UTC. Pin correction was placed once at 20:13 UTC; actual writer start remains unverified. No new header PR, installation or rendered pass yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original source now reserves the outer navigation widths before the font arrives and removes the preload-only mitigation. The remote worker confirmed the exact head and real dependencies before starting its first regression file.",
+  "lastActualProgress": "The returned header source reserves outer navigation widths before the font arrives. Its real-dependency proof is running. The separate pin correction will move the existing animation to the inner icon while preserving timing and reduced-motion behavior.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The current shared Mac rule still fails at pressure level 2. The original remote route needs the bounded Stores enquiry acceptance scope; privacy facts, qualified TEST context and supported GPU instrumentation also remain required.",
-  "current": "The header geometry source has returned. Six regression files and mutation checks are running on the remote worker with real template dependencies. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the exact header test result, then continue its original review and release path. Resolve the existing Stores rendering allocation independently.",
-  "updated": "2026-10-23T20:06:13.997166+00:00",
+  "remaining": "Two qualifying Mac readings were observed at 20:11 and 20:12 UTC. Hands is verifying its own readings before allocating the existing queue; no Website turn is granted yet. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
+  "current": "Header regression files and mutation checks are running remotely with real template dependencies. The narrow pin-animation correction is queued with the original Stores writer. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the exact header test result and the original pin writer’s start, then continue their review and release paths. Use the existing browser/native queue when Hands issues a qualified Website turn.",
+  "updated": "2026-10-23T20:15:20.465856+00:00",
   "links": [
     {
       "title": "Tracking-link #4810",
@@ -205,11 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The header source returned at 20:00 UTC and entered the real-dependency remote proof at 20:04. Fixed outer widths replace the preload-only mitigation; rendered stability remains unverified.",
-    "The original header repair resumed at 19:42 UTC after actual provider renewal. Its prior head and partial source are preserved; no duplicate writer was started.",
-    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Its existing rendered-acceptance request now asks for a concrete supported remote route while the Mac is unqualified.",
-    "A fresh 19:44 UTC Mac check still reports memory pressure level 2. No native lease or check was attempted.",
-    "The 16:46–19:43 observation gap is recorded; original wait ages, acceptance counts and final-rating rounds are unchanged."
+    "Two qualifying Mac resource readings were reported at 20:11 and 20:12 UTC. Hands is verifying its own pair before allocating the existing queue; this is not a Website browser or native grant.",
+    "The remaining pin correction was placed once at 20:13 UTC with the original Stores writer. Its source work has not yet been observed to start.",
+    "The header returned at 20:00 UTC and entered real-dependency remote proof at 20:04. Fixed outer widths replace the preload-only mitigation; actual browser stability and 200% fit remain unverified.",
+    "Stores enquiry remains installed and preservation-verified in the unpublished draft. Its rendered acceptance and the original final ratings remain open."
   ],
   "openDeliveryGates": [
     {
@@ -430,11 +429,15 @@
       },
       {
         "complete": false,
+        "text": "Complete the remaining pin animation correction through its original writer (queued 20:13Z; expected source work 15 min after actual start; animate the inner icon while the outer element stays fixed)."
+      },
+      {
+        "complete": false,
         "text": "Measure remaining desktop Options timing and safe held controls (same instrumentation refusal at 07:55Z; browser released at 07:56Z; supported recovery and fresh grant required; est. 10 min after recovery)."
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (grant received by 10:07Z; action-time memory pressure failed, so no lease or attempt and END recorded 10:08Z; est. 13 min after the next qualified grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (the earlier grant ended without a lease; qualifying readings observed at 20:11Z and 20:12Z, Hands verification and existing queue allocation pending; est. 13 min after a Website grant)."
       },
       {
         "complete": true,
