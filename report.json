@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original tracking-link worker started at 12:16Z on the combined product and acceptance-test source. Header installation and preservation calls are terminal. Both prerequisite repairs passed their hosted checks and merged. No duplicate worker or test run was started.",
+  "workerState": "Original tracking-link worker started at 12:16Z on the combined product and acceptance-test source. All 12 selected test files have passed, including the real database-backed route tests; 127 mutation checks are still running. Header installation and preservation calls are terminal. Both prerequisite repairs passed their hosted checks and merged. No duplicate worker or test run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -433,11 +433,11 @@
         "text": "Update the task site with the resource qualification rule and connected proof state (08:15Z–08:17Z, took 2 min; exact Pages build and five hosted files verified)."
       },
       {
-        "complete": false,
-        "text": "Publish the installed header, connected merges and verified advisory contribution (started 12:24Z, est. 11 min; verify the matching Pages build and five hosted files)."
+        "complete": true,
+        "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: about 12:33Z for the public update (6 min left; hosting could move it). Full draft completion depends on the original tracking-link release, qualified browser/native turns, actual privacy decisions and final acceptance."
+    "landing": "Lands: tracking-link proof estimate about 12:46Z (17 min left; mutation checks or worker queue could move it). Full draft completion depends on the original release, qualified browser/native turns, actual privacy decisions and final acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
