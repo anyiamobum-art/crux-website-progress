@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "GitHub is running the title repair’s admission and five test shards. The chair ordered the Website iPhone check after the current marketing check, once the memory gate passes; no Website device turn is granted yet.",
+  "workerState": "The original first review and three hosted test groups are running for the title repair. The hosted safeguards passed. The Website iPhone check remains behind the marketing check and the shared resource requirements.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "00:00Z–00:02Z: the exact merged title repair passed all 20 targeted tests and 23 regression safeguards. Its original publisher pushed once, supplied the current receipt and marked #4780 Ready. The remote branch was verified; hosted checks are running. No title installation or final rating is claimed.",
+  "lastActualProgress": "00:14Z–00:18Z: the original first review started; hosted safeguards and two test groups passed. A one-asset draft installation handoff is prepared, subject to the actual approved merge and fresh source readback. No title installation or final rating is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "PR #4780 awaits its hosted checks and original independent review before merge. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
-  "current": "The title repair passed 20 targeted tests and all 23 regression safeguards. Its original publisher pushed the repaired change once and placed #4780 in the review queue; hosted checks are running. Both approved checkout settings are saved and reload-verified. Delivery 6/11, final passes 0/3 and native checks 0/7 remain unchanged.",
+  "remaining": "PR #4780 awaits the remaining hosted tests and original independent approvals before merge and draft installation. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
+  "current": "The title repair’s hosted safeguard check has passed, two of five test groups are green, and the original first independent review is running. The remaining three test groups continue. Both approved checkout settings are saved and reload-verified. Delivery 6/11, final passes 0/3 and native checks 0/7 remain unchanged.",
   "next": "Finish the original title and other repair reviews, merges and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-23T00:02:35.042273+00:00",
+  "updated": "2026-10-23T00:18:29.877751+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -209,7 +209,7 @@
     "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
     "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
     "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
-    "The title continuation returned without changing source. Its existing Save-heart priority rule explains the retained visibility observation. PR #4780 has passed its remote verification, the conflict is resolved, and its original publisher has placed it in the review queue. Review, merge, installation and final acceptance remain open."
+    "The title continuation returned without changing source. Its existing Save-heart priority rule explains the retained visibility observation. PR #4780 has passed remote verification and hosted safeguards. Two test groups passed; three remain. Its original first independent review is now running. Merge, installation and final acceptance remain open."
   ],
   "openDeliveryGates": [
     {
@@ -290,7 +290,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on title hosted checks and independent review since 00:01Z (next check 00:15Z or its result; est. 5 min to consume a verdict; review duration unknown)."
+        "text": "Waiting on title checks since 00:01Z; first independent review started 00:14Z (two test groups and hosted safeguards passed; three test groups remain; next check 00:30Z or result; est. 5 min to consume a verdict)."
       },
       {
         "complete": false,
@@ -305,7 +305,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; integration and remote verification passed; hosted checks and original review are next. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
+    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; integration and remote verification passed; hosted safeguards passed and the original first review is running. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
