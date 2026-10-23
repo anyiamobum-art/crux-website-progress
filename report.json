@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header has one accepted targeted retry. Pin is held by two failed tests; no rerun or change to its approved head has been made. Both original reviews remain recorded; neither follow-up is installed.",
+  "workerState": "Header workflow attempt 3 is executing after an explicit pre-test freshness refusal. Pin is held by two failed tests; no pin rerun or approved-source change has been made. Neither follow-up is installed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 21:54 UTC, both pin failure artifacts and original source custody were reconciled, then one combined diagnosis handoff was delivered. Header retry was accepted at 21:49. Native allocation remains unanswered after the 21:54 destination check.",
+  "lastActualProgress": "Header’s full-workflow recovery was accepted at 21:57 UTC and its test plan started. Both pin failure artifacts and original source custody were reconciled, then one combined diagnosis handoff was delivered at 21:54. Native allocation remains unanswered.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. Non-browser native checks remain eligible; the original helper adopted the current source, and its existing request now awaits a separate qualified Website grant. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "Both follow-ups retain their original first approvals. The header hit its hosted job ceiling; one targeted retry is queued, preserving four passed groups. Pin hosted tests ended with two real failures, now routed once to their original source owners. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the existing header retry. The original owners diagnose the assistant-mount timeout and trace worker wait before pin recovery. Only protected merged source can proceed to the prepared unpublished installations.",
-  "updated": "2026-10-23T21:55:03.556911+00:00",
+  "current": "Both follow-ups retain their original first approvals. The header’s targeted retry was refused before tests because main had advanced; its required full-workflow recovery started at 21:57 UTC on the same approved source. Pin’s two real test failures are with their original source owners. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the existing header recovery against current main. The original owners diagnose the assistant-mount timeout and trace worker wait before pin recovery. Only protected merged source can proceed to the prepared unpublished installations.",
+  "updated": "2026-10-23T21:58:03.653633+00:00",
   "links": [
     {
       "title": "Stable Stores pin #4820",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "Header’s final hosted group exceeded GitHub’s 35-minute limit without a test verdict. One targeted retry was accepted; the four passed groups are retained.",
+    "Header’s final hosted group exceeded GitHub’s 35-minute limit. The targeted retry then stopped before tests because main had advanced. Its guard requires all jobs to run; one full-workflow recovery started at 21:57 UTC on unchanged approved source.",
     "Pin’s completed hosted run has two failures: the assistant-mount subprocess exceeded 60 seconds, and the trace worker entry wait returned false. Exact artifacts and original source owners are recorded; a single diagnosis handoff is delivered, with no broad rerun or change to the approved source.",
     "Both independent first approvals remain valid. Merge, installation and rendered acceptance are still separate.",
     "Native source adoption is complete, but its qualified Website allocation remains absent. Browser Work-settings refusal remains a separate access dependency.",
@@ -434,7 +434,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining header hosted checks, protected merge and exact unpublished installation (started 20:33Z; group 2 reached the hosted 35-minute ceiling at 21:45Z without a test verdict; one targeted retry accepted at 21:49Z, four green groups retained; next queue check by 22:04Z, duration unknown)."
+        "text": "Complete remaining header hosted checks, protected merge and exact unpublished installation (started 20:33Z; original group 2 hit its 35-minute ceiling; targeted retry was refused before tests because main advanced; one required full-workflow recovery started 21:57Z on unchanged approved source, next progress check 22:12Z; duration unknown)."
       },
       {
         "complete": true,
