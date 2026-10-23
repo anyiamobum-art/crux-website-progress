@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-23T13:49:13.889594+00:00",
+  "snapshot": "2026-10-23T14:04:52.952209+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Stores source built; one scope correction before release",
+      "status": "Stores scope correction executing before release",
       "title": "Directions are not a promise.",
       "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "One concrete integration gap",
-      "result": "The original remote writer returned the current-item and store enquiry source at 13:26 UTC. Focus, disclosure and stale context have targeted tests. A new recording binding is being removed through the same writer to keep the agreed scope. Real-dependency proof, independent reviews, merge, unpublished installation and rendered acceptance remain open.",
+      "result": "The original remote writer returned the current-item and store enquiry source at 13:26 UTC. Its same-lineage correction began at 13:56 UTC to remove recording from the new enquiry links. Focus, disclosure and stale context retain targeted proof; real-dependency tests, independent reviews, merge, unpublished installation and rendered acceptance remain open.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
