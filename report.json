@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original header lane restarted at 19:42 UTC; its process, requested model and effort are verified. Stores installation is complete; rendered acceptance awaits allocation.",
+  "workerState": "Header writer completed at 20:00 UTC; the existing remote keeper started at 20:04 UTC on the returned source. No new header PR, installation or rendered pass yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The existing launcher recovered the same header lane at 19:42 UTC, retaining the prior head and staged source. The independent Stores rendering request remains with its original owner.",
+  "lastActualProgress": "The original source now reserves the outer navigation widths before the font arrives and removes the preload-only mitigation. The remote worker confirmed the exact head and real dependencies before starting its first regression file.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "No current Stores browser grant or supported remote route is recorded. Fresh native memory pressure still failed at 19:44 UTC; actual privacy policy, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "The original header writer is executing again after provider renewal, with its prior source preserved. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the original header result and continue its release checks. Obtain the existing supported rendering route for installed Stores acceptance.",
-  "updated": "2026-10-23T19:45:01.142801+00:00",
+  "remaining": "The current shared Mac rule still fails at pressure level 2. The original remote route needs the bounded Stores enquiry acceptance scope; privacy facts, qualified TEST context and supported GPU instrumentation also remain required.",
+  "current": "The header geometry source has returned. Six regression files and mutation checks are running on the remote worker with real template dependencies. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the exact header test result, then continue its original review and release path. Resolve the existing Stores rendering allocation independently.",
+  "updated": "2026-10-23T20:06:13.997166+00:00",
   "links": [
     {
       "title": "Tracking-link #4810",
@@ -205,6 +205,7 @@
     }
   ],
   "recentChanges": [
+    "The header source returned at 20:00 UTC and entered the real-dependency remote proof at 20:04. Fixed outer widths replace the preload-only mitigation; rendered stability remains unverified.",
     "The original header repair resumed at 19:42 UTC after actual provider renewal. Its prior head and partial source are preserved; no duplicate writer was started.",
     "Stores enquiry remains installed and preservation-verified in the unpublished draft. Its existing rendered-acceptance request now asks for a concrete supported remote route while the Mac is unqualified.",
     "A fresh 19:44 UTC Mac check still reports memory pressure level 2. No native lease or check was attempted.",
@@ -416,8 +417,16 @@
         "text": "Qualify the returned header font candidate against the original requirement (15:33Z–16:03Z, took 30 min; preload mitigation still permits cold-font movement; same-writer completion placed with the existing capture inputs)."
       },
       {
+        "complete": true,
+        "text": "Complete stable header geometry source through the original writer (19:42Z–20:01Z, took 19 min; fixed outer widths replace preload; source returned without a rendered claim)."
+      },
+      {
         "complete": false,
-        "text": "Complete stable header geometry through the original writer (restarted 19:42Z with preserved source after provider renewal; est. 20 min, source about 20:02Z; next result check 19:57Z)."
+        "text": "Verify the returned header with real template dependencies and its regression checks (started 20:04Z, est. 20 min; six files plus mutation checks running remotely; next check 20:19Z)."
+      },
+      {
+        "complete": false,
+        "text": "Carry the verified header through its original source read, reviews, merge and exact unpublished installation (after green remote proof; duration depends on checks and review)."
       },
       {
         "complete": false,
@@ -524,7 +533,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: header source about 20:02Z, conditional on the recovered writer completing its checks. The whole draft has no reliable finish time: Stores rendered access, native qualification, actual privacy and TEST context, header release and the three original final checks remain."
+    "landing": "Lands: header remote proof about 20:25Z if its tests pass; reviews and installation follow. The whole draft has no reliable finish time: Stores rendered access, native qualification, actual privacy and TEST context, header release and the three original final checks remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
