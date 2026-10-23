@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header writer and real-dependency keeper completed; PR #4818 opened and marked Ready with original holder 4818.1. Pin writer completed at 20:27 UTC; its keeper waits for slot 0 or 1 after the third-slot load gate refused admission. Neither of these two follow-ups is installed yet.",
+  "workerState": "Header #4818 remains open and Ready at its tested source with original holder 4818.1; no independent approval yet. The original pin keeper is alive and queued for slot 0 or 1. Neither follow-up is installed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Six header wrappers and all 34 safeguards passed. The exact tested header was published without a source rewrite. The pin source now animates only its inner SVG, preserving the existing timing, cancellation and quiet behavior; rendered geometry remains unproved.",
+  "lastActualProgress": "Header admission, initial gates and PR body checks passed. The existing acceptance packet now references installed Stores source173/44/22; native adoption and checks remain unspent. The pin candidate exactly matches the installed parent before its narrow animation change.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The old account/swap hold was withdrawn at 20:20 UTC and Interface received the first turn. The named queue does not yet identify a Website boundary; one follow-up extends the existing request. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "Header #4818 is Ready on its exact tested source. The original Stores writer returned the pin correction; its real-dependency keeper is waiting for a remote worker slot. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the header’s hosted checks and original review, then carry eligible source through protected merge and unpublished installation. Complete the pin keeper before its single publication. Use only an actual Website browser/native allocation.",
-  "updated": "2026-10-23T20:33:16.275641+00:00",
+  "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. No separate Website native grant has been issued. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
+  "current": "Header #4818 has passed admission and initial gates; two hosted test groups are running and three are queued. The original pin keeper is still waiting for a remote worker slot. Stores enquiry remains installed in the unpublished draft.",
+  "next": "Consume the existing header hosted checks and original review, then protected merge and unpublished installation. Complete the original pin keeper before its single publication. Resume rendered checks only after actual browser recovery and allocation; native requires its own qualified grant.",
+  "updated": "2026-10-23T20:46:30.550206+00:00",
   "links": [
     {
       "title": "Font-arrival follow-up #4818",
@@ -429,7 +429,7 @@
       },
       {
         "complete": false,
-        "text": "Complete header hosted checks, independent review, protected merge and exact unpublished installation (started 20:33Z; review and queue duration unknown; next changed-result check by 20:48Z)."
+        "text": "Complete header hosted checks, independent review, protected merge and exact unpublished installation (started 20:33Z; review and queue duration unknown; admission and initial gates passed; two test groups running and three queued by 20:46Z; next result check by 21:02Z)."
       },
       {
         "complete": true,
@@ -437,7 +437,7 @@
       },
       {
         "complete": false,
-        "text": "Verify the pin correction with real template dependencies and all affected safeguards (started 20:30Z, est. 15 min after worker allocation; genuine remote slot wait; next check 20:45Z)."
+        "text": "Verify the pin correction with real template dependencies and all affected safeguards (started 20:30Z, est. 15 min after worker allocation; original worker-slot wait verified at 20:45Z; next check 21:00Z)."
       },
       {
         "complete": false,
@@ -445,7 +445,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (old hold withdrawn at 20:20Z; Interface received the first turn; Website allocation remains unanswered in the same request; est. 13 min after its actual grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (Website is after Studio; a separate qualified native grant remains required; browser settings refusal does not prove native control is disabled; est. 13 min after its actual grant)."
       },
       {
         "complete": true,
@@ -521,7 +521,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Stores rendered enquiry acceptance on the installed source (existing acceptance route and qualified context required; no message or stock promise; est. 10 min after access)."
+        "text": "Complete Stores rendered enquiry acceptance on the installed source (Hands browser grants held after an actual Work-settings access refusal; already routed to the chair; no message or stock promise; est. 10 min after access)."
       },
       {
         "complete": true,
@@ -544,7 +544,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: pin proof about 15 min after its remote worker starts; header #4818 is in review. The whole draft has no reliable finish time: actual Website browser/native allocation, privacy and TEST context, both releases, rendered evidence and the three original final checks remain."
+    "landing": "Lands: pin proof about 15 min after its remote worker starts; header #4818 is in review. The whole draft has no reliable finish time: browser access recovery, a separate Website native allocation, privacy and TEST context, both releases, rendered evidence and the three original final checks remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
