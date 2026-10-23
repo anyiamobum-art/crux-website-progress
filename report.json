@@ -2,31 +2,31 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header hosted run is complete and green; its original protected merge lane has the result. Big Bag’s second attempt is the chair’s existing run. The native owner is READY behind the current device check. A separate eight-minute bag pressed-feedback check is queued after the current Chrome owner; supported safe hold/cancel input must be confirmed first.",
+  "workerState": "The verified header installation is complete and the acceptance source is being updated. Big Bag’s stale-base result is with its original chair/recovery route. The native owner is checking the existing admission state. The bag browser turn was released after a read-only capability check failed; no cart input was sent.",
   "journey": [
     {
       "stage": "Build",
-      "state": "Running",
-      "evidence": "The original header and title repairs are in review and hosted checks. SEO is merged."
+      "state": "Unknown",
+      "evidence": "Header #4792 is reviewed, merged and installed. Big Bag title integration remains with its original keeper; SEO is merged."
     },
     {
       "stage": "Tests",
-      "state": "Running",
-      "evidence": "Big Bag’s exact commit passed 20 targeted tests and 26/26 selected causal checks; required hosted groups remain queued or running. SEO safeguards and four groups passed. Native, 200% text and timing proof remain separate."
+      "state": "Unknown",
+      "evidence": "Header required CI and hosted installation/preservation checks passed. Big Bag passed its targeted tests but its latest hosted attempt stopped at a stale-base guard before pytest. Native, 200% text, connected and timing proof remain open."
     },
     {
       "stage": "Review",
-      "state": "Running",
-      "evidence": "Header #4792’s original first review is pending. Big Bag retains its final named-fix approval while current checks complete. P2213 is closed. Final whole-site design passes remain 0/3."
+      "state": "Unknown",
+      "evidence": "Header original code review approved. Big Bag retains its final named-fix code approval; the original chair owns the current-source disposition. Final whole-site design passes remain 0/3."
     },
     {
       "stage": "Deployed",
       "state": "Verified",
-      "evidence": "First Look and earlier reviewed Big Bag CSS are installed and byte-verified in the unpublished draft. The new title and header repairs are not yet installed. Rendered, native, connected and final-rating acceptance remain open."
+      "evidence": "Header #4792 is installed and byte-verified in the unpublished draft, alongside earlier reviewed repairs. All unrelated draft/live files and settings are preserved. The separate title repair is not installed. Rendered, native, connected and final-rating acceptance remain open."
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header’s final test gate passed at 06:19Z after all five hosted groups passed. The green result was delivered to the existing merge owner. The original Money diagnosis has been placed as one bounded continuation. The independent bag held-feedback check is queued without duplicating earlier geometry evidence.",
+  "lastActualProgress": "Header installation verified at 06:40Z; preservation checks passed and the installed-source record was adopted at 06:43Z. Only the header stylesheet changed: all 694 unrelated draft files, 550 live-theme files, theme roles and settings were preserved.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,26 +124,26 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Header rendered acceptance remains open.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
       "11. BIG BAG page and navigation",
-      "Title named-fix approved; required checks pending",
+      "Title named-fix approved; current-base checks pending",
       "#4743 is installed and preserved. #4780’s corrected head passed 20 tests, 26/26 regression checks and its original final named-fix code review.",
-      "Finish current required checks, protected merge and draft-only installation, then rendered/native qualification."
+      "Original chair/keeper qualifies current-main integration after a stale-base guard stopped the latest attempt before tests; then protected merge, draft installation and rendered/native qualification."
     ]
   ],
   "completed": [
+    "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. No rendered, native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released.",
     "[BIG BAG narrow-layout repair #4698](https://github.com/EON-CRUX/3.09/pull/4698) merged as 0529efe7 at 15:14:12Z after its required tests and original code approval passed. One approved CSS asset was installed and byte-verified at 16:36:57Z; preservation passed at 16:38:36Z. All 694 unrelated draft assets, 550 live-theme assets, all 13 theme roles, settings and prior dependencies are preserved. The draft is unpublished. The later 16:47Z run passed normal desktop fit and options opening; remaining narrow findings, native/timing proof and final ratings stay open.",
-    "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
-    "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
+    "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open."
   ],
-  "remaining": "Header’s remaining protected review and merge are pending. Big Bag’s original Money-test failure remains recorded while the chair-started retry runs. The iPhone check needs its dated turn and qualified Mac resource readings. Connected/privacy and performance evidence remain separate open requirements. P2213 is closed.",
-  "current": "P2213 is cleared. Header #4792 has passed all five hosted test groups, the final test gate and safeguards; its first review is approved and the protected merge lane has the green result. Big Bag’s chair-started retry continues, with the recurring Money-test diagnosis assigned separately. The iPhone check is accepted in the existing queue. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
-  "next": "Complete the original header and title reviews and required checks, merge and install only into the unpublished draft. Use the existing native allocation to finish iPhone evidence, then return the finished source to the three original final readers.",
-  "updated": "2026-10-23T06:23:47.151852+00:00",
+  "remaining": "Big Bag needs a current-base qualification through its original keeper. Safe held-press measurement is blocked by a browser-control error. The iPhone check needs its dated turn and qualified Mac resources. Connected/privacy and performance evidence remain open. Header merge and installation are complete.",
+  "current": "P2213 is cleared. Header #4792 is reviewed, merged and installed in the unpublished Shopify draft. Exact hosted bytes and preservation checks passed. Big Bag’s latest check stopped before tests because main advanced; the original chair/recovery route has that result. Delivery remains 6/11, final website passes 0/3 and native checks 0/7.",
+  "next": "Complete the installed-header rendered check when browser control is available. Consume the chair’s Big Bag integration decision, finish its checks and merge, then install it in the draft. Complete the queued native and remaining source-bound checks before the three original final readers.",
+  "updated": "2026-10-23T06:45:15.126954+00:00",
   "links": [
     {
       "title": "Header repair #4792",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "P2213 is cleared; the original publication and merge holds are released.",
-    "Header #4792 has its first code-review approval and all hosted tests and safeguards passed. Its original protected review and merge lane has the green result.",
-    "Big Bag’s first hosted attempt finished with four groups passed and one Money drawer test failure. The chair started one rerun and assigned the recurring test diagnosis to its original owner; the original failure remains in the evidence.",
-    "The original iPhone check is accepted in the existing queue. Its source record is reconciled; the latest resource pair is not qualified, so no device run or score has been claimed.",
-    "The final review packet includes the current source, completed account/Back and bag checks, the modal requirement answer and privacy source adoption. Final ratings remain 0/3. Shopify stays unpublished."
+    "P2213 is cleared. Header #4792 passed its original review and required checks, merged, and is now installed in the unpublished draft.",
+    "The one-file installation has exact hosted-byte proof. Preservation checks confirmed that all unrelated draft files, the live theme, settings and theme roles are unchanged.",
+    "The installed-source record now covers 173 tracked files and 41 approved source manifests. That is source proof; rendered, native and final-rating acceptance remain separate.",
+    "Big Bag’s latest attempt stopped at the fresh-base guard before tests ran. The original chair/recovery route has the result; no duplicate retry was started.",
+    "The bag held-press check could not use supported browser control because of an actual paused-document error. Its browser turn was released without changing the cart. The iPhone check remains in the existing queue."
   ],
   "openDeliveryGates": [
     {
@@ -234,8 +234,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Reviewed #4743 CSS is installed and byte-verified in the unpublished draft. Title repair #4780 passed its final named-fix code review and exact-source remote tests; the shared CI hold is cleared and the first hosted attempt hit a Money drawer browser-test failure. The chair started one rerun and assigned the recurring diagnosis to its original owner.",
-      "next": "Consume the existing rerun, complete the protected merge, install the reviewed bytes in the unpublished draft, then qualify the changed rendering and native journey. Retained visibility and small-screen limits remain explicit."
+      "blocker": "Reviewed #4743 CSS is installed and byte-verified. Title repair #4780 passed its final named-fix code review and exact-source remote tests. Its hosted sequence encountered a Money test finding, a runner interruption, then a stale-base guard before tests.",
+      "next": "The original chair/keeper qualifies current-main integration while the original Money repair proceeds; then protected merge, exact draft installation and changed rendering/native acceptance. Retained visibility and small-screen limits remain explicit."
     }
   ],
   "timedPlan": {
@@ -326,7 +326,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the chair-started title checks and protected merge (failed 05:49Z; original failure retained; chair started attempt 2 at 06:04Z; next check 06:25Z; remote runner queue may move it)."
+        "text": "Complete the title checks and protected merge (attempt 3 ended 06:38Z before tests because main advanced; returned to the original chair/recovery route at 06:42Z; next check 06:55Z)."
       },
       {
         "complete": true,
@@ -349,12 +349,16 @@
         "text": "Complete the header’s first review and hosted checks (05:32Z–06:19Z, took 47 min; first review approved, all five test groups and safeguards passed)."
       },
       {
-        "complete": false,
-        "text": "Complete the header’s remaining protected review and merge (started 06:20Z; est. 15 min; next check 06:30Z; original merge owner has the green result)."
+        "complete": true,
+        "text": "Complete the header’s protected merge (06:19Z–06:20Z, took 1 min; merge verified at 06:31Z and merged CSS matches the approved source)."
+      },
+      {
+        "complete": true,
+        "text": "Install and verify the exact merged header CSS in the unpublished draft (06:32Z–06:43Z, took 11 min; one stylesheet, exact hosted bytes and full preservation checks)."
       },
       {
         "complete": false,
-        "text": "Check held-press feedback on the retained bag controls (queued 06:20Z after the current browser owner; est. 8 min once granted; safe hold/cancel capability must be confirmed)."
+        "text": "Check held-press feedback and installed header rendering (06:34Z–06:37Z capability check found a browser-control error; turn released; waiting on supported control recovery, next check 06:55Z; est. 10 min once available)."
       },
       {
         "complete": true,
@@ -362,7 +366,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (ready accepted 05:56Z; behind the current device check; est. 13 min once granted; latest resource pair is not qualified; existing watcher checks through 06:40Z)."
+        "text": "Complete the queued iPhone check after a qualified device grant (ready accepted 05:56Z; original owner reconciling the expired watcher and newly installed source at 06:43Z; est. 13 min after a valid grant)."
       },
       {
         "complete": true,
@@ -381,7 +385,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: next title check about 06:25Z and header merge check about 06:30Z; the bag check takes about 8 min after its browser turn and iPhone work about 13 min after its qualified grant. Full draft completion remains unknown until checks, installation and acceptance pass. Shopify stays unpublished."
+    "landing": "Lands: next repair and browser recovery check about 06:55Z (10 min left; original keeper results and resource availability may move it). Header installation is complete. Browser checks take about 10 min after control recovery; iPhone work about 13 min after its qualified grant. Full draft completion remains unknown until all required acceptance and final ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
