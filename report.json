@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Both source jobs ended without a capture or Shopify change. The Stores source returned at 13:26Z; the header preparation ended at 13:33Z. C17’s original remote keeper ended successfully at 13:29Z. Original owners retain each next action.",
+  "workerState": "Both compact continuations ended successfully. Stores returned corrected source at 14:07Z; the header helper returned at 14:09Z. Hands placed the original Stores keeper at 14:14Z and queued the single header capture at 14:12Z.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "C17 has 849 passing tests, one skip and 128 passing mutation safeguards on its corrected source. Stores source adds current-item/store previews with focus and stale-context tests; one analytics-scope correction is required. Header preparation passed its offline checks; no rendered result is claimed.",
+  "lastActualProgress": "Stores initial and refreshed enquiry links no longer bind recording; its positive control retains existing Companion receipt behavior. All 142 returned header packet hashes match; 81 offline checks passed. Real-package Stores tests and rendered header evidence are still owed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,9 +140,9 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Original correction, helper and hosted test jobs are genuinely running. iPhone memory pressure still fails; GPU timing needs supported instrumentation and allocation. Actual privacy and qualified TEST context remain absent. The modal disposition and completed public journey are retained without replay.",
-  "current": "The two original-lineage remote continuations are executing: Stores began its one scope correction at 13:56 UTC; the header helper began rebinding at 13:59 UTC. C17 has its first independent approval, both hosted mutation checks passed, and remaining test groups are running.",
-  "next": "Consume the Stores corrected source and authoritative real-dependency proof, then the original publication and review route. Consume the header helper’s qualified return, then Hands runs its one unused arrival capture. Continue C17 through remaining checks, review and merge.",
+  "remaining": "The shared worker is occupied while CI exceeds eight queued runs. Native memory pressure still fails; GPU timing needs supported instrumentation and allocation. Actual privacy and qualified TEST context remain absent.",
+  "current": "The Stores scope correction and header helper have returned and passed source inspection. The existing Stores keeper is waiting for a shared worker; the single header capture is already queued behind it. C17 has three of five hosted test groups passing, with two running.",
+  "next": "Consume real-package Stores tests and mutation checks, then the original independent review, merge and unpublished installation route. Consume the one queued header capture and C17’s remaining checks and review.",
   "updated": "2026-10-23T14:04:52.952209+00:00",
   "links": [
     {
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The Stores correction is executing from the original returned source, starting at 13:56 UTC. It removes recording only from the new enquiry links; existing enquiry context, directions and other receipt behavior remain in scope for verification.",
-    "The header helper continuation started at 13:59 UTC with the qualified 174-key measurement binding and 100 matching served-byte reproductions. It prepares the helper offline; Hands then runs the one unused remote arrival capture.",
-    "C17 #4810 retains its first independent approval. Both hosted mutation checks and guards passed; test groups 0 and 4 passed, with groups 1, 2 and 3 running at 14:02 UTC. No merge is claimed.",
-    "The modal-close/reopen disposition is already resolved, and the 21.56-second public journey is complete. The missing whole journey requires authenticated populated-bag/account and native context; these closed public checks will not be repeated.",
-    "Native memory pressure still failed at 13:31 UTC. The TEST workspace has no Shopify connection; privacy decisions, GPU timing and final acceptance remain open. Counts stay 6/11, final ratings 0/3 and native checks 0/7; Shopify stays unpublished."
+    "The Stores correction returned at 14:07 UTC. Initial and refreshed enquiry links no longer bind recording; current product, size and configured store still feed the message preview, and existing Companion receipt behavior has a positive control.",
+    "The authoritative Stores keeper entered the shared-worker queue at 14:14 UTC. Its existing command uses real liquidjs 10.30.0 and jsdom 30.1.2 for 13 test files and mutation safeguards; the writer’s disclosed template shim is not release proof.",
+    "The header helper returned at 14:09 UTC. All 142 returned file hashes match, and 81 offline checks passed. Hands has already queued the single 1280-pixel arrival capture behind Stores; no rendered result is claimed yet.",
+    "C17 #4810 retains its first independent approval. Hosted groups 0, 1 and 4 passed, with groups 2 and 3 running at 14:17 UTC; both mutation checks and guards passed. No merge is claimed.",
+    "Counts remain 6/11 delivery gates, 0/3 final ratings and 0/7 native checks. Shared-worker allocation, native resources, actual privacy decisions and qualified TEST connection remain explicit dependencies. Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -405,8 +405,12 @@
         "text": "Qualify and stage the header source inputs (13:34Z–13:39Z, took 5 min; all 100 served-byte reproductions matched and the complete 174-key measurement binding is staged)."
       },
       {
+        "complete": true,
+        "text": "Rebind and qualify the original header helper (13:59Z–14:15Z, took 16 min including packet transfer; 81 offline checks and all 142 returned file hashes passed)."
+      },
+      {
         "complete": false,
-        "text": "Rebind the original header helper and run its one remote arrival check (started 13:59Z, est. 10 min for the helper plus 10 min for capture after verified return; source inputs are qualified; next check 14:09Z)."
+        "text": "Run the single remote header arrival check (queued 14:12Z behind the Stores keeper; est. 10 min after a worker starts; next check 14:29Z)."
       },
       {
         "complete": false,
@@ -453,8 +457,12 @@
         "text": "Build the current-item and store enquiry integration (13:11Z–13:27Z, took 16 min; source returned; release checks and one scope correction remain)."
       },
       {
+        "complete": true,
+        "text": "Remove recording from the new Stores enquiry (13:56Z–14:11Z, took 15 min including returned-source inspection; initial and refreshed links corrected, existing receipt positive control retained)."
+      },
+      {
         "complete": false,
-        "text": "Remove recording from the new Stores enquiry and complete real-dependency proof (started 13:56Z, est. 15 min for the named correction; authoritative test duration follows the returned source; next check 14:11Z)."
+        "text": "Complete authoritative Stores dependency and regression proof (queued 14:14Z; shared worker slot is occupied while CI exceeds eight queued runs; est. 15 min after allocation, next check 14:29Z)."
       },
       {
         "complete": false,
@@ -477,7 +485,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: about 14:09Z for the header helper, then about 10 min for its single capture; about 14:11Z for the Stores source correction if no new finding appears. Real-dependency tests and release queues follow. Full draft completion remains unknown pending native access, actual privacy and TEST context, and final acceptance."
+    "landing": "Lands: about 15 min after the Stores worker starts, then about 10 min for the queued header capture. Allocation time and review queues remain unknown. Full draft completion depends on native access, actual privacy and TEST context, and the original final acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
