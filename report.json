@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The title writer and remote proof completed; the second review returned one finding at 00:59Z. Its original continuation has been requested once; acknowledgment and execution are not yet verified. Required hosted tests remain queued. SEO has fresh checks in progress. Header publication remains with its original owner.",
+  "workerState": "The title writer and remote proof completed; the second review returned one finding at 00:59Z. The existing coordinator queued its original continuation at 01:10Z; execution is not yet verified. Required hosted tests are queued or running. SEO has fresh checks in progress. Header publication remains with its original owner.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Running",
-      "evidence": "Title remote proof passed 20 targeted tests and 24/24 selected causal safeguards on the current commit. Required hosted test groups and pin proof are queued. SEO has fresh hosted checks in progress. Earlier bounded desktop journeys and 44px bag controls remain verified; native, 200% text, timing and final-reader qualification are still open."
+      "evidence": "Title remote proof passed 20 targeted tests and 24/24 selected causal safeguards on the current commit. Required hosted test groups are queued or running. SEO pin proof and one test group passed; its other required checks remain pending. Earlier bounded desktop journeys and 44px bag controls remain verified; native, 200% text, timing and final-reader qualification are still open."
     },
     {
       "stage": "Review",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 01:04Z the exact second-review finding and bounded repair requirements were delivered to the original coordinator. The earlier corrected commit passed 20 tests and 24 regression checks; those checks did not detect this invitation overlap. No new theme installation or live publication occurred.",
+  "lastActualProgress": "At 01:10Z the existing coordinator queued the original final named-fix continuation. The separate header verification/publication delay has been escalated to the chair. The earlier corrected commit passed 20 tests and 24 regression checks; those checks did not detect this invitation overlap. No new theme installation or live publication occurred.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
   "remaining": "PR #4780 requires the named invitation-overlap correction, fresh proof and its final code review before merge or draft installation. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final website acceptance remain open.",
-  "current": "The title repair passed 20 targeted tests and 24 regression checks, but the second review found one remaining overlap: the room label meets the store invitation on very short phone screens. The original repair route has the exact finding for its final named-fix round. SEO is running fresh checks. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
+  "current": "The title repair passed 20 targeted tests and 24 regression checks, but the second review found one remaining overlap: the room label meets the store invitation on very short phone screens. The original repair continuation is queued on the remote worker for its final named-fix round. SEO is running fresh checks. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
   "next": "Finish the original title and other repair reviews, merges and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-23T01:04:55.152537+00:00",
+  "updated": "2026-10-23T01:12:00.782246+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -310,7 +310,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the final named title correction and its proof (waiting on original continuation since 01:04Z; next check 01:19Z; est. 5 min to consume its returned result)."
+        "text": "Complete the final named title correction and its proof (original continuation queued at 01:10Z; next check 01:19Z; est. 5 min to consume its returned result)."
       },
       {
         "complete": false,
@@ -329,7 +329,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: approved checkout refinements completed at 22:56Z. The current title correction passed its remote proof at 00:56Z, but its second review returned one invitation-overlap finding at 00:59Z. Original continuation acknowledgment is due by 01:19Z; repair and full draft completion remain unknown until the required proof, reviews and acceptance pass. Shopify stays unpublished."
+    "landing": "Lands: approved checkout refinements completed at 22:56Z. The current title correction passed its remote proof at 00:56Z, but its second review returned one invitation-overlap finding at 00:59Z. Original continuation was queued at 01:10Z; its next result check is 01:19Z; repair and full draft completion remain unknown until the required proof, reviews and acceptance pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
