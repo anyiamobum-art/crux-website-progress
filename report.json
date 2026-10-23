@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original header keeper started at 02:03Z with its test dependencies available; its final regression result is pending. Big Bag hosted checks and SEO original review continue. The original CI owner retains the shared-runner repair and the chair controls the publication hold.",
+  "workerState": "The header keeper finished successfully at 02:09Z; its original publisher retains the next release step under the shared CI hold. Big Bag hosted checks and SEO original review continue. The original CI owner retains the shared-runner repair.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The missing header source was recovered and the original writer returned a clean merge commit. SEO completed all five hosted test groups. The native owner adopted the current admission rules, but no Website turn or uncertain-call outcome is yet verified. No new theme installation or live publication occurred.",
+  "lastActualProgress": "The original header merged current main and its independent remote keeper finished successfully on that commit. SEO passed all five hosted test groups. These results do not yet complete the required review, draft installation, iPhone acceptance or final ratings.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "The chair temporarily held Big Bag and controlled publications while the original CI owner repairs a shared stale-merge-reference fault. The header keeper has resolved the missing test dependencies and is completing exact-commit proof. Original iPhone allocation and connected/privacy acceptance remain separate.",
-  "current": "The original header keeper is running on the clean merged commit. All three targeted test files passed; 23 selected regression checks are still executing. Big Bag passed its final named-fix code review and 20 tests plus 26 regression checks. SEO passed all five hosted test groups and awaits its remaining original review. Delivery 6/11, final website passes 0/3 and native checks 0/7 are unchanged.",
+  "remaining": "The chair temporarily held Big Bag and controlled publications while the original CI owner repairs a shared stale-merge-reference fault. The header source and exact-commit proof are now ready for the original release route. Original iPhone allocation and connected/privacy acceptance remain separate.",
+  "current": "The header merge and exact-commit verification are complete: 45 targeted tests passed, 18 were skipped, and all 23 selected regression checks passed. Big Bag passed its final named-fix code review and remote proof. SEO passed all five hosted test groups and awaits its remaining original review. Delivery 6/11, final website passes 0/3 and native checks 0/7 remain unchanged.",
   "next": "Complete the remaining original reviews and required checks, merge and install only into the unpublished draft, then finish source-bound rendered, iPhone, performance and connected evidence for the three original final readers.",
-  "updated": "2026-10-23T02:08:46.690932+00:00",
+  "updated": "2026-10-23T02:10:40.306647+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -205,7 +205,7 @@
     }
   ],
   "recentChanges": [
-    "The header merged current main cleanly at 01:59Z. Its original keeper started at 02:03Z; all three test files passed and the selected regression checks are running.",
+    "The header merged current main cleanly at 01:59Z. Verification finished at 02:09Z: 45 tests passed, 18 skipped and all 23 selected regression checks passed.",
     "SEO passed all five hosted test groups; its remaining original review is pending.",
     "Big Bag passed the final named-fix code review and 20 tests plus 26 selected regression checks. Its merge remains under the shared CI hold.",
     "The native admission rules are reconciled. The original Website turn and the outcome of an earlier uncertain request still need confirmation; native checks remain 0/7.",
@@ -333,8 +333,12 @@
         "text": "Merge current main through the original header writer (01:53Z-01:59Z, took 6 min; clean four-file repair retained)."
       },
       {
+        "complete": true,
+        "text": "Verify the merged header on the remote worker (02:03Z-02:09Z, took 6 min; 45 tests passed, 18 skipped, all 23 regression checks passed)."
+      },
+      {
         "complete": false,
-        "text": "Verify the merged header and complete its original release (verification started 02:03Z; all three test files passed, regression checks running; publication waiting since 22 October 12:42Z; next check 02:15Z)."
+        "text": "Complete the original header publication and reviews (publication waiting since 22 October 12:42Z; current shared CI hold applies; next check 02:15Z)."
       },
       {
         "complete": false,
@@ -349,7 +353,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: the title correction passed its final named-fix code review, and the header merged current main. Header verification, required reviews and the shared CI repair remain open; next checkpoint about 02:15Z. Full draft completion time remains unknown until installation and acceptance evidence pass. Shopify stays unpublished."
+    "landing": "Lands: the title correction passed its final named-fix code review, and the header merge and exact-commit verification are complete. Required reviews, the shared CI repair and unpublished installation remain; next checkpoint about 02:15Z. Full draft completion time remains unknown until acceptance evidence passes. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
