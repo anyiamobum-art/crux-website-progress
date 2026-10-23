@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original title writer’s single-finding correction started on the existing remote worker route at 00:30Z. All hosted tests finished successfully; the first review is complete with one finding.",
+  "workerState": "The original title writer finished at 00:40Z and the existing publisher pushed once. Current hosted verification is queued or running; no second repair or review was launched.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "00:21Z–00:31Z: the first review identified one shorter-screen overlap; the existing launcher queued the original lineage at 00:28Z and started it at 00:30:58Z. All five test groups and the aggregate test gate passed by 00:28:30Z. The prepared draft installation is held for corrected, approved source.",
+  "lastActualProgress": "00:40Z-00:46Z: the original title correction returned and its remote commit was verified. The PR description now states the actual change, missing full-suite proof and reported limitations. Header release remains escalated to its original owner; the draft installation is held for approved source.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "[Drawer repair #4685](https://github.com/EON-CRUX/3.09/pull/4685) merged as 2cb091fd at 14:20:44Z. One approved CSS asset was installed in the unpublished draft at 14:59:06Z–15:00:11Z; exact readback matched and preservation passed at 15:03:08Z. The installed-source record was adopted at 15:03:20Z. All unrelated draft assets, live theme, settings and prior dependencies remain preserved. This closes source installation. The later 16:47Z desktop run passed settled drawer fit and quantity-control size; native, true 200% text, timing and final qualification remain open.",
     "[Aftercare acceptance checks #4681](https://github.com/EON-CRUX/3.09/pull/4681) merged as 85ade782 at 12:42:57Z. Source qualification at 12:59Z authenticated both original fix-check approvals and exact contents of all seven merged files. They contain acceptance checks, workflow guards, tests and supporting documentation, with zero theme files; no Shopify upload applies. Existing installed aftercare assets are retained. Connected, native and final website acceptance remain open."
   ],
-  "remaining": "PR #4780 needs its named short-phone correction and original review approval before merge and draft installation. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
-  "current": "All five hosted test groups and safeguards passed. The first independent review found one short-phone overlap: the hero’s minimum height can still push the title under WhatsApp. The original title writer started that correction at 00:30Z. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
+  "remaining": "PR #4780 needs current-candidate full test and review approval before merge and draft installation. A landscape limitation and an unmeasured invitation-card overlap are disclosed to the reviewer. Header/SEO release, qualified iPhone allocation, privacy/runtime and connected evidence, and final acceptance remain open.",
+  "current": "The short-phone title correction has been pushed to its original PR. It lets the hero shrink on shorter screens and adds regression cases for the reported overlap. Hosted tests and the second review are pending; the earlier green checks belong to the prior candidate. Both approved checkout settings remain verified. Delivery 6/11, final passes 0/3 and native checks 0/7 are unchanged.",
   "next": "Finish the original title and other repair reviews, merges and unpublished installation, then complete the remaining privacy, connected, performance and iPhone evidence before the three original final named-fix reviews.",
-  "updated": "2026-10-23T00:33:15.012986+00:00",
+  "updated": "2026-10-23T00:47:31.930433+00:00",
   "links": [
     {
       "title": "Title repair #4780",
@@ -209,7 +209,7 @@
     "Email marketing is unchecked by default in every region. The saved settings page shows None selected; the reopened list shows 0 of 237.",
     "Both settings survived a page reload. Their browser turn is released, and the Shopify theme remains unpublished.",
     "The original iPhone acceptance owner completed source reconciliation: 18 later installations, 173 tracked assets and 40 source manifests. Native checks remain 0/7.",
-    "The title continuation returned without changing source. Its existing Save-heart priority rule explains the retained visibility observation. PR #4780 passed all hosted tests and safeguards. Its first review found one overlap on shorter phone screens; the original writer is correcting it. Merge, installation and final acceptance remain open."
+    "The first review found an overlap on shorter phones. Its original writer returned the correction and the publisher pushed once. Current full tests and the second review remain pending; no rendered or final rating pass is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -293,8 +293,12 @@
         "text": "Consume the hosted checks and original first review (00:01Z–00:30Z, took 29 min; all five test groups and safeguards passed; review found one short-phone overlap)."
       },
       {
+        "complete": true,
+        "text": "Complete the original shorter-screen correction and qualify its returned evidence (00:30Z-00:46Z, took 16 min; one push, source checked, full hosted proof still required)."
+      },
+      {
         "complete": false,
-        "text": "Original title writer is correcting the shorter-screen overlap (started 00:30Z; duration unknown; next result check 00:45Z; est. 5 min to consume its result)."
+        "text": "Current title tests and second review are pending (started 00:40Z; next result check 01:00Z; est. 5 min to consume returned evidence)."
       },
       {
         "complete": false,
@@ -309,7 +313,7 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       }
     ],
-    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; integration and remote verification passed; all hosted checks passed; the first review found one short-phone overlap and the original writer is correcting it. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
+    "landing": "Lands: checkout refinements completed at 22:56Z; title analysis completed at 23:33Z and review handoff delivered at 23:35Z. Title PR #4780 opened at 23:42Z; the first candidate passed hosted checks, then its review found a short-phone overlap. The original correction was pushed at 00:40Z; current-candidate tests and the second review are pending. Full draft completion remains unknown until repair, native, connected and original-review evidence passes. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
