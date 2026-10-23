@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header admission, initial gates and PR body checks passed. The existing acceptance packet now references installed Stores source173/44/22; native adoption and checks remain unspent. The pin candidate exactly matches the installed parent before its narrow animation change.",
+  "lastActualProgress": "Header admission, initial gates and PR body checks passed. The existing acceptance packet now references installed Stores source173/44/22; the original native helper has adopted it, while device checks remain unspent. The pin candidate exactly matches the installed parent before its narrow animation change.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. No separate Website native grant has been issued. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
+  "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. Non-browser native checks remain eligible; the original helper adopted the current source, and its existing request now awaits a separate qualified Website grant. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
   "current": "Header #4818 has passed admission and initial gates; two hosted test groups are running and three are queued. The original pin keeper is still waiting for a remote worker slot. Stores enquiry remains installed in the unpublished draft.",
   "next": "Consume the existing header hosted checks and original review, then protected merge and unpublished installation. Complete the original pin keeper before its single publication. Resume rendered checks only after actual browser recovery and allocation; native requires its own qualified grant.",
-  "updated": "2026-10-23T20:46:30.550206+00:00",
+  "updated": "2026-10-23T20:54:37.117698+00:00",
   "links": [
     {
       "title": "Font-arrival follow-up #4818",
@@ -445,7 +445,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (Website is after Studio; a separate qualified native grant remains required; browser settings refusal does not prove native control is disabled; est. 13 min after its actual grant)."
+        "text": "Complete the queued iPhone check after a qualified device grant (non-browser native requests remain eligible; the original source packet is adopted, but a separate qualified Website native grant is still required; est. 13 min after its actual grant)."
       },
       {
         "complete": true,
