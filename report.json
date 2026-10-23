@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "All five Stores test groups passed by 16:03 UTC; the aggregate started at 16:03 UTC. The header completion was placed once at 16:03 UTC; actual execution is not yet verified.",
+  "workerState": "Stores hosted run completed successfully. Header completion started remotely at 16:06 UTC; its same requested model, effort and running process were verified at 16:11 UTC.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original header candidate returned and its remaining cold-font movement was identified before publication. Existing capture inputs are now accessible to its original writer. The fifth Stores hosted group passed at 16:03 UTC.",
+  "lastActualProgress": "All five Stores hosted groups and the aggregate passed. The header completion started on the original remote route with its existing capture inputs accessible. The mistaken second-approval statement was corrected through the existing owner.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The Stores aggregate and critical review are pending. Header completion awaits the existing remote launcher; its latest disk reading is below the admission threshold. Native memory pressure still failed at 15:58 UTC. Effective privacy policy, qualified TEST context and GPU instrumentation remain required.",
-  "current": "All five Stores hosted test groups passed. The header preload candidate still permits movement on a cold font load, so its original writer has the same stable-geometry completion queued with the captured evidence.",
-  "next": "Finish the original Stores aggregate and critical review, then protected merge and exact unpublished installation. Consume the original header completion start and result, then real-dependency proof and its normal release path.",
-  "updated": "2026-10-23T16:06:06.889054+00:00",
+  "remaining": "Stores still lacks a critical verdict; the repeated first-pass record is not a second approval. Header completion is running. Native memory pressure failed at 15:58 UTC; effective privacy policy, qualified TEST context and supported GPU instrumentation remain required.",
+  "current": "Stores passed all five hosted test groups and the aggregate. The original header writer is executing the stable-geometry completion after its preload-only candidate left the cold-font requirement unmet.",
+  "next": "Resolve the original Stores critical-review route, then protected merge and exact unpublished installation. Consume the same header writer’s completed source and its real-dependency proof.",
+  "updated": "2026-10-23T16:12:39.197840+00:00",
   "links": [
     {
       "title": "Tracking-link #4810",
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "All five hosted test groups for [Stores enquiry #4814](https://github.com/EON-CRUX/3.09/pull/4814) passed. The aggregate and original critical review remain required before merge and unpublished installation. The repeated first-pass approval does not count as the second approval.",
+    "All five hosted test groups for [Stores enquiry #4814](https://github.com/EON-CRUX/3.09/pull/4814) passed. The aggregate also passed; the original critical review remains required before merge and unpublished installation. The repeated first-pass approval does not count as the second approval.",
     "The returned header candidate preloads its font but explicitly still allows cold-font movement. It is retained as incomplete source. The same original writer received a bounded completion and the already captured evidence through its supported input folder; no new capture or review round was spent.",
-    "Header execution is queued, not verified. The remote disk reading is below its existing admission threshold; native memory pressure separately failed again at 15:58 UTC. Independent release work continues.",
+    "Header completion actually started at 16:06 UTC, superseding its earlier remote disk wait. Native memory pressure separately failed at 15:58 UTC; no device grant is inferred. Independent release work continues.",
     "Privacy custodian and off-host facts remain with the existing service-owner request. Features stay off. Completion counts remain 6/11 delivery gates, 1/3 milestones, 0/3 final passes and 0/7 native checks."
   ],
   "openDeliveryGates": [
@@ -417,7 +417,7 @@
       },
       {
         "complete": false,
-        "text": "Complete stable header geometry through the original writer (waiting since 16:03Z for the existing remote launcher; current disk is below its admission threshold, next check 16:19Z; est. 20 min after actual start)."
+        "text": "Complete stable header geometry through the original writer (started 16:06Z, est. 20 min; actual remote execution verified 16:11Z; next result check 16:25Z)."
       },
       {
         "complete": false,
@@ -488,8 +488,12 @@
         "text": "Consume the store enquiry’s first independent review (15:14Z–15:26Z, took 12 min including owner readback; exact source approved with no blocking finding)."
       },
       {
+        "complete": true,
+        "text": "Complete store enquiry hosted tests and aggregate (14:49Z–16:04Z, took 75 min including queue; all five groups and the aggregate passed)."
+      },
+      {
         "complete": false,
-        "text": "Complete store enquiry aggregate check, second review, protected merge and unpublished installation (since Ready 14:49Z; all five test groups passed by 16:03Z, aggregate running; next changed result or 16:19Z check, review duration unknown)."
+        "text": "Complete store enquiry critical review, protected merge and unpublished installation (since Ready 14:49Z; repeated first-pass record is not critical approval, exact original-route reconciliation delivered 16:09Z; next check 16:24Z, review duration unknown)."
       },
       {
         "complete": true,
@@ -512,7 +516,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: header source about 20 min after a verified worker start; no start estimate while the actual remote disk gate fails. Stores timing depends on the original aggregate and critical review. Full draft timing remains unknown pending installed proof, native access, actual privacy and TEST context, and the three original final checks."
+    "landing": "Lands: header source about 16:26Z (14 min left at 16:12Z; source complexity could move it). Stores release waits on the original critical review. Full draft timing remains unknown pending source installation and proof, native access, actual privacy and TEST context, and the three original final checks."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
