@@ -409,11 +409,11 @@
         "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
       },
       {
-        "complete": false,
-        "text": "Update the task site with the resource qualification rule and connected proof state (started 08:15Z, est. 4 min)."
+        "complete": true,
+        "text": "Update the task site with the resource qualification rule and connected proof state (08:15Z–08:17Z, took 2 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: resource-state publication about 08:19Z (4 min left; Pages build could move it). Header follow-up remains in its original remote slot wait; next check 08:30Z or returned result. Timing needs supported instrumentation. iPhone work takes 13 min after a qualified grant; 08:40Z alone does not release the resource hold. Full draft completion remains unknown until the remaining evidence and three final ratings pass. Shopify stays unpublished."
+    "landing": "Lands: the resource-state task-site update is verified at 08:17Z. Header follow-up remains in its original remote slot wait; next check 08:30Z or returned result. Timing needs supported instrumentation. iPhone work takes 13 min after a qualified grant; 08:40Z alone does not release the resource hold. Full draft completion remains unknown until the remaining evidence and three final ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
