@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The installed header stylesheet matches approved source 54ec0235 and merge 1574efee. Full preservation passed and the canonical 173-file inventory was updated without changing 172 other source records.",
+  "lastActualProgress": "The original service custodian verified runtime phone-path masking at 19:28 UTC: all three synthetic requests returned 401, three log entries were masked and zero raw-number matches were found. No customer log contents or sends were involved.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "No current Website-specific browser or native allocation is verified. Other lanes have had pressure 1 readings and expiring grants; those grants do not transfer. Runtime masking, retention and purge facts, qualified TEST, timing measurements, the retained Stores coverage ruling and three original final named-fix ratings remain open.",
+  "remaining": "The existing Website device queue position is now confirmed as fifth; a current grant is still missing. Bridge reports the latest fresh pair failed at memory pressure 2 with 9.1 GB swap; exact sample times were not supplied. Retention and purge facts, qualified TEST, timing measurements, the retained Stores coverage ruling and three original final named-fix ratings remain open.",
   "current": "The original header repair is merged and installed in the unpublished Shopify draft. Exact hosted stylesheet bytes and all preservation checks passed; the source inventory now covers 173 files, 47 manifests and 25 installations after the second full review.",
-  "next": "Hand this exact installed source to the same acceptance owner, then complete the retained rendered, iPhone, connected and performance evidence when its prerequisites are satisfied. The original service owner still owes the routed phone-masking runtime result.",
-  "updated": "2026-10-24T19:29:04.431474+00:00",
+  "next": "Complete the retained rendered, iPhone, connected and performance evidence on the newly installed source. The original phone-path masking runtime check passed; qualified TEST, retention and the natural cleanup outcome remain separate.",
+  "updated": "2026-10-24T19:32:35.808452+00:00",
   "links": [
     {
       "title": "Header pin repair #4863",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Header #4863 completed both original code reviews and all hosted tests, then merged at 18:56 UTC. The unchanged approved stylesheet is now installed in the unpublished draft.",
-    "Exact hosted bytes passed verification. All 694 other draft files, 550 live-theme files, 13 theme roles and six raw settings/layout bodies were preserved. The installed inventory is 173 files across 47 source manifests and 25 installations after the second full review.",
-    "The 18:08 observation was missed while this chat was inactive; the completed jobs were reconciled at 19:19 UTC. Original finding and handoff wait ages were retained.",
-    "No current Website device or browser grant is verified. Other lanes have had pressure 1 readings and expiring grants; those do not authorize this task's capture. The same acceptance owner receives the new source without a duplicate worker.",
-    "Delivery remains 6/11, native checks 0/7 and final passes 0/3. Runtime privacy, retained coverage and the original final named-fix checks remain separate. The Shopify draft stays unpublished."
+    "Header #4863 completed both original code reviews and all hosted tests, merged at 18:56 UTC and was installed in the unpublished draft. Exact bytes and full preservation passed; the inventory is 173 files across 47 manifests and 25 installations after the second full review.",
+    "The original service owner completed the phone-path masking runtime check at 19:28 UTC. Three synthetic request forms returned 401; all three log entries were masked and zero raw-number matches were found. No customer log contents or sends were involved.",
+    "The running service contains the approved privacy repair. This closes the phone-path source, release and runtime wait; qualified TEST, retention, off-host terms, final notice and the natural cleanup outcome remain separate.",
+    "Bridge reports the latest fresh device pair failed at memory pressure 2 with 9.1 GB swap; exact sample times were not supplied. Website remains fifth in the existing device queue. The original acceptance owner adopted the new source; all seven native checks remain unexercised until a fresh qualified grant.",
+    "Delivery remains 6/11, native checks 0/7 and final passes 0/3. The original final named-fix checks and retained coverage ruling remain open. The Shopify draft stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Provider and source questions are closed. The completed custodian read is partial: actual CRUX policy, off-host retention, remaining operational holders and mounted deletion/export acceptance remain open. Host log custody is accepted, operational cleanup source is installed and the phone-path masking repair is deployed with exact installed-source parity. Runtime masking and scheduled cleanup outcomes remain unverified. No conflicting promise was found in the compared notice/source. Features stay off.",
+      "blocker": "Provider and source questions are closed. The completed custodian read is partial: actual CRUX policy, off-host retention, remaining operational holders and mounted deletion/export acceptance remain open. Host log custody is accepted, operational cleanup source is installed and the phone-path masking repair is deployed with exact installed-source parity. Runtime phone-path masking passed the original synthetic check; scheduled cleanup and the remaining retention outcomes remain unverified. No conflicting promise was found in the compared notice/source. Features stay off.",
       "next": "Original owners resolve these specific facts and qualified TEST evidence under the same notice card; no repeated provider question or duplicate repair."
     },
     {
@@ -590,7 +590,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the privacy repairs under their original custody (cleanup installed; phone repair merged and deployed, four installed files verified17:41Z; runtime privacy acceptance remains, duration unknown)."
+        "text": "Complete the privacy repairs under their original custody (cleanup installed; phone repair merged and deployed, four installed files verified17:41Z; phone-path runtime masking passed19:28Z; remaining retention and qualified TEST acceptance are open, duration unknown)."
       },
       {
         "complete": true,
@@ -625,8 +625,12 @@
         "text": "Consume original phone deployment and installed-source proof (17:41Z–17:44Z, took 3 min; existing17:22Z release reconciled and all four installed files match the candidate and merge)."
       },
       {
+        "complete": true,
+        "text": "Complete original phone-path runtime masking verification (probe19:28Z, receipt verified19:31Z, took3min to consumption; three synthetic request forms masked, zero raw matches)."
+      },
+      {
         "complete": false,
-        "text": "Complete original phone runtime privacy acceptance (original service owner acknowledged the deployed repair and routed a server-only synthetic masking check; result, retention and qualified TEST remain; duration unknown)."
+        "text": "Complete remaining privacy acceptance (waiting for actual retention, off-host terms, qualified TEST/native and the natural25Oct03:45Z cleanup result; duration unknown)."
       },
       {
         "complete": true,
@@ -661,8 +665,8 @@
         "text": "Install and preserve the merged header CSS in the unpublished draft (19:19Z–19:28Z, took 10 min; one stylesheet installed, exact bytes and all preservation checks passed, inventory 173/47/25 adopted)."
       },
       {
-        "complete": false,
-        "text": "Publish the verified installation and hand the exact source to the original acceptance owner (started 19:28Z, est. 4 min; same task site and original source-only handoff)."
+        "complete": true,
+        "text": "Publish the verified installation and return exact source for original-owner adoption (19:29Z–19:31Z; matching build and five hosted files verified; intended-owner source adoption is recorded separately)."
       },
       {
         "complete": true,
@@ -711,9 +715,13 @@
       {
         "complete": true,
         "text": "Publish the first approval and current hosted-test progress (17:55Z–17:57Z, took 2 min; matching build and five hosted files verified)."
+      },
+      {
+        "complete": false,
+        "text": "Publish the returned runtime privacy result (started19:32Z, est.3min; same site, unchanged delivery counts)."
       }
     ],
-    "landing": "Lands: about 19:33Z for the verified task-site update and source handoff (4 min left; public build timing could move it). Final acceptance awaits the existing Website grant and named evidence prerequisites."
+    "landing": "Lands: about19:35Z for the runtime-result update (3min left; public build timing could move it). Final acceptance still depends on the original Website grant and named evidence."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
