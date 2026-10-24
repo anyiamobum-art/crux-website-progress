@@ -601,11 +601,19 @@
         "text": "Route the measured repair once and bind changed privacy evidence (13:21Z–13:24Z, took 3 min; one original-writer request and one distinct-head custody reconciliation saved; delivery and execution remain separate)."
       },
       {
+        "complete": true,
+        "text": "Update the original public report and verify its hosted bytes (13:24Z–13:26Z, took 2 min; matching build completed and five hosted files match; rendered inspection remains separate)."
+      },
+      {
         "complete": false,
-        "text": "Update the original public report and verify its hosted bytes (started 13:24Z, est. 5 min)."
+        "text": "Waiting on the original pin-repair writer since 09:16Z (one concrete continuation delivered locally at 13:21Z; next existing-owner check 13:37Z; execution not yet verified)."
+      },
+      {
+        "complete": false,
+        "text": "Waiting on original cleanup source reconciliation since 13:23Z (two distinct heads, no consumer push; next existing-owner check 13:40Z)."
       }
     ],
-    "landing": "Lands: about 13:29Z (5 min left for this report update; hosting may move it). Whole draft finish remains unknown until the original repair, qualified acceptance and three final checks complete."
+    "landing": "Lands: about 13:40Z for the next owner disposition (14 min from this update; owner acknowledgement may move it). Whole draft finish remains unknown until the original repair, qualified acceptance and three final checks complete."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
