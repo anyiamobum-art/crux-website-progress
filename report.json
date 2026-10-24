@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original service custodian verified runtime phone-path masking at 19:28 UTC: all three synthetic requests returned 401, three log entries were masked and zero raw-number matches were found. No customer log contents or sends were involved.",
+  "lastActualProgress": "The chair’s 19:33 ruling explicitly included Stores enquiry #4814 in the original final named-fix packet; it was consumed at 19:58. This resolves scope only. The original 19:28 phone-path masking runtime pass and 19:28 installed-header preservation remain verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,7 +124,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in reviewed and merged #4818, installed and preservation-verified at 06:05 UTC on 24 October. Pin #4820 is also reviewed, merged, installed and preservation-verified at 06:08 UTC. Changed-source arrival C1/C3/C4 passed; C2 failed on a 2-pixel pin-host shift. The original pin writer traced the recorded movement to header CSS and made no edit. The original header writer returned a scoped repair with source-based regression evidence. Full remote validation is next; it has not been installed or proved by a new rendered check. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; its rendered acceptance is queued.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in reviewed and merged #4818, installed and preservation-verified at 06:05 UTC on 24 October. Pin #4820 is also reviewed, merged, installed and preservation-verified at 06:08 UTC. Changed-source arrival C1/C3/C4 passed; C2 failed on a 2-pixel pin-host shift. The original pin writer traced the recorded movement to header CSS and made no edit. The original header writer’s #4863 repair passed 153 remote tests and 29 mutation checks, both original code reviews and all hosted gates, then merged at 18:56Z. Its exact stylesheet was installed and fully preserved at 19:28Z; changed-source rendered acceptance remains open. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; the chair’s 19:33 ruling includes its rendered acceptance in the same original final named-fix checks.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The existing Website device queue position is now confirmed as fifth; a current grant is still missing. Bridge reports the latest fresh pair failed at memory pressure 2 with 9.1 GB swap; exact sample times were not supplied. Retention and purge facts, qualified TEST, timing measurements, the retained Stores coverage ruling and three original final named-fix ratings remain open.",
-  "current": "The original header repair is merged and installed in the unpublished Shopify draft. Exact hosted stylesheet bytes and all preservation checks passed; the source inventory now covers 173 files, 47 manifests and 25 installations after the second full review.",
-  "next": "Complete the retained rendered, iPhone, connected and performance evidence on the newly installed source. The original phone-path masking runtime check passed; qualified TEST, retention and the natural cleanup outcome remain separate.",
-  "updated": "2026-10-24T19:32:35.808452+00:00",
+  "remaining": "Website remains fifth in the existing device queue. Hands’ 19:42/19:43 readings both had memory pressure 2, with 8.65 GB swap reported, so no grant was issued. Retention and purge facts, qualified TEST, timing measurements and the three original final ratings remain open. The Stores coverage question is closed.",
+  "current": "Stores enquiry coverage is resolved: the chair included it in the same three original final named-fix checks. The header repair is already merged, installed and preservation-verified in the unpublished Shopify draft; the source inventory remains 173 files, 47 manifests and 25 installations after the second full review.",
+  "next": "The original acceptance owner is ready on the installed source. Hands must return a qualified Website grant for the retained rendered and iPhone checks; connected, timing and privacy acceptance then feed the same original final named-fix checks.",
+  "updated": "2026-10-24T20:02:03.986566+00:00",
   "links": [
     {
       "title": "Header pin repair #4863",
@@ -205,11 +205,10 @@
     }
   ],
   "recentChanges": [
-    "Header #4863 completed both original code reviews and all hosted tests, merged at 18:56 UTC and was installed in the unpublished draft. Exact bytes and full preservation passed; the inventory is 173 files across 47 manifests and 25 installations after the second full review.",
-    "The original service owner completed the phone-path masking runtime check at 19:28 UTC. Three synthetic request forms returned 401; all three log entries were masked and zero raw-number matches were found. No customer log contents or sends were involved.",
-    "The running service contains the approved privacy repair. This closes the phone-path source, release and runtime wait; qualified TEST, retention, off-host terms, final notice and the natural cleanup outcome remain separate.",
-    "Bridge reports the latest fresh device pair failed at memory pressure 2 with 9.1 GB swap; exact sample times were not supplied. Website remains fifth in the existing device queue. The original acceptance owner adopted the new source; all seven native checks remain unexercised until a fresh qualified grant.",
-    "Delivery remains 6/11, native checks 0/7 and final passes 0/3. The original final named-fix checks and retained coverage ruling remain open. The Shopify draft stays unpublished."
+    "The chair resolved the retained Stores enquiry scope question. #4814 is included as one named follow-up in the same Fable 5.1, Astra 6 and Opus 5.5 final named-fix checks. The original review rounds stand; rendered acceptance is still required.",
+    "Hands’ newer 19:42/19:43 resource readings both failed at memory pressure 2; 8.65 GB swap was reported. Website remains fifth after People, Money, CS and Studio. No Website test grant has been issued.",
+    "The original acceptance owner has adopted the installed 173-file source. Header #4863 is merged, installed and fully preserved; the phone-path masking runtime check passed. Neither is being repeated.",
+    "Delivery stays 6/11, native checks 0/7 and final passes 0/3. Resolving the scope question adds no acceptance or rating credit. The Shopify draft stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -470,7 +469,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; latest19:13Z Hands evidence includes pressure1pairs forotherlanes, but no currentWebsitegrant; original Website boundary and scoped-policy requests retain their first waits; est. 13 min after actual grant)."
+        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; same helper adopted source 173/47/25 at 19:31Z; Website remains fifth, Hands 19:42/19:43 pair failed at pressure 2; next existing tick timezone unverified; est. 13 min after actual Website grant)."
       },
       {
         "complete": true,
@@ -558,7 +557,7 @@
       },
       {
         "complete": false,
-        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (requires rendered, native, connected and performance evidence plus the existing new-feature coverage disposition; duration unknown)."
+        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (Stores enquiry coverage resolved 19:33Z; requires rendered, native, connected and performance evidence; same consumed rounds, duration unknown)."
       },
       {
         "complete": true,
@@ -717,11 +716,19 @@
         "text": "Publish the first approval and current hosted-test progress (17:55Z–17:57Z, took 2 min; matching build and five hosted files verified)."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the returned runtime privacy result (19:32Z–19:34Z; matching build and five hosted files verified)."
+      },
+      {
+        "complete": true,
+        "text": "Resolve Stores enquiry coverage in the original final acceptance packet (chair 19:33Z, consumed 19:58Z–20:02Z; original 23 October 12:35Z scope wait closed, rendered proof remains)."
+      },
+      {
         "complete": false,
-        "text": "Publish the returned runtime privacy result (started19:32Z, est.3min; same site, unchanged delivery counts)."
+        "text": "Publish and verify the Stores coverage resolution (started 20:02Z, est. 4 min; same task site, delivery and rating counts unchanged)."
       }
     ],
-    "landing": "Lands: about19:35Z for the runtime-result update (3min left; public build timing could move it). Final acceptance still depends on the original Website grant and named evidence."
+    "landing": "Lands: task-site update about 20:06Z (4 min left; Pages build/readback may move it); final draft handover time remains unknown until the original qualified Website grant and remaining acceptance results."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
