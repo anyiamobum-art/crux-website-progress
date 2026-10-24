@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header keeper ended at17:12 UTC with exit zero:153 tests passed,166 explicit skips and29/29 mutation checks passed. At17:22 its PR remained Draft, with the original publisher continuing release. Phone CI has three shards passed, two and its pin job running.",
+  "workerState": "Phone source merged at17:18 UTC; all five hosted shards, mutation checks and aggregate passed. Header keeper completed with153 tests passed,166 explicit skips and29/29 mutation checks passed; original Hands-to-chair release delivery is recorded, Ready unverified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header terminal proof independently consumed17:21 UTC; original release continuation saved17:23 after exact-head Draft reconciliation. Local install payload is prepared but unqualified, with zero Shopify calls.",
+  "lastActualProgress": "Phone merge independently verified17:27 UTC; original deployment follow-through saved17:33 after reconciling available receipts. Header keeper adoption and chair delivery are verified from the original Hands checkpoint; the source states17:32 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Header source proof is complete; its code review, protected merge and changed-source rendered acceptance remain. Latest shared device readings still show memory pressure 2, with no qualified Website browser or iPhone grant. Phone release, retention, qualified TEST evidence, timing measurements and original final ratings remain open.",
-  "current": "The original header keeper passed all six wrapper files and all 29 mutation checks. The same publisher is continuing Draft #4863 into its authorized release. Phone privacy #4862 has three hosted test shards passed, two and its pin check running.",
-  "next": "Complete the header’s original Ready, admission, required reviews and protected merge, then qualify and install its exact source in the unpublished draft. Consume the phone repair’s remaining CI/review and original runtime acceptance.",
-  "updated": "2026-10-24T17:24:42.541425+00:00",
+  "remaining": "Header code release and changed-source rendered acceptance remain. Shared device readings still show memory pressure 2, with no qualified Website browser or iPhone grant. Phone deployment, runtime retention, qualified TEST evidence, timing measurements and the three original final ratings remain open.",
+  "current": "Phone-path privacy repair #4862 merged after its original approval and all hosted checks passed. The header repair passed its full remote keeper; Hands has delivered the green head to the existing chair release queue.",
+  "next": "Consume the original phone deployment and served-source proof. Complete the header’s original Ready, required reviews and protected merge, then qualify and install its exact source in the unpublished draft.",
+  "updated": "2026-10-24T17:35:28.160085+00:00",
   "links": [
     {
       "title": "Header pin repair #4863",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original header keeper completed on the exact repair head:153 tests passed,166 explicit skips and all29 mutation checks passed. Rendered C2 acceptance remains separate.",
-    "Draft #4863 has its body receipt, original holder and exact-head acceptance. Its original publisher is continuing the authorized release; no extra permission or review round is requested.",
-    "Exact header source is prepared locally for the existing unpublished-install route. No Shopify call or installation has occurred; reviews, protected merge and fresh preimages still govern that action.",
-    "Phone privacy #4862 retains its first full code approval. Three hosted shards passed; two and its mutation check are running. Runtime privacy and the original remaining review/release are separate.",
-    "Delivery remains6/11, native checks0/7 and final rating passes0/3. The original Stores coverage question remains with its existing chair route; device allocation remains unqualified and Shopify stays unpublished."
+    "Phone privacy #4862 merged at17:18 UTC after all five hosted shards, mutation checks and aggregate passed. The original first code approval is retained; deployment and live runtime evidence are separate.",
+    "A merge follow-through is saved for the original A2/CS release door. Existing deployment activity must be reconciled before continuing; deployment and runtime results are not yet verified.",
+    "Header #4863 passed its full original remote keeper:153 tests,166 explicit skips and29/29 mutation checks. Hands adopted the result and recorded delivery to the chair’s existing release queue at17:32 UTC; Ready and code review remain unverified.",
+    "Exact header source remains prepared locally for the unpublished-install route. Its reviews, protected merge and fresh source checks must qualify installation; no Shopify call has occurred.",
+    "Delivery remains6/11, native checks0/7 and final passes0/3. The original Stores coverage ruling and qualified Website device allocation remain open. Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Provider and source questions are closed. The completed custodian read is partial: actual CRUX policy, off-host retention, remaining operational holders and mounted deletion/export acceptance remain open. Host log custody is accepted and operational cleanup source is installed; its scheduled outcome remains unverified. No conflicting promise was found in the compared notice/source. Features stay off.",
+      "blocker": "Provider and source questions are closed. The completed custodian read is partial: actual CRUX policy, off-host retention, remaining operational holders and mounted deletion/export acceptance remain open. Host log custody is accepted, operational cleanup source is installed and the phone-path masking repair is merged. Phone deployment and scheduled cleanup outcomes remain unverified. No conflicting promise was found in the compared notice/source. Features stay off.",
       "next": "Original owners resolve these specific facts and qualified TEST evidence under the same notice card; no repeated provider question or duplicate repair."
     },
     {
@@ -590,7 +590,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the privacy repairs under their original custody (cleanup installed source verified at 14:52Z; corrected phone keeper passed at 16:16Z; its release and runtime privacy acceptance remain, duration unknown)."
+        "text": "Complete the privacy repairs under their original custody (cleanup installed source verified14:52Z; phone source merged17:18Z; deployment and runtime privacy acceptance remain, duration unknown)."
       },
       {
         "complete": true,
@@ -617,8 +617,12 @@
         "text": "Consume original cleanup installation and corrected phone transfer receipts (14:53Z–14:56Z, took 3 min; exact installed source and original phone adoption verified, runtime acceptance remains open)."
       },
       {
+        "complete": true,
+        "text": "Complete original phone code release (16:38Z–17:19Z, took 41 min; original approval and all hosted gates passed, exact source merged; verified17:27Z)."
+      },
+      {
         "complete": false,
-        "text": "Complete original phone release and runtime privacy acceptance (first code approval at 16:46Z; three hosted test shards passed, two plus mutation checks running at17:12Z; remaining original review/release pending; duration unknown)."
+        "text": "Complete original phone deployment and runtime privacy acceptance (waiting on the existing release door since17:19Z; original-owner follow-through saved17:33Z, next check17:48Z; duration unknown)."
       },
       {
         "complete": true,
@@ -642,7 +646,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original header release and unpublished installation (waiting on original publisher since17:13Z; still Draft at17:22Z, same release continuation saved17:23Z; next check17:38Z, duration unknown)."
+        "text": "Complete the original header release and unpublished installation (waiting since17:13Z; Hands adopted green proof and recorded chair delivery17:32Z; Ready, reviews and merge remain, next check17:38Z; duration unknown)."
       },
       {
         "complete": true,
@@ -669,11 +673,15 @@
         "text": "Prepare the exact header source for its existing unpublished-install route (17:02Z–17:08Z, took 6 min; four exact source blobs and one stylesheet staged locally, no Shopify call or qualification)."
       },
       {
+        "complete": true,
+        "text": "Publish the completed header proof and phone CI progress (17:24Z–17:26Z, took 2 min; matching build and five hosted files verified)."
+      },
+      {
         "complete": false,
-        "text": "Publish the completed header proof and current phone CI progress (started17:24Z, est. 4 min; same public page, counts and final ratings unchanged)."
+        "text": "Publish the phone merge and current header release facts (started17:35Z, est. 4 min; same page, counts and final ratings unchanged)."
       }
     ],
-    "landing": "Lands: about17:28Z (4 min for changed-facts publication; original reviews/merge and qualified acceptance determine draft delivery)."
+    "landing": "Lands: about17:39Z (4 min for verified publication; original release, deployment and qualified acceptance determine draft delivery)."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
