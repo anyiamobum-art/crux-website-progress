@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The arrival capture is spent. The pin writer completed a diagnosis with no code change; Hands has consumed the return to the original header writer; header placement and start are still unverified. The phone keeper ended successfully: 72 clean cases and all 46 mutation checks passed. The exact head is published as Draft #4862; required checks are running. No Shopify installation is in flight.",
+  "workerState": "The original header continuation has a verified launch at 16:20:04 UTC; no fix head has returned yet. The pin diagnosis is complete and its capture is spent. Phone proof passed 72 clean cases and all 46 mutation checks; Draft #4862 awaits its required receipt and chair-owned Ready step. No Shopify installation is in flight.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original pin diagnosis returned at 16:10 UTC. Its header-owner return was saved at 16:16, relayed at 16:17 and consumed by Hands. The exact corrected phone head passed its broader proof at 16:16 UTC and Draft #4862 was verified at 16:19. The missed 15:30 observation and original waiting times remain recorded.",
+  "lastActualProgress": "Header repair launch verified from the original record at 16:26 UTC. The corrected phone head passed remote proof at 16:16 and its Draft was verified at 16:19. Hands has placed the same header finding with the original writer; the earlier missed observation and original waits remain recorded.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The pin still needs its header-owned fix and changed-source proof. Both latest resource readings show memory pressure 2, so no Website browser or iPhone allocation exists and its earlier queue position remains unresolved. Phone release, retention, qualified TEST evidence and timing measurements remain open.",
-  "current": "The original pin writer executed and traced the 2-pixel shift to header CSS; the same finding has been returned to the original header writer. The corrected phone repair has passed its full remote keeper proof and is published as Draft #4862 with its required checks running.",
-  "next": "Consume the original header writer’s acknowledgement, start and fix, and the original phone repair’s required checks and review entry. Complete each qualified release and acceptance step, including the existing Website device allocation and three original final checks.",
-  "updated": "2026-10-24T16:19:41.181690+00:00",
+  "current": "The original header writer started the measured pin repair at 16:20 UTC. The phone repair’s exact remote proof passed and Draft #4862 is published; its original builder is supplying the required receipt before the chair’s Ready step.",
+  "next": "Consume the header writer’s fix and proof, then continue its original release and unpublished-draft installation. Complete the phone receipt and Ready transition through their existing owners, then hosted checks, review and runtime acceptance.",
+  "updated": "2026-10-24T16:28:24.910633+00:00",
   "links": [
     {
       "title": "Phone privacy repair #4862",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The original pin writer ran once and reproduced the recorded shift from the stable link width, the 7-pixel gap and the changing “Stores” text width. The cause is header CSS; this is a source diagnosis, not a new rendered check.",
-    "The pin writer made no edit. The same measured finding is returned to the original header writer; its acknowledgement and start remain pending. The acceptance threshold is unchanged.",
-    "The corrected phone repair passed 72 clean test cases and all 46 mutation checks on its exact head. The exact head is published as Draft #4862 under its original holder, with required checks running. Review, merge, deployment and runtime privacy acceptance remain separate.",
-    "The latest resource pair at 15:46 and 15:47 UTC both reports memory pressure 2. There is still no qualified Website browser or iPhone turn; the original queue-position follow-up remains open.",
+    "The original header writer actually started at 16:20:04 UTC. The same measured pin finding is being repaired within its original CSS ownership; the fix head and result are still pending.",
+    "The source diagnosis remains bound to the spent capture. The 2-pixel failure and the other three passing criteria are unchanged; no new rendered check or rating has been claimed.",
+    "The corrected phone repair passed 72 clean cases and all 46 mutation checks and is published as Draft #4862. Its hosted suite was skipped because it is a Draft. The original builder is supplying the missing self-review receipt, and the chair owns the Ready order.",
+    "Both latest device readings show memory pressure 2. No Website browser or iPhone allocation is qualified; the original queue-position question remains with Hands.",
     "Delivery stays 6/11, native checks 0/7 and final rating passes 0/3. Shopify remains unpublished and features remain off."
   ],
   "openDeliveryGates": [
@@ -606,7 +606,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on the original header writer for the same pin finding since 09:16Z (pin diagnosis returned at 16:10Z; header return delivered at 16:17Z and consumed by Hands, placement and start pending; next existing observation 16:31Z)."
+        "text": "Complete the original header repair for the same pin finding (started 16:20Z; actual launch verified at 16:26Z; original finding wait began 09:16Z; fix head and result pending, next existing observation 16:31Z)."
       },
       {
         "complete": true,
@@ -618,7 +618,7 @@
       },
       {
         "complete": false,
-        "text": "Waiting on original phone release and runtime privacy acceptance (exact corrected head passed 72 clean cases and all 46 mutation checks at 16:16Z; Draft #4862 checks are running; review, merge, cleanup outcome and qualified TEST evidence remain, next check follows original result)."
+        "text": "Complete original phone release and runtime privacy acceptance (exact keeper proof passed at 16:16Z; Draft #4862 needs the original receipt correction and chair’s Ready order, then hosted tests and review; runtime acceptance remains)."
       },
       {
         "complete": true,
@@ -645,11 +645,15 @@
         "text": "Consume original pin execution and phone keeper proof, then return the header cause (16:07Z–16:19Z, took 12 min; new terminal diagnosis required original-owner routing; corrected phone proof passed)."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the changed repair and phone-proof facts (16:19Z–16:22Z, took 3 min; same task site, exact build and five hosted files verified)."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify the changed repair and phone-proof facts (started 16:19Z, est. 5 min; same task site and unchanged delivery counts)."
+        "text": "Publish actual header start and the phone release prerequisites (started 16:27Z, est. 4 min; existing task site, no change in completion counts)."
       }
     ],
-    "landing": "Lands: about 16:24Z (5 min left for the public update; original header repair, phone release and qualified acceptance timing remain unknown)."
+    "landing": "Lands: about 16:31Z (4 min left for the public update; original header fix, phone release and qualified acceptance timing remain unknown)."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
