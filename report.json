@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original phone deployment was already successful at17:22 UTC; its source was verified17:41 UTC and reconciled without a second deployment. Header’s original first review, five hosted groups and mutation check remain queued as last verified17:38 UTC.",
+  "workerState": "Original phone deployment was already successful at17:22 UTC; its source was verified17:41 UTC and reconciled without a second deployment. Header’s original first review approved the exact source17:41 UTC. Hosted mutation and guard checks passed17:52 UTC; two test groups are running and three queued, verified17:53 UTC.",
   "journey": [
     {
       "stage": "Build",
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Header review, hosted tests, protected merge and changed-source rendered acceptance remain. The latest shared device report remains unqualified at memory pressure2/2. Runtime masking, retention and purge evidence, qualified TEST, timing measurements and the three original final ratings remain open.",
-  "current": "The EON phone-path privacy repair is deployed, with all four installed files matching the approved candidate and merge. Header #4863 is Ready; its original review and hosted checks are queued.",
-  "next": "Consume the header’s existing original review and hosted jobs, then complete the permitted merge and unpublished installation. The original service owner now completes phone runtime masking and the remaining privacy acceptance.",
-  "updated": "2026-10-24T17:45:05.971010+00:00",
+  "current": "The EON phone-path privacy repair is deployed, with all four installed files matching the approved candidate and merge. Header #4863 has its original first code approval and passing hosted safeguards; two hosted test groups are running and three queued.",
+  "next": "Consume the header’s existing original review and hosted jobs, then complete the permitted merge and unpublished installation. The original service owner acknowledged the deployed phone repair and routed a synthetic server-only masking check through Hands; its result and remaining privacy acceptance are pending.",
+  "updated": "2026-10-24T17:55:06.488051+00:00",
   "links": [
     {
       "title": "Header pin repair #4863",
@@ -207,7 +207,7 @@
   "recentChanges": [
     "The EON phone-path privacy repair is deployed. The original17:22 UTC release succeeded, the public service reported the merged revision, and local health returned200.",
     "All four installed files match both the candidate and merge. The original owner reconciled the completed deployment; no second deployment was launched. Runtime masking, retention, purge and qualified TEST evidence remain separate.",
-    "Header #4863 is Ready on its exact repair source. Its original first review, five hosted groups and mutation check are queued;153 remote tests and29/29 mutation checks already passed.",
+    "Header #4863 received its original first code approval without findings at17:41 UTC. Hosted mutation and guard checks passed at17:52 UTC; two hosted test groups are running and three queued. The153 remote tests and29/29 mutation checks remain valid. Merge, unpublished installation and rendered acceptance are still pending.",
     "The newest shared device report remains unqualified: memory pressure2/2, swap12.4GB and disk16GiB. Exact sample times were not supplied; no Website grant or queue-position ruling is established.",
     "Delivery remains6/11, native checks0/7 and final passes0/3. The retained Stores coverage question stays with its original next-message route. The Shopify draft remains unpublished."
   ],
@@ -470,7 +470,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; latest shared readings at 15:46Z/15:47Z still fail resource qualification; original Website boundary and scoped-policy requests retain their first waits; est. 13 min after actual grant)."
+        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; latest Hands17:32Z report still fails resource qualification, pressure2/2; original Website boundary and scoped-policy requests retain their first waits; est. 13 min after actual grant)."
       },
       {
         "complete": true,
@@ -546,7 +546,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Stores, header and pin rendered acceptance on the installed source (waiting since 23 October 13:39Z; browser access recovered, source frozen after both installations; latest shared Hands readings at 15:46Z/15:47Z remain at 2 and qualified Website allocation is missing; est. 10 min after grant)."
+        "text": "Complete Stores, header and pin rendered acceptance on the installed source (waiting since 23 October 13:39Z; browser access recovered, source frozen after both installations; latest Hands17:32Z report remains unqualified at pressure2/2 and Website allocation is missing; est. 10 min after grant)."
       },
       {
         "complete": true,
@@ -626,7 +626,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original phone runtime privacy acceptance (deployed repair returned to the original service owner; runtime masking, retention and qualified TEST remain; next check17:48Z, duration unknown)."
+        "text": "Complete original phone runtime privacy acceptance (original service owner acknowledged the deployed repair and routed a server-only synthetic masking check; result, retention and qualified TEST remain; duration unknown)."
       },
       {
         "complete": true,
@@ -654,7 +654,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original header reviews, hosted tests and unpublished installation (five hosted groups, mutation check and original first review queued17:38Z; next check17:53Z, duration unknown)."
+        "text": "Complete the original header reviews, hosted tests and unpublished installation (first review approved17:41Z and hosted mutation/guard checks passed17:52Z; two test groups running and three queued; next check18:08Z, duration unknown)."
       },
       {
         "complete": true,
@@ -693,11 +693,19 @@
         "text": "Publish the verified header Ready transition (17:40Z–17:41Z, took 1 min; matching build and five hosted files verified)."
       },
       {
+        "complete": true,
+        "text": "Publish the verified phone deployment and remaining acceptance facts (17:45Z–17:46Z, took 1 min; matching build and five hosted files verified)."
+      },
+      {
+        "complete": true,
+        "text": "Consume the header’s original first approval and hosted safeguards (17:53Z–17:54Z, took 1 min; exact source approved without findings, hosted mutation and guard checks passed)."
+      },
+      {
         "complete": false,
-        "text": "Publish the verified phone deployment and remaining acceptance facts (started17:45Z, est. 4 min; same page and completion counts)."
+        "text": "Publish the first approval and current hosted-test progress (started17:55Z, est. 4 min; same report and completion counts)."
       }
     ],
-    "landing": "Lands: about17:49Z (4 min for verified publication; original header review/tests, runtime acceptance and qualified Website access determine draft delivery)."
+    "landing": "Lands: about17:59Z (4 min for this facts update; original hosted tests/review and qualified acceptance determine draft delivery)."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
