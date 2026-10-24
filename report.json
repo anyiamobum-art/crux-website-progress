@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header attempt 3 is genuinely testing on the unchanged approved head. Pin’s failed tests remain unresolved; no duplicate diagnosis, pin rerun or approved-source push. Both original first approvals are preserved; neither follow-up is installed.",
+  "workerState": "All header and pin source, remote proof, independent review, hosted tests, merge and draft-install steps are complete. No installation or capture is running. The same native helper completed offline source adoption; capture awaits qualified shared resources.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header group 0 passed at 22:14 UTC and the remaining four test steps are running, verified at 22:27. The pin’s original destination was inspected at 22:24: no acknowledgment or placement, so the missed commitment is recorded and escalated through existing custody.",
+  "lastActualProgress": "Header exact hosted readback completed at 06:04 UTC; pin readback at 06:07; pin preservation at 06:08 on 24 October. Each check preserved 694 other draft assets, 550 live-theme assets, all 13 theme roles and six settings/layout bodies. Shopify remains unpublished.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,7 +124,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in source and in Ready PR #4818 after real-dependency proof. Actual rendered stability remains unverified. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; its rendered acceptance is queued.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in reviewed and merged #4818, installed and preservation-verified at 06:05 UTC on 24 October. Pin #4820 is also reviewed, merged, installed and preservation-verified at 06:08 UTC. Actual changed-source rendered stability remains unverified. Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; its rendered acceptance is queued.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Hands placed Website after Studio. Browser grants are held after the preceding turn returned “Local browser use is disabled in Work settings”; the chair already has that action. Non-browser native checks remain eligible; the original helper adopted the current source, and its existing request now awaits a separate qualified Website grant. Privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "The header recovery has one passed test group and four groups actively testing, with none queued. Pin’s two failed tests remain with their original source owners, but the diagnosis handoff missed its 30-minute acknowledgment commitment. Stores enquiry remains installed in the unpublished draft.",
-  "next": "Consume the original header results and protected merge if qualified. The original pin source owners must acknowledge and diagnose the assistant-mount timeout and trace worker wait. The released TEST selector still needs adoption into qualified connected acceptance.",
-  "updated": "2026-10-23T22:27:51.705212+00:00",
+  "remaining": "Browser access has recovered and the owner toggle question is closed. Hands’ latest two readings still show memory pressure 2; two qualified readings and an explicit Website allocation are required. Website’s retained requests were omitted from the latest named queue, so one precise boundary continuation was delivered. Actual privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
+  "current": "The header font-arrival repair and stable pin animation are reviewed, merged and installed in the unpublished draft. Both exact readbacks and complete preservation checks passed. The current acceptance packet contains 173 tracked assets, 46 source manifests and 24 post-review installations.",
+  "next": "Use the existing qualified browser and native turns to verify the installed Stores enquiry, header arrival and stable pin geometry. The original native helper has verified and adopted the updated source offline; connected/privacy and final-reader prerequisites continue through their existing owners.",
+  "updated": "2026-10-24T06:15:29.253154+00:00",
   "links": [
     {
       "title": "Stable Stores pin #4820",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Header’s required fresh-main workflow recovery is progressing: one group passed and four are testing, with none queued. The approved source and original review remain unchanged.",
-    "Pin’s two actual failures remain unresolved. Its original diagnosis handoff missed the 30-minute acknowledgment commitment; the exact delivery gap is escalated, with no provider outage assumed and no replacement writer or rerun.",
-    "The original release owner reports the TEST selector merged and deployed at 21:59 UTC. Qualified TEST connection, staff context and acceptance remain separate.",
-    "Native source adoption is complete, but no qualified Website allocation was found at 22:24. Browser Work-settings refusal remains a separate access dependency.",
-    "Stores enquiry remains installed and preservation-verified. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
+    "Header #4818 and pin #4820 passed their original hosted recovery paths and protected merges. The approved source and original reviews are unchanged.",
+    "Both are now installed in the unpublished draft, with exact hosted bytes and full preservation. The pin’s baseline included the newly installed header.",
+    "The final source packet is frozen at 173 tracked assets, 46 manifests and 24 post-review installations. It has no new rendered, native or rating credit.",
+    "Browser access recovered through the existing supported routes. The old owner toggle question is retired; current memory pressure and Website’s qualified allocation are the remaining resource dependencies.",
+    "The original native helper completed source adoption offline. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
   ],
   "openDeliveryGates": [
     {
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. Narrow companion/product/sort issues, remaining releases, connected journeys, native/performance proof and final ratings remain open.",
-      "next": "Original owners finish the named findings and releases, then complete the remaining source-bound journey, native, timing and final-reader evidence before unpublished draft handover."
+      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. Installed Stores, header and pin rendering, connected journeys, native/performance proof and final ratings remain open.",
+      "next": "Complete the installed-source rendering, connected journey, native, timing and original final-reader evidence before unpublished draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -433,8 +433,12 @@
         "text": "Complete the header’s original first independent review (21:01Z–21:07Z, took 6 min; exact source approved without findings; source review only)."
       },
       {
-        "complete": false,
-        "text": "Complete remaining header hosted checks, protected merge and exact unpublished installation (started 20:33Z; documented job-limit and fresh-main recovery began 21:57Z on unchanged approved source; one group passed and four are testing at 22:27Z, none queued; next progress check 22:42Z, duration unknown)."
+        "complete": true,
+        "text": "Complete header hosted recovery and protected merge (23 October 21:57Z–22:41Z, took 44 min; all five groups and test gate passed on unchanged approved source; merge verified)."
+      },
+      {
+        "complete": true,
+        "text": "Install and preserve the merged header in the unpublished draft (24 October 06:02Z–06:05Z, took 3 min; exact stylesheet readback, 694 other draft assets, 550 live-theme assets, all 13 roles and six settings/layout bodies preserved)."
       },
       {
         "complete": true,
@@ -453,8 +457,12 @@
         "text": "Complete the pin repair’s original first independent review (21:10Z–21:30Z, took 20 min including its queue; exact source approved without findings; rendered geometry still required)."
       },
       {
-        "complete": false,
-        "text": "Resolve the two pin hosted failures through their original source owners, then complete merge and unpublished installation (assistant mount exceeded 60 seconds; trace worker wait failed; original handoff 21:54Z still lacks acknowledgment/placement at 22:24Z despite one escalation; exact missed commitment recorded, next original-destination check 22:40Z; no rerun or approved-source push)."
+        "complete": true,
+        "text": "Complete the original pin test recovery and protected merge (23 October 23:19Z–23:38Z, took 19 min; original owner authorized one full workflow recovery; all five groups and aggregate passed on unchanged approved source; failures did not recur)."
+      },
+      {
+        "complete": true,
+        "text": "Install and preserve the exact pin script in the unpublished draft (24 October 06:05Z–06:09Z, took 4 min; fresh header-installed baseline, exact script readback and full preservation verified)."
       },
       {
         "complete": false,
@@ -462,7 +470,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after a qualified device grant (non-browser native requests remain eligible; the original source packet is adopted, but a separate qualified Website native grant is still required; the existing request received a 30-minute disposition at 21:21Z, no allocation found at 22:24Z, next existing-destination check 22:40Z; est. 13 min after its actual grant)."
+        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; current Hands readings fail resource qualification and its named queue omits Website; existing boundary follow-up delivered 06:14Z, next check 06:29Z; est. 13 min after actual grant)."
       },
       {
         "complete": true,
@@ -538,7 +546,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Stores rendered enquiry acceptance on the installed source (Hands browser grants held after an actual Work-settings access refusal; already routed to the chair; no message or stock promise; est. 10 min after access)."
+        "text": "Complete Stores, header and pin rendered acceptance on the installed source (waiting since 23 October 13:39Z; browser access recovered, source frozen after both installations; two Hands pressure readings remain at 2 and qualified Website allocation is missing; next existing-destination check 06:29Z, est. 10 min after grant)."
       },
       {
         "complete": true,
@@ -550,7 +558,7 @@
       },
       {
         "complete": false,
-        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (duration depends on evidence and original reader availability)."
+        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (requires rendered, native, connected and performance evidence plus the existing new-feature coverage disposition; duration unknown)."
       },
       {
         "complete": true,
@@ -561,7 +569,7 @@
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: whole draft time remains unknown; the header retry, two pin test failures, browser access, native allocation, connected policy evidence and original final ratings determine completion."
+    "landing": "Lands: both source installations completed at 06:09Z on 24 October. Whole draft finish remains unknown until qualified resource turns, connected/privacy evidence and the three original final checks complete."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
