@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Header writing is complete, with source-based regression evidence and a concrete full-validation dependency: the writer environment lacked the required Liquid library and browser. The phone PR is Ready; hosted tests are queued and its original first review is pending. No Shopify installation is in flight.",
+  "workerState": "The original header keeper started at 16:52 UTC on the exact repair head; partial tests passed, with no terminal result yet. The phone repair’s five hosted test shards are running and its latest pin check is queued. First code approval is verified; remaining review and merge are unverified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header code returned and report verified at 16:46 UTC; one original keeper result handoff saved at 16:48. Exact phone Ready state independently verified at 16:45. No rendered pass, final rating or live Shopify publication is claimed.",
+  "lastActualProgress": "Exact Draft #4863 and original keeper progress verified at 16:58 UTC. Phone #4862’s first full code approval was issued at 16:46 and independently verified at 16:56; hosted test execution verified at 16:57.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The pin still needs its header-owned fix and changed-source proof. Both latest resource readings show memory pressure 2, so no Website browser or iPhone allocation exists and its earlier queue position remains unresolved. Phone release, retention, qualified TEST evidence and timing measurements remain open.",
-  "current": "The original header writer has returned the pin repair; full remote validation is next. Phone repair #4862 is Ready on its verified source, with hosted test shards and the original first review pending.",
-  "next": "Complete the header’s original keeper proof, then its normal release and unpublished-draft installation. Consume the phone PR’s existing hosted checks and original review, then its release and runtime acceptance.",
-  "updated": "2026-10-24T16:50:28.512072+00:00",
+  "current": "The header repair is Draft #4863 and its original keeper is running, with initial shell tests passed. Phone privacy repair #4862 has its first code approval; all five hosted test shards are running.",
+  "next": "Consume the header keeper’s full result, then its original release and unpublished-draft installation. Complete the phone PR’s existing checks and remaining original review, then release and runtime acceptance.",
+  "updated": "2026-10-24T17:00:13.578865+00:00",
   "links": [
+    {
+      "title": "Header pin repair #4863",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4863"
+    },
     {
       "title": "Phone privacy repair #4862",
       "path": "https://github.com/EON-CRUX/3.09/pull/4862"
@@ -172,10 +176,6 @@
     {
       "title": "Title repair #4780",
       "path": "https://github.com/EON-CRUX/3.09/pull/4780"
-    },
-    {
-      "title": "Drawer repair",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4685"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The original header writer returned the pin repair. Its regression reproduces the old movement and passes with the source change. Full Liquid-based tests, pin validation and rendered acceptance remain; the writer’s environment lacked the required library and browser.",
-    "Phone repair #4862 is Ready on its exact verified source. Admission and initial gates passed; the current hosted test shards and pin check are queued, and the original first review is pending. The missing receipt and Ready queue waits are closed.",
-    "The C7 grants writer stopped without changes and returned scope findings to the original owners. No new grant, data query or worker start is proved.",
-    "The last device readings remain at memory pressure 2. A newer expected observation and the Website queue-position answer are absent; this does not establish that the Mac is asleep or qualified. No Website browser or iPhone grant is available.",
+    "The header repair is Draft #4863 on the original writer’s exact source. Its original remote keeper started at 16:52 UTC; shell and shared-header checks have passed. Full test and pin validation remains in progress, and no new rendered acceptance is claimed.",
+    "Phone privacy repair #4862 received its first full code approval with no findings. It masks phone segments in customer-service request paths in logs. All five hosted test shards are running; the latest pin check and remaining original review/release are still pending.",
+    "This code approval does not count as one of the final storefront feel ratings. No second approval, merge or installation has been verified.",
+    "The C7 grants writer’s scope clarification and the missing qualified Website device grant remain with their existing owners. No new production query, worker start, browser check or iPhone proof is claimed.",
     "Delivery remains 6/11, native checks 0/7 and final rating passes 0/3. Shopify remains unpublished and features remain off."
   ],
   "openDeliveryGates": [
@@ -618,7 +618,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original phone release and runtime privacy acceptance (keeper proof passed 16:16Z; Ready independently verified 16:45Z; hosted test shards and original first review pending, duration unknown)."
+        "text": "Complete original phone release and runtime privacy acceptance (first code approval at 16:46Z; all five hosted test shards running at 16:57Z, pin check queued, remaining original review/release pending; duration unknown)."
       },
       {
         "complete": true,
@@ -638,7 +638,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original header keeper proof and release (result returned 16:46Z; one existing-owner handoff saved 16:48Z, next observation 17:03Z; full Liquid and pin validation required, duration unknown)."
+        "text": "Complete original header keeper proof and release (keeper started 16:52Z on exact Draft #4863; first two test files passed, full result pending; next existing observation 17:03Z, duration unknown)."
       },
       {
         "complete": true,
@@ -653,11 +653,15 @@
         "text": "Publish actual header start and the phone release prerequisites (16:27Z–16:37Z, took 10 min; original push completed once, matching build and five hosted files verified; network read recovery extended the 4-minute estimate)."
       },
       {
+        "complete": true,
+        "text": "Publish returned header code and the phone Ready transition (16:48Z–16:52Z, took 4 min; matching build and all five hosted files verified, counts unchanged)."
+      },
+      {
         "complete": false,
-        "text": "Publish returned header code and the phone Ready transition (started 16:48Z, est. 6 min; preserve source-proof limits and unchanged completion counts)."
+        "text": "Publish the header keeper start and phone code approval (started 16:58Z, est. 4 min; same task page, completion and final ratings unchanged)."
       }
     ],
-    "landing": "Lands: about 16:54Z (6 min for this public update; original keeper proof, hosted checks/review and qualified acceptance could move the remaining release timing)."
+    "landing": "Lands: about 17:02Z (4 min for this public update; running keeper/tests, remaining review and qualified acceptance determine the release timing)."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
