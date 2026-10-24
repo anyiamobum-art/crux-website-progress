@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "All header and pin source, remote proof, independent review, hosted tests, merge and draft-install steps are complete. No installation or capture is running. The same native helper completed offline source adoption; capture awaits qualified shared resources.",
+  "workerState": "Original remote measurement continuation is executing on box-3. It is updating the existing helper and checking its inputs, with no page visit or capture yet. No Shopify installation is in flight. The same native helper already adopted the current source offline.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Header exact hosted readback completed at 06:04 UTC; pin readback at 06:07; pin preservation at 06:08 on 24 October. Each check preserved 694 other draft assets, 550 live-theme assets, all 13 theme roles and six settings/layout bodies. Shopify remains unpublished.",
+  "lastActualProgress": "Remote helper START verified at 06:25:44 UTC. Both source installations and preservation completed by 06:09 UTC; the current packet remains 173 tracked assets, 46 manifests and 24 post-review installations. Flight handoff saved at 06:32 and delivered once; no cloud adoption claim.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Browser access has recovered and the owner toggle question is closed. Hands’ latest two readings still show memory pressure 2; two qualified readings and an explicit Website allocation are required. Website’s retained requests were omitted from the latest named queue, so one precise boundary continuation was delivered. Actual privacy facts, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "The header font-arrival repair and stable pin animation are reviewed, merged and installed in the unpublished draft. Both exact readbacks and complete preservation checks passed. The current acceptance packet contains 173 tracked assets, 46 source manifests and 24 post-review installations.",
-  "next": "Use the existing qualified browser and native turns to verify the installed Stores enquiry, header arrival and stable pin geometry. The original native helper has verified and adopted the updated source offline; connected/privacy and final-reader prerequisites continue through their existing owners.",
-  "updated": "2026-10-24T06:15:29.253154+00:00",
+  "current": "The header and pin fixes are installed and preserved in the unpublished draft. The original remote measurement helper started at 06:25 UTC on 24 October to prepare the changed-source arrival check. The flight handoff is saved and delivered locally; cloud adoption is not yet verified.",
+  "next": "Consume the running helper’s actual result, then use the original remote route for one current-source arrival capture. Hands and Bridge carry the existing flight handoff; browser and iPhone acceptance remain Mac work and keep their original requests.",
+  "updated": "2026-10-24T06:33:26.962100+00:00",
   "links": [
     {
       "title": "Stable Stores pin #4820",
@@ -567,6 +567,14 @@
       {
         "complete": true,
         "text": "Publish the installed header, connected merges and verified advisory contribution (12:24Z–12:29Z, took 5 min; exact Pages build and five hosted files verified)."
+      },
+      {
+        "complete": false,
+        "text": "Consume the current-source remote header measurement helper (started 24 October 06:25Z, est. 10 min; original worker executing, next result inspection 06:40Z; no new capture yet)."
+      },
+      {
+        "complete": true,
+        "text": "Save the existing Website flight handoff with source, original running job and remaining evidence (06:29Z–06:32Z, took 3 min; local handoff delivered, Hands/cloud adoption still pending)."
       }
     ],
     "landing": "Lands: both source installations completed at 06:09Z on 24 October. Whole draft finish remains unknown until qualified resource turns, connected/privacy evidence and the three original final checks complete."
