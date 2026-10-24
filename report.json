@@ -140,7 +140,7 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The 2-pixel pin shift still needs its original repair. Website has no qualified browser or iPhone allocation; its earlier queue position remains unresolved. Corrected phone proof, retention, qualified TEST evidence and timing measurements remain open.",
+  "remaining": "The 2-pixel pin shift still needs its original repair. The latest two resource readings both show memory pressure 2, so the normal-pressure requirement fails; no Website browser or iPhone allocation exists and its earlier queue position remains unresolved. Corrected phone proof, retention, qualified TEST evidence and timing measurements remain open.",
   "current": "The original pin-repair request is restored in the remote mailbox and its focused follow-up is queued with Hands. The phone keeper rejected a duplicate test declaration after 187 passing tests; the original writer has corrected that declaration and transferred the result.",
   "next": "Consume the original pin writer’s actual start and repair result, the corrected phone manifest’s remote keeper proof, and the existing Website device-queue disposition. Then continue each qualified release and acceptance step.",
   "updated": "2026-10-24T15:55:13.102362+00:00",
@@ -208,7 +208,7 @@
     "The lost pin-repair request is restored in the actual remote mailbox. The sync owner reports a guard against shrinking mailbox copies; the underlying short-copy cause remains a hypothesis.",
     "The original phone keeper passed 187 tests, then rejected a duplicate mutation declaration. Its original writer corrected only that declaration and transferred the new source for the keeper’s remaining proof.",
     "The focused pin follow-up is visibly queued with Hands. Original-writer acknowledgement and a repair start remain unverified; sync recovery does not count as a pin fix.",
-    "Website’s earlier device-queue position needs an explicit disposition. The later Studio/CS note provides no Website grant, and the existing Bridge follow-up is reconciling that omission.",
+    "The latest resource pair at 15:46 and 15:47 UTC both reports memory pressure 2, so the normal-pressure requirement fails. Hands has granted no Website browser or iPhone turn; the existing Bridge follow-up is reconciling Website’s omitted queue position.",
     "Delivery stays 6/11, native checks 0/7 and final rating passes 0/3. Shopify remains unpublished and features remain off."
   ],
   "openDeliveryGates": [
@@ -629,11 +629,19 @@
         "text": "Reconcile restored delivery and the original phone keeper correction (15:48Z–15:55Z, took 7 min; actual remote request restored and corrected manifest transfer verified)."
       },
       {
+        "complete": true,
+        "text": "Publish and verify restored delivery and the phone keeper correction (15:55Z–15:57Z, took 2 min; matching build and five exact public files verified)."
+      },
+      {
+        "complete": true,
+        "text": "Reconcile the new device readings and C7 in-place scope (15:57Z–15:59Z, took 2 min; no qualified device grant, source-only acknowledgement prepared)."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify changed blockers on the task site (started 15:55Z, est. 5 min)."
+        "text": "Waiting on original repair, keeper and qualified acceptance receipts (pin finding since 09:16Z; device wait since 16 October; next check follows the existing owners, duration unknown)."
       }
     ],
-    "landing": "Lands: about 16:00Z (5 min left for the changed-facts update; original writer and qualified acceptance timing remain unknown)."
+    "landing": "Lands: next original-owner result time unknown (current evidence update complete; whole draft timing depends on the pin repair, qualified acceptance and three final checks)."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
