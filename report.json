@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original phone deployment was already successful at17:22 UTC; its source was verified17:41 UTC and reconciled without a second deployment. Header’s original first review approved the exact source17:41 UTC. Hosted mutation and guard checks passed17:52 UTC; two test groups are running and three queued, verified17:53 UTC.",
+  "workerState": "Header4863 completed both original code reviews, all five hosted test groups and the aggregate, then merged at 18:56 UTC. One exact stylesheet was installed in draft 166627606744; 694 other draft files, 550 live-theme files, all 13 theme roles and six raw settings/layout bodies were preserved.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original C06 owner returned successful deployment and four-file installed-source parity. The next runtime acceptance action is back with the original service owner; source deployment does not prove the runtime privacy outcome.",
+  "lastActualProgress": "The installed header stylesheet matches approved source 54ec0235 and merge 1574efee. Full preservation passed and the canonical 173-file inventory was updated without changing 172 other source records.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Header review, hosted tests, protected merge and changed-source rendered acceptance remain. The latest shared device report remains unqualified at memory pressure2/2. Runtime masking, retention and purge evidence, qualified TEST, timing measurements and the three original final ratings remain open.",
-  "current": "The EON phone-path privacy repair is deployed, with all four installed files matching the approved candidate and merge. Header #4863 has its original first code approval and passing hosted safeguards; two hosted test groups are running and three queued.",
-  "next": "Consume the header’s existing original review and hosted jobs, then complete the permitted merge and unpublished installation. The original service owner acknowledged the deployed phone repair and routed a synthetic server-only masking check through Hands; its result and remaining privacy acceptance are pending.",
-  "updated": "2026-10-24T17:55:06.488051+00:00",
+  "remaining": "No current Website-specific browser or native allocation is verified. Other lanes have had pressure 1 readings and expiring grants; those grants do not transfer. Runtime masking, retention and purge facts, qualified TEST, timing measurements, the retained Stores coverage ruling and three original final named-fix ratings remain open.",
+  "current": "The original header repair is merged and installed in the unpublished Shopify draft. Exact hosted stylesheet bytes and all preservation checks passed; the source inventory now covers 173 files, 47 manifests and 25 installations after the second full review.",
+  "next": "Hand this exact installed source to the same acceptance owner, then complete the retained rendered, iPhone, connected and performance evidence when its prerequisites are satisfied. The original service owner still owes the routed phone-masking runtime result.",
+  "updated": "2026-10-24T19:29:04.431474+00:00",
   "links": [
     {
       "title": "Header pin repair #4863",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The EON phone-path privacy repair is deployed. The original17:22 UTC release succeeded, the public service reported the merged revision, and local health returned200.",
-    "All four installed files match both the candidate and merge. The original owner reconciled the completed deployment; no second deployment was launched. Runtime masking, retention, purge and qualified TEST evidence remain separate.",
-    "Header #4863 received its original first code approval without findings at17:41 UTC. Hosted mutation and guard checks passed at17:52 UTC; two hosted test groups are running and three queued. The153 remote tests and29/29 mutation checks remain valid. Merge, unpublished installation and rendered acceptance are still pending.",
-    "The newest shared device report remains unqualified: memory pressure2/2, swap12.4GB and disk16GiB. Exact sample times were not supplied; no Website grant or queue-position ruling is established.",
-    "Delivery remains6/11, native checks0/7 and final passes0/3. The retained Stores coverage question stays with its original next-message route. The Shopify draft remains unpublished."
+    "Header #4863 completed both original code reviews and all hosted tests, then merged at 18:56 UTC. The unchanged approved stylesheet is now installed in the unpublished draft.",
+    "Exact hosted bytes passed verification. All 694 other draft files, 550 live-theme files, 13 theme roles and six raw settings/layout bodies were preserved. The installed inventory is 173 files across 47 source manifests and 25 installations after the second full review.",
+    "The 18:08 observation was missed while this chat was inactive; the completed jobs were reconciled at 19:19 UTC. Original finding and handoff wait ages were retained.",
+    "No current Website device or browser grant is verified. Other lanes have had pressure 1 readings and expiring grants; those do not authorize this task's capture. The same acceptance owner receives the new source without a duplicate worker.",
+    "Delivery remains 6/11, native checks 0/7 and final passes 0/3. Runtime privacy, retained coverage and the original final named-fix checks remain separate. The Shopify draft stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. The single installed-source arrival capture found one 2-pixel pin shift; other header checks passed. Connected journeys, native/performance proof and final ratings remain open.",
-      "next": "Complete the header’s original release and unpublished installation, then changed-source rendering, connected journey, native, timing and original final-reader evidence before draft handover."
+      "next": "Complete changed-source rendering, connected journey, native, timing and original final-reader evidence on the now-installed header source before draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -470,7 +470,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; latest Hands17:32Z report still fails resource qualification, pressure2/2; original Website boundary and scoped-policy requests retain their first waits; est. 13 min after actual grant)."
+        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; updated source packet is adopted by the same helper; no device action; latest19:13Z Hands evidence includes pressure1pairs forotherlanes, but no currentWebsitegrant; original Website boundary and scoped-policy requests retain their first waits; est. 13 min after actual grant)."
       },
       {
         "complete": true,
@@ -546,7 +546,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Stores, header and pin rendered acceptance on the installed source (waiting since 23 October 13:39Z; browser access recovered, source frozen after both installations; latest Hands17:32Z report remains unqualified at pressure2/2 and Website allocation is missing; est. 10 min after grant)."
+        "text": "Complete Stores, header and pin rendered acceptance on the installed source (waiting since 23 October 13:39Z; browser access recovered, source frozen after both installations; currentWebsiteallocation is missing; otherlanegrants do not transfer; est. 10 min after grant)."
       },
       {
         "complete": true,
@@ -653,8 +653,16 @@
         "text": "Advance the green header to its original release lane (17:32Z–17:38Z, took 6 min to verified Ready; current admission, gates and body checks passed)."
       },
       {
+        "complete": true,
+        "text": "Complete the original header reviews, hosted tests and protected merge (17:35Z–18:56Z, took 81 min; original two reviews approved and all five hosted groups plus aggregate passed; observed 19:19Z after missed 18:08Z check)."
+      },
+      {
+        "complete": true,
+        "text": "Install and preserve the merged header CSS in the unpublished draft (19:19Z–19:28Z, took 10 min; one stylesheet installed, exact bytes and all preservation checks passed, inventory 173/47/25 adopted)."
+      },
+      {
         "complete": false,
-        "text": "Complete the original header reviews, hosted tests and unpublished installation (first review approved17:41Z and hosted mutation/guard checks passed17:52Z; two test groups running and three queued; next check18:08Z, duration unknown)."
+        "text": "Publish the verified installation and hand the exact source to the original acceptance owner (started 19:28Z, est. 4 min; same task site and original source-only handoff)."
       },
       {
         "complete": true,
@@ -701,11 +709,11 @@
         "text": "Consume the header’s original first approval and hosted safeguards (17:53Z–17:54Z, took 1 min; exact source approved without findings, hosted mutation and guard checks passed)."
       },
       {
-        "complete": false,
-        "text": "Publish the first approval and current hosted-test progress (started17:55Z, est. 4 min; same report and completion counts)."
+        "complete": true,
+        "text": "Publish the first approval and current hosted-test progress (17:55Z–17:57Z, took 2 min; matching build and five hosted files verified)."
       }
     ],
-    "landing": "Lands: about17:59Z (4 min for this facts update; original hosted tests/review and qualified acceptance determine draft delivery)."
+    "landing": "Lands: about 19:33Z for the verified task-site update and source handoff (4 min left; public build timing could move it). Final acceptance awaits the existing Website grant and named evidence prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
