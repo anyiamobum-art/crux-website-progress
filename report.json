@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The measurement helper is terminal with 154 artifact hashes verified; its capture is unspent. The original privacy read ended at 08:10:02 UTC. No Website build, installation or capture is currently in flight.",
+  "workerState": "The measurement helper is terminal with 154 artifact hashes verified; its capture is unspent and no capture is running. The original privacy read is terminal. Two privacy repair briefs are placed, with no verified start or PR. No Shopify installation is in flight.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original owner confirmed host log custody, deployed-source binding and an operational cleanup backlog. The existing repair requests continue through their original owners; actual phone exposure remains unverified. The notice comparison found no conflicting retention promise. Source remains 173 assets, 46 manifests and 24 post-review installations.",
+  "lastActualProgress": "Hands reported chair-approved placement of both original privacy repairs at 08:33 UTC. The 08:35 UTC capture inspection proved command delivery but found no execution. No new rendering, native or rating credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Browser access is working. The latest shared Mac readings at 08:03 and 08:04 UTC remain at memory pressure 2, and Website has no qualified allocation. The remote arrival capture is independent of Mac resources but retains its named executor. Actual records custody, off-host retention, qualified TEST context and supported GPU instrumentation remain required.",
-  "current": "The original privacy read and its changed deployment, records-custody and cleanup evidence are adopted. The notice comparison still needs no shopper-copy change or activation. The installed header and pin remain preserved; their single remote arrival capture is unspent.",
-  "next": "Hands executes the one prepared capture under the chair’s confirmed original route, or supplies a precise capability refusal. The 08:21 UTC destination inspection found no capture; the existing request reaches its next disposition at 08:34 UTC. Original privacy owners continue the actual custody, policy and mounted TEST prerequisites.",
-  "updated": "2026-10-24T08:27:31.801466+00:00",
+  "current": "The original privacy facts and notice comparison are recorded, and both privacy repair briefs are placed through their existing owners. The installed header and pin are preserved. Their remote arrival capture is still unspent: its assigned executor has received the exact command but has not started it.",
+  "next": "Hands executes the one prepared capture or returns a concrete capability refusal. The 08:35 UTC check verified remote command delivery, with no capture process or result. Consume the two original privacy repair starts and results when they arrive; keep policy and mounted TEST acceptance separate.",
+  "updated": "2026-10-24T08:37:38.213252+00:00",
   "links": [
     {
       "title": "Stable Stores pin #4820",
@@ -207,8 +207,8 @@
   "recentChanges": [
     "The original privacy custodian read completed at 08:10 UTC. It adds partial host and source facts; a subsequent original-owner receipt confirms host custody and a cleanup repair need. Off-host retention and mounted acceptance remain open.",
     "The current notice and installed assistant source contain no conflicting promise of timed CRUX deletion, no logging or backup erasure. The recorded provider arrangement is retained. Features remain off; no shopper copy was installed.",
-    "Changed evidence now confirms deployment, host records custody and an operational cleanup backlog. Existing logging and cleanup repair requests remain with their original owners. Actual exposed customer data is unverified, and cleanup is not a blanket prerequisite for an authorized retained-object read-only check.",
-    "The chair confirmed that Hands places the single remote arrival capture. The 08:21 UTC inspection found no capture at its original destination; the existing executable request remains, with no duplicate.",
+    "Changed evidence now confirms deployment, host records custody and an operational cleanup backlog. Both logging and cleanup repair briefs are now placed through their original owners; execution and release remain unverified. Actual exposed customer data is unverified, and cleanup is not a blanket prerequisite for an authorized retained-object read-only check.",
+    "The chair confirmed that Hands places the single remote arrival capture. The 08:35 UTC inspection verified delivery of the executable command but found no capture or technical refusal; the assigned executor’s action remains missing, with no duplicate.",
     "Both draft installations remain verified. Delivery stays 6/11, native checks 0/7 and final rating passes 0/3."
   ],
   "openDeliveryGates": [
@@ -582,11 +582,15 @@
       },
       {
         "complete": false,
-        "text": "Run the original current-source remote arrival capture (waiting since 24 October 06:43Z; exact command delivered at 08:04Z; chair confirmed the original executor at 08:11Z; 08:21Z inspection found no capture; next disposition at 08:34Z; est. 10 min after placement)."
+        "text": "Run the original current-source remote arrival capture (waiting since 24 October 06:43Z; remote command delivery verified at 08:35Z, but no capture or technical refusal; next step is the assigned executor’s one run; est. 10 min after actual placement)."
       },
       {
         "complete": true,
         "text": "Complete the original privacy custodian read and notice comparison (24 October 08:00Z–08:27Z, took 27 min including adoption; report ended 08:10Z; changed 08:23Z evidence confirms host custody and a cleanup repair need; no conflicting notice promise, off-host facts and mounted acceptance remain open)."
+      },
+      {
+        "complete": false,
+        "text": "Consume the two original privacy repairs (briefs placed at 08:33Z; actual start, source, tests, review and release still required; duration unknown)."
       }
     ],
     "landing": "Lands: both source installations completed at 06:09Z on 24 October. Whole draft finish remains unknown until qualified resource turns, connected/privacy evidence and the three original final checks complete."
