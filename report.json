@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "25 October, 10:12 UTC: the original 05:42–05:43 capture was recovered without replay. Source identity, cities, disclosure, focus, overflow and clearance checks passed at 380, 430 and 1280 pixels. Other raw outcomes need the original measurement diagnosis.",
+  "lastActualProgress": "25 October, 10:51–10:52 UTC: the first corrected-helper capture passed36 checks. The earlier launch stopped before execution because a present cache directory was unreadable; ownership was corrected before this single actual run. No product code changed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Measurement interpretation and genuine resized rendering remain unresolved. Website also needs its own qualified native allocation; the earlier People grant ended after pressure rose. No Website grant is verified.",
-  "current": "The original Stores capture completed at 05:43 UTC. All 78 evidence files were recovered and verified after an SSH interruption. Header C1–C4 remains verified; Stores acceptance is still open.",
-  "next": "One correction is placed with the original helper owner for the size-selection assumption, checkout-script classification and reduced-motion judge. Provider execution and its result are not yet verified. Actual 200% resizing still requires qualified evidence; full-page zoom is permitted. No capture retry is underway.",
-  "updated": "2026-10-25T10:21:48.676509+00:00",
+  "remaining": "Genuine 200% resizing is unverified at all three widths. Website still has no native grant; the newer chair report records 9.7 GiB disk free, below the 14 GiB floor. Original Chrome instrumentation recovery and connected/C06 scope remain separate prerequisites.",
+  "current": "The corrected Stores run passes all 36 scoped checks across 380, 430 and 1280 pixels. All 91 returned artifact hashes match, and each page identifies the unpublished draft. Header C1–C4 remains verified.",
+  "next": "Use the original qualified browser/native route for genuine 200% resizing and iPhone checks, then finish the original performance and connected evidence before the three final named-fix ratings. The passed Stores capture is spent.",
+  "updated": "2026-10-25T11:02:39.046562+00:00",
   "links": [
     {
       "title": "Header C1–C4 capture result",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original Stores capture completed once at 380, 430 and 1280 pixels. All 78 evidence hashes pass; the SSH interruption did not require a replay.",
-    "The product deliberately waits for an explicit size choice. Manual selection carried the correct product, size and message; the helper had assumed a size from the URL. Its no-send guard also misclassified a Shopify preload script. These findings need measurement correction, not an inferred product repair.",
-    "The reduced-motion judge rejected all animations, although the bound design permits brief opacity fades. Its saved animation counts cannot qualify the actual motion; the original observer must record targets and settling. The default-font experiment does not qualify as 200% resizing evidence; the required supported resizing check remains open.",
-    "The original natural operational cleanup is verified on its actual scheduler. It preceded P694 deployment, so it does not prove the newer shopper-retention step. P694 remains installed and inactive; read-only TEST keeps its separate access, allocation and scope requirements.",
-    "Delivery remains 6/11, native 0/7 and final passes 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. The Shopify draft remains unpublished."
+    "Stores now passes source identity, product/size context, city choices, message wording, disclosure, keyboard focus, size refresh, overflow, clearance, reduced motion and no-send guards at 380, 430 and 1280 pixels: 36 scoped passes.",
+    "All 91 returned evidence hashes match. The corrected helper ran once after a cache-ownership fix; the earlier launch had stopped before execution. Product source is unchanged and both actual captures are spent.",
+    "Genuine 200% resizing remains unverified. The font-preference experiment produced 1.0x text, so it earns no zoom acceptance. Headless browser results also earn no native iPhone, GPU or final-rating credit.",
+    "Root retained square-looking glyphs beside WhatsApp and Enlarge as a final-reader/native-font observation. Functional passes are not a whole-design rating. No customer message, cart, order or publication action was taken; passive analytics traffic remains recorded.",
+    "Delivery remains 6/11, native 0/7 and final ratings 0/3. The same three readers retain their consumed full rounds and remaining final named-fix checks. The Shopify draft stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -229,7 +229,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. The original changed-source header capture now passes C1–C4, closing the earlier 2-pixel pin shift. Connected journeys, native/performance proof and final ratings remain open.",
+      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. The original changed-source header passes C1–C4 and the corrected Stores run passes 36 scoped checks across three widths. Genuine 200% resizing, connected journeys, native/performance proof and final ratings remain open.",
       "next": "Complete remaining connected journey, native, timing and original final-reader evidence on the installed source before draft handover."
     },
     {
@@ -240,6 +240,50 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": false,
+        "text": "Publish and verify the corrected Stores rendered result (started 11:00Z, est. 3 min; one task-site update, matching build and five-file readback)."
+      },
+      {
+        "complete": false,
+        "text": "Measure remaining desktop Options timing and safe held controls (waiting since 16 October 14:30Z; original Chrome absent at 10:30Z, prior instrumentation refusal unresolved. Await original qualified Chrome boundary/disposition; Root next observation 11:15Z or changed event, supported probe first; est. 10 min after recovery)."
+      },
+      {
+        "complete": false,
+        "text": "Complete the queued iPhone check after own qualified allocation (waiting since 16 October 20:16Z; source173/47/25,Website fifth. People ended 10:35Z at pressure 2; newer chair report disk 9.7 GiB <14. No Website grant; est. 13 min after actual Website START)."
+      },
+      {
+        "complete": false,
+        "text": "Complete tracking-link authenticated acceptance (requires fresh original Hands slot, admitted TEST identities and exact authenticated tenant/store/actor/read scope. P694 retention and broad notice do not block already-authorized read-only Settings or non-writing observations; writing actions retain separate scoped authority; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Prove actual 200% resizing through the qualified original browser/native path (S12 default-font probe is exploratory; supported resizing may include full-page zoom, no new text-only requirement. Duration depends on qualified access)."
+      },
+      {
+        "complete": false,
+        "text": "Complete installed-source, iPhone, connected and performance evidence (modal-close/reopen disposition and the 21.56-second public journey are retained as complete; authenticated populated-bag/account/native whole-journey evidence and resource prerequisites remain; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (Stores enquiry coverage resolved 19:33Z; requires rendered, native, connected and performance evidence; same consumed rounds, duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Complete remaining privacy acceptance under original custody (phone masking runtime passed; P694 #4892 merged, served and four installed files matched, default inactive. Separate 25 October 03:45Z operational cleanup ran successfully at 03:46:17Z on its actual scheduler host; this preceded #4892 and did not execute its shopper step. First natural schedule with that code is 26 October 03:45Z, still inactive without enabled policy. External shopper-database snapshot/WAL and usage/log custodian facts remain separate. Read-only TEST/non-writing checks need actual allocation, identities and exact scope; mount/Style/Save/activation retain separate authority. Duration unknown)."
+      },
+      {
+        "complete": true,
+        "text": "Complete the first corrected Stores rendered check (10:47Z–10:58Z, took 11 min including cache-permission correction, execution and evidence read;36 PASS across 380/430/1280, 91 hashes verified; actual200% remains unverified)."
+      },
+      {
+        "complete": true,
+        "text": "Correct the original measurement assumptions and reduced-motion observer (10:20Z–10:42Z, took22 min; original helper exit0,65 hashes and6 unchanged bindings verified,68/68 restored checks and29/29 sabotage checks)."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify the recovered Stores evidence and remaining acceptance limits (10:19Z–10:25Z, took 6 min including diagnosis reconciliation and hosted verification; one push, matching build and five exact hosted files)."
+      },
       {
         "complete": true,
         "text": "Complete the exact-source title measurement and visible-pixel check (20:32Z–20:38Z, took 6 min; title clearance passes, one retained button-visibility finding)."
@@ -465,14 +509,6 @@
         "text": "Install and preserve the exact pin script in the unpublished draft (24 October 06:05Z–06:09Z, took 4 min; fresh header-installed baseline, exact script readback and full preservation verified)."
       },
       {
-        "complete": false,
-        "text": "Measure remaining desktop Options timing and safe held controls (same instrumentation refusal at 07:55Z; browser released at 07:56Z; supported recovery and fresh grant required; est. 10 min after recovery)."
-      },
-      {
-        "complete": false,
-        "text": "Complete the queued iPhone check after own qualified allocation (waiting since 16 October 20:16Z; source 173/47/25, Website fifth. People END 05:26Z after pressure 2, consumed by Hands 05:40Z. Next turns need their own fresh pair/allocation. No Website grant; est. 13 min after actual Website START)."
-      },
-      {
         "complete": true,
         "text": "Complete the SEO repair’s reviews and merge (00:38Z–02:15Z, took 97 min; merged with required checks)."
       },
@@ -511,10 +547,6 @@
       {
         "complete": true,
         "text": "Consume the original tracking-link deployment receipt (14:32Z–14:43Z, took 11 min; deployed source carries the approved merge, health 200)."
-      },
-      {
-        "complete": false,
-        "text": "Complete tracking-link authenticated acceptance (requires fresh original Hands slot, admitted TEST identities and exact authenticated tenant/store/actor/read scope. P694 retention and broad notice do not block already-authorized read-only Settings or non-writing observations; writing actions retain separate scoped authority; duration unknown)."
       },
       {
         "complete": true,
@@ -557,28 +589,8 @@
         "text": "Complete and recover the single original Stores capture (05:42Z–05:43Z, took 1 min; recovered 10:12Z after SSH interruption and observation gap; all 78 evidence hashes verified, no replay)."
       },
       {
-        "complete": false,
-        "text": "Correct the original measurement assumptions and diagnose reduced motion (one original offline correction placed; brief is in the running directory, provider START/result unverified; no product repair or capture; estimate pending original execution)."
-      },
-      {
-        "complete": false,
-        "text": "Publish and verify the recovered Stores evidence and remaining acceptance limits (started 10:19Z, est. 3 min; one task-site update, unchanged counts)."
-      },
-      {
-        "complete": false,
-        "text": "Prove actual 200% resizing through the qualified original browser/native path (S12 default-font probe is exploratory; supported resizing may include full-page zoom, no new text-only requirement. Duration depends on qualified access)."
-      },
-      {
         "complete": true,
         "text": "Consume the original privacy runtime fact read (15:14Z–15:32Z, took 18 min including readback; no scheduled purge established on the checked host, off-host policy and actual custodians still required)."
-      },
-      {
-        "complete": false,
-        "text": "Complete installed-source, iPhone, connected and performance evidence (modal-close/reopen disposition and the 21.56-second public journey are retained as complete; authenticated populated-bag/account/native whole-journey evidence and resource prerequisites remain; duration unknown)."
-      },
-      {
-        "complete": false,
-        "text": "Return the finished assembly for the three original final named-fix checks and draft handover (Stores enquiry coverage resolved 19:33Z; requires rendered, native, connected and performance evidence; same consumed rounds, duration unknown)."
       },
       {
         "complete": true,
@@ -607,10 +619,6 @@
       {
         "complete": true,
         "text": "Complete the original privacy custodian read and notice comparison (24 October 08:00Z–08:27Z, took 27 min including adoption; report ended 08:10Z; changed 08:23Z evidence confirms host custody and a cleanup repair need; no conflicting notice promise, off-host facts and mounted acceptance remain open)."
-      },
-      {
-        "complete": false,
-        "text": "Complete remaining privacy acceptance under original custody (phone masking runtime passed; P694 #4892 merged, served and four installed files matched, default inactive. Separate 25 October 03:45Z operational cleanup ran successfully at 03:46:17Z on its actual scheduler host; this preceded #4892 and did not execute its shopper step. First natural schedule with that code is 26 October 03:45Z, still inactive without enabled policy. External shopper-database snapshot/WAL and usage/log custodian facts remain separate. Read-only TEST/non-writing checks need actual allocation, identities and exact scope; mount/Style/Save/activation retain separate authority. Duration unknown)."
       },
       {
         "complete": true,
@@ -785,7 +793,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: task-site update about 10:22Z (3 min left; Pages build may move it). Draft completion remains unknown pending original measurement correction, actual resizing, own native allocation, C06 scope and final named-fix checks."
+    "landing": "Lands: task-site update about 11:03Z (3 min left; hosted build may move it). Draft completion remains unknown pending actual resizing, own native allocation, original performance/connected evidence and final named-fix checks."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
