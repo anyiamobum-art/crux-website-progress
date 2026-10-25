@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "P2346/P2387 remains accepted and installed, with the holder report restored. The actual21:21Z Studio wake queued but did not start because the expected control socket was absent after restart. The original diagnosis was placed21:31Z; its21:37Z watcher ended without a bound start. Runtime reliability is unverified. Website’s21:29:49Z–21:37:43Z browser turn is complete, released and restored to100% zoom; no capture or final-rating call is running.",
+  "workerState": "The accepted P2346/P2387 repair and holder report remain valid. The22:03Z installed diagnostic is accepted and hash-verified. The real21:21Z wake did not start, and its21:37Z watcher ended without a bound start. The original start-mechanism design is genuinely running; automatic starts and restart persistence remain unverified. No second server or undocumented launch option is authorized while that design is pending. The completed Website browser turn remains released; no new capture or rating call is running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At21:51Z the chair resolved the C06 actor and draft-mount decision, identifying the owner-controlled setup prerequisites and the subsequent original-owner sequence. No connection, shopper admission, feature activation or mount was performed. The completed21:29:49Z–21:37:43Z browser turn and40/40 version-URL binding remain valid; acceptance counts are unchanged.",
+  "lastActualProgress": "At22:03Z the chair installed the accepted diagnostic; exact installed bytes were verified at22:05Z. The same original owner is working on the mechanism design. Accurate reporting of queued work is now installed, but no successful automatic start or substantive natural wake is established by this result. Website acceptance counts are unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "C06 connected acceptance awaits the owner-controlled TEST connection and two specifically admitted TEST shoppers. The assistant stays off and unmounted, with no Style/Save writes; P694 is not this blocker. Timing instrumentation refused even on a documented fresh tab, so formal timing and held-cancel samples remain absent. Native queue remains P212, Home4852, then Website; Hands21:28Z reports10GiB against the current12GiB floor, with no Website native grant.",
-  "current": "The chair answered the C06 TEST setup sequence at21:51Z. TEST is not connected to Shopify, and no two admitted TEST shoppers exist. The owner must connect a Shopify development store first; two TEST shoppers then need admission by the owner or Website under specific authorization. This is a confirmed prerequisite, not completed setup.",
-  "next": "The original Bridge is presenting the owner-controlled connection prerequisite; no duplicate request is needed. After connection and shopper admission, the original chair enables the TEST-only feature and the original Website owner follows its reviewed draft-mount route. Separately, retain the completed200% zoom evidence for the original final readers, resolve supported timing, and obtain a qualified native turn.",
-  "updated": "At21:53Z the2,344-byte chair disposition receipt was read and hashed. Prior public commit166aed3 is fully verified at21:46:41Z with its matching Pages build and all five hosted files. The new decision changes the connected-acceptance prerequisite, not storefront source, runtime evidence or ratings.",
+  "current": "The original reader accepted the automatic-start diagnostic, and the chair installed it at22:03Z; exact installed bytes were verified at22:05Z. It now reports “queued, not started” when the start service is absent. This improves the accuracy of status reporting; it does not restore automatic starts or persistence after restart.",
+  "next": "The same original owner is running the start-mechanism design; chair evaluates that result before any mechanism change. Existing queued work stays intact, with no repeated wake. Original Bridge separately owns the C06 development-store connection prerequisite, followed by specifically authorized shopper admission. Timing recovery, a qualified native turn and original final named-fix acceptance remain open.",
+  "updated": "At22:05Z the original acceptance report and installed diagnostic were read and hashed; the installed source matches the accepted17267cd8. Prior public commit7f4f4f3 is fully verified at21:56:26Z with its matching build and five exact hosted files. The mechanism design is an original running job, not an installed start fix.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Chair21:51Z confirms that TEST has no Shopify connection and no two admitted TEST shoppers. The owner connects a development store first, then the owner or Website under specific authorization admits two TEST shoppers. Original Bridge already owns presenting the connection prerequisite.",
-    "Only after those prerequisites does the original chair enable the TEST-only feature and the original Website owner use the reviewed draft-mount route. The assistant remains off and unmounted; no Style/Save writes or live publication. P694 is not this setup blocker.",
-    "Genuine200% Chrome zoom remains captured at380/430/1280 base widths, giving190/215/640 CSS pixels without horizontal overflow. All40 DOM version URLs match the retained source binding. Original36 functional passes remain; the same original final reader still owns acceptance.",
-    "Supported timing instrumentation refused on the existing and documented fresh tab. The completed browser grant is released. Native queue remains P212, Home4852, then Website, with the dated Hands21:28Z reading of10GiB below its current12GiB floor and no Website grant.",
-    "The continuation repair remains accepted and installed, but the real21:21Z wake did not start; its21:37Z watcher ended without a bound start. The original control-socket diagnosis remains the next step. Counts stay6/11 delivery,1/3 milestones,0/7 native and0/3 final ratings."
+    "The same original reader accepted the diagnostic, and the chair installed it at22:03Z. Exact installed bytes matched at22:05Z. It reports queued work as not started when the start service is missing; it does not restore automatic starts or restart persistence.",
+    "The original start-mechanism design is genuinely running. Existing queues are preserved, with no repeated wake. Chair has not authorized a second server or undocumented launch option while the design is pending; natural runtime reliability remains unverified.",
+    "The C06 decision remains answered: owner-controlled development-store connection and two specifically admitted TEST shoppers precede the original TEST feature and reviewed draft mount. Original Bridge owns presenting the connection prerequisite. The assistant stays off/unmounted; no Style/Save writes. P694 is not this blocker.",
+    "Genuine200% Chrome zoom remains captured at all three base widths, with no horizontal overflow and40/40 matching version URLs. The original36 functional passes remain; the same original final reader still owns acceptance. No new browser run or rating.",
+    "Timing instrumentation remains refused. Native queue remains P212, Home4852, then Website, with the dated Hands21:28Z reading of10GiB below its current12GiB floor and no Website grant. Counts stay6/11 delivery,1/3 milestones,0/7 native and0/3 final ratings."
   ],
   "openDeliveryGates": [
     {
@@ -242,11 +242,19 @@
     "steps": [
       {
         "complete": true,
-        "text": "Consume the original C06 actor and draft-mount decision (21:51Z ruling, verified21:53Z; TEST connection and two shopper admissions are required before the original TEST feature and reviewed mount sequence; no action performed)."
+        "text": "Consume the accepted and installed start diagnostic (installed22:03Z, verified22:05Z; accurate queued/not-started reporting only, automatic starts and restart persistence remain open)."
       },
       {
         "complete": false,
-        "text": "Publish and verify the answered C06 prerequisites (started21:54Z, est.5min; one existing-site push, matching Pages build and all five hosted files)."
+        "text": "Publish and verify diagnostic status and the original running design (started22:06Z, est.5min; one existing-site push, matching Pages build and all five hosted files)."
+      },
+      {
+        "complete": true,
+        "text": "Consume the original C06 actor and draft-mount decision (21:51Z ruling, verified21:53Z; TEST connection and two shopper admissions are required before the original TEST feature and reviewed mount sequence; no action performed)."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify the answered C06 prerequisites (21:54Z–21:56Z, took2min; one push7f4f4f3, matching Pages build21:55:46Z and all five exact hosted files verified21:56:26Z)."
       },
       {
         "complete": true,
@@ -286,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Restore the original automatic start route and verify a natural queued action (real21:21Z wake queued but failed closed at the absent control socket; original writer107152a5 diagnosis placed21:31Z. The21:37Z watcher ended without a bound start. Installation and holder feed remain verified; original chair decides repair; est.15min for disposition after report)."
+        "text": "Restore automatic starts and verify a natural substantive action (accepted diagnostic installed22:03Z and exact bytes verified22:05Z; this reports queued/not-started only. Original start-mechanism design is genuinely running under the same owner. The21:37Z watcher found no bound start; queues remain intact. Chair evaluates the design before a mechanism change; no second server or undocumented option. P2424 remains open; est.15min for disposition after the original report)."
       },
       {
         "complete": true,
@@ -849,7 +857,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: this report update about21:59Z (5min planned; Pages build or network delay could move it). Overall draft completion remains unknown. Owner-controlled TEST connection and two shopper admissions precede the original TEST feature and reviewed mount. Timing capability, qualified native allocation, original automatic-start diagnosis and final named-fix acceptance remain separate; no live Shopify publication."
+    "landing": "Lands: this report update about22:11Z (5min planned; Pages build or network delay could move it). Overall draft completion remains unknown. Original mechanism design is running; successful automatic starts and restart persistence remain unverified. C06 owner-controlled connection and shopper admission, timing capability, qualified native allocation and original final named-fix acceptance remain separate; no live Shopify publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

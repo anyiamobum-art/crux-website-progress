@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-25T21:54:45.362091+00:00",
+  "snapshot": "2026-10-25T22:06:36.574285+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -210,7 +210,7 @@
         {
           "title": "Continuation repair installed; natural outcome still open",
           "date": "25 October2026 · Mac21:06UTC / holder report21:12:40UTC",
-          "text": "The original reader accepted the combined continuation and holder-report repair. Installed Mac bytes match; chair reports the same box version installed21:14UTC. The missing holder report returned. Later, the real21:21UTC wake queued without a start because the control socket was absent after restart; the21:37 watcher confirmed no bound start. The original diagnosis lane owns recovery. No permanent runtime reliability or storefront-rating credit."
+          "text": "The original reader accepted the combined continuation and holder-report repair. Installed Mac bytes match; chair reports the same box version installed21:14UTC. The missing holder report returned. Later, the real21:21UTC wake queued without a start because the control socket was absent after restart; the21:37 watcher confirmed no bound start. The later diagnostic installation is recorded separately below; the automatic-start mechanism remains open. No permanent runtime reliability or storefront-rating credit."
         },
         {
           "title": "Shared TEST access read, no connected acceptance",
@@ -231,10 +231,15 @@
           "title": "C06 TEST connection and shopper prerequisites confirmed",
           "date": "25 October2026 · chair decision21:51UTC; receipt verified21:53UTC",
           "text": "The owner must connect TEST to a Shopify development store, then the owner or Website under specific authorization admits two TEST shoppers. Only afterward the original chair enables the TEST-only feature and the original Website owner uses its reviewed draft-mount route. Original Bridge is presenting the connection prerequisite. No connection, admission, activation, mount or Style/Save write occurred. P694 is not this blocker; shared TEST access and completed Stores evidence remain separate."
+        },
+        {
+          "title": "Start diagnostic accepted and installed; mechanism still open",
+          "date": "25 October2026 · chair installation22:03UTC; exact-byte verification22:05UTC",
+          "text": "The same original reader accepted the diagnostic. It now reports queued work as not started when the start service is missing. This does not restore automatic starts or persistence after restart. The same original owner is running the mechanism design; queues remain intact without another wake. Chair has not authorized a second server or undocumented launch option pending that design. No permanent reliability, storefront acceptance or rating credit."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-25T21:54:45.362091+00:00"
+      "sourceAsOf": "2026-10-25T22:06:36.574285+00:00"
     },
     "companion": {
       "number": "04",
@@ -353,5 +358,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website/Stores C06 prerequisite decision updated; other products retain their dated source snapshots."
+  "snapshotScope": "Website continuation diagnostic and original mechanism-design state updated; other products retain their dated source snapshots."
 }
