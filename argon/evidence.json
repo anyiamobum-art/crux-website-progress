@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-25T21:44:45.472728+00:00",
+  "snapshot": "2026-10-25T21:54:45.362091+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused; native and connected acceptance remain open. Shared TEST access is not shopper A/B or draft mount authority. These original-owner results are separate from Argon’s advice.",
+      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused; native and connected acceptance remain open. Chair21:51UTC confirms TEST lacks a Shopify connection and two admitted TEST shoppers. Owner-controlled connection and specifically authorized shopper admission come before the original TEST feature and reviewed draft mount. The assistant remains off and unmounted. These original-owner results are separate from Argon’s advice.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -226,10 +226,15 @@
           "title": "Timing capability refused; native allocation still separate",
           "date": "25 October2026 ·during the completed Website browser turn",
           "text": "The supported timing probe was refused even on a documented fresh tab while Browser Use resolved a paused document response. No formal or held-cancel samples. Native queue is P212, Home4852, then Website, with10GiB below the current12GiB floor and no own native grant. Original Hands retains recovery and allocation."
+        },
+        {
+          "title": "C06 TEST connection and shopper prerequisites confirmed",
+          "date": "25 October2026 · chair decision21:51UTC; receipt verified21:53UTC",
+          "text": "The owner must connect TEST to a Shopify development store, then the owner or Website under specific authorization admits two TEST shoppers. Only afterward the original chair enables the TEST-only feature and the original Website owner uses its reviewed draft-mount route. Original Bridge is presenting the connection prerequisite. No connection, admission, activation, mount or Style/Save write occurred. P694 is not this blocker; shared TEST access and completed Stores evidence remain separate."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-25T21:44:45.472728+00:00"
+      "sourceAsOf": "2026-10-25T21:54:45.362091+00:00"
     },
     "companion": {
       "number": "04",
@@ -348,5 +353,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website/Stores zoom and current dependency evidence updated; other products retain their dated source snapshots."
+  "snapshotScope": "Website/Stores C06 prerequisite decision updated; other products retain their dated source snapshots."
 }
