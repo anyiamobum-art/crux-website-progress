@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Installed P765 task.py 76a39ffb and watcher ec671309 match the original receipt. Their natural run is verified, but complete owner coverage is not. P2387 remains with its original writer. P2346 candidate dbcc4502 was rejected; installed c254fe35 remains unchanged. The 18:48Z original repair launch returned call_record_conflict; no writer ran. Existing Bridge/Communication own reconciliation; no duplicate launch is needed. No Website capture or final-rating call is running.",
+  "workerState": "Mac followup.py matches accepted0a2d7b98, independently hashed at21:17Z. Chair reports the same box port installed at21:14Z after remote proof; that box state is chair-reported. The holder companion was written at21:12:40Z. Old rejected-source and launch-conflict states are historical. No Website capture or final-rating call is running; no permanent reliability claim is made.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "P765 installed at 18:03:32Z; its watcher restarted naturally at 18:05:57Z, collector ran at 18:06:26Z and board wrote at 18:06:53Z. The returned P2346 acceptance result identifies one blocking MEDIUM finding, without installation credit. Last rendered Website advance remains 10:51:52Z: 36 Stores passes and 91 verified artifact hashes.",
+  "lastActualProgress": "The combined correction was installed on the Mac at21:06Z; the holder companion appeared at21:12:40Z. Chair reports box installation21:14Z. CS verified shared TEST access between21:05:38Z and21:08:49Z without writes. Last rendered Website advance remains10:51:52Z:36 Stores passes and91 verified artifact hashes.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "P765 installation is complete; its remaining holder-ledger coverage is not yet proved. P2346 needs its named correction and acceptance before installation. Website still has no qualifying browser/native slot. Root’s 19:18Z reading is 12.52 GiB, below the 14 GiB native floor. Unknown external retention details do not blanket-block authorized read-only checks.",
-  "current": "P765/#4908 is installed and has run naturally: the watcher restarted, the collector ran and the board updated. Holder-ledger coverage is still unknown and needs the separate original P2387 correction. P2346 was rejected on one blocking finding about older queued instructions; that candidate remains uninstalled.",
-  "next": "The original P2387 writer repairs the due-report path so holder coverage can be verified. The original P2346 writer corrects the named queue-order finding, then returns it through existing acceptance and installation custody. The original launch was refused by a conflicting call record; existing Bridge/Communication are reconciling the saved retry/result pointer before that writer can continue. Root retains Website’s browser/native allocation. After a Website grant, the original acceptance owner can perform the remaining admitted checks.",
-  "updated": "At 19:20Z, installed P765 hashes match the 18:03:32Z receipt; the original Hands record confirms its natural run. The original P2346 acceptance report rejects candidate dbcc4502, and installed followup.py remains c254fe35. Previous task-view commit 66c63ba was verified at 17:15:26Z with a matching build and five exact hosted files. No new Website grant, final rating or acceptance credit is claimed.",
+  "remaining": "The former named-fix, call-conflict, installation and missing-holder-file waits are closed. End-to-end automatic continuation and full coverage remain unverified. Website still has no own browser/native slot. Chrome no longer has a swap-only hold: free memory at least25%, load below8 and one assigned actor apply. Native retains its separate14GiB requirement. Shared TEST access does not prove shopper identities, draft mounting or connected acceptance.",
+  "current": "The combined P2346/P2387 correction is accepted by the original reader and installed on the Mac. The missing holder report has appeared naturally, closing that producer wait. A real wake leading to useful owner work is still unverified. Shared TEST Settings can be opened; its Shopify integration is not connected.",
+  "next": "Original chair and Monitor consume the next natural wake and verify the intended owner takes its substantive next step; the existing watcher is expected around21:37Z. Original CS consumers reconcile the shared TEST workspace with their existing connected-acceptance contract. Hands assigns Website its own eligible browser/native turn; then the original acceptance owner completes the admitted checks.",
+  "updated": "At21:17Z, the original acceptance report, installed Mac hash, holder companion and CS shared-TEST receipt were independently checked. Previous publication7c304b0 is complete: matching Pages build and all five exact hosted files verified19:30:54Z. No Website allocation, shopper A/B acceptance, native pass or final score is inferred.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "P765/#4908 installed at 18:03:32Z. Its watcher restarted naturally at 18:05:57Z, the collector ran at 18:06:26Z and the board updated at 18:06:53Z. The earlier installation mismatch is closed; no reinstall is required.",
-    "Holder-ledger coverage remains unknown. The separate P2387 finding is that the due-report path is skipped when light checks evaluate. Its original writer and Monitor retain correction and coverage acceptance; one successful run is not proof of complete group coverage.",
-    "P2346 Resume3 was rejected on one blocking MEDIUM finding: resuming its own queued wake can also release older instructions ahead of it. The original writer owns the named correction, but its launch returned a conflicting call record; existing owners are reconciling it and no writer ran. Candidate dbcc4502 is not installed; installed c254fe35 remains unchanged. Permanent automatic continuation is not yet accepted.",
-    "Previous publication 66c63ba completed at 17:15:26Z with a matching build and five exact hosted files. Stores retains 36 scoped passes, 3 genuine 200% checks unverified and 0 failed checks, with 91 verified artifact hashes. No capture was replayed.",
-    "Counts remain 6/11 delivery, 1/3 milestones, 0/7 native and 0/3 final ratings. They measure final acceptance gates, not repairs or effort. No Website-qualified slot exists; Root’s 19:18Z reading is 12.52 GiB against the 14 GiB floor. Shopify draft 166627606744 remains unpublished and the assistant remains off."
+    "The original reader accepted combined P2346/P2387 source0a2d7b98. Mac installation at21:06Z is independently hash-verified; chair reports the same box source installed21:14Z after remote proof. Old rejection, call-conflict and installation waits are closed.",
+    "The holder companion report appeared at21:12:40Z, closing the missing-producer-file wait. A first real wake and substantive owner action remain unverified; original chair and Monitor retain acceptance. The existing watcher is expected around21:37Z, not a guaranteed outcome.",
+    "CS opened the shared TEST owner workspace and Settings at21:05:38Z–21:08:49Z. Shopify showed Not connected; no writes occurred. This is access evidence only: C06 shopper A/B, draft mount authority, connected actions and Website’s own slot remain separate. The assistant stays off and unmounted.",
+    "Chair removed the swap-only Chrome hold at21:02Z. Free memory at least25%, load below8 and one assigned actor remain; People is next and Website keeps its original queue. Native’s14GiB requirement is separate. No Website browser or native grant is claimed.",
+    "Prior publication7c304b0 is fully verified. Stores remains36 scoped passes,3 genuine200% checks unverified and0 failures, with91 verified hashes. Acceptance counts stay6/11 delivery,1/3 milestones,0/7 native and0/3 final ratings; Shopify remains unpublished. Repairs and access receipts do not themselves close those gates."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Chair confirms four established facts: decision, installed phone masking, inactive controls and separate operational cleanup. External backup and log-retention details remain unknown; matching notice and connected privacy acceptance remain open. Controls remain off. Owner: Original Hands infrastructure/runtime custodians and CS semantic owner; A2 and the original Website notice owner retain wording custody. Wait: Unanswered external facts retain 12 October 04:12Z as their first wait; completed decisions and installations no longer count as waiting.",
+      "blocker": "Chair confirms four established facts: decision, installed phone masking, inactive controls and separate operational cleanup. External backup and log-retention details remain unknown; matching notice and connected privacy acceptance remain open. Shared TEST Settings access is verified, but its Shopify integration is not connected; shopper A/B and draft mount authority are not established. Controls remain off. Owner: Original Hands infrastructure/runtime custodians and CS semantic owner; A2 and the original Website notice owner retain wording custody. Wait: Unanswered external facts retain 12 October 04:12Z as their first wait; completed decisions and installations no longer count as waiting.",
       "next": "Original custodians supply existing console metadata when available; unknown retention stays unknown, without a new build or duplicate query; the original notice owner uses only verified claims. Already-authorized read-only and native checks continue when their own access, scope and qualified slot are available. Mount, Style/Save and activation retain separate authority."
     },
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Header C1–C4 and 36 Stores checks pass. Genuine 200%, native iPhone, timing and connected journeys remain. Website has no own qualified grant. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; timing wait since 16 October 14:30Z. Original wait ages are retained. Website retains queue place 5.",
-      "next": "Hands returns the existing Chrome/browser disposition; supported instrumentation probe first, then genuine 200% and timing. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
+      "next": "Hands assigns Website an eligible Chrome/browser actor turn under the amended resource rule; supported instrumentation probe first, then genuine 200% and timing. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -242,7 +242,11 @@
     "steps": [
       {
         "complete": false,
-        "text": "Publish and verify installed coverage and the named wait-wake rejection (started 19:20Z, est. 5 min; one existing public update, matching build and five exact hosted files)."
+        "text": "Publish and verify accepted continuation and scoped TEST access (started 21:18Z, est.5min; one existing public update, matching build and exact hosted files)."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify installed coverage and the named wait-wake rejection (19:20Z–19:30Z, took10.9min; one push7c304b0, matching Pages build19:21:04Z and all five exact hosted files verified19:30:54Z. Network timeouts extended the5-minute estimate; only outstanding files were retried)."
       },
       {
         "complete": true,
@@ -257,12 +261,16 @@
         "text": "Publish the verified continuation cause and current acceptance prerequisites (12:33Z–12:37Z, took 4 min; original source receipts consumed, one push, matching Pages build and five exact hosted files verified)."
       },
       {
-        "complete": false,
-        "text": "Complete installed owner-coverage acceptance (P765/#4908 installed 18:03:32Z; watcher restarted naturally 18:05:57Z, collector ran 18:06:26Z and board wrote 18:06:53Z. The installation mismatch is closed. Holder-ledger coverage remains unknown; original P2387 writer corrects the skipped due-report path, then original Monitor verifies coverage; duration unknown)."
+        "complete": true,
+        "text": "Restore the holder-report producer through its original repair (combined P2346/P2387 accepted by the original reader; Mac installation21:06Z, holder companion read21:12:40Z. P765 installation and its earlier natural run remain verified. The missing-file wait is closed; complete owner coverage and real-wake follow-through remain separate)."
+      },
+      {
+        "complete": true,
+        "text": "Accept and install the named wait-wake correction (original reader accepted combined0a2d7b98; Mac installed21:06Z and independently hash-verified21:17Z. Chair reports the same box port installed21:14Z after remote proof. Old M1 refusal, call conflict and installation waits are closed; no reinstall)."
       },
       {
         "complete": false,
-        "text": "Correct the named wait-wake rejection, then accept and install through original custody (P2346 Resume3 rejected on one blocking MEDIUM M1: starting its queued wake can release older instructions ahead of it. Original 18:48Z launch was refused by a conflicting call record; no writer ran. Existing Bridge/Communication are reconciling the saved retry/result pointer, then the same writer continues. Candidate dbcc4502 remains uninstalled; installed c254fe35 unchanged. Acceptance, installation and a natural substantive next step remain; duration unknown)."
+        "text": "Verify the first natural wake and substantive owner action (original chair watcher expected about21:37Z, not a result promise; original Monitor retains coverage acceptance. A started turn or a freshly written holder report alone is insufficient; duration unknown)."
       },
       {
         "complete": true,
@@ -278,15 +286,15 @@
       },
       {
         "complete": false,
-        "text": "Measure remaining desktop Options timing and safe held controls (waiting since 16 October 14:30Z; original Chrome absent at 10:30Z and prior instrumentation refusal unresolved. Original Hands browser allocation/disposition is the trigger; supported probe first, est. 10 min after recovery)."
+        "text": "Measure remaining desktop Options timing and safe held controls (waiting since16October14:30Z; shared Chrome route exercised by CS21:05Z–21:08Z, but Website has no assigned actor slot or qualified instrumentation result. Chair21:02Z removed the swap-only Chrome hold; free memory at least25%, load below8 and one assigned actor remain. Original Hands allocation then supported probe; est.10min after own START)."
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after own qualified allocation (waiting since 16 October 20:16Z; source 173/47/25, Website fifth. Root measured 12.52 GiB at 19:18Z, below the 14 GiB floor; no Website grant. This does not grant a browser/native slot. Cleanup decisions stay with existing owners; est. 13 min after actual Website START)."
+        "text": "Complete the queued iPhone check after own qualified allocation (waiting since16October20:16Z; source173/47/25, Website retains original queue place5. The native14GiB requirement is separate from the amended Chrome rule; no Website grant. Original Hands qualification and assignment remain required; est.13min after actual Website START)."
       },
       {
         "complete": false,
-        "text": "Complete tracking-link authenticated acceptance (requires fresh original Hands slot, admitted TEST identities and exact authenticated tenant/store/actor/read scope. P694 retention and broad notice do not block already-authorized read-only Settings or non-writing observations; writing actions retain separate scoped authority; duration unknown)."
+        "text": "Complete tracking-link authenticated acceptance (shared TEST owner workspace and Settings opened21:05:38Z–21:08:49Z; Shopify visibly Not connected, no writes. This does not establish C06 shopper A/B identities, draft mount authority or Website allocation. Original consumers reconcile the existing server-context contract; scope and action acceptance remain. P694 retention is not a blanket read-only hold; duration unknown)."
       },
       {
         "complete": false,
@@ -825,7 +833,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: current report update about 19:26Z (5 min planned; Pages build and hosted-byte propagation may move it). Overall draft completion remains unknown. Original owners retain P2387 coverage repair, P2346 named correction/acceptance/install and Website allocation/access/acceptance."
+    "landing": "Lands: current report update about21:24Z (5min planned; Pages build and network readback may move it). Overall draft completion remains unknown. Next original result is natural wake-to-action proof, plus Website’s own browser/native allocation and remaining connected acceptance."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
