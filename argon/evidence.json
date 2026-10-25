@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-25T21:18:45.165837+00:00",
+  "snapshot": "2026-10-25T21:44:45.472728+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Installed in unpublished draft · 36 scoped render checks passed",
+      "status": "Unpublished draft ·36 functional passes ·3 genuine200% observations captured",
       "title": "Directions are not a promise.",
       "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
-      "resultTitle": "Source and scoped rendering verified; final acceptance open",
-      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, independent review, merge and exact installation are verified. The original header repair passed C1–C4, and corrected Stores rendering passed 36 checks at 380/430/1280 with 91 artifact hashes verified. Genuine 200% resizing remains unverified at all three widths. Shared TEST Settings access is verified, with Shopify not connected; shopper A/B, draft mount authority and connected acceptance remain unproved. Website has no own browser/native allocation. Genuine 200%, timing, native and the original final named-fix ratings remain open. These original-owner repairs are separate from Argon’s advisory contribution.",
+      "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
+      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused; native and connected acceptance remain open. Shared TEST access is not shopper A/B or draft mount authority. These original-owner results are separate from Argon’s advice.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -205,21 +205,31 @@
         {
           "title": "Scoped Stores rendering verified",
           "date": "25 October 2026, 10:51:52 UTC · original corrected capture",
-          "text": "S1–S11 and S13 passed at 380/430/1280: 36 scoped checks, 91 artifact hashes verified on unpublished theme 166627606744. S12 genuine 200% resizing remains UNVERIFIED at all three widths; browser font preference is not zoom proof. Source 173/47/25 is unchanged. No native, timing or final-rating credit; capture is spent, no replay."
+          "text": "S1–S11 and S13 passed at 380/430/1280: 36 scoped checks, 91 artifact hashes verified on unpublished theme 166627606744. S12 genuine200% was UNVERIFIED in this historical capture; browser font preference was not zoom proof. A later actual Chrome zoom capture is recorded below. Source 173/47/25 is unchanged. No native, timing or final-rating credit; capture is spent, no replay."
         },
         {
           "title": "Continuation repair installed; natural outcome still open",
           "date": "25 October2026 · Mac21:06UTC / holder report21:12:40UTC",
-          "text": "The original reader accepted the combined continuation and holder-report repair. Installed Mac bytes match; chair separately reports the same box version installed21:14UTC. The missing holder report has returned. First real wake-to-action and full coverage acceptance remain unverified. This supporting infrastructure adds no storefront or rating credit."
+          "text": "The original reader accepted the combined continuation and holder-report repair. Installed Mac bytes match; chair reports the same box version installed21:14UTC. The missing holder report returned. Later, the real21:21UTC wake queued without a start because the control socket was absent after restart; the21:37 watcher confirmed no bound start. The original diagnosis lane owns recovery. No permanent runtime reliability or storefront-rating credit."
         },
         {
           "title": "Shared TEST access read, no connected acceptance",
           "date": "25 October2026 ·21:05:38–21:08:49UTC",
-          "text": "Original CS opened shared TEST Settings; Shopify displayed Not connected. No writes occurred. This does not establish shopper A/B identities, draft mount authority or Website’s own slot. Assistant remains off and unmounted. The amended Chrome rule requires an assigned actor; native qualification remains separate."
+          "text": "Original CS opened shared TEST Settings; Shopify displayed Not connected. No writes occurred. This does not establish shopper A/B identities, draft mount authority or Website native acceptance. Its later browser turn is recorded separately. Assistant remains off and unmounted. The amended Chrome rule requires an assigned actor; native qualification remains separate."
+        },
+        {
+          "title": "Genuine200% Stores zoom observed",
+          "date": "25 October2026 ·21:29:49–21:37:43UTC; source binding21:41:33UTC",
+          "text": "Actual Chrome200% page zoom at base380/430/1280 produced190/215/640 CSS widths. No horizontal overflow; message and disclosure reachable.40/40DOM version URLs match the prior source capture; not a fresh byte-response census. Original36 checks retained without replay. Zoom restored100% and browser grant released. Original final reader pending; no native, timing or score credit."
+        },
+        {
+          "title": "Timing capability refused; native allocation still separate",
+          "date": "25 October2026 ·during the completed Website browser turn",
+          "text": "The supported timing probe was refused even on a documented fresh tab while Browser Use resolved a paused document response. No formal or held-cancel samples. Native queue is P212, Home4852, then Website, with10GiB below the current12GiB floor and no own native grant. Original Hands retains recovery and allocation."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-25T21:18:45.165837+00:00"
+      "sourceAsOf": "2026-10-25T21:44:45.472728+00:00"
     },
     "companion": {
       "number": "04",
@@ -338,5 +348,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website current dependency evidence updated; other products retain their dated source snapshots."
+  "snapshotScope": "Website/Stores zoom and current dependency evidence updated; other products retain their dated source snapshots."
 }

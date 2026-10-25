@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Mac followup.py matches accepted0a2d7b98, independently hashed at21:17Z. Chair reports the same box port installed at21:14Z after remote proof; that box state is chair-reported. The holder companion was written at21:12:40Z. Old rejected-source and launch-conflict states are historical. No Website capture or final-rating call is running; no permanent reliability claim is made.",
+  "workerState": "P2346/P2387 remains accepted and installed, with the holder report restored. The actual21:21Z Studio wake queued but did not start because the expected control socket was absent after restart. The original diagnosis was placed21:31Z; its21:37Z watcher ended without a bound start. Runtime reliability is unverified. Website’s21:29:49Z–21:37:43Z browser turn is complete, released and restored to100% zoom; no capture or final-rating call is running.",
   "journey": [
     {
       "stage": "Build",
@@ -12,7 +12,7 @@
     {
       "stage": "Tests",
       "state": "Unknown",
-      "evidence": "Header required CI and hosted installation/preservation checks passed. Big Bag’s complete required tests passed before merge; exact installed bytes and preservation checks also passed. Native, 200% text, connected and timing proof remain open."
+      "evidence": "Header required CI and hosted installation/preservation checks passed. Big Bag’s complete required tests passed before merge; exact installed bytes and preservation checks also passed. Genuine200% Stores observation is captured and awaits original-reader acceptance; native, connected and timing proof remain open."
     },
     {
       "stage": "Review",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The combined correction was installed on the Mac at21:06Z; the holder companion appeared at21:12:40Z. Chair reports box installation21:14Z. CS verified shared TEST access between21:05:38Z and21:08:49Z without writes. Last rendered Website advance remains10:51:52Z:36 Stores passes and91 verified artifact hashes.",
+  "lastActualProgress": "At21:37:43Z the Website browser turn completed genuine200% observations at three widths. The21:41:33Z binding receipt matches40/40 DOM version URLs to the earlier exact-source capture. The original36 functional passes remain retained without replay. No native, timing, final-rating or whole-goal credit is added.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -124,7 +124,7 @@
     [
       "10. Completed Shopify draft and handover",
       "Approved repairs installed — bounded desktop checks passed",
-      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in reviewed and merged #4818, installed and preservation-verified at 06:05 UTC on 24 October. Pin #4820 is also reviewed, merged, installed and preservation-verified at 06:08 UTC. Changed-source arrival C1/C3/C4 passed; C2 failed on a 2-pixel pin-host shift. The original pin writer traced the recorded movement to header CSS and made no edit. The original header writer’s #4863 repair passed 153 remote tests and 29 mutation checks, both original code reviews and all hosted gates, then merged at 18:56Z. Its exact stylesheet was installed and fully preserved at 19:28Z; the changed-source C1–C4 capture passed on25 October . Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; the chair’s 19:33 ruling includes its rendered acceptance in the same original final named-fix checks. The corrected25 October  capture passes36 checks across 380/430/1280; genuine 200% remains unverified.",
+      "The earlier bounded desktop check is retained: BIG BAG fits at normal 380px and 1280px, Plus opens product options, and the settled bag fits at 188px. At22:16Z, two owned-order Back journeys returned without a blank account page; both retained bag items had enabled 44 × 44px plus and quantity controls. Cart contents were unchanged. Header #4792 was installed and byte-verified at 06:40Z on 23 October; full preservation passed and source adopted at 06:43Z. Settled 380/1280 renders and held-plus feedback passed bounded checks. First-arrival follow-up #4799 is merged and installed; the source-bound capture passed alignment and visibility but found cold-font horizontal movement, now repaired in reviewed and merged #4818, installed and preservation-verified at 06:05 UTC on 24 October. Pin #4820 is also reviewed, merged, installed and preservation-verified at 06:08 UTC. Changed-source arrival C1/C3/C4 passed; C2 failed on a 2-pixel pin-host shift. The original pin writer traced the recorded movement to header CSS and made no edit. The original header writer’s #4863 repair passed 153 remote tests and 29 mutation checks, both original code reviews and all hosted gates, then merged at 18:56Z. Its exact stylesheet was installed and fully preserved at 19:28Z; the changed-source C1–C4 capture passed on25 October . Stores enquiry #4814 is also merged and installed with exact two-asset readback and full preservation; the chair’s 19:33 ruling includes its rendered acceptance in the same original final named-fix checks. The corrected25 October capture passes36 checks across380/430/1280. Genuine200% Chrome zoom was separately captured21:29:49Z–21:37:43Z at all three widths without horizontal overflow;40/40version URLs match prior bindings. Original-reader acceptance, native, timing and connected proof remain.",
       "Finish remaining named findings, original releases and connected journeys, then native, timing and original final-reader evidence before handover."
     ],
     [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The former named-fix, call-conflict, installation and missing-holder-file waits are closed. End-to-end automatic continuation and full coverage remain unverified. Website still has no own browser/native slot. Chrome no longer has a swap-only hold: free memory at least25%, load below8 and one assigned actor apply. Native retains its separate14GiB requirement. Shared TEST access does not prove shopper identities, draft mounting or connected acceptance.",
-  "current": "The combined P2346/P2387 correction is accepted by the original reader and installed on the Mac. The missing holder report has appeared naturally, closing that producer wait. A real wake leading to useful owner work is still unverified. Shared TEST Settings can be opened; its Shopify integration is not connected.",
-  "next": "Original chair and Monitor consume the next natural wake and verify the intended owner takes its substantive next step; the existing watcher is expected around21:37Z. Original CS consumers reconcile the shared TEST workspace with their existing connected-acceptance contract. Hands assigns Website its own eligible browser/native turn; then the original acceptance owner completes the admitted checks.",
-  "updated": "At21:17Z, the original acceptance report, installed Mac hash, holder companion and CS shared-TEST receipt were independently checked. Previous publication7c304b0 is complete: matching Pages build and all five exact hosted files verified19:30:54Z. No Website allocation, shopper A/B acceptance, native pass or final score is inferred.",
+  "remaining": "The browser grant completed and was released; the old wait for that zoom capture is closed. Timing instrumentation refused even on a documented fresh tab while Browser Use was resolving a paused document response, so no formal timing or held-cancel samples were obtained. Native queue is P212, Home4852, then Website; Hands reports10GiB against the current12GiB floor, with no Website native grant. C06 shopper identities and draft mount authority remain separate from shared TEST access.",
+  "current": "Genuine200% Chrome page zoom is captured at all three base widths:380/430/1280 became190/215/640 CSS pixels. No horizontal overflow was observed, and the message preview and disclosure remained reachable. All40 observed version URLs match the prior source binding. This completes the zoom observation; the original final reader has not accepted it yet.",
+  "next": "Include the zoom evidence in the existing original final named-fix packet. Original Hands resolves the supported timing-instrumentation refusal and assigns a qualified native turn; original CS/chair resolves shopper A/B and draft mount scope. The original continuation writer diagnoses the missing start route, then chair and Monitor verify a real queued wake reaches substantive owner work.",
+  "updated": "At21:43Z, the genuine200% binding and browser execution receipts were independently read and hashed. The prior public commit756e336 remains fully verified at21:21:06Z. Timing refusal, released browser custody and unchanged source/acceptance limits are recorded; this is not a fresh response-byte census or an original-reader verdict.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original reader accepted combined P2346/P2387 source0a2d7b98. Mac installation at21:06Z is independently hash-verified; chair reports the same box source installed21:14Z after remote proof. Old rejection, call-conflict and installation waits are closed.",
-    "The holder companion report appeared at21:12:40Z, closing the missing-producer-file wait. A first real wake and substantive owner action remain unverified; original chair and Monitor retain acceptance. The existing watcher is expected around21:37Z, not a guaranteed outcome.",
-    "CS opened the shared TEST owner workspace and Settings at21:05:38Z–21:08:49Z. Shopify showed Not connected; no writes occurred. This is access evidence only: C06 shopper A/B, draft mount authority, connected actions and Website’s own slot remain separate. The assistant stays off and unmounted.",
-    "Chair removed the swap-only Chrome hold at21:02Z. Free memory at least25%, load below8 and one assigned actor remain; People is next and Website keeps its original queue. Native’s14GiB requirement is separate. No Website browser or native grant is claimed.",
-    "Prior publication7c304b0 is fully verified. Stores remains36 scoped passes,3 genuine200% checks unverified and0 failures, with91 verified hashes. Acceptance counts stay6/11 delivery,1/3 milestones,0/7 native and0/3 final ratings; Shopify remains unpublished. Repairs and access receipts do not themselves close those gates."
+    "Genuine200% Chrome zoom is captured at380/430/1280 base widths, giving190/215/640 CSS pixels. There was no horizontal overflow; message preview and disclosure were reachable. The browser turn ran21:29:49Z–21:37:43Z, then restored100% zoom and released custody.",
+    "All40 observed DOM version URLs match the earlier source binding. The original36 functional passes remain retained; the three zoom observations are new evidence awaiting the same original final reader. No fresh response-byte census, native proof,9.5 score or acceptance-gate completion is claimed.",
+    "The supported timing probe was refused on both the existing and documented fresh tab while Browser Use resolved a paused document response. Formal timing and held-cancel samples remain zero. Original Hands owns capability recovery; the old zoom-capture allocation wait is closed.",
+    "The accepted and installed continuation repair remains valid, but the real21:21Z Studio wake queued without starting because the control socket was absent after restart. Original diagnosis was placed21:31Z; the21:37Z watcher ended with no bound start. Permanent runtime reliability remains unverified; no artificial wake was created.",
+    "Native queue is P212, Home4852, then Website, with10GiB below the current12GiB floor and no Website native grant. C06 shared TEST access does not prove shopper A/B or draft mount authority. Counts remain6/11 delivery,1/3 milestones,0/7 native and0/3 final ratings; Shopify stays unpublished and the assistant off."
   ],
   "openDeliveryGates": [
     {
@@ -224,13 +224,13 @@
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Required genuine 200%, native, timing and connected evidence is incomplete. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
+      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Genuine200% observation is complete at three widths and awaits these original readers; native, timing and connected evidence remain incomplete. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
       "next": "Complete each reader’s named evidence, then return the same installed source to those original readers once. Passing requires average 9.5 or higher and no measure below 9; code approvals do not substitute."
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4 and 36 Stores checks pass. Genuine 200%, native iPhone, timing and connected journeys remain. Website has no own qualified grant. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; timing wait since 16 October 14:30Z. Original wait ages are retained. Website retains queue place 5.",
-      "next": "Hands assigns Website an eligible Chrome/browser actor turn under the amended resource rule; supported instrumentation probe first, then genuine 200% and timing. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
+      "blocker": "Header C1–C4 and36 Stores checks pass. Genuine200% observation is now captured at three widths, with original-reader acceptance pending. Native iPhone, timing and connected journeys remain. The browser turn is complete; no Website native grant exists. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; timing wait since 16 October 14:30Z. Original wait ages are retained. The current native queue is P212, Home4852, then Website.",
+      "next": "Hands resolves the precise timing-instrumentation refusal through its supported route. Keep the completed zoom capture and return it in the original final named-fix packet; do not recapture it. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -241,8 +241,16 @@
   "timedPlan": {
     "steps": [
       {
+        "complete": true,
+        "text": "Bind actual200% captures to the installed draft (receipt saved21:41:33Z;40/40version URLs match prior exact-source bindings. This is version lineage, not a fresh response-byte census)."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify accepted continuation and scoped TEST access (started 21:18Z, est.5min; one existing public update, matching build and exact hosted files)."
+        "text": "Publish and verify the genuine200% result and actual continuation route failure (started21:44Z, est.5min; original presenter, same public site, matching build and all five hosted files)."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify accepted continuation and scoped TEST access (21:18Z–21:21Z, took2.4min; one push756e336, matching Pages build21:19:38Z and all five exact hosted files verified21:21:06Z)."
       },
       {
         "complete": true,
@@ -270,7 +278,7 @@
       },
       {
         "complete": false,
-        "text": "Verify the first natural wake and substantive owner action (original chair watcher expected about21:37Z, not a result promise; original Monitor retains coverage acceptance. A started turn or a freshly written holder report alone is insufficient; duration unknown)."
+        "text": "Restore the original automatic start route and verify a natural queued action (real21:21Z wake queued but failed closed at the absent control socket; original writer107152a5 diagnosis placed21:31Z. The21:37Z watcher ended without a bound start. Installation and holder feed remain verified; original chair decides repair; est.15min for disposition after report)."
       },
       {
         "complete": true,
@@ -286,19 +294,19 @@
       },
       {
         "complete": false,
-        "text": "Measure remaining desktop Options timing and safe held controls (waiting since16October14:30Z; shared Chrome route exercised by CS21:05Z–21:08Z, but Website has no assigned actor slot or qualified instrumentation result. Chair21:02Z removed the swap-only Chrome hold; free memory at least25%, load below8 and one assigned actor remain. Original Hands allocation then supported probe; est.10min after own START)."
+        "text": "Measure remaining desktop Options timing and safe held controls (own browser21:29Z–21:37Z completed; supported instrumentation refused on both existing and fresh tab. Original Hands resolves this precise capability or native route; historical wait retained; est.10min after qualified START)."
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after own qualified allocation (waiting since16October20:16Z; source173/47/25, Website retains original queue place5. The native14GiB requirement is separate from the amended Chrome rule; no Website grant. Original Hands qualification and assignment remain required; est.13min after actual Website START)."
+        "text": "Complete the queued iPhone check after own qualified allocation (waiting since16October20:16Z; source173/47/25; current queueP212→Home4852→Website. Disk10GiB below current12GiB native floor at Hands21:28Z; no Website grant; est.13min after qualified START)."
       },
       {
         "complete": false,
         "text": "Complete tracking-link authenticated acceptance (shared TEST owner workspace and Settings opened21:05:38Z–21:08:49Z; Shopify visibly Not connected, no writes. This does not establish C06 shopper A/B identities, draft mount authority or Website allocation. Original consumers reconcile the existing server-context contract; scope and action acceptance remain. P694 retention is not a blanket read-only hold; duration unknown)."
       },
       {
-        "complete": false,
-        "text": "Prove actual 200% resizing through the qualified original browser/native path (S12 default-font probe is exploratory; supported resizing may include full-page zoom, no new text-only requirement. Duration depends on qualified access)."
+        "complete": true,
+        "text": "Capture genuine 200% browser zoom at380/430/1280 (21:29Z–21:37Z, took8min; effective190/215/640, no horizontal overflow, message and disclosure reachable; restored100%). Source lineage40/40version URLs recorded in21:41:33Z binding; original final-reader acceptance remains pending."
       },
       {
         "complete": false,
@@ -314,7 +322,7 @@
       },
       {
         "complete": true,
-        "text": "Complete the first corrected Stores rendered check (10:47Z–10:58Z, took 11 min including cache-permission correction, execution and evidence read;36 PASS across 380/430/1280, 91 hashes verified; actual200% remains unverified)."
+        "text": "Complete the first corrected Stores rendered check (10:47Z–10:58Z, took 11 min including cache-permission correction, execution and evidence read;36 PASS across 380/430/1280, 91 hashes verified; actual200% was unverified in this historical capture and is now captured separately)."
       },
       {
         "complete": true,
@@ -833,7 +841,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: current report update about21:24Z (5min planned; Pages build and network readback may move it). Overall draft completion remains unknown. Next original result is natural wake-to-action proof, plus Website’s own browser/native allocation and remaining connected acceptance."
+    "landing": "Lands: about21:49Z for the current report update (5min planned; hosted build/readback may move it). Whole draft completion remains unknown until original timing/native/C06 prerequisites and final named-fix ratings complete; no live Shopify publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
