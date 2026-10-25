@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "P765’s original writer is complete on local source 508ba97b; publication, installation and Monitor acceptance are unverified. Root reports P2346 r2 alive at 12:46Z with no terminal report. Root has delivered the P765 publisher continuation and Monitor notice once; delivery is separate from acknowledgement or execution. No Website capture or final-rating call is running.",
+  "workerState": "P765 is an open Draft PR, not an unpublished local change. Its hosted safeguards pass; admission stops only because it is Draft, and the test gate reports a Draft-skipped suite rather than an assertion failure. Root observed separate P2346 r2 alive at 12:54Z with no report. Website has no running capture or final-rating call.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At12:45:31Z, Root verified the original P765 terminal report: 599 changed lines across eight files, local source 508ba97b. This is returned repair code, not installed coverage or accepted automatic continuation. Last rendered Website advance remains 10:51:52Z: 36 Stores passes and 91 verified artifact hashes.",
+  "lastActualProgress": "P765’s original line publisher created Draft #4908 at 12:20:08Z; live GitHub reconciliation at 12:55:23Z corrected the later stale local-only report. Hosted safeguard results are verified, but release and installed coverage are not. Last rendered Website advance remains 10:51:52Z: 36 Stores passes and 91 verified artifact hashes.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "No Website browser/native grant. Hands reported about 10 GiB free disk at 12:34Z after its own cleanup, still below the 14 GiB native requirement. Cleanup decisions remain with their existing owners. External retention details remain unknown; they do not blanket-block already-authorized read-only or native checks, which retain their own access, scope and allocation requirements.",
-  "current": "The original owner-coverage repair P765 has returned code. Its original publisher still owes execution-stage safeguards, Draft publication, review, installation and Monitor acceptance. The separate wait-wake and parent-relay repair P2346 r2 is still running. The interim Mac return is verified; permanent follow-through is not.",
-  "next": "The original P765 publisher completes the retained execution-stage proof and ordinary Draft/review/install route; Monitor then verifies installed coverage. Root consumes the original P2346 r2 result when it returns and verifies actual continuation. Hands retains Website’s browser/native allocation; original owners complete genuine 200%, timing, iPhone and connected checks only when their own access and qualified slot are available.",
-  "updated": "Original continuation receipt reconciled 25 October 12:47Z; P765 terminal source/report verified by Root at 12:45:31Z, separate P2346 r2 observed alive at 12:46Z. Latest Hands resource report is 12:34Z, about 10 GiB and no Website grant. Previous task-view publication db3c71f completed 12:37:08Z with matching build and five exact hosted files.",
+  "current": "Live GitHub evidence confirms P765 is already published as Draft #4908 on exact source 508ba97b. Both hosted safeguard shards, guards, gates and PR-body checks pass. The older local-only report is superseded. Chair’s holder/Ready step, protected review/merge/install and Monitor acceptance remain; permanent continuation is not yet verified.",
+  "next": "Original chair/Hands reconciles the exact-head holder and marks existing Draft #4908 Ready through its retained release route. Ordinary tests, protected review/merge/install and Monitor acceptance follow. No second push, PR or rerun of the Draft-only checks is needed. Root continues the separate P2346 r2 result route and the existing Website browser/native allocation.",
+  "updated": "P765’s exact Draft head and hosted-check causes were read on GitHub by Root at 12:55:23Z and adopted here at 12:56Z. Previous task-view commit 3c522ce was verified 12:50:44Z with matching Pages build and five exact hosted files. P2346 r2 was alive 12:54Z; latest Hands resource report remains 12:34Z, about 10 GiB with no Website grant.",
   "links": [
+    {
+      "title": "Existing P765 coverage repair Draft #4908",
+      "path": "https://github.com/EON-CRUX/3.09/pull/4908"
+    },
     {
       "title": "Header C1–C4 capture result",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6391934240"
@@ -172,10 +176,6 @@
     {
       "title": "Header arrival follow-up #4799",
       "path": "https://github.com/EON-CRUX/3.09/pull/4799"
-    },
-    {
-      "title": "Header repair #4792",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4792"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Original P765 coverage repair returned on local source 508ba97b: 599 changed lines across eight files. The original publisher retains execution-stage proof, one Draft, review and installation; Monitor still owes acceptance of installed coverage.",
-    "Separate P2346 r2 wait-wake and parent-relay repair is still running. The interim Mac return is verified. Successful automatic continuation and permanent reliability remain unproved; a delivered wake alone does not close its original waiting obligation.",
-    "The prior task-view publication completed at 12:37:08Z: matching Pages build and all five hosted files verified. Its plan line is complete. This projection does not claim its own new publication verified before the hosted readback.",
-    "The Argon exhibit now records the already-verified Stores evidence: implemented, independently reviewed, merged and installed, with 36 scoped rendered passes and 91 verified artifacts. Genuine 200% remains unverified at all three widths; native, connected and original final ratings remain open.",
-    "Gate 6 retains four established facts and unknown retention details. Delivery 6/11, milestones 1/3, native 0/7 and final ratings 0/3 are unchanged. Existing custodians supply available console metadata; no new privacy build/query or blanket read-only hold. Latest Hands report 12:34Z is about 10 GiB, below 14 GiB; no Website grant."
+    "Correction from live GitHub: P765 was already published by the original line publisher as Draft #4908 at 12:20:08Z, exact head 508ba97b. The original report’s local-only statement was a stale preparation snapshot; no new publication or duplicate PR is required.",
+    "Both hosted safeguard shards, guards, gates and PR-body checks passed. Admission passed 11 of 12 conditions and failed only the Draft condition. The test gate failed because Draft skipped the suite; it did not report a test assertion failure. Original holder/Ready, ordinary tests, protected review/merge/install and Monitor acceptance remain.",
+    "Separate P2346 r2 wait-wake and parent-relay repair was alive at 12:54Z without a terminal report. The Mac return remains an interim recovery. A delivered wake alone does not close the waiting obligation; automatic continuation and permanent reliability are unverified.",
+    "Previous task-view publication 3c522ce completed 12:50:44Z with matching build and five exact hosted files. Its checklist line is complete. Argon’s corrected Stores evidence remains 36 scoped passes and 91 verified artifacts; genuine 200% at three widths, native, connected and final ratings remain open.",
+    "Counts remain 6/11 delivery, 1/3 milestones, 0/7 native and 0/3 final ratings. Gate 6 retains four established facts and unknown retention. Hands 12:34Z reports about 10 GiB, below 14 GiB; Website still has no own grant. No new query, capture or product work is implied."
   ],
   "openDeliveryGates": [
     {
@@ -241,8 +241,8 @@
   "timedPlan": {
     "steps": [
       {
-        "complete": false,
-        "text": "Publish returned P765 evidence and reconcile the Argon Stores exhibit (started 12:47Z, est. 4 min; preserve prior publication completion, one push, matching build and five hosted files)."
+        "complete": true,
+        "text": "Publish returned P765 evidence and reconcile the Argon Stores exhibit (12:47Z–12:50Z, took 3.7 min; one push, matching Pages build and five exact hosted files verified; prior publication remains complete)."
       },
       {
         "complete": true,
@@ -250,7 +250,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original continuation repair release and acceptance (P765 local source 508ba97b returned 12:45Z; original publisher owes execution-stage safeguards, Draft/review/install, then Monitor coverage acceptance. Separate P2346 r2 alive 12:46Z, terminal report absent. Root retains each original result route; no new timer; completion time unknown)."
+        "text": "Complete original continuation repair release and acceptance (P765 already published as Draft #4908 at 12:20:08Z on 508ba97b; hosted safeguards pass, admission/test-suite stops are Draft-only. Original chair/Hands owns holder/Ready, then ordinary tests/review/merge/install and Monitor acceptance. Separate P2346 r2 alive 12:54Z, report absent. No second push/PR or Draft-check rerun; completion time unknown)."
       },
       {
         "complete": true,
@@ -813,7 +813,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: this changed-result task-view update about 12:52Z (4 min left; matching Pages build and hosted reads can move it). Draft completion remains unknown pending original allocation/access, acceptance and final named-fix results."
+    "landing": "Lands: truthful P765 status correction about 13:01Z (4 min left; matching Pages build and hosted reads can move it). Prior publication 3c522ce is complete. Draft completion remains unknown pending original allocation/access and acceptance results."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
