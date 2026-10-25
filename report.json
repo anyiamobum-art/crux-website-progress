@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Remote input integrity passed at 23:18:33 UTC: 120 of 120 checksum entries matched. The original chair-card delivery was verified at 23:15:52 UTC. Neither proves helper execution, rendered acceptance, native testing or a final rating.",
+  "lastActualProgress": "25 October, 01:24:29 UTC: original capture job completed with C1–C4 and the predecessor rule passing. Theme 166627606744 and its installed source were proved; this is desktop evidence only.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Input transfer is complete. Original C2 intake acknowledgement and helper proof remain unverified; capture needs its separate original Hands admission. Hands recovered disk space to 18.62/18.60 GiB, closing the disk shortage. Both 23:14/23:15 resource samples still had memory pressure 2, so native qualification failed. Website stays fifth with no grant.",
-  "current": "The installed header’s exact input package is now on the original remote box route: all 120 checksum entries match across 121 files. The transfer is complete, including recovery of a verified partial transfer without resending the 75 exact files. Source remains 173 files, 47 manifests and 25 installations in the unpublished draft.",
-  "next": "The original measurement custodian must acknowledge the existing intake, reproduce the current served form, rebind its helper and return remote proof. The existing chair route has a verified disposition request; delivery is not an acknowledgement or worker start. The iPhone checks separately need a qualified Hands allocation, then the same three original final named-fix checks need the required evidence.",
-  "updated": "2026-10-24T23:22:00.830757+00:00",
+  "remaining": "No Website native grant is recorded. The newer Bridge report at 03:50 UTC showed memory pressure 1 but only 12.6 GiB free disk, below the 14 GiB floor; its underlying sample timestamps remain unverified here. Website retains fifth place. Connected, timing and scoped acceptance evidence remains separate.",
+  "current": "The installed header passed its one changed-source desktop capture. All four checks passed, including the Stores-pin movement that previously failed. All 82 evidence-file checksums match the returned record.",
+  "next": "The original iPhone executor needs a qualified Hands allocation. Root is reconciling the remaining evidence and eligibility for the same three original final named-fix checks; the header input, helper and capture steps are complete.",
+  "updated": "2026-10-25T04:46:41.482039+00:00",
   "links": [
+    {
+      "title": "Header C1–C4 capture result",
+      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6391934240"
+    },
     {
       "title": "Header pin repair #4863",
       "path": "https://github.com/EON-CRUX/3.09/pull/4863"
@@ -172,10 +176,6 @@
     {
       "title": "Header repair #4792",
       "path": "https://github.com/EON-CRUX/3.09/pull/4792"
-    },
-    {
-      "title": "Title repair #4780",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4780"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,11 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The exact installed-source input package is staged on the original box route and all 120 checksum entries verify. Its source inventory remains 173/47/25; helper execution and capture remain unproved.",
-    "A transfer timeout was reconciled against actual remote files and processes. The 75 exact files were retained; only 45 missing files and one incomplete file were completed, with the partial preserved separately.",
-    "The same verified chair disposition card was updated at 23:19:52 with the completed input transfer; no second request. The original 19:30 intake wait continues until actual acknowledgement or placement; no duplicate writer or capture was started.",
-    "Hands recovered disk above its floor using its own spent worktrees. The fresh 23:14/23:15 pair still had memory pressure 2, so Website remains fifth without a grant. Owner apps and helpers remain untouched.",
-    "Two full review rounds are consumed; only the original three final named-fix checks remain. Delivery is 6/11, native checks 0/7 and final passes 0/3. Read-only TEST prerequisites remain separate from retention preparation, and Shopify stays unpublished."
+    "The original 1280-pixel desktop capture now passes all four header criteria. The Stores link and outer pin stay in their final position from the first sampled visible frame; the Fitting Desk retains its 44-pixel space.",
+    "Source identity is proved on unpublished draft 166627606744. All 82 returned file checksums match. The one capture is spent; no repeat or further Shopify installation is needed for this finding.",
+    "The original changed-source intake, helper and capture waits are closed. Native testing still needs its own qualified allocation; Root retains that original request and the final-reader eligibility check.",
+    "Two full review rounds remain consumed. Delivery stays 6/11, native checks 0/7 and final passes 0/3. No desktop evidence is counted as a phone check or rating; Shopify remains unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -229,8 +228,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. The single installed-source arrival capture found one 2-pixel pin shift; other header checks passed. Connected journeys, native/performance proof and final ratings remain open.",
-      "next": "Complete changed-source rendering, connected journey, native, timing and original final-reader evidence on the now-installed header source before draft handover."
+      "blocker": "Installed BIG BAG/options and settled bag passed bounded desktop checks. The original changed-source header capture now passes C1–C4, closing the earlier 2-pixel pin shift. Connected journeys, native/performance proof and final ratings remain open.",
+      "next": "Complete remaining connected journey, native, timing and original final-reader evidence on the installed source before draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -470,7 +469,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; same source 173/47/25, Website fifth. Hands recovered disk to 18.62/18.60 GiB, but 23:14/23:15 samples both pressure 2, NOT qualified; no grant. Est. 13 min after actual Website START)."
+        "text": "Complete the queued iPhone check after qualified allocation (waiting since 16 October 20:16Z; same 173/47/25 source, Website fifth. Newer Bridge at 03:50Z reports pressure 1 but disk 12.6 GiB below 14; no grant. Est. 13 min after actual Website START)."
       },
       {
         "complete": true,
@@ -545,8 +544,12 @@
         "text": "Install and preserve the two approved store enquiry assets in the unpublished draft (16:22Z–16:25Z, took 3 min; exact hosted bodies, all 693 other draft files, 550 live-theme files and settings/roles preserved)."
       },
       {
+        "complete": true,
+        "text": "Complete header and pin changed-source rendered acceptance (25 October 01:24Z execution; consumed 04:42Z–04:46Z, took 4 min; C1–C4 and original predecessor rule PASS, 82/82 evidence files exact)."
+      },
+      {
         "complete": false,
-        "text": "Complete Stores, header and pin rendered acceptance on installed source 173/47/25 (original intake wait since 24 October 19:30Z remains uncertain; complete offline source inputs are now ready for the original measurement custodian. Remote rebind and proof precede separately admitted capture; this offline step does not wait for the iPhone grant. Duration unknown)."
+        "text": "Complete remaining Stores enquiry rendered acceptance within its original final named follow-up (coverage ruling retained; original evidence and reviewer eligibility under Root reconciliation, duration unknown)."
       },
       {
         "complete": true,
@@ -741,11 +744,19 @@
         "text": "Reconcile and stage immutable inputs on the original box route (23:11Z–23:18Z, took 7 min; one transfer timeout reconciled, only 46-file remainder sent, all 120 checksums verified; no helper or capture execution)."
       },
       {
+        "complete": true,
+        "text": "Publish and verify remote input staging and the original chair-card delivery (23:19Z–23:24Z; first push23:20Z, newer resource facts corrected once; final matching build and all five hosted files verified)."
+      },
+      {
+        "complete": true,
+        "text": "Verify and adopt the returned original header capture (04:42Z–04:46Z, took 4 min; 82/82 hashes and C1–C4 pass, original source and rounds retained)."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify remote input staging and the original chair-card delivery (started 23:19Z, est. 6 min; first push23:20Z, newer Hands disk recovery requires one narrow correction before final verification)."
+        "text": "Publish and verify the resolved header finding on the existing task site (started 04:46Z, est. 4 min)."
       }
     ],
-    "landing": "Lands: task-site update about 23:25Z (about 3 min left; new resource facts arrived after the first push, requiring one narrow correction; Pages build/readback may move it). Original helper and native acceptance finish times remain unknown."
+    "landing": "Lands: about 04:50Z for the task-site update (4 min left; network/build latency could move it). Final handover time unknown pending original acceptance prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
