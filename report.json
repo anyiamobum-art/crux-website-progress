@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "P765 is an open Draft PR, not an unpublished local change. Its hosted safeguards pass; admission stops only because it is Draft, and the test gate reports a Draft-skipped suite rather than an assertion failure. Root observed separate P2346 r2 alive at 12:54Z with no report. Website has no running capture or final-rating call.",
+  "workerState": "P765/#4908 is merged, with installation not verified. P2346 Resume3 is terminal; candidate dbcc4502 differs from installed c254fe35. Its 22 focused passes are not installation or whole-group acceptance. Starting a turn is distinct from completing its next substantive action. The existing headless chair route remains available; Desktop credit exhaustion is not a global block. No Website capture or final-rating call is running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "P765’s original line publisher created Draft #4908 at 12:20:08Z; live GitHub reconciliation at 12:55:23Z corrected the later stale local-only report. Hosted safeguard results are verified, but release and installed coverage are not. Last rendered Website advance remains 10:51:52Z: 36 Stores passes and 91 verified artifact hashes.",
+  "lastActualProgress": "#4908 merged at 15:53:36Z on final source 221ba235, merge b8c97a60. P2346 Resume3 also returned its candidate and focused proof; its report gives an approximate 15:2x–16:0xZ work window, not an exact finish time. Last rendered Website advance remains 10:51:52Z: 36 Stores passes and 91 verified artifact hashes.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,13 +140,13 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "No Website browser/native grant. Hands reported about 10 GiB free disk at 12:34Z after its own cleanup, still below the 14 GiB native requirement. Cleanup decisions remain with their existing owners. External retention details remain unknown; they do not blanket-block already-authorized read-only or native checks, which retain their own access, scope and allocation requirements.",
-  "current": "Live GitHub evidence confirms P765 is already published as Draft #4908 on exact source 508ba97b. Both hosted safeguard shards, guards, gates and PR-body checks pass. The older local-only report is superseded. Chair’s holder/Ready step, protected review/merge/install and Monitor acceptance remain; permanent continuation is not yet verified.",
-  "next": "Original chair/Hands reconciles the exact-head holder and marks existing Draft #4908 Ready through its retained release route. Ordinary tests, protected review/merge/install and Monitor acceptance follow. No second push, PR or rerun of the Draft-only checks is needed. Root continues the separate P2346 r2 result route and the existing Website browser/native allocation.",
-  "updated": "P765’s exact Draft head and hosted-check causes were read on GitHub by Root at 12:55:23Z and adopted here at 12:56Z. Previous task-view commit 3c522ce was verified 12:50:44Z with matching Pages build and five exact hosted files. P2346 r2 was alive 12:54Z; latest Hands resource report remains 12:34Z, about 10 GiB with no Website grant.",
+  "remaining": "Coverage installation needs its original owner’s resolution of the task.py mismatch. P2346 needs chair acceptance, installation and a natural next-step result. Website still has no own browser/native grant; the retained Hands reading is about 10 GiB at 12:34Z, below the 14 GiB native requirement, not a fresh resource probe. Unknown external retention details do not blanket-block authorized read-only checks.",
+  "current": "Coverage repair #4908 is merged. Its original owners staged 11 matching files, but installation is held because task.py does not match the approved starting version. P2346 Resume3 has returned with 22 focused tests passing; its candidate is not installed. Both repairs still need installation and real continuation acceptance.",
+  "next": "Original Interface/Hands and chair resolve the task.py starting-version mismatch, install the merged coverage repair, then Monitor verifies coverage. Chair accepts and installs the returned P2346 candidate through its existing route; the next real wake must lead to the intended substantive action. Root retains these original returns and Website’s browser/native allocation. No new controller, repeated proof or duplicate product work is needed.",
+  "updated": "At 17:13Z, live GitHub confirms #4908 merged at 15:53:36Z; local hashes confirm the terminal P2346 candidate is not installed. Root’s original-owner handoff reports 11 staged files and the task.py mismatch. Previous task-view commit 4e62a7a was verified 12:58:34Z with matching build and five exact hosted files. No new native grant, rating or acceptance result is claimed.",
   "links": [
     {
-      "title": "Existing P765 coverage repair Draft #4908",
+      "title": "Merged P765 coverage repair #4908",
       "path": "https://github.com/EON-CRUX/3.09/pull/4908"
     },
     {
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Correction from live GitHub: P765 was already published by the original line publisher as Draft #4908 at 12:20:08Z, exact head 508ba97b. The original report’s local-only statement was a stale preparation snapshot; no new publication or duplicate PR is required.",
-    "Both hosted safeguard shards, guards, gates and PR-body checks passed. Admission passed 11 of 12 conditions and failed only the Draft condition. The test gate failed because Draft skipped the suite; it did not report a test assertion failure. Original holder/Ready, ordinary tests, protected review/merge/install and Monitor acceptance remain.",
-    "Separate P2346 r2 wait-wake and parent-relay repair was alive at 12:54Z without a terminal report. The Mac return remains an interim recovery. A delivered wake alone does not close the waiting obligation; automatic continuation and permanent reliability are unverified.",
-    "Previous task-view publication 3c522ce completed 12:50:44Z with matching build and five exact hosted files. Its checklist line is complete. Argon’s corrected Stores evidence remains 36 scoped passes and 91 verified artifacts; genuine 200% at three widths, native, connected and final ratings remain open.",
-    "Counts remain 6/11 delivery, 1/3 milestones, 0/7 native and 0/3 final ratings. Gate 6 retains four established facts and unknown retention. Hands 12:34Z reports about 10 GiB, below 14 GiB; Website still has no own grant. No new query, capture or product work is implied."
+    "P765/#4908 is merged at 15:53:36Z on final head 221ba235, merge b8c97a60. The former Draft-only stops are historical. Original Interface/Hands staged 11 matching files; installation is held on task.py’s approved-starting-version mismatch. Original chair disposition and Monitor’s installed-coverage acceptance remain due.",
+    "P2346 Resume3 returned candidate dbcc4502 with 22 focused tests passing. Installed followup.py remains c254fe35. Chair acceptance, installation and natural automatic continuation remain open; returned code and an execution-start receipt do not prove substantive follow-through.",
+    "The headless chair route remains available; Desktop credit exhaustion does not stop every route. Existing owners retain both repairs and the existing Monitor mechanism. No new timer or dispatcher was created, and permanent reliability is not claimed.",
+    "Previous task-view publication 4e62a7a completed 12:58:34Z with matching Pages build and five exact hosted files. Stores remains 36 scoped passes, 3 genuine 200% checks unverified and 0 failed checks; 91 artifact hashes are verified. No capture was replayed.",
+    "Counts remain 6/11 delivery, 1/3 milestones, 0/7 native and 0/3 final ratings. Shopify draft 166627606744 remains unpublished and the assistant remains off. Website’s own qualified allocation and connected/privacy acceptance are still required; there is no invented final completion time."
   ],
   "openDeliveryGates": [
     {
@@ -250,7 +250,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original continuation repair release and acceptance (P765 already published as Draft #4908 at 12:20:08Z on 508ba97b; hosted safeguards pass, admission/test-suite stops are Draft-only. Original chair/Hands owns holder/Ready, then ordinary tests/review/merge/install and Monitor acceptance. Separate P2346 r2 alive 12:54Z, report absent. No second push/PR or Draft-check rerun; completion time unknown)."
+        "text": "Install and accept merged owner-coverage repair (original #4908 merged 25 October 15:53:36Z; final head 221ba235, merge b8c97a60. Original Interface/Hands staged 11 matching files; task.py approved-starting-version mismatch awaits existing chair disposition. Then original install and Monitor coverage acceptance; duration unknown)."
+      },
+      {
+        "complete": false,
+        "text": "Accept and install returned wait-wake repair, then verify natural continuation (original P2346 Resume3 terminal, candidate dbcc4502 and 22 focused passes; installed c254fe35 unchanged. Chair acceptance/install and real next-step result remain. Execution start alone is not completion; duration unknown)."
       },
       {
         "complete": true,
@@ -813,7 +817,7 @@
         "text": "Consume the original natural cleanup result on its actual scheduler host (25 October 05:35Z adoption; scheduled 03:45Z run succeeded at 03:46:17Z, before the shopper-retention deployment; no repeated query or purge)."
       }
     ],
-    "landing": "Lands: truthful P765 status correction about 13:01Z (4 min left; matching Pages build and hosted reads can move it). Prior publication 3c522ce is complete. Draft completion remains unknown pending original allocation/access and acceptance results."
+    "landing": "Lands: current-stage task-view update about 17:18Z (4 min left; matching Pages build and hosted reads can move it). Overall draft completion remains unknown pending original installation, allocation/access, acceptance and final named-fix results."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
