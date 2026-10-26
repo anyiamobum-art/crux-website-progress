@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "CRUX one-file installation completed18:03:46Z; preservation and source adoption passed18:08Z. TEST batch1 has25 exact source bodies and all481 original files/settings preserved; batch2 is running. Original iPhone repair627d6160 is pushed; its existing publisher owns PR creation and review.",
+  "workerState": "TEST installation completed18:16:51Z in seven batches:119 raw bodies exactly match source; the account template matches after removing only the known363-byte Shopify-generated prefix. All481 original files/settings are preserved. Original Hands reports #4956 Ready18:19:48Z; protected review and CI are pending. TEST binding lane was placed18:18:56Z; execution START is not yet verified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October18:08:02Z: adopted the fully preserved CRUX notice installation. Account-page #4948 merged17:55:27Z; TEST batch1 verified18:05:59Z. The release-policy discrepancy was resolved from actual protected configuration without changing approvals or rules.",
+  "lastActualProgress": "26 October18:16:51Z: completed the120-file TEST installation. Root verified all14 install/readback receipt hashes and the declared account-template normalization. Original Hands reports the iPhone repair Ready18:19:48Z. Existing Bridge acknowledged the completed installation; original connected acceptance follows.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -99,9 +99,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Source merged; CRUX notice installed; TEST installation running",
-      "Account-page #4948 merged17:55:27Z after original review and green hosted checks. Notice-copy #4951 installed18:03:46Z with exact bytes and full preservation. Activation safeguard #4949 merged.",
-      "Finish original TEST readback, approved privacy inputs, retention and authenticated A/B acceptance. Assistant stays OFF."
+      "Source merged; CRUX notice and TEST installations verified",
+      "Account-page #4948 merged17:55:27Z and all120 TEST files verified18:16:51Z;119 raw matches and one exact-known-prefix normalization. Original481 files/settings preserved. Notice-copy #4951 installed with exact bytes and preservation. Activation safeguard #4949 merged.",
+      "Complete approved privacy inputs, retention and authenticated A/B acceptance with the original owners. TEST binding preparation placed; START not yet verified. Assistant stays OFF."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The release-policy discrepancy is resolved. Remaining blockers are native Safari accessibility proof, approved privacy inputs and authenticated TEST shopper/consent journeys. Final design ratings remain below the target or unqualified.",
-  "current": "Notice-copy repair installed and byte-verified in the unpublished CRUX draft; full preservation passed. Account-page repair reviewed and merged; its original coordinator has verified TEST installation batch1 and is running batch2.",
-  "next": "Finish the original TEST installation and readback. Consume the original iPhone repair publication and protected checks, then complete native and connected acceptance before the three original final named-fix reviews.",
-  "updated": "Source snapshot 2026-10-26T18:09:03.243289+00:00. Prior public e170ac75 matched its Pages build and all five files17:50:41Z. This new installation/merge snapshot is being published. Acceptance6/11, native0/7 and final ratings0/3 remain unchanged.",
+  "remaining": "The release-policy discrepancy and both installation waits are resolved. Native Safari accessibility proof, approved privacy inputs and authenticated TEST shopper/consent journeys remain. Final ratings are below target or unqualified.",
+  "current": "Account-page repair merged and all120 files installed and verified in the unpublished TEST theme. CRUX notice-copy installation and preservation are complete. The original iPhone repair #4956 is Ready for protected review; connected TEST binding preparation is placed with its original writer.",
+  "next": "Consume the original iPhone repair review and TEST binding result. Complete the original native, connected and remaining performance checks, then return the same installed source to the three original final named-fix readers.",
+  "updated": "Source snapshot 2026-10-26T18:22:59.065913+00:00. Public98d282c matched its Pages build and all five files18:16:01Z. This completion snapshot is being published. Acceptance6/11, native0/7 and final ratings0/3 remain unchanged.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
+    "Account-page #4948 is reviewed and merged. Its120 files finished installing into the unpublished TEST theme18:16:51Z; all481 original files/settings are preserved.119 bodies match raw source, and one account template matches after the exact known Shopify prefix is removed.",
     "Notice-copy #4951 is installed in the unpublished CRUX draft. Exact hosted bytes and full preservation passed:694 other draft files,550 live-theme files, settings and roles are unchanged. Assistant remains OFF.",
-    "Account-page #4948 passed its original review and all five hosted test shards, then merged17:55:27Z. All120 merged payloads match; the TEST installation has verified batch1 and is continuing through its original coordinator.",
-    "The release-policy discrepancy is resolved using actual protected configuration and served code. This removed an avoidable installation wait without changing a rule, approval or review round.",
-    "The original iPhone Safari accessibility repair is pushed as627d6160. Its publisher owns PR/review; the previous guest run failed before all seven phone checks, so native remains0/7.",
-    "The6/11 headline counts finished acceptance gates. Completed repairs and installations above are real progress, but final reader passes remain0/3. Shopify stays unpublished."
+    "The release-policy discrepancy is resolved from actual protected configuration and served code. This removed an avoidable installation wait without changing a rule, approval or review round.",
+    "Original Hands reports iPhone accessibility repair #4956 Ready18:19:48Z. Its protected review and CI remain pending. The previous guest run failed before all seven phone checks, so native remains0/7.",
+    "Connected TEST binding preparation was placed once with its original writer18:18:56Z; START and qualified bindings are not yet verified. Final acceptance remains6/11 and reader passes0/3. Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Source repairs are merged. Notice-copy is installed and preserved in CRUX; account-page TEST installation is running. Approved notice inputs, nightly retention and authenticated TEST A/B shopper bindings still need acceptance. Owner: Original C06 writers, Website installer and CS. Wait: External facts retain12 October04:12 UTC; TEST installation began after target qualification18:02 UTC.",
-      "next": "Finish original installation/readback, then connected privacy acceptance with the approved inputs and shopper bindings. Assistant stays OFF."
+      "blocker": "Source repairs are merged. Notice-copy is installed and preserved in CRUX; account-page TEST installation is complete and source-verified. Approved notice inputs, nightly retention and authenticated TEST A/B shopper bindings still need acceptance. Owner: Original C06 writers, Website installer and CS. Wait: External facts retain12 October04:12 UTC; TEST installation began after target qualification18:02 UTC.",
+      "next": "Consume the original TEST binding writer result, then complete connected privacy acceptance with approved inputs and shopper bindings. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Desktop header, Stores, genuine200% and scoped timing checks passed. The explicit guest iPhone run failed before any row because Safari accessibility was unavailable; native remains0/7. Owner: Original Website/P212 writer, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract wait remains16 October14:30 UTC.",
-      "next": "The bounded accessibility repair is pushed as627d6160. Its original publisher completes PR/review; protected merge and chair authorization precede another run. Consume that result before final handover."
+      "next": "The bounded accessibility repair is #4956 on627d6160; original Hands reports Ready18:19:48Z. Protected review, CI, merge and the original guest-run authorization precede another run. Consume that result before final handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -265,8 +265,8 @@
         "text": "Qualify the TEST installation (finished18:02Z). All120 merged files match; original481 files and settings bound. Fourteen offline checks passed."
       },
       {
-        "complete": false,
-        "text": "Finish original TEST installation and exact readback (started18:02Z, est.20min). Batch1 verified18:05:59Z; batch2 running. Seven original batches, no activation or live publication."
+        "complete": true,
+        "text": "Finish original TEST installation and source readback (18:02Z–18:17Z, took15min). All120 files verified in seven batches;119 raw matches and one exact-known-prefix normalization. All481 original files/settings preserved; no activation or live publication."
       },
       {
         "complete": true,
@@ -274,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original Safari accessibility repair and phone run (repair pushed by18:07Z; original next check18:20Z). Existing publisher owns PR/review; protected merge and chair authorization precede another run."
+        "text": "Complete original Safari accessibility repair and phone run (#4956 Ready18:19Z per original Hands; original next check18:35Z). Protected review and CI are pending; merge and the original guest-run authorization precede another run."
       },
       {
         "complete": false,
@@ -293,11 +293,11 @@
         "text": "Complete unpublished Shopify draft handover (delivery6/11; milestones1/3). Close only with all required acceptance evidence; do not publish live."
       },
       {
-        "complete": false,
-        "text": "Publish and byte-verify installation and merge update (started18:09Z, est.3min). Prior e170ac75 matches all five hosted files17:50:41Z."
+        "complete": true,
+        "text": "Publish and byte-verify installation and merge update (18:09Z–18:16Z, took7min). Temporary GitHub connection failure delayed the first attempt; failed push reconciled before same-commit retry. Commit98d282c, matching Pages build18:14:39Z and all five files exact18:16:01Z."
       }
     ],
-    "landing": "Lands: public update about18:12Z; TEST installation about18:22Z if Shopify readbacks agree. Final completion time is unknown until native, connected and original-reader acceptance passes."
+    "landing": "Lands: both installations are verified. Original iPhone release next check18:35Z; TEST binding result follows its original placed writer. This completion snapshot is being published. Final completion time is unknown until native, connected and original-reader acceptance passes."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
