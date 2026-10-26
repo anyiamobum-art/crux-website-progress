@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The account-page integration is pushed and running checks. The notice-copy repair passed its first review; the Safari-startup repair is also in review. The activation change passed its first review but failed two database-write checks, now returned to its original writer. Guest iPhone workflow CI is green; its remaining review is pending. Installation is prepared with zero uploads. Connected acceptance, native proof and the original final ratings remain open. Delivery 6/11, milestones 1/3, native 0/7 and final ratings 0/3 are unchanged; Shopify stays unpublished and the assistant off.",
+      "result": "The account-page repair has its original FIRST approval with no findings; normal CI and protected release continue. The120-file TEST package and14 offline checks are ready on the final source, with zero uploads. The original iPhone writer is repairing Safari accessibility startup. The chair is reconciling conflicting release-policy records before installation. Delivery6/11, milestones1/3, native0/7, final ratings0/3. Shopify remains unpublished and the assistant off.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -394,10 +394,16 @@
           "date": "26 October 2026 · verified 15:44 UTC",
           "text": "The original account-page writer merged current main and pushed at 15:40 UTC; normal checks run on the new head. Notice-copy passed its first review at 15:41 UTC. Activation passed its first review but two write-inventory checks failed; the exact defect was returned once to the original writer, acknowledgement pending. Guest iPhone workflow has green CI and first approval; Safari-startup is Ready with checks running. No native run, activation, installation or final rating is inferred. Other Argon systems keep their existing source evidence.",
           "url": "https://github.com/EON-CRUX/3.09/pull/4949"
+        },
+        {
+          "title": "Original account-page approval and iPhone repair execution",
+          "date": "26 October2026 · review17:42:45UTC / installer rebind17:39UTC / phone repair START17:20:04UTC",
+          "text": "The original reviewer approved the repaired account-page head with no findings. Normal hosted tests and protected release remain. All120 TEST payload files match and14 offline checks pass; zero uploads. Hands confirmed the original Safari accessibility writer started. The previous guest run exercised none of seven rows, and no native or rating credit is added. One original chair card reconciles the conflicting review/merge classifications before draft installation. No publication or activation.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4948#issuecomment-6423176347"
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T15:45:12.296473+00:00"
+      "sourceAsOf": "2026-10-26T17:48:33.271707+00:00"
     },
     "companion": {
       "number": "04",
