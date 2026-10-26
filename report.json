@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original acceptance child completed the account reconciliation without creating accounts or handling sign-in. Its next-step card is delivered to the original chair and Hands, with acknowledgment unverified. The screenshot workflow was verified Ready at 06:06Z with tests active or queued; original reviews and merge precede its first hosted run. This is not an executed functional iPhone check. The same three final readers have no new final score.",
+  "workerState": "Original A2 adopted the two separate source scopes and Bridge delivered the continuation; no writer acknowledgment or START is yet verified. No account, toggle, mount or storefront write occurred. The screenshot workflow retains its separate review/release process and supplies no functional native credit. The same three final readers have no new final score.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October 06:05:53Z: the original live TEST account read completed with an exact zero count, resolving the account-inventory uncertainty. The original next-step card was delivered at 06:09:50Z; delivery is not execution. Stores evidence remains 36 functional passes and three genuine 200% observations.",
+  "lastActualProgress": "26 October 06:28:50Z: the exact mapping/theme read completed and identified the missing canonical TEST mapping and incompatible CRUX theme target. A2 adopted the separate original-owner follow-ups at 06:39Z; Bridge relay was verified at 06:41:59Z. Delivery is not execution. Stores evidence remains 36 functional passes and three genuine 200% observations.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The two TEST shopper accounts and signed bindings do not yet exist. New-account sign-in stays with the owner under the existing acceptance contract; no further scope admission is needed. Website still needs its own native grant and the supported timing read. External privacy facts and the three final named-fix ratings remain open. The TEST connection is no longer a blocker; assistant stays off and unmounted.",
-  "current": "TEST Shopify is connected, and the original account reconciliation is complete. The live TEST store had exactly zero customer accounts at 26 October 06:05:53Z; the mirrored and canonical counts were also zero at 06:01:32Z. There are no existing TEST shoppers to reuse. Scope for two shoppers is already admitted; their owner-controlled sign-in and binding remain to be completed.",
-  "next": "The original chair and Hands received the sign-in route and protected-input card at 06:09:50Z; acknowledgment is unverified. Complete that owner-controlled sign-in step, prove the two shopper bindings, then follow the original TEST feature and reviewed draft-mount sequence. Hands already has the exact draft URL for its separate timing action; the chair’s one-tab disposition remains pending.",
-  "updated": "26 October 06:05:53Z account result and 06:09:50Z delivery receipt, consumed for this update. Root verified the screenshot workflow Ready at 06:06Z. Previous hosted publication 2deda225 was fully verified at 05:36:47Z; this update awaits its own matching build and hosted readback.",
+  "remaining": "Correct TEST shop mapping, a TEST-hosted candidate and its trusted installation must be prepared through the original reviewed routes. The CRUX draft cannot stand in for that TEST session. Owner sign-in holds only the signed A/B acceptance cases, not guest preparation. Own native allocation, timing proof, external privacy facts and final ratings remain open; assistant stays off and unmounted.",
+  "current": "TEST Shopify is connected and the account inventory is verified empty. The next source check found a separate setup gap: the canonical shop mapping is missing, and the existing CRUX draft is not a theme on the TEST shop. A TEST shopper session therefore needs its own correctly bound TEST-hosted candidate.",
+  "next": "The original connection writer owns a separate mapping follow-up; the original C06 writer owns TEST-only mount preparation. A2 adopted both and the original Bridge relay was verified at 06:41:59Z; writer acknowledgment and execution are not yet proved. Guest preparation can proceed before sign-in. Signed acceptance still needs two owner-established TEST shoppers. The chair’s one-tab timing disposition was absent at the due 06:55Z check. Root amended the same card at 06:56:28Z and sent the original Bridge continuation; delivery was accepted, but no permission or measurement result is established.",
+  "updated": "26 October 06:28:50Z mapping result, 06:39Z original-owner disposition and 06:41:59Z Bridge relay, consumed for this local preparation. Publication b363bed6 is fully verified: matching build 06:25:36Z and all five hosted files exact by 06:39:58Z. This consolidated snapshot is now released for publication; its new push, matching build and hosted readback are not yet verified.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "TEST Shopify connection is verified. The completed reconciliation found exactly zero live TEST customer accounts at 06:05:53Z and zero mirrored/canonical accounts at 06:01:32Z. No existing actors are available to reuse.",
-    "Scope for two TEST shoppers is already admitted. Owner-controlled new-account sign-in and signed binding are the next prerequisites; the original route/input card was delivered at 06:09:50Z, acknowledgment unverified. No account was created and no credential was handled.",
-    "The exact draft URL reached Hands at 05:32Z and Bridge acknowledged at 05:49Z. The one-tab chair disposition and permitted read-only timing action remain pending; frame and input-feedback proof are still absent.",
-    "The cloud screenshot workflow was verified Ready at 06:06Z, with tests active or queued. Original reviews and merge precede the first hosted run; there is no functional native credit.",
-    "The public plan now shows current acceptance steps, with its older history preserved in the original report. Delivery stays 6/11, milestones 1/3, native checks 0/7 and original final ratings 0/3. Shopify remains unpublished; assistant off/unmounted."
+    "TEST connection remains verified; the existing live and mirrored account counts are zero. The mapping read found a missing canonical shop binding, and the CRUX draft is not available on the TEST shop.",
+    "Original A2 adopted two separate scopes: a connection-mapping follow-up through the existing connection writer and TEST-only mount preparation through the original C06 writer. Bridge relay was verified at 06:41:59Z; writer acknowledgment and execution remain unverified.",
+    "Guest preparation proceeds before owner sign-in. Only signed A/B acceptance needs the owner-established shoppers; the two-shopper scope is already admitted. No account, toggle or mount was created by this reconciliation.",
+    "Hands was ready at 06:37Z, but the due 06:55Z one-tab disposition was absent. Root amended the existing timing card at 06:56:28Z and sent the original Bridge continuation, which was accepted. No tab grant, capture or timing credit follows from delivery. Publication b363bed6 remains the latest fully verified snapshot until this update passes its own checks.",
+    "Delivery stays 6/11, milestones 1/3, native checks 0/7 and original final ratings 0/3. Shopify remains unpublished and the assistant off/unmounted; reviews and source custody are unchanged."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST Shopify is connected, but the completed account reconciliation found zero live accounts at 06:05:53Z and zero mirrored/canonical accounts at 06:01:32Z. Scope for two TEST shoppers is already admitted; actual sign-in and binding are absent. External backup/log-retention facts and connected privacy acceptance remain open. Owner: The owner signs in new accounts under the existing contract; original chair/Hands resolve the scoped route and inputs, then chair/Website retain TEST feature and reviewed draft-mount custody. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; the completed account result led to the original route/input card at 26 October 06:09:50Z, acknowledgment unverified.",
-      "next": "Complete the owner-controlled sign-in route, verify both signed shopper bindings, then perform the original connected checks and matching notice acceptance through the scoped TEST feature and reviewed mount sequence. Assistant remains off/unmounted; no Style/Save writes. No renewed admission request; P694 does not impose a blanket read-only/native hold."
+      "blocker": "TEST is connected but needs its canonical shop mapping and a same-shop TEST candidate/installation. The existing CRUX draft cannot host a TEST-shop session. Live and mirrored account counts are zero; only signed acceptance requires owner-established A/B shoppers. External retention facts and connected privacy acceptance remain open. Owner: Original connection writer owns the separate mapping follow-up, original C06 writer prepares the TEST mount, original Website remains installer, and chair retains configuration authority. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; mapping read completed26 October06:28:50Z, A2 adopted06:39Z and Bridge relay verified06:41:59Z. Writer acknowledgment/START remain unverified.",
+      "next": "Continue the original reviewed mapping and TEST-only guest preparation independently of sign-in; bind actual TEST source and installation before permitted guest observations. The owner establishes A/B accounts for signed acceptance. Assistant remains off/unmounted; no Style/Save writes. No new admission question or blanket P694 hold."
     },
     {
       "label": "8. Final three-model ratings",
@@ -249,8 +249,16 @@
         "text": "Reconcile existing TEST shoppers (mirror/canonical read 06:01:32Z; live store read 06:05:41Z–06:05:53Z, took 12s). All aggregate counts are zero; no existing A/B actors are available. No signup, credential handling or binding occurred."
       },
       {
+        "complete": true,
+        "text": "Resolve the TEST mount target and mapping prerequisite from existing evidence (mapping read06:25:55Z–06:28:50Z, took3min; A2 adopted06:39Z, Bridge relay verified06:41:59Z). Canonical TEST shop mapping is missing; CRUX theme166627606744 is not a TEST-shop theme. No new probe or write."
+      },
+      {
         "complete": false,
-        "text": "Complete owner-controlled TEST shopper sign-in, binding and connected C06 acceptance (original route/input card delivered 06:09:50Z; chair/Hands acknowledgment unverified). Scope is already admitted; the frozen contract reserves new-account sign-in for the owner. Then prove both signed bindings and follow the original TEST feature and reviewed draft-mount sequence. Assistant off/unmounted; duration unknown until route/input and sign-in prerequisites are met."
+        "text": "Continue the separate connection-mapping follow-up and original C06 TEST-only mount preparation (original A2/Hands routes adopted; writer ACK/START unverified). Preserve #4929 head/review history; its original lineage owns the separate mapping follow-up. Original C06 writer prepares an actual TEST candidate, trusted proxy installation and reviewed TEST-scoped gates; Website remains sole installer. Guest preparation proceeds before sign-in. Duration unknown until original execution/result."
+      },
+      {
+        "complete": false,
+        "text": "Establish owner-controlled TEST shoppers and complete signed C06 acceptance (two-shopper scope admitted; original route/input card first delivered06:09:50Z). Live/mirror counts are zero; owner establishes A/B and signed bindings. This holds signed cases only, not guest preparation. Assistant off/unmounted; no Style/Save writes; duration unknown until actual inputs/sign-in and qualified TEST mount."
       },
       {
         "complete": false,
@@ -258,7 +266,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the limited timing read and remaining interaction proof (original Hands route; draft URL delivered05:32Z, Bridge acknowledged05:49Z, chair’s one-tab disposition pending). Existing navigation/resource/paint records and an exposed request log only; no CDP, observer or new capture. Input-feedback, frame and held-control proof remain separate; duration unknown until the actual supported route qualifies."
+        "text": "Complete the limited timing read and remaining interaction proof (original Hands route; draft URL delivered05:32Z, Bridge acknowledged05:49Z, chair’s one-tab disposition absent at due06:55Z; same original card amended06:56:28Z and Bridge continuation accepted). Hands was ready06:37Z; delivery is not a grant or metric result. Existing navigation/resource/paint records and an exposed request log only; no CDP, observer or new capture. Input-feedback, frame and held-control proof remain separate; duration unknown until the actual supported route qualifies."
       },
       {
         "complete": false,
@@ -281,11 +289,15 @@
         "text": "Verify the remaining natural continuation/restart behavior through original Monitor and routing owner (original wait25 October23:17:52Z; accepted parent-routing installation26 October04:42:35Z). Website’s02:00 wake and real02:06 action are retained; group/restart proof remains unverified. Observe the next natural occurrence, no artificial wake."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the consolidated task-site update (06:23Z–06:39Z, took16min; original5min estimate exceeded due to HTTPS timeouts/reset). One push b363bed6; matching Pages build completed06:25:36Z. All five hosted files match committed bytes; final Argon page returned HTTP200 at06:39:58Z. Original verification wait06:25:16Z is closed; no second push or repeat of four successful reads."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify this consolidated task-site update (resumed 06:23Z after the 06:13Z app interruption; est. 5min). One push, matching Pages build and five exact hosted files. Previous publication 2deda225 remains verified at 05:36:47Z; this step does not change Shopify."
+        "text": "Publish and verify this consolidated mapping/mount and timing-disposition update (started 06:58Z, est.5min). One push, matching Pages build and exact readback of only changed objects; prior b363bed6 stays the verified reference until completion."
       }
     ],
-    "landing": "Lands: task-site update about 06:28Z (about 5min left; GitHub Pages or HTTPS can extend verification). Full delivery has no reliable ETA while owner-controlled TEST sign-in/binding, Hands timing/native prerequisites, remaining privacy facts and original final named-fix ratings are open. Counts 6/11 delivery, 1/3 milestones, 0/7 native, 0/3 final ratings stay unchanged; Shopify stays unpublished."
+    "landing": "Lands: about 07:03Z for this task-site update (5min left; GitHub Pages or HTTPS may delay verification). Whole delivery still depends on original reviewed TEST mapping/mount preparation, owner-established A/B for signed acceptance, Hands timing/native prerequisites, remaining privacy facts and original final named-fix ratings; no reliable overall ETA. Counts6/11,1/3,0/7,0/3 unchanged; Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
