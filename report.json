@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original A2 adopted the two separate source scopes and Bridge delivered the continuation; no writer acknowledgment or START is yet verified. No account, toggle, mount or storefront write occurred. The screenshot workflow retains its separate review/release process and supplies no functional native credit. The same three final readers have no new final score.",
+  "workerState": "Hands completed the authorized loading read once and closed its tab. The original #4927 R1 named concurrency repair is placed under its retained owner; START/result are unverified. C06 cuts A/B are explicitly acknowledged as next tick’s first items, not yet placed. Original A2 retains adopted mapping/mount custody. The three original final readers have no new score.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October 06:28:50Z: the exact mapping/theme read completed and identified the missing canonical TEST mapping and incompatible CRUX theme target. A2 adopted the separate original-owner follow-ups at 06:39Z; Bridge relay was verified at 06:41:59Z. Delivery is not execution. Stores evidence remains 36 functional passes and three genuine 200% observations.",
+  "lastActualProgress": "26 October07:19:02Z: Hands finished the single draft loading read, verifying unpublished draft identity and returning existing loading/request observations. At07:20Z the original #4927 named repair was placed and C06 preparation was acknowledged for the next tick. Placement and acknowledgment are distinct from writer execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Correct TEST shop mapping, a TEST-hosted candidate and its trusted installation must be prepared through the original reviewed routes. The CRUX draft cannot stand in for that TEST session. Owner sign-in holds only the signed A/B acceptance cases, not guest preparation. Own native allocation, timing proof, external privacy facts and final ratings remain open; assistant stays off and unmounted.",
-  "current": "TEST Shopify is connected and the account inventory is verified empty. The next source check found a separate setup gap: the canonical shop mapping is missing, and the existing CRUX draft is not a theme on the TEST shop. A TEST shopper session therefore needs its own correctly bound TEST-hosted candidate.",
-  "next": "The original connection writer owns a separate mapping follow-up; the original C06 writer owns TEST-only mount preparation. A2 adopted both and the original Bridge relay was verified at 06:41:59Z; writer acknowledgment and execution are not yet proved. Guest preparation can proceed before sign-in. Signed acceptance still needs two owner-established TEST shoppers. The chair’s one-tab timing disposition was absent at the due 06:55Z check. Root amended the same card at 06:56:28Z and sent the original Bridge continuation; delivery was accepted, but no permission or measurement result is established.",
-  "updated": "26 October 06:28:50Z mapping result, 06:39Z original-owner disposition and 06:41:59Z Bridge relay, consumed for this local preparation. Publication b363bed6 is fully verified: matching build 06:25:36Z and all five hosted files exact by 06:39:58Z. This consolidated snapshot is now released for publication; its new push, matching build and hosted readback are not yet verified.",
+  "remaining": "Phone-performance, frame/input response and seven native checks still lack qualified evidence. The loading read is useful but its zero-sized pane and network delay prevent shopper-performance conclusions. C06 still needs canonical TEST mapping, a same-shop TEST candidate and trusted installation; guest preparation proceeds before owner sign-in, while signed acceptance needs owner-established A/B shoppers. External privacy facts and final ratings remain open; assistant stays off/unmounted.",
+  "current": "Hands completed the single permitted draft loading read at07:17:57–07:19:02Z and verified the correct unpublished theme. The one-tab permission and execution wait is closed. The pane reported a zero-sized viewport and its network route added delay, so this result does not qualify phone performance, frame/input response or native acceptance.",
+  "next": "Original Hands must identify a supported visible-viewport measurement route or a qualified native route for the remaining evidence. The completed loading read will not be replayed. The original #4927 concurrency fix was placed at07:20Z; START/result remain unverified. Hands acknowledged the two C06 mapping/mount scopes as next tick’s first items, but neither writer was placed. The existing owner-result check remains07:40Z.",
+  "updated": "Original Hands START07:17:57Z and END07:19:02Z are bound in the26 October07:27:02Z adoption receipt. The same read reported a zero-sized viewport and network-route delay; phone performance is unqualified. Publication d79de7c remains the latest fully verified snapshot, with five exact hosted files at07:00:26Z, until this update passes its own build/readback.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "TEST connection remains verified; the existing live and mirrored account counts are zero. The mapping read found a missing canonical shop binding, and the CRUX draft is not available on the TEST shop.",
-    "Original A2 adopted two separate scopes: a connection-mapping follow-up through the existing connection writer and TEST-only mount preparation through the original C06 writer. Bridge relay was verified at 06:41:59Z; writer acknowledgment and execution remain unverified.",
-    "Guest preparation proceeds before owner sign-in. Only signed A/B acceptance needs the owner-established shoppers; the two-shopper scope is already admitted. No account, toggle or mount was created by this reconciliation.",
-    "Hands was ready at 06:37Z, but the due 06:55Z one-tab disposition was absent. Root amended the existing timing card at 06:56:28Z and sent the original Bridge continuation, which was accepted. No tab grant, capture or timing credit follows from delivery. Publication b363bed6 remains the latest fully verified snapshot until this update passes its own checks.",
-    "Delivery stays 6/11, milestones 1/3, native checks 0/7 and original final ratings 0/3. Shopify remains unpublished and the assistant off/unmounted; reviews and source custody are unchanged."
+    "The one-tab permission/execution wait is closed. Hands completed one read at07:17:57–07:19:02Z, verified the correct unpublished draft and closed the tab.",
+    "The read returned loading/request observations, but its zero-sized viewport and network-route delay prevent phone-performance credit. Frame/input response, usable LCP and native evidence remain unmeasured; no replay or new capture is authorized by this result.",
+    "The original #4927 R1 concurrency fix was placed at07:20Z. Writer START/result are not verified; original review and release requirements remain.",
+    "Hands acknowledged the two C06 mapping/mount scopes as next tick’s first items; no writer was placed yet. Guest preparation remains independent of owner-established A/B sign-in. The existing owner-result check stays07:40Z.",
+    "Delivery remains6/11, milestones1/3, native checks0/7 and original final ratings0/3. Shopify stays unpublished and the assistant off/unmounted."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST is connected but needs its canonical shop mapping and a same-shop TEST candidate/installation. The existing CRUX draft cannot host a TEST-shop session. Live and mirrored account counts are zero; only signed acceptance requires owner-established A/B shoppers. External retention facts and connected privacy acceptance remain open. Owner: Original connection writer owns the separate mapping follow-up, original C06 writer prepares the TEST mount, original Website remains installer, and chair retains configuration authority. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; mapping read completed26 October06:28:50Z, A2 adopted06:39Z and Bridge relay verified06:41:59Z. Writer acknowledgment/START remain unverified.",
+      "blocker": "TEST is connected but needs its canonical shop mapping and a same-shop TEST candidate/installation. The existing CRUX draft cannot host a TEST-shop session. Live and mirrored account counts are zero; only signed acceptance requires owner-established A/B shoppers. External retention facts and connected privacy acceptance remain open. Owner: Original connection writer owns the separate mapping follow-up, original C06 writer prepares the TEST mount, original Website remains installer, and chair retains configuration authority. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; mapping read completed26 October06:28:50Z, A2 adopted06:39Z and Bridge relay verified06:41:59Z. Hands acknowledged both scopes at07:20Z as next tick’s first items; no writer is placed yet.",
       "next": "Continue the original reviewed mapping and TEST-only guest preparation independently of sign-in; bind actual TEST source and installation before permitted guest observations. The owner establishes A/B accounts for signed acceptance. Assistant remains off/unmounted; no Style/Save writes. No new admission question or blanket P694 hold."
     },
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Header C1–C4 and36 Stores checks pass. Genuine200% observation is now captured at three widths, with original-reader acceptance pending. Native iPhone, timing and connected journeys remain. The browser turn is complete; no Website native grant exists. The last recorded Website qualification failed; no Website grant is present. The cloud screenshot workflow remains in its own release process and supplies no functional native credit. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; the timing wait is retained, with its exact initial time unknown and a documented refusal by22October03:16:59Z. The retained Website queue is P212, Home4852, then Website; original Hands reconciles current predecessor dispositions.",
-      "next": "Hands has the exact draft URL delivered05:32Z and Bridge ACK05:49Z; chair’s one-tab disposition and assigned actor remain pending for the read of existing loading/paint records and an exposed request log. This limited route does not supply input-feedback or frame measurements. Keep the completed zoom capture and return it in the original final named-fix packet; do not recapture it. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
+      "next": "The single loading read completed07:19:02Z and verified the correct unpublished theme; the one-tab wait is closed. A zero-sized pane and network delay mean its loading/paint observations cannot qualify phone performance. Original Hands identifies a supported visible-viewport or qualified native route for remaining frame/input evidence; no replay of the completed read. Keep the completed zoom capture and return it in the original final named-fix packet; do not recapture it. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -254,7 +254,7 @@
       },
       {
         "complete": false,
-        "text": "Continue the separate connection-mapping follow-up and original C06 TEST-only mount preparation (original A2/Hands routes adopted; writer ACK/START unverified). Preserve #4929 head/review history; its original lineage owns the separate mapping follow-up. Original C06 writer prepares an actual TEST candidate, trusted proxy installation and reviewed TEST-scoped gates; Website remains sole installer. Guest preparation proceeds before sign-in. Duration unknown until original execution/result."
+        "text": "Continue the separate connection-mapping follow-up and original C06 TEST-only mount preparation (original A2 active with adopted mapping/mount custody; Bridge relay06:41:59Z verified; Hands07:20Z acknowledged cuts A/B as next tick first items, neither writer placed; existing owner-result check07:40Z). Preserve #4929 head/review history; its original lineage owns the separate mapping follow-up. Original C06 writer prepares an actual TEST candidate, trusted proxy installation and reviewed TEST-scoped gates; Website remains sole installer. Guest preparation proceeds before sign-in. Duration unknown until original execution/result."
       },
       {
         "complete": false,
@@ -265,12 +265,16 @@
         "text": "Complete buyer-trust, consent and tracking-link journeys (original Aftercare/CS acceptance owners; first wait not established here). Consume existing checks and the actual authenticated journey once the original A/B binding is returned; no customer sends without their existing authority. Duration unknown."
       },
       {
-        "complete": false,
-        "text": "Complete the limited timing read and remaining interaction proof (original Hands route; draft URL delivered05:32Z, Bridge acknowledged05:49Z, chair’s one-tab disposition absent at due06:55Z; same original card amended06:56:28Z and Bridge continuation accepted). Hands was ready06:37Z; delivery is not a grant or metric result. Existing navigation/resource/paint records and an exposed request log only; no CDP, observer or new capture. Input-feedback, frame and held-control proof remain separate; duration unknown until the actual supported route qualifies."
+        "complete": true,
+        "text": "Complete the one permitted draft loading read (Hands START07:17:57Z–END07:19:02Z, took65s). Correct unpublished theme verified; existing navigation/resource/paint records and request log read once, tab closed. Original one-tab card05:32:29Z and underlying01:05Z admission/execution wait closed. Zero-sized pane and network delay prevent phone-performance credit."
       },
       {
         "complete": false,
-        "text": "Complete the seven native iPhone checks on the same draft (waiting since 16 October 20:16Z; source 173/47/25; own Website grant required; est. 13min after START). Screenshot workflow #4927 was verified Ready at 06:06Z with tests active/queued; original critical-tier reviews and merge precede its first hosted run. No execution or functional native credit; no duplicate allocation."
+        "text": "Obtain qualified remaining performance/interaction evidence (original Hands/native owner; broader timing first wait remains unknown, documented refusal by22October03:16:59Z). Identify a supported nonzero visible viewport or qualified native route; input feedback, frames and usable LCP remain unmeasured. No replay, CDP or observer. Existing next owner-result check07:40Z; duration unknown until qualification."
+      },
+      {
+        "complete": false,
+        "text": "Complete the seven native iPhone checks on the same draft (waiting since 16 October 20:16Z; source 173/47/25; own Website grant required; est. 13min after START). Root verified #4927 headbb284740 R1 REJECT06:55:19Z, comment6410113207: one MEDIUM workflow-concurrency finding after five test jobs passed. Original repair placed07:20Z, records ef87a263, under retained writer; START/result unverified; original review and merge precede its first hosted run. No execution or functional native credit; no duplicate allocation."
       },
       {
         "complete": false,
@@ -293,11 +297,19 @@
         "text": "Publish and verify the consolidated task-site update (06:23Z–06:39Z, took16min; original5min estimate exceeded due to HTTPS timeouts/reset). One push b363bed6; matching Pages build completed06:25:36Z. All five hosted files match committed bytes; final Argon page returned HTTP200 at06:39:58Z. Original verification wait06:25:16Z is closed; no second push or repeat of four successful reads."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the consolidated mapping/mount and timing-disposition update (06:58Z–07:00Z, took2min). One push d79de7c; matching Pages build06:58:52Z; all five changed hosted objects returned HTTP200 and exact committed bytes by07:00:26Z. No additional publication."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify this consolidated mapping/mount and timing-disposition update (started 06:58Z, est.5min). One push, matching Pages build and exact readback of only changed objects; prior b363bed6 stays the verified reference until completion."
+        "text": "Consume the existing qualified-acceptance owner results (current result adoption26 October07:27Z; original07:10Z wait retained; next check07:40Z or an earlier actual writer/decision/acceptance result). Root retains the original waiting record and follow-through; this is not a new wait, timer or permission gate. Presenter publishes only the next substantive returned result."
+      },
+      {
+        "complete": false,
+        "text": "Publish and verify the completed loading-read and original-owner placement update (started 07:29Z, est.5min). One push through the existing task site, matching build and exact changed-file readback; d79de7c remains the verified reference until completion."
       }
     ],
-    "landing": "Lands: about 07:03Z for this task-site update (5min left; GitHub Pages or HTTPS may delay verification). Whole delivery still depends on original reviewed TEST mapping/mount preparation, owner-established A/B for signed acceptance, Hands timing/native prerequisites, remaining privacy facts and original final named-fix ratings; no reliable overall ETA. Counts6/11,1/3,0/7,0/3 unchanged; Shopify stays unpublished."
+    "landing": "Lands: about 07:34Z for this publication (5min left; Pages/HTTPS may delay verification). Existing owner-result check07:40Z is not a delivery ETA. Whole delivery still depends on qualified performance/native evidence, original TEST mapping/mount preparation, signed A/B acceptance, privacy facts and final named-fix ratings. Counts6/11,1/3,0/7,0/3 unchanged; Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

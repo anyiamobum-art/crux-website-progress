@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused. The later chair-authorized route is limited to existing loading and paint records, plus an exposed request log; Hands was ready at06:37UTC. The due06:55UTC one-tab disposition was absent; the same original card was amended06:56:28UTC and Bridge continuation accepted. No tab grant or measurement result follows. It does not prove input feedback or frame timing. Native and connected acceptance remain open. TEST connection and the empty account inventory are verified. A later source-bound read found missing canonical TEST shop mapping and proved that the existing CRUX draft is not on that TEST shop. Original A2 adopted a separate connection-mapping follow-up and original C06 TEST-only mount preparation; Bridge relay was verified at06:41:59UTC, but writer acknowledgment and execution remain unverified. Guest preparation can proceed before owner sign-in; only signed A/B acceptance needs two owner-established shoppers. The assistant remains off/unmounted. These original-owner results are separate from Argon’s advice.",
+      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Original Hands completed one permitted loading read on26 October07:17:57–07:19:02UTC and verified the correct unpublished theme. Its zero-sized pane and network delay prevent phone-performance credit; input feedback, frames and usable LCP remain unmeasured. The one-tab wait is closed, the tab is closed and this result does not authorize replay. Native and connected acceptance remain open. TEST connection and empty account inventory are verified; canonical TEST mapping and a same-shop candidate/installation remain required. Hands acknowledged original C06 cuts A/B as next tick’s first items at07:20UTC, but no writer was placed. Guest preparation proceeds before owner sign-in; only signed A/B cases need owner-established shoppers. The original screenshot-workflow concurrency repair was placed07:20UTC; START/result are unverified. Assistant remains off/unmounted. These original-owner results are separate from Argon’s advice.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -276,10 +276,15 @@
           "title": "Original timing disposition followed through",
           "date": "26 October2026 · due06:55UTC; same-card amendment06:56:28UTC",
           "text": "Hands was ready with the existing draft route. The chair’s one-tab disposition was absent at the due check; Root amended the original card and sent one continuation through original Bridge. Delivery was accepted; permission, execution and measurements remain unverified. No new capture or metric credit."
+        },
+        {
+          "title": "Single draft loading read completed; phone timing unqualified",
+          "date": "26 October2026 · START07:17:57UTC; END07:19:02UTC",
+          "text": "Original Hands verified the correct unpublished theme and read existing loading/request records once, then closed the tab. The zero-sized viewport and network delay prevent representative phone-performance conclusions. Frame/input response, usable LCP and native acceptance remain unmeasured. One-tab permission/execution wait closed; no capture, sign-in, send or publication occurred."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T06:58:07.930467+00:00"
+      "sourceAsOf": "2026-10-26T07:29:40.493578+00:00"
     },
     "companion": {
       "number": "04",
