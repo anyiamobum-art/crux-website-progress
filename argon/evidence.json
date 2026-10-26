@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "Canonical TEST mapping is verified. The inactive account-page package is prepared and in protected review, not installed or enabled. Logging is active on the web service; scheduled deployment and nightly proof remain. The first hosted current-iPhone page-open timed out; small-iPhone screenshots do not prove scroll or a storefront journey. The original functional successor is released for continuation. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged; the Shopify draft stays unpublished.",
+      "result": "Account-page protected tests, pins and guards are green. Its completed original review has no authenticated published approval; the chair is resolving the failed publication. Installation and exact-body checks are prepared with zero uploads. Both original writers returned local source; the gate policy correction and guest workflow publication/readiness remain. Scheduled-service recovery remains with the chair after a regional build incident. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 are unchanged; the Shopify draft stays unpublished.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -376,10 +376,16 @@
           "date": "26 October2026 · mapping13:50:17UTC / package13:55:56UTC / visual interpretation14:00:23UTC",
           "text": "The merged mapping is active and its canonical TEST configuration was written/read back once. Inactive account source #4948 is Ready with117 files prepared only; review and installation remain. Logging is active on the web service but its scheduled deployment failed; nightly acceptance remains. #4927 merged, then the first hosted current-iPhone page-open timed out. Small-iPhone images show signed-out EON and a disappearing Safari callout, not scroll or storefront acceptance. The original guest-functional successor is released; no new execution, activation, native pass or final score is inferred.",
           "url": "https://github.com/EON-CRUX/3.09/pull/4948"
+        },
+        {
+          "title": "Protected checks green; original review publication and execution continue",
+          "date": "26 October2026 · preflight14:16:19UTC / review-publication failure14:28:43UTC / original source results14:34UTC / publication-route disposition14:36UTC",
+          "text": "All five account-page test groups, pins, aggregate gate and guards pass. The completed original first review has no authenticated published approval. Hands confirmed14:36UTC that automatic republish is unsupported; the chair must resolve the route. The exact staging cause is unknown, with no extra review authorized or approval credit. Seven installation/readback batches are prepared;481 original files/settings remain unchanged and no files were uploaded. The original gate source returned with45 tests/45 pins passed but needs its original policy-URL correction before publication. Original guest-functional source returned locally; Hands owns workflow publication and readiness correction, with no functional run yet. The chair owns a regional scheduled-deployment incident. No native result, activation or final rating is inferred.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4948"
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T14:09:36.721615+00:00"
+      "sourceAsOf": "2026-10-26T14:38:59.710456+00:00"
     },
     "companion": {
       "number": "04",

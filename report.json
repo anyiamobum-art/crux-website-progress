@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "#4937 is merged and active on the web service; canonical TEST mapping was written and read back13:50:17Z. #4948 is Ready at54d23d69 with protected tests/review pending. Existing C1b is acknowledged; new START is unverified. #4943 is merged and active on the web service, but its scheduled-service deployment failed. #4927 merged13:48:35Z; the first hosted run ended with a current-iPhone timeout and small-iPhone screenshots only.",
+  "workerState": "#4948 at54d23d69 has protected tests, pins and guards green; the chair is resolving its failed review publication; no authenticated first approval exists. The gate writer returned local33951787 with45 tests/45 pins passed; its original policy-URL correction is still required. The guest-functional writer returned locala3cca63f, awaiting Hands workflow publication and readiness correction. No functional run, upload or activation is credited.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October13:50:17Z: canonical TEST mapping written/read back. The inactive account source ended13:46:26Z; its package was prepared13:55:56Z and admission passed13:58:09Z. The hosted run completed13:53:50Z; visual interpretation14:00:23Z confirms no scroll or storefront acceptance. Acceptance counters are unchanged.",
+  "lastActualProgress": "26 October14:34Z: original gate and guest-functional source results returned locally. Account-page protected checks are green by14:32Z, but review-publication failed14:28:43Z; Hands confirmed no automatic republish route14:36Z, leaving one chair disposition. Seven install/readback batches are prepared; preflight14:16:19Z preserved481 original files/settings. Acceptance counters remain unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -99,9 +99,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Mapping verified; inactive source in review; connected acceptance open",
-      "Canonical TEST mapping written/read back13:50:17Z. Inactive account source finished and #4948 is Ready; 117 files prepared, no upload or activation. Logging is active on the web service but scheduled deployment failed.",
-      "Original protected review and eligible TEST installation, same gate-builder continuation, scheduled-service recovery and actual nightly result. Approved notice/owner approval hold activation; signed cases need A/B. External-facts wait12 October04:12Z is retained."
+      "Tests green; chair resolving failed review publication; installation prepared only",
+      "Canonical TEST mapping is verified. Account-page tests/pins/guards pass; completed review lacks authenticated publication. Seven install/readback batches are prepared;481 originals/settings preserved; zero uploads. Original gate source returned locally; policy correction pending.",
+      "Original chair publication disposition and protected release, eligible TEST installation, gate result and chair platform recovery. Approved notice/owner approval hold activation; signed cases need A/B. External-facts wait12 October04:12Z retained."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Protected account-page release and installation remain. The scheduled service has not deployed the merged logging repair. Hosted screenshots did not exercise the seven native rows; the original functional successor must return its supported-control result. Signed acceptance still needs owner-established TEST shoppers, and activation needs approved notice/policy inputs.",
-  "current": "The connection and canonical TEST mapping are verified. The original inactive account page is Ready for protected review, with its 117-file package prepared but not installed. The first hosted iPhone run returned a page-open timeout; the small-iPhone screenshots do not prove a storefront journey.",
-  "next": "Complete the original account-page tests/review, then qualify and install eligible source into the unpublished TEST copy. Continue the same activation-gate builder separately, recover the scheduled logging service, and consume the original guest-functional check. Approved notice inputs and owner approval are required before activation.",
-  "updated": "Previous public a5cf1c1e has matching Pages build13:44:42Z and five exact hosted files13:45:25Z on26 October. Current source is prepared for one new publication; it is not yet hosted proof.",
+  "remaining": "The completed account-page review has no authenticated published approval. No supported automatic republish route exists; the exact staging cause is unknown. The chair’s disposition is pending. Installation therefore remains held. The scheduled service is blocked by a regional build incident. Native functional results, signed TEST shoppers and approved activation notice/policy inputs remain outstanding.",
+  "current": "The inactive account-page change has passed every protected test group, pin and guard. Its completed first review did not publish an authenticated approval; the chair is resolving that failure. The original activation-gate and guest-iPhone writers have returned local source; their correction/publication steps remain. Prepared installation has made zero uploads.",
+  "next": "Resolve the review-publication route through the original chair, finish protected release, then install and read back eligible TEST files. The original gate builder applies its policy-URL correction; Hands publishes the original guest workflow and completes its readiness work. The chair owns the regional deployment-platform recovery.",
+  "updated": "Previous public7d21e853 has matching Pages build14:10:58Z and five exact hosted files14:12:28Z on26 October. This new source snapshot is prepared for publication, not yet hosted proof.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Mapping #4937 is merged and active on the web service. The original owner wrote and read back the canonical TEST mapping once13:50:17Z; that configuration wait is closed.",
-    "The inactive account-page source finished13:46:26Z and is Ready as #4948. Its 117-file package is prepared only; protected tests/review and installation remain. The single TEST copy stays unpublished, with no upload or activation.",
-    "Logging #4943 is merged and active on the web service, but its scheduled-service deployments failed. The original owner awaits the next natural build; actual nightly retention remains unproved.",
-    "#4927 merged13:48:35Z. The first hosted run failed to open the page on the current iPhone. Small-iPhone screenshots show signed-out EON with a Safari callout disappearing, not scroll or storefront acceptance. The original guest-functional successor is released to its existing inbox; execution is unverified.",
-    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. These are acceptance gates, not a count of repairs or tests. The acknowledged activation-gate continuation and separate owner notice decision remain open."
+    "The inactive account-page change has all five protected test groups, pins, aggregate gate and guards passed. Its first review completed without an authenticated published approval. Hands confirmed14:36Z that automatic republish is unsupported. The chair is resolving the publication route; the exact staging cause is unknown and no fresh review is authorized.",
+    "Installation and exact-body readback are prepared in seven batches. Read-only preflight14:16:19Z confirms481 original files and settings unchanged. The single TEST copy remains unpublished, with zero uploads and no activation.",
+    "Both original writers returned local source by14:34Z. The activation gate has45 tests/45 pins passed but still needs its original policy-URL correction before publication. Hands owns the guest workflow bundle/publication and the held readiness correction next. No hosted functional run or activation occurred.",
+    "A fourth scheduled-service build failed14:11:44Z. The original chair identified the regional build-platform incident and owns recovery; active web source does not prove scheduled deployment or the nightly retention outcome.",
+    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. Original review rounds, final readers and the unpublished-draft boundary are preserved."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST connection and canonical mapping are verified. The inactive account-page change is Ready with 117 files prepared only; protected review and installation remain. Existing C1b is acknowledged, but its new execution is unverified. Approved notice inputs and owner approval are required before activation. Logging is active on the web service, while scheduled-service deployment failed and actual nightly retention remains unproved. Signed A/B and external facts remain open; external HTTP403 still limits public rendered OAuth proof. Owner: Original C06 builder and reviewers, Website installer, chair notice-scope owner and Hands/CS custodians. Wait: External facts retain12 October04:12Z; account source completed13:46:26Z and canonical mapping closed13:50:17Z.",
-      "next": "Complete original protected review, qualify/install eligible TEST source, continue the same fail-closed gate builder, and consume scheduled-service recovery. Keep activation closed until approved inputs and owner approval; signed cases need actual A/B binding."
+      "blocker": "TEST connection and canonical mapping are verified. The inactive account-page tests are green, but the completed original review has no authenticated published approval; the chair is resolving its publication route. Seven installation/readback batches are prepared with481 originals/settings preserved and zero uploads. The original gate source returned locally and needs its already-routed policy correction before publication; approved notice/policy inputs and owner approval still hold activation. Scheduled deployment is blocked by a regional platform incident; nightly retention, external facts and signed A/B acceptance remain. Owner: Original C06 builder/reviewers, Hands review-recovery custodian, Website installer, chair platform/notice owners and CS custodians. Wait: External facts retain12 October04:12Z; review-publication failure occurred14:28:43Z; automatic recovery was ruled unsupported14:36Z.",
+      "next": "Consume the chair’s original publication disposition, finish protected release, then install/read back eligible source. Consume original gate/platform results without blocking independent guest preparation. Signed cases require actual A/B binding."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations, visible380×844 evidence and scoped desktop INP60ms/CLS0 are retained. Both Mac attempts are consumed, with all seven native rows unperformed. #4927 is merged; its first hosted current-iPhone page-open timed out. Small-iPhone screenshots show only signed-out EON and a disappearing Safari callout, not scroll or storefront acceptance. Owner: Original Website/native owner, original hosted writer and Hands; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z.",
-      "next": "Consume the original guest-functional successor released to its existing inbox, beginning with supported Safari control. Bind the unpublished storefront, observed guest/bag state and loaded URLs; actual200% needs Safari page-menu setting/readback. Retained/signed context and final original-reader acceptance remain separate. No third Mac attempt or repeated hosted capture."
+      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations, visible380×844 evidence and scoped desktop INP60ms/CLS0 are retained. Both Mac attempts are consumed; all seven native rows remain unperformed. The first hosted current-iPhone page-open timed out, and small-iPhone images do not prove scroll or storefront acceptance. The original guest-functional writer returned local source by14:34Z; Hands publication and readiness correction remain. Owner: Original Website/native owner, same hosted writer and Hands; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z.",
+      "next": "Publish the original workflow, complete its readiness correction and protected release, then use supported Safari control with the unpublished storefront and observed guest/bag state. Actual200% requires native Safari menu/readback. Only original Hands may execute the authorized second hosted run after readiness-fix merge; no third hosted or Mac attempt. Retained/signed context and final-reader acceptance remain separate."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -258,15 +258,15 @@
       },
       {
         "complete": false,
-        "text": "Complete original #4948 protected tests/review and eligible installation (admission passed13:58:09Z; original test groups running/queued at14:02Z). After approved merge, qualify current target/settings and install only eligible source. Original builder/reviewers and Website installer retain custody; duration depends on protected results."
+        "text": "Resolve the failed #4948 review publication, then finish protected release and eligible installation (exact54d23d69; all five test groups, pins, aggregate gate and guards passed by14:32Z). The first review completed but no authenticated approval was published. Hands confirmed14:36Z that no supported automatic republish route exists; the exact staging cause is unknown. The chair must select a protected same-answer route or explicitly authorize a fresh first review; neither is approved. Seven install/readback batches are prepared,481 originals/settings preserved and zero uploads; installation waits for eligible merge."
       },
       {
         "complete": false,
-        "text": "Continue the original TEST activation gate in the released worktree (Hands approved fail-closed construction13:37:15Z; existing C1b acknowledged, new START unverified). Required approved notice inputs must be enforced; missing inputs refuse activation. Separate owner notice/policy approval is required before activation, not before independent source construction. External-facts wait retains12 October04:12Z."
+        "text": "Complete the original activation-gate policy correction and release (local33951787 returned by14:34Z;45 tests and45 pins passed,520 lines). The original builder must apply the already-delivered policy-URL correction before publication. Required approved notice inputs remain absent, so activation stays closed. Keep original reviews and release custody; external-facts wait retains12 October04:12Z."
       },
       {
         "complete": false,
-        "text": "Verify logging in the scheduled service and its natural nightly result (#4943 merged13:37:25Z; active web source verified13:46:19Z). Scheduled-service deployments failed; original owner awaits the next natural build. Web deployment does not prove cron deployment or the03:45Z retention outcome."
+        "text": "Recover the scheduled logging service and verify its natural nightly result (#4943 merged13:37:25Z and active on the web service). A fourth scheduled-service build failed14:11:44Z; the original chair identified the regional build-platform incident and owns recovery. After platform recovery, the chair selects the permitted deployment; actual03:45Z retention proof remains. Web deployment is not scheduled-service acceptance."
       },
       {
         "complete": false,
@@ -278,7 +278,7 @@
       },
       {
         "complete": false,
-        "text": "Complete seven native iPhone rows and remaining performance controls (original wait16 October20:16Z; numeric-contract wait16 October14:30Z). #4927 merged13:48:35Z. First hosted run ended13:53:50Z: current iPhone page-open timed out; small-iPhone images show signed-out EON and a disappearing Safari callout, not scroll or storefront acceptance. The original guest-functional brief is released to its existing inbox; START/result unverified. All seven rows remain NOT EXERCISED; no third Mac attempt or repeated hosted capture."
+        "text": "Complete seven native iPhone rows and remaining performance controls (original wait16 October20:16Z; numeric-contract wait16 October14:30Z). The original guest-functional writer returned locala3cca63f by14:34Z; Hands owns its workflow bundle/publication and the held Safari-readiness correction next. No functional hosted run has occurred. Earlier current-iPhone page-open timed out; small screenshots did not prove scroll or storefront acceptance. All seven rows NOT EXERCISED. Only original Hands may run the authorized second hosted attempt after readiness-fix merge; no third hosted or Mac attempt."
       },
       {
         "complete": false,
@@ -290,18 +290,22 @@
       },
       {
         "complete": false,
-        "text": "Consume the existing original-owner results (same07:10Z obligation; Root owns the14:10Z due check). Next: #4948 protected results, C1b actual START/result, scheduled-service recovery, and original guest-functional capability/result. Preserve original wait ages; no duplicate jobs."
+        "text": "Consume the existing original-owner results (same07:10Z obligation; Root owns the14:50Z due check). Next: chair disposition of #4948 review publication and protected release, original gate policy correction and guest workflow publication/readiness results, and chair platform recovery. Preserve original wait ages; no duplicate jobs or timer."
       },
       {
         "complete": true,
         "text": "Verify the previous task-site publication (13:40Z–13:45Z, took5min). a5cf1c1e has matching Pages and five exact hosted files at13:45:25Z; immutable history retained."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the consolidated mapping, account-package and hosted-result update (14:09Z–14:12Z, took3min). One push 7d21e853; matching Pages build14:10:58Z and all five hosted files HTTP200/exact14:12:28Z. Source froze14:09:36Z. No Shopify publication."
+      },
+      {
         "complete": false,
-        "text": "Publish this consolidated mapping, account-package and hosted-result update (started 14:09Z, est.5min). One push followed by matching Pages build and five exact hosted-byte comparisons; no Shopify publication."
+        "text": "Publish this consolidated review-recovery and original-writer update (started 14:36Z, est.5min). One push, matching Pages build and five exact hosted-byte checks; no Shopify publication."
       }
     ],
-    "landing": "Lands: task-site update about 14:14Z (5min left; network/build may move it). Whole-draft completion has no verified ETA: protected source, installed TEST acceptance, approved activation inputs, native results and final ratings remain."
+    "landing": "Lands: this task-site update about 14:41Z (5min left; network/build may move it). Whole-draft completion has no verified ETA: protected source, eligible TEST installation, approved activation inputs, connected/native results and three final named-fix ratings remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
