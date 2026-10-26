@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original #4927 repair has returned and its exact head is published; hosted tests and original review are pending. The original connection holder owns its recovered source, while C06 mount START is unverified. Original owners, reviewers and consumed rounds are unchanged.",
+  "workerState": "Original #4929 and C06 Cut A are terminal, not running. Their unpushed source awaits Hands/Chair. C06 Cut B’s original route is recovered; placement/START remains unverified. #4927 hosted tests are running or queued; original review remains unverified. Native and final-rating counts are unchanged.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October08:13:09Z: admission passed on the pushed #4927 repair f98e46f5; Root verified that Ready head08:15:54Z. The returned repair passed14 targeted tests and5 pins, with self-review0 at07:56:13Z. Original connection source recovery was delivered to its existing holder; continuation and C06 mount execution remain unverified.",
+  "lastActualProgress": "26 October08:31:16Z: original #4929 repair completed with both named findings tested. C06 mapping Cut A completed08:13:44Z with source tests passing. #4927 pin proof passed08:30:37Z and guards08:30:45Z. The recovered original C06 mount transcript has been acknowledged; no new continuation execution is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Qualified phone performance, frame/input response and seven native checks remain unproved. The completed loading read is retained with its zero-sized-pane/network limits. C06 needs reviewed canonical TEST mapping and an isolated unpublished same-shop candidate with trusted installation. Guest preparation proceeds before owner sign-in; signed acceptance needs owner-established A/B shoppers. External privacy facts and final ratings remain open; assistant stays off/unmounted.",
-  "current": "The repaired screenshot workflow #4927 is pushed and Ready at f98e46f5. Admission passed08:13:09Z; original review and five hosted test shards remain pending. This release progress does not close functional iPhone acceptance or any final rating.",
-  "next": "Consume the original review and hosted tests through Hands’ existing release route. The original #4929 remote source has been verified and returned to its existing holder for continuation; no duplicate writer. C06 TEST-only mount preparation remains admitted, with START unverified. The existing owner-result check is08:40Z after the due08:15Z action.",
-  "updated": "Prior public snapshot d6d5f18 matched its Pages build08:02:53Z and all five hosted files08:04:23Z. Current source records the exact repaired head pushed/Ready and admission success; this new publication is not yet hosted-verified.",
+  "current": "The original connection repair and C06 mapping patch have finished source work and tests. They await their existing publication decisions; neither is installed. Screenshot-workflow #4927 has passing pin proof and guards, with three test shards running, two queued and original review unverified.",
+  "next": "Hands and chair resolve #4929’s exact-head size disposition and the older validator-coverage concern, then continue its protected release. Hands publishes the separate C06 mapping patch; Ready follows #4929 merge. The original C06 mount transcript is recovered and acknowledged, but its continuation placement is unverified. Consume those original-owner results through the same amended wait, next check09:00Z; no new writer or timer.",
+  "updated": "Prior public0580013 matched its Pages build08:22:29Z and all five hosted files08:23:48Z. Current original-owner source was reconciled08:40Z and report hashes verified08:41Z; this update still needs its own build and hosted readback.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The original #4927 concurrency repair returned with14 tests and5 pins passing, then was pushed and marked Ready at exact head f98e46f5. Admission passed08:13:09Z; original review and five hosted test shards remain pending.",
-    "The existing #4929 connection repair was located and verified remotely. Its source and recovery inputs reached the original holder; continuation/result remains unverified and no replacement writer was started.",
-    "C06 TEST-only mount preparation is admitted but START remains unverified. TEST has only its main theme; no isolated candidate was created or installed. Guest preparation proceeds before later owner-established signed A/B acceptance.",
-    "The due08:15Z action was executed and the same existing wait now returns at08:40Z. This is an owner-result check, not a delivery ETA or a new timer.",
-    "Delivery remains6/11, milestones1/3, native checks0/7 and original final ratings0/3. Loading-read limitations remain; Shopify stays unpublished and assistant off/unmounted."
+    "Original #4929 named repair completed08:31:16Z at fd471793 with both findings tested. It is unpushed; Hands/Chair retain exact-head size disposition and the separate older validator-coverage concern.",
+    "Original C06 mapping Cut A completed08:13:44Z at9f99c6a1 with source tests passing. Hands publication is owed; Ready follows #4929 merge. No TEST mapping row or installation changed.",
+    "C06 mount Cut B’s original transcript was recovered and acknowledged. Same-lineage continuation placement and START are still unverified; no replacement writer was created.",
+    "#4927 exact f98e46f5 remains pushed and Ready. Pin proof and guards passed at08:30UTC; three hosted test shards are running and two queued. Original review remains unverified.",
+    "Counts remain6/11 delivery,1/3 milestones,0/7 native checks and0/3 final ratings. Qualified timing, native and connected acceptance remain open; Shopify stays unpublished and assistant off/unmounted."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST is connected but needs its canonical shop mapping and a same-shop TEST candidate/installation. The existing CRUX draft cannot host a TEST-shop session. Live and mirrored account counts are zero; only signed acceptance requires owner-established A/B shoppers. External retention facts and connected privacy acceptance remain open. Owner: Original connection writer owns the separate mapping follow-up, original C06 writer prepares the TEST mount, original Website remains installer, and chair retains configuration authority. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; mapping read completed26 October06:28:50Z, A2 adopted06:39Z and Bridge relay verified06:41:59Z. Hands acknowledged both scopes at07:20Z. Original #4929 remote source recovery is now verified and delivered to its existing holder; its continuation/result remains unverified. C06 mount Cut B is admitted but START is unverified. TEST has only its main theme; an isolated unpublished candidate remains to be created through the original authorized route.",
+      "blocker": "TEST is connected but needs its canonical shop mapping and a same-shop TEST candidate/installation. The existing CRUX draft cannot host a TEST-shop session. Live and mirrored account counts are zero; only signed acceptance requires owner-established A/B shoppers. External retention facts and connected privacy acceptance remain open. Owner: Original connection writer owns the separate mapping follow-up, original C06 writer prepares the TEST mount, original Website remains installer, and chair retains configuration authority. Hands/CS retain external facts. Wait: External facts preserve 12 October 04:12Z; mapping read completed26 October06:28:50Z, A2 adopted06:39Z and Bridge relay verified06:41:59Z. Hands acknowledged both scopes at07:20Z. Original #4929 repair is terminal at fd471793 and awaits Hands/Chair size and residual-coverage disposition before publication. C06 mapping Cut A is terminal at9f99c6a1; Hands publication is owed and Ready follows #4929 merge. The original Cut B mount transcript is recovered and acknowledged; continuation placement/START remains unverified. TEST has only its main theme; an isolated unpublished candidate remains to be created through the original authorized route.",
       "next": "Continue the original reviewed mapping and TEST-only guest preparation independently of sign-in; bind actual TEST source and installation before permitted guest observations. The owner establishes A/B accounts for signed acceptance. Assistant remains off/unmounted; no Style/Save writes. No new admission question or blanket P694 hold."
     },
     {
@@ -229,7 +229,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4 and36 Stores checks pass. Genuine200% observation is now captured at three widths, with original-reader acceptance pending. Native iPhone, timing and connected journeys remain. The browser turn is complete; no Website native grant exists. The last recorded Website qualification failed; no Website grant is present. The original cloud screenshot-workflow repair f98e46f5 is pushed and Ready; admission passed08:13:09Z. Original review and five hosted test shards remain pending. This supplies no functional native credit. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; the timing wait is retained, with its exact initial time unknown and a documented refusal by22October03:16:59Z. The retained Website queue is P212, Home4852, then Website; original Hands reconciles current predecessor dispositions.",
+      "blocker": "Header C1–C4 and36 Stores checks pass. Genuine200% observation is now captured at three widths, with original-reader acceptance pending. Native iPhone, timing and connected journeys remain. The browser turn is complete; no Website native grant exists. The last recorded Website qualification failed; no Website grant is present. The original cloud screenshot-workflow repair f98e46f5 is pushed and Ready; admission passed08:13:09Z. Pin proof and guards passed08:30Z; test shards1/2/4 are running and0/3 queued, with original review still unverified. This supplies no functional native credit. Owner: Website release coordinator; original Hands allocator and browser/native acceptance owners. Wait: Native wait since 16 October 20:16Z; the timing wait is retained, with its exact initial time unknown and a documented refusal by22October03:16:59Z. The retained Website queue is P212, Home4852, then Website; original Hands reconciles current predecessor dispositions.",
       "next": "The single loading read completed07:19:02Z and verified the correct unpublished theme; the one-tab wait is closed. A zero-sized pane and network delay mean its loading/paint observations cannot qualify phone performance. Original Hands identifies a supported visible-viewport or qualified native route for remaining frame/input evidence; no replay of the completed read. Keep the completed zoom capture and return it in the original final named-fix packet; do not recapture it. The original native owner starts its 7 checks only on a Website grant. Hand over the unpublished draft after all required acceptance passes."
     },
     {
@@ -253,8 +253,16 @@
         "text": "Resolve the TEST mount target and mapping prerequisite from existing evidence (mapping read06:25:55Z–06:28:50Z, took3min; A2 adopted06:39Z, Bridge relay verified06:41:59Z). Canonical TEST shop mapping is missing; CRUX theme166627606744 is not a TEST-shop theme. No new probe or write."
       },
       {
+        "complete": true,
+        "text": "Consume the original #4929 and C06 mapping source results (original #4929 ended08:31:16Z; C06 Cut A ended08:13:44Z; receipts verified08:41Z). Both named #4929 findings have source tests; Cut A source tests passed. Neither result is publication, installation or connected acceptance."
+      },
+      {
         "complete": false,
-        "text": "Continue the separate connection-mapping follow-up and original C06 TEST-only mount preparation (original A2/Hands custody retained; original #4929 remote source and transcript verified, locator and recovery inputs delivered to its existing holder; continuation/result unverified; Cut B admitted but START unverified; existing owner-result check08:40Z). Preserve original head/review history. TEST inventory has only its main theme; duplication is a possible isolated-target route, with no mutation performed. Original C06 writer prepares the reviewed unpublished TEST mount; Website remains sole installer. Guest preparation proceeds before sign-in. Duration unknown until original execution/result."
+        "text": "Complete original #4929 publication and the dependent C06 mapping release (Hands/Chair own the next disposition; candidate fd471793 is unpushed). The 641-line named repair requires its exact-head size disposition; the older validator-coverage concern remains with the original chair. Separate C06 Cut A candidate9f99c6a1 is terminal and awaits Hands publication; Ready follows #4929 merge. No duplicate writer or protected-head edit. Duration unknown until original disposition and review."
+      },
+      {
+        "complete": false,
+        "text": "Continue the original C06 TEST-only mount preparation (original Cut B transcript recovered and acknowledged; same-lineage continuation placement and START unverified). Original Hands owns continuation; Website remains sole installer of reviewed source onto a qualified unpublished TEST target. TEST has only its main theme; no creation or installation occurred. Guest preparation proceeds before sign-in. Duration unknown until original placement/result."
       },
       {
         "complete": false,
@@ -270,11 +278,11 @@
       },
       {
         "complete": false,
-        "text": "Obtain qualified remaining performance/interaction evidence (original Hands/native owner; broader timing first wait remains unknown, documented refusal by22October03:16:59Z). Identify a supported nonzero visible viewport or qualified native route; input feedback, frames and usable LCP remain unmeasured. No replay, CDP or observer. Existing next owner-result check08:40Z; duration unknown until qualification."
+        "text": "Obtain qualified remaining performance/interaction evidence (original Hands/native owner; broader timing first wait remains unknown, documented refusal by22October03:16:59Z). Identify a supported nonzero visible viewport or qualified native route; input feedback, frames and usable LCP remain unmeasured. No replay, CDP or observer. Next trigger: original supported measurement/allocation result; duration unknown until qualification."
       },
       {
         "complete": false,
-        "text": "Complete the seven native iPhone checks on the same draft (waiting since16 October20:16Z; source173/47/25; own Website grant required; est.13min after START). Original #4927 named repair returned f98e46f5 with14tests/5pins passing and self-review0 at07:56:13Z. That exact head is now pushed and Ready; admission passed08:13:09Z, verified by Root08:15:54Z. Original review and five hosted test shards remain pending; protected merge precedes its first hosted screenshot run. Screenshot-workflow proof does not establish the seven functional checks. No native credit or duplicate allocation."
+        "text": "Complete the seven native iPhone checks on the same draft (waiting since16 October20:16Z; source173/47/25; own Website grant required; est.13min after START). Screenshot-workflow #4927 exact headf98e46f5 is pushed and Ready, admission green. Pin proof passed08:30:37Z and guards08:30:45Z; test shards1/2/4 running and0/3 queued at the latest read. Original review remains unverified. Protected merge precedes its first hosted screenshot run; screenshot proof does not close the seven functional checks. No native credit or duplicate allocation."
       },
       {
         "complete": false,
@@ -302,7 +310,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the existing qualified-acceptance owner results (08:15Z due action executed; same07:10Z wait amended08:17:36Z; next check08:40Z or earlier original review/test, measurement or C06 result). Root retains the original waiting record and follow-through; no new wait, timer or permission gate. Presenter publishes the next substantive returned result."
+        "text": "Consume the existing qualified-acceptance owner results (08:40Z source reconciliation completed; the same07:10Z obligation and first waits are retained). Next check09:00Z under the same amended wait, or earlier original Hands #4929 size/publication disposition, Cut A publication, Cut B continuation or qualified measurement result. Root owns the existing return route; no new wait or timer. Presenter publishes a substantive returned result."
       },
       {
         "complete": true,
@@ -313,11 +321,15 @@
         "text": "Publish and verify the original-repair execution snapshot (08:01Z–08:04Z, took3min). One pushd6d5f18; matching Pages build08:02:53Z; all five changed hosted files returned HTTP200 and exact committed bytes by08:04:23Z. The later terminal repair receipt is local next-state only; no additional publication."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the repaired-workflow release update (08:21Z–08:23Z, took2min). One push0580013; matching Pages build08:22:29Z and all five hosted files returned HTTP200 with exact committed bytes by08:23:48Z. No second publication or storefront effects."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify the repaired-workflow release update (started08:21Z, est.5min). One publication; matching Pages build and five exact hosted files required. Previous d6d5f18 remains the last fully verified publication until then."
+        "text": "Publish and verify the completed-source and original-release update (started08:43Z, est.5min). One push, matching Pages build and five exact hosted files; previous0580013 remains the verified snapshot until completion."
       }
     ],
-    "landing": "Lands: task-site verification about08:27Z; HTTPS or Pages can move it. Existing owner-result check08:40Z is not a draft-delivery ETA. Remaining delivery requires original review/tests, qualified performance/native proof, reviewed TEST mapping/mount, signed A/B acceptance, privacy facts and final named-fix ratings. Counts6/11,1/3,0/7,0/3 unchanged; Shopify remains unpublished."
+    "landing": "Lands: task-site verification about08:50Z; Pages or HTTPS may move it. Full draft delivery has no defensible ETA until original publication/review, qualified performance/native evidence, reviewed TEST mount, signed A/B acceptance, external privacy facts and final named-fix ratings. Counts6/11,1/3,0/7,0/3 unchanged; Shopify remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
