@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Source qualification completed12:50:42Z; the original C06 successor owns compatible mount preparation, with no upload or activation. Root’s12:49Z read confirms #4937 first approval and pins passed, one test group running/four queued. #4943 has first approval/pins passed, four test groups passed/one queued. #4927 named correction is placed; START/result unverified.",
+  "workerState": "C2 inactive account-page work is running from13:30:04Z. C1 stopped before code13:24:59Z; Hands approved its fail-closed continuation13:37:15Z after the account Draft frees the worktree. The original read-only notice proposal started13:39:45Z. Mapping #4937 has all tests passed with critical review/merge pending. Logging #4943 merged13:37:25Z. #4927 has all tests and first final named-round3 approval passed; critical review/merge remain.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October12:30:40Z: #4942 merged after both original approvals. One unpublished TEST copy was confirmed12:37:17Z. Source qualification completed12:50:42Z and identified the compatible-mount dependency before any upload. Mapping #4937 and logging #4943 have first approvals and further passing checks; acceptance counts remain unchanged.",
+  "lastActualProgress": "26 October13:30:04Z: inactive account-page work started. The13:35:19Z live-source read found no approved notice values. Hands approved the fail-closed gate build13:37:15Z, logging merged13:37:25Z, and #4927’s first final named approval returned13:37:34Z. The original notice proposal started13:39:45Z. Acceptance counters are unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -99,9 +99,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Decision and installed safeguards verified — external facts and acceptance open",
-      "Original decision, installed masking, inactive controls and separate operational cleanup are verified. Controls remain off; operational cleanup does not prove shopper erasure.",
-      "Original Hands/CS supply existing retention metadata when available; unknown stays unknown without a new build or duplicate query. Connected proof and a notice limited to established claims remain. Original external-facts wait 12 October 04:12Z remains. Read-only and native checks retain their own access/scope/allocation requirements."
+      "Installed safeguards verified — inactive mount building; notice and acceptance open",
+      "Original masking/inactive controls are verified. TEST is connected and one copy is unpublished. Original inactive account-page work started13:30:04Z; the separate notice-gate work stopped before code13:24:59Z, and live notice values were absent13:35:19Z.",
+      "Original builder completes inactive source, then review/install. The approved gate build follows C2 Draft/free worktree; approved notice and owner approval are required only before activation. Mapping release, logging deployment/nightly proof, external facts and connected/signed acceptance remain; original external-facts wait12 October04:12Z is retained."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST copy uses a different base theme, so copying the draft directly would omit dependencies and conflict with settings/layout. The compatible mount remains with the original builder. #4927 correction START/result is unverified; signed cases need owner-established A/B. Native checks and final ratings remain unearned.",
-  "current": "The TEST mount repair is merged and one unpublished TEST copy is ready. Source qualification found base-theme dependencies that the original C06 builder must resolve for a compatible mount. No theme files have been uploaded or assistant enabled.",
-  "next": "The original C06 builder prepares the compatible TEST mount, then its review and verified installation follow. Original mapping and logging checks continue. #4927 has one named review fix placed with its original writer; hosted guest checks remain held until its protected merge.",
-  "updated": "Publicb1a397d1 matches Pages build12:35:03Z and all five hosted files at12:36:25Z on26 October. Each returned HTTP200 and exact byte equality to committed source. Published release snapshot is as of12:29:21Z; local plan completion is recorded after readback without another push.",
+  "remaining": "The activation-gate build awaits the original account-page Draft and free worktree, not new notice wording. Activation itself remains closed until approved notice inputs and the owner’s approval exist. Protected releases, signed A/B and hosted native evidence remain; no fourth workflow review or third Mac attempt is authorized.",
+  "current": "The original builder is preparing the inactive TEST account page, with execution verified from13:30:04Z. Hands approved the subsequent gate build: it must refuse activation without approved notice inputs. That build follows the account-page Draft; no TEST upload or assistant activation has occurred.",
+  "next": "Complete the original inactive account-page Draft, then review/install eligible source and continue the approved activation-gate build in the same worktree. The original notice proposal goes to the owner before any activation. Mapping #4937 awaits critical review/merge; logging #4943 is merged and needs deployment/nightly proof. #4927 awaits its critical final named check.",
+  "updated": "Public e30c79a8 matches Pages build12:53:52Z and all five hosted files at12:55:03Z on26 October. Each returned HTTP200 and exact byte equality to committed source. Published release snapshot is as of12:50:42Z; local plan completion is recorded after readback without another push.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The TEST mount repair #4942 passed both original code approvals and merged12:30:40Z. Its reviewed installer files match the merge.",
-    "Exactly one same-shop TEST copy was confirmed unpublished12:37:17Z. Qualification completed12:50:42Z and found base-theme dependencies; the original builder must prepare a compatible mount before review and installation. No theme files were uploaded or assistant enabled.",
-    "#4927’s second round-two code review rejected one medium artifact-naming finding12:34:59Z. The original Hands placed its named correction; START/result is unverified. Hosted guest-only Safari work stays held until its merge; no third Mac attempt.",
-    "Root’s12:49Z release read confirms mapping #4937 has first approval and pins passed, with one test group running and four queued. Logging #4943 has first approval/pins passed and four test groups passed, with one queued. Neither is merged in this snapshot.",
-    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. A created test theme and code approvals are progress; they do not prove installed, active or accepted shopping journeys."
+    "The original notice-gate work stopped before code13:24:59Z. Hands approved its fail-closed continuation13:37:15Z: source work follows the account Draft/free worktree, and missing approved notice inputs must refuse activation. The separate read-only notice proposal started13:39:45Z for the owner’s decision; no wording or approval is invented.",
+    "Independent inactive account-page work actually started13:30:04Z with its original builder. The one existing TEST copy stays unpublished; no theme files uploaded and no assistant activation.",
+    "Mapping #4937 has all five test groups and its aggregate gate passed; critical review/merge remain. Logging #4943 passed its second original approval13:36:10Z and merged13:37:25Z. Deployment and the actual nightly retention result are still required.",
+    "#4927’s corrected headcc2da20f has all five test groups and the aggregate gate passed13:34:19Z. Its first final named-round3 approval returned13:37:34Z; critical review/merge remain, with no fourth round. Hosted guest-only Safari work stays held until merge; no third Mac attempt.",
+    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. These counters track accepted outcomes, not the amount of code or test activity."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST is connected and one same-shop copy is unpublished. #4942 is merged; source qualification found missing base-theme dependencies and settings/layout conflicts, so the original C06 builder must prepare a compatible mount before installation. No theme files were uploaded or assistant enabled. #4937 mapping has its first approval/pins passed, one test group running/four queued. #4943 logging has first approval/pins passed, four test groups passed/one queued. External retention facts and connected privacy acceptance stay open; signed cases need owner-established A/B. #4929 active source/local HTTP are verified, while external403 leaves public rendered acceptance unproved. Owner: Original C06 builder, protected reviewers and release holders; Website installer; chair configuration owner; Hands/CS fact custodians. Wait: External facts retain12 October04:12Z; closed connection/merge/local-delivery waits stay closed.",
-      "next": "Consume the original compatible mount and mapping/logging release results, then install and read back the eligible unpublished TEST source. Guest observations retain their authorized scope; signed cases need A/B. Logging acceptance needs the actual nightly result after release. Assistant stays off/unmounted; no Style/Save writes or blanket hold on independent guest work."
+      "blocker": "TEST is connected and the existing copy remains unpublished. The original inactive account-page source is building from13:30:04Z; review/installation follow. The notice-gate continuation is approved to build after C2 Draft/free worktree; missing approved notice inputs must refuse activation. Actual activation needs approved inputs and the owner’s decision, while the separate read-only notice proposal is running. #4937 mapping has all tests and first approval passed; critical review/merge remain. #4943 logging is merged13:37:25Z after both original approvals; deployment and nightly proof remain. External retention facts and signed A/B acceptance are still open. #4929 active source/local HTTP are verified; external403 leaves public rendered acceptance unproved. Owner: Original C06 builder, protected reviewers/release holders, Website installer, chair notice-scope owner and Hands/CS fact custodians. Wait: External facts retain12 October04:12Z; C1 stopped13:24:59Z; C2 actual start13:30:04Z.",
+      "next": "Consume the original inactive source and release results, review/install eligible TEST files, then continue the approved gate build in the original worktree. Keep activation closed until approved notice inputs and the owner’s decision; do not block independent inactive/guest preparation. Signed cases need A/B; logging acceptance needs the actual nightly result."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations and visible380×844 evidence are retained. One desktop journey reported INP60ms and CLS0; remaining native and connected evidence is separate. The final Mac attempt stopped before UI after its correctly timed load check; cleanup completed11:52:12Z. All seven rows remain NOT EXERCISED and the Mac route is closed. Hands approved hosted fresh-guest Mobile Safari checks12:11:17Z; this scope is not retained or signed context. The original follow-up is held until #4927 merges. Its tests and first round-two approval pass; the second review returned one artifact-naming finding12:34:59Z. Original correction is placed; START/result remain unverified. Owner: Original Website/native owner, Hands allocator and original hosted writer; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z. Both Mac attempts are consumed.",
-      "next": "After #4927 merge, the original hosted writer first probes supported Safari control; an unsupported route returns its exact error. Bind the unpublished theme, observed guest/bag state and loaded URLs, leaving unknown source comparison explicit. Actual200% needs Safari page-menu setting/readback. Retained/signed contexts, final evidence and original named-fix ratings still need their own acceptance."
+      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations and visible380×844 evidence are retained. The scoped desktop journey reported INP60ms and CLS0; native/connected evidence remains separate. Both Mac attempts are consumed; all seven rows remain NOT EXERCISED, cleanup is complete and no third attempt is allowed. Hosted fresh-guest Mobile Safari scope is approved but held until #4927 merges. Its corrected headcc2da20f has all test groups passed and first final named-round3 approval13:37:34Z; critical review and merge remain, with no fourth round. Owner: Original Website/native owner, Hands allocator and original hosted writer; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z.",
+      "next": "After protected merge the original hosted writer probes supported Safari control. Bind the unpublished theme, observed guest/bag state and loaded URLs, leaving unknown source comparison explicit. Actual200% needs Safari page-menu setting/readback. Retained/signed contexts and final original-reader acceptance remain separate."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -266,7 +266,7 @@
       },
       {
         "complete": false,
-        "text": "Complete C06 mapping #4937 through its original holder (head955e03f7 published/Ready, admission12:20:24Z). Root12:49Z confirms first approval and pins passed; one test group runs and four are queued. Writer is terminal; protected release and installation remain. No duplicate writer; duration depends on original jobs."
+        "text": "Complete C06 mapping #4937 through its original holder (head955e03f7; release read13:28Z). All five test groups and the aggregate gate passed; first approval and pins are retained. Critical review, protected merge and installation remain. Writer is terminal; duration depends on the original release jobs."
       },
       {
         "complete": true,
@@ -274,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "Complete compatible TEST mount and verified installation after #4942 merge (both approvals; merged12:30:40Z; one unpublished copy confirmed12:37:17Z). Source qualification12:50:42Z found base-theme dependencies and settings/layout reconciliation. Original admitted C06 successor owns the compatible mount, followed by review and installation. No theme files uploaded/enabling; main and CRUX remain untouched. Duration depends on original source/review result."
+        "text": "Complete the inactive TEST account-page mount (original C2 started13:30:04Z, result pending). One same-shop copy remains unpublished; no theme files uploaded or assistant enabled. The original builder is resolving base-theme dependencies and settings/layout compatibility. After its source result, independent review and verified installation follow; this work is independent of the notice decision."
       },
       {
         "complete": false,
@@ -286,11 +286,11 @@
       },
       {
         "complete": false,
-        "text": "Complete seven native iPhone checks and remaining performance controls (original wait16 October20:16Z). Both Mac attempts are consumed; all seven rows NOT EXERCISED, no third Mac attempt. Hosted fresh-guest Safari scope is approved but held until #4927 merges. Its second round-two review rejected one medium artifact-naming finding12:34:59Z; original named correction is placed, START/result unverified. After protected merge the original writer probes supported Safari control; guest/bag state and native page-menu200% need observation. Retained/signed context and final ratings stay separate."
+        "text": "Complete seven native iPhone checks and remaining performance controls (original wait16 October20:16Z). Both Mac attempts are consumed; all seven rows NOT EXERCISED, no third attempt. Hosted fresh-guest Safari scope is approved but held until #4927 merges. Its named correction is pushed atcc2da20f; all five test groups and aggregate gate passed13:34:19Z. First final named-round3 approval returned13:37:34Z; critical review and merge remain, with no fourth round. After protected merge the original writer probes supported Safari control; guest/bag state and native page-menu200% need observation. Retained/signed context and final ratings stay separate."
       },
       {
         "complete": false,
-        "text": "Close remaining external privacy facts and connected notice/retention acceptance (original Hands/CS; unanswered facts retain12 October04:12Z). Root12:49Z confirms #4943 first approval and pins passed, four test groups passed/one queued. Protected release, deployment and actual nightly result remain. No policy activation or blanket hold on guest work; duration depends on original results."
+        "text": "Build the original TEST activation gate after C2 reaches Draft and frees its worktree (original C1 stopped before code13:24:59Z; Hands approved the fail-closed continuation13:37:15Z). Approved notice inputs are required at activation, not a hold on source construction. A missing input must refuse activation. The original notice proposal started read-only13:39:45Z and goes to the owner for approval; no activation or invented wording. #4943 merged13:37:25Z after both original approvals; deployment and actual nightly03:45Z retention proof remain. External facts retain12 October04:12Z; independent inactive/guest preparation continues."
       },
       {
         "complete": false,
@@ -306,14 +306,14 @@
       },
       {
         "complete": false,
-        "text": "Consume existing original-owner results (same07:10Z obligation; Root owns its retained due check and any amendment). Next: original compatible-mount result, #4937/#4943 protected results and #4927 named correction before hosted guest work. External connection-page403 still prevents public rendered acceptance. No duplicate work or timer."
+        "text": "Consume existing original-owner results (same07:10Z obligation; Root’s retained check is13:45Z). Next: original inactive C2 result, C1 continuation after the original worktree is free, #4937 critical review, #4943 deployment/nightly proof and #4927 final critical check before hosted guest work. External connection-page403 still prevents public rendered acceptance. Root owns the existing result follow-through; no duplicate job or timer."
       },
       {
         "complete": false,
-        "text": "Publish and verify the consolidated TEST-copy and release update (prepared12:45Z; installer result received and incorporated 12:52Z; est.3min to publish/verify). Priorb1a397d1 remains verified5/5. One push, matching Pages build and five exact hosted files; no intermediate publication."
+        "text": "Publish and verify this consolidated notice, account-mount and release update (started 13:40Z, est.5min). Prior e30c79a8 is complete with five exact hosted files. One new push, matching Pages build and all five exact hosted files; no Shopify publication."
       }
     ],
-    "landing": "Lands: task-site update about 12:55Z (3min after source freeze; build/transport may extend it). Whole-draft completion remains conditional on compatible mount, protected release/install, guest/signed/native acceptance and three original final ratings; no final ETA."
+    "landing": "Lands: task-site update about 13:45Z (5min; Pages build or transport may extend it). Whole-draft completion still depends on original source/release results, inactive installation, approved notice before activation, connected/native acceptance and three final named-fix ratings; no final ETA."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
