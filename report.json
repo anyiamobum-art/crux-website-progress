@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Verified17:18 UTC: the original account-page writer finished17:13:17; pushed a105b098 is still Draft, awaiting the existing publisher’s Ready action. No replacement writer or repeated push is needed. No TEST installation or activation has occurred.",
+  "workerState": "Verified17:32 UTC: the release coordinator marked the exact account-page repair Ready once and read back isDraft=false. Normal automatic checks and review own the next results. The original iPhone repair retains its writer; no TEST installation or activation has occurred.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October17:13–17:18 UTC: the narrow repair passed34 focused checks and eight regression checks, was pushed, and all120 prepared files matched the corrected head. The separate CRUX notice copy was verified byte-for-byte against its reviewed merge; a classifier-input difference was reproduced and returned to the original authority.",
+  "lastActualProgress": "26 October17:32 UTC: the account-page PR entered normal review with the same120-file package. Earlier, all ten guest-run artifact hashes were checked and the Safari startup repair was placed. Four offline scripts are prepared for the separate notice-copy installation.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Account-page admission has eleven passing items and one Draft-status failure; the test suite was skipped under Draft. Separately, notice-copy review metadata says critical while the merged PR says standard. Original custodians have the exact evidence. Approved notice inputs, TEST shoppers and qualified phone evidence remain open.",
-  "current": "The account-page wording repair is pushed at a105b098. All120 source files still match the prepared TEST package. Its remaining admission failure is Draft status; the original publisher has the eligible Ready action. The CRUX notice-copy asset is prepared separately.",
-  "next": "Return the corrected account-page PR to normal CI and original review, then install the qualified TEST package. Resolve the notice-copy review classification before its separate CRUX draft installation. The original chair owns the unfinished phone-run disposition.",
-  "updated": "Previous publicc14f515 matches its Pages build and all five hosted files at17:00:23Z. This newer source update is prepared for publication; counters and final scores remain unchanged.",
+  "remaining": "Account-page Draft status is cleared; original CI/review/merge remain. Notice-copy review and merge records disagree about the required approval tier. The guest iPhone test stopped before any of seven checks. Approved notice inputs, TEST shoppers and connected acceptance remain open.",
+  "current": "The repaired account-page PR is now Ready on exact a105b098. Automatic CI and original review are next; no additional source push was made. The original writer is repairing the guest iPhone test’s Safari accessibility startup failure.",
+  "next": "Consume account-page CI and original review, complete its protected merge, then install the qualified TEST package. Resolve notice-copy classification for the separate CRUX draft installation. Finish the original iPhone startup repair before any authorized run.",
+  "updated": "Public snapshot9b43b62 matches its Pages build and five hosted files at17:22:14Z. This new source snapshot includes the verified Ready action and guest iPhone failure; it is being published. Delivery and rating counts remain unchanged.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The account-page repair finished17:13 UTC and is pushed at a105b098. Its34 focused checks and eight regression checks passed. All120 package files still match. Admission now fails only because the PR is Draft; the existing publisher has the Ready action, followed by normal CI and original review.",
+    "The account-page repair is now Ready: exact a105b098 was verified after the17:32 UTC action. Its34 focused checks, eight regression checks and120 matching package files are retained. Normal CI, original review and protected merge follow; no extra source push or review was dispatched.",
     "The merged CRUX notice-copy asset is prepared: its reviewed and merged bytes are identical, and it changes only the sentence explaining what Ask sends. It has not been uploaded or enabled. Conflicting review classifications are with the original authority before installation.",
     "Activation safeguards are merged as b181e72f and EON release readback is verified. This is source deployment, not settings activation or approval of the real notice values.",
-    "The second hosted iPhone run completed in EON screenshot mode and skipped the required CRUX guest mode. The original chair has the diagnosed mode mismatch and remaining capability card. Native storefront acceptance remains0/7; no third run has been authorized.",
+    "A later, separately authorized guest iPhone run failed before any shopping check: Safari opened but its accessibility tree was unavailable. All seven rows remain unexercised. The original writer has the specific startup repair; review and merge precede any later authorized run.",
     "The public report keeps the same delivery gates6/11, final milestones1/3 and final rating passes0/3. The scoped Shopify settings refinements are separately complete2/2. The storefront stays unpublished."
   ],
   "openDeliveryGates": [
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Account-page #4948 is pushed at a89fc647 and remains Draft pending the original proof-wording correction and protected release. All120 hashes and34 focused checks passed; the notice test did not execute because dependencies were missing. Notice-copy #4951 and activation #4949 are merged. The corrected TEST package passed all14 offline checks and remains uninstalled. Approved notice inputs, nightly retention and actual TEST A/B shopper bindings are still required. Owner: Original C06 writers/reviewers, chair, Website installer and CS. Wait: External facts retain12 October04:12 UTC; this source push was verified16:55 UTC.",
-      "next": "Consume the original correction and protected release, install and read back exact reviewed files, then perform connected acceptance with the required inputs. Zero uploads or activation."
+      "blocker": "Account-page #4948 at a105b098 is now Ready, verified17:32 UTC; ordinary CI and original review are pending. All120 source files match the prepared TEST package,34 focused checks and eight regression checks pass; normal CI still owes the notice test. Notice-copy #4951 is merged but its conflicting review classification must be reconciled before the CRUX asset installation. Activation safeguards #4949 are merged. Approved notice inputs, nightly retention and actual TEST A/B shopper bindings remain required. Owner: Original C06 writers/reviewers, chair, Website installer and CS. Wait: External facts retain12 October04:12 UTC; account-page push verified17:16 UTC and Ready17:32 UTC.",
+      "next": "Complete original CI/review/merge, install and read back eligible files, and exercise connected acceptance with the required inputs. Zero uploads or activation."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Desktop header, Stores, genuine200% and scoped timing evidence is retained. Both phone-workflow repairs are merged. The second hosted run succeeded in EON screenshot mode but skipped all CRUX guest steps, so native acceptance remains0/7. Owner: Original Website/P212/Hands owners and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract first wait remains16 October14:30 UTC.",
-      "next": "Chair resolves the existing acceptance-gap card, due17:10 UTC, then the same original owners take only its authorized next step. The retry grant is consumed; no third run or final-rating credit."
+      "blocker": "Desktop header, Stores, genuine200% and scoped timing evidence is retained. The later explicit guest iPhone run failed before any row because Safari accessibility was unavailable. Native acceptance remains0/7 and theme binding was not read. Owner: Original Website/P212 writer, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract first wait remains16 October14:30 UTC.",
+      "next": "Consume the original bounded accessibility repair, complete protected review and merge, then obtain the chair’s subsequent run disposition. Original parent next result check17:50 UTC. No duplicate run or final-rating credit."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -254,11 +254,15 @@
       },
       {
         "complete": false,
-        "text": "Qualify the merged notice copy for the CRUX draft (started17:03Z, est.15min). Reviewed and merged bytes match; one asset is prepared. The review record says critical while the merged PR is labelled standard with one visible approval. Original release authority must reconcile that discrepancy before installation; settings stay OFF."
+        "text": "Qualify and install the merged notice copy in the CRUX draft (started17:03Z; waiting on the original release authority since17:15Z, next check17:40Z). Exact reviewed/merged bytes and one-asset installation scripts are prepared. The review record says critical while the merged PR says standard with one visible approval; canonical classification remains owed. The original15min estimate expired because that prerequisite is unresolved; execution after qualification is estimated12min. Settings stay OFF."
+      },
+      {
+        "complete": true,
+        "text": "Return the corrected account-page PR to normal review (17:30Z–17:32Z, took2min). Exact a105b098 was marked Ready once and read back unchanged. No source push or manual test/review dispatch."
       },
       {
         "complete": false,
-        "text": "Complete the account-page source reconciliation (original repair16:40Z–16:44Z, took4min). The same holder corrected the one stale pin at a89fc647; all120 file hashes and34 focused checks passed. The notice test could not run because its dependencies were missing. Pushed a89fc647 is verified16:55Z. Current checks stopped because the PR remains Draft. The original writer finished17:13:17Z at a105b098, and its push is verified. All120 payloads match. Admission fails only on Draft; the existing publisher has the eligible Ready action. Installation is still fenced."
+        "text": "Complete account-page CI, original review and protected merge (started17:32Z, duration depends on original jobs). All120 package hashes remain matched; normal CI owes the notice test. Keep the same holder and review history, then install the qualified TEST files."
       },
       {
         "complete": true,
@@ -281,8 +285,12 @@
         "text": "Consume the second hosted run and its actual scope (16:32Z–16:36Z, took4min; artifacts consumed by16:40Z). Safari opened on both phones, but the EON screenshot mode skipped all CRUX guest steps. This completes result consumption, not storefront acceptance."
       },
       {
+        "complete": true,
+        "text": "Consume the separately authorized guest iPhone run (17:10Z–17:15Z, took5min; original parent verified17:23Z). Explicit guest mode ran, but Safari accessibility was unavailable before the first row. All seven rows remain unexercised and the theme binding is unknown. Ten artifact hashes were verified; no acceptance credit."
+      },
+      {
         "complete": false,
-        "text": "Resolve the original phone acceptance-gap card (same handoff16:40Z; chair disposition overdue17:10Z; original card ELSE returned). Source and run receipts prove the default screenshot mode skipped the required guest test; explicit guest-mode selection is required for any authorized future execution. This diagnosis was delivered to the original Bridge; its adoption and the chair disposition remain. Native rows0/7, existing retry consumed, no third run authorized."
+        "text": "Complete the original Safari accessibility repair and authorized phone check (placed17:17Z; original parent next check17:50Z). The same writer has one bounded startup repair. Review and merge precede any later run, which needs the original chair disposition. No duplicate run or reader."
       },
       {
         "complete": false,
@@ -317,11 +325,15 @@
         "text": "Publish and verify the merge and corrected-source update (16:58Z–17:00Z, took2min). One pushc14f515, matching Pages build16:59:20Z and all five hosted files exact17:00:23Z. Acceptance counts remain unchanged."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the corrected-writer and notice-preparation update (17:20Z–17:22Z, took2min). One push9b43b62, matching Pages17:21:04Z and five exact hosted files17:22:14Z. Later guest-run failure will enter the next consolidated update."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify the corrected-writer and notice-preparation update (started17:20Z, est.4min). Preserve delivery and rating counts; verify one push against Pages and five hosted files."
+        "text": "Publish and verify the Ready and guest-run result update (started17:35Z, est.4min). Verify one push, its Pages build and all five hosted files; acceptance counts stay unchanged."
       }
     ],
-    "landing": "Lands: public update about17:24Z (4min left; Pages build or network could move it). Account-page Ready and notice classification are with the original custodians. Whole draft completion remains unknown until connected and native evidence qualifies."
+    "landing": "Lands: public update about17:39Z (4min after publication starts; Pages or network could move it). Original review and policy check17:40Z; iPhone-repair result check17:50Z. Whole draft completion remains unknown until connected and native evidence qualifies."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
