@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 and36 Stores checks passed;91 artifact hashes are verified. Genuine200% Chrome page zoom is captured at all three base widths, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; the original final reader still owns acceptance. A later visible380×844 draft check found no horizontal overflow and two46px-high bag controls, closing the earlier zero-sized viewport gap. The supported timing reader was unavailable; input latency, frames, usable LCP and native acceptance remain unproved. TEST connection and empty account inventory are verified. Original #4929’s three named fixes are executing from09:30:13UTC; final R3 review remains owed. Mapping Draft #4937 waits for #4929 merge. Original mount preparation completed09:28:24UTC and is now verified as Draft #4942. TEST proxy configuration has been read back without changes and returned to the same writer; that binding correction’s START is unverified. No signed request, isolated TEST theme creation, installation or connected acceptance is inferred. Guest preparation proceeds before owner sign-in; signed A/B cases require owner-established shoppers. The screenshot workflow’s failed shard remains with its original keeper for cause classification. These changes add no functional native or final-score credit. Assistant remains off/unmounted and Shopify remains unpublished. Original-owner work is separate from Argon’s advisory contribution.",
+      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 and36 Stores checks passed;91 artifact hashes are verified. Genuine200% Chrome page zoom is captured at all three base widths, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; the original final reader still owns acceptance. A later visible380×844 draft check found no horizontal overflow and two46px-high bag controls, closing the earlier zero-sized viewport gap. The supported timing reader was unavailable; input latency, frames, usable LCP and native acceptance remain unproved. TEST connection and empty account inventory are verified. Original #4929 named-fix headce71be87 is published and Ready, with final review and exact-head size admission pending. Mapping Draft #4937 waits for #4929 merge. #4942 at795cac7b is now Ready and current admission passes, but its TEST proxy correction remains with the same writer; the current head is not for installation. Cancelled old checks are historical and replacement correctness is queued. No signed request, isolated TEST theme creation, installation or connected acceptance is inferred. Guest preparation proceeds before owner sign-in; signed A/B cases require owner-established shoppers. The screenshot workflow remains open with shard0 running; the original keeper owns a single whole-run retry only after termination. The original native acceptance owner recovered its supported route and saved current evidence offline at09:57:54UTC, with no runtime START. A concrete Chrome Performance-panel proposal is delivered for an original decision due10:29:42UTC; it has not executed. These changes add no functional native or final-score credit. Assistant remains off/unmounted and Shopify remains unpublished. Original-owner work is separate from Argon’s advisory contribution.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -319,10 +319,21 @@
           "title": "Visible phone-width draft verified; timing remains unmeasured",
           "date": "26 October2026 ·09:15–09:18UTC",
           "text": "A supported visible380×844 viewport showed the unpublished draft with no horizontal overflow and two172×46 bag controls. The original viewport was restored and the owner tab closed. The supported read-only performance reader returned TypeError; no CDP, observer or alternative instrumentation was used. This closes only the zero-sized viewport gap, with no native or final-rating credit."
+        },
+        {
+          "title": "Named-fix source published; protected release and TEST correction remain",
+          "date": "26 October2026 · live release read10:08UTC",
+          "text": "#4929 is published and Ready atce71be87; final named review and exact-head size admission remain pending. #4942 at795cac7b is Ready and admitted, but the original TEST proxy correction remains owed, so this head is not for installation. Replacement correctness is queued; cancelled older runs do not describe the current gate. #4927’s original shard0 still runs; one authorized whole-run retry may follow termination. No merge, installation or acceptance credit.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4929"
+        },
+        {
+          "title": "Original native owner recovered; timing proposal awaits decision",
+          "date": "26 October2026 · offline adoption09:57:54UTC / proposed decision10:29:42UTC",
+          "text": "The original owner resumed through its supported collaboration route and saved current evidence offline. No replacement owner, native START or capture. A concrete Chrome Performance-panel proposal is with the original allocation and scope owners; it is not an executed measurement or final score."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T09:43:26.971770+00:00"
+      "sourceAsOf": "2026-10-26T10:11:02.782209+00:00"
     },
     "companion": {
       "number": "04",
