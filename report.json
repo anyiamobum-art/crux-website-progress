@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Verified through 15:55 UTC: account-page #4948 at ec40ed4c received one medium finding at 15:49:03 UTC; the original-writer return was delivered once. Activation #4949 has corrected local head 85dca539 and passed its focused remote checks; original publication is pending. Guest iPhone #4950 has green CI and first approval; its critical review started at 15:42:39 UTC. Notice-copy #4951 has its first approval, and Safari-startup #4952 remains in checks and review.",
+  "workerState": "Verified through 16:03 UTC: guest iPhone #4950 merged as 65459505 after both approvals and all checks passed. Safari-startup #4952 has all five test shards, test gate, guards and pin proof passing; reviews remain. Original account-page licence repair started at 16:00:06 UTC. Activation #4949 is now pushed at 85dca539; its new-head checks are running. Notice-copy #4951 has its first approval and one final test shard still running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October 15:52 UTC: the original activation writer completed the explicit-column repair without changing the blind-write guard or its baseline. At 15:55 UTC the original publisher received that result and the account-page licence finding through the existing handoff. All 117 previously prepared files match the integrated account-page head, but the rejected manifest remains ineligible for installation.",
+  "lastActualProgress": "26 October 16:03:26 UTC: the guest iPhone workflow’s protected merge was verified. At 16:00:06 UTC the same account-page writer started the named licence repair. The activation fix was pushed once at 15:55:15 UTC and verified on GitHub; no source approval was transferred to the new head.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The account-page package cannot be installed until its missing licence notices are corrected and reviewed. The activation correction is locally proved but not yet pushed. Remaining protected reviews, owner-approved notice inputs, TEST shopper binding and scheduled-service recovery are separate requirements. No TEST package upload or activation has occurred.",
-  "current": "The activation repair passed 40 write-drift, 56 activation and 39 mount checks on the remote worker. Its corrected head is ready for the original publisher. The account-page review found omitted licence notices; that named correction has been returned to its original writer.",
-  "next": "Finish the two original repairs and their protected reviews, then install the eligible merged account-page package into the unpublished TEST copy. In parallel, finish the guest iPhone and Safari-startup reviews before the one authorized hosted check.",
-  "updated": "Public bedfb8d was verified against its Pages build and five exact hosted files at 15:47:16Z on 26 October. This newer repair-result snapshot is prepared locally; its matching public readback is pending.",
+  "remaining": "Safari-startup still needs its protected reviews; the account-page manifest needs its named licence correction and review. The activation repair is pushed but not yet approved on its new head. Approved notice inputs, TEST shopper binding and scheduled-service recovery remain separate requirements. No TEST upload or activation has occurred.",
+  "current": "The guest iPhone workflow has passed both independent reviews and merged. Its Safari-startup companion has green protected tests and awaits review. The original account-page licence writer is executing, and the corrected activation change is pushed with new checks running.",
+  "next": "Finish Safari-startup review and merge, then let the original Hands owner run the one authorized second hosted phone check. In parallel, consume the account-page licence correction and activation reviews, then install eligible merged files into the unpublished TEST copy.",
+  "updated": "Public a4d2102 was verified against its Pages build and all five hosted files at 15:58:32Z on 26 October. This newer merge-and-repair snapshot is prepared locally; its matching public readback is pending.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The activation writer completed its correction: 40 write-drift, 56 activation and 39 mount checks passed remotely. The assertion and baseline were preserved. The corrected head still needs publication and protected review; it is not installed.",
-    "The account-page reviewer found omitted licence notices. That one named finding was returned to the original writer. The previously prepared 117-file package is held until its manifest and proof are corrected.",
-    "The guest iPhone workflow’s critical review started at 15:42:39 UTC. Its Safari-startup companion remains in checks and review. The one authorized second hosted run still requires both merges.",
-    "Buyer-trust acceptance remains with the original CS owners. TEST staff/chat context and the existing scoped-read permission remain unresolved; no new sign-in request or customer send has been made.",
-    "The public snapshot is being updated from these actual results. Delivery remains 6/11, final milestones 1/3, native rows 0/7 and final ratings 0/3. Shopify optimization remains complete at 2/2; the storefront stays unpublished."
+    "The guest iPhone workflow passed both independent reviews and merged as 65459505. This closes its release work; the actual phone journeys are still to run.",
+    "Safari-startup now has all five test shards, its test gate, guards and pin proof passing. Its protected reviews remain before the original Hands owner can execute the one authorized second hosted run.",
+    "The activation correction is pushed at 85dca539 after its focused remote checks passed. New-head CI and review are running; no approval was transferred and activation remains off.",
+    "The original account-page writer started the licence correction at 16:00:06 UTC. The rejected package is held until the corrected manifest and proof pass review.",
+    "Delivery remains 6/11, final milestones 1/3, native rows 0/7 and final ratings 0/3. Those count accepted outcomes, not merged intermediate repairs. Shopify optimization remains 2/2; the storefront stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST connection and canonical mapping are verified. The account-page review at ec40ed4c found missing licence notices; its named correction is with the original writer. Activation #4949 has corrected local head 85dca539 with 135 focused remote checks passed; publication and protected review remain. Notice-copy #4951 passed its first review; CI and owner-approved notice inputs remain. The original seven installation batches need a new manifest after the licence fix; 481 originals and settings must remain preserved. Uploads remain zero. Scheduled-service recovery, nightly retention and signed A/B acceptance remain. Owner: Original C06 writers/reviewers, chair, Website installer and CS. Wait: External facts retain 12 October 04:12 UTC; the shared-worktree wait cleared with the 15:40 UTC integration push.",
+      "blocker": "TEST connection and canonical mapping are verified. The account-page review at ec40ed4c found missing licence notices; its original writer started the named correction at 16:00:06 UTC. Activation #4949 is pushed at 85dca539 with 135 focused remote checks passed; new-head CI and protected review remain. Notice-copy #4951 passed its first review; CI and owner-approved notice inputs remain. The original seven installation batches need a new manifest after the licence fix; 481 originals and settings must remain preserved. Uploads remain zero. Scheduled-service recovery, nightly retention and signed A/B acceptance remain. Owner: Original C06 writers/reviewers, chair, Website installer and CS. Wait: External facts retain 12 October 04:12 UTC; the shared-worktree wait cleared with the 15:40 UTC integration push.",
       "next": "Consume the original repair and protected reviews, install and read back eligible merged source, then use approved notice inputs and actual TEST shopper binding for connected acceptance."
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4, 36 Stores checks, three genuine 200% Chrome observations, visible 380 × 844 evidence and scoped desktop INP 60 ms/CLS 0 are retained. All seven native rows remain unperformed. Guest workflow #4950 has green CI and its first approval; Safari-startup #4952 is Ready with checks running. Owner: Original Website/native owner, same hosted writer and Hands. Wait: Functional wait retains 16 October 20:16 UTC; numeric-contract wait retains 16 October 14:30 UTC.",
-      "next": "After both repairs pass their protected reviews and merge, original Hands executes the one authorized second hosted run against the unpublished storefront. Actual 200% requires native Safari menu/readback. No third hosted or Mac attempt; retained/signed context and final-reader acceptance remain separate."
+      "blocker": "Header C1–C4, 36 Stores checks, three genuine 200% Chrome observations, visible 380 × 844 evidence and scoped desktop INP 60 ms/CLS 0 are retained. All seven native rows remain unperformed. Guest workflow #4950 has both approvals and merged as 65459505; Safari-startup #4952 has green protected checks and awaits review. Owner: Original Website/native owner, same hosted writer and Hands. Wait: Functional wait retains 16 October 20:16 UTC; numeric-contract wait retains 16 October 14:30 UTC.",
+      "next": "After the remaining Safari-startup repair passes protected review and merges, original Hands executes the one authorized second hosted run against the unpublished storefront. Actual 200% requires native Safari menu/readback. No third hosted or Mac attempt; retained/signed context and final-reader acceptance remain separate."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -266,11 +266,11 @@
       },
       {
         "complete": false,
-        "text": "Correct the account-page licence finding through its original writer, then complete protected release and installation (finding returned 15:49Z; original-writer handoff delivered 15:55Z). Correct the manifest, notice dependency and sabotage proof; rebind every merged source file before installation. Previous 117-file preparation is held, zero uploads."
+        "text": "Correct the account-page licence finding through its original writer, then complete protected release and installation (finding returned15:49Z; original writer started16:00:06Z). Correct the manifest, notice dependency and sabotage proof; rebind every merged source file before installation. Previous 117-file preparation is held, zero uploads."
       },
       {
         "complete": false,
-        "text": "Publish the activation correction and complete original gate/notice review (writer started15:45Z, finished15:52Z, took7min; original publisher return15:55Z). Local head85dca539 passes40drift+56activation+39mount checks with unchanged guard/baseline. Notice #4951 has first approval; CI and owner-approved inputs remain. Activation stays off; external-facts wait retains12October04:12Z."
+        "text": "Publish the activation correction and complete original gate/notice review (writer started15:45Z, finished15:52Z, took7min; original publisher return15:55Z). Head 85dca539 was pushed at 15:55:15Z and passes 40 drift, 56 activation and 39 mount focused checks with unchanged guard/baseline; new protected checks/reviews are pending. Notice #4951 has first approval; CI and owner-approved inputs remain. Activation stays off; external-facts wait retains12October04:12Z."
       },
       {
         "complete": false,
@@ -286,7 +286,7 @@
       },
       {
         "complete": false,
-        "text": "Complete seven native iPhone rows and remaining performance controls (first native wait 16 October 20:16Z; numeric wait 16 October 14:30Z). Guest #4950 has green CI and first approval; critical review started15:42:39Z and remains running. Safari-startup #4952 is Ready with checks running. Original Hands executes one authorized second hosted run after both merge; no third hosted or Mac attempt."
+        "text": "Complete seven native iPhone rows and remaining performance controls (first native wait 16 October 20:16Z; numeric wait 16 October 14:30Z). Guest #4950 passed both reviews and merged as 65459505, verified at 16:03:26Z. Safari-startup #4952 has green protected checks and awaits reviews. Original Hands executes one authorized second hosted run after both merge; no third hosted or Mac attempt."
       },
       {
         "complete": false,
@@ -298,7 +298,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the original repair and review results (same 07:10Z obligation; first waits retained). Compact continuation owns the release queue while the parent updates the task site. Next: original activation correction publication, account-page licence repair, exact PR checks and reviews, then eligible TEST installation. No duplicate writer, review or timer."
+        "text": "Consume the original repair and review results (same 07:10Z obligation; first waits retained). Compact continuation owns the release queue while the parent updates the task site. Next: original account-page licence result, remaining exact PR checks/reviews, then eligible TEST installation and the authorized phone run. No duplicate writer, review or timer."
       },
       {
         "complete": true,
@@ -309,11 +309,15 @@
         "text": "Publish and verify the consolidated Ready and original-execution update (14:58Z–15:01Z, took3min). One push80c8a883; matching Pages build15:00:13Z and five exact HTTP200 hosted files15:01:48Z. Source froze14:58:57Z; no Shopify publication."
       },
       {
+        "complete": true,
+        "text": "Publish and verify the returned-repair and licence-finding snapshot (15:56Z–15:58Z, took2min). One publication a4d2102, matching Pages15:58:03Z and five exact hosted files15:58:32Z. Acceptance counts unchanged."
+      },
+      {
         "complete": false,
-        "text": "Publish and verify the returned-repair and licence-finding snapshot (started15:56Z, est.5min). Keep acceptance counts unchanged."
+        "text": "Publish and verify the merged guest-workflow snapshot (started16:08Z, est.5min). Preserve actual review and phone-acceptance distinctions."
       }
     ],
-    "landing": "Lands: revised task-site snapshot about16:01Z (5min estimate; network and Pages may move it). Whole-draft completion depends on the original repairs/reviews, TEST installation, approved notice inputs, signed/native acceptance and final named-fix ratings; no defensible completion time yet."
+    "landing": "Lands: public update about16:13Z (5min estimate; network/Pages may move it). Whole draft still depends on original reviews, TEST installation, notice/shoppers, actual native evidence and final named-fix ratings; no defensible whole-goal completion time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
