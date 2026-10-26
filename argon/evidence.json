@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The corrected activation gate and guest iPhone workflow are Ready. The original Safari-readiness repair and notice-copy follow-up are running. Account-page tests pass, but a retry barrier prevented the authorized review-publication attempt; no authenticated approval exists and the chair-approved same-writer main integration waits for the running notice-copy writer to free their shared worktree. Installation is prepared with zero uploads. Regional scheduled-service recovery, connected acceptance and final original readers remain. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 are unchanged; Shopify stays unpublished and the assistant off.",
+      "result": "The account-page integration is pushed and running checks. The notice-copy repair passed its first review; the Safari-startup repair is also in review. The activation change passed its first review but failed two database-write checks, now returned to its original writer. Guest iPhone workflow CI is green; its remaining review is pending. Installation is prepared with zero uploads. Connected acceptance, native proof and the original final ratings remain open. Delivery 6/11, milestones 1/3, native 0/7 and final ratings 0/3 are unchanged; Shopify stays unpublished and the assistant off.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -388,10 +388,16 @@
           "date": "26 October2026 · guest Ready14:44:15UTC / readiness start14:45:03UTC / gate Ready14:49:48UTC / notice-copy start14:55:04UTC",
           "text": "The original gate policy correction is published as #4949 with55 targeted and39 neighbour tests passed; full44 sabotage checks are queued in the existing gate. Guest workflow #4950 is Ready and its original Safari-readiness repair is running; no functional hosted run or native pass. Notice-copy work started, with result and owner approval still required. Account-page tests remain green, but the chair-authorized second review-publication attempt stopped at a retry barrier14:54:05UTC before model execution or approval. Hands confirmed14:57UTC that the chair approved same-writer integration with current main, held until the original notice-copy writer finishes in their shared worktree; no third attempt is authorized. Installation is prepared only, with zero uploads or activation. No native result or final rating is inferred.",
           "url": "https://github.com/EON-CRUX/3.09/pull/4949"
+        },
+        {
+          "title": "Account-page integration unblocked; activation test repair returned",
+          "date": "26 October 2026 · verified 15:44 UTC",
+          "text": "The original account-page writer merged current main and pushed at 15:40 UTC; normal checks run on the new head. Notice-copy passed its first review at 15:41 UTC. Activation passed its first review but two write-inventory checks failed; the exact defect was returned once to the original writer, acknowledgement pending. Guest iPhone workflow has green CI and first approval; Safari-startup is Ready with checks running. No native run, activation, installation or final rating is inferred. Other Argon systems keep their existing source evidence.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4949"
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T14:58:57.959403+00:00"
+      "sourceAsOf": "2026-10-26T15:45:12.296473+00:00"
     },
     "companion": {
       "number": "04",
