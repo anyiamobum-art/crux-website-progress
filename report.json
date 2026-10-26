@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "#4948 at54d23d69 has protected tests, pins and guards green; the chair is resolving its failed review publication; no authenticated first approval exists. The gate writer returned local33951787 with45 tests/45 pins passed; its original policy-URL correction is still required. The guest-functional writer returned locala3cca63f, awaiting Hands workflow publication and readiness correction. No functional run, upload or activation is credited.",
+  "workerState": "Activation gate #4949 atf3bf9940 is Ready14:49:48Z;55 targeted and39 neighbour tests passed, with the full44 sabotage checks queued in the existing gate. Guest workflow #4950 is Ready14:44:15Z; its original Safari-readiness repair started14:45:03Z. Notice-copy work started14:55:04Z. Account-page #4948 checks pass, but its authorized review-publication attempt was refused14:54:05Z; no model execution, approval or third attempt is credited.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October14:34Z: original gate and guest-functional source results returned locally. Account-page protected checks are green by14:32Z, but review-publication failed14:28:43Z; Hands confirmed no automatic republish route14:36Z, leaving one chair disposition. Seven install/readback batches are prepared; preflight14:16:19Z preserved481 original files/settings. Acceptance counters remain unchanged.",
+  "lastActualProgress": "26 October14:55:04Z: the original notice-copy follow-up started. The gate policy-path correction is published and Ready14:49:48Z; the guest workflow is Ready14:44:15Z and its original readiness repair started14:45:03Z. The review-publication attempt returned a retry-barrier refusal14:54:05Z. These source and release advances do not close acceptance gates.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -99,9 +99,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Tests green; chair resolving failed review publication; installation prepared only",
-      "Canonical TEST mapping is verified. Account-page tests/pins/guards pass; completed review lacks authenticated publication. Seven install/readback batches are prepared;481 originals/settings preserved; zero uploads. Original gate source returned locally; policy correction pending.",
-      "Original chair publication disposition and protected release, eligible TEST installation, gate result and chair platform recovery. Approved notice/owner approval hold activation; signed cases need A/B. External-facts wait12 October04:12Z retained."
+      "Gate correction Ready; review-publication barrier unresolved",
+      "Mapping verified; account-page tests pass. Gate #4949 Ready with full proof/review pending; notice-copy work started. Seven installation batches prepared; zero uploads.",
+      "Approved original main integration after notice-copy END, protected release and eligible TEST installation. Approved notice/owner approval hold activation; platform recovery, nightly proof and signed A/B remain."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The completed account-page review has no authenticated published approval. No supported automatic republish route exists; the exact staging cause is unknown. The chair’s disposition is pending. Installation therefore remains held. The scheduled service is blocked by a regional build incident. Native functional results, signed TEST shoppers and approved activation notice/policy inputs remain outstanding.",
-  "current": "The inactive account-page change has passed every protected test group, pin and guard. Its completed first review did not publish an authenticated approval; the chair is resolving that failure. The original activation-gate and guest-iPhone writers have returned local source; their correction/publication steps remain. Prepared installation has made zero uploads.",
-  "next": "Resolve the review-publication route through the original chair, finish protected release, then install and read back eligible TEST files. The original gate builder applies its policy-URL correction; Hands publishes the original guest workflow and completes its readiness work. The chair owns the regional deployment-platform recovery.",
-  "updated": "Previous public7d21e853 has matching Pages build14:10:58Z and five exact hosted files14:12:28Z on26 October. This new source snapshot is prepared for publication, not yet hosted proof.",
+  "remaining": "The account-page review has no authenticated published approval. Its one authorized second attempt stopped at a retry barrier before model execution; a successful job status does not mean review approval. At14:57Z, Hands confirmed chair approval for same-writer integration with current main; it waits for the running notice-copy work to finish in the same worktree. No TEST files have been uploaded or activated. Native functional results, signed TEST shoppers, approved activation notice inputs and scheduled-service recovery remain open.",
+  "current": "The corrected activation gate and guest iPhone workflow are now Ready for their original release checks. The original Safari-readiness repair is running, and the notice-copy follow-up started at14:55Z. The account-page tests are green, but a retry barrier prevented its review-publication attempt; no authenticated approval exists.",
+  "next": "Finish the original gate checks and notice-copy result, then the guest workflow’s readiness repair and protected release. The chair approved same-writer integration with current main; it waits for the running notice-copy work to release their shared worktree before eligible release and installation. The chair also owns recovery of the scheduled service’s regional build failure.",
+  "updated": "Public43ff6053 matches Pages build14:39:55Z and all five hosted files14:40:45Z on26 October. Each returned HTTP200 and exact committed bytes. Source froze14:38:59Z; local completion bookkeeping does not alter that published snapshot.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The inactive account-page change has all five protected test groups, pins, aggregate gate and guards passed. Its first review completed without an authenticated published approval. Hands confirmed14:36Z that automatic republish is unsupported. The chair is resolving the publication route; the exact staging cause is unknown and no fresh review is authorized.",
-    "Installation and exact-body readback are prepared in seven batches. Read-only preflight14:16:19Z confirms481 original files and settings unchanged. The single TEST copy remains unpublished, with zero uploads and no activation.",
-    "Both original writers returned local source by14:34Z. The activation gate has45 tests/45 pins passed but still needs its original policy-URL correction before publication. Hands owns the guest workflow bundle/publication and the held readiness correction next. No hosted functional run or activation occurred.",
-    "A fourth scheduled-service build failed14:11:44Z. The original chair identified the regional build-platform incident and owns recovery; active web source does not prove scheduled deployment or the nightly retention outcome.",
-    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. Original review rounds, final readers and the unpublished-draft boundary are preserved."
+    "The original activation-gate policy correction is published as #4949 and became Ready14:49:48Z. Its55 targeted and39 neighbour tests passed; the full44 sabotage checks are queued in the existing normal gate. Review, merge and approved notice inputs still precede activation.",
+    "The original guest iPhone workflow #4950 became Ready14:44:15Z. Its Safari-readiness repair actually started14:45:03Z; no functional hosted run or native pass has occurred.",
+    "The original notice-copy follow-up was released14:51Z and started14:55:04Z. The returned wording and owner approval remain pending; the assistant stays off.",
+    "Account-page tests remain green. The chair authorized one second review-publication attempt, but it was refused by a retry barrier14:54:05Z before model execution or approval. Hands confirmed14:57Z that the chair approved same-writer integration with current main, held until the running notice-copy work releases its shared worktree; no third attempt is authorized. Seven installation/readback batches remain prepared with zero uploads.",
+    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 are unchanged. Scheduled-service recovery remains with the original chair after the regional build incident. No Shopify publication or activation."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "TEST connection and canonical mapping are verified. The inactive account-page tests are green, but the completed original review has no authenticated published approval; the chair is resolving its publication route. Seven installation/readback batches are prepared with481 originals/settings preserved and zero uploads. The original gate source returned locally and needs its already-routed policy correction before publication; approved notice/policy inputs and owner approval still hold activation. Scheduled deployment is blocked by a regional platform incident; nightly retention, external facts and signed A/B acceptance remain. Owner: Original C06 builder/reviewers, Hands review-recovery custodian, Website installer, chair platform/notice owners and CS custodians. Wait: External facts retain12 October04:12Z; review-publication failure occurred14:28:43Z; automatic recovery was ruled unsupported14:36Z.",
-      "next": "Consume the chair’s original publication disposition, finish protected release, then install/read back eligible source. Consume original gate/platform results without blocking independent guest preparation. Signed cases require actual A/B binding."
+      "blocker": "TEST connection and canonical mapping are verified. Account-page tests pass, but its second review-publication attempt was refused by a retry barrier before model execution; no authenticated approval exists. At14:57Z, Hands confirmed chair approval for same-writer integration with current main; it waits for the running notice-copy work to finish in the same worktree. Seven installation/readback batches are prepared with481 originals/settings preserved and zero uploads. The corrected activation gate #4949 is Ready, with full44 sabotage checks and original review pending. Notice-copy work started14:55:04Z; approved inputs and owner approval still hold activation. Scheduled deployment, nightly retention, external facts and signed A/B acceptance remain. Owner: Original C06 writers/reviewers, chair review-publication and platform custodians, Website installer and CS. Wait: External facts retain12 October04:12Z; review-publication failure14:28:43Z and barrier refusal14:54:05Z are distinct.",
+      "next": "After the original notice writer finishes, consume the approved same-writer main integration and protected release, then install/read back eligible source. Consume original gate/notice and platform results; signed cases require actual A/B binding. Guest preparation continues independently."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations, visible380×844 evidence and scoped desktop INP60ms/CLS0 are retained. Both Mac attempts are consumed; all seven native rows remain unperformed. The first hosted current-iPhone page-open timed out, and small-iPhone images do not prove scroll or storefront acceptance. The original guest-functional writer returned local source by14:34Z; Hands publication and readiness correction remain. Owner: Original Website/native owner, same hosted writer and Hands; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z.",
-      "next": "Publish the original workflow, complete its readiness correction and protected release, then use supported Safari control with the unpublished storefront and observed guest/bag state. Actual200% requires native Safari menu/readback. Only original Hands may execute the authorized second hosted run after readiness-fix merge; no third hosted or Mac attempt. Retained/signed context and final-reader acceptance remain separate."
+      "blocker": "Header C1–C4,36 Stores checks, three genuine200% Chrome observations, visible380×844 evidence and scoped desktop INP60ms/CLS0 are retained. Both Mac attempts are consumed; all seven native rows remain unperformed. The first hosted current-iPhone page-open timed out; small-iPhone images did not prove scroll or storefront acceptance. Original guest workflow #4950 is Ready14:44:15Z and its Safari-readiness repair started14:45:03Z. Owner: Original Website/native owner, same hosted writer and Hands; Root coordinates. Wait: Functional wait retains16 October20:16Z; numeric-contract wait16 October14:30Z.",
+      "next": "Consume the original readiness result and protected release, then use supported Safari control with the unpublished storefront and observed guest/bag state. Actual200% requires native Safari menu/readback. Only original Hands may execute the authorized second hosted run after readiness-fix merge; no third hosted or Mac attempt. Retained/signed context and final-reader acceptance remain separate."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -258,11 +258,11 @@
       },
       {
         "complete": false,
-        "text": "Resolve the failed #4948 review publication, then finish protected release and eligible installation (exact54d23d69; all five test groups, pins, aggregate gate and guards passed by14:32Z). The first review completed but no authenticated approval was published. Hands confirmed14:36Z that no supported automatic republish route exists; the exact staging cause is unknown. The chair must select a protected same-answer route or explicitly authorize a fresh first review; neither is approved. Seven install/readback batches are prepared,481 originals/settings preserved and zero uploads; installation waits for eligible merge."
+        "text": "Resolve the #4948 review-publication barrier, then finish protected release and eligible installation (all required checks green; first publication failure14:28:43Z). The chair-authorized second attempt was refused14:54:05Z before model execution or approval; job SUCCESS is not a review pass. Hands confirmed14:57Z that the chair approved same-writer integration with current main. Its brief is held until the running original notice-copy writer releases the same worktree; no third attempt. Seven batches/117 files are prepared,481 originals/settings unchanged and zero uploads. Installation waits for eligible merge."
       },
       {
         "complete": false,
-        "text": "Complete the original activation-gate policy correction and release (local33951787 returned by14:34Z;45 tests and45 pins passed,520 lines). The original builder must apply the already-delivered policy-URL correction before publication. Required approved notice inputs remain absent, so activation stays closed. Keep original reviews and release custody; external-facts wait retains12 October04:12Z."
+        "text": "Finish original activation-gate proof/review and the notice-copy follow-up (#4949 exactf3bf9940 Ready14:49:48Z;55 targeted and39 neighbour tests passed). Full44 sabotage checks are queued in the existing correctness gate, with no extra job. Notice-copy follow-up released14:51Z and started14:55:04Z; result and owner approval remain pending. Activation stays off; external-facts wait retains12 October04:12Z."
       },
       {
         "complete": false,
@@ -278,7 +278,7 @@
       },
       {
         "complete": false,
-        "text": "Complete seven native iPhone rows and remaining performance controls (original wait16 October20:16Z; numeric-contract wait16 October14:30Z). The original guest-functional writer returned locala3cca63f by14:34Z; Hands owns its workflow bundle/publication and the held Safari-readiness correction next. No functional hosted run has occurred. Earlier current-iPhone page-open timed out; small screenshots did not prove scroll or storefront acceptance. All seven rows NOT EXERCISED. Only original Hands may run the authorized second hosted attempt after readiness-fix merge; no third hosted or Mac attempt."
+        "text": "Complete seven native iPhone rows and remaining performance controls (first wait16 October20:16Z; numeric wait16 October14:30Z). Original guest workflow #4950 is Ready14:44:15Z; the same owner’s Safari-readiness repair started14:45:03Z, result pending. No functional hosted run or native pass. After protected readiness-fix merge, original Hands alone may execute the authorized second hosted run; no third hosted or Mac attempt."
       },
       {
         "complete": false,
@@ -290,22 +290,18 @@
       },
       {
         "complete": false,
-        "text": "Consume the existing original-owner results (same07:10Z obligation; Root owns the14:50Z due check). Next: chair disposition of #4948 review publication and protected release, original gate policy correction and guest workflow publication/readiness results, and chair platform recovery. Preserve original wait ages; no duplicate jobs or timer."
+        "text": "Consume the existing original-owner results (same07:10Z obligation; original first waits retained). Root’s14:56Z result boundary and existing15:20Z longer return cover the approved same-writer main integration after notice-copy END, normal gate proof/notice-copy result, original Safari-readiness result and platform recovery. No new timer or duplicate job; returned results determine the next permitted action."
       },
       {
         "complete": true,
-        "text": "Verify the previous task-site publication (13:40Z–13:45Z, took5min). a5cf1c1e has matching Pages and five exact hosted files at13:45:25Z; immutable history retained."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the consolidated mapping, account-package and hosted-result update (14:09Z–14:12Z, took3min). One push 7d21e853; matching Pages build14:10:58Z and all five hosted files HTTP200/exact14:12:28Z. Source froze14:09:36Z. No Shopify publication."
+        "text": "Publish and verify the consolidated review-publication and original-source update (14:36Z–14:40Z, took4min). One push 43ff6053; matching Pages build14:39:55Z and five exact HTTP200 hosted files14:40:45Z. Source froze14:38:59Z; no Shopify publication."
       },
       {
         "complete": false,
-        "text": "Publish this consolidated review-recovery and original-writer update (started 14:36Z, est.5min). One push, matching Pages build and five exact hosted-byte checks; no Shopify publication."
+        "text": "Publish and verify the consolidated Ready and original-execution update (started 14:58Z, est.4min). One task-site push, matching Pages build and five exact hosted files; previous43ff6053 remains verified until this completes."
       }
     ],
-    "landing": "Lands: this task-site update about 14:41Z (5min left; network/build may move it). Whole-draft completion has no verified ETA: protected source, eligible TEST installation, approved activation inputs, connected/native results and three final named-fix ratings remain."
+    "landing": "Lands: task-site readback about15:04Z if transport and Pages respond. Whole-draft completion has no verified ETA: protected release, eligible TEST installation, platform recovery, connected/native acceptance and three original final named-fix ratings remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

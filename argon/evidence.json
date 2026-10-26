@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "Account-page protected tests, pins and guards are green. Its completed original review has no authenticated published approval; the chair is resolving the failed publication. Installation and exact-body checks are prepared with zero uploads. Both original writers returned local source; the gate policy correction and guest workflow publication/readiness remain. Scheduled-service recovery remains with the chair after a regional build incident. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 are unchanged; the Shopify draft stays unpublished.",
+      "result": "The corrected activation gate and guest iPhone workflow are Ready. The original Safari-readiness repair and notice-copy follow-up are running. Account-page tests pass, but a retry barrier prevented the authorized review-publication attempt; no authenticated approval exists and the chair-approved same-writer main integration waits for the running notice-copy writer to free their shared worktree. Installation is prepared with zero uploads. Regional scheduled-service recovery, connected acceptance and final original readers remain. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 are unchanged; Shopify stays unpublished and the assistant off.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -382,10 +382,16 @@
           "date": "26 October2026 · preflight14:16:19UTC / review-publication failure14:28:43UTC / original source results14:34UTC / publication-route disposition14:36UTC",
           "text": "All five account-page test groups, pins, aggregate gate and guards pass. The completed original first review has no authenticated published approval. Hands confirmed14:36UTC that automatic republish is unsupported; the chair must resolve the route. The exact staging cause is unknown, with no extra review authorized or approval credit. Seven installation/readback batches are prepared;481 original files/settings remain unchanged and no files were uploaded. The original gate source returned with45 tests/45 pins passed but needs its original policy-URL correction before publication. Original guest-functional source returned locally; Hands owns workflow publication and readiness correction, with no functional run yet. The chair owns a regional scheduled-deployment incident. No native result, activation or final rating is inferred.",
           "url": "https://github.com/EON-CRUX/3.09/pull/4948"
+        },
+        {
+          "title": "Corrected gate and guest workflow Ready; original follow-ups executing",
+          "date": "26 October2026 · guest Ready14:44:15UTC / readiness start14:45:03UTC / gate Ready14:49:48UTC / notice-copy start14:55:04UTC",
+          "text": "The original gate policy correction is published as #4949 with55 targeted and39 neighbour tests passed; full44 sabotage checks are queued in the existing gate. Guest workflow #4950 is Ready and its original Safari-readiness repair is running; no functional hosted run or native pass. Notice-copy work started, with result and owner approval still required. Account-page tests remain green, but the chair-authorized second review-publication attempt stopped at a retry barrier14:54:05UTC before model execution or approval. Hands confirmed14:57UTC that the chair approved same-writer integration with current main, held until the original notice-copy writer finishes in their shared worktree; no third attempt is authorized. Installation is prepared only, with zero uploads or activation. No native result or final rating is inferred.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4949"
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T14:38:59.710456+00:00"
+      "sourceAsOf": "2026-10-26T14:58:57.959403+00:00"
     },
     "companion": {
       "number": "04",
