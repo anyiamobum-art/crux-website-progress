@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Account-page FIRST APPROVE17:42:45Z on the exact repair, no findings; four test shards passed by17:48:24Z and the last hosted shard was running. The original Safari repair START17:20:04Z is confirmed. The installer now references the final repair and all14 offline checks pass; no TEST uploads or activation.",
+  "workerState": "CRUX one-file installation completed18:03:46Z; preservation and source adoption passed18:08Z. TEST batch1 has25 exact source bodies and all481 original files/settings preserved; batch2 is running. Original iPhone repair627d6160 is pushed; its existing publisher owns PR creation and review.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "26 October17:42:45Z: the original reviewer approved the repaired account-page source with no findings. At17:39Z the TEST installer reference was corrected to the same final source and all14 offline checks passed. Hands17:46:15Z confirms the original iPhone repair is executing.",
+  "lastActualProgress": "26 October18:08:02Z: adopted the fully preserved CRUX notice installation. Account-page #4948 merged17:55:27Z; TEST batch1 verified18:05:59Z. The release-policy discrepancy was resolved from actual protected configuration without changing approvals or rules.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -99,9 +99,9 @@
     ],
     [
       "6. Assistant privacy facts",
-      "Original repair and final review in progress",
-      "Account-page integration reproduced one stale-pin failure; same-holder correction executing since16:40 UTC. Activation has green CI and first approval. Notice-copy merged; zero TEST uploads or activation.",
-      "Finish original protected release and exact installation, approved inputs, retention and signed A/B acceptance."
+      "Source merged; CRUX notice installed; TEST installation running",
+      "Account-page #4948 merged17:55:27Z after original review and green hosted checks. Notice-copy #4951 installed18:03:46Z with exact bytes and full preservation. Activation safeguard #4949 merged.",
+      "Finish original TEST readback, approved privacy inputs, retention and authenticated A/B acceptance. Assistant stays OFF."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The authenticated review records and merge labels disagree about the required approval tier for the account-page and notice-copy changes. The original chair has one combined evidence card. This holds installation qualification while CI and the iPhone repair continue. Signed TEST shoppers, approved notice inputs and connected acceptance remain open.",
-  "current": "The account-page repair has its original FIRST approval with no findings. Normal hosted tests are still running. The original iPhone writer has started the Safari accessibility repair.",
-  "next": "Finish account-page CI and protected release, resolve the existing release-policy discrepancy, then install and verify the qualified TEST and CRUX draft files. Consume the original iPhone repair and its protected review before the next authorized run.",
-  "updated": "Public snapshot7e793799 matched its Pages build and all five hosted files17:35:24Z. This newer source snapshot adds the actual review result and original repair START; it is being published. Delivery and rating counts remain unchanged.",
+  "remaining": "The release-policy discrepancy is resolved. Remaining blockers are native Safari accessibility proof, approved privacy inputs and authenticated TEST shopper/consent journeys. Final design ratings remain below the target or unqualified.",
+  "current": "Notice-copy repair installed and byte-verified in the unpublished CRUX draft; full preservation passed. Account-page repair reviewed and merged; its original coordinator has verified TEST installation batch1 and is running batch2.",
+  "next": "Finish the original TEST installation and readback. Consume the original iPhone repair publication and protected checks, then complete native and connected acceptance before the three original final named-fix reviews.",
+  "updated": "Source snapshot 2026-10-26T18:09:03.243289+00:00. Prior public e170ac75 matched its Pages build and all five files17:50:41Z. This new installation/merge snapshot is being published. Acceptance6/11, native0/7 and final ratings0/3 remain unchanged.",
   "links": [
     {
       "title": "P765 coverage repair #4908",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The repaired account-page source has its original FIRST approval at17:42:45Z with no findings. The normal hosted test run continues; no final merge or TEST installation is claimed.",
-    "The TEST installer now points to the final repaired source. All120 payload files remain unchanged, and all14 offline installation/readback checks pass. Zero files uploaded.",
-    "Hands confirmed the same iPhone writer started the bounded Safari accessibility repair at17:20:04Z. The previous guest run failed before all seven rows; this repair is not a native pass.",
-    "The original chair has one combined record of the conflicting release classifications. Canonical qualification is owed before the two draft installations; no new reviewer, approval or source push is invented.",
-    "Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged. The Shopify draft stays unpublished and the assistant stays off."
+    "Notice-copy #4951 is installed in the unpublished CRUX draft. Exact hosted bytes and full preservation passed:694 other draft files,550 live-theme files, settings and roles are unchanged. Assistant remains OFF.",
+    "Account-page #4948 passed its original review and all five hosted test shards, then merged17:55:27Z. All120 merged payloads match; the TEST installation has verified batch1 and is continuing through its original coordinator.",
+    "The release-policy discrepancy is resolved using actual protected configuration and served code. This removed an avoidable installation wait without changing a rule, approval or review round.",
+    "The original iPhone Safari accessibility repair is pushed as627d6160. Its publisher owns PR/review; the previous guest run failed before all seven phone checks, so native remains0/7.",
+    "The6/11 headline counts finished acceptance gates. Completed repairs and installations above are real progress, but final reader passes remain0/3. Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +219,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Account-page #4948 at a105b098 is now Ready, verified17:32 UTC; ordinary CI and original review are pending. All120 source files match the prepared TEST package,34 focused checks and eight regression checks pass; normal CI still owes the notice test. Notice-copy #4951 is merged but its conflicting review classification must be reconciled before the CRUX asset installation. Activation safeguards #4949 are merged. Approved notice inputs, nightly retention and actual TEST A/B shopper bindings remain required. Owner: Original C06 writers/reviewers, chair, Website installer and CS. Wait: External facts retain12 October04:12 UTC; account-page push verified17:16 UTC and Ready17:32 UTC.",
-      "next": "Complete original CI/review/merge, install and read back eligible files, and exercise connected acceptance with the required inputs. Zero uploads or activation."
+      "blocker": "Source repairs are merged. Notice-copy is installed and preserved in CRUX; account-page TEST installation is running. Approved notice inputs, nightly retention and authenticated TEST A/B shopper bindings still need acceptance. Owner: Original C06 writers, Website installer and CS. Wait: External facts retain12 October04:12 UTC; TEST installation began after target qualification18:02 UTC.",
+      "next": "Finish original installation/readback, then connected privacy acceptance with the approved inputs and shopper bindings. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,8 +229,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Desktop header, Stores, genuine200% and scoped timing evidence is retained. The later explicit guest iPhone run failed before any row because Safari accessibility was unavailable. Native acceptance remains0/7 and theme binding was not read. Owner: Original Website/P212 writer, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract first wait remains16 October14:30 UTC.",
-      "next": "Consume the original bounded accessibility repair, complete protected review and merge, then obtain the chair’s subsequent run disposition. Original parent next result check17:50 UTC. No duplicate run or final-rating credit."
+      "blocker": "Desktop header, Stores, genuine200% and scoped timing checks passed. The explicit guest iPhone run failed before any row because Safari accessibility was unavailable; native remains0/7. Owner: Original Website/P212 writer, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract wait remains16 October14:30 UTC.",
+      "next": "The bounded accessibility repair is pushed as627d6160. Its original publisher completes PR/review; protected merge and chair authorization precede another run. Consume that result before final handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -242,102 +242,62 @@
     "steps": [
       {
         "complete": true,
-        "text": "Verify completed desktop checks and the existing draft installation (retained through 26 October10:43Z). Header C1–C4, 36 Stores checks, three genuine 200% desktop observations and scoped timing passed. Native and final-reader acceptance remain separate."
+        "text": "Complete desktop checks on the installed draft (verified through26 October10:43Z). Header C1–C4,36 Stores checks, three genuine200% observations and scoped timing passed."
       },
       {
         "complete": true,
-        "text": "Complete the guest iPhone workflow release (review completed15:59Z; merge verified16:03Z). Both reviews and protected checks passed; actual phone rows remain 0/7."
+        "text": "Merge activation safeguards (verified16:44Z as b181e72f). Required CI and release-source readback passed; activation stays OFF."
       },
       {
         "complete": true,
-        "text": "Complete the notice-copy release (merge verified16:14Z). The notice code is merged; owner-approved inputs and TEST installation remain separate."
+        "text": "Review and merge the account-page repair (17:32Z–17:55Z, took23min). Original review has no findings; all five hosted test shards passed. Merge e0d1782d verified."
+      },
+      {
+        "complete": true,
+        "text": "Resolve conflicting release-policy records (17:50Z–17:56Z, took6min). Actual protected configuration establishes the existing rule; no approval or policy changed."
+      },
+      {
+        "complete": true,
+        "text": "Install and preserve the CRUX notice asset (17:56Z–18:08Z, took12min). Exact hosted bytes, settings and all other files preserved. Source census adopted; assistant OFF."
+      },
+      {
+        "complete": true,
+        "text": "Qualify the TEST installation (finished18:02Z). All120 merged files match; original481 files and settings bound. Fourteen offline checks passed."
       },
       {
         "complete": false,
-        "text": "Qualify and install the merged notice copy in the CRUX draft (started17:03Z; waiting on the original release authority since17:18Z, next check17:48Z). Exact reviewed/merged bytes and one-asset installation scripts are prepared. The review record says critical while the merged PR says standard with one visible approval; canonical classification remains owed. The original15min estimate expired because that prerequisite is unresolved; execution after qualification is estimated12min. Settings stay OFF."
+        "text": "Finish original TEST installation and exact readback (started18:02Z, est.20min). Batch1 verified18:05:59Z; batch2 running. Seven original batches, no activation or live publication."
       },
       {
         "complete": true,
-        "text": "Return the corrected account-page PR to normal review (17:30Z–17:32Z, took2min). Exact a105b098 was marked Ready once and read back unchanged. No source push or manual test/review dispatch."
+        "text": "Consume the guest iPhone run (17:10Z–17:23Z, took13min with evidence collection). Safari accessibility failed before any row. Ten artifact hashes verified; native stays0/7."
       },
       {
         "complete": false,
-        "text": "Complete account-page CI, original review and protected merge (started17:32Z, duration depends on original jobs). FIRST approved the exact repair at17:42:45Z with no findings. All120 package hashes remain matched; hosted tests and the remaining protected policy are pending. Keep the same holder and review history, then install the qualified TEST files."
-      },
-      {
-        "complete": true,
-        "text": "Complete activation-safeguard release (repair15:45Z–15:52Z, took7min; merge verified16:44Z as b181e72f). All required CI passed; EON release-door readback verifies b181e72f at16:44:30Z. Settings activation and owner-approved notice inputs remain separate."
-      },
-      {
-        "complete": true,
-        "text": "Prepare the corrected TEST package offline (finished 16:17Z). All120 hashes and14 dry-run checks passed; seven batches are prepared. The payload was rebound to final a105b098 and its installer reference corrected at17:39Z; all14 offline checks pass. Protected merge and fresh target checks still precede installation."
+        "text": "Complete original Safari accessibility repair and phone run (repair pushed by18:07Z; original next check18:20Z). Existing publisher owns PR/review; protected merge and chair authorization precede another run."
       },
       {
         "complete": false,
-        "text": "Install and read back eligible TEST files (pending exact merged-source reconciliation; duration unknown). Preserve 481 original files and settings. Zero uploads. The source pin is repaired locally and pushed; protected release remains before execution."
-      },
-      {
-        "complete": true,
-        "text": "Complete Safari-startup protected release (final approval16:18Z, merged16:20Z as89fe2edc). Both iPhone prerequisites are merged."
-      },
-      {
-        "complete": true,
-        "text": "Consume the second hosted run and its actual scope (16:32Z–16:36Z, took4min; artifacts consumed by16:40Z). Safari opened on both phones, but the EON screenshot mode skipped all CRUX guest steps. This completes result consumption, not storefront acceptance."
-      },
-      {
-        "complete": true,
-        "text": "Consume the separately authorized guest iPhone run (17:10Z–17:15Z, took5min; original parent verified17:23Z). Explicit guest mode ran, but Safari accessibility was unavailable before the first row. All seven rows remain unexercised and the theme binding is unknown. Ten artifact hashes were verified; no acceptance credit."
+        "text": "Complete privacy, connected and retention acceptance (external facts wait since12 October04:12Z). Requires approved notice inputs, actual TEST shopper bindings and retained scheduled-service proof."
       },
       {
         "complete": false,
-        "text": "Complete the original Safari accessibility repair and authorized phone check (placed17:17Z; original parent next check17:50Z). The same writer started the bounded startup repair at17:20:04Z, confirmed by Hands17:46:15Z. Review and merge precede any later run, which needs the original chair disposition. No duplicate run or reader."
+        "text": "Complete buyer-trust, consent and tracking-link acceptance (original CS and Aftercare owners; original first-wait time unknown). Consume the authorized connected journey and consent evidence."
       },
       {
         "complete": false,
-        "text": "Complete remaining privacy, connected and retention evidence (external-facts wait since12 October04:12Z). Original chair owns approved notice inputs and scheduled-service recovery; owner-controlled TEST shopper bindings are absent. Unauthenticated preparation continues independently."
+        "text": "Complete three original final named-fix reviews (0/3 passing; two full review rounds consumed). Return the same installed source after required native, connected and performance evidence is ready."
       },
       {
         "complete": false,
-        "text": "Complete buyer-trust, consent and tracking-link acceptance (original CS and Aftercare owners; exact first-wait time unknown). Requires the authorized connected journey and its retained consent evidence. No customer send is implied."
+        "text": "Complete unpublished Shopify draft handover (delivery6/11; milestones1/3). Close only with all required acceptance evidence; do not publish live."
       },
       {
         "complete": false,
-        "text": "Return the finished evidence to the three original final named-fix readers (final passes0/3; two full rounds consumed). Native, connected and remaining performance evidence must qualify first. No new full review or score transfer."
-      },
-      {
-        "complete": false,
-        "text": "Complete the unpublished Shopify draft handover (delivery6/11; final milestones1/3). Close only with the exact installed source and all required acceptance results. Keep CRUX unpublished."
-      },
-      {
-        "complete": true,
-        "text": "Verify the previous public update (16:08Z–16:10Z, took2min). Publication493c438 has a matching Pages build and five exact hosted files. Current source changes await the next consolidated update."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the consolidated repair and review update (16:18Z–16:21Z, took3min). One push8a912ac; matching Pages build16:20:13Z and all five exact hosted files16:21:16Z. Counts and scores unchanged."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the phone-result and source-repair update (16:42Z–16:48Z, took6min). One push931f089; matching Pages build16:44:57Z and all five exact hosted files16:48:54Z. Native and final-rating counts remain unchanged."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the merge and corrected-source update (16:58Z–17:00Z, took2min). One pushc14f515, matching Pages build16:59:20Z and all five hosted files exact17:00:23Z. Acceptance counts remain unchanged."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the corrected-writer and notice-preparation update (17:20Z–17:22Z, took2min). One push9b43b62, matching Pages17:21:04Z and five exact hosted files17:22:14Z. Later guest-run failure will enter the next consolidated update."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the Ready and guest-run result update (17:33Z–17:35Z, took2min). One push7e793799, Pages built17:34:20Z, and five hosted files exact17:35:24Z. Acceptance counts stay unchanged."
-      },
-      {
-        "complete": false,
-        "text": "Publish and verify the original-review and repair-start update (started17:48Z, est.3min). One push, matching Pages build and five exact hosted files."
+        "text": "Publish and byte-verify installation and merge update (started18:09Z, est.3min). Prior e170ac75 matches all five hosted files17:50:41Z."
       }
     ],
-    "landing": "Lands: public verification about17:51Z if Pages responds. Original CI and policy disposition remain active; iPhone result check17:50Z. Whole draft completion time remains unknown until the required acceptance evidence qualifies."
+    "landing": "Lands: public update about18:12Z; TEST installation about18:22Z if Shopify readbacks agree. Final completion time is unknown until native, connected and original-reader acceptance passes."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
