@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused; native and connected acceptance remain open. Chair21:51UTC confirms TEST lacks a Shopify connection and two admitted TEST shoppers. Owner-controlled connection and specifically authorized shopper admission come before the original TEST feature and reviewed draft mount. The assistant remains off and unmounted. These original-owner results are separate from Argon’s advice.",
+      "result": "The current item, size and configured store feed the existing enquiry preview in the unpublished draft. Original implementation, review, merge and exact installation are verified. Header C1–C4 passed;36 Stores checks passed at380/430/1280 with91 artifact hashes. Genuine200% Chrome page zoom is now captured at all three base widths, giving190/215/640 CSS pixels, without horizontal overflow and with message/disclosure reachable. All40 observed version URLs match prior bindings; no fresh response-byte census is claimed. The original final reader still owns acceptance. Timing instrumentation was refused. The later chair-authorized route is limited to existing loading and paint records, plus an exposed request log; Hands owns its slot. It does not prove input feedback or frame timing. Native and connected acceptance remain open. Chair26 October05:07UTC reports both TEST shoppers already admitted; this is not independently rechecked here. The owner’s credential entry remains the TEST connection setup step, followed by connection verification and the original TEST feature/reviewed draft mount. The assistant remains off and unmounted. These original-owner results are separate from Argon’s advice.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -223,14 +223,14 @@
           "text": "Actual Chrome200% page zoom at base380/430/1280 produced190/215/640 CSS widths. No horizontal overflow; message and disclosure reachable.40/40DOM version URLs match the prior source capture; not a fresh byte-response census. Original36 checks retained without replay. Zoom restored100% and browser grant released. Original final reader pending; no native, timing or score credit."
         },
         {
-          "title": "Timing refused; current native blocker is memory pressure",
-          "date": "25 October browser refusal; latest native resource sample26 October2026,00:05:37UTC",
-          "text": "The supported timing probe was refused even on a documented fresh tab while Browser Use resolved a paused document response. No formal or held-cancel samples. Native disk now passes at13.18GiB, but pressure2 fails qualification. Queue remains P212, Home4852, then Website; no own native grant. Original Hands retains recovery and allocation."
+          "title": "Limited timing route awaits Hands; native memory pressure remains",
+          "date": "26 October2026 · chair scope02:28UTC / existing handoff02:58UTC",
+          "text": "The earlier timing probe was refused. Chair now permits one read of existing navigation, resource and paint records, plus a request log only if the actor’s supported surface exposes one. Hands owns the next single-actor slot; no CDP, observer or capture. Input-feedback, frame and held-control proof remain absent. Latest dated native reading00:05:37UTC passes disk at13.18GiB but fails memory pressure at2; queue P212, Home4852, Website, no own grant."
         },
         {
-          "title": "C06 TEST connection and shopper prerequisites confirmed",
+          "title": "Historical C06 setup ruling, corrected by later chair receipt",
           "date": "25 October2026 · chair decision21:51UTC; receipt verified21:53UTC",
-          "text": "The owner must connect TEST to a Shopify development store, then the owner or Website under specific authorization admits two TEST shoppers. Only afterward the original chair enables the TEST-only feature and the original Website owner uses its reviewed draft-mount route. The existing owner-controlled connection request has been delivered through original Bridge; its answer and completion remain unverified. No connection, admission, activation, mount or Style/Save write occurred. P694 is not this blocker; shared TEST access and completed Stores evidence remain separate."
+          "text": "The owner must connect TEST to a Shopify development store, then the owner or Website under specific authorization admits two TEST shoppers. Only afterward the original chair enables the TEST-only feature and the original Website owner uses its reviewed draft-mount route. The existing owner-controlled connection request has been delivered through original Bridge; its answer and completion remain unverified. No connection, admission, activation, mount or Style/Save write occurred. P694 is not this blocker; shared TEST access and completed Stores evidence remain separate. The26 October05:07UTC chair receipt below supersedes the shopper-admission prerequisite; retain this as historical scope."
         },
         {
           "title": "Historical start diagnostic before the relay installation",
@@ -238,13 +238,28 @@
           "text": "The same original reader accepted the diagnostic, which reported queued work as not started when the start service was missing. It did not restore automatic starts or restart persistence. At this historical snapshot the original mechanism design was running. The later accepted relay installation is recorded below; no permanent reliability or storefront-rating credit is inferred."
         },
         {
-          "title": "Original relay accepted and installed; natural proof still open",
+          "title": "Original relay installed; later natural Website occurrence recorded below",
           "date": "25 October2026 · acceptance23:16UTC / installed23:17:52UTC; recovery observed26 October00:29UTC",
-          "text": "The same original reader accepted the relay and the original chair installed the matching source. Three installed test-file hashes and the pin source match. Implementation is complete, but natural-start and restart proof remain open. The first settled owner attempt was usage-failed, not a success. The owner restored access around00:27UTC; original Monitor was observed running from00:29:26UTC. That is not yet proof of substantive owner continuation. Existing queues were preserved without another wake; no storefront or rating credit."
+          "text": "The same original reader accepted the relay and the original chair installed the matching source. Three installed test-file hashes and the pin source match. Implementation is complete, but natural-start and restart proof remain open. The first settled owner attempt was usage-failed, not a success. The owner restored access around00:27UTC; original Monitor was observed running from00:29:26UTC. That is not yet proof of substantive owner continuation. Existing queues were preserved without another wake; no storefront or rating credit. This historical recovery snapshot is followed by one verified Website wake below; it does not establish group-wide or restart reliability."
+        },
+        {
+          "title": "Automatic Website wake reached a real verification attempt",
+          "date": "26 October2026 · wake02:00UTC / request02:06:48–02:06:58UTC",
+          "text": "The original owner resumed the same pending task-site publication and made one HTTPS request. TLS timed out, so no hosted-byte completion was credited and the other four requests were not repeated. The initial network failure is historical: the same publication d2a9777 reached five exact hosted matches at05:32UTC after HTTPS recovered. This proves useful continuation for one occurrence, not permanent group or restart reliability. A separate delegated owner required its original parent after direct-start refusal; the original routing correction was later accepted and installed, as recorded below; natural recurrence remains open. No storefront, native or rating credit."
+        },
+        {
+          "title": "Parent-routing correction installed; natural proof remains open",
+          "date": "26 October2026 · chair receipt04:44UTC; installation04:42:35UTC",
+          "text": "Chair confirms the same original reader accepted the parent-routing correction and the original custodian installed it. The first natural program-to-parent recurrence, descendant-chain behavior and restart acceptance remain unproved. No synthetic wake or extra review was started; no storefront score or native credit."
+        },
+        {
+          "title": "Chair corrects C06 setup: TEST shoppers already admitted",
+          "date": "26 October2026 · chair05:07UTC",
+          "text": "Chair reports both TEST shoppers already admitted; the presenter has not independently rechecked those admissions. Only owner credential entry remains for TEST connection setup. The chair verifies the connection after save; original TEST feature and reviewed draft mount follow. No credential is handled here, no new connection is claimed, and the assistant remains off and unmounted."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-26T00:59:33.149668+00:00"
+      "sourceAsOf": "2026-10-26T05:34:53.920930+00:00"
     },
     "companion": {
       "number": "04",
