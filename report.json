@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original repair completed; exact head 666d24d1 was read back as Draft. No duplicate writer or review was started.",
+  "workerState": "Original repair completed; exact head 666d24d1 was read back as Ready. No duplicate writer or review was started.",
   "journey": [
     {
       "stage": "Build",
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original review queue, exact native source binding, TEST enrollment and final evidence remain open. GitHub access returned briefly but is intermittent. The current hero is not treated as approved.",
-  "current": "The homepage hero is disputed by the owner. The current draft uses the default Split layout; approval of this exact composition has not been established. Separate test-route repair #4996 is verified at its final head and awaits its original ordered review.",
-  "next": "Resolve the homepage against the approved reference; continue the original final code review and qualify source for the seven phone checks. Publish this updated task report.",
-  "updated": "27 October around 20:14 UTC: current draft hero inspected in Chrome, source default traced. Last successful GitHub read showed #4996 OPEN Draft; a later read timed out. No final rating or merge is inferred.",
+  "current": "The homepage hero is disputed by the owner. The current draft uses the default Split layout; approval of this exact composition has not been established. Separate test-route repair #4996 is verified Ready at its final head after the original ordered handoff; its final review and merge are pending.",
+  "next": "Resolve the homepage against the approved reference; continue the original final code review and qualify source for the seven phone checks. The public task report is updated and verified.",
+  "updated": "27 October around 20:14 UTC: current draft hero inspected in Chrome, source default traced. Latest successful GitHub read confirms #4996 OPEN Ready at 20:18:57 UTC; no merge or final verdict yet. No final rating or merge is inferred.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -206,7 +206,7 @@
   ],
   "recentChanges": [
     "The owner disputed the homepage hero. The draft is using the default Split layout; exact design approval has not been established, and further hero changes are held.",
-    "The final repair head for #4996 is now independently read back as 666d24d1, OPEN Draft. The original ordered review remains pending.",
+    "The final repair head for #4996 is independently read back as 666d24d1, OPEN Ready at 20:18:57 UTC. Its final review and merge remain pending.",
     "GitHub access returned, then timed out again. No duplicate repair or review was started.",
     "The existing TEST enrollment and seven phone checks remain separate acceptance gates."
   ],
@@ -229,7 +229,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The chair-approved run completed03:21:15 UTC, but all seven rows are NOT EXERCISED because zoom200 was unverified and the expected size control absent. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract wait remains16 October14:30 UTC.",
-      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The original Website adapter is published as #4996; its final named repair is reported at666d24d1 after two consumed full reviews. The last successful read shows final repair 666d24d1 OPEN Draft, awaiting the original ordered review; later transport failed again. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
+      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The original Website adapter is published as #4996; its final named repair is reported at666d24d1 after two consumed full reviews. The latest successful read shows final repair 666d24d1 OPEN Ready following the original ordered handoff; final review and merge remain pending. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -249,7 +249,7 @@
       },
       {
         "complete": false,
-        "text": "Verify final review and merge (started 18:46 UTC; next check 20:45 UTC or original result). Last successful read: Draft; the original queue has two preceding changes. Connection remains intermittent."
+        "text": "Verify final review and merge (started 18:46 UTC; next check 20:45 UTC or original result). Original Hands marked it Ready at 20:18 UTC; final review and merge pending. Connection remains intermittent."
       },
       {
         "complete": true,
@@ -276,11 +276,11 @@
         "text": "Complete the unpublished Shopify draft handover (6/11 delivery gates; 1/3 final milestones; disputed hero remains unresolved)."
       },
       {
-        "complete": false,
-        "text": "Publish and verify this task-site update (started 20:14 UTC, est. 5 min; network may delay hosted verification)."
+        "complete": true,
+        "text": "Publish and verify the task-site correction (20:14–20:21 UTC, took 7 min). Matching build and five served files verified; network added 2 min."
       }
     ],
-    "landing": "Lands: task-site refresh about 20:19 UTC (5 min; intermittent transport may move it). Full draft completion remains unknown until native, TEST, hero approval and final-rating gates pass. Shopify stays unpublished."
+    "landing": "Lands: next original review disposition about 20:45 UTC (about 22 min; review execution and transport may move it). Full draft completion remains unknown until native, TEST, hero approval and final-rating gates pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
