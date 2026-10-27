@@ -245,7 +245,7 @@
       },
       {
         "complete": false,
-        "text": "Verify final review and merge (started 18:46 UTC; next check 19:30 UTC or transport return). GitHub reads time out and the build server resets connections; no verdict is inferred."
+        "text": "Verify final review and merge (started 18:46 UTC; 19:30 UTC check returned two timeouts; next check 20:00 UTC or transport return). GitHub reads time out and the build server resets connections; no verdict is inferred."
       },
       {
         "complete": true,
@@ -273,10 +273,10 @@
       },
       {
         "complete": false,
-        "text": "Publish and verify this task-site update (started 18:54 UTC; est. 5 min after network recovery)."
+        "text": "Publish and verify this task-site update (prepared and committed; push failed DNS at 19:21 UTC; est. 5 min after network recovery)."
       }
     ],
-    "landing": "Lands: next repair disposition about 19:30 UTC (up to 36 min; GitHub and build-server connectivity may move it). Full draft completion remains unknown until native, TEST and final-rating gates pass. Shopify stays unpublished."
+    "landing": "Lands: next transport/review disposition about 20:00 UTC (about 30 min; GitHub and build-server recovery required). Full draft completion remains unknown until native, TEST and final-rating gates pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
