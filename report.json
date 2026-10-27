@@ -284,11 +284,11 @@
         "text": "Publish and verify the continuation snapshot (10:12–10:14 UTC, took2min; five hosted files match)."
       },
       {
-        "complete": false,
-        "text": "Publish and verify the original writer START result (started10:30 UTC, est.5min)."
+        "complete": true,
+        "text": "Publish and verify the original writer START result (10:30–10:34 UTC, took4min; all five hosted files match)."
       }
     ],
-    "landing": "Lands: about10:35 UTC for the updated public report (5min; Pages may move it). Draft completion time remains unknown until the route release, TEST access, device evidence and ratings pass. Next original-result check11:00 UTC or earlier result. Shopify stays unpublished."
+    "landing": "Lands: public START report verified10:34 UTC. Draft completion time remains unknown until the route release, TEST access, device evidence and ratings pass. Next original-result check11:00 UTC or earlier result. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
