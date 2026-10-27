@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Hands has resumed after a connection gap; the original #4996 repair handoff is recorded, but its start is not yet confirmed. The CS parent is actively consuming #4991 release evidence.",
+  "workerState": "Original repair finished at17:30 UTC. Root consumed both repair reports and the chair disposition; no duplicate writer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October: #4996 published11:00 UTC and first-reviewed13:51 UTC; #4991 merged13:44 UTC. The follow-through H1 repair is staged; installation and a natural Website wake are not proved.",
+  "lastActualProgress": "27 October: original final repair reported at17:30 UTC; follow-through repair installed at17:08:35 UTC and its bytes now verified. Correct-owner automatic messages arrived, but subsequent model/usage failures interrupted execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Native checks still need a reviewed route, exact served-theme binding and device allocation. TEST enrollment remains on the existing owner card. The original final ratings depend on these checks.",
-  "current": "The storefront test route is built as #4996. Its first review found two missing guard tests; the original writer owns the repair. TEST binding repair #4991 merged at13:44 UTC.",
-  "next": "Complete the two named guard tests through the original writer, then review and merge the route. Bind the served theme before native checks. The original CS owner is consuming the merged TEST repair.",
-  "updated": "Source snapshot 2026-10-27T15:23:15.276125+00:00. Delivery6/11, native0/7 and final ratings0/3 remain unchanged. Publication, review and merge are now shown separately.",
+  "remaining": "GitHub API reads time out; the build-server connection resets. Native checks still need source binding and allocation. TEST needs its existing login/enrollment disposition and supported browser access.",
+  "current": "The original writer has completed the final named repair for test route #4996. The chair reports head 666d24d1 and clears it for the review queue. Current review and merge reads are blocked by connection failures.",
+  "next": "Read the final verdict and merge state when GitHub returns, then qualify the exact served theme before the seven native checks. Preserve the original writer and review history.",
+  "updated": "Snapshot 2026-10-27T18:57:41.824763+00:00. Final review and merge are currently unverified due to transport failures. Counts remain6/11 delivery,0/7 native and0/3 final passes.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -205,21 +205,21 @@
     }
   ],
   "recentChanges": [
-    "TEST binding repair #4991 merged at13:44 UTC; original installed-source acceptance is in progress.",
-    "Storefront test route #4996 reached review. Two uncovered guard paths are assigned back to its original writer.",
-    "Automatic follow-through missed this Website result because its destination name matched two chats. The existing handoff now names this exact chat; automatic recovery remains unproved.",
-    "The original continuation repair is staged, with final independent check, remote proof and installation still required."
+    "Original repair #4996 progressed through two repair pushes; the final named-fix head is reported as666d24d1. Current final verdict and merge await a successful read.",
+    "The follow-through repair is independently accepted and installed. Correct-owner delivery is observed; unattended execution remains unproved after account/model interruptions.",
+    "GitHub and build-server transport failures are recorded as the current read blocker. No completed repair is being restarted.",
+    "The existing TEST login card remains with the original owners. Shared CRUX login does not establish TEST enrollment."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "Review consent and the connected customer-care journey still need acceptance. Merged acceptance checks are already retained; this is not a code-build wait. Owner: Original Aftercare acceptance owner and CS service owner; Root coordinates the existing return. Wait: Original first-wait timestamp is not established in this compact record; no new start time is invented.",
-      "next": "Original acceptance owner consumes the retained checks; CS first needs the TEST staff enrollment identified as absent by the chair. The existing card must first identify a supported TEST admin context and the actual intended own-user row, then qualified sign-in and approved identity/chat reads can proceed. CRUX shared-login reuse is verified but does not prove TEST membership. The original passive-read design is admitted; the chair has cleared the execution-seat restriction for the same session. The design and original guarded implementation are complete; #4991 is published with all three pin-test groups passing, while protected release remains open. Runtime and enrollment remain separate while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
+      "next": "Original acceptance owner consumes the retained checks; CS first needs the TEST staff enrollment identified as absent by the chair. The existing card must first identify a supported TEST admin context and the actual intended own-user row, then qualified sign-in and approved identity/chat reads can proceed. CRUX shared-login reuse is verified but does not prove TEST membership. The original passive-read design is admitted; the chair has cleared the execution-seat restriction for the same session. The design and original guarded implementation are complete; #4991 is merged and its original installed-source receipt is consumed. A separate critical-review policy clarification remains with the chair. Runtime and enrollment remain separate while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
     },
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Notice source, TEST installation and binding repair #4965 are complete. Approved notice words, designated TEST shopper identities with signed binding, and the connected consent/withdrawal results are still missing. Owner: Original C06/Website/A2 owners and original CS owner; chair retains the existing notice decision card. Wait: External facts retain12 October04:12 UTC; shared actor card retains25 October21:18:27 UTC.",
-      "next": "The original CS result requires the missing TEST enrollment to be completed, followed by staff sign-in; use the already-granted A/B admission when the designated shopper identities and owner-operated sign-in are bound. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
+      "next": "The original CS result requires the missing TEST enrollment to be completed, followed by staff sign-in; use the already-granted A/B admission when the designated shopper identities and the already-authorized shared sign-in are bound. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -229,7 +229,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The chair-approved run completed03:21:15 UTC, but all seven rows are NOT EXERCISED because zoom200 was unverified and the expected size control absent. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract wait remains16 October14:30 UTC.",
-      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The admitted Website adapter started at10:10 UTC through its original Hands writer, with the completed helper as its dependency. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
+      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The original Website adapter is published as #4996; its final named repair is reported at666d24d1 after two consumed full reviews. Current final verdict and merge cannot yet be read because transport fails. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -241,38 +241,42 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile original publication and review (15:13–15:18 UTC, took 5 min). #4996 is published and its first review rejected two uncovered guard paths; the chair has assigned the repair to the original writer."
+        "text": "Consume the original repair results (18:46–18:54 UTC, took 8 min). Both pushes finished; the chair reports final repair 666d24d1 ready for the protected queue. Earlier start wait is closed."
       },
       {
         "complete": false,
-        "text": "Complete the original named repair and protected merge (started 15:18 UTC; est. 30 min to establish repair result or actual prerequisite). Same original writer; Bridge is reconciling the existing chair order. No duplicate lane."
+        "text": "Verify final review and merge (started 18:46 UTC; next check 19:30 UTC or transport return). GitHub reads time out and the build server resets connections; no verdict is inferred."
+      },
+      {
+        "complete": true,
+        "text": "Verify follow-through repair installation (18:49–18:54 UTC, took 5 min). Original accepted R9 matches installed bytes; automatic delivery reached this chat."
       },
       {
         "complete": false,
-        "text": "Verify the follow-through repair on a natural automatic transition (started 15:13 UTC; est. 15 min to reconcile the original final check and installation). Staged R7 was rejected for one new high issue; original H1 continuation and exact-hash remote proof must be read before any recovery claim."
+        "text": "Prove unattended completion of the next step (awaiting a successful original-owner transition). Account/model errors interrupted later turns; delivery alone is insufficient."
       },
       {
         "complete": false,
-        "text": "Finish the seven native iPhone checks (0/7; awaiting supported source binding and device allocation after the route repair). Duration unknown until the original allocation."
+        "text": "Qualify source and finish seven iPhone checks (0/7; needs exact served-theme binding and the original allocation)."
       },
       {
         "complete": false,
-        "text": "Complete TEST connected guards, privacy, retention, buyer trust and consent acceptance (awaiting the existing owner TEST enrollment card and original release results; no repeat PIN attempt)."
+        "text": "Finish TEST connected, privacy and consent acceptance (existing enrollment/login card and supported browser route; original owners)."
       },
       {
         "complete": false,
-        "text": "Obtain the three original final named-fix ratings (0/3 passing). Each requires at least 9.5 on the qualified draft and its evidence; no extra full review round."
+        "text": "Obtain the three original final named-fix ratings (0/3 passing; needs complete qualified evidence)."
       },
       {
         "complete": false,
-        "text": "Complete the unpublished Shopify draft handover (6/11 delivery gates; 1/3 final milestones). Native, connected, performance and reader evidence remain required."
+        "text": "Complete the unpublished Shopify draft handover (6/11 delivery gates; 1/3 final milestones)."
       },
       {
         "complete": false,
-        "text": "Update and verify the public task site (est. 5 min after the current repair and continuation facts are reconciled)."
+        "text": "Publish and verify this task-site update (started 18:54 UTC; est. 5 min after network recovery)."
       }
     ],
-    "landing": "Lands: next concrete repair disposition about 15:48 UTC (30 min; original writer/remote review may move it). Whole-draft completion time remains unknown until native access, TEST enrollment and final ratings pass. Shopify stays unpublished."
+    "landing": "Lands: next repair disposition about 19:30 UTC (up to 36 min; GitHub and build-server connectivity may move it). Full draft completion remains unknown until native, TEST and final-rating gates pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
