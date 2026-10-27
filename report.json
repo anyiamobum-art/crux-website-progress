@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October 20:48 UTC: all five protected test shards are running. The observed TEST-to-CRUX navigation fault was delivered once to the original People lead for existing-owner reconciliation; acknowledgment and repair remain unverified.",
+  "lastActualProgress": "27 October 20:59 UTC: reconciled the complete TEST installation (120 files) and matching notice asset without reinstalling. Consumed actual TEST owner CS/Mine/Desk proof. The navigation fault is now with its original shell owner. Two hosted test groups passed; three are running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Hosted tests, exact native source binding, TEST staff enrollment and final evidence remain open. The TEST owner login now works; the original customer-care owner retains enrollment. GitHub access is intermittent. The current hero is not treated as approved.",
-  "current": "The homepage hero is disputed by the owner. The current draft uses the default Split layout; approval of this exact composition has not been established. Separate test-route repair #4996 has its first final code approval. Hosted tests are running; the second code review waits for those protected checks, then merge can proceed.",
-  "next": "Resolve the homepage against the approved reference; continue the original final code review and qualify source for the seven phone checks. The public task report is updated and verified.",
-  "updated": "27 October 20:48 UTC: first final code approval retained; all five hosted tests running, with admission, pins and guards green. The second review and merge remain pending. The public report at 20:43 UTC matched all five served files. No final design-rating credit.",
+  "remaining": "Three hosted test groups, critical review, exact native source binding and final evidence remain open. TEST staff preparation, designated Shopify shopper identities and approved notice text are separate requirements. The current hero is not treated as approved.",
+  "current": "The homepage hero remains disputed. Source history shows the Split layout became the default on 8 October; exact approval of that composition is not established. Further hero edits are held. Separate test-route repair #4996 retains its first final code approval; two of five hosted test groups have passed, three are running.",
+  "next": "Resolve the homepage against the approved reference. Consume the remaining hosted checks into the original review and merge route. TEST owner login is complete; keep the separate Shopify shopper and notice prerequisites with their existing owners.",
+  "updated": "27 October 20:59 UTC: the installed notice asset and five supporting source/preservation receipts match their recorded hashes. This is evidence reconciliation, not new runtime acceptance. First code approval remains; merge and final design ratings remain pending.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -206,9 +206,9 @@
   ],
   "recentChanges": [
     "The owner disputed the homepage hero. The draft is using the default Split layout; exact design approval has not been established, and further hero changes are held.",
-    "The final repair #4996 at 666d24d1 received its first final code APPROVE at 20:25 UTC. Admission, gates, regression pins and guards pass; five hosted test shards are running. The second code review and merge remain pending.",
+    "The final repair #4996 at 666d24d1 received its first final code APPROVE at 20:25 UTC. Admission, gates, regression pins and guards pass; two hosted test groups have passed and three are running. The second code review and merge remain pending.",
     "GitHub access returned, then timed out again. No duplicate repair or review was started.",
-    "The original TEST owner login is verified. Staff enrollment is still absent. A navigation fault returning to CRUX was routed once to the original People lead; repair is not yet verified. Phone checks remain separate."
+    "The original TEST owner login is verified. Staff enrollment is still absent. The original People lead traced the workspace-losing navigation to the original shell owner and delivered it there; repair remains unverified. Phone checks remain separate."
   ],
   "openDeliveryGates": [
     {
@@ -219,7 +219,7 @@
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Notice source, TEST installation and binding repair #4965 are complete. Approved notice words, designated TEST shopper identities with signed binding, and the connected consent/withdrawal results are still missing. Owner: Original C06/Website/A2 owners and original CS owner; chair retains the existing notice decision card. Wait: External facts retain12 October04:12 UTC; shared actor card retains25 October21:18:27 UTC.",
-      "next": "The original CS result requires the missing TEST enrollment to be completed, followed by staff sign-in; use the already-granted A/B admission when the designated shopper identities and the already-authorized shared sign-in are bound. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
+      "next": "TEST owner login is verified. C06 needs the already-admitted two Shopify shopper identities and signed customer-mirror binding, independently of EON staff enrollment. Resolve the existing notice decision and then follow the original reviewed TEST-only activation sequence. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -249,7 +249,7 @@
       },
       {
         "complete": false,
-        "text": "Verify final review and merge (started 18:46 UTC; next check 21:15 UTC or terminal hosted result). First final code approval verified at 20:40 UTC; five hosted test shards running. Second review waits for protected checks, then merge."
+        "text": "Verify final review and merge (started 18:46 UTC; next check 21:15 UTC or terminal hosted result). First final code approval verified at 20:40 UTC; two hosted test groups passed, three running. Second review waits for protected checks, then merge."
       },
       {
         "complete": true,
@@ -265,7 +265,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST connected, privacy and consent acceptance (owner login reached at about 20:36 UTC; staff enrollment and designated identities still required; original owner retains the browser)."
+        "text": "Finish TEST connected, privacy and consent acceptance (owner CS/Mine/Desk proof at 20:48 UTC; Shopify shopper identities and notice decision remain separate from staff enrollment; original owner retains the browser)."
       },
       {
         "complete": false,
@@ -280,7 +280,7 @@
         "text": "Publish and verify the task-site correction (20:14–20:21 UTC, took 7 min). Matching build and five served files verified; network added 2 min."
       }
     ],
-    "landing": "Lands: next protected-test disposition about 21:15 UTC (about 25 min; hosted runtime and second review may move it). The 20:45 check found tests had just started. Full draft completion remains unknown until native, TEST, hero approval and final-rating gates pass. Shopify stays unpublished."
+    "landing": "Lands: next protected-test disposition about 21:15 UTC (about 13 min; hosted runtime and second review may move it). The 20:45 check found tests had just started. Full draft completion remains unknown until native, TEST, hero approval and final-rating gates pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
