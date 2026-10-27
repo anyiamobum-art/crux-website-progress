@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. The owner also authorized a parallel homepage redesign preserving The spread / SIDE BY SIDE, with separate Astra 6, Fable and Argon rendered reviews. New theme changes target the unpublished draft only; no live-theme writes are authorized.",
-  "workerState": "The same homepage builder is rendering the focused correction; a separate support agent is preparing evidence for the three requested design readers. No rating call has started. Root is coordinating the exact OAuth failure and protected release work.",
+  "workerState": "The original homepage builder has frozen the candidate; review support is packaging the evidence and an independent design reader is running. The original image-comparison session acknowledged the resume and has begun reconciling its saved deployment. Completed group work was not restarted.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October 22:22 UTC: approved TEST disconnect and one installation attempt completed; Shopify returned the exact host-mismatch error. Homepage correction 11692e55 is committed locally and rendering. The prior public update was verified served at 22:09 UTC.",
+  "lastActualProgress": "27 October 23:10 UTC onward: current homepage capture receipt frozen at 2c32d886; independent design review started. The shared predecessor for the storefront repair reported terminal completion, and Hands has the exact release-and-resume request.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The owner approved TEST-only reconnect. Disconnect succeeded and was verified; Shopify then refused authorization because the app URL and callback URL hosts differ. TEST is currently disconnected. The separate storefront test-route repair still awaits its original main-conflict repair; no live theme change is authorized.",
-  "current": "The paired-photo homepage is built. Its second rendered pass has zero runtime errors across six cases. Actual image inspection found two heading breaks and a WhatsApp/address overlap; the same builder has committed the focused correction and is rendering settled views. TEST reconnect exposed a specific Shopify application/callback-host mismatch.",
-  "next": "Inspect the corrected homepage and freeze one neutral image-and-behavior packet for independent homepage design reviews. The original integration owner resolves TEST OAuth configuration while the original repair owner clears the shared-source conflict.",
-  "updated": "27 October 22:22 UTC: homepage remains local and unrated. Existing repair 666d24d1 remains Draft with a main conflict, while its five hosted test groups are green. TEST remains disconnected after the rejected reconnect. CRUX and live theme are untouched.",
+  "remaining": "TEST reconnection was rejected because the existing app uses Shopify’s placeholder application host while its callback uses EON. The remaining configuration read hit a Chrome connection timeout. The original storefront repair still needs its main-conflict resolution. Native and connected acceptance remain separate open gates.",
+  "current": "The approved paired-photo homepage has been rebuilt and visually checked at 380, 430 and 1280 px. The two remaining overlap fixes are verified in the local candidate. Its source and 17 captures are frozen; the independent Astra design review has started. Original idle group work has also resumed.",
+  "next": "Collect all independent homepage findings on the same candidate, return named fixes to its original builder, and continue the original storefront repair after the shared writer releases its worktree. Complete the TEST app-configuration read and prepare the smallest correction.",
+  "updated": "27 October 23:10 UTC onward: homepage is a local, source-bound candidate, not installed and not yet rated. Product/size selection enables Add to bag; the observed store-visit handoff preserves the selected item and size. No item was added or enquiry sent. TEST remains disconnected after the refused reconnect.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The corrected paired-photo homepage completed six rendered cases with zero JavaScript errors. Parent image review caught two word breaks and a floating-contact overlap; the same builder is verifying their focused correction.",
-    "TEST-only disconnect was explicitly approved and verified. Reconnection reached Shopify, which rejected mismatching application and callback hosts; the original integration owner has the exact failure. This is not a sign-in wait.",
-    "The existing storefront test-route repair has all five test groups green. Its original writer must resolve the main conflict after the shared worktree is released; no replacement writer or duplicate review.",
-    "Independent homepage design scores will be recorded separately from native and whole-site acceptance. No homepage 9.5 rating has been earned yet.",
-    "The preceding public update is verified served. Original delivery counts stay 6/11, final milestones 1/3, native checks 0/7 and final whole-site passes 0/3. The approved Shopify settings refinements remain complete."
+    "The approved SIDE BY SIDE homepage is now frozen at one exact source. Settled 380/430/1280 views and the focused overlap fixes were inspected; 17 captures are retained with transient or partial frames explicitly labelled.",
+    "Selecting an available product size enables Add to bag and Plan a store visit. The visit list preserves the item, colour and size and clearly says it is not a reservation or stock confirmation. No cart or message side effect was performed.",
+    "The independent homepage design review has started. The new candidate has no score yet; native and performance evidence is not inferred from screenshots. The remote render connection failed, so its old timing results are not reused for this revision.",
+    "The original incomplete image-comparison session resumed and took a substantive reconciliation step. Homepage support resumed through its existing agents; completed sessions stayed closed.",
+    "TEST’s exact existing-app host mismatch is identified. The original integration owner prepared a minimal correction; the complete redirect-list read is still owed. Hands has the changed predecessor evidence for the original storefront repair."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The chair-approved run completed03:21:15 UTC, but all seven rows are NOT EXERCISED because zoom200 was unverified and the expected size control absent. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; numeric-contract wait remains16 October14:30 UTC.",
-      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The original Website adapter is published as #4996; its final named repair is reported at666d24d1 after two consumed full reviews. The latest successful read shows final repair 666d24d1 with its first final code approval. All five hosted test groups passed. Main now conflicts in the shared phone-test helper; Hands holds the original merge-main repair until the Factory writer releases that worktree. Exact-head protected review and merge remain pending. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
+      "next": "The artifacts are consumed. Original phone-test repair #4980 is pushed at5e45bd86 after the recording-limit correction. The chair granted size admission and the original publisher marked it Ready08:32 UTC. Both independent reviews and all five hosted test shards passed; merge4314a775 is verified09:26 UTC. The original Website adapter is published as #4996; its final named repair is reported at666d24d1 after two consumed full reviews. The latest successful read shows final repair 666d24d1 with its first final code approval. All five hosted test groups passed. Main now conflicts in the shared phone-test helper; The shared Factory writer has reported terminal completion; Hands must verify actual release and resume the original merge-main repair once. Exact-head protected review and merge remain pending. Post-release analysis and labeling remain separate owed follow-ups. Hands has conditionally bound Website’s own seven checks to the repaired release, but the native owner confirmed the published helper is Studio-only. An exact storefront command, safe Mac resources and a Website-specific allocation remain separate. Studio scope does not transfer. No second hosted guest run. Complete the connected, performance and original-reader evidence before unpublished-draft handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -249,12 +249,20 @@
         "text": "Read the actual unpublished hero source (21:22–21:23 UTC, took 1 min). Six files bound to the draft; no mutation."
       },
       {
-        "complete": false,
-        "text": "Build and verify the homepage redesign in parallel (started 21:22 UTC; corrected render expected 22:35 UTC). Two actual image-review findings and contact clearance are being fixed; then freeze the independent review packet."
+        "complete": true,
+        "text": "Build and freeze the source-bound homepage candidate (21:22–23:10 UTC, took 108 min including remote connection failures and responsive checks). Exact local source and 17 labelled captures retained; no installation or rating implied."
       },
       {
         "complete": false,
-        "text": "Verify the existing repair’s final review and merge (started 18:46 UTC; next check 22:45 UTC). All five test groups passed; current head is Draft with a main conflict. Original shared-worktree release and repair are held by Hands."
+        "text": "Review the new homepage candidate independently (started 23:13 UTC, est. 20 min for first results). One design reader is running; the other two receive the same neutral evidence through their verified routes."
+      },
+      {
+        "complete": false,
+        "text": "Verify the existing repair’s final review and merge (started 18:46 UTC; next check 23:30 UTC). Its shared predecessor has reported completion; Hands must verify release and resume the original main-conflict repair once."
+      },
+      {
+        "complete": true,
+        "text": "Resume incomplete group work through original owners (22:55–23:14 UTC, took 19 min). Existing homepage agents and the original image-comparison owner resumed; the latter has acknowledged and executed a reconciliation step. Completed tasks were not restarted."
       },
       {
         "complete": true,
@@ -270,7 +278,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check 22:45 UTC). Approved disconnect succeeded; Shopify refuses mismatching application and callback hosts. Original integration owner has the exact failure."
+        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check 23:30 UTC). Exact app-host mismatch is bound; remaining shared-app reads and correction authority stay with original custody."
       },
       {
         "complete": false,
@@ -278,18 +286,18 @@
       },
       {
         "complete": false,
-        "text": "Complete the unpublished Shopify draft handover (6/11 delivery gates; 1/3 final milestones; homepage redesign included in the remaining delivery scope)."
+        "text": "Complete the unpublished Shopify draft handover (6/11 delivery gates; 1/3 final milestones; homepage redesign included in remaining scope)."
       },
       {
         "complete": true,
-        "text": "Publish preceding changed status (22:08–22:09 UTC, took 1 min). Public commit dd6e6ce2 and all five hosted files verified."
+        "text": "Publish preceding changed status (22:22–22:28 UTC, took 6 min). Public commit af0623fb and all five hosted files verified."
       },
       {
         "complete": false,
-        "text": "Publish this changed reconnect outcome and homepage evidence (started 22:22 UTC, est. 8 min)."
+        "text": "Publish this candidate-freeze and group-resume update (started 23:14 UTC, est. 8 min)."
       }
     ],
-    "landing": "Lands: corrected homepage render about 22:35 UTC (about 13 min left; remote evidence may move it). Public update about 22:30 UTC. Full draft completion remains unknown until native, TEST and required independent ratings pass. Shopify stays unpublished."
+    "landing": "Lands: first homepage design results about 23:33 UTC (reviewer access or findings may move this); public update about 23:22 UTC. Full draft completion remains unknown until native, TEST and required independent ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
