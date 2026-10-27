@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "Original CS design continuation is retained by the existing custodian; execution has not yet been verified. The original phone-test repair started12:45:08 Shanghai on27 October; result and release are pending. Hands access return is verified, with no Website native turn granted.",
+  "workerState": "Original TEST session resumed: process verified13:30:55 Shanghai, same session, model and effort. Its result is pending. The original phone-test repair has a verified START, but no corrected published head yet. Website’s specific native request is queued with Hands; no grant or dispatch is credited.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October13:06:15 Shanghai: Hands reported restored Desktop access. The last reported swap reading was14.8 of15.4GB, so native work still needs a resource-safe allocated turn. The preceding report was published and all five files matched at13:09:49 Shanghai; this newer-consumed access receipt corrects that snapshot.",
+  "lastActualProgress": "27 October13:30:55 Shanghai: the original coordinator verified the same TEST design session running on the supported execution seat. Website’s seven-check allocation request reached the current Hands queue. Enrollment was separately requested by the chair at13:24 Shanghai.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "TEST has no enrolled staff account or PIN; the existing human enrollment card remains. The passive-read design is admitted, but the global assisted-order switch stays OFF. Hands access is restored; normal repair release, a Website-specific allocation and Mac resource admission remain. Signed shopper A/B bindings and notice/consent evidence are separate.",
-  "current": "The chair has admitted the original TEST read design, and the original phone-test repair has started remotely. This is design and source progress; no connected test or native check has passed from it. Both unpublished draft installations remain verified.",
-  "next": "Consume the original TEST design result and phone-test repair result, then carry permitted work through their existing reviews and release. Hands access is restored. TEST enrollment, exact actor/chat/reference, a resource-safe Website-specific phone turn and qualified evidence remain required.",
-  "updated": "Source snapshot 2026-10-27T05:11:38.091819+00:00. Design admission, original repair START and subsequent Hands access-return receipt are consumed. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged.",
+  "remaining": "TEST enrollment and PIN still require the existing owner action. The passive-read design is running, with global assisted-order OFF; design completion does not itself authorize runtime. The phone-test repair remains Draft before review and merge. Website needs its own resource-safe native turn. Signed shopper A/B and notice/consent evidence remain separate.",
+  "current": "The original TEST design session has actually resumed on an available supported execution seat, with its model and history preserved. The original phone-test repair is also underway; its corrected result still needs review and merge.",
+  "next": "Consume the original TEST design and phone-test repair results. Website’s seven-check iPhone request has reached the current Hands queue; it is not yet an allocation. The existing owner enrollment/PIN action and exact TEST bindings remain required.",
+  "updated": "Source snapshot 2026-10-27T05:33:38.071917+00:00. Actual original TEST resume and Website allocation delivery verified separately from result or grant. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged.",
   "links": [
     {
       "title": "iPhone accessibility repair #4956",
@@ -207,17 +207,17 @@
     }
   ],
   "recentChanges": [
-    "The passive TEST design is now admitted in its original implementation lane. The earlier scope-decision wait is closed; design execution and runtime capability are not yet verified.",
-    "The original phone-test repair started remotely at12:45:08 Shanghai on27 October. Its five named fixes must pass the existing review and release process before a correctly scoped native turn.",
-    "TEST still has no enrolled staff identity. The single original human enrollment/PIN card remains; exact actor, chat and retained reference must also be qualified.",
-    "Hands Desktop access is restored. The original repair may continue; native work still needs its review/release, a resource-safe Website-specific allocation and source binding. No guest run or reviewer was repeated.",
-    "Both Shopify draft installations remain verified. Signed shopper A/B bindings, notice/consent and the three final ratings remain open; no live publication."
+    "The original TEST design session actually resumed, verified13:30:55 Shanghai. The chair-authorized move preserved the same session, model and history; its design result remains pending.",
+    "The original phone-test repair is still Draft at its previous head. Its five named fixes must return, pass review and merge before the native run; no review round has been consumed by the corrected premature Ready transition.",
+    "The chair presented the existing TEST enrollment/PIN request at13:24 Shanghai. No enrolled TEST staff identity is yet verified; the request has not been duplicated.",
+    "Website’s own seven-check iPhone request reached the current Hands queue through the existing coordinator. Delivery is verified; allocation and dispatch are not. The run still needs source release and safe Mac resources.",
+    "Both Shopify draft installations remain verified and unpublished. Connected consent evidence and the three original final ratings remain open; the checklist has not been inflated."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "Review consent and the connected customer-care journey still need acceptance. Merged acceptance checks are already retained; this is not a code-build wait. Owner: Original Aftercare acceptance owner and CS service owner; Root coordinates the existing return. Wait: Original first-wait timestamp is not established in this compact record; no new start time is invented.",
-      "next": "Original acceptance owner consumes the retained checks; CS first needs the TEST staff enrollment identified as absent by the chair. The existing human enrollment card must be completed, then the approved same-session identity/chat reads can proceed. The original passive-read design is admitted; its result and any later runtime decision remain pending while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
+      "next": "Original acceptance owner consumes the retained checks; CS first needs the TEST staff enrollment identified as absent by the chair. The existing human enrollment card must be completed, then the approved same-session identity/chat reads can proceed. The original passive-read design is admitted; the chair has cleared the execution-seat restriction for the same session. Actual resume is verified; result and any later runtime decision remain pending while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -288,7 +288,7 @@
       },
       {
         "complete": false,
-        "text": "Complete privacy, connected and retention acceptance (external facts wait since12 October04:12Z). Design/scope admitted27 October12:46:31 Shanghai; original design result pending. TEST enrollment, exact staff/chat/reference and separate signed shopper A/B/notice bindings remain required. Global switch stays OFF."
+        "text": "Complete privacy, connected and retention acceptance (external facts wait since12 October04:12Z). Design/scope admitted27 October12:46:31 Shanghai; same original session actually resumed13:30:55 Shanghai; design result pending. TEST enrollment, exact staff/chat/reference and separate signed shopper A/B/notice bindings remain required. Global switch stays OFF."
       },
       {
         "complete": false,
@@ -304,10 +304,22 @@
       },
       {
         "complete": true,
-        "text": "Publish and byte-verify the preceding identity and phone-route snapshot (27 October12:12–12:15 Shanghai, took3min). Public50eadb3 and all five files verified; no Shopify publication."
+        "text": "Publish and byte-verify the preceding access-return snapshot (27 October13:11–13:13 Shanghai, took2min). Public5b4945ab and all five files verified; no Shopify publication."
+      },
+      {
+        "complete": true,
+        "text": "Reconcile TEST execution route and deliver Website allocation request (13:29–13:33 Shanghai, took4min). Same original TEST session actually resumed13:30:55; native request delivered, not granted. Existing enrollment card remains separate."
+      },
+      {
+        "complete": false,
+        "text": "Consume original TEST design and phone-test repair results (original result checks13:35/13:40 Shanghai; completion time unknown). Preserve the existing review and allocation process."
+      },
+      {
+        "complete": false,
+        "text": "Publish and verify the changed-prerequisite task snapshot (started13:33 Shanghai, est.5min). One public report update; no Shopify change."
       }
     ],
-    "landing": "Lands: both draft installations are complete. Final delivery time is unknown because identity, resource-safe native allocation, connected evidence and final readers remain prerequisites. Original repair result check13:10 Shanghai; design custodian next boundary13:30 Shanghai. Delivery stays6/11; draft unpublished."
+    "landing": "Lands: both draft installations are complete. Final delivery time is unknown because identity, resource-safe native allocation, connected evidence and final readers remain prerequisites. Original repair result check13:35 Shanghai; design result check13:40 Shanghai; Website allocation response is pending. Delivery stays6/11; draft unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
