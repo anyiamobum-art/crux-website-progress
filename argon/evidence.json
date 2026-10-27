@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The original TEST design is complete; its minimal TEST-only implementation scope reached the chair05:41 UTC. The phone helper is published as Draft #4980 at b52cf5dc, with37 focused tests and31 pin checks reported passing. Execution preparation found one remaining recording-limit defect; the same writer/chair owns the correction before review and merge. Website’s seven checks are bound to that repaired release, with resource checks and a separate device allocation required. Enrollment, signed shopper/consent evidence and final ratings remain open. Both draft installations are verified; delivery6/11, native0/7, ratings0/3. No live Shopify publication or activation.",
+      "result": "The chair approved the original TEST-only read design and guard build; assisted ordering stays OFF and TEST enrollment remains required. Normal CRUX login has been verified separately. The original phone writer is queued for the recording-limit correction. The native owner confirmed the published helper is Studio-specific, so the exact storefront command remains an additional prerequisite. Draft #4980 is not yet merged; no native run or final rating is credited. Delivery6/11, native0/7, ratings0/3. No live Shopify publication.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -438,10 +438,15 @@
           "date": "27 October2026 · design05:34 UTC / source publication05:40 UTC / scope to chair05:41 UTC",
           "text": "The original TEST design is complete; its minimal TEST-only implementation scope reached the chair05:41 UTC. The phone helper is published as Draft #4980 at b52cf5dc, with37 focused tests and31 pin checks reported passing. Execution preparation found one remaining recording-limit defect; the same writer/chair owns the correction before review and merge. Website’s seven checks are bound to that repaired release, with resource checks and a separate device allocation required. Enrollment, signed shopper/consent evidence and final ratings remain open. Both draft installations are verified; delivery6/11, native0/7, ratings0/3. No live Shopify publication or activation. This is original-owner acceptance work, not a new Argon recommendation or rating.",
           "url": "https://github.com/EON-CRUX/3.09/pull/4980"
+        },
+        {
+          "title": "TEST scope approved; normal login verified; storefront test route gap explicit",
+          "date": "27 October2026 · chair05:46 UTC / original repair queued05:48 UTC",
+          "text": "The chair approved the original TEST-only read design and guard build; assisted ordering stays OFF and TEST enrollment remains required. Normal CRUX login has been verified separately. The original phone writer is queued for the recording-limit correction. The native owner confirmed the published helper is Studio-specific, so the exact storefront command remains an additional prerequisite. Draft #4980 is not yet merged; no native run or final rating is credited. Delivery6/11, native0/7, ratings0/3. No live Shopify publication. This continues the original acceptance work; it is not a new Argon contribution or score."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-27T05:44:14.718104+00:00"
+      "sourceAsOf": "2026-10-27T05:54:50.153891+00:00"
     },
     "companion": {
       "number": "04",
