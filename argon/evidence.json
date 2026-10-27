@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-27T09:51:28.174590+00:00",
+  "snapshot": "2026-10-27T23:29:20.856017+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "Argon-informed Stores enquiry is reviewed, merged, installed and scoped desktop checks are retained. Original-owner release work continues separately: homepage candidate frozen with independent design review underway; TEST reconnect refused on an exact app-host mismatch; storefront test repair awaits its original conflict resolution. Delivery 6/11, native 0/7 and final whole-site passes 0/3. Shopify stays unpublished.",
+      "result": "Argon-informed Stores enquiry is reviewed, merged, installed and scoped desktop checks are retained. The separate new homepage has a 9.12 rendered design result from its first independent reader; Argon has completed twelve image acknowledgments and has no new score yet. Original storefront repair is pushed and mergeable; TEST correction is source-bound with its original app owner. Delivery 6/11, native 0/7 and final whole-site passes 0/3. Shopify stays unpublished.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -453,10 +453,15 @@
           "title": "Homepage design review and original group work resumed",
           "date": "27 October 2026, 23:14 UTC",
           "text": "Source-bound paired-photo candidate and 17 labelled captures are frozen for independent design review. Responsive overlap checks and product-to-store context were observed locally. Original image-comparison work resumed. This is original-owner progress, not additional Argon advice, a new Argon score, installed delivery or native acceptance. TEST app-host mismatch is identified; remaining configuration read is blocked by a browser connection timeout."
+        },
+        {
+          "title": "Homepage assessment returned; original release blockers narrowed",
+          "date": "27 October 2026, 23:28 UTC",
+          "text": "First independent homepage design result is 9.12 with two named presentation fixes. Argon completed twelve source-bound image acknowledgments; its independent score remains pending. The Fable attempt returned a weekly-limit refusal and no verdict. Storefront repair c0f2b226 is pushed and mergeable, awaiting original Ready/review custody. Chrome configuration inspection recovered; one specifically scoped shared-app correction card remains with its original owner. No installed homepage, native acceptance, final whole-site pass or live publication is claimed."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-27T23:14:43.919163+00:00"
+      "sourceAsOf": "2026-10-27T23:29:20.856017+00:00"
     },
     "companion": {
       "number": "04",
@@ -575,5 +580,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website release evidence updated 2026-10-27T05:11:38.091819+00:00; other systems retain their own dated evidence. No new Argon score or causal attribution."
+  "snapshotScope": "Website row refreshed from original-owner evidence; other product rows retain their own source timestamps."
 }
