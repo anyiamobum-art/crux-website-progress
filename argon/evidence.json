@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The original TEST design session actually resumed13:30:55 Shanghai through the chair-authorized supported route, preserving session/model/history. Its result and any runtime decision remain separate. The original phone-test repair remains Draft before its corrected result, review and merge. Website’s seven-check native request is delivered to Hands but not yet granted. Enrollment, signed shopper/consent evidence and final ratings remain open. Both draft installations are verified; delivery6/11, native0/7, ratings0/3. No live Shopify publication or activation.",
+      "result": "The original TEST design is complete; its minimal TEST-only implementation scope reached the chair05:41 UTC. The phone helper is published as Draft #4980 at b52cf5dc, with37 focused tests and31 pin checks reported passing. Execution preparation found one remaining recording-limit defect; the same writer/chair owns the correction before review and merge. Website’s seven checks are bound to that repaired release, with resource checks and a separate device allocation required. Enrollment, signed shopper/consent evidence and final ratings remain open. Both draft installations are verified; delivery6/11, native0/7, ratings0/3. No live Shopify publication or activation.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -432,10 +432,16 @@
           "title": "Original TEST design session resumed; Website native request delivered",
           "date": "27 October2026 ·13:30:55 Shanghai original process verification",
           "text": "The original coordinator verified the same TEST design session running on the chair-authorized supported execution seat, with the same model and effort. Transfer/start receipt is being completed by that custodian; design result is pending and globalOFF stays. Website’s seven-check iPhone request reached the current Hands queue; no grant or native dispatch is inferred. The original phone-test repair remains Draft before corrected result/review/merge. This is original-owner acceptance work, not a new Argon recommendation or rating."
+        },
+        {
+          "title": "TEST design complete; phone helper published with one execution correction open",
+          "date": "27 October2026 · design05:34 UTC / source publication05:40 UTC / scope to chair05:41 UTC",
+          "text": "The original TEST design is complete; its minimal TEST-only implementation scope reached the chair05:41 UTC. The phone helper is published as Draft #4980 at b52cf5dc, with37 focused tests and31 pin checks reported passing. Execution preparation found one remaining recording-limit defect; the same writer/chair owns the correction before review and merge. Website’s seven checks are bound to that repaired release, with resource checks and a separate device allocation required. Enrollment, signed shopper/consent evidence and final ratings remain open. Both draft installations are verified; delivery6/11, native0/7, ratings0/3. No live Shopify publication or activation. This is original-owner acceptance work, not a new Argon recommendation or rating.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/4980"
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-27T05:33:38.071917+00:00"
+      "sourceAsOf": "2026-10-27T05:44:14.718104+00:00"
     },
     "companion": {
       "number": "04",
