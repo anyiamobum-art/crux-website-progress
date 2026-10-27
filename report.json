@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. New theme fixes, including the pet repair, target the unpublished draft only; no new live-theme writes are authorized.",
-  "workerState": "The original CS owner has the actual identity response and new scoped-read approval. The original phone owner confirmed the local setup is Studio-only; the same chair/Hands route has the Website-specific allocation request. Source repairs, installations and artifact consumption are complete. No second guest run, replacement reviewer or installation has started.",
+  "workerState": "The original CS owner has one concrete human enrollment card; no duplicate login request or account creation. The same chair/Hands route holds the Website-specific phone allocation request. The Studio allocation cannot be reused. Source repairs, installations and artifact consumption are complete; no new guest run, replacement review or live publication.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October03:43 UTC: the original browser returned “Not authenticated” for the permitted TEST staff-session check after the owner reported sign-in. The exact TEST staff screen was restored. By04:02 UTC, the original phone owner confirmed the scope boundary and the Website-specific next decision was returned to the chair.",
+  "lastActualProgress": "27 October04:11 UTC: the original chair verified absent TEST staff enrollment and the deployed assisted-order OFF state. The CS owner turned that result into one specific human action. At04:05 UTC the preceding task-site snapshot was published and all five hosted files matched exactly.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "TEST staff identity has not been returned. The owner has approved the scoped passive TEST read; its original executor is reconciling that approval, while the existing automated harness cannot use this browser without exporting its session. No export or full effectful harness is authorized. Approved notice words, designated shopper binding and qualified native evidence remain.",
-  "current": "The reported sign-in opened the owner workspace. The permitted same-tab TEST staff check returned “Not authenticated”; the TEST PIN screen is restored. Original phone artifacts are fully consumed, but all seven acceptance rows remain unproven. Shopify stays unpublished.",
-  "next": "Establish the designated TEST staff identity in the existing browser, then use the specifically approved passive checks through the original CS/Hands route. The chair must bind a supported phone-test route to this Website draft and allocate its turn; the current local setup belongs to Studio. Final named-fix reviews follow the required evidence.",
-  "updated": "Source snapshot 2026-10-27T04:03:52.830969+00:00. Original phone receipt verifies all28 artifact files from run40443168739; all seven rows are NOT EXERCISED. TEST staff identity is unqualified. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged.",
+  "remaining": "This is not another generic sign-in request: the read-only chair check found no TEST staff enrollment. The owner’s passive-read approval is acknowledged. Retained quote/order reads additionally depend on the disabled assisted-order capability, which remains with its original owner. Approved notice words, designated shopper binding and qualified native evidence remain.",
+  "current": "The sign-in reached the owner workspace, but the chair verified that TEST has no enrolled staff account or PIN. The original CS owner has presented the specific enrollment action. The deployed assisted-order feature is also OFF. Source repairs and both draft installations are complete; final connected and phone acceptance remain open.",
+  "next": "Complete the existing TEST enrollment action through the owner or specifically authorized People admin, then qualify that staff identity in the existing TEST tab and perform only the approved passive checks. The original chair must separately resolve the disabled assisted-order capability and bind a supported Website-specific phone turn. Final named-fix reviews follow the required evidence.",
+  "updated": "Source snapshot 2026-10-27T04:14:05.611133+00:00. The chair’s read-only result distinguishes missing TEST enrollment from the separate disabled capability. Delivery6/11, milestones1/3, native0/7 and final ratings0/3 remain unchanged.",
   "links": [
     {
       "title": "iPhone accessibility repair #4956",
@@ -207,22 +207,22 @@
     }
   ],
   "recentChanges": [
-    "The owner reported sign-in. The original browser showed the owner workspace; the permitted TEST staff-session check returned “Not authenticated.” No identity, customer data, cart or order test was inferred from that page.",
-    "The exact [TEST staff entrance](https://eondiscovery.co/login?slug=eon-checkout-test) is restored in the same tab. No agent entered a PIN, exported a session or changed an account.",
-    "The owner approved the scoped passive TEST read in the original CS conversation. That approval is being applied through its original executor; it does not authorize the full order harness or live-data tests.",
-    "The original phone owner verified all28 artifact files from the completed guest run. None of its seven acceptance rows qualifies; zoom200 remains unverified and the expected size control was absent. The hosted guest route is closed.",
-    "The available local phone-test setup belongs to Studio. The original chair has the precise request to bind a supported route to the Website draft and allocate its turn. No Studio allocation has been reused."
+    "The chair verified that TEST has no enrolled staff identity. The earlier owner sign-in was valid for the owner workspace, but could not qualify these staff checks.",
+    "The original CS owner presented one specific TEST enrollment/PIN completion card. The same TEST entrance stays available; no credentials were entered or accounts created by this session.",
+    "The scoped passive-read approval is acknowledged. Retained quote/order acceptance still depends on the separately disabled assisted-order capability; no flag was changed.",
+    "The original phone artifacts are verified, but all seven native rows remain unproven. Website needs its own supported route and dated allocation; Studio’s turn does not transfer.",
+    "Both draft installations and the source repairs remain complete. The public task report was byte-verified at04:05 UTC. Final ratings remain0/3; Shopify stays unpublished."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "Review consent and the connected customer-care journey still need acceptance. Merged acceptance checks are already retained; this is not a code-build wait. Owner: Original Aftercare acceptance owner and CS service owner; Root coordinates the existing return. Wait: Original first-wait timestamp is not established in this compact record; no new start time is invented.",
-      "next": "Original acceptance owner consumes the retained checks; CS first needs the existing owner-operated TEST staff identity and a supported same-session passive-check route; the current harness requires an export that is not permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
+      "next": "Original acceptance owner consumes the retained checks; CS first needs the TEST staff enrollment identified as absent by the chair. The existing human enrollment card must be completed, then the approved same-session identity/chat reads can proceed. Retained quote/order reads additionally depend on the disabled assisted-order capability; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
     },
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Notice source, TEST installation and binding repair #4965 are complete. Approved notice words, designated TEST shopper identities with signed binding, and the connected consent/withdrawal results are still missing. Owner: Original C06/Website/A2 owners and original CS owner; chair retains the existing notice decision card. Wait: External facts retain12 October04:12 UTC; shared actor card retains25 October21:18:27 UTC.",
-      "next": "The original CS result requires the existing TEST staff sign-in; use the already-granted A/B admission when the designated shopper identities and owner-operated sign-in are bound. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
+      "next": "The original CS result requires the missing TEST enrollment to be completed, followed by staff sign-in; use the already-granted A/B admission when the designated shopper identities and owner-operated sign-in are bound. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -288,7 +288,7 @@
       },
       {
         "complete": false,
-        "text": "Complete privacy, connected and retention acceptance (external facts wait since12 October04:12Z; identity check27 October03:43Z). Owner workspace opened but TEST staff check returned Not authenticated. Exact PIN page restored; awaiting designated TEST identity and original supported passive-check route. Scoped read approval received; no session export."
+        "text": "Complete privacy, connected and retention acceptance (external facts wait since12 October04:12Z; chair result27 October04:11Z). TEST has no enrolled staff identity; original CS presented the human enrollment action. Assisted ordering is separately OFF. Qualify the admitted identity and capability before the connected checks; no session export."
       },
       {
         "complete": false,
@@ -304,10 +304,10 @@
       },
       {
         "complete": true,
-        "text": "Publish and byte-verify the previous repair status (27 October03:33Z–03:35Z, took2min). Publicfc1488de and all five files verified. Preparing the changed identity/route result for the next publication (started04:03Z, est.8min)."
+        "text": "Publish and byte-verify the current identity and phone-route status (27 October04:03Z–04:05Z, took2min). Public335c06c and all five files verified; no Shopify publication."
       }
     ],
-    "landing": "Lands: source repairs and both installations are complete. Final delivery time is unknown because TEST identity, the supported Website phone turn, connected evidence and final readers remain prerequisites. Next original-owner disposition check04:20Z or its actual result. Acceptance remains6/11; draft unpublished."
+    "landing": "Lands: source repairs and both installations are complete. Final delivery time is unknown because TEST identity, the supported Website phone turn, connected evidence and final readers remain prerequisites. Next original-owner disposition check04:20Z; existing human action and native result remain pending. Acceptance remains6/11; draft unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
