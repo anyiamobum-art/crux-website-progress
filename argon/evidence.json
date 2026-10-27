@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-27T06:15:06.251339+00:00",
+  "snapshot": "2026-10-27T07:02:35.449362+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "The original TEST-only read-design and guard writer started at05:52 UTC and has moved into code changes; assisted ordering stays OFF and TEST enrollment remains required. The original phone writer started the recording-limit correction at05:50 UTC. The chair admitted a separate storefront seven-check adapter after #4980 merges; its exact scope card is prepared. #4980 remains Draft and unmerged, so no Website native run or final rating is credited. Delivery6/11, native0/7, ratings0/3. Both Shopify themes remain unpublished.",
+      "result": "Recording-limit correction pushed at5e45bd86; exact-head size admission granted06:56 UTC. Draft remains held for CI queue, so review and merge are pending. Original TEST remote pin checks are running. Existing CRUX shared-browser read verified without fresh sign-in; TEST identity remains separate. Delivery6/11, native0/7, final ratings0/3. Shopify remains unpublished.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
