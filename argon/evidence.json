@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-27T07:02:35.449362+00:00",
+  "snapshot": "2026-10-27T09:51:28.174590+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -138,7 +138,7 @@
       "before": "Does a directory and a directions link give a shopper enough certainty?",
       "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
       "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "Recording-limit correction pushed at5e45bd86; exact-head size admission granted06:56 UTC. Draft remains held for CI queue, so review and merge are pending. Original TEST remote pin checks are running. Existing CRUX shared-browser read verified without fresh sign-in; TEST identity remains separate. Delivery6/11, native0/7, final ratings0/3. Shopify remains unpublished.",
+      "result": "Shared CRUX login reuse is verified. Phone helper #4980 passed both independent reviews and5/5test shards, then merged09:26 UTC. The admitted storefront adapter is now with the original Hands writer route. TEST repair #4991 has3/3pin proofs; protected release and actual TEST access remain open. Delivery6/11, native0/7, final ratings0/3; Shopify unpublished.",
       "stages": [
         {
           "title": "Follow the intention beyond the click.",
@@ -443,10 +443,15 @@
           "title": "TEST scope approved; normal login verified; storefront test route gap explicit",
           "date": "27 October2026 · chair05:46 UTC / original repair queued05:48 UTC",
           "text": "The chair approved the original TEST-only read design and guard build; assisted ordering stays OFF and TEST enrollment remains required. Normal CRUX login has been verified separately. The original phone writer is queued for the recording-limit correction. The native owner confirmed the published helper is Studio-specific, so the exact storefront command remains an additional prerequisite. Draft #4980 is not yet merged; no native run or final rating is credited. Delivery6/11, native0/7, ratings0/3. No live Shopify publication. This continues the original acceptance work; it is not a new Argon contribution or score."
+        },
+        {
+          "title": "Returned login and release results consumed",
+          "date": "27 October 2026,09:53 UTC",
+          "text": "Cross-session login reuse succeeded07:11 UTC. Phone helper merged09:26 UTC with both reviews and5test shards passing. Original storefront adapter execution requested. TEST repair3pin groups pass. Original-owner work, not additional Argon contribution or final acceptance."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-27T05:54:50.153891+00:00"
+      "sourceAsOf": "2026-10-27T09:51:28.174590+00:00"
     },
     "companion": {
       "number": "04",
