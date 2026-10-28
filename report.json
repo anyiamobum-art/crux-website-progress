@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "The original designer completed source and proof preparation. Its one remote job exited successfully; no builder or duplicate test job remains active. The existing browser-recovery request was delivered; recovery is not yet verified. The native shared-file repair was last observed started at 09:05:16 UTC; its terminal result is not yet confirmed here.",
+  "workerState": "The original designer completed source and proof preparation; no duplicate builder or test job is active. The original support owner acknowledged the browser mismatch at 10:55 UTC, but connection recovery is not verified. Shared tool repair #5033 is published as a draft and held in its original review queue. The original iPhone-check owner is qualifying whether that repair affects the Website route before continuing its source handoff.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October: the parent consumed and hash-verified the terminal remote proof for 911812d5: two clean test entries passed, four mutation checks passed, zero skipped. The job finished at 09:50:51 UTC and was consumed at 10:02:41 UTC. The fresh browser retry still fails despite the supplied enabled-settings screenshots.",
+  "lastActualProgress": "28 October: the completed homepage source proof remains green at 911812d5. This follow-up verified the shared repair publication and diagnosed its red checks from the actual logs: Draft status skipped the test suite, so those checks do not establish a code defect. The original native owner is now qualifying the source dependency; no duplicate runtime attempt was started.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The owner supplied screenshots showing Chrome control ON, its extension installed and browsing set to Always allow. Nevertheless, a fresh tool connection and the requested retry both return disabled. This is an unresolved app/tool access mismatch; the earlier request to enable the setting was incorrect and is withdrawn. The existing Hands/Bridge route has the exact failure. Native source binding, allocation and TEST OAuth remain separate prerequisites.",
+  "remaining": "The owner supplied screenshots showing Chrome control ON, its extension installed and browsing set to Always allow. Nevertheless, a fresh tool connection and the requested retry both return disabled. This is an unresolved app/tool access mismatch; the earlier request to enable the setting was incorrect and is withdrawn. The original support owner has acknowledged the exact failure and retained it with the existing integration keeper. No supported connection-repair control is exposed to that owner. Native source binding, allocation and TEST OAuth remain separate prerequisites.",
   "current": "The active NU ERA slideshow and shoppable runway are prepared at 911812d5. The original remote job passed both selected test entries and all four mutation checks; the homepage suite covers 19 behavior cases. Source and test proof are complete. Actual-look binding and rendered review remain open; rejected #5025 stays frozen.",
   "next": "Recover the supported browser connection, bind the current CRUX look images and products, then verify the exact candidate at phone and desktop widths and through the real bag journey. The new unit has its own PR and review rounds; old scores do not transfer.",
-  "updated": "28 October 10:23:28 UTC: all five published task files match commit aa2daeff; the original remote source proof and log hash also passed parent verification. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3. No new theme installation or publication.",
+  "updated": "28 October 10:55 UTC: the original support owner acknowledged the enabled-settings/tool-denial mismatch; browser recovery remains unverified. Shared repair #5033 is OPEN/Draft at 5eda0929. The previous public report was verified against all five hosted files at 10:25:45 UTC. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -268,7 +268,7 @@
       },
       {
         "complete": false,
-        "text": "Resolve the browser connection mismatch (waiting since 08:57Z; next support check 10:40Z). Screenshots confirm enabled settings; the fresh tool retry still fails. The existing support request is delivered, recovery unverified."
+        "text": "Resolve the browser connection mismatch (waiting since 08:57Z; missed 10:40Z check reconciled; next support check 11:25Z). Screenshots confirm enabled settings; the fresh tool retry still fails. The original support owner acknowledged the mismatch at 10:55Z; recovery remains unverified."
       },
       {
         "complete": true,
@@ -276,10 +276,10 @@
       },
       {
         "complete": false,
-        "text": "Continue native binding and TEST acceptance through their original owners (shared repair last observed started 09:05:16Z; terminal result and exact allocation still required). No duplicate native run."
+        "text": "Qualify the shared repair against the original iPhone-check route (started 10:52Z, est. 8 min). Published Draft #5033 is held in its existing review queue; the original owner is checking actual source dependencies. Native binding and the exact allocation remain separate."
       }
     ],
-    "landing": "Lands: source proof and the corrected task report are complete. Next support check 10:40Z. Final draft timing remains unknown until browser recovery, actual-look binding, original reviews, native and TEST acceptance are verified. Nothing publishes live."
+    "landing": "Lands: source proof and the corrected task report are complete. Next support check 11:25Z. Final draft timing remains unknown until browser recovery, actual-look binding, original reviews, native and TEST acceptance are verified. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
