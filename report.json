@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. The owner also authorized a parallel homepage redesign preserving The spread / SIDE BY SIDE, with separate Astra 6, Fable and Argon rendered reviews. New theme changes target the unpublished draft only; no live-theme writes are authorized.",
-  "workerState": "The original homepage builder is implementing the returned findings; the neutral support agent completed all 16 source, image-provenance and finding-validation checks. The storefront repair has all Draft guards and pins green and awaits the original Ready transition. The image-preview owner resumed and found its existing Site access blocker.",
+  "workerState": "The original homepage builder has finished and the parent is verifying its exact source. Bounded review support is preparing the second-review evidence map. Storefront repair awaits its original ordered Ready transition; the resumed image-preview owner retains the existing Site access error.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "27 October 23:40 UTC: Argon returned its source-bound review in the same conversation; the original builder received it immediately. The first two fixes are saved locally. Evidence checks distinguish reproduced defects from partial captures and the intentional scroll rail.",
+  "lastActualProgress": "28 October 00:19 UTC: exact repaired source rendered and served; mobile rail measured 319.8 px with Next advancing 336 px. At enlarged text, film caption/control overlap is 0 px. The original builder’s result led directly to rendering and verification without another human prompt.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The homepage Fable attempt returned a weekly-limit refusal, without a review or score. TEST needs two URL settings corrected in the shared EON Shopify app; its original owner has presented the one specific settings-approval question, which is pending. Native and connected acceptance remain open. The resumed image-preview task reached a separate Site access error.",
-  "current": "Two independent rendered assessments of the new SIDE BY SIDE homepage have returned: Astra 9.12/10 and Argon 8.2/10. Both are below the target. The original builder has saved the first two fixes and is consolidating the additional substantiated findings.",
-  "next": "Finish one consolidated homepage repair, verify the changed renders, and return the candidate through the original review histories. Advance the storefront test repair through its original release owner and complete the scoped TEST app correction before reconnecting.",
-  "updated": "27 October 23:40 UTC: homepage design scores are 9.12 and 8.2; neither is a pass or a whole-site/native rating. Original storefront head c0f2b226 remains mergeable and Draft, with guards and pins passed. TEST remains disconnected. Public commit 1f435c59 was verified at all five file URLs at 23:31 UTC.",
+  "current": "The original homepage builder has completed the consolidated repair at 6fdf2f41. All 10 focused checks pass. The corrected render now shows 320 px mobile product cards, a working Next control and zero overlap between the enlarged film caption and its play control.",
+  "next": "Finish the source-bound browser evidence and return the corrected candidate through the same independent review histories. Advance the storefront test repair through its original release owner; reconnect TEST after the pending scoped app correction.",
+  "updated": "28 October 00:19 UTC: repaired homepage source 6fdf2f41, 10/10 focused checks, exact local render and scoped responsive measurements. These are repair evidence, not new independent scores. Storefront head c0f2b226 remains Draft in the chair’s release order. Public commit a8764a0c was verified at all five file URLs at 23:48 UTC.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Two independent homepage design assessments returned: Astra 9.12/10 and Argon 8.2/10. Both require changes; they are separate from the original whole-site final ratings.",
-    "The original builder has saved fixes for desktop store-link clearance and enlarged heading readability. It is consolidating Argon's additional findings, including sound opt-in, film framing and narrow-screen presentation. Source changes still need rendered verification.",
-    "Evidence validation identified limits in several findings: the product rail intentionally scrolls, capture-edge truncation is not proven inaccessible content, and configured store hours are not independently verified. These qualifications stay with the original review.",
-    "Storefront repair #4996 remains pushed and mergeable at c0f2b226. All Draft guards and pins pass; its original release owner holds Ready and the retained final review. TEST needs the scoped shared-app URL correction before reconnecting.",
-    "Incomplete group work resumed through original owners. The image-preview owner reached a verified existing-Site access error; completed work was not restarted. The previous dashboard snapshot was verified at all five public file URLs."
+    "The original homepage repair is complete at 6fdf2f41 with 10/10 focused checks. It addresses sound opt-in, readable store-hours qualifications, heading wrapping, film framing and mobile product presentation.",
+    "Fresh browser measurements confirm approximately 320 px mobile product cards, Next advancing 336 px and zero film caption/control overlap at enlarged text. Source-bound review evidence is being completed; no new score is claimed.",
+    "The last independent homepage scores remain Astra 9.12 and Argon 8.2. Both require the original second review. Fable’s attempt returned a weekly-limit refusal and consumed no review round.",
+    "Storefront repair #4996 remains Draft at c0f2b226, with guards and pins passed. The chair retains its ordered Ready transition. TEST’s original owner retains the one pending scoped app-settings correction.",
+    "The builder-result-to-render transition completed without another human prompt. Incomplete group tasks were resumed through their original owners; completed work was not restarted. The previous public update was verified at all five file URLs."
   ],
   "openDeliveryGates": [
     {
@@ -257,12 +257,16 @@
         "text": "Consume the two returned homepage assessments (23:13–23:40 UTC, took 27 min). Design results 9.12 and 8.2 require changes. The remaining provider refused on its weekly limit; no verdict was counted."
       },
       {
-        "complete": false,
-        "text": "Apply one consolidated named homepage repair (started 23:30 UTC, revised est. 35 min). The second assessment added findings at 23:40 UTC; first two fixes are saved and consolidation is running with the same builder."
+        "complete": true,
+        "text": "Apply one consolidated named homepage repair (23:30–00:10 UTC, took 40 min). Original source 6fdf2f41; 10/10 focused checks pass."
       },
       {
         "complete": false,
-        "text": "Verify the storefront repair’s final review and merge (started 18:46 UTC; next check 00:10 UTC). Current head c0f2b226 is pushed and mergeable; original release owner holds Ready and preserved review history."
+        "text": "Verify corrected renders and prepare the original second reviews (started 00:17 UTC, est. 20 min). Mobile rail and enlarged film geometry pass; remaining evidence is in progress."
+      },
+      {
+        "complete": false,
+        "text": "Verify the storefront repair’s final review and merge (started 18:46 UTC; next check 00:45 UTC). Current head c0f2b226 is pushed and mergeable; original release owner holds Ready and preserved review history."
       },
       {
         "complete": true,
@@ -273,8 +277,8 @@
         "text": "Verify follow-through repair installation (18:49–18:54 UTC, took 5 min). Original accepted R9 matches installed bytes; automatic delivery reached this chat."
       },
       {
-        "complete": false,
-        "text": "Prove unattended completion of the next step (needs the next original-owner result and substantive action). Installed instructions alone do not prove recurrence."
+        "complete": true,
+        "text": "Verify the next natural follow-through transition (00:10–00:19 UTC, took 9 min). Original builder returned; the parent rendered and measured the exact source without a new human prompt. This validates this transition, not a guarantee of permanent reliability."
       },
       {
         "complete": false,
@@ -282,7 +286,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check 00:10 UTC). Original app owner holds one scoped two-URL settings card; no duplicate reconnect."
+        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check 00:45 UTC). Original app owner holds one scoped two-URL settings card; no duplicate reconnect."
       },
       {
         "complete": false,
@@ -299,9 +303,13 @@
       {
         "complete": true,
         "text": "Publish the returned review and recovered repair state (23:28–23:31 UTC, took 3 min). Commit 1f435c59; all five hosted files match saved bytes."
+      },
+      {
+        "complete": true,
+        "text": "Publish the two returned assessments and group outcomes (23:43–23:48 UTC, took 5 min). Commit a8764a0c; all five hosted files match saved bytes."
       }
     ],
-    "landing": "Lands: consolidated homepage source about 00:05 UTC, followed by rendered verification; shared browser control has now returned. Full draft completion remains unknown until native, TEST and required independent ratings pass. Shopify stays unpublished."
+    "landing": "Lands: corrected homepage evidence about 00:37 UTC (remaining browser checks could move it). Full draft completion remains unknown until native, TEST and required independent ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -315,7 +323,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: completed 22:56Z for these two scoped optimization steps. This is separate from the unfinished Shopify draft and its final ratings.",
+    "landing": "Lands: corrected homepage evidence about 00:37 UTC (remaining browser checks could move it). Full draft completion remains unknown until native, TEST and required independent ratings pass. Shopify stays unpublished.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
