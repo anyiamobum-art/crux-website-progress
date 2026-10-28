@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "The original homepage builder has assembled both review workspaces and is validating their scripts and hashes. The 14:35 packet estimate was missed; revised handoff is 15:17. The original native owner resumed at 15:07 to reconcile the overdue same Hands card. No design-provider call has been started on this candidate.",
+  "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
+  "workerState": "The original homepage builder is sealing the f827033f packet after successful remote proof. No design-provider call has started on this candidate. The original native owner found no binding return at 15:45; it amended the same Hands card at 15:46 with a 16:15 check.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 15:12 UTC: the hosted failure was isolated to missing jsdom in the clean test copy and delivered to the original builder. The chair admitted the exact homepage head at 15:05. The two review workspaces are assembled, with final validation pending.",
+  "lastActualProgress": "28 October 15:47 UTC: live pet removal verified in Chrome after a single scoped layout mutation. The slideshow and WhatsApp remain. At 15:38 the corrected homepage proof passed 21 assertions and five mutation checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Chrome browser access works. The new homepage still lacks a genuine 200% zoom check. Hosted test dependency resolution needs repair; the chair has admitted the current head but Ready waits for queue capacity. The iPhone helper is merged and deployed; its original binding handback and TEST OAuth/actor binding remain open.",
-  "current": "The campaign homepage is in Draft #5047 at 838ab5e9. The chair has admitted its size. Its hosted isolated test check cannot find jsdom and stops before the behavior tests; the original builder has the exact failure.",
-  "next": "Repair and prove the test harness through its original builder, bind the validated design packets to the resulting source, and continue the original readers. In parallel, consume the iPhone shared-file handback and source-binding result.",
-  "updated": "28 October 15:14 UTC: Draft #5047 remains at 838ab5e9 with size admission, failing hosted pin proof and no protected review verdict. Prior publication 72db4ac was byte-verified at 14:28:57. Native checks remain 0/7 and final website rating passes 0/3.",
+  "remaining": "Chrome access works and a bounded genuine 200% homepage check is complete. The test dependency repair passes remote proof. The final packet and exact-head review admission remain; native source binding and TEST OAuth/actor binding are still open.",
+  "current": "The pet is removed from the active storefront. The campaign homepage test-harness repair is proved at local integrated head f827033f; its final review packet is being sealed before the single push to #5047.",
+  "next": "Consume the original builder’s sealed packet, publish the proved head once, obtain exact-head size admission and continue the original independent readers. In parallel, consume the original iPhone source-binding handback.",
+  "updated": "28 October 15:50 UTC: active theme161299857624 has no pet hosts or pet assets; draft166627606744 and theme roles are unchanged. Homepage final-source proof is green at f827033f; protected review and final ratings remain separate. Native0/7 and final website passes0/3.",
   "links": [
     {
       "title": "Campaign homepage #5047",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The chair admitted homepage #5047 as one coherent change at its exact current head. Ready remains subject to the existing review queue.",
-    "The hosted isolated test stopped because it could not load jsdom. The original builder has the exact log; no failed assertion was relaxed and no rerun-to-green was requested.",
-    "Two review workspaces are assembled with source bindings, responsive screenshots and the 33-second journey. Final validation is pending; no design score is claimed.",
-    "The iPhone helper #5030 is merged and deployed. Its overdue handback is being reconciled through the same owner and Hands card.",
-    "The previous task-site publication was verified against all five hosted files. Release counts stay tied to acceptance gates, rather than the number of repairs."
+    "**Live pet removed, as requested.** Only its two shared-layout includes and comments changed. The active slideshow and WhatsApp button remain; the draft and theme roles are unchanged.",
+    "The homepage test dependency repair now passes on its integrated source: 21 assertions and five mutation checks. A transport-only interruption was reconciled before the successful proof.",
+    "A bounded genuine 200% browser-zoom check covers the header and a simulated full-look add. It is local browser evidence, not native iPhone or a real Shopify order.",
+    "The original builder is sealing the final-source review packet. No new design score or review approval is claimed.",
+    "The iPhone source-binding result has not returned. The same original Hands card was updated, preserving its first wait and the unused native allocation."
   ],
   "openDeliveryGates": [
     {
@@ -269,27 +269,35 @@
         "text": "Verify the previous report publication (14:00Z–14:07Z, took 7 min). All five hosted files match commit41dcd47."
       },
       {
-        "complete": false,
-        "text": "Seal the original design packets (started 14:18Z; revised handoff 15:17Z). Assembly overran the estimate; final script and hash validation remain. Provider launch waits for the test-harness repair and source binding."
+        "complete": true,
+        "text": "Seal the original design packets (14:18Z–15:16Z, took58 min). Hash and schema validation passed. Rebinding to the pending test-only correction remains before launch."
       },
       {
         "complete": true,
         "text": "Record the 33-second local homepage journey (14:07Z–14:10Z, took3 min). 652 frames and timestamped MP4 saved."
       },
       {
-        "complete": false,
-        "text": "Repair hosted test dependency resolution (started 15:12Z; diagnosis delivered). The isolated clean-copy check cannot find jsdom; original builder owns the smallest repair and remote proof."
+        "complete": true,
+        "text": "Repair hosted test dependency resolution and prove the integrated source (15:12Z–15:38Z, took26 min). One import corrected; original proof ended before tests; recovered final-head proof passes21 assertions and five mutation checks."
+      },
+      {
+        "complete": true,
+        "text": "Remove the pet from the active storefront (15:39Z–15:47Z, took8min). Two includes removed from MAIN161299857624; live browser has no pet or pet assets. Hero and WhatsApp retained; draft166627606744 unchanged."
       },
       {
         "complete": false,
-        "text": "Finish genuine 200% check (since 14:17Z; native capture prerequisite missing). Actual zoom remained 100%; overrides are restored. Next supported native route is owed."
+        "text": "Rebind and publish the corrected homepage review handoff (started15:38Z, est.12min). Original builder sealing the actual200% evidence with final-source receipts; parent pushes once after handoff."
+      },
+      {
+        "complete": true,
+        "text": "Complete the bounded genuine 200% homepage check (15:30Z–15:36Z, took6 min). Native browser zoom confirmed; header and simulated full-look add checked at600px effective width;100% restored. Native and remaining states stay separate."
       },
       {
         "complete": false,
-        "text": "Consume native handback and source binding (since 13:17Z, deadline 14:45Z missed; original-owner reconciliation resumed 15:07Z). #5030 merged and served; shared-file handback and binding START remain unverified."
+        "text": "Consume native handback and source binding (first binding wait27Oct15:36Z; nextcheck16:15Z). Merge/deployment done. Original15:45Z check found no binding call/START/result; same Hands card amended15:46Z for one reconciled original action."
       }
     ],
-    "landing": "Lands: about 15:17Z for the packet handoff; the test-harness repair estimate follows its diagnosis. Final draft timing is unknown until reviews, native and TEST checks pass. Nothing publishes live."
+    "landing": "Lands: about15:50Z for the corrected homepage handoff (packet handoff due now; exact-head admission and review capacity could move publication). The owner-requested live pet removal is separate. Final draft timing depends on original reviews, native and TEST checks; the draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
