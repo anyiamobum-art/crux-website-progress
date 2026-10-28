@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original Account builder is actively repairing the review finding. The original handoff coordinator resumed and reconciled the iPhone and browser requests. Shopping Companion and Checkout owners received the changed result. The one existing size-guide test command remains in its normal remote queue; no duplicate worker or review was started.",
+  "workerState": "Original Account, Shopping Companion and handoff owners resumed and produced concrete repairs or handoffs. Two original remote attempts are queued for shared workers. Completed support scopes remain completed; no replacement writer or duplicate review was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 22:17 UTC: Account manifest repair has seven local checks passing. A separate size-guide manifest mismatch was reproduced before publication and returned to its original builder. The Account first review completed at 22:13 UTC.",
+  "lastActualProgress": "28 October 22:24 UTC: the size-guide patch passed exact-source and applicability checks without changing the frozen worktree. The Account repair has seven local checks passing. The public page was verified against all five saved files at 22:21 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Fresh browser probes return a disabled integration capability despite enabled-setting screenshots. Native source-binding release, narrow-screen repair adoption, Account lifecycle integration and connected TEST acceptance remain open.",
-  "current": "The campaign homepage is merged and installed in the unpublished Shopify draft, with all nine payloads verified. The Account panel reached its first protected review, which found one installer-manifest defect. Its original builder reproduced and fixed that issue; seven affected checks now pass locally.",
-  "next": "Run the prepared remote Account proof and submit one named repair. Complete the size-guide manifest correction through its original builder, consume the existing remote test run, and continue the iPhone source-binding release through Hands.",
-  "updated": "28 October 22:17 UTC: homepage installation remains verified; Account review round 1 rejected one installer-manifest issue and the named repair is in progress. Native checks remain 0/7 and final 9.5 passes 0/3. No live publication.",
+  "current": "The campaign homepage is merged and installed in the unpublished Shopify draft, with all nine payloads verified. The Account review defect is repaired and all seven affected checks pass locally; its combined remote proof is queued. The original size-guide builder has returned the separate manifest correction.",
+  "next": "Consume the two existing remote attempts. Submit the one named Account repair after proof; apply the prepared size-guide correction only after its frozen run ends. Hands retains protected publication of the finished iPhone source-binding repair.",
+  "updated": "28 October 22:29 UTC: Account #5059 is back in Draft following its first rejection; the named repair is local and awaiting remote validation. The exact iPhone-helper branch has no follow-up PR yet. Native checks remain 0/7 and final 9.5 passes 0/3. No live publication.",
   "links": [
     {
       "title": "Account checkout progress #5059",
@@ -207,7 +207,7 @@
   "recentChanges": [
     "The campaign homepage is merged as #5047 and installed in the unpublished Shopify draft; all nine files match the merged source.",
     "The active theme is unchanged by that installation. Its previously requested pet removal remains complete.",
-    "The Account repair passed five baseline tests, 47 behaviors and ten mutation checks. Its single repair push is verified; hosted review checks are running.",
+    "Account #5059 completed its first review. The sole manifest finding is repaired; seven affected checks pass locally and the existing combined remote validation is queued. The review round remains consumed.",
     "The original iPhone-helper result is qualified and handed to Hands for protected publication, with the earlier test failure and proof limits retained. It does not count as a phone pass.",
     "Original group work resumed without replacement workers. The size-guide proof is in the shared remote queue; final ratings and connected TEST acceptance remain open."
   ],
@@ -298,7 +298,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 22:20Z). Original release handoff names the exact source and proof limitations; the prepared native grant remains unused."
+        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 22:50Z). Original release handoff names the exact source and proof limitations; the prepared native grant remains unused."
       },
       {
         "complete": true,
@@ -346,7 +346,7 @@
       },
       {
         "complete": false,
-        "text": "Prove the size-evidence adapter for review (one retry admitted 21:47Z; next check 22:20Z). The original command is waiting normally for the remote test slot; the earlier attempt ran no tests. No duplicate worker."
+        "text": "Prove the size-evidence adapter for review (one retry queued 21:47Z; next check 22:47Z). The original command is waiting normally for the remote test slot; the earlier attempt ran no tests. No duplicate worker."
       },
       {
         "complete": false,
@@ -374,18 +374,18 @@
       },
       {
         "complete": false,
-        "text": "Prove and submit the named Account manifest repair (started 22:15Z, est. 20 min; next check 22:35Z). The reproduced two failures are fixed and all seven affected checks pass locally; the combined remote proof is being prepared. One repair push follows proof."
+        "text": "Prove and submit the named Account manifest repair (started 22:15Z; next check 23:00Z). The reproduced two failures are fixed and all seven affected checks pass locally; the one combined remote proof is queued for a shared worker. One repair push follows proof."
       },
       {
         "complete": false,
-        "text": "Correct the size-guide installer manifest through its original builder (started 22:17Z, est. 15 min). The dependency mismatch was reproduced before publication; the existing remote run remains intact."
+        "text": "Integrate the prepared size-guide manifest correction (prepared 22:17Z–22:24Z, took 7 min; next check 22:47Z). The original builder returned the exact patch and its applicability is verified. Apply after the existing frozen remote run ends, then prove the seven affected checks."
       },
       {
         "complete": false,
-        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 22:35Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
+        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 22:50Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
       }
     ],
-    "landing": "Lands: about 22:35Z for the next repair-proof and original release decisions (about 18 min left; shared remote capacity and browser recovery may move it). Homepage installation is complete. Final draft completion remains unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: next original test-result check about 22:47Z (about 17 min left; shared worker capacity may move execution). The earlier 22:35Z estimate changed because both proof attempts remain queued. Homepage installation is complete. Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
