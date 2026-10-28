@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-28T07:24:13.310508+00:00",
+  "snapshot": "2026-10-28T20:23:40.214110+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Active-slideshow redesign in progress",
+      "status": "Campaign source approved; design review pending",
       "title": "Better store visits, with evidence behind the details.",
       "summary": "Argon informed the installed store enquiry and identified three concrete homepage repairs now verified in the local candidate.",
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
       "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
-      "resultTitle": "Named repairs retained; homepage design rejected",
-      "result": "Argon’s three earlier scoped repairs remain recorded, but they do not make the rejected homepage a passing design. The owner has now replaced SIDE BY SIDE with the active NU ERA campaign slideshow and requested an icon-only sound control. The same original designer is binding current active-theme source and building an isolated follow-up. Rejected PR #5025 remains Draft; its reviews are retained. Fable and Argon must review the new rendered design through the original review route. No homepage installation or live publication is claimed. Delivery 6/11, native 0/7 and whole-site final passes 0/3 remain unchanged.",
+      "resultTitle": "New campaign implementation; no new design score",
+      "result": "The owner-directed NU ERA slideshow, icon-only sound and shoppable runway are implemented in PR #5047. Its current source has the required independent code approval; hosted tests are still running. The original Argon conversation acknowledged the earlier image packet, but its rating attempt ended in a connection reset and the current Terms decision remains open. Earlier Argon repair results do not rate this new source. No homepage installation or live publication is claimed.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -156,9 +156,9 @@
           "state": "Final named-fix result verified"
         },
         {
-          "title": "Build from the active campaign slideshow.",
-          "text": "The owner explicitly superseded SIDE BY SIDE. Preserve the active slideshow, improve category photography, populated shoppable looks and store discovery, and replace visible sound text with a speaker icon. The original designer acknowledged and is preparing current-source implementation.",
-          "state": "Owner-directed redesign / local work active"
+          "title": "Implement the active campaign direction.",
+          "text": "The original designer built the active NU ERA slideshow, icon-only sound and twelve catalogue looks, then repaired the code-review findings. Current source has independent code approval; final design review and draft installation remain separate.",
+          "state": "Code approved / hosted tests running / no final design score"
         }
       ],
       "evidence": [
@@ -529,10 +529,15 @@
           "title": "Owner changes the homepage direction",
           "date": "28 October 2026, 08:00 UTC",
           "text": "Active hero slideshow replaces SIDE BY SIDE. Original designer acknowledged; prior candidate held. No new independent review or passing score yet."
+        },
+        {
+          "title": "Current campaign source passes code review",
+          "date": "28 October 2026, 20:21 UTC · verified",
+          "text": "PR #5047 at 6dc0a656 has its required independent code approval. Two hosted test shards and mutation checks pass; the remaining shards are running or queued. The original Argon rating has no result on this source. The draft remains unpublished."
         }
       ],
       "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
-      "sourceAsOf": "2026-10-28T07:13:33.895628+00:00"
+      "sourceAsOf": "2026-10-28T20:23:40.214110+00:00"
     },
     "companion": {
       "number": "04",
@@ -651,5 +656,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website row refreshed from original-owner evidence; other product rows retain their own source timestamps."
+  "snapshotScope": "Website current-source progress refreshed; other systems retain their individually dated evidence."
 }
