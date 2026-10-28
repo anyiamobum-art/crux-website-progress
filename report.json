@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "Original homepage builder is preparing the exact-source self-review and Draft PR. Native prerequisite #5030 was still Ready at 99814957 at 13:54Z: four test shards succeeded and shard 1 was running. The original native child could not resume at 13:39Z because its selected model was at capacity; root consumed the read-only dependency state without changing owner or model.",
+  "workerState": "The original homepage builder is preparing sealed review packets with no code changes or additional push. The original native acceptance owner verified #5030 merge and advanced the same Hands card to shared-file handback and the admitted source-binding repair; next check 14:45Z. The separate homepage Draft does not replace old review history or final website ratings.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 13:59 UTC: six captured frames and the complete local timing sample were saved. The merged-main homepage head is 838ab5e9; its emitted theme bytes match the inspected 5db6015f. Narrow-screen overflow and singular piece labels are fixed.",
+  "lastActualProgress": "28 October 14:23 UTC: Hands confirmed the release door serves 9737bca containing #5030. Draft #5047 was opened once at 14:09:50 UTC. The local homepage journey contains 652 timestamped frames over 32.915 seconds; the encoded video is 33.04 seconds.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,19 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Browser access works through a fresh Chrome tab; the earlier settings-disabled claim is resolved. The old preview tab lost its connection. The native source-binding unit still needs #5030 merge and shared-file handback, then its exact allocation. TEST OAuth and actor binding remain separate.",
-  "current": "The new campaign homepage’s two confirmed defects are corrected. Eleven saved views cover phone and desktop; the original builder integrated current main and all 21 controller tests plus five mutation checks passed remotely. The same builder is preparing its separate Draft review submission.",
-  "next": "Submit the exact integrated source for protected review, then continue the original independent design readers with the saved evidence. Complete the remaining motion, 200% text and native/TEST acceptance on their authorized routes.",
-  "updated": "28 October 13:59 UTC: eleven screenshots, reduced-motion stillness and a limited local timing sample are saved. The observed click event took 32 ms; no long animation frames were recorded in that sample. This is not native or full-journey proof. Delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 remain unchanged.",
+  "remaining": "Browser access works; the earlier settings-disabled claim is resolved. Genuine 200% browser zoom remains unverified after native capture failed, and temporary viewport overrides were cleared. Homepage protected review needs the existing chair size admission. The iPhone helper repair is merged and deployed; its original handback and source-binding steps are next. TEST OAuth and actor binding remain separate.",
+  "current": "The new NU ERA homepage is frozen in Draft #5047 at 838ab5e9. Its exact-source remote tests pass, eleven valid responsive stills and a 33-second journey are saved, and separate neutral packets are being sealed for the original design readers.",
+  "next": "Continue the original independent design reviews on this exact candidate. Consume the merged iPhone prerequisite through its original owner, then qualify source and run the admitted acceptance checks. Keep TEST enrollment and connected-flow proof separate.",
+  "updated": "28 October 14:25 UTC: #5047 remains Draft at 838ab5e9. Its admission failure names size and Draft status; its test gate is red because the Draft suite was skipped, not because a code test failed. Remote targeted proof remains 21 tests and five mutation checks passed. Delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 are unchanged.",
   "links": [
+    {
+      "title": "Campaign homepage #5047",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5047"
+    },
+    {
+      "title": "iPhone helper #5030",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5030"
+    },
     {
       "title": "Storefront test route #4996",
       "path": "https://github.com/EON-CRUX/3.09/pull/4996"
@@ -168,14 +176,6 @@
     {
       "title": "Original natural-run receipt",
       "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6401404677"
-    },
-    {
-      "title": "Header C1–C4 capture result",
-      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6391934240"
-    },
-    {
-      "title": "Header pin repair #4863",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4863"
     }
   ],
   "source": "Published projection of the original task report",
@@ -207,11 +207,11 @@
     }
   ],
   "recentChanges": [
-    "The New Arrivals deck now fits at 380, 430 and 1280 px without clipping its focus outline or shadows. One-piece looks now say “1 PIECE”.",
-    "Eleven saved views show the campaign, categories, runway, arrivals and stores, including a reduced-motion phone check with paused videos and no running animations.",
-    "Current main is integrated at 838ab5e9. All 21 controller tests and all five mutation checks passed remotely; rendered theme bytes stayed identical.",
-    "A limited browser sample recorded a 32 ms click event and no long animation frames. Its six sparse frames are not being counted as a complete journey recording or an iPhone pass.",
-    "The original builder is moving this separate homepage unit into Draft review. No current-source design pass or Shopify installation is claimed."
+    "Draft #5047 now contains the campaign homepage, icon-only sound control, selectable looks, arrivals and store discovery. Its source is frozen at 838ab5e9 for review.",
+    "Eleven valid screenshots cover 380, 430 and 1280 px. The corrected Look 06 runway view replaces the mislabeled footer capture in the review packet.",
+    "A 33-second local journey is now saved, from campaign playback through Look 07 and Look 06 to the store section. It is desktop-browser evidence, not native iPhone or connected checkout proof.",
+    "The separate iPhone helper repair #5030 has merged and deployed. Its original owner verified the merge and advanced the existing handback card; no native checks are counted yet.",
+    "The genuine 200% zoom check is still unproved. Browser controls work, but native capture failed; the viewport is restored and no simulated zoom is being counted."
   ],
   "openDeliveryGates": [
     {
@@ -263,27 +263,31 @@
         "text": "Save the limited browser timing sample (13:42Z–13:59Z, took 17 min). Full recording and native checks remain separate."
       },
       {
-        "complete": false,
-        "text": "Submit the exact-source homepage Draft (started 14:00Z, est. 15 min). Original builder owns self-review and the single push."
+        "complete": true,
+        "text": "Submit the exact-source homepage Draft (14:00Z–14:10Z, took 10 min). Draft #5047, one push, exact source verified."
+      },
+      {
+        "complete": true,
+        "text": "Verify the previous report publication (14:00Z–14:07Z, took 7 min). All five hosted files match commit41dcd47."
       },
       {
         "complete": false,
-        "text": "Publish and verify this progress update (started 14:00Z, est. 5 min)."
+        "text": "Continue the original design reviews (started14:18Z, est.15 min for sealed packets and delivery). Scores require actual evidence; provider duration unknown."
+      },
+      {
+        "complete": true,
+        "text": "Record the 33-second local homepage journey (14:07Z–14:10Z, took3 min). 652 frames and timestamped MP4 saved."
       },
       {
         "complete": false,
-        "text": "Continue the original design reviews (est. unknown until provider execution). Scores require the actual evidence and exact source."
+        "text": "Finish genuine 200% check (since 14:17Z; native capture prerequisite missing). Actual zoom remained 100%; overrides are restored. Next supported native route is owed."
       },
       {
         "complete": false,
-        "text": "Finish remaining motion and genuine 200% checks (est. 20 min after browser availability)."
-      },
-      {
-        "complete": false,
-        "text": "Consume native prerequisite #5030 (since 13:17Z, next check 14:15Z). Merge and shared-file handback precede binding and allocation."
+        "text": "Consume native handback and source binding (since 13:17Z, next check 14:45Z). #5030 merged and served; the original owner advanced the existing Hands card to handback and binding; no returned START yet."
       }
     ],
-    "landing": "Lands: about 14:15Z for the Draft submission and progress update (15 min left at 14:00Z; review admission or transport may move this). Final draft timing remains unknown until the independent reviews, native and TEST checks pass. Nothing publishes live."
+    "landing": "Lands: about14:35Z for sealed review delivery (15 min left at14:20Z; provider availability may move execution). Final draft timing remains unknown until independent reviews, native and TEST checks pass. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
