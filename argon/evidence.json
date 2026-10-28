@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-28T01:30:36.832704+00:00",
+  "snapshot": "2026-10-28T01:57:28.883438+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -488,10 +488,15 @@
           "title": "Second homepage design results consumed into original repairs",
           "date": "28 October2026 ·01:14UTC",
           "text": "Astra9.30/min8.9 and Argon9.06/min8.8 on the same source-bound candidate, both below bar. Argon identified store-sheet movement, failed preview images and contact overlap; the original builder has one consolidated named-fix handoff. Fifteen required plus one optional image observations, all69 file hashes and result schema/arithmetic checked. Design-only progress, not full behavioral/native acceptance, installation or live publication."
+        },
+        {
+          "title": "Argon named repairs pass source and rendered checks",
+          "date": "28 October2026 ·01:55UTC",
+          "text": "Original source5c18f8dc: stable store-selection sheet, missing-image fallback and enlarged contact clearance are implemented. Six selected remote checks and13 sabotage pins pass; eleven corrected renders are frozen. Native-menu store changes preserve product, colour and size. GenuineChrome200 gives28px hero/contact clearance. The same original readers receive final named-fix checks; no new score, installation, native acceptance or live publication is claimed."
         }
       ],
       "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
-      "sourceAsOf": "2026-10-28T01:16:19.242000+00:00"
+      "sourceAsOf": "2026-10-28T01:57:28.883438+00:00"
     },
     "companion": {
       "number": "04",

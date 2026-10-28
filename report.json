@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. In parallel, audit the existing Shopify product-copy and settings work, then refine it from verified findings. The owner also authorized a parallel homepage redesign preserving The spread / SIDE BY SIDE, with separate Astra 6, Fable and Argon rendered reviews. New theme changes target the unpublished draft only; no live-theme writes are authorized.",
-  "workerState": "The original homepage builder and TEST/access coordinator are active. Original review support is preparing final named-fix packet templates without new provider calls. Completed bounded tasks were not restarted.",
+  "workerState": "Original review support is binding final packets and qualifying the captured trace. The TEST/access coordinator remains active. The homepage builder completed its bounded repair and proof; it retains any returned named fix. Completed tasks were not restarted.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October01:27 UTC: Hands moved #4996 Ready at the exact repaired head. Homepage source b990ee67 has five new regressions that failed before its fix and then passed, for15/15 focused tests. Remote validation returned two harness failures; the same builder is fixing them before the remaining proof.",
+  "lastActualProgress": "28 October01:51 UTC:11 corrected rendered captures saved. Genuine Chrome200 leaves28px between hero text and WhatsApp; enlarged-root city controls have11.18px horizontal clearance. Native-menu store selection keeps the sheet846px high and retains product, colour and size. The primary-image failure fallback is visible.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The homepage Fable attempt returned a weekly-limit refusal, without a review or score. TEST needs two URL settings corrected in the shared EON Shopify app; its original owner has presented the one specific settings-approval question, which is pending. Native and connected acceptance remain open. The resumed image-preview task reached a separate Site access error.",
-  "current": "The storefront test-route repair #4996 is in protected review at c0f2b226. Fresh admission and dispatch passed; its test shards are queued. The original homepage builder has implemented the three required design repairs and is correcting two returned test-harness issues.",
-  "next": "Consume #4996’s current protected verdict and tests through the original release owner. Finish the homepage’s focused remote proof, capture the new source, then return only the named findings to its original final readers.",
-  "updated": "28 October01:31 UTC: #4996 is open, no longer Draft, unmerged; fresh admission and dispatch succeeded and test shards are queued. Public commitfa71da6 built01:16:47 and all five hosted files matched01:18:11 UTC. Full-site passes remain0/3.",
+  "current": "The homepage named repairs pass focused source and rendered checks at5c18f8dc. Eleven current images and exact-source proof are frozen for the final named-fix reviews. Storefront repair #4996 has a new conflict with main; its original writer has the repair card.",
+  "next": "Finish binding the original homepage readers’ final named-fix packets and continue those same reviewers. Consume the original #4996 conflict repair and protected checks, then qualify its native source.",
+  "updated": "28 October01:55 UTC: exact source5c18f8dc passes6 selected remote tests and13/13 sabotage pins; homepage suite15/15. These are local candidate checks, not installed/native acceptance or a new rating. #4996 remains unmerged with a new conflict; current admission, guards and one test shard passed.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -208,7 +208,7 @@
     "Current-source evidence is frozen: 15 screenshots at phone/desktop sizes, genuine Chrome200, enlarged text, options and store-enquiry context. The approved paired-photo hero remains.",
     "The mobile rail keeps roughly 320 px cards; Next advances336 px. The enlarged film controls no longer overlap the caption, and the desktop store link clears WhatsApp by49 px.",
     "A23.6-second trace observed six interactions, maximum74ms, and two animation samples over50ms. Its0.103 dialog shift follows DevTools-issued store selection and real sheet expansion; ordinary-user CLS is unproven. No native or full-performance acceptance is claimed.",
-    "Original second homepage design scores are Astra9.30 and Argon9.06, both below9.5. Named findings are being repaired by the original builder. Full behavioral/native averages remain unqualified; Fable’s weekly-limit refusal produced no review or score.",
+    "Original second homepage design scores are Astra9.30 and Argon9.06, both below9.5. Named repairs and targeted rendered proof are complete; original final named-fix checks are next. Full behavioral/native averages remain unqualified; Fable’s weekly-limit refusal produced no review or score.",
     "The existing continuation system produced a natural scheduled wake at00:32; at least the People owner’s actual turn start is recorded. This proves that occurrence, not permanent coverage. The public task update was independently byte-verified at all five URLs."
   ],
   "openDeliveryGates": [
@@ -273,8 +273,16 @@
         "text": "Consume both second-review results and reconcile their evidence (00:45–01:14 UTC, took29min). Design9.30 and9.06; below target. Exact source, hashes, arithmetic and schema checked."
       },
       {
+        "complete": true,
+        "text": "Correct the consolidated named findings and release-test collection (01:12–01:37 UTC, took25min). Exact5c18f8dc;6 selected remote tests and13/13 pins pass. Shared source remains unchanged."
+      },
+      {
+        "complete": true,
+        "text": "Verify the corrected source in the browser (01:37–01:51 UTC, took14min). Eleven required images, real Chrome200, stable store selection and injected image-failure fallback captured. Local candidate only."
+      },
+      {
         "complete": false,
-        "text": "Correct the consolidated named findings and release-test collection (started01:12 UTC, est.38min; original builder). Preserve the paired hero; test contact clearance, image failure handling and store-sheet stability. Shared-file custody may require the original writer."
+        "text": "Bind and execute original final homepage named-fix reviews (started01:49 UTC, est.25min). No new full review or substituted reader; weekly-limit refusal remains separate."
       },
       {
         "complete": true,
@@ -286,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Verify the storefront repair’s final review and merge (started 18:46 UTC; next check01:45 UTC). Exact head c0f2b226 is Ready from01:27; fresh protected tests and original review are running or queued."
+        "text": "Verify the storefront repair’s final review and merge (started18:46 UTC; next check02:15 UTC). Currentc0f2b226 has a new main conflict. Original Hands/writer holds conflict-only integration; current checks continue."
       },
       {
         "complete": true,
@@ -306,7 +314,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check01:45 UTC). Original app owner holds one scoped two-URL settings card; no duplicate reconnect."
+        "text": "Finish TEST connected, privacy and consent acceptance (reconnect attempted 22:19 UTC; next check02:15 UTC). Original app owner holds one scoped two-URL settings card; no duplicate reconnect."
       },
       {
         "complete": false,
@@ -333,7 +341,7 @@
         "text": "Publish the repaired-source update (00:23–00:26 UTC, took3 min). Commit ae62bd3c; all five hosted files match saved bytes."
       }
     ],
-    "landing": "Lands: named homepage source/proof about01:50 UTC (estimate; two test-harness repairs and remote proof can move it). Full draft completion remains unknown until native, TEST and independent ratings pass. Shopify stays unpublished."
+    "landing": "Lands: final homepage packet and named-check dispatch about02:14 UTC (estimate; trace qualification and original provider availability can move it). Source/proof and capture are complete. Full draft completion remains unknown until TEST, native and original ratings pass. Shopify stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
