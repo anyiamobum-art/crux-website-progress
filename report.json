@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "The original designer is finishing its preservation receipt. Remote proof crux-nuera-proof1 is waiting on the existing box’s load-limited slot; it has not passed yet. The source/tests handoff estimate remains 09:35 UTC. The original native shared-file repair started at 09:05:16 UTC. No replacement writer, review or native run was started.",
+  "workerState": "The original designer completed source and proof preparation. Its one remote job exited successfully; no builder or duplicate test job remains active. The existing browser-recovery request was delivered; recovery is not yet verified. The native shared-file repair was last observed started at 09:05:16 UTC; its terminal result is not yet confirmed here.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October: parent verified committed source 911812d5 with a clean worktree, 11 changed files and nine emitted theme keys. The builder reports 19/19 focused interaction cases and has submitted one remote proof job. The supported setting attempt was refused, so browser access remains unchanged.",
+  "lastActualProgress": "28 October: the parent consumed and hash-verified the terminal remote proof for 911812d5: two clean test entries passed, four mutation checks passed, zero skipped. The job finished at 09:50:51 UTC and was consumed at 10:02:41 UTC. The fresh browser retry still fails despite the supplied enabled-settings screenshots.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The owner authorized automatic browser re-enablement, but the supported control refuses access to Codex itself. Local browser use remains disabled and needs the owner’s manual toggle in Work settings. This holds visual checks and actual-look binding, not local source work or the existing remote-test route. Native same-run binding, exact allocation and TEST OAuth remain separate prerequisites.",
-  "current": "The NU ERA slideshow and separate shoppable runway are committed locally at 911812d5. The original builder reports 19 passing focused interaction cases; the parent verified the clean source and nine-key candidate. Its remote proof is queued for an existing box slot. The two reels remain separate references; rejected #5025 stays frozen.",
-  "next": "Finish and test the local runway with actual CRUX looks, explicit size choices and valid individual/full-look bag actions. Restore browser access for visual testing and the remaining look-image binding. The new unit has its own PR and review rounds; prior rejected reviews are not transferred.",
-  "updated": "28 October 09:09:30 UTC: the current public report’s five files match their published source. The later setting attempt made no change. Local test results are reported by the original builder, pending the parent’s receipt read. Delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 remain unchanged.",
+  "remaining": "The owner supplied screenshots showing Chrome control ON, its extension installed and browsing set to Always allow. Nevertheless, a fresh tool connection and the requested retry both return disabled. This is an unresolved app/tool access mismatch; the earlier request to enable the setting was incorrect and is withdrawn. The existing Hands/Bridge route has the exact failure. Native source binding, allocation and TEST OAuth remain separate prerequisites.",
+  "current": "The active NU ERA slideshow and shoppable runway are prepared at 911812d5. The original remote job passed both selected test entries and all four mutation checks; the homepage suite covers 19 behavior cases. Source and test proof are complete. Actual-look binding and rendered review remain open; rejected #5025 stays frozen.",
+  "next": "Recover the supported browser connection, bind the current CRUX look images and products, then verify the exact candidate at phone and desktop widths and through the real bag journey. The new unit has its own PR and review rounds; old scores do not transfer.",
+  "updated": "28 October 10:06 UTC: original remote source proof and its log hash verified. The public report was previously verified at 09:27:34 UTC; this update is being published. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3. No new theme installation or publication.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -207,11 +207,11 @@
     }
   ],
   "recentChanges": [
-    "NU ERA slideshow and opt-in speaker-icon controls are committed locally; the active theme has not been changed.",
-    "The shoppable runway is committed at 911812d5; focused tests are reported green and one remote proof job is queued for its existing slot.",
-    "The second reel is a separate reference for campaign and product presentation. It is not being substituted for the first reel’s runway behavior.",
-    "The chair cleared a new PR and its own review rounds for this redesign. Rejected SIDE BY SIDE #5025 remains frozen.",
-    "Automatic browser re-enablement was authorized but the supported app control refused it. The owner must toggle Local browser use; source and remote-test work continue. No new score or completed delivery gate is claimed."
+    "The original NU ERA source and focused behavior proof are complete on unchanged 911812d5; the active theme has not been changed.",
+    "The same remote test job is now green: two selected test entries passed, all four mutation checks passed and no tests were skipped. No duplicate run was started.",
+    "The two Instagram references remain separate: runway shopping behavior and campaign/product composition.",
+    "Enabled browser settings are confirmed in the owner’s screenshots. The retry still fails at the tool connection; the earlier manual-enable instruction has been withdrawn and the existing support route notified.",
+    "Actual CRUX look binding, rendered proof and independent ratings remain open. These source checks do not add a final score or close a delivery gate."
   ],
   "openDeliveryGates": [
     {
@@ -248,42 +248,38 @@
       },
       {
         "complete": true,
-        "text": "Bind fresh active-theme source (08:00Z–08:08Z, took 8 min). Homepage order, campaign slides, looks and dependencies captured."
+        "text": "Bind fresh active-theme source (08:00Z–08:08Z, took 8 min). Homepage order, campaign slides and dependencies captured."
       },
       {
         "complete": true,
-        "text": "Inspect the first reference and map the runway behavior (08:10Z–08:13Z, took 3 min). Shopping behavior brief delivered to the original designer."
+        "text": "Inspect both references separately (first 08:10Z–08:13Z, took 3 min; second verified by 08:48Z, duration not measured). Runway behavior and campaign/product composition remain distinct."
       },
       {
         "complete": true,
-        "text": "Reconcile the chair’s new-unit review ruling (verified 08:25Z; elapsed decision time not measured). The new unit has its own PR and rounds; the rejected candidate stays frozen."
+        "text": "Reconcile the new-unit review ruling (verified 08:25Z; decision duration not measured). The new unit has its own PR and rounds; the rejected candidate stays frozen."
       },
       {
         "complete": true,
-        "text": "Inspect the second reference separately (verified by 08:48Z; viewing duration not measured). Campaign composition and product-page layout recorded without claiming unobserved interaction behavior."
+        "text": "Recover and consume the original source handoff (09:03Z–09:47Z, took 44 min). Clean source, 11 files and nine emitted theme keys verified."
       },
       {
         "complete": true,
-        "text": "Recover the original local build after interruption (08:58Z–09:03Z, took 5 min). Hero commit verified; same designer acknowledged the runway continuation."
+        "text": "Complete the original remote proof (09:24Z–09:50Z, took 26 min including 24 min 41 sec waiting for the shared slot; consumed 10:02Z). Two clean entries and four mutation checks passed, with no skipped tests."
       },
       {
         "complete": false,
-        "text": "Finish source/proof handoff (resumed 09:03Z, est. 32 min). Source is committed and clean; 19 focused cases are reported green. One remote proof is queued for its existing box slot."
+        "text": "Resolve the browser connection mismatch (waiting since 08:57Z; next support check 10:40Z). Screenshots confirm enabled settings; the fresh tool retry still fails. The existing support request is delivered, recovery unverified."
       },
       {
         "complete": false,
-        "text": "Restore browser access and render the candidate (waiting since 08:57Z; next step on owner toggling Local browser use). Automatic enablement was authorized, but supported Codex app control is denied; no setting changed."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the current task report (09:03Z–09:06Z, took 3 min). Matching Pages build and all five hosted files verified; acceptance counts unchanged."
+        "text": "Publish and verify this corrected task report (started 10:12Z, est. 4 min). Preserve the verified acceptance counts and distinguish source proof from finished delivery."
       },
       {
         "complete": false,
-        "text": "Continue native binding and TEST acceptance through their original owners (shared repair started 09:05:16Z; next changed-state check 09:35Z). Exact source binding, allocation and TEST OAuth prerequisites remain."
+        "text": "Continue native binding and TEST acceptance through their original owners (shared repair last observed started 09:05:16Z; terminal result and exact allocation still required). No duplicate native run."
       }
     ],
-    "landing": "Lands: local source/tests handoff about 09:35Z (32 min from the 09:03Z restart); real-look binding and the browser restriction may move it. Final draft delivery remains unestimated until the required rendered reviews, native and TEST acceptance pass. Nothing publishes live."
+    "landing": "Lands: corrected public report about 10:16Z (4 min from its start; hosted build availability may move it). Source proof is complete. Final draft timing remains unknown until browser recovery, actual-look binding, original reviews, native and TEST acceptance are verified. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
