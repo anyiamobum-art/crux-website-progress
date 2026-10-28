@@ -143,7 +143,7 @@
   "remaining": "The owner supplied screenshots showing Chrome control ON, its extension installed and browsing set to Always allow. Nevertheless, a fresh tool connection and the requested retry both return disabled. This is an unresolved app/tool access mismatch; the earlier request to enable the setting was incorrect and is withdrawn. The existing Hands/Bridge route has the exact failure. Native source binding, allocation and TEST OAuth remain separate prerequisites.",
   "current": "The active NU ERA slideshow and shoppable runway are prepared at 911812d5. The original remote job passed both selected test entries and all four mutation checks; the homepage suite covers 19 behavior cases. Source and test proof are complete. Actual-look binding and rendered review remain open; rejected #5025 stays frozen.",
   "next": "Recover the supported browser connection, bind the current CRUX look images and products, then verify the exact candidate at phone and desktop widths and through the real bag journey. The new unit has its own PR and review rounds; old scores do not transfer.",
-  "updated": "28 October 10:06 UTC: original remote source proof and its log hash verified. The public report was previously verified at 09:27:34 UTC; this update is being published. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3. No new theme installation or publication.",
+  "updated": "28 October 10:23:28 UTC: all five published task files match commit aa2daeff; the original remote source proof and log hash also passed parent verification. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3. No new theme installation or publication.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -271,15 +271,15 @@
         "text": "Resolve the browser connection mismatch (waiting since 08:57Z; next support check 10:40Z). Screenshots confirm enabled settings; the fresh tool retry still fails. The existing support request is delivered, recovery unverified."
       },
       {
-        "complete": false,
-        "text": "Publish and verify this corrected task report (started 10:12Z, est. 4 min). Preserve the verified acceptance counts and distinguish source proof from finished delivery."
+        "complete": true,
+        "text": "Publish and verify the corrected task report (10:12Z–10:23Z, took 11 min). All five hosted files match the published source. Reconciliation and the hosted build exceeded the initial 4-minute estimate; acceptance counts are unchanged."
       },
       {
         "complete": false,
         "text": "Continue native binding and TEST acceptance through their original owners (shared repair last observed started 09:05:16Z; terminal result and exact allocation still required). No duplicate native run."
       }
     ],
-    "landing": "Lands: corrected public report about 10:16Z (4 min from its start; hosted build availability may move it). Source proof is complete. Final draft timing remains unknown until browser recovery, actual-look binding, original reviews, native and TEST acceptance are verified. Nothing publishes live."
+    "landing": "Lands: source proof and the corrected task report are complete. Next support check 10:40Z. Final draft timing remains unknown until browser recovery, actual-look binding, original reviews, native and TEST acceptance are verified. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
