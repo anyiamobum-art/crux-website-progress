@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-28T06:17:53.077721+00:00",
+  "snapshot": "2026-10-28T07:24:13.310508+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -138,7 +138,7 @@
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
       "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
       "resultTitle": "Three named repairs verified; no full9.5pass",
-      "result": "Argon’s original final check verified the stable store sheet, missing-image fallback and contact-clearance repairs. The missing city-control evidence is complete; the chair accepted it as closing evidence without a new full9.5rating. Homepage PR #5025 is now Draft at7ca3303a after a conflict-free main merge, with15 reviewed files unchanged. It awaits normal code review and the draft-only Ready disposition. No homepage installation or live theme publication occurred. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
+      "result": "Argon’s original final check verified the stable store sheet, missing-image fallback and contact-clearance repairs. The permitted city-control supplement is complete and accepted as closing evidence, without a new full9.5rating. Homepage PR #5025 is published at7ca3303a with15 reviewed files unchanged. The recorded owner decision clears review, merge and unpublished-draft installation; normal protected reviews and tests remain outstanding. No homepage installation or live theme publication is claimed. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -156,9 +156,9 @@
           "state": "Final named-fix result verified"
         },
         {
-          "title": "Keep the remaining evidence visible.",
-          "text": "Astra still lacks collapsed-city and control-activation evidence. Native, connected commerce and full feel evidence remain incomplete. The chair holds the final-round disposition; the draft stays unpublished.",
-          "state": "No full9.5pass / release disposition pending"
+          "title": "Finish the remaining acceptance.",
+          "text": "The missing collapsed-city and activation evidence has been captured and accepted by the chair. Native, connected commerce and full feel acceptance remain incomplete. The source PR is admitted to normal review and unpublished-draft installation; no live publication is authorized.",
+          "state": "Draft review authorized / no full9.5pass"
         }
       ],
       "evidence": [
@@ -514,6 +514,11 @@
           "date": "28 October2026 · PR opened07:10UTC",
           "text": "PR #5025 carries the reviewed15-file homepage source after a no-conflict current-main merge. The permitted city-control supplement is accepted as closing evidence, not a new review or full9.5score. The held-Ready condition is being reconciled against the owner’s existing unpublished-draft instruction. Normal code reviews, merge, draft installation and acceptance remain distinct.",
           "url": "https://github.com/EON-CRUX/3.09/pull/5025"
+        },
+        {
+          "title": "Homepage draft-only release condition cleared",
+          "date": "28 October2026,07:19 UTC",
+          "text": "PR #5025 may take normal review and merge, then install into unpublished theme166627606744 and verify served bytes. The live switch is a separate owner decision. Draft-time red checks are diagnosed as skipped tests and draft admission, not source-test failures."
         }
       ],
       "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
