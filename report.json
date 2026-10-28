@@ -275,8 +275,8 @@
         "text": "Restore browser access and render the candidate (waiting since 08:57Z; next step on owner re-enabling Local browser use). One restore request is pending; no alternate browser route will bypass the denial."
       },
       {
-        "complete": false,
-        "text": "Publish and verify the current task report (started 09:03Z, est. 7 min). Keep acceptance counts unchanged until evidence closes a gate."
+        "complete": true,
+        "text": "Publish and verify the current task report (09:03Z–09:06Z, took 3 min). Matching Pages build and all five hosted files verified; acceptance counts unchanged."
       },
       {
         "complete": false,
