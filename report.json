@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original homepage builder has completed its source handoff. Parent advanced the exact commit into code review. Argon acknowledged 19 bound images but has no current rating; its terminal setup awaits approval with optional interactions sharing proposed OFF. No replacement reviewer or duplicate writer was started.",
+  "workerState": "The original homepage builder and native acceptance owner are resumed through their existing handles. No replacement reviewer, duplicate writer, Terms acceptance or live theme publication has occurred.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 17:27 UTC: #5047 marked Ready once after the admission check and a current queue-cap check. The chair’s exact source grant and enabled desk row were verified. Earlier, the pet was removed and browser-verified on the active storefront.",
+  "lastActualProgress": "28 October 18:22 UTC: consumed the actual first-review rejection and resumed the original builder for all three named fixes. The prior public task update was verified against all five hosted files.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Hosted tests and code review are queued after Ready. The original Fable connection returned a weekly-limit refusal. Argon produced no rating after a connection reset; its terminal recovery is awaiting the owner’s Terms decision. Native source binding and TEST connection remain open.",
-  "current": "The campaign homepage has entered code review as #5047 at f827033f. Its exact-source size admission and pin checks passed, and Ready was verified at 17:27 UTC. The pet remains removed from the active storefront.",
-  "next": "Consume the new hosted tests and original code-review result. Continue the original design reviews and native source-binding handoff, then install only the approved source in the unpublished draft.",
-  "updated": "28 October 17:27 UTC: #5047 is Ready at f827033f. No new rating, merge or Shopify installation is claimed. Native checks remain 0/7 and final website rating passes remain 0/3.",
+  "remaining": "The current homepage source was rejected on three medium findings; the original repair is underway. The original Fable connection returned a weekly limit. Argon’s interrupted setup still needs the already-requested Terms decision. Native source binding and TEST connection remain open.",
+  "current": "The homepage’s first code review found three repairable issues. The original builder is fixing missing-product handling, the iPhone arrow and off-screen keyboard selection. #5047 remains a Draft during that repair. The pet is removed from the active storefront.",
+  "next": "Prove and submit the three named fixes together, obtain the new exact-source admission, and continue protected round 2. The original native owner is reconciling its due handoff in parallel.",
+  "updated": "28 October 18:21 UTC: #5047 is Draft at f827033f after its first-review rejection. Public commit c67046d matches all five hosted files. No new rating, merge or Shopify installation is claimed; native checks remain 0/7 and final website passes 0/3.",
   "links": [
     {
       "title": "Campaign homepage #5047",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "**The homepage has entered code review.** Its exact-source size grant is verified, its pin checks pass, and #5047 was marked Ready once at 17:27 UTC. Hosted tests and review still need to finish.",
-    "**Live pet removal remains complete.** The active slideshow and WhatsApp button remain; the unpublished draft and theme roles were preserved.",
-    "The original image reader acknowledged all 19 bound images. Its rating call then failed on a connection reset and returned no score; the original terminal recovery awaits the Terms decision.",
-    "The original Fable review returned a weekly-limit refusal. No new rating or review approval is claimed.",
-    "The iPhone owner checked the original handoff again: the source-binding result is still missing. The Mac sleep and network interruption are recorded as observation gaps."
+    "**The homepage review produced three named fixes.** Missing products need a final unavailable state, the runway arrow needs text rendering on iPhone, and keyboard selection must keep the active look number visible. The original builder is repairing all three together.",
+    "**The size-admission delay is resolved.** The chair admitted f827033f; it entered code review and received its first verdict. A repaired head will need its own admission.",
+    "**The live pet removal is complete.** The active slideshow and WhatsApp remain; the unpublished draft is unchanged.",
+    "The original design connections remain unresolved: Fable returned a weekly limit, while Argon has no current score and awaits the existing Terms decision. No additional full review was started.",
+    "The original iPhone owner is reconciling the due source-binding handoff. Native and final-rating counts remain evidence-based."
   ],
   "openDeliveryGates": [
     {
@@ -309,11 +309,19 @@
         "text": "Verify exact-source admission and advance the homepage into code review (17:12Z–17:27Z, took 15 min). Size grant and desk row verified; nine current queued runs were below the cap; one Ready action."
       },
       {
+        "complete": true,
+        "text": "Consume the first hosted code-review result (17:27Z–18:22Z, took 55 min). Three medium findings; the original builder resumed. The usage interruption delayed collection."
+      },
+      {
         "complete": false,
-        "text": "Complete hosted tests and original code review (started 17:27Z, est. 30 min). Consume the actual result and return any named findings to the original builder."
+        "text": "Repair and prove all three named homepage findings (started 18:22Z, est. 25 min). Original builder only; one scoped push follows proof."
+      },
+      {
+        "complete": false,
+        "text": "Complete protected second review and merge (est. 30 min after the repair). New exact-source admission and green checks are required."
       }
     ],
-    "landing": "Lands: about 17:57Z for the next hosted result (30 min from Ready; queue and review duration may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
+    "landing": "Lands: about 19:17Z for the repaired source and next review (55 min planned; remote tests, review queue and new admission may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
