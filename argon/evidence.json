@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Three homepage repairs verified · final acceptance open",
+      "status": "Homepage rejected · correction in preparation",
       "title": "Better store visits, with evidence behind the details.",
       "summary": "Argon informed the installed store enquiry and identified three concrete homepage repairs now verified in the local candidate.",
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
       "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
-      "resultTitle": "Three named repairs verified; no full9.5pass",
-      "result": "Argon’s original final check verified the stable store sheet, missing-image fallback and contact-clearance repairs. The permitted city-control supplement is complete and accepted as closing evidence, without a new full9.5rating. Homepage PR #5025 is published at7ca3303a with15 reviewed files unchanged. The recorded owner decision clears review, merge and unpublished-draft installation; normal protected reviews and tests remain outstanding. No homepage installation or live theme publication is claimed. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
+      "resultTitle": "Named repairs retained; homepage design rejected",
+      "result": "Argon’s three scoped repair results remain recorded, but they do not make the homepage a passing design. The owner rejected the candidate as a regression from the active website. PR #5025 is Draft and unmerged; the earlier progression decision is superseded for this candidate. The original builder is preparing a correction against the actual live campaign, category imagery and shoppable looks. No homepage installation or live publication is claimed. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -156,9 +156,9 @@
           "state": "Final named-fix result verified"
         },
         {
-          "title": "Finish the remaining acceptance.",
-          "text": "The missing collapsed-city and activation evidence has been captured and accepted by the chair. Native, connected commerce and full feel acceptance remain incomplete. The source PR is admitted to normal review and unpublished-draft installation; no live publication is authorized.",
-          "state": "Draft review authorized / no full9.5pass"
+          "title": "Correct the rejected design.",
+          "text": "The actual live homepage has been inspected after exiting a saved preview. Preserve the approved Spread concept and improve on the live campaign, category and shoppable-look experience through the original builder. Existing review history remains intact.",
+          "state": "Owner rejection / original correction proposal"
         }
       ],
       "evidence": [
@@ -519,6 +519,11 @@
           "title": "Homepage draft-only release condition cleared",
           "date": "28 October2026,07:19 UTC",
           "text": "PR #5025 may take normal review and merge, then install into unpublished theme166627606744 and verify served bytes. The live switch is a separate owner decision. Draft-time red checks are diagnosed as skipped tests and draft admission, not source-test failures."
+        },
+        {
+          "title": "Owner rejects the homepage candidate",
+          "date": "28 October2026 ·07:40UTC verified",
+          "text": "PR #5025 is Draft and unmerged. The earlier permission to progress this candidate is superseded. The three scoped Argon fixes remain evidence of those repairs, not a whole-homepage pass."
         }
       ],
       "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
