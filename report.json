@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "The same original Astra designer is building the local evidence harness from the captured active-theme shell and candidate 911812d5. The parent completed Safari feed, product and HTML captures. The original native owner finished dependency qualification: #5033 is not the missing Website binding fix. No duplicate builder or native attempt was started.",
+  "workerState": "The original designer owns only the two scoped corrections. Parent is using the recovered Chrome route. The original native owner verified #5030 remains Ready at 99814957 with shard 2 running and no critical verdict recorded at 12:48Z; no native attempt or duplicate writer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 11:22 UTC: captured the public active homepage and all 22 linked product responses through Safari. Twenty-one product responses are valid; Lip Bracelet returns 404. The source-bound preview preparation is running with the original designer.",
+  "lastActualProgress": "28 October 12:58 UTC: ordinary look navigation and keyboard activation passed at 430 px; campaign audio/pause controls respond. Chrome independently confirms the New Arrivals overflow. The two corrections were delivered once to the original designer.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The Chrome tool still reports disabled despite enabled settings, but the supported Safari route now works and this is no longer a homepage capture blocker. One linked product returns 404 and must be handled honestly. The separate iPhone source-binding unit waits for #5030 merge and shared-file handback; exact allocation and TEST OAuth remain open.",
-  "current": "Safari recovery is verified. The original NU ERA candidate at 911812d5 has green source proof, and its actual store content is now captured: 12 looks, 22 linked products and the active homepage HTML. The original designer is preparing the exact-source preview with those real responses.",
-  "next": "Inspect the real-catalogue preview in Safari at phone and desktop widths, including the unavailable Lip Bracelet response. Then take the new homepage unit through its own independent design and code reviews. The active slideshow direction is retained; old scores do not transfer.",
-  "updated": "28 October 11:22 UTC: active main theme 161299857624, public look feed HTTP 200 with 12 looks, original homepage HTML HTTP 200, and 21/22 product responses HTTP 200. The previous task-site publication was verified against five hosted files at 11:02:10 UTC. Delivery remains 6/11, milestones 1/3, native 0/7 and final passes 0/3.",
+  "remaining": "The browser-disabled wait is resolved. New Arrivals spills sideways on narrow screens and one-piece looks say “1 PIECES”; both are being corrected. The native source-binding unit still follows #5030 merge and shared-file handback, then an exact allocation. TEST OAuth and actor binding remain separate.",
+  "current": "Chrome access is recovered. The new campaign homepage is being checked with real catalogue data. Individual and full-look additions, plus uncertain-response protection, passed in the local simulator. Two confirmed layout/copy defects are with the original designer.",
+  "next": "Finish phone/desktop inspection, consume the original designer’s scoped fixes, then send the corrected source and rendered evidence through the new homepage review unit. Continue the separate native/TEST release path.",
+  "updated": "28 October 12:58 UTC: supported Chrome DOM, screenshot, viewport and geometry reads work. The same preview server was restarted once after its old process was verified absent. Source 911812d5 remains unpublished; delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 remain unchanged.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -207,11 +207,11 @@
     }
   ],
   "recentChanges": [
-    "Browser access recovered through supported Safari. The enabled-settings screenshot was correct; Chrome’s separate connection failure remains with its original keeper.",
-    "The active homepage and the live look feed are now saved with source hashes: 12 looks, 22 distinct products, original media links and original product variants.",
-    "Twenty-one products return valid data. Lip Bracelet returns 404; the preview must handle that unavailable piece rather than invent availability.",
-    "The same original designer is preparing the new slideshow/runway preview using the real catalogue. Its focused source proof remains green at 911812d5.",
-    "The original iPhone route qualification is complete: the missing same-run source binding follows #5030 merge, not #5033. Native and final review counts have not advanced."
+    "Chrome is working again through the supported browser connection. Your enabled settings were correct; no settings or account change was needed.",
+    "All 12 looks load. Ordinary Next and keyboard navigation advance to the matching look and product options.",
+    "Local bag simulations verified single-item add, a two-item full look totaling NGN 86,700, and protection against a duplicate add after an uncertain response. These are not Shopify checkout acceptance.",
+    "Narrow-screen inspection found New Arrivals overflow and “1 PIECES” wording. The original designer is correcting both in the unpublished new homepage unit.",
+    "The original native prerequisite is still in protected review/checks. It has not been treated as a native pass or a new allocation."
   ],
   "openDeliveryGates": [
     {
@@ -244,54 +244,50 @@
     "steps": [
       {
         "complete": true,
-        "text": "Compare the active homepage and adopt the owner’s slideshow direction (07:28Z–08:00Z, took 32 min). SIDE BY SIDE is superseded; visible sound text becomes an icon."
+        "text": "Confirm the active campaign slideshow direction and capture its source (07:28Z–08:08Z, took 40 min). SIDE BY SIDE is superseded; sound uses an icon."
       },
       {
         "complete": true,
-        "text": "Bind fresh active-theme source (08:00Z–08:08Z, took 8 min). Homepage order, campaign slides and dependencies captured."
+        "text": "Inspect the two references separately and retain the original designer (08:10Z–09:47Z; elapsed 97 min, including source preparation). The new homepage has its own review unit."
       },
       {
         "complete": true,
-        "text": "Inspect both references separately (first 08:10Z–08:13Z, took 3 min; second verified by 08:48Z, duration not measured). Runway behavior and campaign/product composition remain distinct."
+        "text": "Complete original remote source proof (09:24Z–09:50Z, took 26 min including the shared-slot wait). Two test entries, four mutation checks and 19 Node tests pass."
       },
       {
         "complete": true,
-        "text": "Reconcile the new-unit review ruling (verified 08:25Z; decision duration not measured). The new unit has its own PR and rounds; the rejected candidate stays frozen."
+        "text": "Capture real catalogue data and build the exact-source preview (11:12Z–11:55Z, took 43 min). Twelve looks, 22 products; the one 404 is preserved."
       },
       {
         "complete": true,
-        "text": "Recover and consume the original source handoff (09:03Z–09:47Z, took 44 min). Clean source, 11 files and nine emitted theme keys verified."
+        "text": "Exercise individual/full-look and uncertain-response bag behavior (11:57Z–12:27Z, took 30 min). Local simulations pass; they do not prove Shopify checkout."
       },
       {
         "complete": true,
-        "text": "Complete the original remote proof (09:24Z–09:50Z, took 26 min including 24 min 41 sec waiting for the shared slot; consumed 10:02Z). Two clean entries and four mutation checks passed, with no skipped tests."
-      },
-      {
-        "complete": true,
-        "text": "Recover supported browser access (11:02Z–11:16Z, took 14 min; original wait began 08:57Z). Safari opened the active homepage and saved its public feed. Chrome’s tool connection still reports disabled, but no longer blocks this capture."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the corrected task report (10:12Z–10:23Z, took 11 min). All five hosted files match the published source. Reconciliation and the hosted build exceeded the initial 4-minute estimate; acceptance counts are unchanged."
-      },
-      {
-        "complete": true,
-        "text": "Qualify the shared repair against the original iPhone-check route (10:52Z–11:02Z, took 10 min). Current source proves #5033 is not the missing Website binding fix. The original binding unit follows #5030 merge and shared-file handback; native 0/7 is unchanged."
-      },
-      {
-        "complete": true,
-        "text": "Capture the actual homepage, looks and linked products (11:12Z–11:22Z, took 10 min). Twelve looks and 22 product responses retained; 21 products returned valid data, Lip Bracelet returned 404. Original response bytes and source identity are saved."
+        "text": "Recover Chrome and the stopped preview server (12:45Z–12:54Z, took 9 min). Supported browser checks work; no setting or account was changed."
       },
       {
         "complete": false,
-        "text": "Prepare and inspect the real-catalogue homepage preview (started 11:18Z, est. 17 min). Original designer prepares the exact-source harness; parent inspects the result and unavailable-item behavior in Safari."
+        "text": "Finish responsive and control inspection (started 12:54Z, est. 15 min). Phone navigation works; desktop and final capture binding remain."
       },
       {
         "complete": false,
-        "text": "Publish and read back the recovered-work update (started 11:23Z, est. 5 min)."
+        "text": "Correct the two confirmed layout/copy defects through the original designer (started 12:58Z, est. 25 min). Scoped New Arrivals containment and one-piece wording; no live install."
+      },
+      {
+        "complete": false,
+        "text": "Publish the current evidence update (started 12:58Z, est. 5 min). Counts stay tied to completed acceptance gates."
+      },
+      {
+        "complete": false,
+        "text": "Consume the original native prerequisite result (next check 13:15Z). Shared helper review/merge and handback precede the retained binding unit and a new dated allocation."
+      },
+      {
+        "complete": false,
+        "text": "Run the new homepage's independent reviews after the corrected-source evidence is ready (estimate unknown until exact reviewer-route reconciliation)."
       }
     ],
-    "landing": "Lands: about 11:35Z for preview preparation (12 min planned; source rendering or missing product behavior could move it). Final draft timing remains unknown until original reviews, native and TEST acceptance pass. Nothing publishes live."
+    "landing": "Lands: about 13:25Z for the bounded homepage correction and review packet (27 min left as of 12:58Z; remote-test queue may move this). Final draft timing remains unknown until original reviews, native and TEST acceptance pass. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
