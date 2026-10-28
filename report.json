@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original builder completed the repair and remote proof. The parent has pushed once and requested the exact-head admission through the existing chair route. No replacement reviewer or live theme publication.",
+  "workerState": "The original builder completed and sealed the repair. The parent verified the three changed behaviors in the browser, released the shared browser and is following the existing review request. No replacement reviewer or live theme publication.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 18:41 UTC: all three fixes pushed once; GitHub head and PR body read back exactly. Remote proof passed 25 controller cases and all eight mutation checks.",
+  "lastActualProgress": "28 October 18:56 UTC: three local browser checks saved against repaired source 6dc0a656; viewport reset and browser returned to the original customer-care owner. The repair already passed 25 controller cases and eight mutation checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The repair is now submitted; fresh size admission and current-head review are pending. The original Fable connection returned a weekly limit. Argon still needs the already-requested Terms decision. Native source binding and TEST connection remain open.",
-  "current": "All three named homepage fixes are repaired, tested and pushed to #5047 at 6dc0a656. Missing products have a clear unavailable state, the arrow requests text rendering, and changing looks keeps the selected number visible. The pet is removed from the active storefront.",
-  "next": "Consume the new exact-source size admission and hosted checks, then continue the same protected second review. New browser evidence must verify the changed behaviors before design acceptance.",
-  "updated": "28 October 18:41 UTC: #5047 is Draft at 6dc0a656 pending fresh admission and protected second review. Public commit 9ea8d22 was verified against all five hosted files at 18:24 UTC. No new rating, merge or Shopify installation is claimed; native checks remain 0/7 and final website passes 0/3.",
+  "remaining": "Fresh size admission and protected second review are pending. The current shared review queue is above its limit. The original Fable connection needs recovery; Argon still needs the existing Terms decision. Native source binding and TEST connection remain open.",
+  "current": "The three homepage repairs have passed their bounded browser checks at 380px on #5047, source 6dc0a656. Missing products show unavailable without dead links or retries; valid pieces remain selectable. The selected look number stays visible, and the All looks arrow renders as text. The active-site pet removal remains complete.",
+  "next": "Finish the existing exact-source admission and protected second review, then merge and integrate the reviewed homepage into the unpublished draft. The shared browser has been returned for the original TEST workspace navigation check.",
+  "updated": "28 October 18:56 UTC: local R1 behavior checks complete on 6dc0a656. Public commit 8f1b5cf was verified against all five hosted files at 18:45 UTC. Second review, merge and Shopify installation remain unverified; native checks remain 0/7 and final website passes 0/3.",
   "links": [
     {
       "title": "Campaign homepage #5047",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "**All three homepage review fixes are submitted.** Terminal missing products, the text arrow and keeping the selected look number visible are repaired on the same branch.",
-    "**The remote regression proof passed.** All 25 controller cases and eight mutation checks pass. The final documentation-only commit preserves every tested executable, test and configuration byte.",
-    "**Protected second review is next.** The repaired head needs its own size admission; the original builder, reviewer and round history remain intact.",
-    "**The live pet removal is complete.** The active slideshow and WhatsApp remain; the unpublished draft is unchanged.",
-    "The original design connections still need the existing Terms decision and Fable connection recovery. Native checks remain 0/7 while the original source-binding handoff is outstanding."
+    "**The three repaired homepage behaviors are now browser-verified.** At 380px, the selected look remains visible; the missing Lip Bracelet has no dead link or retry, and valid pieces remain selectable; the arrow uses text rendering.",
+    "**The repair is pushed and remotely tested.** Source 6dc0a656 has 25 passing controller cases and eight passing mutation checks. The final documentation-only commit preserves every tested executable, test and configuration byte.",
+    "**Protected second review remains the next release step.** Fresh size admission is pending through the original chair request. The queue limit currently holds additional Ready changes; no new review round or duplicate request was started.",
+    "**The shared browser is released for TEST navigation.** The completed local check made no Shopify or cart mutation. Native timing and final ratings are separate and still open.",
+    "**The active-site pet removal is complete.** The active slideshow and WhatsApp remain; the unpublished draft is unchanged."
   ],
   "openDeliveryGates": [
     {
@@ -294,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Consume native handback and source binding (first binding wait 27 Oct 15:36Z; next check 18:50Z). Original handoff still missing at 18:22Z; first wait retained."
+        "text": "Consume native handback and source binding (first binding wait 27 Oct 15:36Z; next check 19:20Z). Original handoff still missing at 18:50Z; first wait retained."
       },
       {
         "complete": true,
@@ -317,11 +317,15 @@
         "text": "Repair, prove and submit all three named homepage findings (18:22Z–18:41Z, took 19 min). Original builder; 25 controller cases and eight mutation checks pass; one push and exact remote readback."
       },
       {
+        "complete": true,
+        "text": "Verify the three repaired behaviors in the browser (18:50Z–18:56Z, took 6 min). Tested at 380px; source and screenshot hashes saved; browser returned."
+      },
+      {
         "complete": false,
-        "text": "Complete protected second review and merge (started 18:41Z, est. 30 min). Fresh size admission requested; current-head hosted checks and original second review remain."
+        "text": "Complete protected second review and merge (started 18:41Z, est. 30 min). Fresh size admission is pending and the shared queue is above its limit; original second review remains."
       }
     ],
-    "landing": "Lands: about 19:11Z for the next protected review result (30 min planned; fresh admission and the hosted queue may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
+    "landing": "Lands: about 19:11Z for the next review-admission check (14 min left; a fresh size decision and queue space are still required, so this is not a merge ETA). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
