@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original Account builder finished its bounded repair; root pushed it and advanced its review. Shopping Companion and its same size-guide builder are active. Completed support scopes remain completed; no duplicate worker or reviewer was started.",
+  "workerState": "The original size-guide and Account builders completed their prepared repairs; root published and advanced both changes. The original shopping-companion integration writer actually started at22:48Z. Completed support scopes remain completed; no duplicate worker or reviewer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October 06:44 Asia/Shanghai (28 October22:44 UTC): the Account repair was pushed and Ready readback verified. Both previously queued remote runs completed successfully.",
+  "lastActualProgress": "29 October06:55 Asia/Shanghai (28 October22:55 UTC): size-guide #5061 advanced from Draft to review on exact25549625. Account #5059 remains on43a272f7 in its original second-review path.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Fresh browser probes return a disabled integration capability despite enabled-setting screenshots. Native source-binding release, narrow-screen repair adoption, Account lifecycle integration and connected TEST acceptance remain open.",
-  "current": "The Account manifest repair passed all 12 remote checks and 18 mutation checks, was pushed once, and is back in protected review as #5059. The size-guide proof also passed; its original builder is applying the prepared manifest correction. The homepage remains installed in the unpublished Shopify draft.",
-  "next": "Consume the Account second review and final-head hosted checks. Validate the original size-guide correction and prepare its review. Hands retains the finished iPhone source-binding repair for protected publication.",
-  "updated": "29 October06:44 Asia/Shanghai: Account #5059 is on exact43a272f7 and awaiting its second review and hosted checks. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
+  "current": "The size-guide change is now in protected review as #5061 after its source checks, manifest correction and final self-review passed. The Account repair #5059 is also back in review. Hands has restarted the original shopping-companion integration writer. The homepage remains installed in the unpublished Shopify draft.",
+  "next": "Consume both original code-review results and current-head hosted checks, then merge eligible changes and qualify their draft installation. Hands still owes the separate iPhone helper publication; its original handoff is retained.",
+  "updated": "29 October06:58 Asia/Shanghai: both changes are Ready with hosted checks pending. Browser inventory still returns disabled capability despite enabled-setting screenshots. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
   "links": [
+    {
+      "title": "Size guide #5061",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5061"
+    },
     {
       "title": "Account checkout progress #5059",
       "path": "https://github.com/EON-CRUX/3.09/pull/5059"
@@ -172,10 +176,6 @@
     {
       "title": "TEST binding repair #4965",
       "path": "https://github.com/EON-CRUX/3.09/pull/4965"
-    },
-    {
-      "title": "P765 coverage repair #4908",
-      "path": "https://github.com/EON-CRUX/3.09/pull/4908"
     }
   ],
   "source": "Published projection of the original task report",
@@ -209,7 +209,7 @@
     "The active theme is unchanged by that installation. Its previously requested pet removal remains complete.",
     "Account #5059: the sole first-review finding is repaired, all12baseline checks and18mutation checks passed remotely, and exact43a272f7 is pushed and back in review. The original round history remains intact.",
     "The original iPhone-helper result is qualified and handed to Hands for protected publication, with the earlier test failure and proof limits retained. It does not count as a phone pass.",
-    "The size-guide proof passed its3baseline checks and3mutation checks. Its original builder resumed the prepared manifest correction; final ratings and connected TEST acceptance remain open."
+    "Size-guide #5061: all3baseline checks and3mutation checks passed; the original builder fixed the manifest row, passed all7affected closure checks and merged current main. Exact25549625 is published and Ready for its original first review; its feature stays off."
   ],
   "openDeliveryGates": [
     {
@@ -298,7 +298,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 22:50Z). Original release handoff names the exact source and proof limitations; the prepared native grant remains unused."
+        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 23:20Z). Original release handoff names the exact source and proof limitations; the prepared native grant remains unused."
       },
       {
         "complete": true,
@@ -381,15 +381,19 @@
         "text": "Complete the Account second review and hosted checks (started22:44Z, est.30min). Exact43a272f7; original review history preserved."
       },
       {
-        "complete": false,
-        "text": "Integrate the prepared size-guide manifest correction (started22:38Z, est.10min). The original remote run passed; the same builder is applying the verified one-row patch. Then prove the seven affected closure checks."
+        "complete": true,
+        "text": "Correct the size-guide manifest and submit the reviewed-source packet (22:38Z–22:55Z, took17min). All7affected checks passed; current main merged,260dependency files unchanged, one push and Ready readback for #5061. Final proof and publication added7min to the estimate."
       },
       {
         "complete": false,
-        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 22:50Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
+        "text": "Complete the size-guide first review and hosted checks (started22:55Z, est.30min). Exact25549625; feature stays off until reviewed installation and connected acceptance."
+      },
+      {
+        "complete": false,
+        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 23:20Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
       }
     ],
-    "landing": "Lands: next size-guide release step about22:50Z (about5min left; original builder return may move it). Account review/checks are running separately. Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: next review and release checks about23:20Z (about20min left; shared runners and original review availability may move it). Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
