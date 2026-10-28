@@ -138,7 +138,7 @@
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
       "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
       "resultTitle": "Three named repairs verified; no full9.5pass",
-      "result": "Argon’s original final check verified three homepage repairs: the stable store sheet, missing-image fallback and contact clearance. The missing city-control evidence is now complete on the same frozen candidate, including both cities collapsed/expanded and keyboard activation. Hands verified and delivered that supplement to the chair at06:48 UTC. It is desktop evidence, not a new review, full9.5pass or installed Shopify change. The earlier Stores enquiry remains installed in the unpublished draft. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
+      "result": "Argon’s original final check verified the stable store sheet, missing-image fallback and contact-clearance repairs. The missing city-control evidence is complete; the chair accepted it as closing evidence without a new full9.5rating. Homepage PR #5025 is now Draft at7ca3303a after a conflict-free main merge, with15 reviewed files unchanged. It awaits normal code review and the draft-only Ready disposition. No homepage installation or live theme publication occurred. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -508,10 +508,16 @@
           "title": "City-control evidence supplement completed on unchanged source",
           "date": "28 October2026 · capture06:43UTC / Hands acknowledgment06:48UTC",
           "text": "Both Lagos and Abuja passed the recorded collapsed and expanded states, pointer activation, Enter, Space and keyboard-focus checks. Enlarged-text simulation retained28px collapsed and11.18px expanded clearance; normal380px and1280px regressions are retained. All182 theme files and12 served routes match the frozen source. One unsettled entrance capture is excluded. This supplements the existing final-round evidence; the chair’s release disposition remains pending. No new full rating, native acceptance or Shopify publication."
+        },
+        {
+          "title": "Homepage source enters its original protected release path",
+          "date": "28 October2026 · PR opened07:10UTC",
+          "text": "PR #5025 carries the reviewed15-file homepage source after a no-conflict current-main merge. The permitted city-control supplement is accepted as closing evidence, not a new review or full9.5score. The held-Ready condition is being reconciled against the owner’s existing unpublished-draft instruction. Normal code reviews, merge, draft installation and acceptance remain distinct.",
+          "url": "https://github.com/EON-CRUX/3.09/pull/5025"
         }
       ],
       "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
-      "sourceAsOf": "2026-10-28T07:00:09.586987+00:00"
+      "sourceAsOf": "2026-10-28T07:13:33.895628+00:00"
     },
     "companion": {
       "number": "04",
