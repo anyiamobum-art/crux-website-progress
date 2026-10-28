@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original iPhone owner completed qualification of #5063 and its post-merge preparation requirements. The original shopping-companion writer finished the named missing-variant repair; Hands pushed it once to #5062. Root follows the Account and size-guide reviews. Completed support scopes stay completed; no duplicate builder or reviewer.",
+  "workerState": "The original shopping-companion coordinator and Bridge are active. The original size-guide builder has been asked to repair both findings together; acknowledgment and execution are tracked separately. The native owner completed its bounded source qualification. Completed support scopes stay completed; no duplicate builder or reviewer.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October07:13 Asia/Shanghai (28 October23:13 UTC): size-guide #5061’s original review started after its pin and guard checks passed. The original companion correction was also pushed once to #5062.",
+  "lastActualProgress": "28 October23:20:46 UTC: the original size-guide review returned two HIGH fixture/schema findings. The same builder has received the scoped repair handoff. Account approval6483175866 is verified, and the native helper’s causal-claim correction is read back.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Fresh browser probes return a disabled integration capability despite enabled-setting screenshots. Native source-binding release, narrow-screen repair adoption, Account lifecycle integration and connected TEST acceptance remain open.",
-  "current": "Both the Account repair #5059 and size-guide change #5061 have passed hosted pin and guard checks; their original code reviews are running. The iPhone source-binding repair is published as Draft #5063 with queued checks. The homepage remains installed in the unpublished Shopify draft.",
-  "next": "Consume the three changes’ original hosted checks and code reviews, merge eligible source, then qualify installation and the exact iPhone test source. Hands owns #5063’s next release step; the earlier missing-publication wait is closed.",
-  "updated": "29 October07:15 Asia/Shanghai: Account and size-guide reviews are running; their hosted test shards are running or queued. iPhone source binding #5063 remains Draft with queued checks. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
+  "current": "Account #5059 passed its second full code review with no surviving findings; its hosted test suite is still running. Size-guide #5061 received two named test-fixture findings, now delivered to the original builder for one repair. The iPhone source-binding repair is published as Draft #5063. The homepage remains installed in the unpublished Shopify draft.",
+  "next": "Consume the original size-guide repair, prove it remotely and push once. Merge the approved Account source after its hosted test gate passes. Hands retains the iPhone helper’s protected release; its body-only proof clarification is verified.",
+  "updated": "28 October23:23 UTC: Account is code-approved, size-guide has two named repairs, and native helper remains Draft with queued checks. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
   "links": [
     {
       "title": "iPhone source binding #5063",
@@ -207,9 +207,9 @@
   "recentChanges": [
     "The campaign homepage is merged as #5047 and installed in the unpublished Shopify draft; all nine files match the merged source.",
     "The active theme is unchanged by that installation. Its previously requested pet removal remains complete.",
-    "Account #5059: the sole first-review finding is repaired, all12baseline checks and18mutation checks passed remotely, and exact43a272f7 is pushed and back in review. The original round history remains intact.",
-    "The original iPhone-helper result is qualified and handed to Hands for protected publication, with the earlier test failure and proof limits retained. It does not count as a phone pass.",
-    "Size-guide #5061: all3baseline checks and3mutation checks passed; the original builder fixed the manifest row, passed all7affected closure checks and merged current main. Exact25549625 is published and Ready for its original first review; its feature stays off."
+    "Account #5059: the sole first-review finding is repaired and its second full code review APPROVED exact43a272f7 at23:15:13Z. Required hosted shards remain running or queued; no additional push is authorized by this approval.",
+    "The original iPhone-helper result is published as Draft #5063. Its body now accurately calls the earlier timing explanation a hypothesis; current hosted tests and pins are queued. No phone pass is claimed.",
+    "Size-guide #5061: the original first review found two stale buyer-trust fixture/schema expectations. Both exact findings were returned to the same original builder for one repair; the feature stays off."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The merged helper records observed rows as NOT EXERCISED until it can prove the draft assets loaded in that same native run. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; source-binding request retains27 October15:36:42 UTC.",
-      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. Hands owns its protected publication and missing required proof. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
+      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. It is now published as Draft #5063; Hands owns its protected review, required proof and merge. Its body-only hypothesis clarification is verified. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -381,23 +381,31 @@
         "text": "Prove and submit the named Account manifest repair (22:15Z–22:44Z, took29min). All12baseline checks and18mutation checks passed remotely; one repair push and Ready readback verified."
       },
       {
+        "complete": true,
+        "text": "Complete the Account second code review (23:06Z–23:15Z, took9min). Original review approved the exact source with no surviving findings."
+      },
+      {
         "complete": false,
-        "text": "Complete the Account second review and hosted checks (started22:44Z, est.45min). Hosted pins and guards passed; the original second review started23:08Z. Shared-runner recovery extended the estimate by15min."
+        "text": "Finish the Account hosted suite and protected merge (waiting since22:44Z; next check23:40Z). One shard is running and four are queued; approved source stays unchanged."
       },
       {
         "complete": true,
         "text": "Correct the size-guide manifest and submit the reviewed-source packet (22:38Z–22:53Z, took15min). All7affected checks passed; current main merged,260dependency files unchanged, one push and Ready readback for #5061. Final proof and publication added5min to the estimate."
       },
       {
-        "complete": false,
-        "text": "Complete the size-guide first review and hosted checks (started22:53Z, est.30min). Pins and guards passed23:12Z; original review started23:13Z. Feature stays off until reviewed installation and connected acceptance."
+        "complete": true,
+        "text": "Consume the size-guide first code review (23:13Z–23:20Z, took7min). Two HIGH buyer-trust fixture/schema findings, both sent to the same builder."
       },
       {
         "complete": false,
-        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 23:25Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
+        "text": "Repair and prove both named size-guide findings (started23:23Z, est.30min plus shared-worker wait). Preserve both exact assertions, run the affected proof remotely, then make one repair push."
+      },
+      {
+        "complete": false,
+        "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 23:45Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
       }
     ],
-    "landing": "Lands: next review and release result check about23:40Z (25min left; shared runners and original reviewers may move it). Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: next review and release result check about23:40Z (17min left; shared runners and the original repair may move it). Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
