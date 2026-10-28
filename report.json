@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October06:55 Asia/Shanghai (28 October22:55 UTC): size-guide #5061 advanced from Draft to review on exact25549625. Account #5059 remains on43a272f7 in its original second-review path.",
+  "lastActualProgress": "29 October06:53 Asia/Shanghai (28 October22:53 UTC): size-guide #5061 advanced from Draft to review on exact25549625. Account #5059 remains on43a272f7 in its original second-review path.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Fresh browser probes return a disabled integration capability despite enabled-setting screenshots. Native source-binding release, narrow-screen repair adoption, Account lifecycle integration and connected TEST acceptance remain open.",
   "current": "The size-guide change is now in protected review as #5061 after its source checks, manifest correction and final self-review passed. The Account repair #5059 is also back in review. Hands has restarted the original shopping-companion integration writer. The homepage remains installed in the unpublished Shopify draft.",
   "next": "Consume both original code-review results and current-head hosted checks, then merge eligible changes and qualify their draft installation. Hands still owes the separate iPhone helper publication; its original handoff is retained.",
-  "updated": "29 October06:58 Asia/Shanghai: both changes are Ready with hosted checks pending. Browser inventory still returns disabled capability despite enabled-setting screenshots. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
+  "updated": "29 October06:55 Asia/Shanghai: both changes are Ready; size-guide admission passed and hosted checks are pending. Browser inventory still returns disabled capability despite enabled-setting screenshots. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
   "links": [
     {
       "title": "Size guide #5061",
@@ -382,18 +382,18 @@
       },
       {
         "complete": true,
-        "text": "Correct the size-guide manifest and submit the reviewed-source packet (22:38Z–22:55Z, took17min). All7affected checks passed; current main merged,260dependency files unchanged, one push and Ready readback for #5061. Final proof and publication added7min to the estimate."
+        "text": "Correct the size-guide manifest and submit the reviewed-source packet (22:38Z–22:53Z, took15min). All7affected checks passed; current main merged,260dependency files unchanged, one push and Ready readback for #5061. Final proof and publication added5min to the estimate."
       },
       {
         "complete": false,
-        "text": "Complete the size-guide first review and hosted checks (started22:55Z, est.30min). Exact25549625; feature stays off until reviewed installation and connected acceptance."
+        "text": "Complete the size-guide first review and hosted checks (started22:53Z, est.30min). Exact25549625; feature stays off until reviewed installation and connected acceptance."
       },
       {
         "complete": false,
         "text": "Complete the installed homepage browser check (waiting since 21:51Z; next check 23:20Z). Fresh browser inventories return a disabled integration capability despite enabled-setting screenshots; the original keeper has the exact failure."
       }
     ],
-    "landing": "Lands: next review and release checks about23:20Z (about20min left; shared runners and original review availability may move it). Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: next review and release checks about23:20Z (about25min left; shared runners and original review availability may move it). Final draft completion is unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
