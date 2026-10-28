@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "One homepage test shard has passed, one is running and the remaining shards are queued. The original size-guide writer has one remote proof job queued. Hands confirmed the product-label fallback used a new session; its result remains provisional while original custody is resolved. The original native helper is consuming its due handback.",
+  "workerState": "The homepage has one test shard running and two queued. The original size-guide writer has one remote proof job waiting for capacity. One isolated builder is preparing the Account checkout-status panel; the original iPhone source-binding job is queued. The chair requires the original product-page writer to adopt the fallback result before publication.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 19:48 UTC: exact draft rollback copies and all nine payloads were prepared; all eleven homepage sections and ten literal asset/snippet references exist. The standard-tier release rule was verified: no additional code reviewer is required. Final design ratings remain separate.",
+  "lastActualProgress": "28 October 20:05 UTC: homepage mutation proof and guards passed; the missing Account checkout-status caller was traced to exact source and assigned one isolated build. The stale native-job dependency was cleared and its original remote job queued.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source binding and TEST acceptance remain open. A newly exercised hosted test found a product label extending to 189px in a 188px viewport; its original writer is being reconciled for a narrow fix.",
-  "current": "The repaired campaign homepage has its required independent code approval at source 6dc0a656. Hosted checks are running or queued. Fresh draft and active-theme file maps, rollback copies and nine exact installation payloads are prepared; no upload has occurred.",
-  "next": "Finish hosted CI and merge the homepage, then install it into the unpublished draft with exact readback and its own rendered checks. In parallel, the original size-guide writer is completing regression proof; the original product-page writer owns the narrow-screen label repair.",
-  "updated": "28 October 19:48 UTC: #5047 is unmerged at 6dc0a656 with its independent code approval. Public commit ee2199d matched all five served files at 19:43 UTC. The target is still an unpublished Shopify draft; its active-theme pet removal is preserved. No new Shopify installation; native checks remain 0/7 and final website passes 0/3.",
+  "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source binding, original-writer adoption of the narrow-screen repair, shared Account lifecycle integration and connected TEST acceptance remain open.",
+  "current": "The repaired campaign homepage has its required independent code approval. Two test shards, mutation checks and guards pass; the remaining shards are running or queued. The original iPhone source-binding job is queued after its stale prerequisite was cleared.",
+  "next": "Finish hosted CI and merge the homepage, then install its prepared nine payloads into the unpublished draft with exact readback and rendered checks. In parallel, finish size-guide proof and the isolated Account checkout-status connection.",
+  "updated": "28 October 20:05 UTC: #5047 remains unmerged at 6dc0a656 with its independent code approval and two test shards passing. Public acded8c matched all five served files at 19:53 UTC. No new Shopify install; native checks remain 0/7 and final website passes 0/3.",
   "links": [
     {
       "title": "Campaign homepage #5047",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "**The homepage passed its full second code review.** All three named repairs were accepted with no remaining findings. Required hosted tests still govern merge; this standard change has its required independent code approval.",
-    "**The size-guide evidence connection is now built.** It handles documented measurements, missing information and failed reads separately, preserves units and provenance, and rejects stale product responses. Thirteen focused tests pass. It is off by default and not installed.",
-    "**The unpublished installation package is ready.** Fresh theme identities, file maps and exact rollback copies are saved. Six additions, two replacements and one shared-file no-op are prepared. Eleven homepage sections and ten literal dependencies are present. No upload or publication has occurred.",
-    "**A new narrow-screen failure has a named repair path.** Hosted tests exposed a product label one pixel wider than the 188px viewport. The original keeper and writer are being reconciled; no assertion was weakened.",
-    "**The active-site pet removal remains verified.** The active slideshow and WhatsApp are retained. The new theme remains unpublished."
+    "Homepage code review is approved with no findings; two test shards, mutation checks and guards pass. Required CI is still running.",
+    "The original iPhone source-binding job is queued after its obsolete prerequisite was cleared. This is recovery, not completed native testing.",
+    "The Account checkout-status connection is being built in an isolated change, with separate payment and order states and account-change protection.",
+    "Nine exact homepage installation payloads and rollback copies are prepared for the unpublished draft; nothing has been uploaded.",
+    "The pet removal from the active storefront remains complete; the new draft is still unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -294,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Consume native handback and source binding (first binding wait 27 Oct 15:36Z; next check 19:50Z). Original handoff still missing at 19:21Z; first wait retained."
+        "text": "Consume native source binding (first binding wait 27 Oct 15:36Z; next check 20:20Z). The stale dependency is cleared; the original remote job was queued at 19:58Z, with no START yet verified."
       },
       {
         "complete": true,
@@ -334,18 +334,22 @@
       },
       {
         "complete": false,
-        "text": "Finish required hosted checks, then protected merge (started 19:36Z, est. 30 min). One shard passed, one is running and others are queued. Standard-tier code approval is satisfied; no duplicate review."
+        "text": "Finish required hosted checks, then protected merge (started 19:36Z, revised est. 55 min). Two shards, mutation checks and guards pass; one shard runs and two remain queued. Runner capacity moved the estimate; code approval is satisfied."
       },
       {
         "complete": false,
-        "text": "Prepare the size-evidence adapter for review (started by 19:39Z, est. 25 min). Original writer has committed the connection with 13 focused tests passing; affected pins and release receipt are next."
+        "text": "Prepare the size-evidence adapter for review (started by 19:39Z, revised est. 45 min). Source and focused tests are committed; one integrated remote proof waits for existing capacity. No duplicate job."
       },
       {
         "complete": false,
-        "text": "Resolve the newly exposed 188px product-label overflow (first observed 19:29Z; next check 20:00Z). Original keeper and source writer are being reconciled before one narrow diagnosis; assertions stay intact."
+        "text": "Resolve the newly exposed 188px product-label overflow (first observed 19:29Z; next check 20:20Z). The chair requires original-writer adoption of the running fallback result; assertions stay intact."
+      },
+      {
+        "complete": false,
+        "text": "Build the Account checkout-status connection (started 20:05Z, est. 35 min). One isolated builder; separate payment and order states, signed list selection and default-off account-change safeguards. Original lifecycle integration remains a separate dependency."
       }
     ],
-    "landing": "Lands: about 20:06Z for the next hosted-check and release-preparation result (about 12 min left; runner and original-writer availability may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
+    "landing": "Lands: about 20:40Z for the next source-build and release-preparation results (about 30 min left; existing runner capacity and original-writer availability may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
