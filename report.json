@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 08:00 UTC: the designer acknowledged the active-slideshow brief and speaker-icon change. A fresh cookie-free public read confirms the previously authorized pet on active theme 161299857624. The public report’s preceding update was verified against all five hosted files.",
+  "lastActualProgress": "28 October 08:13 UTC: the Instagram reference was visually inspected in Chrome and its runway interaction brief delivered to the same designer. Fresh active-theme binding captured the 550-file census and 159 homepage dependency bodies. The public task site’s five files were verified at 08:09 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The rejected candidate cannot merge or install. New design review scope is with the chair; previous reviews are retained. Native checks still need original fetched-draft binding and an exact allocation. TEST and the original reader’s recorded provider limitation remain separate prerequisites.",
-  "current": "The original designer has acknowledged the owner’s new direction and is binding fresh active-theme source before building an isolated local follow-up. The rejected SIDE BY SIDE candidate #5025 remains frozen in Draft.",
-  "next": "Build around the active campaign slideshow, with icon-only sound control and a stronger category → looks → stores journey. Carry the owner’s changed scope through the existing review route; continue native and TEST work with their original owners.",
-  "updated": "28 October 08:00 UTC: new design direction acknowledged; pet public HTML verified; rejected #5025 held. Delivery 6/11, milestones 1/3, native 0/7 and whole-site final passes 0/3 remain unchanged.",
+  "current": "The original designer is rebuilding locally from a fresh read of the active NU ERA homepage. The owner’s Instagram reference has now been watched: its shoppable runway is being adapted into Shop the Look beneath the preserved campaign slideshow and categories. The rejected SIDE BY SIDE candidate #5025 remains frozen in Draft.",
+  "next": "Build the runway selection and product panel with actual CRUX looks, explicit size choices and valid individual/full-look bag actions. Keep the hero sound control icon-only. Render the local result before the original independent reviews; continue native and TEST work through their existing owners.",
+  "updated": "28 October 08:13 UTC: reference inspected, current active-theme source read, original local build continuing, rejected #5025 held. Delivery 6/11, milestones 1/3, native 0/7 and whole-site final passes 0/3 remain unchanged.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -207,11 +207,11 @@
     }
   ],
   "recentChanges": [
-    "The owner replaced SIDE BY SIDE with the active homepage’s NU ERA hero slideshow as the required design direction.",
-    "The original designer acknowledged the correction and is binding fresh active-theme source for an isolated follow-up; the rejected #5025 remains Draft.",
-    "The sound control will use a speaker icon, with an accessible name and visible mute state, rather than a text label.",
-    "The pet on the public page traces to a separate 20 October pet-only authorization and installation; it is not evidence that the unfinished redesign was published.",
-    "Original companion, native and TEST work remains separate and continues through existing owners. No new passing score or delivery gate is claimed."
+    "The active NU ERA slideshow is preserved as the homepage direction; SIDE BY SIDE is superseded.",
+    "The Instagram reference is now inspected: a spotlight runway of full-body looks, a product breakdown and a complete-outfit bag action. A CRUX adaptation is being built in Shop the Look.",
+    "Fresh active-theme source was read successfully. The new work is isolated from rejected #5025, which remains frozen in Draft.",
+    "Size and stock choices will be explicit before adding a look; the existing default-variant shortcut is being replaced in this new component.",
+    "The public task report was verified against all five served files. No new final score, completed delivery gate or Shopify installation is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -259,19 +259,27 @@
         "text": "Explain the pet’s public presence from its original authorization and current public read (07:54Z–08:00Z, took 6 min). No live change made."
       },
       {
-        "complete": false,
-        "text": "Bind active-theme source and build the local correction (started 08:00Z, est. 45 min). Original designer; existing slideshow preserved; exact source and rendered result required."
+        "complete": true,
+        "text": "Bind fresh active-theme source (08:00Z–08:08Z, took 8 min). Homepage order, campaign slides, looks and dependencies captured."
+      },
+      {
+        "complete": true,
+        "text": "Inspect the owner’s runway reference and map its shopping behavior (08:10Z–08:13Z, took 3 min). Original designer received the observed interaction brief."
       },
       {
         "complete": false,
-        "text": "Update and verify the public task report (started 08:04Z, est. 5 min). Counts remain tied to acceptance evidence."
+        "text": "Build the local slideshow and shoppable runway (started 08:13Z, est. 40 min). Real products, explicit sizes, valid bag actions and a rendered result required."
+      },
+      {
+        "complete": true,
+        "text": "Update and verify the public task report (08:04Z–08:09Z, took 5 min). Five hosted files matched; counts remain tied to acceptance evidence."
       },
       {
         "complete": false,
-        "text": "Resolve the new design’s review scope and native binding through original owners (requested 08:00Z; next check 08:15Z). No duplicate review or simulator run."
+        "text": "Resolve the new design’s review scope and native binding through original owners (requested 08:00Z; next check 08:30Z). No duplicate review or simulator run."
       }
     ],
-    "landing": "Lands: first local design checkpoint about 08:45Z, subject to source binding and current features. This is not a completion estimate: rendered reviews, native and TEST acceptance still determine draft delivery. Nothing publishes live."
+    "landing": "Lands: first local design checkpoint about 08:55Z, subject to real-look data binding and the added runway interaction. This is not a completion estimate: rendered reviews, native and TEST acceptance still determine draft delivery. Nothing publishes live."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
