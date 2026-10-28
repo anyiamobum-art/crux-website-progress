@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original iPhone acceptance owner has resumed to qualify #5063. The original shopping-companion writer is repairing the one named missing-variant case in #5062. The Account and size-guide preparation scopes are complete; root follows their protected release. No duplicate builder or reviewer was started.",
+  "workerState": "The original iPhone owner completed qualification of #5063 and its post-merge preparation requirements. The original shopping-companion writer finished the named missing-variant repair; Hands pushed it once to #5062. Root follows the Account and size-guide reviews. Completed support scopes stay completed; no duplicate builder or reviewer.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October07:08 Asia/Shanghai (28 October23:08 UTC): the original second review of Account #5059 started. Its hosted pins and guards passed. The original iPhone source-binding repair #5063 was published at06:59 Asia/Shanghai.",
+  "lastActualProgress": "29 October07:13 Asia/Shanghai (28 October23:13 UTC): size-guide #5061’s original review started after its pin and guard checks passed. The original companion correction was also pushed once to #5062.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Fresh browser probes return a disabled integration capability despite enabled-setting screenshots. Native source-binding release, narrow-screen repair adoption, Account lifecycle integration and connected TEST acceptance remain open.",
-  "current": "The Account repair #5059 has passed its hosted pin and guard checks; its original second review is running. Size-guide #5061 is in the protected review queue. The iPhone source-binding repair is now published as Draft #5063; its checks are queued. The homepage is installed in the unpublished Shopify draft.",
+  "current": "Both the Account repair #5059 and size-guide change #5061 have passed hosted pin and guard checks; their original code reviews are running. The iPhone source-binding repair is published as Draft #5063 with queued checks. The homepage remains installed in the unpublished Shopify draft.",
   "next": "Consume the three changes’ original hosted checks and code reviews, merge eligible source, then qualify installation and the exact iPhone test source. Hands owns #5063’s next release step; the earlier missing-publication wait is closed.",
-  "updated": "29 October07:15 Asia/Shanghai: #5059 second review is running; #5061 pins are running; #5063 has only the expected Draft admission refusal and queued tests. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
+  "updated": "29 October07:15 Asia/Shanghai: Account and size-guide reviews are running; their hosted test shards are running or queued. iPhone source binding #5063 remains Draft with queued checks. Native checks remain0/7 and final9.5 passes0/3. No live publication.",
   "links": [
     {
       "title": "iPhone source binding #5063",
@@ -298,7 +298,7 @@
       },
       {
         "complete": true,
-        "text": "Consume the original source-binding publication (22:59Z–23:15Z, took 16 min). Draft #5063 matches the original three-file repair; publication wait closed."
+        "text": "Consume the original source-binding publication (22:59Z–23:11Z, took 12 min). Draft #5063 matches the original three-file repair; publication wait closed."
       },
       {
         "complete": false,
@@ -390,7 +390,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the size-guide first review and hosted checks (started22:53Z, est.30min). Exact25549625; feature stays off until reviewed installation and connected acceptance."
+        "text": "Complete the size-guide first review and hosted checks (started22:53Z, est.30min). Pins and guards passed23:12Z; original review started23:13Z. Feature stays off until reviewed installation and connected acceptance."
       },
       {
         "complete": false,
