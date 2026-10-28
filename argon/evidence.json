@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-28T01:57:28.883438+00:00",
+  "snapshot": "2026-10-28T06:17:53.077721+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,33 +132,33 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Unpublished draft ·36 functional passes ·3 genuine200% observations captured",
-      "title": "Directions are not a promise.",
-      "summary": "The critique sharpened the distinction between finding a store and knowing that a trip will succeed.",
-      "before": "Does a directory and a directions link give a shopper enough certainty?",
-      "after": "Keep existing directions and optional location. Connect the selected store with validated current item and size in the existing enquiry preview, refreshing or clearing stale context before the shopper chooses whether to continue.",
-      "resultTitle": "Functional checks and genuine200% evidence; final acceptance open",
-      "result": "Argon-informed Stores enquiry is reviewed, merged and installed, with scoped desktop checks retained. Separate SIDE BY SIDE source6fdf2f41 completed original second design reviews: Astra9.30/min8.9 and Argon9.06/min8.8, below target. Original builder resumed one named repair for contact overlap, product-image failure diagnosis and store-selection stability, plus necessary test proof. Full behavior and native acceptance remain unqualified. Fable has a weekly-limit refusal and no homepage score. Delivery6/11, native0/7, final whole-site passes0/3. Shopify stays unpublished. At01:27 UTC the separate storefront test-route repair #4996 entered protected review; it is not merged. Homepage named-fix source is implemented, with two remote test-harness issues under repair before corrected capture.",
+      "status": "Three homepage repairs verified · final acceptance open",
+      "title": "Better store visits, with evidence behind the details.",
+      "summary": "Argon informed the installed store enquiry and identified three concrete homepage repairs now verified in the local candidate.",
+      "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
+      "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
+      "resultTitle": "Three named repairs verified; no full9.5pass",
+      "result": "On28 October, the original final Argon check verified its three required homepage fixes on source5c18f8dc. The store sheet stays at the same position through selection; missing images show a fallback; contact clearance is supported in the supplied enlarged views. The original Astra final check still needs collapsed-city and control-activation evidence. No full average or9.5pass was awarded. This homepage candidate is not yet pushed or installed; the earlier Stores enquiry is installed in the unpublished draft. The separate test-route repair #4996 is now merged. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
       "stages": [
         {
-          "title": "Follow the intention beyond the click.",
-          "text": "The advisory distinguished a directions link from confirmed stock or an accepted store request. It proposed checking the evidence behind each promise to the shopper.",
-          "state": "Advisory contribution"
+          "title": "Carry useful store context.",
+          "text": "The original advisory led to a smaller Stores enquiry change that keeps product, variant and store context current. That change is reviewed, merged and installed in the unpublished draft.",
+          "state": "Installed contribution / connected acceptance open"
         },
         {
-          "title": "Keep the existing design and owners.",
-          "text": "The original owner preserved the directory and design, then sent one smaller question about product, variant and store context. Reading that same conversation confirmed a provider error. No additional answer, score or repeat submission.",
-          "state": "Original result reconciled / no answer"
+          "title": "Turn design findings into repairs.",
+          "text": "The original homepage builder addressed sheet movement, unavailable images and contact overlap. Remote tests and mutation checks passed on the frozen candidate.",
+          "state": "Source and tests verified"
         },
         {
-          "title": "Separate existing release work.",
-          "text": "First Look's two CSS files are installed in the unpublished draft. That is verified original-owner release work; this exhibit does not attribute it to Argon's advice.",
-          "state": "Existing installation / no causal attribution"
+          "title": "Check the same repaired candidate.",
+          "text": "The original Argon conversation checked all eleven required images and the source delta, then closed its three required findings. No replacement reviewer or extra full round was used.",
+          "state": "Final named-fix result verified"
         },
         {
-          "title": "Leave unobserved measures unknown.",
-          "text": "The advisory could not render the live site. Its visual and interaction measures remain unknown. Installed source, phone acceptance and final ratings are separate gates.",
-          "state": "No rendered visual score"
+          "title": "Keep the remaining evidence visible.",
+          "text": "Astra still lacks collapsed-city and control-activation evidence. Native, connected commerce and full feel evidence remain incomplete. The chair holds the final-round disposition; the draft stays unpublished.",
+          "state": "No full9.5pass / release disposition pending"
         }
       ],
       "evidence": [
@@ -493,9 +493,19 @@
           "title": "Argon named repairs pass source and rendered checks",
           "date": "28 October2026 ·01:55UTC",
           "text": "Original source5c18f8dc: stable store-selection sheet, missing-image fallback and enlarged contact clearance are implemented. Six selected remote checks and13 sabotage pins pass; eleven corrected renders are frozen. Native-menu store changes preserve product, colour and size. GenuineChrome200 gives28px hero/contact clearance. The same original readers receive final named-fix checks; no new score, installation, native acceptance or live publication is claimed."
+        },
+        {
+          "title": "Homepage final named-fix result consumed",
+          "date": "28 October2026 · result06:05UTC; validated06:08UTC",
+          "text": "Original Argon verified three required repairs: stable store sheet, product-image fallback and contact clearance. All eleven image acknowledgments and the frozen source match. A retained client error from an earlier attempt was preserved in the evidence; the fresh final result validated separately. No new full average, native pass or installed-homepage credit was awarded."
+        },
+        {
+          "title": "Original Astra final evidence gap",
+          "date": "28 October2026 · result06:07UTC; validated06:18UTC",
+          "text": "The open-state clearance improved and no new severe delta defect was found. Collapsed-city and control-activation evidence was absent, so the named finding remains unverifiable. The original chair receives that exact evidence gap; no fourth review or automatic release is implied."
         }
       ],
-      "limit": "A map click is intent, a confirmed arrival is a separate observation, and a sale is another event. None is a substitute for the next.",
+      "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
       "sourceAsOf": "2026-10-28T01:57:28.883438+00:00"
     },
     "companion": {
