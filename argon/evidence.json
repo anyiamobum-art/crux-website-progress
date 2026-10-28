@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Homepage rejected · correction in preparation",
+      "status": "Active-slideshow redesign in progress",
       "title": "Better store visits, with evidence behind the details.",
       "summary": "Argon informed the installed store enquiry and identified three concrete homepage repairs now verified in the local candidate.",
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
       "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
       "resultTitle": "Named repairs retained; homepage design rejected",
-      "result": "Argon’s three scoped repair results remain recorded, but they do not make the homepage a passing design. The owner rejected the candidate as a regression from the active website. PR #5025 is Draft and unmerged; the earlier progression decision is superseded for this candidate. The original builder is preparing a correction against the actual live campaign, category imagery and shoppable looks. No homepage installation or live publication is claimed. Delivery6/11, native0/7 and whole-site final passes0/3 remain unchanged.",
+      "result": "Argon’s three earlier scoped repairs remain recorded, but they do not make the rejected homepage a passing design. The owner has now replaced SIDE BY SIDE with the active NU ERA campaign slideshow and requested an icon-only sound control. The same original designer is binding current active-theme source and building an isolated follow-up. Rejected PR #5025 remains Draft; its reviews are retained. Fable and Argon must review the new rendered design through the original review route. No homepage installation or live publication is claimed. Delivery 6/11, native 0/7 and whole-site final passes 0/3 remain unchanged.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -156,9 +156,9 @@
           "state": "Final named-fix result verified"
         },
         {
-          "title": "Correct the rejected design.",
-          "text": "The actual live homepage has been inspected after exiting a saved preview. Preserve the approved Spread concept and improve on the live campaign, category and shoppable-look experience through the original builder. Existing review history remains intact.",
-          "state": "Owner rejection / original correction proposal"
+          "title": "Build from the active campaign slideshow.",
+          "text": "The owner explicitly superseded SIDE BY SIDE. Preserve the active slideshow, improve category photography, populated shoppable looks and store discovery, and replace visible sound text with a speaker icon. The original designer acknowledged and is preparing current-source implementation.",
+          "state": "Owner-directed redesign / local work active"
         }
       ],
       "evidence": [
@@ -524,6 +524,11 @@
           "title": "Owner rejects the homepage candidate",
           "date": "28 October2026 ·07:40UTC verified",
           "text": "PR #5025 is Draft and unmerged. The earlier permission to progress this candidate is superseded. The three scoped Argon fixes remain evidence of those repairs, not a whole-homepage pass."
+        },
+        {
+          "title": "Owner changes the homepage direction",
+          "date": "28 October 2026, 08:00 UTC",
+          "text": "Active hero slideshow replaces SIDE BY SIDE. Original designer acknowledged; prior candidate held. No new independent review or passing score yet."
         }
       ],
       "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
