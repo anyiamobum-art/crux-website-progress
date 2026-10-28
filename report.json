@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. No new live-theme publication is authorized.",
-  "workerState": "The same homepage designer acknowledged the continuation and is validating the three uncommitted runway files. Its next source/tests handoff estimate is 09:35 UTC. The original Shopping Companion and Hands owners retain their separate work. No duplicate writer, reviewer or native run was created.",
+  "workerState": "The original designer is finishing its preservation receipt. Remote proof crux-nuera-proof1 is waiting on the existing box’s load-limited slot; it has not passed yet. The source/tests handoff estimate remains 09:35 UTC. The original native shared-file repair started at 09:05:16 UTC. No replacement writer, review or native run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 09:03 UTC: the original designer resumed and confirmed the local hero commit and three runway files. The second reel was visually inspected and saved as a separate reference. The chair cleared the new unit’s review scope. All five files of the previous public report were verified at 08:23 UTC.",
+  "lastActualProgress": "28 October: parent verified committed source 911812d5 with a clean worktree, 11 changed files and nine emitted theme keys. The builder reports 19/19 focused interaction cases and has submitted one remote proof job. The supported setting attempt was refused, so browser access remains unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Local browser use is disabled in Work settings; one request to restore it is pending. This blocks visual checks, not the resumed local build. Native checks still need the original same-run fetched-draft binding and an exact allocation. TEST OAuth configuration and the original final reader’s provider limitation remain separate prerequisites.",
-  "current": "The original designer resumed local work at 09:03 UTC. The NU ERA hero and opt-in speaker-icon controls are committed locally. The separate shoppable runway component is in progress. The first reel guides runway shopping; the second guides campaign and product presentation. The rejected SIDE BY SIDE candidate #5025 remains frozen.",
+  "remaining": "The owner authorized automatic browser re-enablement, but the supported control refuses access to Codex itself. Local browser use remains disabled and needs the owner’s manual toggle in Work settings. This holds visual checks and actual-look binding, not local source work or the existing remote-test route. Native same-run binding, exact allocation and TEST OAuth remain separate prerequisites.",
+  "current": "The NU ERA slideshow and separate shoppable runway are committed locally at 911812d5. The original builder reports 19 passing focused interaction cases; the parent verified the clean source and nine-key candidate. Its remote proof is queued for an existing box slot. The two reels remain separate references; rejected #5025 stays frozen.",
   "next": "Finish and test the local runway with actual CRUX looks, explicit size choices and valid individual/full-look bag actions. Restore browser access for visual testing and the remaining look-image binding. The new unit has its own PR and review rounds; prior rejected reviews are not transferred.",
-  "updated": "28 October 09:03 UTC: hero source committed locally; runway work acknowledged in the same original session; browser access explicitly disabled. Local source is not a rendered, reviewed or installed result. Delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 remain unchanged.",
+  "updated": "28 October 09:09:30 UTC: the current public report’s five files match their published source. The later setting attempt made no change. Local test results are reported by the original builder, pending the parent’s receipt read. Delivery 6/11, milestones 1/3, native 0/7 and final passes 0/3 remain unchanged.",
   "links": [
     {
       "title": "Storefront test route #4996",
@@ -208,10 +208,10 @@
   ],
   "recentChanges": [
     "NU ERA slideshow and opt-in speaker-icon controls are committed locally; the active theme has not been changed.",
-    "The shoppable runway is in progress with the original designer, who resumed at 09:03 UTC after an interrupted turn.",
+    "The shoppable runway is committed at 911812d5; focused tests are reported green and one remote proof job is queued for its existing slot.",
     "The second reel is a separate reference for campaign and product presentation. It is not being substituted for the first reel’s runway behavior.",
     "The chair cleared a new PR and its own review rounds for this redesign. Rejected SIDE BY SIDE #5025 remains frozen.",
-    "Browser access is currently disabled in Work settings. Local implementation continues; visual checks await restored access. No new score or completed delivery gate is claimed."
+    "Automatic browser re-enablement was authorized but the supported app control refused it. The owner must toggle Local browser use; source and remote-test work continue. No new score or completed delivery gate is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -268,11 +268,11 @@
       },
       {
         "complete": false,
-        "text": "Finish local runway source and focused checks (resumed 09:03Z, est. 32 min). The 08:55Z checkpoint slipped because of a permission-related interruption; original source and writer are retained."
+        "text": "Finish source/proof handoff (resumed 09:03Z, est. 32 min). Source is committed and clean; 19 focused cases are reported green. One remote proof is queued for its existing box slot."
       },
       {
         "complete": false,
-        "text": "Restore browser access and render the candidate (waiting since 08:57Z; next step on owner re-enabling Local browser use). One restore request is pending; no alternate browser route will bypass the denial."
+        "text": "Restore browser access and render the candidate (waiting since 08:57Z; next step on owner toggling Local browser use). Automatic enablement was authorized, but supported Codex app control is denied; no setting changed."
       },
       {
         "complete": true,
@@ -280,7 +280,7 @@
       },
       {
         "complete": false,
-        "text": "Continue native binding and TEST acceptance through their original owners (next changed-state check 09:15Z). Exact source binding, allocation and TEST OAuth prerequisites remain."
+        "text": "Continue native binding and TEST acceptance through their original owners (shared repair started 09:05:16Z; next changed-state check 09:35Z). Exact source binding, allocation and TEST OAuth prerequisites remain."
       }
     ],
     "landing": "Lands: local source/tests handoff about 09:35Z (32 min from the 09:03Z restart); real-look binding and the browser restriction may move it. Final draft delivery remains unestimated until the required rendered reviews, native and TEST acceptance pass. Nothing publishes live."
