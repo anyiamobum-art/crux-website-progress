@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The homepage has one test shard running and two queued. The original size-guide remote proof waits for capacity. The Account builder is preparing its source-review handoff. The original iPhone source-binding process was still running at 20:20 UTC; no duplicate job was started.",
+  "workerState": "One homepage test shard runs and one is queued. The original size-guide remote proof waits for capacity. Account #5059 is registered to its original owner and awaits its allowed Ready turn. The original iPhone binding process started at 20:06 UTC and was running at 20:20 UTC; no duplicate job was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 20:20 UTC: the Account panel passed 18 production behavior checks and all three mutation checks after fixing Back restoration and removing an internal ID from customer output. The original iPhone source-binding job started at 20:06 UTC and remains running.",
+  "lastActualProgress": "28 October 20:28 UTC: Account #5059 was pushed and opened on the verified source. The third homepage test shard passed at 20:25 UTC. The two Instagram references are now reconciled separately against the build: runway adaptation exists; the second reference’s PDP/editorial layout has not been built.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source binding, original-writer adoption of the narrow-screen repair, shared Account lifecycle integration and connected TEST acceptance remain open.",
-  "current": "The campaign homepage has its required independent code approval; two test shards, mutation checks and guards pass while three shards remain running or queued. The Account checkout-status panel is built and self-checked, and its original builder is preparing the source for review. The original iPhone source-binding job is running.",
-  "next": "Consume the remaining hosted checks, merge the homepage through its protected route, and use the prepared nine-file unpublished-draft installation after its applicable gates. In parallel, complete the Account source review handoff and existing size-guide proof.",
-  "updated": "28 October 20:21 UTC: homepage #5047 remains unmerged at 6dc0a656 with its code approval and two test shards passing. Public 8da5831 matched all five served files at 20:12 UTC. No new Shopify installation or final-rating credit.",
+  "current": "The campaign homepage has its required independent code approval and three of five test shards passed. The Account checkout-status panel is pushed as Draft #5059, with 18 behavior checks and three mutation checks passing. Its initial admission refuses only Draft; the existing workflow queue is above its cap. The original iPhone source-binding job is running.",
+  "next": "Consume the remaining hosted checks and the existing review-queue disposition, then merge through the protected routes. The nine-file unpublished homepage installation is prepared. Continue the original Account lifecycle integration and size-guide proof in parallel.",
+  "updated": "28 October 20:32 UTC: #5059 is Draft and mergeable; its admission has no source refusal. Homepage #5047 remains unmerged with three test shards passing. Public 05c66cb matched all five served files at 20:24 UTC. No new Shopify installation or final-rating credit.",
   "links": [
+    {
+      "title": "Account checkout progress #5059",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5059"
+    },
     {
       "title": "Campaign homepage #5047",
       "path": "https://github.com/EON-CRUX/3.09/pull/5047"
@@ -172,10 +176,6 @@
     {
       "title": "P765 coverage repair #4908",
       "path": "https://github.com/EON-CRUX/3.09/pull/4908"
-    },
-    {
-      "title": "Original natural-run receipt",
-      "path": "https://github.com/EON-CRUX/3.09/issues/4078#issuecomment-6401404677"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,10 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The Account checkout-status panel is built and self-checked: 18 behavior checks and three mutation checks pass. Its protected review and original lifecycle integration remain open.",
-    "The original iPhone source-binding job is running after its stale prerequisite was cleared. Native checks remain 0/7.",
-    "The homepage has its required code approval; remaining hosted test shards are running or queued. Nine unpublished-install payloads and rollback sources are prepared.",
-    "The original design reviewers retain their history. The current Fable refusal and Argon Terms prerequisite remain open; no new passing score is claimed."
+    "Account checkout progress is built and pushed as #5059. It passed 18 behavior checks and three mutation checks; independent review and activation remain open.",
+    "The homepage has its required code approval and three test shards passing. Two hosted shards remain; nine unpublished-install payloads and rollback sources are prepared.",
+    "The original iPhone source-binding repair is running. Native checks remain 0/7 until the actual phone journeys pass.",
+    "The two Instagram references are kept separate. The selectable runway and product options are implemented; the second reference’s PDP/editorial layout has not been built.",
+    "Original final design scores are unchanged. Fable’s connection is limited until 29 October 12:00 UTC unless its keeper restores access sooner; Argon awaits its existing Terms decision."
   ],
   "openDeliveryGates": [
     {
@@ -333,7 +334,7 @@
       },
       {
         "complete": false,
-        "text": "Finish required hosted checks, then protected merge (started 19:36Z, revised est. 55 min). Two shards, mutation checks and guards pass; one shard runs and two remain queued. Runner capacity moved the estimate; code approval is satisfied."
+        "text": "Finish required hosted checks, then protected merge (started 19:36Z, revised est. 55 min). Three shards, mutation checks and guards pass; one shard runs and one remains queued. Runner capacity moved the estimate; code approval is satisfied."
       },
       {
         "complete": false,
@@ -348,8 +349,12 @@
         "text": "Build and self-check the Account checkout-status panel (20:05Z–20:20Z, took 15 min). Eighteen behavior checks and three mutation checks pass, including Back restoration and private-ID handling. This is source proof only."
       },
       {
+        "complete": true,
+        "text": "Prepare and publish the Account source for protected review (20:22Z–20:28Z, took 6 min). Main merged, exact source and self-review receipt verified, one push and Draft #5059 created."
+      },
+      {
         "complete": false,
-        "text": "Prepare the Account source for protected review (started 20:22Z, est. 20 min). The same builder is reconciling main and preparing its self-review receipt. Original lifecycle, versioned imports and signed proxy configuration remain required before activation."
+        "text": "Complete the Account protected review (started 20:28Z; next check 20:40Z). Owner map registered; initial admission refuses only Draft, and the workflow queue is above its cap. No activation until original lifecycle, versioned imports and signed proxy configuration are integrated."
       }
     ],
     "landing": "Lands: about 20:45Z for the next source-release preparation (about 20 min left; shared runner capacity can move hosted completion). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
