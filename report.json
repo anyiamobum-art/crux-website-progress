@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "One homepage test shard runs and one is queued. The original size-guide remote proof waits for capacity. Account #5059 is registered to its original owner and awaits its allowed Ready turn. The original iPhone binding process started at 20:06 UTC and was running at 20:20 UTC; no duplicate job was started.",
+  "workerState": "Both remaining homepage test shards are running. The original size-guide remote proof waits for capacity. Account #5059 is registered to its original owner and awaits its allowed Ready turn. The original iPhone binding process started at 20:06 UTC and was running at 20:20 UTC; no duplicate job was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 20:28 UTC: Account #5059 was pushed and opened on the verified source. The third homepage test shard passed at 20:25 UTC. The two Instagram references are now reconciled separately against the build: runway adaptation exists; the second reference’s PDP/editorial layout has not been built.",
+  "lastActualProgress": "28 October 20:36 UTC: the narrow-screen quantity repair returned with the original browser assertion preserved. It is provisional until the original writer adopts it and the required remote proof passes. Account #5059 is already published for its protected review; three homepage shards passed and the last two are running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source binding, original-writer adoption of the narrow-screen repair, shared Account lifecycle integration and connected TEST acceptance remain open.",
   "current": "The campaign homepage has its required independent code approval and three of five test shards passed. The Account checkout-status panel is pushed as Draft #5059, with 18 behavior checks and three mutation checks passing. Its initial admission refuses only Draft; the existing workflow queue is above its cap. The original iPhone source-binding job is running.",
   "next": "Consume the remaining hosted checks and the existing review-queue disposition, then merge through the protected routes. The nine-file unpublished homepage installation is prepared. Continue the original Account lifecycle integration and size-guide proof in parallel.",
-  "updated": "28 October 20:32 UTC: #5059 is Draft and mergeable; its admission has no source refusal. Homepage #5047 remains unmerged with three test shards passing. Public 05c66cb matched all five served files at 20:24 UTC. No new Shopify installation or final-rating credit.",
+  "updated": "28 October 20:40 UTC: the mobile repair is clean and unpushed; #5059 hosted source gates pass and its mutation proof is queued. Homepage #5047 remains unmerged with three test shards passing. Public ec5d1ce matched all five served files at 20:35 UTC. No new Shopify installation or final-rating credit.",
   "links": [
     {
       "title": "Account checkout progress #5059",
@@ -334,7 +334,7 @@
       },
       {
         "complete": false,
-        "text": "Finish required hosted checks, then protected merge (started 19:36Z, revised est. 55 min). Three shards, mutation checks and guards pass; one shard runs and one remains queued. Runner capacity moved the estimate; code approval is satisfied."
+        "text": "Finish required hosted checks, then protected merge (started 19:36Z, revised est. 90 min). Three shards, mutation checks and guards pass; both remaining shards are running. Runner capacity moved the estimate; code approval is satisfied."
       },
       {
         "complete": false,
@@ -342,7 +342,7 @@
       },
       {
         "complete": false,
-        "text": "Resolve the newly exposed 188px product-label overflow (first observed 19:29Z; next check 20:20Z). The chair requires original-writer adoption of the running fallback result; assertions stay intact."
+        "text": "Resolve the newly exposed 188px product-label overflow (first observed 19:29Z; next action after original-writer recovery). The provisional repair returned at 20:36Z; original-writer adoption and Linux proof remain before publication. Assertions stay intact."
       },
       {
         "complete": true,
@@ -354,10 +354,10 @@
       },
       {
         "complete": false,
-        "text": "Complete the Account protected review (started 20:28Z; next check 20:40Z). Owner map registered; initial admission refuses only Draft, and the workflow queue is above its cap. No activation until original lifecycle, versioned imports and signed proxy configuration are integrated."
+        "text": "Complete the Account protected review (started 20:28Z; next check 20:50Z). Owner map registered; initial admission refuses only Draft, and the workflow queue is above its cap. No activation until original lifecycle, versioned imports and signed proxy configuration are integrated."
       }
     ],
-    "landing": "Lands: about 20:45Z for the next source-release preparation (about 20 min left; shared runner capacity can move hosted completion). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
+    "landing": "Lands: about 21:10Z for the next source-release decision (about 25 min left; hosted completion and the existing Ready queue may move it). Final draft timing remains unknown pending original ratings, native and TEST checks; the draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
