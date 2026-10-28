@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Three original group sessions resumed: homepage source qualification completed, Account test repair committed, and iPhone proof collection is active. The native worker has passed its final 145 mutation checks and is completing its self-review. Account remote proof started once at 21:44 UTC after remote capacity became free.",
+  "workerState": "The three resumed original group sessions completed their bounded source tasks: homepage qualification, Account repair, and iPhone source/proof handoff. Root is continuing their release steps. One size-guide test command is waiting in the normal remote queue; no duplicate worker or review was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "28 October 21:38 UTC: the merged homepage was installed into Shopify draft 166627606744. Nine exact payloads verified; active theme and unrelated draft files unchanged. The original Account owner committed its two-file test repair at 21:34 UTC.",
+  "lastActualProgress": "28 October 21:49 UTC: the Account repair was pushed and its exact head and PR body verified after five baseline tests, 47 behaviors and ten mutation checks passed. At 21:52 UTC the original iPhone-helper result was returned to Hands for protected publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source binding, original-writer adoption of the narrow-screen repair, shared Account lifecycle integration and connected TEST acceptance remain open. The shared Mac test slot is reserved for another original owner’s run.",
-  "current": "The campaign homepage passed its required code review and all hosted tests, merged, and is installed in the unpublished Shopify draft. All nine payloads passed exact readback. The original Account owner has repaired two hosted test failures; its focused remote proof is running. The original iPhone source-binding job is running.",
-  "next": "Verify the installed homepage through its original browser and iPhone acceptance route when the shared slot is released. Consume the Account repair’s remote proof, then continue its protected review. Complete the original size-guide and shared lifecycle integration work in parallel.",
-  "updated": "28 October 21:38 UTC: homepage #5047 merged as 5aa6baf3 and its unpublished installation passed full file readback. Account #5059 remains Draft; the repaired local source still needs remote proof. Native checks remain 0/7 and final 9.5 passes 0/3. No live publication.",
+  "remaining": "The original Fable connection returned a weekly-limit refusal; Argon awaits the existing Terms decision. Native source-binding release, original-writer adoption of the narrow-screen repair, shared Account lifecycle integration and connected TEST acceptance remain open. The next browser slot has been requested through the existing keeper.",
+  "current": "The campaign homepage is merged and installed in the unpublished Shopify draft, with all nine payloads verified. The Account repair passed its targeted remote tests and has been pushed once. Hosted checks are running. The original iPhone source-binding result is ready for protected publication through Hands.",
+  "next": "Consume the Account hosted checks and existing review-queue disposition. Complete the original size-guide remote proof, protected iPhone-helper release, and installed-homepage browser check when their shared slots open.",
+  "updated": "28 October 22:00 UTC: Account hosted mutation checks are running. Its admission and suite refusals are explicitly because it remains Draft, not new product failures. The homepage installation remains verified; native checks are 0/7 and final 9.5 passes 0/3. No live publication.",
   "links": [
     {
       "title": "Account checkout progress #5059",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The campaign homepage passed all hosted checks and merged as #5047. It is now installed in the unpublished Shopify draft; all nine files match the merged source.",
-    "The active theme is unchanged by this installation. Its previously requested pet removal remains complete.",
-    "The Account owner repaired both hosted test failures in two files. Five baseline tests and ten mutation checks started remotely after capacity became free; protected review remains open.",
-    "Three original group sessions resumed without replacement workers. The original iPhone binding worker passed its final 145 mutation checks and is completing its self-review.",
-    "Final ratings are unchanged. The original reviewer access, native journeys and connected TEST evidence remain required before draft completion."
+    "The campaign homepage is merged as #5047 and installed in the unpublished Shopify draft; all nine files match the merged source.",
+    "The active theme is unchanged by that installation. Its previously requested pet removal remains complete.",
+    "The Account repair passed five baseline tests, 47 behaviors and ten mutation checks. Its single repair push is verified; hosted review checks are running.",
+    "The original iPhone-helper result is qualified and handed to Hands for protected publication, with the earlier test failure and proof limits retained. It does not count as a phone pass.",
+    "Original group work resumed without replacement workers. The size-guide proof is in the shared remote queue; final ratings and connected TEST acceptance remain open."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The merged helper records observed rows as NOT EXERCISED until it can prove the draft assets loaded in that same native run. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; source-binding request retains27 October15:36:42 UTC.",
-      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding writer is running the follow-up on the remote worker; both final mutation batches have passed and its self-review is running. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
+      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. Hands owns its protected publication and missing required proof. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -293,8 +293,12 @@
         "text": "Complete the bounded genuine 200% homepage check (15:30Z–15:36Z, took6 min). Native browser zoom confirmed; header and simulated full-look add checked at600px effective width;100% restored. Native and remaining states stay separate."
       },
       {
+        "complete": true,
+        "text": "Consume the original source-binding result and release handoff (21:46Z–21:52Z, took 6 min). Three-file follow-up qualified; 145 final mutation checks and earlier failure retained. Hands owns protected publication; no native run yet."
+      },
+      {
         "complete": false,
-        "text": "Consume native source binding (first binding wait 27 Oct 15:36Z; next check 22:10Z). The original remote job started at 20:06Z; all 145 final mutation checks passed and its final self-review is running. The prepared native grant remains unused."
+        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 22:20Z). Original release handoff names the exact source and proof limitations; the prepared native grant remains unused."
       },
       {
         "complete": true,
@@ -342,7 +346,7 @@
       },
       {
         "complete": false,
-        "text": "Prepare the size-evidence adapter for review (started by 19:39Z, revised est. 45 min). Source and focused tests are committed; the original remote attempt ended without starting tests because the worker remained occupied. Existing keeper must admit one retry after release."
+        "text": "Prove the size-evidence adapter for review (one retry admitted 21:47Z; next check 22:20Z). The original command is waiting normally for the remote test slot; the earlier attempt ran no tests. No duplicate worker."
       },
       {
         "complete": false,
@@ -361,11 +365,15 @@
         "text": "Repair the Account hosted-test failures (21:29Z–21:35Z, took 6 min). Original builder preserved disabled output and the exact existing schema checks; two-file repair committed."
       },
       {
+        "complete": true,
+        "text": "Prove and submit the Account repair (21:44Z–21:50Z, took 6 min). Five baseline tests covering 47 behaviors and ten mutation checks passed remotely. One repair push and body readback verified."
+      },
+      {
         "complete": false,
-        "text": "Prove and submit the Account repair (started 21:44Z, est. 15 min; next check 22:00Z). Five baseline tests and ten mutation checks are running on the original remote worker. Protected review and default-OFF lifecycle integration remain separate."
+        "text": "Advance the Account repair through hosted review (started 21:50Z, est. 20 min; next check 22:10Z). Hosted mutation checks are running; the two Draft-only refusals are understood. Original review queue and default-OFF lifecycle integration remain separate."
       }
     ],
-    "landing": "Lands: about 22:10Z for the next source-proof decision (about 25 min left; remote proof and original binding result may move it). Homepage installation is complete. Final draft completion remains unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: about 22:20Z for the next protected-review and remote-proof decisions (about 15 min left; shared queues may move it). Homepage installation is complete. Final draft completion remains unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
