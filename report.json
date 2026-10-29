@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original native preparation agent is resumed. Bridge acknowledged the companion-coordinator delivery failure and placed it in the existing Monitor recovery work. Existing C03 proof and C06 queue remain untouched until their exact sources are reconciled. Completed homepage and Account build scopes remain completed.",
+  "workerState": "Both original Website support sessions resumed and completed their bounded next steps: Account boot preparation and native source preparation. The original shared lifecycle writer also completed its merge; Hands owns its queued proof. The separate unloaded companion coordinator remains with the existing Monitor for route recovery. No duplicate builders were started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October02:25:30 UTC: Account #5059 merged as7cf748f6. At02:29 UTC, all12source files were independently matched to the reviewed head and main. Original native source preparation resumed; no new device run or rating claimed.",
+  "lastActualProgress": "29 October02:41 UTC: the Account boot follow-up is committed with18 focused behaviors passing and the new mutation check proving the missing-handoff failure. At02:36 UTC, Hands started the original lifecycle proof queue after its writer merged main. Account #5059 remains merged; no new device run or rating claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The size-guide repair is committed, but its original remote attempt ended before any tests started. Delivery to its unloaded coordinator returns “thread not found”; the existing Monitor is recovering that same route. Browser access, original review-provider prerequisites and connected TEST acceptance remain separate gates.",
-  "current": "Account #5059 is merged, and all 12 changed files on main match the reviewed source. The original iPhone preparation session has resumed after its source helper passed every hosted test and mutation check. The homepage remains installed in the unpublished Shopify draft.",
-  "next": "Complete the original Account lifecycle connection, collect the size-guide repair’s qualified remote proof and push it once, then consume the iPhone helper’s protected review and merge into native preparation.",
-  "updated": "29 October02:31 UTC: Account merged; iPhone helper tests and mutation checks all green, awaiting the original review queue; size-guide repair committed with proof still owed. Native0/7, final9.5 passes0/3. No live publication.",
+  "remaining": "The size-guide repair is committed, but its original remote attempt ended before any tests started. Its prepared proof is with the existing Hands queue; the unloaded coordinator route is a separate recovery, not a reason to stop that proof. Browser access, original review-provider prerequisites and connected TEST acceptance remain separate gates.",
+  "current": "Account #5059 is merged. Its original builder has prepared the small boot connection and passed all18 focused behaviors plus a causal mutation check. The shared lifecycle writer has merged current main and entered the existing remote proof queue. The homepage remains installed in the unpublished draft.",
+  "next": "Collect the original lifecycle proof and protected merge, compose the Account boot change, and obtain the size-guide repair’s qualified proof for its one repair push. The iPhone helper is awaiting its original Ready and protected-review step.",
+  "updated": "29 October02:45 UTC: Account merged and boot follow-up prepared; native helper tests all green awaiting protected review; size-guide repair proof still owed. Native0/7, final9.5 passes0/3. No live publication.",
   "links": [
     {
       "title": "iPhone source binding #5063",
@@ -205,10 +205,10 @@
     }
   ],
   "recentChanges": [
-    "Account #5059 passed the remaining required checks and merged. All12changedfiles match the reviewed source on main; lifecycle integration and draft installation are still separate.",
-    "The iPhone helper’s five test shards and both mutation-check jobs passed. Its original owner retains the Ready and protected-review step; native preparation resumed without starting a device run.",
-    "Both size-guide findings are repaired locally. The remote proof attempt timed out waiting for a worker and ran zero tests; the original coordinator route is being recovered before its next proof action.",
-    "The reviewed campaign homepage remains installed in the unpublished draft. The scoped pet removal from the active storefront is complete."
+    "Account #5059 is merged and all12files match reviewed source on main. The next boot connection is committed;18 focused behaviors and its causal mutation check pass.",
+    "The original shared lifecycle writer merged current main and corrected its exact installer manifest. Its existing remote proof is queued; it has not been installed or enabled.",
+    "The iPhone support agent completed the nine-file source-binding preparation. The helper’s hosted tests are green; protected review and actual device checks remain.",
+    "Both named size-guide findings remain repaired. The zero-test worker timeout is distinguished from the separate integration job; its prepared proof is routed through the existing queue."
   ],
   "openDeliveryGates": [
     {
@@ -301,7 +301,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 29 Oct 03:10Z). All hosted tests and mutation checks pass; Hands retains the Ready/review queue. Original native preparation resumed; no device run."
+        "text": "Complete protected source-binding review and native preparation (waiting since 27 Oct 15:36Z; next check 29 Oct 03:00Z). All hosted tests and mutation checks pass; Hands retains the Ready/review queue. Original native preparation resumed; no device run."
       },
       {
         "complete": true,
@@ -389,6 +389,14 @@
       },
       {
         "complete": true,
+        "text": "Prepare the Account lifecycle boot follow-up (29 Oct 02:33Z–02:41Z, took 8 min). Original builder; three files,18 focused behaviors pass and the missing-handoff mutation fails correctly."
+      },
+      {
+        "complete": false,
+        "text": "Integrate the Account boot connection after shared lifecycle merge (waiting since 29 Oct 02:41Z; next check 03:10Z). Original lifecycle proof is queued; the same builder will reconcile its one affected manifest row and qualify the combined source."
+      },
+      {
+        "complete": true,
         "text": "Correct the size-guide manifest and submit the reviewed-source packet (22:38Z–22:53Z, took15min). All7affected checks passed; current main merged,260dependency files unchanged, one push and Ready readback for #5061. Final proof and publication added5min to the estimate."
       },
       {
@@ -397,14 +405,14 @@
       },
       {
         "complete": false,
-        "text": "Prove and submit both named size-guide repairs (started 28 Oct 23:23Z; next check 29 Oct 03:10Z). Repair committed. The original remote attempt ended at00:25Z before any tests started; original coordinator route recovery and exact-job reconciliation are underway."
+        "text": "Prove and submit both named size-guide repairs (started 28 Oct 23:23Z; next check 29 Oct 03:10Z). Repair committed. The original remote attempt ended at00:25Z before any tests started; the prepared exact-head proof is with the existing worker queue. Coordinator route recovery continues independently."
       },
       {
         "complete": false,
         "text": "Complete the installed homepage browser check (waiting since 28 Oct 21:51Z; next check 29 Oct 03:10Z). Last supported browser inventory returned a disabled integration capability. Original keeper recovery remains required."
       }
     ],
-    "landing": "Lands: next original release/proof result check about29 Oct03:10Z (39min left; original route recovery and shared runners may move it). Final draft completion remains unknown pending original ratings, native and TEST checks; no live publication."
+    "landing": "Lands: next original release/proof result check about29 Oct03:10Z (25min left; shared runners and protected review may move it). Final draft completion remains unknown pending original ratings, native and TEST checks; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
