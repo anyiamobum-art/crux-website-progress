@@ -143,7 +143,7 @@
   "remaining": "TEST reconnect previously failed because the application and callback URL hosts differ. The prepared shared-app correction awaits specific approval and supported browser access. The original test writer and iPhone coordinator also need their existing execution route restored.",
   "current": "The Account repair is reviewed and merged, and its exact eight-file update is prepared. A guarded TEST read stopped before any change because EON currently has no Shopify connection for that workspace.",
   "next": "Resolve the existing shared-app URL correction and complete the original TEST reconnect, then run fresh target validation before installing the eight default-OFF files. Continue the original test-diagnosis and iPhone handoffs in parallel.",
-  "updated": "29 October07:40 UTC: original group dispositions reconciled. Public commitd6021b3 matched all five served files at07:25:55 UTC. Account code merge166711b3 is complete; native0/7 and final9.5 passes0/3 remain unchanged.",
+  "updated": "29 October07:45 UTC: public commit43a82db matched all five served files. Original Account preparation is complete; the TEST connection refusal is verified with zero writes. Native0/7 and final9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -305,11 +305,11 @@
         "text": "Restore the original TEST connection (blocked since the 27 October reconnect refusal; next check08:15Z or approval). Fresh read07:33Z confirms no integration. The shared app needs its prepared two-URL correction and supported browser access; the original reconnect remains one obligation."
       },
       {
-        "complete": false,
-        "text": "Publish and verify the TEST prerequisite update (started 07:44Z, est. 5 min). Keep completed code work separate from unfinished acceptance."
+        "complete": true,
+        "text": "Publish and verify the TEST prerequisite update (07:44Z–07:45Z, took 1 min). All five public files match43a82db; source and acceptance remain separate."
       }
     ],
-    "landing": "Lands: public update about07:50Z (6 min planned; hosting propagation may move it). Final draft completion is unknown until original TEST, native and rating prerequisites clear. The theme stays unpublished."
+    "landing": "Lands: public update verified07:45Z. Next original-owner check08:15Z or an earlier returned result; final draft timing remains unknown while TEST approval/access, native custody and reader prerequisites remain. The theme stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
