@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5080 installation completed29October15:37UTC with10/10 hosted bodies verified. #5081 is Ready with first code approval; five full-test shards are running. The same iPhone writer has104 passing tests; its76-pin run completed47 entries,46 passed and one cancelled. It began proving missing entries individually at15:36UTC. Native acceptance remains0/7.",
+  "workerState": "The homepage installation is complete and the public report was verified at15:46UTC. Cart full run attempt2 is terminal; no root retry or source edit was made. The original iPhone writer is completing missing mutation checks after104 passing tests; native acceptance remains0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The browser access host returns denied even though the owner shows the switch enabled. Hands traced a possible stale helper/account identity and handed supported recovery to the original owner. No app URL write or TEST reconnect has occurred. The iPhone workflow still needs its missing-pin proof and shared-file handback.",
-  "current": "Homepage repair #5080 is merged and installed in the unpublished Shopify draft. All ten candidate file bodies are verified; only five assets changed, with the live theme and untouched draft files preserved. Cart repair #5081 has code approval and its full suite is running.",
-  "next": "Complete rendered checks of the installed homepage after browser recovery. Consume the cart suite and original iPhone missing-pin proofs. Apply/read back the two approved app URLs and reconnect TEST once on the supported route.",
-  "updated": "29October15:37UTC: the Shopify draft contains the exact reviewed homepage payload. The prior public snapshot6f3793f matched allfivehostedfiles15:30UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged because rendered/native/connected acceptance is still outstanding.",
+  "current": "Homepage repair #5080 is merged and installed in the unpublished Shopify draft, with all ten candidate bodies verified. Cart repair #5081 has code approval; its second full run ended with four passing shards and the known runner-timezone failure in one shard. Hands has corrected the runner setting; the original keeper is reconciling the next run.",
+  "next": "Complete rendered checks after supported browser recovery. Consume the original cart and iPhone proof results. Apply and verify the two approved app URLs, then reconnect TEST once.",
+  "updated": "29October15:46UTC: allfivepublictasksitefiles match published commitdb3faf6. Homepage10/10storedbodies remain verified from15:37UTC. Delivery6/11 and final whole-site9.5passes0/3 remain open until rendered/native/connected acceptance passes.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -208,7 +208,7 @@
     "Homepage repair #5080 passed all five full test shards, received independent code approval and merged. Its five changed assets are now installed in the unpublished theme; all ten candidate bodies were verified from Shopify.",
     "The active theme and every untouched draft file are unchanged. Browser checks and design ratings are still separate from successful installation.",
     "The two Shopify app URL corrections are approved. Hands traced the continuing browser denial to the app access host; stale helper identity after an account change is a hypothesis, with supported recovery coordinated through the original owner.",
-    "Cart timing repair #5081 is Ready and has its first independent code approval. Its actual full test run remains underway.",
+    "Cart timing repair #5081 has its first independent code approval. Four shards passed; the other failed on the existing test-runner timezone issue. Hands corrected the environment; the original keeper is reconciling the next step.",
     "The original iPhone writer is completing missing mutation proofs after a capped run. The incomplete result has not been counted as passing or as native acceptance."
   ],
   "openDeliveryGates": [
@@ -262,7 +262,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review for the cart timing repair (started 13:30Z, est. unknown while full tests run). #5081 became Ready14:03Z and received code approval14:07Z. Its five test shards are running; next terminal check16:00Z or result."
+        "text": "Complete protected review for the cart timing repair (started13:30Z; next check16:00Z). Code approved. Attempt2 ended with4passing shards and the known timezone failure in1shard. The original keeper holds the corrected-environment next step."
       },
       {
         "complete": false,
@@ -281,11 +281,11 @@
         "text": "Complete original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
-        "complete": false,
-        "text": "Verify the public task-site update (started15:40Z, est.5 min). Previous6f3793f matched allfivehostedfiles15:30Z; now publishing the verified draft installation and actual browser diagnosis."
+        "complete": true,
+        "text": "Verify the public task-site update (15:40Z–15:46Z, took6min). Commitdb3faf6 built and allfivehostedfiles matched. This source now records the changed cart result for the next update."
       }
     ],
-    "landing": "Lands: task-site update about15:45Z. Cart result check16:00Z; browser recovery check16:10Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
+    "landing": "Lands: cart result/disposition check16:00Z; browser recovery check16:10Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
