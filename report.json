@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The cart repair is complete. The original iPhone workflow writer now has 104 passing tests and all 80 mutation checks passing on revision 6a054376. Final self-review is running; protected release and native acceptance remain open. Native acceptance is still 0/7.",
+  "workerState": "The cart repair is complete. Revision 6a054376 passed 104 targeted tests and all 80 mutation checks. Final self-review found a delayed sign-in could be reported as refused while still pending. That correction now passes its named regression, and the same writer has started final seven-file proof. Native acceptance remains 0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30 October,01:17 Shanghai: all 80 mutation checks completed successfully in about 3 minutes 38 seconds, with no timeout or missing checks. The original writer started final self-review immediately afterward.",
+  "lastActualProgress": "30 October, 01:26 Shanghai: the original writer committed the sign-in reporting correction and started final tests across all seven affected files. Passing proof for the preceding revision is retained; it does not approve the new revision.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "The supported browser connection remains denied despite the enabled switch. Root has no local operation in flight; the original recovery keeper requires the human app-reopen boundary. No app URL write or TEST reconnect has occurred. Native workflow proof and shared-file handback remain outstanding.",
   "current": "Cart timing repair #5081 passed all five full-test shards and the required gate, then merged at16:15UTC. Homepage repair #5080 is already installed in the unpublished Shopify draft, with allten candidate bodies verified.",
-  "next": "Consume the original final self-review and protected release packet. After the operator reopens Codex and the original keeper verifies browser recovery, apply and verify the two approved app URLs, then reconnect TEST once.",
-  "updated": "30 October,01:19 Shanghai: direct remote proof artifacts confirm 104 passing tests and 80/80 mutation checks; the original process is alive, with no terminal report or shared-file handback yet. Public task commit 2013d2e was verified at 00:41 Shanghai. Delivery 6/11 and final whole-site 9.5 passes 0/3 remain open.",
+  "next": "Consume the original sign-in correction and its protected release packet. After the operator reopens Codex and the original keeper verifies browser recovery, apply and verify the two approved app URLs, then reconnect TEST once.",
+  "updated": "30 October, 01:28 Shanghai: original parent confirms the correction is in final testing. Public commit a8ee527 is built and all five hosted files match. No terminal repair packet or shared-file handback yet. Delivery 6/11 and final whole-site 9.5 passes 0/3 remain open.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -209,7 +209,7 @@
     "The active theme and every untouched draft file are unchanged. Browser checks and design ratings are still separate from successful installation.",
     "The two Shopify app URL corrections are approved. Hands traced the continuing browser denial to the app access host; stale helper identity after an account change is a hypothesis, with supported recovery coordinated through the original owner.",
     "Cart timing repair #5081 passed allfive full-test shards and the required gate, then merged at16:15UTC. The original failure is resolved; this test-only repair has no theme files to install.",
-    "The original iPhone workflow repair now passes all104 targeted tests and all 80 mutation checks on6a054376. The timed-out proof problem is repaired; final self-review and protected release are still outstanding. This is source proof, not native acceptance."
+    "Revision 6a054376 passed 104 targeted tests and all 80 mutation checks. Final self-review found one sign-in reporting defect; its correction passes the named regression and final testing is running. Source tests are separate from native acceptance."
   ],
   "openDeliveryGates": [
     {
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est.30min after protected merge and allocation). Same original writer has 104 passing tests and 80/80 mutation checks on 6a054376; final self-review is running. Next result check 30 October, 01:25 Shanghai. Native acceptance 0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est.30min after protected merge and allocation). The pending-sign-in correction passed its named regression; final seven-file testing started at 01:26 Shanghai. Next result check 30 October, 01:45 Shanghai. Native acceptance 0/7."
       },
       {
         "complete": false,
@@ -282,10 +282,10 @@
       },
       {
         "complete": true,
-        "text": "Verify the public task-site update (30 October, 00:38–00:41 Shanghai, took 3 min). Commit 2013d2e built and all five hosted files matched. This snapshot adds the latest original-writer test result."
+        "text": "Verify the public task-site update (30 October, 01:22–01:26 Shanghai, took 4 min). Commit a8ee527 built and all five hosted files matched. This snapshot records the named sign-in correction."
       }
     ],
-    "landing": "Lands: original final-review result check 30 October, 01:25 Shanghai. TEST execution follows supported browser recovery; final draft timing remains unknown. No live publication."
+    "landing": "Lands: original corrected-head result check 30 October, 01:45 Shanghai. TEST execution follows supported browser recovery; final draft timing remains unknown. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
