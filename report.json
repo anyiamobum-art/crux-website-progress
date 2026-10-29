@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original homepage reviewer is executing in the same session. The original iPhone workflow writer is finishing missing test coverage. The original small-screen repair adoption has been returned to its existing keeper; no replacement writer or extra review round was started.",
+  "workerState": "The homepage review is complete; the original builder has been resumed for its named repairs. The original iPhone workflow owner continues its remaining protected integration and test coverage. No replacement reviewer or extra review round was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October12:25 UTC: the original homepage review resumed after its recorded reset and read all22 supplied images. At12:26 UTC the TEST owner confirmed the browser capability failure with zero writes. The original iPhone writer continued its unfinished coverage checks.",
+  "lastActualProgress": "29 October12:43 UTC: the original homepage reviewer returned its verdict after reading all22 supplied images. The original builder received F01–F08 at12:48 UTC. The corrected TEST installer is staged and syntax-checked; it has made no Shopify call.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Approval is cleared. Browser control currently returns “Local browser use is disabled in Work settings” to both owners; no app setting or reconnect changed. Native workflow coverage and the existing test failures remain with their original builders.",
-  "current": "Your two-URL Shopify app correction is approved. The original TEST owner is ready to apply it, but both supported browser probes still fail before any write. The original homepage review has resumed and is reading the source and images.",
-  "next": "Consume the original review result; restore the supported browser connection, apply only the two approved URLs and reconnect TEST. Then validate the exact TEST target before installing its eight default-OFF files.",
-  "updated": "29 October12:36Z: Shopify approval recorded and acknowledged by the original TEST owner; actual review execution verified. Public source2d87b9d previously matched all five served files at07:52 UTC. Native0/7 and final9.5 passes0/3 remain open.",
+  "current": "The original homepage review returned 7.0/10 for the observed design, below 9.5. Its named repairs have been delivered to the original builder. Your two-URL Shopify app correction is approved; the browser connection still prevents applying it.",
+  "next": "Repair the named homepage issues, then capture the changed source for the original reviewer. In parallel, restore the supported browser connection, apply only the approved URLs and reconnect TEST before the eight-file installation.",
+  "updated": "29 October12:53 UTC: homepage design7.0/minimum6.5, below the target. Five of ten feel measures lack qualifying evidence, so no full feel average is claimed. The public report previously matched all five served files at12:38 UTC. Native0/7 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The owner approved the prepared app URL and callback correction. The approval wait is closed; other app settings are unchanged.",
-    "Both original owners reproduced the browser integration error before any Shopify edit or reconnect. Recovery remains with the existing browser keeper.",
-    "The original homepage review resumed after its reset, with the same source, session and review round. All22 supplied images have been read; no score is claimed yet.",
-    "The original iPhone workflow writer continued missing test coverage. The small-screen repair remains with its original adopter; no new writer was substituted.",
-    "The merged Account update is still prepared as eight files with features off. A fresh TEST connection and guarded target check precede installation."
+    "The owner’s app URL and callback approval is recorded. Browser recovery is the remaining prerequisite before those two settings and TEST reconnect can change.",
+    "The original homepage review is complete: observed design7.0/10, minimum6.5. This is a separate homepage round-one result, not a replacement for the three final whole-site ratings.",
+    "The original builder received eight scoped repairs: photo hover and sizing, consistent controls, colour wording, visible bag link, honest store-hours wording, desktop hero fit and campaign-tag placement.",
+    "Five feel measures remain unqualified pending current-source response, stability, timing, loading and native evidence. Unknowns have not been converted into scores.",
+    "The eight-file Account update remains prepared with features off. Its corrected installer is staged, but no Shopify call or installation has run."
   ],
   "openDeliveryGates": [
     {
@@ -242,34 +242,38 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; original TEST owner confirmed browser access still fails before any write."
+        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; original TEST owner confirmed browser access fails before any write."
+      },
+      {
+        "complete": true,
+        "text": "Complete the original homepage review (12:25Z–12:43Z, took 18 min). Design7.0/10; named repairs returned to the original builder."
       },
       {
         "complete": false,
-        "text": "Complete the original homepage review (started 12:25Z, est. 20 min). Source and images are being read in the original session; result pending."
+        "text": "Repair the named homepage findings (started12:48Z, est.45 min). Original owner reconciles source, makes the scoped follow-up and runs required proof."
       },
       {
         "complete": false,
-        "text": "Restore TEST connection (waiting since 27 October22:21Z; approval cleared12:23Z). Original browser keeper must restore the supported route; next check12:50Z or recovery."
+        "text": "Restore TEST connection (waiting since27 October22:21Z; approval cleared12:23Z). Original browser keeper must restore the supported route; next check13:15Z or recovery."
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). Original integration is running; native acceptance remains0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Original integration continues; native acceptance remains0/7."
       },
       {
         "complete": false,
-        "text": "Install and verify the eight-file TEST change (est. 25 min after connection). Fresh guarded target validation is required; features remain off."
+        "text": "Install and verify the eight-file TEST change (est.25 min after connection). Corrected installer is staged; fresh guarded target validation remains required and features stay off."
       },
       {
         "complete": false,
-        "text": "Complete the original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain0/3."
+        "text": "Complete original final named-fix reviews and draft handover (est.unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
         "complete": false,
-        "text": "Publish and verify the updated task site (started 12:36Z, est. 5 min)."
+        "text": "Publish and verify the updated task site (started12:54Z, est.5 min)."
       }
     ],
-    "landing": "Lands: next review or recovery result about12:50Z; the public update takes about5 min. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
+    "landing": "Lands: next homepage repair result about13:33Z; public update about12:59Z. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
