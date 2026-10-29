@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5080 has its first independent code approval; one full-test shard passed and four are active or queued. #5081 is Draft in the original review queue. The original iPhone workflow passed102 source tests,68 mutation checks and46 combined tests; a subsequently identified origin-guard test gap is being corrected by that same writer. Native acceptance remains0/7.",
+  "workerState": "#5080 is merged as5474fc99; the original builder is verifying exact installation payloads. #5081 is Ready with its first code approval; five full-test shards are running. The original iPhone workflow passed102 source tests,68 mutation checks and46 combined cases before self-review identified an origin-guard test gap. Native acceptance remains0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October14:04 UTC: consumed the original iPhone self-review finding and ongoing same-writer correction. Homepage #5080’s first approval and running full suite are verified. Hands restored the CI runners; no duplicate retry was started.",
+  "lastActualProgress": "29 October15:27 UTC: verified #5080 merge and full passing checks, consumed #5081’s first approval and active full suite, and resumed the original iPhone parent after the interrupted deadline. No duplicate push, review or retry.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The supported browser still returns zero browsers and “Local browser use is disabled in Work settings.” The approved TEST URL correction therefore has not been applied. CI workers have been restored. The original iPhone workflow writer is correcting a causal-test gap found in self-review before handing back shared files.",
-  "current": "Homepage repair #5080 is Ready and has its first independent code approval. Its full hosted suite is running. Cart repair #5081 remains in the original review queue. TEST reconnect is approved; the browser connection still fails before any write.",
-  "next": "Consume the remaining protected checks and original iPhone workflow result. On supported browser recovery, save and read back the two approved app URLs, reconnect TEST once, and continue draft-only checks.",
-  "updated": "29 October14:06 UTC: #5080 is Ready and mergeable but required full tests are unfinished. The task site’s five hosted files matched source3338a48 at14:00 UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged.",
+  "remaining": "The supported browser still returns zero browsers and “Local browser use is disabled in Work settings.” The approved TEST URL correction has not been applied. The original iPhone writer is correcting a causal-test gap before handing back shared files. Mac sleep interrupted observation; work was reconciled after wake.",
+  "current": "Homepage repair #5080 passed all five test shards and merged at14:25 UTC. Its exact changes are being prepared for installation into the unpublished draft. Cart repair #5081 has code approval and its full suite is running. TEST reconnect remains approved; the browser connection still fails before any write.",
+  "next": "Install and byte-verify the merged homepage repairs on the unpublished draft after fresh target checks. Consume the cart test result and original iPhone workflow correction. On supported browser recovery, save/read back the two approved app URLs and reconnect TEST once.",
+  "updated": "29 October15:24 UTC: all five hosted task-site files match source5f9f711. GitHub confirms #5080 merged14:25:38 UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged; a code merge is separate from installed and rendered acceptance.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -242,7 +242,7 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; browser access fails before any write."
+        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). The two app URL changes and TEST reconnect are approved."
       },
       {
         "complete": true,
@@ -250,19 +250,27 @@
       },
       {
         "complete": true,
-        "text": "Prove the eight named homepage repairs in source (12:48Z–13:27Z, took 39 min). Exact source passes 31/31 targeted cases and 16/16 mutation checks; self-review is recorded."
+        "text": "Prove the eight named homepage repairs in source (12:48Z–13:27Z, took 39 min). All31 targeted cases and16 mutation checks passed."
+      },
+      {
+        "complete": true,
+        "text": "Review and merge the homepage repair (13:28Z–14:25Z, took 57 min). #5080 has independent code approval, five passing full-test shards and verified merge5474fc99."
       },
       {
         "complete": false,
-        "text": "Complete protected review and rendered checks for the homepage repair (started 13:28Z, est. unknown while browser recovery is pending). PR #5080 is Ready at70c5d858 and its first independent code review approved without findings at13:49Z. The fresh pin check passed; the full hosted suite is active. Rendered checks and the independent design rating remain open."
+        "text": "Install and verify the homepage repair in the unpublished draft (started 15:25Z, est. 20 min). Original builder is checking merged payloads against the existing installer; root owns the guarded installation. Rendered review requires browser recovery."
       },
       {
         "complete": false,
-        "text": "Restore TEST connection (waiting since 27 October 22:21Z; approval cleared 12:23Z). Original browser keeper must restore the supported route; next check 14:40Z or recovery. Then apply/read back only the approved two URLs and reconnect once."
+        "text": "Complete protected review for the cart timing repair (started 13:30Z, est. unknown while full tests run). #5081 became Ready14:03Z and received code approval14:07Z. Its five test shards are running; next terminal check16:00Z or result."
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). The test-runner repair is pushed and size-admitted, awaiting its existing CI admission. The Safari-opening repair is Ready. The original authentication-hook writer passed102 source tests and68 mutation checks; its self-review found a causal-test gap, now being corrected by the same writer. Shared-file handback is pending. Native acceptance remains 0/7."
+        "text": "Restore TEST connection (waiting since 27 October22:21Z; approval cleared12:23Z). Fresh15:25Z supported browser inventory still fails. Original Hands diagnosis is queued; next check16:10Z or recovery. Apply/read back only the approved two URLs, then reconnect once."
+      },
+      {
+        "complete": false,
+        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). Same writer is correcting the origin-guard test gap. Parent resumed after Mac sleep; shared-file handback is pending. Native acceptance0/7."
       },
       {
         "complete": false,
@@ -270,14 +278,14 @@
       },
       {
         "complete": false,
-        "text": "Complete original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain 0/3."
+        "text": "Complete original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
         "complete": true,
-        "text": "Publish and verify the task site (13:59Z–14:00Z, took 1 min). Five hosted files matched source3338a48; updating the changed workflow and runner recovery next."
+        "text": "Verify the public task-site build (14:08Z–15:24Z, took 76 min including Mac sleep). Five hosted files match5f9f711. The merged homepage update is being published next."
       }
     ],
-    "landing": "Lands: original workflow result about14:30Z; protected suite check14:35Z; supported browser recovery check14:40Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
+    "landing": "Lands: installation preparation about15:37Z and guarded installation about15:45Z if preflight passes. Cart result check16:00Z; browser recovery check16:10Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
