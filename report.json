@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original native acceptance agent and original size-guide repair agent are resumed. The Account boot builder has resumed after the shared lifecycle merge. Completed homepage preparation and settings work remain complete; no duplicate builders were started.",
+  "workerState": "Original acceptance agent running; original size-guide repair proof consumed and root push completed; Account integration preparation completed and root remote proof queued. Completed homepage preparation and settings work remain complete; no duplicate builders were started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October05:36 UTC: the companion coordinator acknowledged its original repair continuation; the iPhone agent resumed after the verified04:01 merge. All five shared-lifecycle hosted shards and the test gate passed by05:32 UTC.",
+  "lastActualProgress": "29 October05:42 UTC: size-guide repair push and Ready verified; Account integration remote proof submitted through the normal shared-worker queue. Shared lifecycle merged05:35 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Browser control still returns an integration-disabled error despite the enabled settings shown by the owner. Original rating-provider prerequisites and connected TEST acceptance remain separate. These do not stop the active source and repair work.",
-  "current": "The iPhone helper #5063 and account lifecycle #5071 have merged. The original iPhone agent is qualifying the installed source; the original Account boot agent has resumed integration. The original size-guide repair agent is continuing its affected proof.",
-  "next": "Consume the size-guide proof for its one repair push, finish the Account boot integration and qualify its combined tests, then advance the original device checks against the installed draft.",
-  "updated": "29 October05:37 UTC: iPhone helper and account lifecycle merged; original size-guide proof continuation acknowledged. Native0/7, final9.5 passes0/3. No live publication.",
+  "current": "The size-guide repair passed both causal probes and all nine affected cases, was pushed once and returned to its existing review path. The account lifecycle is merged; its Account boot integration is committed and queued for combined remote proof. The original iPhone agent is qualifying the installed source.",
+  "next": "Consume the Account boot proof for publication, follow the size-guide review through merge, then advance the original device checks against the installed draft.",
+  "updated": "29 October05:44 UTC: helper and account lifecycle merges verified; size-guide exact repair is in review; public report999464f built and five hosted files matched at05:41:36 UTC. Native0/7, final9.5 passes0/3. No live publication.",
   "links": [
     {
       "title": "iPhone source binding #5063",
@@ -241,38 +241,42 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile the interrupted group and current releases (05:30Z–05:37Z, took 7 min). The iPhone helper is merged; the companion coordinator is reachable and has resumed its original repair agent."
+        "text": "Reconcile the interrupted group and current releases (05:30Z–05:37Z, took 7 min). The iPhone helper and account lifecycle have merged; original owners resumed."
       },
       {
         "complete": false,
         "text": "Qualify the merged helper against the installed draft (started 05:34Z, est. 15 min). Original acceptance agent running; device allocation follows verified inputs."
       },
       {
+        "complete": true,
+        "text": "Prove and submit the two named size-guide repairs (05:36Z–05:42Z, took 6 min). Both causal failures and all nine affected cases passed; one repair push is verified."
+      },
+      {
         "complete": false,
-        "text": "Prove and submit the two named size-guide repairs (resumed 05:36Z, est. 20 min plus worker queue). Same original repair agent; one push only after the affected proof passes."
+        "text": "Complete size-guide review and merge (started 05:42Z, est. 30 min plus shared queue). Existing second review and hosted checks are running or queued."
       },
       {
         "complete": true,
-        "text": "Complete shared account-lifecycle review and merge (05:32Z–05:35Z, took 3 min). Required review and hosted checks passed; #5071 merged as b4c50188."
+        "text": "Complete shared account-lifecycle review and merge (05:32Z–05:35Z, took 3 min). Required reviews and hosted checks passed; merge verified."
       },
       {
         "complete": false,
-        "text": "Compose and review the prepared Account boot connection (started 05:37Z, est. 25 min plus review). Original builder resumed on the actual lifecycle merge; one affected manifest row and combined proof."
+        "text": "Prove and review the Account boot connection (started 05:37Z, est. 25 min plus review). Integration is committed; combined remote proof queued at 05:42Z for shared capacity."
       },
       {
         "complete": false,
-        "text": "Finish the installed browser, native and connected TEST checks (est. unknown). Supported browser access, a dated device allocation and authenticated TEST evidence remain prerequisites."
+        "text": "Finish the installed browser, native and connected TEST checks (est. unknown). Supported browser access, dated device allocation and authenticated TEST evidence remain prerequisites."
       },
       {
         "complete": false,
         "text": "Complete the original final design checks and draft handover (est. unknown). Same readers and review history; actual scores remain below the required bar."
       },
       {
-        "complete": false,
-        "text": "Publish and verify the updated task report (started 05:37Z, est. 5 min)."
+        "complete": true,
+        "text": "Publish and verify the resumed task report (05:37Z–05:41Z, took 4 min). Five served files matched the published source; refresh this same report after changed evidence."
       }
     ],
-    "landing": "Lands: next repair/proof result check about 05:55Z (18 min left; shared workers and protected review may move it). Final draft completion time remains unknown pending acceptance and original ratings. The theme stays unpublished."
+    "landing": "Lands: next source/proof result check about 05:55Z (about 10 min left; shared workers and protected review may move it). Final draft completion time remains unknown pending acceptance and original ratings. The theme stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
