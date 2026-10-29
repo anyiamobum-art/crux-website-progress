@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Homepage #5080 and cart #5081 are published Drafts; full hosted suites and protected reviews have not run. The cart writer finished at13:30 UTC. The original iPhone authentication-hook process remains present, but its terminal result and shared workflow handback are still owed.",
+  "workerState": "#5080 is Ready with a first code approval at13:49 UTC on70c5d858; rendered design remains unchecked. #5081 is Draft in the original capacity queue. The iPhone authentication-hook writer passed68 checks and is completing the final combined-source checks; no native run has been credited.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October13:51 UTC: consumed the completed cart diagnosis and verified existing PR #5081 at272dc741. Its two-line fix waits for the actual recovery marker to clear and keeps all assertions. Seven targeted Python cases and29 Node cases pass; controlled delayed-digest and deliberate-fault checks support the diagnosis.",
+  "lastActualProgress": "29 October13:57 UTC: verified #5080’s actual first approval with no findings and its keeper Ready transition. Original iPhone workflow checks progressed at13:55 UTC. The cart repair remains published once as #5081.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Browser inventory still returns “Local browser use is disabled in Work settings” despite the enabled settings shown by the owner. Separately, Hands traced lost CI jobs to a worker running out of memory; its original recovery and Ready queue are with the chair.",
-  "current": "The homepage repair is in #5080 and the reproduced cart timing repair is in #5081. Both retain their original writers and await the existing protected-review queue. TEST reconnect is approved and awaits supported browser recovery.",
-  "next": "Consume the original CI admission and iPhone authentication-hook result. At the supported browser recovery, save and read back the two approved URLs, reconnect TEST once, and continue draft-only checks.",
-  "updated": "29 October13:51 UTC: #5081 source and Draft-only check refusals verified. Five hosted report files matched source d9cd239 at13:40 UTC. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain unchanged.",
+  "current": "Homepage repair #5080 is Ready and has its first independent code approval. Its full hosted suite is running. Cart repair #5081 remains in the original review queue. TEST reconnect is approved; the browser connection still fails before any write.",
+  "next": "Consume the remaining protected checks and original iPhone workflow result. On supported browser recovery, save and read back the two approved app URLs, reconnect TEST once, and continue draft-only checks.",
+  "updated": "29 October13:59 UTC: fresh browser inventory again returned zero browsers and the Work-settings error. #5080 code approval and Ready state are verified; required hosted tests remain active. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -254,7 +254,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review and rendered checks for the homepage repair (started 13:28Z, est. unknown while browser recovery is pending). Follow-up PR #5080 is published at 70c5d858. Its hosted pin check is running; the existing chair queue owns Ready, which starts the full suite and protected review. No rendered or independent design pass is inferred."
+        "text": "Complete protected review and rendered checks for the homepage repair (started 13:28Z, est. unknown while browser recovery is pending). PR #5080 is Ready at70c5d858 and its first independent code review approved without findings at13:49Z. The fresh pin check passed; the full hosted suite is active. Rendered checks and the independent design rating remain open."
       },
       {
         "complete": false,
