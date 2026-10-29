@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The homepage review is complete; the original builder has been resumed for its named repairs. The original iPhone workflow owner continues its remaining protected integration and test coverage. No replacement reviewer or extra review round was started.",
+  "workerState": "The original homepage builder has created the isolated repair branch and begun its source/ownership checks. The shared iPhone workflow repair has completed proof; its saved bundle awaits the original keeper’s publication route. No replacement reviewer or extra review round was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October12:43 UTC: the original homepage reviewer returned its verdict after reading all22 supplied images. The original builder received F01–F08 at12:48 UTC. The corrected TEST installer is staged and syntax-checked; it has made no Shopify call.",
+  "lastActualProgress": "29 October12:58 UTC: the original homepage builder acknowledged the named repair and its new branch. The corrected TEST installer is staged and syntax-checked; it has made no Shopify call.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Approval is cleared. Browser control currently returns “Local browser use is disabled in Work settings” to both owners; no app setting or reconnect changed. Native workflow coverage and the existing test failures remain with their original builders.",
   "current": "The original homepage review returned 7.0/10 for the observed design, below 9.5. Its named repairs have been delivered to the original builder. Your two-URL Shopify app correction is approved; the browser connection still prevents applying it.",
   "next": "Repair the named homepage issues, then capture the changed source for the original reviewer. In parallel, restore the supported browser connection, apply only the approved URLs and reconnect TEST before the eight-file installation.",
-  "updated": "29 October12:53 UTC: homepage design7.0/minimum6.5, below the target. Five of ten feel measures lack qualifying evidence, so no full feel average is claimed. The public report previously matched all five served files at12:38 UTC. Native0/7 and final whole-site9.5 passes0/3 remain open.",
+  "updated": "29 October12:54 UTC: all five public report files matched the published source. Homepage design7.0/minimum6.5 remains below target; five of ten feel measures lack qualifying evidence. Native0/7 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -250,7 +250,7 @@
       },
       {
         "complete": false,
-        "text": "Repair the named homepage findings (started12:48Z, est.45 min). Original owner reconciles source, makes the scoped follow-up and runs required proof."
+        "text": "Repair the named homepage findings (started12:48Z, est.45 min). Original owner created the isolated repair branch and began source ownership checks; scoped changes and remote proof follow."
       },
       {
         "complete": false,
@@ -258,7 +258,7 @@
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Original integration continues; native acceptance remains0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Original workflow proof is complete; its unchanged bundle needs the existing keeper’s publication route. Native acceptance remains0/7."
       },
       {
         "complete": false,
@@ -269,11 +269,11 @@
         "text": "Complete original final named-fix reviews and draft handover (est.unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
-        "complete": false,
-        "text": "Publish and verify the updated task site (started12:54Z, est.5 min)."
+        "complete": true,
+        "text": "Publish and verify the task site (12:52Z–12:54Z, took2 min). Five hosted files matched the published source."
       }
     ],
-    "landing": "Lands: next homepage repair result about13:33Z; public update about12:59Z. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
+    "landing": "Lands: homepage source checkpoint about13:25Z, proof estimate13:33Z subject to remote capacity. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
