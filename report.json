@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5080 is Ready with a first code approval at13:49 UTC on70c5d858; rendered design remains unchecked. #5081 is Draft in the original capacity queue. The iPhone authentication-hook writer passed68 checks and is completing the final combined-source checks; no native run has been credited.",
+  "workerState": "#5080 has its first independent code approval; one full-test shard passed and four are active or queued. #5081 is Draft in the original review queue. The original iPhone workflow passed102 source tests,68 mutation checks and46 combined tests; a subsequently identified origin-guard test gap is being corrected by that same writer. Native acceptance remains0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October13:57 UTC: verified #5080’s actual first approval with no findings and its keeper Ready transition. Original iPhone workflow checks progressed at13:55 UTC. The cart repair remains published once as #5081.",
+  "lastActualProgress": "29 October14:04 UTC: consumed the original iPhone self-review finding and ongoing same-writer correction. Homepage #5080’s first approval and running full suite are verified. Hands restored the CI runners; no duplicate retry was started.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Browser inventory still returns “Local browser use is disabled in Work settings” despite the enabled settings shown by the owner. Separately, Hands traced lost CI jobs to a worker running out of memory; its original recovery and Ready queue are with the chair.",
+  "remaining": "The supported browser still returns zero browsers and “Local browser use is disabled in Work settings.” The approved TEST URL correction therefore has not been applied. CI workers have been restored. The original iPhone workflow writer is correcting a causal-test gap found in self-review before handing back shared files.",
   "current": "Homepage repair #5080 is Ready and has its first independent code approval. Its full hosted suite is running. Cart repair #5081 remains in the original review queue. TEST reconnect is approved; the browser connection still fails before any write.",
   "next": "Consume the remaining protected checks and original iPhone workflow result. On supported browser recovery, save and read back the two approved app URLs, reconnect TEST once, and continue draft-only checks.",
-  "updated": "29 October13:59 UTC: fresh browser inventory again returned zero browsers and the Work-settings error. #5080 code approval and Ready state are verified; required hosted tests remain active. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain unchanged.",
+  "updated": "29 October14:06 UTC: #5080 is Ready and mergeable but required full tests are unfinished. The task site’s five hosted files matched source3338a48 at14:00 UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -258,11 +258,11 @@
       },
       {
         "complete": false,
-        "text": "Restore TEST connection (waiting since 27 October 22:21Z; approval cleared 12:23Z). Original browser keeper must restore the supported route; next check 14:00Z or recovery. Then apply/read back only the approved two URLs and reconnect once."
+        "text": "Restore TEST connection (waiting since 27 October 22:21Z; approval cleared 12:23Z). Original browser keeper must restore the supported route; next check 14:40Z or recovery. Then apply/read back only the approved two URLs and reconnect once."
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). The test-runner repair is pushed and size-admitted, awaiting its existing CI admission. The Safari-opening repair is Ready. The original authentication-hook job is running before shared workflow handback. Native acceptance remains 0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). The test-runner repair is pushed and size-admitted, awaiting its existing CI admission. The Safari-opening repair is Ready. The original authentication-hook writer passed102 source tests and68 mutation checks; its self-review found a causal-test gap, now being corrected by the same writer. Shared-file handback is pending. Native acceptance remains 0/7."
       },
       {
         "complete": false,
@@ -274,10 +274,10 @@
       },
       {
         "complete": true,
-        "text": "Publish and verify the task site (13:13Z–13:16Z, took 3 min). Five hosted files matched the current published source."
+        "text": "Publish and verify the task site (13:59Z–14:00Z, took 1 min). Five hosted files matched source3338a48; updating the changed workflow and runner recovery next."
       }
     ],
-    "landing": "Lands: next original-result checkpoint about 13:45Z, subject to the shared workflow handback and protected review queue. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
+    "landing": "Lands: original workflow result about14:30Z; protected suite check14:35Z; supported browser recovery check14:40Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -291,7 +291,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: scoped Shopify optimization completed22:56 UTC; both approved settings were saved and reload-verified. No further settings action is pending in this two-step track.",
+    "landing": "Lands: original workflow result about14:30Z; protected suite check14:35Z; supported browser recovery check14:40Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
