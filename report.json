@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original homepage builder is preparing the missing-style follow-up. Checkout binding evidence has been delivered to the original acceptance owner. Native repair head664e3d6 passed clean tests but both mutation parts ended incomplete with two cancellations each; its original writer retains the proof.",
+  "workerState": "Original homepage builder active on the three scoped repairs; source/proof estimate22:30UTC. Chrome driving ended22:06UTC and passed to the original customer-care owner for TEST login enrollment. Native repair proof remains with its original writer.",
   "journey": [
     {
       "stage": "Build",
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The draft lacks retained section styles used by the local preview. Checkout acceptance has three concrete helper/binding gaps and still needs admitted TEST shopper identities and signed paths. Native repair mutation proof is incomplete.",
-  "current": "TEST reconnect and its eight-file installation are complete. Hosted homepage checks found missing retained layout styles in New Arrivals and Stores. The original homepage builder has traced the stylesheet difference and is preparing a scoped repair.",
+  "current": "TEST is reconnected and its eight-file installation is verified. The original homepage builder is repairing missing New Arrivals/Stores styles, paused slideshow playback and a shopping button that measures32px instead of44px.",
   "next": "Repair the missing retained section styles through the original builder, review and verify the installed result. Complete the private checkout binding and original iPhone proof, then the three final named-fix ratings.",
-  "updated": "29 October, 21:59UTC: named render results and unadmitted caller evidence saved. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain open.",
+  "updated": "29 October,22:08UTC: TEST reconnect, installed bytes and render findings remain recorded; browser handback acknowledged. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "iPhone sign-in hook #5083",
@@ -278,7 +278,11 @@
       },
       {
         "complete": false,
-        "text": "Complete installed homepage checks and private caller binding (started21:43Z, est.35min). Look06/12, runway and first-screen hero checks are saved. Missing retained New Arrivals/Stores styles found; original builder preparing a scoped follow-up. Caller source census is complete but unadmitted, with three helper gaps returned to its original acceptance owner."
+        "text": "Repair the three installed homepage findings (started22:04Z, est.26min for source/proof). Original builder restores scoped New Arrivals/Stores styles, completes paused slideshow transitions and makes the hero shopping target44px. Independent review, merge and draft installation follow the source packet."
+      },
+      {
+        "complete": false,
+        "text": "Complete installed homepage checks and private caller binding (started21:43Z, est.unknown after the repairs). Look06/12, runway and first-screen hero checks are saved. Original acceptance owner holds three caller-helper gaps and TEST login enrollment. Browser custody ended22:06Z and passed to CS; no duplicate browser run."
       },
       {
         "complete": false,
@@ -293,7 +297,7 @@
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: bounded render checks and caller-binding preparation about22:18Z; browser and source evidence may move this. Final draft timing remains unknown until native proof and original named-fix reviews pass; no live publication."
+    "landing": "Lands: homepage source/proof packet about22:30Z (23min left at22:07Z; the exact-library regression or remote tests may move it). Native proof disposition is due22:15Z. Final draft timing remains unknown until protected review, native and connected proof, and original ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
