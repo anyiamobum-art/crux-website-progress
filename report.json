@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5080 is merged as5474fc99; the original builder is verifying exact installation payloads. #5081 is Ready with its first code approval; five full-test shards are running. The original iPhone workflow passed102 source tests,68 mutation checks and46 combined cases before self-review identified an origin-guard test gap. Native acceptance remains0/7.",
+  "workerState": "#5080 installation completed29October15:37UTC with10/10 hosted bodies verified. #5081 is Ready with first code approval; five full-test shards are running. The same iPhone writer has104 passing tests; its76-pin run completed47 entries,46 passed and one cancelled. It began proving missing entries individually at15:36UTC. Native acceptance remains0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October15:27 UTC: verified #5080 merge and full passing checks, consumed #5081’s first approval and active full suite, and resumed the original iPhone parent after the interrupted deadline. No duplicate push, review or retry.",
+  "lastActualProgress": "29October15:37UTC: completed the guarded unpublished installation of merged5474fc99. Fresh target identity, full before/after file maps and exact stored bodies passed. No live publication.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The supported browser still returns zero browsers and “Local browser use is disabled in Work settings.” The approved TEST URL correction has not been applied. The original iPhone writer is correcting a causal-test gap before handing back shared files. Mac sleep interrupted observation; work was reconciled after wake.",
-  "current": "Homepage repair #5080 passed all five test shards and merged at14:25 UTC. Its exact changes are being prepared for installation into the unpublished draft. Cart repair #5081 has code approval and its full suite is running. TEST reconnect remains approved; the browser connection still fails before any write.",
-  "next": "Install and byte-verify the merged homepage repairs on the unpublished draft after fresh target checks. Consume the cart test result and original iPhone workflow correction. On supported browser recovery, save/read back the two approved app URLs and reconnect TEST once.",
-  "updated": "29 October15:24 UTC: all five hosted task-site files match source5f9f711. GitHub confirms #5080 merged14:25:38 UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged; a code merge is separate from installed and rendered acceptance.",
+  "remaining": "The browser access host returns denied even though the owner shows the switch enabled. Hands traced a possible stale helper/account identity and handed supported recovery to the original owner. No app URL write or TEST reconnect has occurred. The iPhone workflow still needs its missing-pin proof and shared-file handback.",
+  "current": "Homepage repair #5080 is merged and installed in the unpublished Shopify draft. All ten candidate file bodies are verified; only five assets changed, with the live theme and untouched draft files preserved. Cart repair #5081 has code approval and its full suite is running.",
+  "next": "Complete rendered checks of the installed homepage after browser recovery. Consume the cart suite and original iPhone missing-pin proofs. Apply/read back the two approved app URLs and reconnect TEST once on the supported route.",
+  "updated": "29October15:37UTC: the Shopify draft contains the exact reviewed homepage payload. The prior public snapshot6f3793f matched allfivehostedfiles15:30UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain unchanged because rendered/native/connected acceptance is still outstanding.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The owner-approved Shopify application URL and callback correction remains ready to execute. The fresh browser capability probe still fails before any settings write.",
-    "The original test-runner repair has been pushed unchanged after its remote proof; its original review and required checks continue.",
-    "The Safari-opening repair is Ready. The same workflow owner is now implementing the authentication hook needed for the supported iPhone route.",
-    "The cart-recovery diagnosis has been placed once with its original lineage on an isolated remote worktree. Placement has not been counted as execution or a fix.",
-    "All eight named homepage repairs are committed and proved:31/31 targeted cases and16/16 mutation checks pass. The original builder is opening the follow-up PR; rendered checks and design acceptance remain open."
+    "Homepage repair #5080 passed all five full test shards, received independent code approval and merged. Its five changed assets are now installed in the unpublished theme; all ten candidate bodies were verified from Shopify.",
+    "The active theme and every untouched draft file are unchanged. Browser checks and design ratings are still separate from successful installation.",
+    "The two Shopify app URL corrections are approved. Hands traced the continuing browser denial to the app access host; stale helper identity after an account change is a hypothesis, with supported recovery coordinated through the original owner.",
+    "Cart timing repair #5081 is Ready and has its first independent code approval. Its actual full test run remains underway.",
+    "The original iPhone writer is completing missing mutation proofs after a capped run. The incomplete result has not been counted as passing or as native acceptance."
   ],
   "openDeliveryGates": [
     {
@@ -257,8 +257,8 @@
         "text": "Review and merge the homepage repair (13:28Z–14:25Z, took 57 min). #5080 has independent code approval, five passing full-test shards and verified merge5474fc99."
       },
       {
-        "complete": false,
-        "text": "Install and verify the homepage repair in the unpublished draft (started 15:25Z, est. 20 min). Original builder is checking merged payloads against the existing installer; root owns the guarded installation. Rendered review requires browser recovery."
+        "complete": true,
+        "text": "Install and verify the homepage repair in the unpublished draft (15:25Z–15:37Z, took12 min). Five assets replaced; all10 candidate bodies verified. MAIN and untouched draft files preserved; no live publication. Rendered review still requires browser recovery."
       },
       {
         "complete": false,
@@ -266,11 +266,11 @@
       },
       {
         "complete": false,
-        "text": "Restore TEST connection (waiting since 27 October22:21Z; approval cleared12:23Z). Fresh15:25Z supported browser inventory still fails. Original Hands diagnosis is queued; next check16:10Z or recovery. Apply/read back only the approved two URLs, then reconnect once."
+        "text": "Restore TEST connection (waiting since 27 October22:21Z; approval cleared12:23Z). Fresh15:25Z supported browser inventory still fails. Hands15:32 traced host access denial; stale account identity is a hypothesis. Original Bridge coordinates safe restart/recovery; next check16:10Z or recovery. Apply/read back only the approved two URLs, then reconnect once."
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). Same writer is correcting the origin-guard test gap. Parent resumed after Mac sleep; shared-file handback is pending. Native acceptance0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). Same writer has104 passing tests;76-pin run incomplete with46 passed and one cancelled. Missing-entry proof started15:36Z; shared-file handback pending. Native acceptance0/7."
       },
       {
         "complete": false,
@@ -281,11 +281,11 @@
         "text": "Complete original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
-        "complete": true,
-        "text": "Verify the public task-site build (14:08Z–15:24Z, took 76 min including Mac sleep). Five hosted files match5f9f711. The merged homepage update is being published next."
+        "complete": false,
+        "text": "Verify the public task-site update (started15:40Z, est.5 min). Previous6f3793f matched allfivehostedfiles15:30Z; now publishing the verified draft installation and actual browser diagnosis."
       }
     ],
-    "landing": "Lands: installation preparation about15:37Z and guarded installation about15:45Z if preflight passes. Cart result check16:00Z; browser recovery check16:10Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
+    "landing": "Lands: task-site update about15:45Z. Cart result check16:00Z; browser recovery check16:10Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -299,7 +299,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: original workflow result about14:30Z; protected suite check14:35Z; supported browser recovery check14:40Z. Final draft timing remains unknown until TEST and native prerequisites clear. No live publication.",
+    "landing": "Lands: both approved settings changes are complete and verified. TEST reconnect is separate and remains open in the main plan.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
