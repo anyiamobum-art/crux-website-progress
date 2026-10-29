@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Original Account preparation and its two source corrections are complete. Original companion and Ask owners consumed the changed prerequisites. Their original connection and writer handoffs remain retained; no duplicate workers or installations were started.",
+  "workerState": "The original homepage reviewer is executing in the same session. The original iPhone workflow writer is finishing missing test coverage. The original small-screen repair adoption has been returned to its existing keeper; no replacement writer or extra review round was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October07:35 UTC: all eight merged payloads are prepared and both operational-wrapper fixes source-verified. At07:33 UTC the correct TEST tenant returned no Shopify integration; the guard refused before any theme write. The existing owner has reconciled the original reconnect failure.",
+  "lastActualProgress": "29 October12:25 UTC: the original homepage review resumed after its recorded reset and read all22 supplied images. At12:26 UTC the TEST owner confirmed the browser capability failure with zero writes. The original iPhone writer continued its unfinished coverage checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "TEST reconnect previously failed because the application and callback URL hosts differ. The prepared shared-app correction awaits specific approval and supported browser access. The original test writer and iPhone coordinator also need their existing execution route restored.",
-  "current": "The Account repair is reviewed and merged, and its exact eight-file update is prepared. A guarded TEST read stopped before any change because EON currently has no Shopify connection for that workspace.",
-  "next": "Resolve the existing shared-app URL correction and complete the original TEST reconnect, then run fresh target validation before installing the eight default-OFF files. Continue the original test-diagnosis and iPhone handoffs in parallel.",
-  "updated": "29 October07:45 UTC: public commit43a82db matched all five served files. Original Account preparation is complete; the TEST connection refusal is verified with zero writes. Native0/7 and final9.5 passes0/3 remain unchanged.",
+  "remaining": "Approval is cleared. Browser control currently returns “Local browser use is disabled in Work settings” to both owners; no app setting or reconnect changed. Native workflow coverage and the existing test failures remain with their original builders.",
+  "current": "Your two-URL Shopify app correction is approved. The original TEST owner is ready to apply it, but both supported browser probes still fail before any write. The original homepage review has resumed and is reading the source and images.",
+  "next": "Consume the original review result; restore the supported browser connection, apply only the two approved URLs and reconnect TEST. Then validate the exact TEST target before installing its eight default-OFF files.",
+  "updated": "29 October12:36Z: Shopify approval recorded and acknowledged by the original TEST owner; actual review execution verified. Public source2d87b9d previously matched all five served files at07:52 UTC. Native0/7 and final9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Account boot #5075 is merged as166711b3 with its required approval and green checks.",
-    "Its merged installation input is complete: four new files, four changed files and116 unchanged files. Features stay off.",
-    "The read-only TEST capture refused before mutation: the correct workspace currently has no Shopify integration. The original reconnect failed on mismatched application/callback hosts.",
-    "Both named installer corrections were source-verified. Shared-app URL approval and supported browser recovery remain necessary before the original TEST reconnect.",
-    "Original test-diagnosis and iPhone handoffs were reconciled. Their existing keeper must restore the supported original-writer route; no replacement worker, device run or rating credit is claimed."
+    "The owner approved the prepared app URL and callback correction. The approval wait is closed; other app settings are unchanged.",
+    "Both original owners reproduced the browser integration error before any Shopify edit or reconnect. Recovery remains with the existing browser keeper.",
+    "The original homepage review resumed after its reset, with the same source, session and review round. All22 supplied images have been read; no score is claimed yet.",
+    "The original iPhone workflow writer continued missing test coverage. The small-screen repair remains with its original adopter; no new writer was substituted.",
+    "The merged Account update is still prepared as eight files with features off. A fresh TEST connection and guarded target check precede installation."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The merged helper records observed rows as NOT EXERCISED until it can prove the draft assets loaded in that same native run. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; source-binding request retains27 October15:36:42 UTC.",
-      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. It is now published as Draft #5063; Hands owns its protected review, required proof and merge. Its body-only hypothesis clarification is verified. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
+      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. It merged as33973031; source qualification and generated inputs are verified. Its original same-run device execution, shared workflow repair and exact allocation remain outstanding. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -242,74 +242,34 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile the interrupted group and current releases (05:30Z–05:37Z, took 7 min). Original owners resumed; completed work stayed complete."
-      },
-      {
-        "complete": true,
-        "text": "Qualify the merged helper against the installed draft (05:34Z–05:44Z, took 10 min). Source hashes and generated inputs match; device execution is separate."
-      },
-      {
-        "complete": true,
-        "text": "Prove and submit the two named size-guide repairs (05:36Z–05:42Z, took 6 min). Both causal probes and all nine affected cases passed; one repair push verified."
+        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; original TEST owner confirmed browser access still fails before any write."
       },
       {
         "complete": false,
-        "text": "Complete size-guide review and merge (started 05:42Z, est. unknown after new failure). Four hosted shards and pins passed; one existing permission-revocation test timed out. Exact artifact delivered to its original owner at06:37Z; no rerun-to-green. Existing second review remains pending. Next check07:45Z or original result."
-      },
-      {
-        "complete": true,
-        "text": "Complete shared account-lifecycle review and merge (05:32Z–05:35Z, took 3 min). Required reviews and hosted checks passed; merge verified."
-      },
-      {
-        "complete": true,
-        "text": "Prove and submit the Account boot connection (05:37Z–05:51Z, took 14 min). Eleven test targets and 34 causal checks passed; follow-up #5075 entered review."
-      },
-      {
-        "complete": true,
-        "text": "Complete Account boot review and merge (05:51Z–06:45Z, took 54 min). All five hosted shards, pins and required gates passed; original code approval and merge166711b3 verified. The effective review tier was standard; no extra review was required."
-      },
-      {
-        "complete": true,
-        "text": "Prepare and deliver the bounded hosted iPhone handoff (06:04Z–06:37Z, took 33 min including Mac sleep gap). Same writer and shared-file handback preserved; route ruling and allocation are separate."
+        "text": "Complete the original homepage review (started 12:25Z, est. 20 min). Source and images are being read in the original session; result pending."
       },
       {
         "complete": false,
-        "text": "Finish installed browser, native and connected TEST checks (est. unknown). Original chair must resolve hosted route and shared workflow custody; browser and TEST prerequisites remain separate. Native0/7, next check07:45Z or ruling."
+        "text": "Restore TEST connection (waiting since 27 October22:21Z; approval cleared12:23Z). Original browser keeper must restore the supported route; next check12:50Z or recovery."
       },
       {
         "complete": false,
-        "text": "Complete original final design checks and draft handover (est. unknown). Same readers and history; actual scores remain below the required bar."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify task reports after repair submissions and changed access (05:51Z–06:03Z, took 12 min). Latest five-file public readback passed06:03:36Z."
+        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). Original integration is running; native acceptance remains0/7."
       },
       {
         "complete": false,
-        "text": "Diagnose bag recovery-marker failure (started 05:55Z, est. unknown). Exact diagnosis delivered; coordinator provider refusal before acknowledgment. Existing original-route recovery remains with chair. Next check07:45Z or recovered acknowledgment."
-      },
-      {
-        "complete": true,
-        "text": "Publish review and handoff results (06:40Z–06:41Z, took 1 min). All five served files matched commit2312292 at06:41:23Z."
-      },
-      {
-        "complete": true,
-        "text": "Prepare the merged Account files for the unpublished TEST draft (07:19Z–07:35Z, took 16 min). Eight payloads match the merged source. Both installer findings were corrected and source-checked; no activation or runtime credit."
-      },
-      {
-        "complete": true,
-        "text": "Publish and verify the new merge status (07:19Z–07:25Z, took 6 min). All five served files match d6021b3."
+        "text": "Install and verify the eight-file TEST change (est. 25 min after connection). Fresh guarded target validation is required; features remain off."
       },
       {
         "complete": false,
-        "text": "Restore the original TEST connection (blocked since the 27 October reconnect refusal; next check08:15Z or approval). Fresh read07:33Z confirms no integration. The shared app needs its prepared two-URL correction and supported browser access; the original reconnect remains one obligation."
+        "text": "Complete the original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
-        "complete": true,
-        "text": "Publish and verify the TEST prerequisite update (07:44Z–07:45Z, took 1 min). All five public files match43a82db; source and acceptance remain separate."
+        "complete": false,
+        "text": "Publish and verify the updated task site (started 12:36Z, est. 5 min)."
       }
     ],
-    "landing": "Lands: public update verified07:45Z. Next original-owner check08:15Z or an earlier returned result; final draft timing remains unknown while TEST approval/access, native custody and reader prerequisites remain. The theme stays unpublished."
+    "landing": "Lands: next review or recovery result about12:50Z; the public update takes about5 min. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
