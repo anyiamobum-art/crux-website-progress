@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original acceptance agent is working on the bounded hosted-route handoff. Both submitted changes have running or queued protected checks. The bag diagnosis was delivered but has no execution receipt. Completed settings, homepage preparation and proof work were not restarted.",
+  "workerState": "Original Ask owner received the exact failing artifact; the existing coordination chat is handling the bounded iPhone route decision. One Account boot shard remains running. Completed settings, homepage preparation and proof work stayed complete.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October05:56 UTC: Hands acknowledged the qualified iPhone source and identified the precise local-versus-hosted route decision. The Account boot repair entered review at05:51 UTC; the public update was verified at05:55 UTC.",
+  "lastActualProgress": "29 October06:33 UTC: the Account boot repair received its first independent code approval. At06:37 UTC the exact test artifact was delivered to its original owner, and the prepared iPhone handoff was delivered to the original coordination chat.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The Mac allocation needs a route decision. The original coordinator then received an actual provider usage refusal before acknowledging the new bag diagnosis. Browser control separately still reports disabled despite the owner’s enabled settings. Original rating and connected TEST prerequisites remain open.",
-  "current": "The size-guide repair and Account boot connection are in protected review. Their proof is complete. The iPhone source is qualified, and the original acceptance agent is preparing a hosted route after Hands confirmed the local allocation is unavailable.",
-  "next": "Consume both reviews and hosted checks, obtain the original chair’s route decision, and diagnose the newly observed bag recovery-marker failure through its original writer.",
-  "updated": "29 October05:59 UTC: #5061 has four running test shards and one queued; #5075 has passed admission, gates and PR-body checks with its test/pin jobs queued. Public commit66304aa built05:53:43 UTC and all five files matched05:55:06 UTC. Native0/7 and final9.5 passes0/3 remain unchanged.",
+  "remaining": "The original coordinator received a real provider usage refusal before acknowledging the bag diagnosis. The iPhone route and shared-file handback remain unresolved. Browser control separately reports disabled despite the enabled settings; original ratings and connected TEST prerequisites remain open.",
+  "current": "Account boot #5075 has its first code approval. Four hosted test shards, pins and guards passed; one shard and the second protected review remain. Size-guide #5061 has one existing permission-revocation test failure, now with its original owner.",
+  "next": "Consume the original test diagnosis and remaining reviews, then advance each qualified merge. The prepared hosted iPhone handoff is with the original chair route; shared-file custody must be returned before its same writer edits.",
+  "updated": "29 October06:39 UTC: Account boot remains at78afb44b with first approval and four test shards passed. Size guide remains ated7fb1d6 with four shards passed and one failed. Public commitf2bd493 built06:03:23 UTC; all five files matched06:03:36 UTC. Native0/7 and final9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -205,10 +205,11 @@
     }
   ],
   "recentChanges": [
-    "Account boot #5075 is in protected review after all 11 test targets and 34 fault checks passed. Size-guide #5061 remains in its original second review after both named repairs passed.",
-    "Hands acknowledged the qualified iPhone source. The local Mac allocation is unavailable, so the original acceptance agent is preparing the supported hosted alternative for the existing route decision.",
-    "A hosted run exposed a bag recovery-marker assertion failure. Its original writer has the exact diagnosis packet through the existing coordinator; a provider refusal prevented acknowledgment. The cause is not yet established.",
-    "The public task report’s last publication was verified against all five served files. Native, connected TEST and final ratings remain open; no live theme publication occurred."
+    "Account boot #5075 received its first code approval. Four hosted shards, the fault checks and guards passed; one shard and the second protected review remain.",
+    "Size-guide #5061 passed four hosted shards and its fault checks. One existing Ask EON permission-revocation test timed out. Its exact artifact is with the original owner for diagnosis; the cause is not yet established.",
+    "The original acceptance agent completed the bounded hosted iPhone handoff. It is delivered for the existing route decision and shared-file handback, with no device run or acceptance credit claimed.",
+    "The Mac slept during this turn; the wake receipt records return at06:27 UTC. That observation gap is retained. Bag diagnosis delivery has no writer acknowledgment because the original coordinator returned a provider refusal.",
+    "Source proof, code approval, native acceptance and final ratings remain separate. No live theme publication occurred."
   ],
   "openDeliveryGates": [
     {
@@ -253,7 +254,7 @@
       },
       {
         "complete": false,
-        "text": "Complete size-guide review and merge (started 05:42Z, est. 30 min plus shared queue). Existing second review and new hosted checks running or queued."
+        "text": "Complete size-guide review and merge (started 05:42Z, est. unknown after new failure). Four hosted shards and pins passed; one existing permission-revocation test timed out. Exact artifact delivered to its original owner at06:37Z; no rerun-to-green. Existing second review remains pending. Next check07:00Z or original result."
       },
       {
         "complete": true,
@@ -261,34 +262,38 @@
       },
       {
         "complete": true,
-        "text": "Prove and submit the Account boot connection (05:37Z–05:51Z, took 14 min). Eleven test targets and 34 causal checks passed; follow-up #5075 pushed and entered review."
+        "text": "Prove and submit the Account boot connection (05:37Z–05:51Z, took 14 min). Eleven test targets and 34 causal checks passed; follow-up #5075 entered review."
       },
       {
         "complete": false,
-        "text": "Complete Account boot review and merge (started 05:51Z, est. 30 min plus shared queue). Required hosted checks and original first review pending."
-      },
-      {
-        "complete": false,
-        "text": "Finish the installed browser, native and connected TEST checks (est. unknown). Hands answered at 05:56Z: local allocation is unavailable; the original agent is preparing the hosted route for the same chair decision. Next check 06:10Z. Browser and TEST prerequisites remain separate."
-      },
-      {
-        "complete": false,
-        "text": "Complete the original final design checks and draft handover (est. unknown). Same readers and review history; actual scores remain below the required bar."
+        "text": "Complete Account boot review and merge (started 05:51Z, est. 20 min remaining plus shared queue). First code approval returned06:33Z. Four hosted shards, pins and guards passed; one shard and second protected review remain. Next check06:50Z."
       },
       {
         "complete": true,
-        "text": "Publish and verify the task report after the repair submissions (05:51Z–05:55Z, took 4 min). The matching Pages build and all five served files verified."
+        "text": "Prepare and deliver the bounded hosted iPhone handoff (06:04Z–06:37Z, took 33 min including Mac sleep gap). Same writer and shared-file handback preserved; route ruling and allocation are separate."
       },
       {
         "complete": false,
-        "text": "Diagnose the newly observed bag recovery-marker failure (started 05:55Z, est. unknown). Original writer request delivered; coordinator provider access refused before acknowledgment. Existing chair recovery is due 06:30Z."
+        "text": "Finish installed browser, native and connected TEST checks (est. unknown). Original chair must resolve hosted route and shared workflow custody; browser and TEST prerequisites remain separate. Native0/7, next check06:55Z or ruling."
       },
       {
         "complete": false,
-        "text": "Publish the changed route and access status (started 06:02Z, est. 5 min). Preserve verified completion counts."
+        "text": "Complete original final design checks and draft handover (est. unknown). Same readers and history; actual scores remain below the required bar."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify task reports after repair submissions and changed access (05:51Z–06:03Z, took 12 min). Latest five-file public readback passed06:03:36Z."
+      },
+      {
+        "complete": false,
+        "text": "Diagnose bag recovery-marker failure (started 05:55Z, est. unknown). Exact diagnosis delivered; coordinator provider refusal before acknowledgment. Existing original-route recovery remains with chair. Next check07:00Z or recovered acknowledgment."
+      },
+      {
+        "complete": false,
+        "text": "Publish current review and handoff results (started 06:40Z, est. 5 min). Preserve verified completion counts and the Mac sleep observation gap."
       }
     ],
-    "landing": "Lands: next protected-review and route check about 06:10Z (about 7 min left; shared runners and original reviewer availability may move it). Final draft completion time remains unknown pending acceptance and original ratings. The theme stays unpublished."
+    "landing": "Lands: next review result about06:50Z (10 min left; shared runner and independent reviewer completion may move it). Final draft completion time remains unknown until native, TEST and original ratings pass. The theme stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
