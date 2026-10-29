@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original three-test repair is still running through its existing writer. The separate sign-in hook #5083 has two named review fixes queued with that writer; it is not proof of Website native acceptance.",
+  "workerState": "The original native repair writer produced a new repair head and passed three Factory test runs. Its mutation proof is incomplete: part 1 had cancellations and part 2 is running. The separate sign-in hook retains its two named fixes with that writer.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October, 21:25 UTC: eon-5 configuration readback and one TEST reconnect are verified. The guarded install check stopped before Shopify calls because its pinned source folder was absent.",
+  "lastActualProgress": "29 October, 21:40 UTC: the eight-file TEST install was verified against all 605 expected theme files. At21:48UTC the actual CRUX draft showed the full Look06 photo at380px, transparent tile background and corrected Colour labels.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The previous browser-access and app-URL blockers are resolved. The TEST installer’s exact archived source folder was pruned; restoring the reviewed source is in progress before any theme write. Native source qualification and shared-device allocation remain outstanding.",
-  "current": "TEST is reconnected. The approved Shopify app URL correction is active as eon-5; TEST’s Integrations page identifies EON Checkout TEST and offers Manage. Homepage repair #5080 remains installed in the unpublished draft.",
-  "next": "Complete the source-bound TEST preflight, install the eight reviewed files with features off, and verify the draft. Continue the original native source handback and seven iPhone checks.",
-  "updated": "29 October, 21:30 UTC: TEST connection receipt saved with exact app version and workspace. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain open.",
+  "remaining": "Browser access, app URLs, TEST reconnect and source restoration are resolved. Original iPhone repair proof and protected review remain in progress. Connected checkout acceptance still requires the admitted TEST identities, caller binding and original acceptance run.",
+  "current": "TEST reconnect and its eight-file installation are complete. All eight installed bodies match the reviewed source; the remaining TEST files, settings and active theme are preserved. The installed homepage is undergoing narrow-screen checks in Chrome.",
+  "next": "Complete the source-bound homepage checks and prepare the private checkout-progress caller binding. Continue the original iPhone repair and seven native checks after protected review and allocation.",
+  "updated": "29 October, 21:50 UTC: install receipt and rendered evidence saved. Delivery6/11, native0/7 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "iPhone sign-in hook #5083",
@@ -207,7 +207,7 @@
   "recentChanges": [
     "Homepage repair #5080 passed all five full test shards, received independent code approval and merged. Its five changed assets are now installed in the unpublished theme; all ten candidate bodies were verified from Shopify.",
     "The active theme and every untouched draft file are unchanged. Browser checks and design ratings are still separate from successful installation.",
-    "The two Shopify app URL corrections are approved. Hands traced the continuing browser denial to the app access host; stale helper identity after an account change is a hypothesis, with supported recovery coordinated through the original owner.",
+    "The two approved Shopify app URL corrections are active as eon-5. TEST reconnect is verified. The eight reviewed checkout-progress files were installed once in the TEST draft and read back exactly; all605 expected theme files, settings and the active theme are preserved. Features remain off.",
     "Cart timing repair #5081 passed allfive full-test shards and the required gate, then merged at16:15UTC. The original failure is resolved; this test-only repair has no theme files to install.",
     "The final sign-in test hook passed104 tests, all82 mutation checks and its self-review with zero findings at18:01UTC. The original publisher has the packet. A separate three-test repair resumed through its original writer at19:33UTC after its launcher was corrected. Native checks remain0/7."
   ],
@@ -215,12 +215,12 @@
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "Review consent and the connected customer-care journey still need acceptance. Merged acceptance checks are already retained; this is not a code-build wait. Owner: Original Aftercare acceptance owner and CS service owner; Root coordinates the existing return. Wait: Original first-wait timestamp is not established in this compact record; no new start time is invented.",
-      "next": "Original acceptance owner consumes the retained checks; CS retains TEST enrollment and its exact actor binding. Shopify reconnect now requires the original application/callback-host mismatch to be corrected. The original customer-care owner has now reached authenticated TEST owner context. No active TEST staff exists; the existing credential-creation handoff and intended own-user row must be completed before qualified staff sign-in and approved identity/chat reads. CRUX shared-login reuse is verified but does not prove TEST membership. The original passive-read design is admitted; the chair has cleared the execution-seat restriction for the same session. The design and original guarded implementation are complete; #4991 is merged and its original installed-source receipt is consumed. A separate critical-review policy clarification remains with the chair. Runtime and enrollment remain separate while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
+      "next": "Original acceptance owner consumes the retained checks; CS retains TEST enrollment and its exact actor binding. The application/callback mismatch is corrected and TEST reconnect is verified; staff identity acceptance remains separate. The original customer-care owner has now reached authenticated TEST owner context. No active TEST staff exists; the existing credential-creation handoff and intended own-user row must be completed before qualified staff sign-in and approved identity/chat reads. CRUX shared-login reuse is verified but does not prove TEST membership. The original passive-read design is admitted; the chair has cleared the execution-seat restriction for the same session. The design and original guarded implementation are complete; #4991 is merged and its original installed-source receipt is consumed. A separate critical-review policy clarification remains with the chair. Runtime and enrollment remain separate while the global assisted-order switch stays OFF. Exact actor/chat/reference binding is still required; no session export is permitted. The full consent journey has its own effect scope. Close only after the connected result is verified."
     },
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Notice source, TEST installation and binding repair #4965 are complete. Approved notice words, designated TEST shopper identities with signed binding, and the connected consent/withdrawal results are still missing. Owner: Original C06/Website/A2 owners and original CS owner; chair retains the existing notice decision card. Wait: External facts retain12 October04:12 UTC; shared actor card retains25 October21:18:27 UTC.",
-      "next": "TEST owner login is verified, but the approved Shopify reconnect is refused on mismatching application/callback hosts. C06 needs the already-admitted two Shopify shopper identities and signed customer-mirror binding, independently of EON staff enrollment. Resolve the existing notice decision and then follow the original reviewed TEST-only activation sequence. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
+      "next": "TEST owner login, approved app URL correction and Shopify reconnect are verified. C06 needs the already-admitted two Shopify shopper identities and signed customer-mirror binding, independently of EON staff enrollment. Resolve the existing notice decision and then follow the original reviewed TEST-only activation sequence. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -270,11 +270,15 @@
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Final revision cec6bf1d passed104 tests, all82 mutation checks and self-review with zero findings at18:01Z. It is published as Draft #5083; its original parent owns admission and protected review. The related three-test repair resumed19:33Z through its original writer; next result check20:05Z. Native acceptance0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Final revision cec6bf1d passed104 tests, all82 mutation checks and self-review with zero findings at18:01Z. It is published as Draft #5083; its original parent owns admission and protected review. The related three-test repair has a new head and three passing Factory runs; mutation proof remains in progress. Its original parent is active. Native acceptance0/7."
+      },
+      {
+        "complete": true,
+        "text": "Install and verify the eight-file TEST change (21:30Z–21:41Z, took11min). Exact source restored; one eight-file install and all605-file preservation verified. Features stay off."
       },
       {
         "complete": false,
-        "text": "Install and verify the eight-file TEST change (started21:30Z, est.25min). Restore the exact pruned source, run guarded target capture, apply once and verify; features stay off."
+        "text": "Complete installed homepage checks and private caller binding (started21:43Z, est.35min). Capture the named rendered fixes and source-bound checkout controls; runtime acceptance requires admitted TEST identity."
       },
       {
         "complete": false,
@@ -289,7 +293,7 @@
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: TEST installation about21:55Z if source restoration and guarded checks pass. Final draft timing remains unknown until native proof and original named-fix reviews pass; no live publication."
+    "landing": "Lands: bounded render checks and caller-binding preparation about22:18Z; browser and source evidence may move this. Final draft timing remains unknown until native proof and original named-fix reviews pass; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -303,7 +307,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: both approved settings changes are complete and verified. TEST reconnect is now complete; draft installation and connected acceptance remain separate.",
+    "landing": "Lands: both approved settings changes are complete and verified. TEST reconnect and its reviewed eight-file draft installation are complete; connected acceptance remains open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
