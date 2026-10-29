@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The sign-in test hook is finished at revision cec6bf1d: 104 tests, all 82 mutation checks and zero self-review findings. The original parent verified its packet. The same writer resumed the separate three-test repair at 19:33 UTC. Native acceptance remains 0/7.",
+  "workerState": "The sign-in test hook finished at revision cec6bf1d: 104 tests, all 82 mutation checks and zero self-review findings. PR #5083 preserves that source. The same writer resumed the separate three-test repair at 19:33 UTC and is reproducing CI’s grouped tests. Native acceptance remains 0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October, 19:33 UTC: Hands corrected the launcher and resumed the original three-test repair. Its owner confirms the reported failures are being checked. The sign-in hook had finished at 18:01 UTC.",
+  "lastActualProgress": "29 October, 19:41 UTC: the original publisher opened the sign-in hook as Draft PR #5083. The original repair writer is checking the three reported failures together. No browser or native acceptance is claimed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The browser access host still denies the supported connection despite enabled settings. The original keeper requires a full Codex app reopen and capability check. Approved app URLs have not been saved; TEST has not been reconnected. Native source handback, allocation and acceptance remain outstanding.",
-  "current": "Homepage repair #5080 is installed and verified in the unpublished Shopify draft. Cart timing repair #5081 is merged. The iPhone test hook has completed source proof; its original publisher is preparing protected review.",
+  "current": "Homepage repair #5080 is installed and verified in the unpublished Shopify draft. Cart timing repair #5081 is merged. The iPhone sign-in hook is now Draft PR #5083; its original owner is taking it through admission and protected review.",
   "next": "Complete the original three-test workflow repair and return the shared file to the Website source owner. After supported browser recovery, apply and verify the two approved app URLs, then reconnect TEST once.",
-  "updated": "29 October, 19:42 UTC: original owners adopted the terminal proof and recovered repair. Prior public snapshot90828a7 was byte-verified; the current update is being published. Delivery6/11 and final whole-site9.5 passes0/3 remain open.",
+  "updated": "29 October, 19:47 UTC: Draft #5083 and its exact source are confirmed. Public commit743864f was byte-verified at19:43 UTC. Delivery6/11 and final whole-site9.5 passes0/3 remain open.",
   "links": [
+    {
+      "title": "iPhone sign-in hook #5083",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5083"
+    },
     {
       "title": "Cart timing repair #5081",
       "path": "https://github.com/EON-CRUX/3.09/pull/5081"
@@ -172,10 +176,6 @@
     {
       "title": "Account checkout progress #5059",
       "path": "https://github.com/EON-CRUX/3.09/pull/5059"
-    },
-    {
-      "title": "Campaign homepage #5047",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5047"
     }
   ],
   "source": "Published projection of the original task report",
