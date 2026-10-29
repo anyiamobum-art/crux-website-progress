@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The cart repair is complete. Revision 6a054376 passed 104 targeted tests and all 80 mutation checks. Final self-review found a delayed sign-in could be reported as refused while still pending. That correction now passes its named regression, and the same writer has started final seven-file proof. Native acceptance remains 0/7.",
+  "workerState": "The sign-in test hook is finished at revision cec6bf1d: 104 tests, all 82 mutation checks and zero self-review findings. The original parent verified its packet. The same writer resumed the separate three-test repair at 19:33 UTC. Native acceptance remains 0/7.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30 October, 01:26 Shanghai: the original writer committed the sign-in reporting correction and started final tests across all seven affected files. Passing proof for the preceding revision is retained; it does not approve the new revision.",
+  "lastActualProgress": "29 October, 19:33 UTC: Hands corrected the launcher and resumed the original three-test repair. Its owner confirms the reported failures are being checked. The sign-in hook had finished at 18:01 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The supported browser connection remains denied despite the enabled switch. Root has no local operation in flight; the original recovery keeper requires the human app-reopen boundary. No app URL write or TEST reconnect has occurred. Native workflow proof and shared-file handback remain outstanding.",
-  "current": "Cart timing repair #5081 passed all five full-test shards and the required gate, then merged at16:15UTC. Homepage repair #5080 is already installed in the unpublished Shopify draft, with allten candidate bodies verified.",
-  "next": "Consume the original sign-in correction and its protected release packet. After the operator reopens Codex and the original keeper verifies browser recovery, apply and verify the two approved app URLs, then reconnect TEST once.",
-  "updated": "30 October, 01:28 Shanghai: original parent confirms the correction is in final testing. Public commit a8ee527 is built and all five hosted files match. No terminal repair packet or shared-file handback yet. Delivery 6/11 and final whole-site 9.5 passes 0/3 remain open.",
+  "remaining": "The browser access host still denies the supported connection despite enabled settings. The original keeper requires a full Codex app reopen and capability check. Approved app URLs have not been saved; TEST has not been reconnected. Native source handback, allocation and acceptance remain outstanding.",
+  "current": "Homepage repair #5080 is installed and verified in the unpublished Shopify draft. Cart timing repair #5081 is merged. The iPhone test hook has completed source proof; its original publisher is preparing protected review.",
+  "next": "Complete the original three-test workflow repair and return the shared file to the Website source owner. After supported browser recovery, apply and verify the two approved app URLs, then reconnect TEST once.",
+  "updated": "29 October, 19:42 UTC: original owners adopted the terminal proof and recovered repair. Prior public snapshot90828a7 was byte-verified; the current update is being published. Delivery6/11 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Cart timing repair #5081",
@@ -209,7 +209,7 @@
     "The active theme and every untouched draft file are unchanged. Browser checks and design ratings are still separate from successful installation.",
     "The two Shopify app URL corrections are approved. Hands traced the continuing browser denial to the app access host; stale helper identity after an account change is a hypothesis, with supported recovery coordinated through the original owner.",
     "Cart timing repair #5081 passed allfive full-test shards and the required gate, then merged at16:15UTC. The original failure is resolved; this test-only repair has no theme files to install.",
-    "Revision 6a054376 passed 104 targeted tests and all 80 mutation checks. Final self-review found one sign-in reporting defect; its correction passes the named regression and final testing is running. Source tests are separate from native acceptance."
+    "The final sign-in test hook passed104 tests, all82 mutation checks and its self-review with zero findings at18:01UTC. The original publisher has the packet. A separate three-test repair resumed through its original writer at19:33UTC after its launcher was corrected. Native checks remain0/7."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Required phone checks remain0/7. The merged helper records observed rows as NOT EXERCISED until it can prove the draft assets loaded in that same native run. Owner: Original P212 native owner, Hands and chair. Wait: Native first wait remains16 October20:16 UTC; source-binding request retains27 October15:36:42 UTC.",
-      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. It merged as33973031; source qualification and generated inputs are verified. Its original same-run device execution, shared workflow repair and exact allocation remain outstanding. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
+      "next": "Original repairs #4980 and #4996 are merged. The original native owner qualified current-main source and proved Studio #5020 is not a Website code dependency. Helper #5030 is merged. Its original source-binding follow-up has returned at exact source 1bf9dc88. The final 145 mutation checks and self-review passed; an earlier focused failure and the unrun whole suite remain explicitly recorded. It merged as33973031; source qualification and generated inputs are verified. Its original same-run device execution and exact allocation remain outstanding. The shared sign-in hook is now source-proved at cec6bf1d (104 tests,82 mutation checks,self-review0); its protected review/publication is pending. The separate three-test repair remains with the original writer after a19:33UTC launcher recovery. Neither result is native acceptance. Source qualification on current main confirms #5033 is not that binding fix. That unit must provide supported same-run fetched-source evidence, then return a matching prepared build and exact Website-specific allocation. Earlier grants remain consumed; a merge or another lane’s slot does not authorize replay. Complete connected, performance and original-reader evidence before handing over the unpublished draft."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est.30min after protected merge and allocation). The pending-sign-in correction passed its named regression; final seven-file testing started at 01:26 Shanghai. Next result check 30 October, 01:45 Shanghai. Native acceptance 0/7."
+        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). Final revision cec6bf1d passed104 tests, all82 mutation checks and self-review with zero findings at18:01Z. The original publisher has the packet. The related three-test repair resumed19:33Z through its original writer; next result check20:05Z. Native acceptance0/7."
       },
       {
         "complete": false,
@@ -281,11 +281,11 @@
         "text": "Complete original final named-fix reviews and draft handover (est.unknown until native and connected evidence passes). Final passes remain0/3."
       },
       {
-        "complete": true,
-        "text": "Verify the public task-site update (30 October, 01:22–01:26 Shanghai, took 4 min). Commit a8ee527 built and all five hosted files matched. This snapshot records the named sign-in correction."
+        "complete": false,
+        "text": "Verify the current public task-site update (started19:42Z, est.5 min). Previous90828a7 snapshot was verified17:35Z; this update records the completed source proof and recovered original repair."
       }
     ],
-    "landing": "Lands: original corrected-head result check 30 October, 01:45 Shanghai. TEST execution follows supported browser recovery; final draft timing remains unknown. No live publication."
+    "landing": "Lands: public update about19:47Z; original repair result check20:05Z. TEST execution follows supported browser recovery. Final draft timing remains unknown; no live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
