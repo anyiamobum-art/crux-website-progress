@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "One original Astra builder owns the slideshow follow-up and is reconciling the separate tiny Stores/Arrivals text observation. The original iPhone writer started its named repair at23:20UTC. The original People writer has chair approval and an existing remote capacity-wait job; no duplicate writer, reconnect or credential attempt.",
+  "workerState": "The original homepage builder has committed the scoped text-size correction and is waiting on its existing remote test slot. #5095 is in the protected review/test lane. The original iPhone repair started at23:20UTC and the prerequisite People repair at23:30:59UTC. No duplicate writer or reconnect.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October,23:30UTC: #5095 was marked Ready once after its sealed proof and exact source were verified. The original #5074 repair is executing. The prior installed browser pass confirmed centered product cards,44/52px controls, keyboard movement and hover/focus pause; it also identified overly small store text.",
+  "lastActualProgress": "29 October,23:45UTC: #5095 source gates, mutation proof and guards passed; independent review dispatched. The readability correction is committed separately at01f76a97, affecting Stores, New Arrivals and Bestsellers only.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The installed slideshow still waits for all page resources; #5095 addresses that defect. TEST authentication succeeds, but owner-workspace precedence needs its approved repair. The original remote admission job is waiting for capacity. The iPhone workflow thread-stop repair is running; seven native checks remain unperformed.",
-  "current": "The focused slideshow repair #5095 is Ready for protected review on exact87d59f2e after43 targeted cases and10 mutation checks passed. Installed #5092 remains verified in the unpublished theme; review and installation of the new motion fix are still pending.",
-  "next": "Complete protected review and full hosted tests for #5095, install its one changed asset after merge, and verify ordinary motion. In parallel, consume the original iPhone repair and approved TEST staff-workspace repair; then finish source-matched evidence for the same readers.",
-  "updated": "29 October,23:30UTC: #5095 is Ready at87d59f2e; protected review and full tests are pending. Theme166627606744 still serves verifiedadc8dae6 assets. TEST reconnect and eight-file installation remain complete. Native0/7 and final9.5 passes0/3 remain open.",
+  "remaining": "The installed slideshow still has the page-load defect; #5095 is not installed yet. TEST authentication succeeds, but workspace selection needs the original approved repair. The prerequisite People repair is now executing. The iPhone workflow repair is also executing; seven native checks remain unperformed.",
+  "current": "The slideshow repair #5095 has passed source gates and mutation proof, and its independent review was dispatched at23:45UTC. Full hosted tests continue. A separate homepage readability correction is committed; its original remote proof is queued.",
+  "next": "Finish #5095 protected review and full tests, merge, install its single asset in the unpublished draft and verify ordinary motion. In parallel, complete the original readability proof, iPhone workflow repair and approved TEST staff-workspace repair.",
+  "updated": "29 October,23:45UTC: #5095 remains Ready at87d59f2e with no verdict or merge yet. Theme166627606744 retains the verifiedadc8dae6 installation. TEST reconnect and eight-file installation are complete. Native0/7 and final9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Slideshow readiness repair #5095",
@@ -205,6 +205,7 @@
     }
   ],
   "recentChanges": [
+    "The slideshow source gates and mutation proof now pass; its independent review was dispatched at23:45UTC. The original text-size repair is committed and waiting for its remote proof slot. The prerequisite TEST identity repair has started, replacing the earlier capacity wait.",
     "#5095 is Ready for protected review. Its43 focused cases and10 mutation checks passed; it changes one slideshow asset so initialized motion no longer waits for unrelated page resources. It is not installed yet.",
     "The installed #5092 browser pass verifies product layouts and controls at380/430/1280, keyboard movement and best-seller focus pause. It also exposed tiny Stores text, retained as a separate correction rather than a passed design check.",
     "TEST app URL correction, reconnect and its eight-file draft installation are complete. The remaining staff identity-selection repair has chair approval and waits on the original remote capacity job.",
