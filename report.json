@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original homepage builder is implementing eight scoped fixes on its isolated branch. The original iPhone authentication-hook job is running. The cart-recovery diagnosis is placed on the remote worker; its execution/result has not yet been verified. No duplicate reviewer or extra round was started.",
+  "workerState": "The original homepage builder is publishing one proved follow-up. The original iPhone authentication-hook job is running. A separate iPhone pin job lost its runner connection; its existing keeper is recovering it without treating it as a code finding. Cart diagnosis remains with its original writer.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October13:08 UTC: the keeper pushed the unchanged, proved test-runner repair and placed the original cart-recovery diagnosis on an isolated remote worktree. The browser correction remains approved but unexecuted.",
+  "lastActualProgress": "29 October13:27 UTC: homepage source70c5d858 passes31/31 targeted cases and16/16 mutation checks; the builder completed its self-review and started the original publication step.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The two-URL approval is cleared. A fresh browser probe still returns “Local browser use is disabled in Work settings” with no tabs; no app setting or reconnect changed. The iPhone authentication-hook implementation is running with the original workflow owner.",
-  "current": "The approved TEST reconnect awaits browser integration recovery. The original homepage builder is repairing its 7.0/10 review findings. The test-runner repair has been pushed, and the cart diagnosis has been placed with its original writer.",
-  "next": "Consume the homepage repair and remote proof. In parallel, finish the original iPhone authentication-hook repair and restore browser access so the two approved URLs and TEST reconnect can be applied.",
-  "updated": "29 October13:12 UTC: the original workflow keeper’s publication and cart placement receipts were consumed; the authentication-hook job is recorded running. At13:02 UTC all five public report files matched source. Native0/7 and final whole-site9.5 passes0/3 remain open.",
+  "current": "The eight named homepage repairs pass all 31 targeted cases and all 16 mutation checks. The original builder is publishing the follow-up PR for protected review. TEST reconnect remains approved and awaits supported browser recovery.",
+  "next": "Take the proved homepage source through protected review and current rendered checks. In parallel, finish the original iPhone authentication hook and restore browser access to save the two approved URLs and reconnect TEST.",
+  "updated": "29 October13:29 UTC: exact homepage proof and self-review receipts were read. At13:16 UTC all five public report files matched their published source. Native0/7 and final whole-site9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -209,7 +209,7 @@
     "The original test-runner repair has been pushed unchanged after its remote proof; its original review and required checks continue.",
     "The Safari-opening repair is Ready. The same workflow owner is now implementing the authentication hook needed for the supported iPhone route.",
     "The cart-recovery diagnosis has been placed once with its original lineage on an isolated remote worktree. Placement has not been counted as execution or a fix.",
-    "The original homepage builder is repairing eight named findings from the completed7.0/10 review. New source must receive its own proof before review acceptance."
+    "All eight named homepage repairs are committed and proved:31/31 targeted cases and16/16 mutation checks pass. The original builder is opening the follow-up PR; rendered checks and design acceptance remain open."
   ],
   "openDeliveryGates": [
     {
@@ -242,38 +242,42 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; original TEST owner confirmed browser access fails before any write."
+        "text": "Reconcile approval and original owners (12:23Z–12:28Z, took 5 min). App URL correction approved; browser access fails before any write."
       },
       {
         "complete": true,
-        "text": "Complete the original homepage review (12:25Z–12:43Z, took 18 min). Design7.0/10; named repairs returned to the original builder."
-      },
-      {
-        "complete": false,
-        "text": "Repair the named homepage findings (started12:48Z, est.45 min). Original owner created the isolated repair branch and began source ownership checks; scoped changes and remote proof follow."
-      },
-      {
-        "complete": false,
-        "text": "Restore TEST connection (waiting since27 October22:21Z; approval cleared12:23Z). Original browser keeper must restore the supported route; next check13:35Z or supported browser recovery."
-      },
-      {
-        "complete": false,
-        "text": "Finish the original iPhone workflow repair and checks (est.30 min after protected merge and allocation). The test-runner repair is pushed; the Safari-opening repair is Ready. The original authentication-hook job is running before shared workflow handback. Native acceptance remains0/7."
-      },
-      {
-        "complete": false,
-        "text": "Install and verify the eight-file TEST change (est.25 min after connection). Corrected installer is staged; fresh guarded target validation remains required and features stay off."
-      },
-      {
-        "complete": false,
-        "text": "Complete original final named-fix reviews and draft handover (est.unknown until native and connected evidence passes). Final passes remain0/3."
+        "text": "Complete the original homepage review (12:25Z–12:43Z, took 18 min). Design 7.0/10; named repairs returned to the original builder."
       },
       {
         "complete": true,
-        "text": "Publish and verify the task site (12:52Z–13:02Z, took10 min). Five hosted files matched the current published source."
+        "text": "Prove the eight named homepage repairs in source (12:48Z–13:27Z, took 39 min). Exact source passes 31/31 targeted cases and 16/16 mutation checks; self-review is recorded."
+      },
+      {
+        "complete": false,
+        "text": "Complete protected review and rendered checks for the homepage repair (started 13:28Z, est. unknown while browser recovery is pending). The original builder is publishing its follow-up PR. No rendered or independent design pass is inferred."
+      },
+      {
+        "complete": false,
+        "text": "Restore TEST connection (waiting since 27 October 22:21Z; approval cleared 12:23Z). Original browser keeper must restore the supported route; next check 14:00Z or recovery. Then apply/read back only the approved two URLs and reconnect once."
+      },
+      {
+        "complete": false,
+        "text": "Finish the original iPhone workflow repair and checks (est. 30 min after protected merge and allocation). The test-runner repair is pushed and size-admitted, awaiting its existing CI admission. The Safari-opening repair is Ready. The original authentication-hook job is running before shared workflow handback. Native acceptance remains 0/7."
+      },
+      {
+        "complete": false,
+        "text": "Install and verify the eight-file TEST change (est. 25 min after connection). Corrected installer is staged; fresh guarded target validation remains required and features stay off."
+      },
+      {
+        "complete": false,
+        "text": "Complete original final named-fix reviews and draft handover (est. unknown until native and connected evidence passes). Final passes remain 0/3."
+      },
+      {
+        "complete": true,
+        "text": "Publish and verify the task site (13:13Z–13:16Z, took 3 min). Five hosted files matched the current published source."
       }
     ],
-    "landing": "Lands: homepage source checkpoint about13:25Z, proof estimate13:33Z subject to remote capacity. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
+    "landing": "Lands: homepage PR checkpoint about 13:40Z, subject to GitHub transport and required review. Final draft timing remains unknown until browser recovery, TEST connection and native prerequisites clear. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
