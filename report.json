@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "29 October05:53 UTC: Account boot PR #5075 pushed and marked Ready after exact-source remote proof. The iPhone source qualification finished at05:44 UTC; original allocation request delivered05:46 UTC.",
+  "lastActualProgress": "29 October05:51 UTC: Account boot PR #5075 pushed and marked Ready after exact-source remote proof. The iPhone source qualification finished at05:44 UTC; original allocation request delivered05:46 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Browser control still returns an integration-disabled error despite the enabled settings shown by the owner. Original rating-provider prerequisites and connected TEST acceptance remain separate. These do not stop the active source and repair work.",
   "current": "The size-guide repair is in its existing second review. The shared Account lifecycle has merged, and its boot connection passed all 11 test targets and 34 causal checks before entering review as #5075. The iPhone source qualification is complete.",
   "next": "Take both repairs through their existing reviews and merges, and consume Hands’ dated device allocation for the prepared iPhone checks.",
-  "updated": "29 October05:53 UTC: both repair heads published in their original review paths; helper inputs qualified. The prior public update ade6f32 built05:45:14 UTC and all five served files matched at05:46:01 UTC. Native0/7 and final9.5 passes0/3 remain unchanged.",
+  "updated": "29 October05:51 UTC: both repair heads published in their original review paths; helper inputs qualified. The prior public update ade6f32 built05:45:14 UTC and all five served files matched at05:46:01 UTC. Native0/7 and final9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Account boot #5075",
@@ -261,11 +261,11 @@
       },
       {
         "complete": true,
-        "text": "Prove and submit the Account boot connection (05:37Z–05:53Z, took 16 min). Eleven test targets and 34 causal checks passed; follow-up #5075 pushed and entered review."
+        "text": "Prove and submit the Account boot connection (05:37Z–05:51Z, took 14 min). Eleven test targets and 34 causal checks passed; follow-up #5075 pushed and entered review."
       },
       {
         "complete": false,
-        "text": "Complete Account boot review and merge (started 05:53Z, est. 30 min plus shared queue). Required hosted checks and original first review pending."
+        "text": "Complete Account boot review and merge (started 05:51Z, est. 30 min plus shared queue). Required hosted checks and original first review pending."
       },
       {
         "complete": false,
@@ -277,10 +277,10 @@
       },
       {
         "complete": false,
-        "text": "Publish and verify the updated task report (started 05:53Z, est. 5 min). Previous five-file publication verified at 05:46Z; this update records the completed proof and new PR."
+        "text": "Publish and verify the updated task report (started 05:51Z, est. 5 min). Previous five-file publication verified at 05:46Z; this update records the completed proof and new PR."
       }
     ],
-    "landing": "Lands: next protected-review and allocation check about 06:10Z (about 15 min left; shared runners and original reviewer availability may move it). Final draft completion time remains unknown pending acceptance and original ratings. The theme stays unpublished."
+    "landing": "Lands: next protected-review and allocation check about 06:10Z (about 18 min left; shared runners and original reviewer availability may move it). Final draft completion time remains unknown pending acceptance and original ratings. The theme stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
