@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The TEST writer finished at09:05UTC with pushed commit7e130049. Its original proof files are recovered:64 passing activation cases are reported,50/50 regression-check output is verified, and the self-review receipt is authentic. No independent approval or installation is claimed. Hands acknowledged the original iPhone request; no dated run or dispatch exists.",
+  "workerState": "Hands opened #5115 at12:37UTC with the original source and authentic self-review. The first #5107 review approved at12:25UTC. The original iPhone owner is checking the existing run request; no native result or final design rating is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October10:49UTC: verified the TEST repair against the saved installed settings. Only five intended settings change; the three notices are preserved; rollback restores the original schema and settings. Original proof artifacts were recovered and checked. No tests were rerun and no Shopify writes were made.",
+  "lastActualProgress": "30October12:38UTC: the original TEST repair was published as Draft#5115 with exact-head acceptance. The original iPhone owner resumed after the GitHub gate cleared. #5107’s first code review is approved.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "At10:45UTC, GitHub still reports the organisation on Free and main unprotected. The chair confirms that restoring the account plan is the owner’s action; protected reviews and hosted iPhone execution remain held. Browser zoom recovery and distinct shopper/consent evidence are separate prerequisites.",
-  "current": "#5109 is merged, installed and responsive-checked in the unpublished draft. The TEST repair is complete, and an offline check against its actual saved settings confirms that switching on and off preserves all three approved privacy notices. No live storefront change or TEST activation was made.",
-  "next": "Take the completed TEST repair and the passing quantity-label repair through the original protected-review queue after GitHub recovery. The prepared TEST settings are ready for a fresh read before installation. Complete the original iPhone allocation, connected consent and final named-fix reviews.",
-  "updated": "30October10:52UTC: #5109 remains merged and installed; TEST repair source, original proof files and offline preparation are bound. Public snapshota2c6ef8 was previously verified with all five served files matching; this report contains the newer preparation result. Native0/7 and final9.5 passes0/3 remain unproved.",
+  "remaining": "The GitHub account-plan hold is closed. #5115’s admission result needs its exact diagnosis before the next review step; #5107 awaits its remaining protected results. A dated iPhone run allocation, genuine browser zoom and distinct shopper/consent evidence remain separate prerequisites.",
+  "current": "GitHub protection and review service are restored. The TEST privacy-preservation repair is open as #5115 on its original tested source. #5107 is Ready and has its first independent code approval. #5109 is already installed and responsive-checked in the unpublished draft.",
+  "next": "Resolve the TEST repair’s admission result and complete its original protected review. Consume the remaining quantity-label review and pin check, then install the merged CSS in the draft. The original iPhone owner has resumed its existing allocation request.",
+  "updated": "30October12:42UTC: Team plan and protected main are verified by direct GitHub reads; #5115 is open and #5107 is Ready with first approval. The previous public snapshot334792a was verified against all five served files. Native0/7 and final9.5 passes0/3 remain unproved.",
   "links": [
+    {
+      "title": "TEST privacy-preservation repair #5115",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5115"
+    },
     {
       "title": "Homepage text-size correction #5109",
       "path": "https://github.com/EON-CRUX/3.09/pull/5109"
@@ -172,10 +176,6 @@
     {
       "title": "Cart timing repair #5081",
       "path": "https://github.com/EON-CRUX/3.09/pull/5081"
-    },
-    {
-      "title": "Homepage repair #5080",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5080"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "**Homepage typography is reviewed, merged and installed.** #5109 is in the unpublished Shopify draft, with exact hosted-file verification and responsive checks at380/430/1280.",
-    "**TEST installation preparation passed.** The original repair was exercised offline against the saved draft settings: all three approved notices survive switching on and off, only five intended settings change, and rollback restores the original schema.",
-    "**Original proof recovered.** The TEST writer’s source and review packet are retained, including50/50 passing regression checks. Independent review and installation remain pending.",
-    "**The iPhone request is acknowledged.** Hands confirmed the original route; GitHub account recovery and the chair’s dated allocation are still needed. No native result is claimed.",
-    "**The live storefront stays unchanged.** The new website remains an unpublished draft."
+    "**The GitHub hold is cleared.** The paid plan and protected main are restored; original reviews are advancing.",
+    "**The TEST repair is open as #5115.** It preserves all three approved notices when the assistant is switched on or off. Independent review and installation remain pending.",
+    "**The quantity-label repair passed its first code review.** #5107 is Ready; the remaining protected review and pin result are still required before merge.",
+    "**The original iPhone work resumed.** Its owner is reconciling the existing allocation request against the recovered service and installed source. No duplicate test run was started.",
+    "**The new website remains unpublished.** #5109’s installed typography is verified at380/430/1280; final native, zoom and connected acceptance remain open."
   ],
   "openDeliveryGates": [
     {
@@ -230,7 +230,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Seven required phone checks remain unverified. Owner: Original native acceptance owner and Hands executor in the retained source-binding lineage. Wait: Native first wait remains16 October20:16UTC; source binding retains27 October15:36:42UTC.",
-      "next": "The helper repair #5106 is merged and qualified, and installed #5109 is bound. Hands acknowledged the original request at09:17UTC. After protected GitHub service recovers, the chair supplies the dated one-run allocation and Hands executes the original route. The old Mac grant remains closed; no extra attempt is assumed. Qualified source and an acknowledged request are not native or final-rating proof."
+      "next": "The helper repair #5106 is merged and qualified, and installed #5109 is bound. Hands acknowledged the original request at09:17UTC. Protected GitHub service is restored. The chair still supplies the dated one-run allocation, then Hands executes the original route. The old Mac grant remains closed; no extra attempt is assumed. Qualified source and an acknowledged request are not native or final-rating proof."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -274,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the seven original iPhone checks (waiting since16Oct20:16UTC; next check11:20Z). Source #5106 and installed #5109 are bound. Original request reached the correct keeper intake; runtime now waits on restored protected GitHub Actions and an actual dated allocation. Native0/7; no duplicate run."
+        "text": "Complete the seven original iPhone checks (waiting since16Oct20:16UTC; next check12:55Z). Source #5106 and installed #5109 are bound. GitHub recovery is verified; the original owner resumed the existing dated-allocation request. Native0/7; no duplicate run."
       },
       {
         "complete": true,
@@ -326,11 +326,11 @@
       },
       {
         "complete": false,
-        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; next check11:20Z or shared GitHub recovery). The completed repair waits for protected review. Distinct actors and connected consent evidence remain. No repeated login or activation."
+        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; next check12:55Z). Repair#5115 is open on the original source. Admission diagnosis and protected review precede its install; distinct actors and connected consent remain. No repeated login or activation."
       },
       {
         "complete": false,
-        "text": "Complete the small-screen quantity-label repair (started01:32UTC; est.20min after review resumes). #5107 has all five actual hosted groups and final gate passed; protected review waits on the shared GitHub service recovery. No rerun or unprotected merge."
+        "text": "Complete the small-screen quantity-label repair (review resumed12:20Z; est.20min after remaining checks). #5107 first review approved12:25Z; original full hosted suite passed. Second review and queued pin result remain."
       },
       {
         "complete": false,
@@ -369,7 +369,7 @@
         "text": "Consume original proof and iPhone acknowledgment (10:49Z–10:52Z, took3min). Original50/50 regression output and self-review recovered; Hands ACK closes the delivery gap. GitHub recovery and the dated run remain prerequisites."
       }
     ],
-    "landing": "Lands: next release checkpoint11:20Z or the original recovery event. The owner’s GitHub plan restoration controls review timing; the original keeper controls browser recovery. Final draft timing remains unknown until connected acceptance, native checks and the three ratings pass. No live publication."
+    "landing": "Lands: next release checkpoint12:55Z (about12min; protected review queue and the original run allocation can move it). Final draft timing remains unknown until connected acceptance, native checks and the three ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
