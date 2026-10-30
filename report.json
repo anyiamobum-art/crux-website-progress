@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Original iPhone owner resumed and acknowledged at06:02UTC; original image-comparison owner resumed and began checking saved source at06:03UTC. Existing Bridge is reconciling the due TEST writer handoff. Completed collection assembly is not restarted. No duplicate build, test or review was launched.",
+  "workerState": "Both original unfinished owners resumed and executed their next checks. The iPhone owner reconciled the existing allocation request; its keeper result is still owed. The image-comparison owner found unreadable cloud files, and a supported parent call confirmed the original Site returns404. Completed collection assembly stays closed. No duplicate builds, tests, reviews or authentication.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October06:03UTC: original unfinished group sessions resumed and performed their first checks. Earlier: #5106 merged05:20UTC and source qualification completed05:26UTC; signed TEST candidate verified05:22UTC.",
+  "lastActualProgress": "30October06:09UTC: the public snapshot was verified against all five hosted files. #5109 entered Ready at06:07UTC and passed admission at06:08UTC; its five hosted test groups are queued. Original iPhone and image owners completed the due recovery checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The iPhone run needs its original dated allocation. TEST activation needs the existing writer to preserve installed notice fields on activation and rollback. Quantity and typography are waiting for the paced review queue. Separate shopper actors and connected consent evidence remain before final ratings.",
-  "current": "The iPhone helper is merged and its released source is qualified. The original iPhone acceptance session and image-comparison session have resumed after the interruption. TEST signed-account and privacy-notice checks are complete. The quantity and homepage typography repairs continue through their existing protected review queues; the Shopify draft stays unpublished.",
+  "remaining": "The iPhone run needs its original dated allocation. TEST activation needs its existing writer to preserve installed notice fields on activation and rollback. Quantity repair remains in the paced review queue; typography is now in hosted testing and review. Separate shopper actors and connected consent evidence remain before final ratings.",
+  "current": "The homepage typography repair #5109 is Ready, its admission check passed, and its full hosted test suite is queued. The iPhone helper is merged and source-qualified. TEST signed-account and privacy-notice checks are complete. The Shopify draft stays unpublished.",
   "next": "Use the original iPhone allocation when granted; complete the original TEST activation compatibility repair while preserving the approved privacy notice. Then install the reviewed, merged quantity and typography assets and return qualified evidence to the original readers.",
-  "updated": "30October06:03UTC: source qualification39f6e187 is bound to merge9464dd3; #5107 remains Draft atd45b075a and #5109 atc619e615 in existing release queues. Previous public snapshotdac4718 matched five served files. Native0/7; final9.5 passes0/3.",
+  "updated": "30October06:11UTC: #5109 is Ready atc619e615; #5106 is merged and source-qualified at9464dd3. Public snapshot016ed63 matches all five served files. Native0/7 and final9.5 passes0/3 remain unchanged.",
   "links": [
     {
       "title": "Homepage text-size correction #5109",
@@ -206,10 +206,10 @@
   ],
   "recentChanges": [
     "The approved TEST privacy change is complete: automatic policy updates are off, original policy text is preserved, and the Ask disclosure is served and verified.",
-    "The iPhone workflow repair has both independent code approvals and all required checks passed. Protected merge remains; this adds no native or design-rating credit.",
+    "The iPhone workflow repair #5106 merged at05:20UTC; exact released helper and workflow source are qualified. Runtime allocation is still owed; no native or design-rating credit is inferred.",
     "All five actual quantity-repair test groups and the final test gate passed. Hands confirmed the result to the chair for the original review chain.",
-    "The homepage readability correction has passed its proof. Its existing Ready action is now chained in the admitted queue, with no new admission decision needed.",
-    "The original TEST sign-in succeeded after the human verification. Approved email/phone and marketing-off state were read back; the same session is now checking the unpublished candidate. Private contact details are excluded here."
+    "The homepage readability correction #5109 is Ready with admission passed. Its five hosted test groups are queued; protected review and merge remain.",
+    "The original TEST sign-in and unpublished candidate account check succeeded. The same authenticated session is retained; no repeated login. Private contact details are excluded."
   ],
   "openDeliveryGates": [
     {
@@ -302,7 +302,7 @@
       },
       {
         "complete": false,
-        "text": "Review and merge the homepage text-size correction (started04:32Z; est.20min after Ready admission). Draft #5109 atc619e615 has green proof and self-review. Hands has chained its original Ready action after #5098 at the existing queue limit; that queue has extended the estimate. Only one homepage CSS asset will be installed after protected merge."
+        "text": "Review and merge the homepage text-size correction (Ready06:07Z; est.20min after hosted runner starts). #5109 atc619e615 passed admission; its five full-test shards are queued in run41012244749 and original protected review follows. The paced queue extended the estimate. Install its single homepage CSS asset only after protected merge."
       },
       {
         "complete": true,
