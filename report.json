@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original hosted-source writer started at01:18:35UTC and was independently verified running at01:24UTC. At01:30UTC, typography proof remained unstarted because the existing test worker was occupied and spare capacity was insufficient; its next check is01:50UTC. The staff diagnosis is queued. The original product-label adoption handoff was visibly delivered to Hands at01:29UTC.",
+  "workerState": "The original quantity-label author finished01:42UTC at2cd0399d; its existing reviewer started01:44UTC and is still active. At02:00UTC the text-size proof had not started: the main worker was occupied and spare memory was below its required14GiB. The next capacity check is02:20UTC.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30 October,01:18UTC: the ten-file source qualification completed and the original hosted-source repair started. Staff follow-up #5100 is published. The stale shared-helper handoff is resolved.",
+  "lastActualProgress": "30October01:42UTC: original quantity-label adoption completed. At01:59UTC Checkout verified native access to TEST customer setup and returned without submitting the form. Existing owner-profile permission is recovered; it is not proof of signed shopper binding.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The text-size proof awaits remote test capacity. The staff release awaits its original interaction-menu diagnosis; staff follow-up #5100 is published as a Draft. Admitted shopper records and seven native checks remain outstanding.",
+  "remaining": "Server proof capacity, the original hosted-source result and seven native checks remain outstanding. TEST is connected; the separate shopper identities/contact details and exact notice decision are still needed for connected acceptance.",
   "current": "The slideshow repair #5095 is merged, installed and checked in the unpublished Shopify draft. Automatic movement works, Pause held for128seconds, and Play resumes. Controls are44px at380,430 and1280px with no horizontal overflow. The active theme and700 other draft files are unchanged.",
-  "next": "The current ten homepage files are source-qualified. At01:18UTC the original writer started the hosted test-source repair, following the chair’s route decision. Its result goes through protected review before the remaining phone checks. The homepage text-size proof continues separately when server capacity opens.",
-  "updated": "30 October,01:24UTC: source qualification and the original writer’s START are recorded. This verifies preparation and execution, not native acceptance. The Shopify draft remains unpublished; native0/7 and final9.5 passes0/3 remain open.",
+  "next": "The small-screen quantity-label repair is now adopted by its original author and in server proof. The original hosted source-binding repair continues separately. The text-size correction runs when canonical test capacity becomes available.",
+  "updated": "30October02:00UTC: original repair custody, current source and test capacity reconciled. Native0/7 and final9.5 passes0/3 remain open; Shopify stays unpublished.",
   "links": [
     {
       "title": "Slideshow readiness repair #5095",
@@ -205,11 +205,11 @@
     }
   ],
   "recentChanges": [
-    "The approved Shopify app URL correction and TEST reconnect are complete. The reviewed eight-file TEST installation is also verified; features remain off.",
-    "#5095 passed protected review and full tests, merged, and was installed as one asset in the unpublished draft. The active theme and700 other draft files were preserved.",
-    "The installed slideshow moves automatically; Pause held for128seconds and Play resumed. Controls are44px at380,430 and1280px with no horizontal overflow.",
-    "The text-size repair's test connection recovered. Its original remote job is waiting on an inherited lock; it has not been duplicated. The original staff-login repair is committed and completing proof.",
-    "The iPhone repair is still executing with its original writer. Reduced-motion emulation was unavailable in the supported browser route; that evidence and all three final9.5 passes remain open."
+    "The approved app URL correction, TEST reconnect and eight-file TEST installation remain verified. Features are off.",
+    "The installed slideshow repair passes responsive controls checks: automatic movement, Pause held for128seconds, Play resumes, and44px controls at380/430/1280px.",
+    "The original quantity-label author finished the adoption and main merge; its existing reviewer has started server proof. It is not yet merged or installed.",
+    "The homepage text-size correction is prepared. At02:00UTC no test slot met the capacity requirements; no duplicate job was started.",
+    "Native access to TEST customer setup is recovered. Your existing profile permission stands; separate test identities and the original notice decision remain necessary."
   ],
   "openDeliveryGates": [
     {
@@ -220,7 +220,7 @@
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Notice source, TEST installation and binding repair #4965 are complete. Approved notice words, designated TEST shopper identities with signed binding, and the connected consent/withdrawal results are still missing. Owner: Original C06/Website/A2 owners and original CS owner; chair retains the existing notice decision card. Wait: External facts retain12 October04:12 UTC; shared actor card retains25 October21:18:27 UTC.",
-      "next": "TEST owner login, approved app URL correction and Shopify reconnect are verified. C06 needs the already-admitted two Shopify shopper identities and signed customer-mirror binding, independently of EON staff enrollment. Resolve the existing notice decision and then follow the original reviewed TEST-only activation sequence. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
+      "next": "TEST owner login, approved app URL correction and Shopify reconnect are verified. C06 needs two distinct signed Shopify shopper bindings, independently of EON staff enrollment. Existing owner-profile permission is verified; the second shopper and disposable test identity/contact route are not yet designated. Native TEST admin navigation is now verified, with no form submission. Resolve the existing notice decision and then follow the original reviewed TEST-only activation sequence. Complete each qualified check; unknown retention facts do not hold unrelated read-only work. Assistant stays OFF."
     },
     {
       "label": "8. Final three-model ratings",
@@ -294,7 +294,7 @@
       },
       {
         "complete": false,
-        "text": "Prove and review the homepage text-size correction (started23:35Z; est.20min after test admission). The original queue ended00:41 without running tests. Current server capacity is insufficient; the existing keeper has the exact resource check. Same source and writer retained; no duplicate run or installation."
+        "text": "Prove and review the homepage text-size correction (started23:35Z; est.20min after test admission). At02:00UTC the existing worker remained occupied and spare memory was8.66GiB against14GiB required. The earlier queue ended without tests; no duplicate run is active. Next capacity check02:20UTC."
       },
       {
         "complete": true,
@@ -302,7 +302,11 @@
       },
       {
         "complete": false,
-        "text": "Complete private caller binding (started21:43Z; estimate unknown until admitted shopper records are available). TEST reconnect and installation are complete. Shopper identities and dated admissions are separate from staff login; no session or destructive-action grant is assumed."
+        "text": "Complete private caller binding (started21:43Z; estimate unknown until separate TEST identities/contact details are named). TEST reconnect and installation are verified. The existing owner profile is authorized; separate shopper B and disposable D are not designated. Native TEST admin navigation works; no account created or sign-in repeated."
+      },
+      {
+        "complete": false,
+        "text": "Complete the small-screen quantity-label repair (started01:32UTC; est.20min after test capacity). Original author adopted2cd0399d at01:42UTC; original reviewer started server proof01:44UTC. One Draft follows green proof through the existing publisher."
       },
       {
         "complete": false,
@@ -317,7 +321,7 @@
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: next text-proof capacity check01:50Z; staff diagnosis and hosted-source results follow their original owners. Final draft timing remains unknown until native, connected proof and the three final ratings pass. No live publication."
+    "landing": "Lands: next capacity and original-result check02:20UTC. Final draft timing remains unknown until native, connected proof and three final ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
