@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "At04:07UTC #5107 has one test group passed, two running and two queued. The original iPhone launcher retains its second slot-wait attempt; its owner has resumed to consume the result. Typography has no START and next checks capacity at04:15UTC.",
+  "workerState": "#5106 has all five hosted groups, both pin proofs and guards passed. Its original owner sent the exact result to the existing Hands/chair Ready chain. #5107 has one group passed, two running and two queued. Typography has no START; its next original check is04:15UTC.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October04:03UTC: exact TEST notice configuration verified after one install, with 605 draft and481 MAIN files checked. Served privacy disclosure verified in Chrome. At04:07UTC the first hosted quantity-repair test group passed.",
+  "lastActualProgress": "30October04:03UTC: TEST notice bytes and file preservation verified; original acceptance owner independently acknowledged served notice proof. At04:05UTC the iPhone workflow’s actual hosted test and pin successes were confirmed, then returned to the original release keeper.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Seven native checks and the three final ratings remain open. The iPhone proof is waiting on its original test worker. Authentic TEST shopper binding now meets a Shopify human-verification challenge; the original owner holds one action card. Distinct remaining shopper bindings are unproved.",
-  "current": "The app URL correction and TEST reconnection are complete. The approved TEST privacy notice is visibly served, and all three notice fields are installed and exactly verified. Assistant remains OFF. The small-screen repair is progressing through hosted tests; the Shopify draft stays unpublished.",
-  "next": "Consume the original iPhone and small-screen test results through protected review. Run the homepage text-size proof when its existing capacity slot admits it. Original checkout owner continues the TEST shopper binding after the human-verification challenge clears.",
-  "updated": "30October04:07UTC: TEST connection, served disclosure, exact notice installation and first quantity-repair test group. Native0/7 and final9.5 passes0/3 remain open.",
+  "current": "The approved app URL correction, TEST reconnect, served privacy disclosure and exact three-field notice installation are complete. The iPhone workflow repair has passed its five hosted test groups and pin checks; its original chair review path is next. The Shopify draft remains unpublished.",
+  "next": "Take the original iPhone workflow repair through protected review and source qualification. Consume the quantity repair’s remaining hosted tests. Run the homepage text-size proof at its original capacity boundary; continue TEST shopper binding after the existing human-verification challenge clears.",
+  "updated": "30October04:11UTC: TEST setup/notice and iPhone workflow code-test proof verified. Public task snapshot8b8010a built with five matching served files. Native0/7 and final9.5 passes0/3 remain open.",
   "links": [
     {
       "title": "Small-screen quantity repair #5107",
@@ -209,7 +209,7 @@
     "The approved TEST privacy disclosure is now served and browser-verified; the original policy text is preserved.",
     "All three notice fields are installed once and exactly verified. Unrelated draft files/settings and the MAIN theme are unchanged; the assistant stays OFF.",
     "Small-screen repair #5107 has one hosted test group passed, two running and two queued. Protected review and merge follow the actual result.",
-    "The original iPhone proof and homepage text-size proof retain their existing worker routes. TEST shopper binding now needs the visible Shopify human-verification challenge cleared through its original owner."
+    "The iPhone workflow repair #5106 has passed all five actual hosted test groups and both pin checks. Its original keeper now owns Ready/protected review; these code checks are not native acceptance."
   ],
   "openDeliveryGates": [
     {
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "Finish original iPhone workflow repairs and checks (started01:18Z; est.30min after protected merge and allocation). Draft #5106 is verified at9b89fdb7. The first queue admission timed out without running tests; its existing launcher entered attempt two at03:38:57UTC. Ready remains chair-owned. Native0/7; protected merge and exact current-source qualification remain."
+        "text": "Finish original iPhone workflow repairs and checks (started01:18Z; est.30min after protected merge and allocation). Exact #5106 passed all five actual hosted test groups, both pin proofs and guards. Original Hands/chair Ready and protected review are next. The separate local proof waiter needs its original keeper disposition. Native0/7; current-source qualification and actual device evidence remain."
       },
       {
         "complete": true,
@@ -321,15 +321,15 @@
         "text": "Verify the public task-site update (03:45Z–03:47Z, took2min). Commit3c40c96 built and all five served files matched."
       },
       {
-        "complete": false,
-        "text": "Publish the completed TEST notice milestone (started04:08Z; est.3min). Publish once, then verify the matching Pages build and served files."
+        "complete": true,
+        "text": "Publish the completed TEST notice milestone (04:06Z–04:07Z, took1min). Commit8b8010a built; all five served files match. The latest protected-review state is included in the next snapshot."
       },
       {
         "complete": true,
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: notice milestone publication about04:12UTC; original typography admission check04:15UTC. Final draft timing remains unknown until the current test jobs, protected review, connected/native checks and original final ratings pass. No live publication."
+    "landing": "Lands: original typography capacity check04:15UTC; protected repair result check04:25UTC. Final draft timing remains unknown until protected review, connected/native checks and original final ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
