@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5106 is Ready and its original protected review is running. #5107 has three groups passed, one running and one queued. Typography has no START: its eligible test slot is occupied; the next original capacity check is04:40UTC.",
+  "workerState": "#5106 has first code approval and its second review is pending. #5107 has three test groups passed and both remaining groups running. Draft #5109 carries passing text-size proof and is with the existing paced Ready chain.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October04:19UTC: the iPhone workflow repair moved to Ready through its original keeper. At04:24UTC the quantity repair had three actual test groups passed and a fourth running. TEST notice setup is complete and independently acknowledged.",
+  "lastActualProgress": "30October04:36UTC: the proved homepage text-size correction was submitted as #5109. The iPhone repair first-review approval is bound to its unchanged source; the second review is requested. TEST notice setup remains complete and independently acknowledged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Protected review and exact source qualification precede the seven native checks. Authentic TEST shopper binding meets a Shopify human-verification challenge; the original owner holds one action card. Three final ratings still need the completed native and connected evidence.",
-  "current": "The approved app URL correction, TEST reconnect, served privacy disclosure and exact notice configuration are complete. The iPhone workflow repair entered protected review at04:19UTC with its tests passed. The Shopify draft remains unpublished.",
-  "next": "Consume the original protected iPhone repair review and quantity repair tests. Run the homepage text-size proof at its original capacity boundary; continue authentic TEST shopper binding after the existing human-verification challenge clears.",
-  "updated": "30October04:25UTC: exact iPhone repair Ready event and quantity-test progress verified. Public snapshotd3f93ab has five matching served files. Native0/7 and final9.5 passes0/3 remain open.",
+  "current": "TEST is reconnected with its served privacy disclosure and verified notice configuration. The iPhone workflow repair has its first independent code approval; the second review is pending. The homepage text-size correction has passed its proof and is submitted as #5109. The Shopify draft remains unpublished.",
+  "next": "Consume the original protected iPhone repair review and quantity repair tests. Take the proved homepage text-size correction through its original review path; continue authentic TEST shopper binding after the existing human-verification challenge clears.",
+  "updated": "30October04:38UTC: #5109 publication and passing proof verified; #5106 first approval and pending second review verified. Native0/7 and final9.5 passes0/3 remain open.",
   "links": [
+    {
+      "title": "Homepage text-size correction #5109",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5109"
+    },
     {
       "title": "Small-screen quantity repair #5107",
       "path": "https://github.com/EON-CRUX/3.09/pull/5107"
@@ -172,10 +176,6 @@
     {
       "title": "Homepage repair #5080",
       "path": "https://github.com/EON-CRUX/3.09/pull/5080"
-    },
-    {
-      "title": "Account boot #5075",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5075"
     }
   ],
   "source": "Published projection of the original task report",
@@ -206,10 +206,10 @@
   ],
   "recentChanges": [
     "The app URL correction and TEST reconnection are complete; no repeat reconnect was attempted.",
-    "The approved TEST privacy disclosure is now served and browser-verified; the original policy text is preserved.",
-    "All three notice fields are installed once and exactly verified. Unrelated draft files/settings and the MAIN theme are unchanged; the assistant stays OFF.",
-    "Small-screen repair #5107 has three hosted test groups passed, one running and one queued. Protected review and merge follow the actual result.",
-    "The iPhone workflow repair #5106 has passed all five actual hosted test groups and both pin checks. Its original keeper marked it Ready at04:19UTC; protected review is now running. These code checks are not native acceptance."
+    "The approved TEST disclosure is served and browser-verified, and all three notice fields exactly match their single installation. Original policy, unrelated draft files/settings and MAIN are preserved; the assistant stays OFF.",
+    "Small-screen repair #5107 has three hosted test groups passed and both remaining groups running. Protected review and merge follow the actual result.",
+    "The iPhone workflow repair #5106 has its first independent code approval with zero findings. Its required second review is pending. These code checks do not replace native acceptance.",
+    "The homepage text-size correction passed4 selected tests and12 mutation checks, and is published as #5109 for protected review."
   ],
   "openDeliveryGates": [
     {
@@ -293,8 +293,12 @@
         "text": "Review, merge and install the slideshow repair (23:30Z–00:18Z, took48min). Hosted tests and protected merge passed; exact single-asset unpublished installation verified. Hosted queue and readback extended the estimate."
       },
       {
+        "complete": true,
+        "text": "Prove the homepage text-size correction (04:29Z–04:32Z, took3min). The original worker ran the unchanged prepared proof once; all4 selected tests and12 mutation checks passed."
+      },
+      {
         "complete": false,
-        "text": "Prove and review the homepage text-size correction (started23:35Z; est.20min after test admission). At04:15UTC available memory17.52GiB passes, but queue10 exceeds8 and the only eligible slot is occupied. No proof START. The original owner checks at04:40UTC or an earlier admission event."
+        "text": "Review and merge the homepage text-size correction (started04:32Z; est.20min after review admission). Draft #5109 atc619e615 is published with its green proof and self-review. The original paced Ready chain has the exact request. Only one homepage CSS asset will be installed after protected merge."
       },
       {
         "complete": true,
@@ -310,7 +314,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the small-screen quantity-label repair (started01:32UTC; est.20min after hosted tests finish). Draft #5107 atd45b075a passes admission. At04:24UTC three hosted groups passed, one runs and one queues. Consume the existing run, then chair Ready and protected review; no rerun."
+        "text": "Complete the small-screen quantity-label repair (started01:32UTC; est.20min after hosted tests finish). Draft #5107 atd45b075a passes admission. At04:39UTC three hosted groups passed and both remaining groups run. Consume the existing run, then chair Ready and protected review; no rerun."
       },
       {
         "complete": false,
@@ -329,7 +333,7 @@
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: original typography capacity check04:40UTC; protected iPhone repair result check04:50UTC or an earlier result. Final draft timing remains unknown until protected review, connected/native checks and original final ratings pass. No live publication."
+    "landing": "Lands: homepage submission and remaining quantity tests are running; original protected iPhone result check04:50UTC or an earlier result. Final draft timing remains unknown until protected review, connected/native checks and original final ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
