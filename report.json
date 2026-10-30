@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original TEST repair writer resumed at08:57UTC with the same session and history and is running. The native owner has adopted the installed source; execution awaits the shared GitHub recovery and dated allocation. No duplicate writer or iPhone run.",
+  "workerState": "The original TEST repair finished at09:05UTC; its exact pushed commit7e130049 is verified. The worker reports64 passing tests and50/50 regression checks. No PR, independent approval or installation is claimed. The native source is qualified; its run still awaits GitHub recovery and a dated allocation.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October08:55UTC: #5109 installed and rendered at380/430/1280. All701 draft files preserved; active theme unchanged. Direction links measure44px high. The Chrome window is released and the signed TEST tab retained.",
+  "lastActualProgress": "30October09:21UTC: consumed the original TEST repair and verified its remote commit. #5109 is already merged, installed and responsive-checked. The200% attempt recorded a supported browser-control failure and released Chrome without changing zoom or store settings.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "GitHub organisation billing/protection recovery is with the chair and owner. It blocks protected reviews and hosted iPhone checks. The new typography still needs genuine200% proof: the browser-control route could not expose its native zoom controls. TEST consent and distinct shopper actors remain outstanding.",
   "current": "#5109 passed protected review and all five full-test groups, merged at07:15UTC, and was installed in the unpublished draft at08:47UTC. Its exact hosted CSS matches. Responsive checks at380/430/1280 passed with no horizontal page overflow. The active theme is unchanged.",
-  "next": "Consume the original TEST writer’s running notice-preservation repair, then take its tested result through protected review and the activation check. Resume protected review and the original iPhone run when the shared GitHub service and dated allocation are available. Keep all final reviews bound to the installed source.",
-  "updated": "30October09:16UTC: #5109 is merged, installed and responsive-checked. Public snapshot993f7b3 built and all five files matched. The bounded200% attempt recorded a browser capability failure, without changing zoom or store settings. Native0/7 and final9.5 passes0/3 remain unproved.",
+  "next": "Take the completed TEST repair and the passing quantity-label repair through protected review when GitHub service is restored. Then complete connected TEST consent, the original iPhone checks and the three original final named-fix reviews.",
+  "updated": "30October09:21UTC: TEST repair7e130049 remote-confirmed; source and worker proof are separate from pending independent review. Public snapshot18fa328 built with five matching files. Native0/7 and final9.5 passes0/3 remain unproved.",
   "links": [
     {
       "title": "Homepage text-size correction #5109",
@@ -208,7 +208,7 @@
     "**Homepage typography is reviewed, merged and installed.** #5109 is now in the unpublished Shopify draft, with exact hosted-file verification and all unrelated files preserved.",
     "**Responsive reading checks passed.** At380/430/1280, the store and product section headings fit with no horizontal page overflow; store direction buttons measure44px high. The new200% and iPhone evidence is still outstanding.",
     "**The iPhone request reached the correct queue.** Its earlier mailbox mismatch is fixed. No iPhone run or result is claimed yet.",
-    "**TEST repair resumed.** The same original writer is running on an available worker after the provider refusal. The separate shared GitHub account prerequisite still prevents protected review and hosted iPhone runs.",
+    "**TEST repair finished.** The original writer preserved the three approved notices through both activation and rollback. Its pushed commit is verified; independent review and installation are held by the shared GitHub account prerequisite.",
     "**The active storefront was not published or changed.** The new homepage remains a draft."
   ],
   "openDeliveryGates": [
@@ -321,8 +321,12 @@
         "text": "Install and verify the TEST privacy notice and three fields (03:49Z–04:03Z, took14min). Automated policy OFF verified; original policy retained plus only the approved disclosure. Served browser proof and exact configuration bytes match; all unrelated files/settings and MAIN preserved. Assistant stays OFF."
       },
       {
+        "complete": true,
+        "text": "Complete the original TEST notice-preservation repair (08:57Z–09:05Z, took8min). Exact pushed commit7e130049 verified; original worker reports64 passing cases and50/50 regression checks. Independent review and installation remain pending."
+      },
+      {
         "complete": false,
-        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; writer resumed08:57Z; est.20min for its bounded repair). The original writer is running on an available worker with the same session and history. Protected review, distinct actors and consent evidence remain. No repeated login or activation."
+        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; next check09:40Z or shared GitHub recovery). The completed repair waits for protected review. Distinct actors and connected consent evidence remain. No repeated login or activation."
       },
       {
         "complete": false,
@@ -357,7 +361,7 @@
         "text": "Complete genuine200% on installed typography (09:10Z–09:16Z attempted; supported browser route blocked). Draft source is bound; zoom was not established. The original keeper owns recovery."
       }
     ],
-    "landing": "Lands: original TEST repair result due for reconciliation09:25Z (about9min; running remote writer may extend it). Final draft timing is unknown until protected review, connected acceptance, native checks and the three ratings pass. No live publication."
+    "landing": "Lands: next release checkpoint09:40Z or shared GitHub recovery (timing depends on the owner’s account repair). Final draft timing remains unknown until protected review, connected acceptance, native checks and the three ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
