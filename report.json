@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "#5106 has both independent code approvals; its automatic required check and merge remain. #5107 has four test groups passed and its final group running. Draft #5109 carries passing text-size proof and exact-head acceptance in the existing paced Ready chain.",
+  "workerState": "The original iPhone acceptance owner follows #5106 through merge and source qualification. Original Checkout checks the signed candidate page; the original Companion owner resolves its existing consent contract. #5107 and #5109 retain their paced Ready/review routes.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October04:46UTC: the iPhone repair received its second independent code approval with zero findings; TEST shopper email binding was saved and read back on the existing record. No login, message or order was sent.",
+  "lastActualProgress": "30October05:17UTC: the final required #5106 mutation check and guards passed. TEST signed-profile readback at05:15UTC verified the approved email and phone, signed controls and email marketing off.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -101,7 +101,7 @@
       "6. Assistant privacy facts",
       "Source merged; CRUX notice and TEST installations verified",
       "Account-page #4948 merged17:55:27Z and all120 TEST files verified18:16:51Z;119 raw matches and one exact-known-prefix normalization. Original481 files/settings preserved. Notice-copy #4951 installed with exact bytes and preservation. Activation safeguard #4949 merged.",
-      "Complete approved privacy inputs, retention and authenticated A/B acceptance with the original owners. TEST binding repair #4965 merged; approved notice words and actual authenticated TEST bindings are still needed. Assistant stays OFF."
+      "TEST privacy words and three notice fields are installed and served-verified; signed profile is verified. Complete candidate identity/fence, distinct actor and consent/withdrawal acceptance with the original owners. Assistant stays OFF."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The automatic required check, merge and exact source qualification precede the seven native checks. TEST now needs the original signed-in shopper and distinct actor qualification. Three final ratings still need completed native and connected evidence.",
-  "current": "TEST is reconnected and its approved privacy disclosure is served and verified. The iPhone workflow repair has both independent code approvals and its final check is running. All five quantity-repair test groups and the final gate have passed. The proved homepage text-size correction is queued through the original review chain. The Shopify draft remains unpublished.",
-  "next": "Consume the existing required-check results, merge through protected review, then install only each reviewed asset into the unpublished draft. The one authorized TEST sign-in reached Shopify’s human connection-verification screen; code delivery and signed-session acceptance remain unconfirmed.",
-  "updated": "30October04:49UTC: both original #5106 code approvals verified; #5107 four passing groups and one running group; TEST A binding confirmed by its original owner. Native0/7 and final9.5 passes0/3 remain open.",
+  "remaining": "Protected merge and exact source qualification precede the seven native checks. The signed TEST profile is verified; candidate identity, distinct test actors and connected consent still need acceptance. Three final ratings need completed native and connected evidence.",
+  "current": "TEST sign-in is verified on the original session, with email marketing off. Its candidate-theme check is running. The iPhone workflow repair has both independent code approvals and all required checks passed; protected merge is next. The quantity repair and homepage text correction remain in their original review queues. The Shopify draft stays unpublished.",
+  "next": "Consume the original signed candidate-account result and existing consent admission. Follow protected merge, then install only reviewed changed assets in the unpublished draft. No repeated login or code.",
+  "updated": "30October05:20UTC: #5107 and #5109 remain Draft at their exact green-proof heads. #5106 checks are green. Signed TEST authentication is verified, but candidate/fence acceptance remains open. Native0/7; final9.5 passes0/3.",
   "links": [
     {
       "title": "Homepage text-size correction #5109",
@@ -206,10 +206,10 @@
   ],
   "recentChanges": [
     "The approved TEST privacy change is complete: automatic policy updates are off, original policy text is preserved, and the Ask disclosure is served and verified.",
-    "The iPhone workflow repair has both independent code approvals. Its final required mutation check is executing; this adds no native or design-rating credit.",
+    "The iPhone workflow repair has both independent code approvals and all required checks passed. Protected merge remains; this adds no native or design-rating credit.",
     "All five actual quantity-repair test groups and the final test gate passed. Hands confirmed the result to the chair for the original review chain.",
     "The homepage readability correction has passed its proof. Its existing Ready action is now chained in the admitted queue, with no new admission decision needed.",
-    "The original TEST owner verified the intended address and submitted sign-in once. Shopify now requires human connection verification; delivery is unconfirmed and no resend will occur. Private contact details are excluded here."
+    "The original TEST sign-in succeeded after the human verification. Approved email/phone and marketing-off state were read back; the same session is now checking the unpublished candidate. Private contact details are excluded here."
   ],
   "openDeliveryGates": [
     {
@@ -270,7 +270,7 @@
       },
       {
         "complete": false,
-        "text": "Finish original iPhone workflow repairs and checks (started01:18Z; est.30min after protected merge and allocation). #5106 has both independent code approvals. The final required pin-check is now executing; the other pin-check and guards passed. No replacement run. Native0/7; current-source device evidence remains."
+        "text": "Finish original iPhone workflow repairs and checks (started01:18Z; est.30min after protected merge and allocation). #5106 has both independent code approvals. Both pin-checks and guards passed at05:17UTC. Protected merge is next; no replacement run. Native0/7; current-source device evidence remains."
       },
       {
         "complete": true,
@@ -310,7 +310,7 @@
       },
       {
         "complete": false,
-        "text": "Complete authentic TEST shopper bindings (started21:43Z; waiting on the original connection-verification screen). The intended address is saved and verified on the same record. One authorized sign-in was submitted; Shopify requires human connection verification before code delivery can be confirmed. No resend. Separate actors and signed-session evidence remain."
+        "text": "Complete authentic TEST shopper bindings (started21:43Z; signed profile verified05:15Z; candidate check running). One sign-in succeeded. The original session verifies the approved email/phone and marketing off. The candidate identity/fence, separate actors and consent checks remain; no repeated login."
       },
       {
         "complete": false,
@@ -333,7 +333,7 @@
         "text": "Publish the original authentication PR milestone (19:47Z–19:49Z, took2min). Commit11ada69 built; all five served files match. Draft #5083 remains distinct from review and native acceptance."
       }
     ],
-    "landing": "Lands: next protected-result check about05:15Z (est.8min; runner completion and the existing Ready queue may move it). Final draft timing remains unknown until protected review, connected/native checks and original final ratings pass. No live publication."
+    "landing": "Lands: next original candidate and release results about05:30Z (est.10min; shared-browser and paced review queues may move it). Final draft timing remains unknown until protected review, connected/native checks and original final ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
