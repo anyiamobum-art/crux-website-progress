@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Hands opened #5115 at12:37UTC with the original source and authentic self-review. The first #5107 review approved at12:25UTC. The original iPhone owner is checking the existing run request; no native result or final design rating is claimed.",
+  "workerState": "#5115 hosted test group4 is in progress; other groups and its pin check are queued. #5107’s pin check is in progress. The original iPhone source qualification is complete; its run has not been authorized or dispatched. No final rating is claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "30October12:38UTC: the original TEST repair was published as Draft#5115 with exact-head acceptance. The original iPhone owner resumed after the GitHub gate cleared. #5107’s first code review is approved.",
+  "lastActualProgress": "30October12:54UTC: the original admission log was recovered and proved Draft-only, with eleven other requirements passing. TEST hosted tests and the quantity-label pin check have started. At12:45UTC Bridge delivered the qualified iPhone source to the existing Hands case.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The GitHub account-plan hold is closed. #5115’s admission result needs its exact diagnosis before the next review step; #5107 awaits its remaining protected results. A dated iPhone run allocation, genuine browser zoom and distinct shopper/consent evidence remain separate prerequisites.",
-  "current": "GitHub protection and review service are restored. The TEST privacy-preservation repair is open as #5115 on its original tested source. #5107 is Ready and has its first independent code approval. #5109 is already installed and responsive-checked in the unpublished draft.",
-  "next": "Resolve the TEST repair’s admission result and complete its original protected review. Consume the remaining quantity-label review and pin check, then install the merged CSS in the draft. The original iPhone owner has resumed its existing allocation request.",
-  "updated": "30October12:42UTC: Team plan and protected main are verified by direct GitHub reads; #5115 is open and #5107 is Ready with first approval. The previous public snapshot334792a was verified against all five served files. Native0/7 and final9.5 passes0/3 remain unproved.",
+  "remaining": "There is no current GitHub plan or unexplained admission blocker. Required TEST tests and the quantity repair’s remaining checks are running. A dated iPhone run slot, genuine browser zoom and distinct shopper/consent evidence remain open.",
+  "current": "GitHub protection and review service are restored. TEST repair #5115 is running its hosted tests. Its admission log is recovered: the only refusal is the Draft flag; the other eleven requirements passed. #5107 has its first independent approval and its remaining pin check is now running.",
+  "next": "Let the original hosted checks finish, then move #5115 into protected review on the same source and in the existing queue. Complete #5107’s remaining review and merge before its single CSS installation. Hands has the qualified iPhone source and the existing request for a dated run slot.",
+  "updated": "30October12:55UTC: #5115 remains on7e130049 and #5107 ond45b075a; neither is merged. The public snapshotd319fe4 was built and all five served files matched. Native0/7 and final9.5 passes0/3 remain unproved.",
   "links": [
     {
       "title": "TEST privacy-preservation repair #5115",
@@ -206,9 +206,9 @@
   ],
   "recentChanges": [
     "**The GitHub hold is cleared.** The paid plan and protected main are restored; original reviews are advancing.",
-    "**The TEST repair is open as #5115.** It preserves all three approved notices when the assistant is switched on or off. Independent review and installation remain pending.",
+    "**The TEST repair is running its hosted tests.** #5115 preserves all three approved notices when the assistant is switched on or off. Its admission refusal is proven Draft-only; no additional code repair or rerun is needed for that result.",
     "**The quantity-label repair passed its first code review.** #5107 is Ready; the remaining protected review and pin result are still required before merge.",
-    "**The original iPhone work resumed.** Its owner is reconciling the existing allocation request against the recovered service and installed source. No duplicate test run was started.",
+    "**The iPhone source check is complete.** The current helper/workflow files and installed homepage are bound to the original request. Hands has the result; a dated run slot is still needed.",
     "**The new website remains unpublished.** #5109’s installed typography is verified at380/430/1280; final native, zoom and connected acceptance remain open."
   ],
   "openDeliveryGates": [
@@ -274,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the seven original iPhone checks (waiting since16Oct20:16UTC; next check12:55Z). Source #5106 and installed #5109 are bound. GitHub recovery is verified; the original owner resumed the existing dated-allocation request. Native0/7; no duplicate run."
+        "text": "Complete the seven original iPhone checks (waiting since16Oct20:16UTC; next check13:10Z). Source #5106 and installed #5109 are bound. Allfour current helper/workflow files match the qualified release. Original Bridge delivered this result to Hands at12:45Z; the dated run slot is pending. Native0/7; no duplicate run."
       },
       {
         "complete": true,
@@ -326,11 +326,11 @@
       },
       {
         "complete": false,
-        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; next check12:55Z). Repair#5115 is open on the original source. Admission diagnosis and protected review precede its install; distinct actors and connected consent remain. No repeated login or activation."
+        "text": "Complete authentic TEST shopper bindings (signed candidate verified05:22Z; next check13:10Z). Repair#5115 is open on the original source. Admission is proven Draft-only; required tests are running before protected review and install. Distinct actors and connected consent remain. No repeated login or activation."
       },
       {
         "complete": false,
-        "text": "Complete the small-screen quantity-label repair (review resumed12:20Z; est.20min after remaining checks). #5107 first review approved12:25Z; original full hosted suite passed. Second review and queued pin result remain."
+        "text": "Complete the small-screen quantity-label repair (review resumed12:20Z; est.20min after remaining checks). #5107 first review approved12:25Z; original full hosted suite passed. Second review and the running pin result remain; queue delay has exceeded the initial estimate."
       },
       {
         "complete": false,
@@ -369,7 +369,7 @@
         "text": "Consume original proof and iPhone acknowledgment (10:49Z–10:52Z, took3min). Original50/50 regression output and self-review recovered; Hands ACK closes the delivery gap. GitHub recovery and the dated run remain prerequisites."
       }
     ],
-    "landing": "Lands: next release checkpoint12:55Z (about12min; protected review queue and the original run allocation can move it). Final draft timing remains unknown until connected acceptance, native checks and the three ratings pass. No live publication."
+    "landing": "Lands: next protected-result check13:10Z (about15min; running hosted tests and the original run allocation can move it). Final draft timing remains unknown until connected acceptance, native checks and the three ratings pass. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -383,7 +383,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: both approved settings changes are complete and verified. TEST reconnect and its reviewed eight-file draft installation are complete; connected acceptance remains open.",
+    "landing": "Lands: next protected-result check13:10Z (about15min; running hosted tests and the original run allocation can move it). Final draft timing remains unknown until connected acceptance, native checks and the three ratings pass. No live publication.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
