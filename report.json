@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 09:29 UTC. Installed the four preferences and budget files on the unpublished TEST copy. Saved-look editing and style-data download and removal remain in the same build.",
+  "lastActualProgress": "1 November, 09:55 UTC. Verified why Order help is absent on TEST. Prepared a disabled configuration and checked that it can be reversed byte for byte.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The remaining checks need qualified TEST shopper sessions, a shared browser release and a dated iPhone test slot. The original readers need those results before they can score the remaining design findings.",
-  "current": "The unpublished TEST shop now contains the reviewed preferences and budget controls. The next check is to sign in as two different shoppers and verify what each can see.",
+  "current": "The preference and budget controls are installed in TEST. The two-shopper check is waiting for its TEST browser slot. For Order help, the shopping-companion team has the exact page addresses and a disabled configuration it can test safely once signed forwarding is verified.",
   "next": "Use the original signed TEST shopper sessions for the account journey. In parallel, Hands needs the chair to allocate a device from the supported small iPhones, and the Website team is waiting for a supported browser session for the 200% check.",
-  "updated": "1 November, 09:29 UTC. The four files match the reviewed merge. All 601 other TEST draft files and all 481 files in its active theme match the prior inventory. The real shopper and iPhone checks are still open.",
+  "updated": "1 November, 10:02 UTC. Customer care returned its browser turn. Checkout is next for the TEST shopper check. The separate small iPhone slot is still unassigned.",
   "links": [
     {
       "title": "Shopping Companion preferences #5127",
@@ -208,7 +208,8 @@
     "The Shopping Companion on the unpublished TEST shop now contains the controls for a shopper to save style preferences and a budget in naira.",
     "Shopify returned all four files byte for byte as reviewed. The existing saved-look controls, account settings and approved privacy notice are preserved.",
     "No customer account was used in the installation. A signed-in shopper still needs to demonstrate that a saved budget comes back in the right account after signing out and back in.",
-    "The CRUX draft still has seven iPhone checks outstanding. Hands has the request for the first device run and for the shared TEST browser."
+    "The CRUX draft still has seven iPhone checks outstanding. Hands has the request for the first device run and for the shared TEST browser.",
+    "Order help is switched off in TEST. The shopping-companion owner confirmed the test opens a different page from the storefront account link. Checkout has requested a read-only order check before the feature is enabled."
   ],
   "openDeliveryGates": [
     {
@@ -273,7 +274,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting for the dated device allocation since 16 October at 20:16 UTC. On 1 November the original device owner verified the workflow, its tests and all 20 dependencies used to identify the draft. Next check 10:02 UTC on 1 November."
+        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting for the dated device allocation since 16 October at 20:16 UTC. On 1 November the original device owner verified the workflow, its tests and all 20 dependencies used to identify the draft. Next check 10:32 UTC on 1 November."
       },
       {
         "complete": true,
@@ -333,7 +334,7 @@
       },
       {
         "complete": false,
-        "text": "Verify two distinct TEST shoppers and exercise consent and withdrawal. Waiting for eligible shopper sessions and shared browser release. Next check 10:02 UTC on 1 November."
+        "text": "Verify two distinct TEST shoppers and exercise consent and withdrawal. Waiting for eligible shopper sessions and shared browser release. Next check 10:32 UTC on 1 November."
       },
       {
         "complete": true,
@@ -369,7 +370,7 @@
       },
       {
         "complete": false,
-        "text": "Check the installed homepage and cart at genuine 200% zoom. The original browser holder must release the shared session to the Website team. Next check 10:02 UTC on 1 November."
+        "text": "Check the installed homepage and cart at genuine 200% zoom. The original browser holder must release the shared session to the Website team. Next check 10:32 UTC on 1 November."
       },
       {
         "complete": true,
@@ -398,9 +399,13 @@
       {
         "complete": true,
         "text": "Install and verify the four Shopping Companion files on unpublished TEST (09:22Z–09:29Z). Four matched the reviewed release. All 601 other files and the active TEST theme were preserved."
+      },
+      {
+        "complete": true,
+        "text": "Trace Order help from the installed TEST account page and rehearse its disabled configuration offline (09:49Z–09:55Z). The original shopping-companion owner has the two page addresses and the rollback."
       }
     ],
-    "landing": "Lands: next access check at about 10:02 UTC on 1 November. A finish time depends on the shared browser, iPhone allocation and three final reviews."
+    "landing": "Lands: next access check at about 10:32 UTC on 1 November. A finish time depends on the shared browser, iPhone allocation and three final reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
