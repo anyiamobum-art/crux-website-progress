@@ -142,8 +142,8 @@
   ],
   "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
   "current": "Look 01 has a working tap target on the yellow Ball Tee. It opens the runway photo beside the actual green catalog photo. Shoppers can open the product or carry the piece into a store enquiry.",
-  "next": "Have the original independent readers assess this exact private preview. Hands and the original tester are also correcting two issues in the small-iPhone test.",
-  "updated": "1 November, 22:01 UTC. One approved image-model result is implemented. Two readers contributed design ideas. The four independent ratings for this feature are pending.",
+  "next": "Finish the original builder’s combined repairs and demonstrate them on phones, keyboard and the real product return. Preserve the four independent review histories.",
+  "updated": "1 November, 22:16 UTC. Two of four requested readers returned first reviews. Neither gave an overall 9.5. Both found a problem returning to the photographed garment. The original builder is testing the corrections.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,14 +205,26 @@
     }
   ],
   "designScorecard": {
-    "current": "White Runway with a shoppable jersey · 986674d3 · independent scores pending",
+    "current": "Runway garment inspection · 986674d3 · two independent reviews returned, four passes outstanding",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
         "scope": "JEV shopper comparison",
-        "reader": "Four requested readers",
-        "score": "Awaiting scores",
-        "version": "One verified garment hotspot, eleven manual comparisons, and six tested returns on 986674d3. Four independent scores are pending."
+        "reader": "Astra 6",
+        "score": "No overall score",
+        "version": "First review, 986674d3. Finding the piece 9.1; knowing what is sold 9.6; continuing to product or store 9.2; returning to the look 8.3. Phone and keyboard evidence incomplete."
+      },
+      {
+        "scope": "JEV shopper comparison",
+        "reader": "Argon",
+        "score": "No overall score",
+        "version": "First review, 986674d3. Finding the piece 7.5; knowing what is sold 7.5; continuing to product or store 7.5; returning to the look 6.5. Phone and keyboard evidence incomplete."
+      },
+      {
+        "scope": "JEV shopper comparison",
+        "reader": "Fable 5.1 and Opus 5.5",
+        "score": "Awaiting reviews",
+        "version": "Fable reported its usage limit. The original Opus review seat is pending. No current feature pass from any of the four readers."
       },
       {
         "scope": "Runway",
@@ -250,7 +262,7 @@
     {
       "journey": "Inspect a piece",
       "state": "In the private prototype",
-      "action": "Tap the jersey or select a piece. Compare original photos, open its product or ask a store. One-action return was exercised at two widths inside the private preview."
+      "action": "Tap the jersey or select a piece. Compare original photos, open its product or ask a store. The real product journey is verified. Restoring the exact shirt marker after Back is under repair."
     },
     {
       "journey": "Dress the look",
@@ -276,8 +288,8 @@
   "recentChanges": [
     "Tap the + on Look 01’s yellow Ball Tee to inspect the garment. The original runway and catalog photos stay visible together, with their colours identified.",
     "One approved JEV image test placed the target on the jersey. The other eleven pairings support manual inspection.",
-    "Going to a product or drafting a store enquiry and coming back restored the selected garment in six preview journeys. The external product page and real iPhone still need separate checks.",
-    "The first small-iPhone run could not confirm the draft assets and zoom. The original tester has two specific repairs for the next run."
+    "The live Ball Tee product page offered green and yellow at ₦93,700. Browser Back returned to its garment row. Both readers flagged that a shopper who started on the shirt should return to the shirt marker.",
+    "Both first reviews are recorded on the scorecard. The original builder is correcting return focus, overlapping controls, missing detail in the comparison and photo failure states. The original iPhone run still needs its source and zoom evidence."
   ],
   "openDeliveryGates": [
     {
