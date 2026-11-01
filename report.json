@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner has selected the October 3 “MAKE AN ENTRANCE.” homepage and will choose between two Closer Look interactions.",
-  "workerState": "The original tester returned the browser at 12:59 UTC. Hands and Bridge own its recovery. Bridge acknowledged the separate hosted small-iPhone request. At the 13:12 check the chair had given no date or queue position.",
+  "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
+  "workerState": "The original designer, review-packet supporter and release supporter are continuing their existing scopes. The selected package has one Runway entry; there have been no Shopify writes.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 14:34 UTC. The corrected Closer Look interactions passed all six phone-size and desktop browser cases. The alternate Shopify templates also rendered offline.",
+  "lastActualProgress": "1 November, 14:59 UTC. The selected Runway package rendered identically to its tested preview. Read-only reconciliation confirmed that none of its proposed new files has been installed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The tester still needs independent signed-session isolation and consent and withdrawal evidence. The seven native checks need a dated small-iPhone run, and the installed homepage and cart need genuine 200% zoom proof.",
-  "current": "Two working Closer Look previews are ready for the owner to choose between on the original October 3 homepage. The Runway shows five styled CRUX looks. The Turn shows the Frost Blue ringer tee from the front and back.",
-  "next": "Take the owner’s selection into independent design review, then verify the selected treatment on the unpublished Shopify draft.",
-  "updated": "1 November, 14:34 UTC. Both comparison pages preserve the original campaign hero and the following homepage sections. Original final rating passes remain 0/3.",
+  "remaining": "The selected candidate has no independent design rating yet. Historical final native and connected acceptance gaps remain open and carry no new completion credit.",
+  "current": "The owner selected The Runway. Its five styled CRUX looks are being prepared for independent review and installation into the unpublished draft, preserving the October 3 homepage.",
+  "next": "Complete the original independent reviews, address their named findings, then review, merge and verify the selected homepage in the unpublished Shopify draft.",
+  "updated": "1 November, 14:59 UTC. The selected-only package preserves the October 3 hero. The 701-file draft and 550-file active theme are unchanged. No score transfers from an earlier design.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "The owner chose the original October 3 homepage with “MAKE AN ENTRANCE.” The two new designs go inside “A Closer Look.” The archival page is available to scroll in its original preview.",
-    "Five photographed studio looks have been matched to their catalogue records for the runway option. The second option uses the same Frost Blue ringer tee from the front and back. Both original photo files match the October archive.",
-    "Both private comparison pages are available. Each preserves the original hero images and every section after Closer Look. The five runway photos and the two garment views were fetched and verified in the previews. The owner can try both before choosing which design goes to review. Both versions passed six responsive browser cases after corrections to swipe handling, the phone index, link arrow and control movement when text wraps."
+    "The owner selected **The Runway**: five styled CRUX looks revolving in A Closer Look on the October 3 homepage.",
+    "The selected-only Shopify package preserves the exact rendered Runway and original hero. It contains one entry instead of both comparison options.",
+    "Original design, review preparation and release work have resumed. Independent ratings, protected review and unpublished installation are the next gates; no Shopify write or live publication has occurred."
   ],
   "openDeliveryGates": [
     {
@@ -467,11 +467,23 @@
         "text": "Check both treatments at 380, 430 and 1280 pixels (14:22Z–14:34Z). Touch gestures, desktop controls, keyboard selection and reduced motion passed in the browser test. Native iPhone and independent design ratings remain separate."
       },
       {
+        "complete": true,
+        "text": "Record the owner’s Runway selection and qualify its selected-only draft package (14:55Z–14:59Z, took 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Review the selected treatment with the original independent readers (after owner selection)."
+        "text": "Prepare the exact-source review packet and continue the original independent readers (started 14:59Z, est. 15 min)."
+      },
+      {
+        "complete": false,
+        "text": "Address any named findings and complete protected review and merge (est. dependent on findings and hosted checks)."
+      },
+      {
+        "complete": false,
+        "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: both comparisons were available by 14:20Z. The next design review depends on the owner’s selection."
+    "landing": "Lands: the review packet is expected about 15:14Z (15 min left). Reviewer findings, provider access and protected checks determine the draft handover time; live publication remains off."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
