@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The private shopper comparison is built at 986674d3. The underlying white Runway still needs its original protected-review handoff. The installed Shopify draft is a separate version.",
+  "workerState": "Private build 039e14f6 is served and verified. Astra passed all five named fixes on dc6c13cf. The other original reader is checking its findings. The unified build has no independent grade yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On this version WebKit exercised all 12 garment comparisons at 380 and 1280 pixels. Six return journeys restored the chosen piece and page position. The test opened the store enquiry without sending it.",
+  "lastActualProgress": "Yellow / L showed the matching yellow product photo. One Add to bag click reached the native form exactly once in the private test. Changing stores kept the same piece, colour and size; Back restored the choice.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
-  "current": "Look 01 has a working tap target on the yellow Ball Tee. It opens the runway photo beside the actual green catalog photo. Shoppers can open the product or carry the piece into a store enquiry.",
-  "next": "Finish the original builder’s combined repairs and demonstrate them on phones, keyboard and the real product return. Preserve the four independent review histories.",
-  "updated": "1 November, 22:16 UTC. Two of four requested readers returned first reviews. Neither gave an overall 9.5. Both found a problem returning to the photographed garment. The original builder is testing the corrections.",
+  "remaining": "The remote test worker timed out before accepting the combined suite. The Shopify TEST tab still shows the password page. Native iPhone checks and final draft reviews remain open.",
+  "current": "The October 3 Runway, collection, product photos, size choices and store enquiries now work together in one private build.",
+  "next": "Collect the remaining named-fix read, diagnose the measured photo-open cost and run the combined test suite when its remote worker is reachable.",
+  "updated": "01 November, 23:05 UTC. The latest completed second-review scores were 9.46 from Astra and 8.10 from Argon on dd9fa5a6. Conversion lift has not been measured.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,20 +205,20 @@
     }
   ],
   "designScorecard": {
-    "current": "Runway garment inspection · 986674d3 · two independent reviews returned, four passes outstanding",
+    "current": "Unified private shopping journey · 039e14f6 · no independent score yet. Astra passed five named repairs on dc6c13cf without issuing a new score. The other named check is pending.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
         "scope": "JEV shopper comparison",
         "reader": "Astra 6",
-        "score": "No overall score",
-        "version": "First review, 986674d3. Finding the piece 9.1; knowing what is sold 9.6; continuing to product or store 9.2; returning to the look 8.3. Phone and keyboard evidence incomplete."
+        "score": "9.46/10",
+        "version": "Second review of dd9fa5a6. Lowest criterion 9.2. Original five findings resolved. All five named fixes on dc6c13cf passed the final check. No new grade was issued."
       },
       {
         "scope": "JEV shopper comparison",
         "reader": "Argon",
-        "score": "No overall score",
-        "version": "First review, 986674d3. Finding the piece 7.5; knowing what is sold 7.5; continuing to product or store 7.5; returning to the look 6.5. Phone and keyboard evidence incomplete."
+        "score": "8.10/10",
+        "version": "Second review of dd9fa5a6. Lowest criterion 7.5. Six of eight earlier findings resolved. Product magnification and return visibility remain partial."
       },
       {
         "scope": "JEV shopper comparison",
@@ -261,8 +261,8 @@
   "reusePlan": [
     {
       "journey": "Inspect a piece",
-      "state": "In the private prototype",
-      "action": "Tap the jersey or select a piece. Compare original photos, open its product or ask a store. The real product journey is verified. Restoring the exact shirt marker after Back is under repair."
+      "state": "Verified in the unified private build",
+      "action": "Twelve garment entries across five looks. Tap the jersey, compare photos, choose a size or ask a store. A browser journey verifies the selected choice on return."
     },
     {
       "journey": "Dress the look",
@@ -286,10 +286,11 @@
     }
   ],
   "recentChanges": [
-    "Tap the + on Look 01’s yellow Ball Tee to inspect the garment. The original runway and catalog photos stay visible together, with their colours identified.",
-    "One approved JEV image test placed the target on the jersey. The other eleven pairings support manual inspection.",
-    "The live Ball Tee product page offered green and yellow at ₦93,700. Browser Back returned to its garment row. Both readers flagged that a shopper who started on the shirt should return to the shirt marker.",
-    "Both first reviews are recorded on the scorecard. The original builder is correcting return focus, overlapping controls, missing detail in the comparison and photo failure states. The original iPhone run still needs its source and zoom evidence."
+    "All five looks now lead into the same garment comparison, with twelve documented garment entries. Ten collection products link to their styled look.",
+    "A phone shopper can tap either photo to inspect it. Choosing Yellow / L brings up the merchant’s actual yellow jersey image and the native Add to bag control.",
+    "A store enquiry carries the selected piece, colour and size. Changing stores and returning to the product preserves the choice.",
+    "The shopping journey passed in a private browser at 380, 430 and 1280 px, and at 430 px with reduced motion. Photo comparison made zero shopper-side provider calls.",
+    "This private test intercepted the cart submission. Orders, measured conversion lift, native iPhone acceptance and independent ratings for this combined version remain open."
   ],
   "openDeliveryGates": [
     {
@@ -320,6 +321,26 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Check ten styled pieces and native selected-size actions on three widths (22:39Z–22:45Z, took 6 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify both original second-review reports on the same Runway build (22:24Z–22:45Z, took 21 min)."
+      },
+      {
+        "complete": true,
+        "text": "Integrate the photo inspection, return, store handoff and mobile detail layout (22:46Z–23:02Z, took 16 min)."
+      },
+      {
+        "complete": false,
+        "text": "Check tap response and the two original named repairs (started 23:03Z, est. 15 min)."
+      },
+      {
+        "complete": false,
+        "text": "Run the combined suite after the test worker accepts connections (est. 10 min after recovery)."
+      },
       {
         "complete": true,
         "text": "Reconcile approval and original owners (12:23Z–12:28Z, took5min). The two app URL changes and TEST reconnect are approved."
@@ -633,7 +654,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: interactive garment preview delivered at 21:59Z. The timing of draft delivery depends on independent review and the original iPhone and TEST checks."
+    "landing": "Lands: unified private shopping journey verified at 23:02Z. The timing of draft delivery depends on independent review and the original iPhone and TEST checks."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
