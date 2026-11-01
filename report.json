@@ -1,7 +1,7 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
+  "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner has selected the October 3 “MAKE AN ENTRANCE.” homepage and will choose between two Closer Look interactions.",
   "workerState": "The original tester returned the browser at 12:59 UTC. Hands and Bridge own its recovery. Bridge acknowledged the separate hosted small-iPhone request. At the 13:12 check the chair had given no date or queue position.",
   "journey": [
     {
@@ -141,8 +141,8 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The tester still needs independent signed-session isolation and consent and withdrawal evidence. The seven native checks need a dated small-iPhone run, and the installed homepage and cart need genuine 200% zoom proof.",
-  "current": "Two distinct TEST shopper profiles are verified. All three installed privacy-test files still match the approved TEST configuration. The original tester’s 12:59 UTC passive browser read ended before the account page opened.",
-  "next": "Hands and Bridge must restore the original tester’s access and assign a fresh passive check on the signed TEST preview. The hosted test also needs an approved private shopper session. After identity is verified, the original team can exercise session isolation, consent and withdrawal.",
+  "current": "Building two private versions of the October 3 homepage. One cycles between looks. The other lets shoppers drag between photographs of the same garment.",
+  "next": "Open the two versions at A Closer Look, compare them on phone and desktop, and take the chosen treatment through the original independent review route.",
   "updated": "1 November, 13:14 UTC. Both approved shoppers have distinct TEST profiles. Three installed TEST files match. The signed-session, genuine 200% zoom and seven iPhone checks remain open. None of the three final ratings has reached 9.5.",
   "links": [
     {
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "The owner reported completing both TEST sign-ins. The 12:54 UTC read found two distinct shopper records. The original tester received the passive browser turn, but its connection failed before the account page opened. Hands and Bridge have the result. The private hosted shopper-session input is also outstanding.",
-    "The guest sign-in and sign-out test merged in #5172. Its first two-shopper run is still open. The original order-help developer returned a revision in #5190. At 29f53f39, the Draft gate skipped the hosted product tests. The separate preference-form check #5189 passed all five test groups and awaits release from Draft.",
-    "Warehouse returned its local iPhone 17 at 12:34 UTC. Bridge acknowledged the separate request for the hosted small iPhone and posted it for the incoming chair. The 13:12 check found no dated allocation, queue position or new hosted run. Four test files and all 20 required dependencies match the device owner’s qualified source."
+    "The owner chose the original October 3 homepage with “MAKE AN ENTRANCE.” The two new designs go inside “A Closer Look.” The archival page is available to scroll in its original preview.",
+    "Five photographed studio looks have been matched to their catalogue records for the runway option. The second option uses the same Frost Blue ringer tee from the front and back. Both original photo files match the October archive.",
+    "Both comparisons are in preparation. The owner will pick a treatment after trying them. The selected build still needs independent ratings."
   ],
   "openDeliveryGates": [
     {
@@ -445,9 +445,25 @@
       {
         "complete": true,
         "text": "Check whether the signed TEST journey can run (12:55–13:01 UTC, 6 min). The three installed files match, the TEST styling controls point to the expected app paths, and the deployed build is identified. The hosted run has no generic shopper-session input. The passive browser turn was returned without an identity match."
+      },
+      {
+        "complete": true,
+        "text": "Recover the October 3 homepage and confirm the Closer Look slot (14:04Z–14:10Z)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the front and back CRUX photos and identify the studio looks (14:10Z–14:13Z)."
+      },
+      {
+        "complete": false,
+        "text": "Build and compare both private Closer Look treatments on the same homepage (started 14:10Z, est. 20 min)."
+      },
+      {
+        "complete": false,
+        "text": "Open the two scrollable previews and verify the selected design with the independent readers (after owner selection)."
       }
     ],
-    "landing": "Lands: next evidence check about 13:38 UTC on 1 November. Final delivery depends on isolated TEST journeys, actual device and zoom results and three final reviews."
+    "landing": "Lands: first comparison is estimated around 14:30Z. Review timing depends on the selection and the readers’ access."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
