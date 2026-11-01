@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer has committed a follow-up locally. It gives each outfit its own title and links each listed piece to its Shopify price. Render checks and a fresh independent verdict are still owed.",
+  "workerState": "The first repair passed 41 browser checks, including small-phone touch and stable wardrobe switching. All 37 homepage files were verified identical after integrating current main. The original designer now owns the white-stage refinement.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 18:52 UTC. All ten pieces were verified in the Shopify catalog. The jacket product photo was confirmed as Dark Blue; the wash worn by the model is unverified. These checks support the wardrobe rows without hard-coding price or stock.",
+  "lastActualProgress": "1 November, 20:34 UTC. The repaired private preview was read back across 26 routes; the matching main-integrated code is on protected PR #5204. The new white stage is not in that preview yet.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Opus scored shopping clarity 7.8. Product rows did not show verified price or availability, and the models did not appear to stand on one continuous floor. The current revision is still in the protected review queue.",
-  "current": "The October 3 Runway scored 9.38/10 from Astra and 8.48/10 from Opus 5.5 on the same version. 0 of 2 at 9.5. The original designer is repairing what the two readings exposed.",
-  "next": "Compare the repaired studio floor, phone scroll position, actual heading font, and shopping rows with the reviewed version. Then return the new source to independent review and check it on a small iPhone.",
-  "updated": "1 November, 18:45 UTC. The Opus report matched the reviewed build and all 19 required images. The current interactive preview is private; the Runway has not been installed or published on Shopify.",
+  "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
+  "current": "The repaired five-look Runway is interactive in the private October 3 preview. The owner has now asked for a clean white background, one floor circle and shadow, and redesigned pagination. That design change is in progress.",
+  "next": "Preview the new white stage and look selector on phone and desktop, then send that version to the original independent readers.",
+  "updated": "1 November, 20:34 UTC. GitHub confirmed the repaired head and updated description. No Shopify installation or publication.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -511,27 +511,35 @@
         "text": "Verify the second reader’s full review (18:25Z–18:45Z, took 20 min). All 19 required images and all five scores checked."
       },
       {
-        "complete": false,
-        "text": "Repair the thirteen reproduced issues in the original design checkout (started 18:45Z; first repair check at 19:15Z). Phone movement and missing product data have been reproduced."
-      },
-      {
-        "complete": false,
-        "text": "Visually compare the changed version, then have it independently reviewed under the existing review rules (duration depends on returned proof)."
+        "complete": true,
+        "text": "Repair the thirteen findings and verify the small-phone press and scroll (18:45Z–19:11Z, took 26 min). All 41 browser checks passed."
       },
       {
         "complete": true,
-        "text": "Obtain size admission for the corrected revision (18:01Z–18:12Z, took 11 min). The chair verified all nine files as one Runway change."
+        "text": "Recover the original proof, inspect the renders and update the interactive preview (19:11Z–20:30Z, took 79 min). Network transport delayed the original files. The two blank zoom screenshots were excluded."
+      },
+      {
+        "complete": true,
+        "text": "Rebuild against current main and update the protected PR (20:30Z–20:34Z, took 4 min). All 37 emitted files and the rendered default homepage matched byte for byte."
       },
       {
         "complete": false,
-        "text": "Finish protected code review and merge (exact revision accepted at 18:23Z; waiting for its scheduled review)."
+        "text": "Build the requested white stage, floor circle and new look selector (started 20:33Z, est. 20 min)."
+      },
+      {
+        "complete": false,
+        "text": "Inspect the new selector by tap, swipe and keyboard and open it in the private preview (est. 10 min after the render)."
+      },
+      {
+        "complete": false,
+        "text": "Obtain independent ratings for this design and protected review of the exact revision (reviewer timing unknown)."
       },
       {
         "complete": false,
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: next repair check about 19:15Z. A delivery time for two independent 9.5 scores is unknown until the corrected design is tested and reviewed. The draft stays unpublished."
+    "landing": "Lands: first white-stage preview estimated about 21:03Z; photo edges and small-screen checks may move it. Review time is not yet known."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
