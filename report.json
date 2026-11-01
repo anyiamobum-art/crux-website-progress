@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer is completing the corrected proof. Both independent review routes are prepared. A separate read is checking whether a matching yellow garment photograph exists in the current catalogue. No new review call or Shopify write has occurred.",
+  "workerState": "The original designer is integrating the draft homepage and running the corrected proof. Neutral independent-review packets are prepared. The one current catalogue read timed out; source-bound product identity remains, but current colour imagery, prices and stock are unverified. No review call or Shopify write has occurred.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 15:41 UTC. Refined source and three rendered corrections are committed locally. The enlarged-text height conflict is corrected; final touch proof and source freeze remain open.",
+  "lastActualProgress": "1 November,15:48 UTC. Current main merged cleanly into the original branch; the default-homepage recipe is being integrated. The protected release and independent ratings will use the final integrated source.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The final interaction proof is pending. The last two touch failures came from test coordinates saved before a screenshot moved the page; the original test setup has been corrected without changing its assertions. No final refined-source rating or draft installation is claimed.",
+  "remaining": "Final source and interaction proof are pending. The brief test-server connection failure recovered at15:46 UTC. The swipe-test coordinates are corrected without weakening assertions, and the original designer is integrating the default homepage before the next proof.",
   "current": "Refining and checking the selected Runway: larger looks, clearer Archivo typography and outfit pieces. The original October 3 homepage is preserved. The first rendered pass exposed phone spacing, contact overlap and enlarged-text issues; those corrections are built and being rechecked.",
   "next": "Complete the corrected interaction proof, then have the original Opus 5.5 and Astra independently rate the same Runway version. Current component ratings: 0 of 2 received. Protected review, merge and unpublished draft installation follow.",
-  "updated": "1 November, 15:41 UTC. Seven controller cases passed on the corrected source. Earlier normal-size browser proof passed; the latest two touch failures must be resolved before review. The default-homepage installation and restoration contract is prepared, with no Shopify writes.",
+  "updated": "1 November,15:45 UTC. Public task commit ba80299 is built and served bytes match. Seven controller cases passed on the corrected Runway source; the corrected integrated browser and mutation proof is next.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -472,7 +472,7 @@
       },
       {
         "complete": false,
-        "text": "Refine the selected Runway typography, model staging and phone interaction (started 15:11Z, est. 20 min)."
+        "text": "Refine the selected Runway and integrate its draft homepage setting (started 15:11Z, revised est. 44 min; rendered corrections and final default-route integration extended the original estimate)."
       },
       {
         "complete": false,
@@ -491,7 +491,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: corrected preview about 15:55Z (14 min left; source proof and result retrieval may move this). Independent findings and protected checks determine draft installation; live publication remains off."
+    "landing": "Lands: inspected preview about 16:05Z (about 17 min left at15:48Z; integrated source proof and result retrieval may move this). Independent findings and protected checks determine draft installation; live publication remains off."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
