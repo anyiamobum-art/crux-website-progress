@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 14:30 UTC. The corrected Closer Look interactions passed all six phone-size and desktop browser cases. The alternate Shopify templates also rendered offline.",
+  "lastActualProgress": "1 November, 14:34 UTC. The corrected Closer Look interactions passed all six phone-size and desktop browser cases. The alternate Shopify templates also rendered offline.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The tester still needs independent signed-session isolation and consent and withdrawal evidence. The seven native checks need a dated small-iPhone run, and the installed homepage and cart need genuine 200% zoom proof.",
   "current": "Two working Closer Look previews are ready for the owner to choose between on the original October 3 homepage. The Runway shows five styled CRUX looks. The Turn shows the Frost Blue ringer tee from the front and back.",
   "next": "Take the owner’s selection into independent design review, then verify the selected treatment on the unpublished Shopify draft.",
-  "updated": "1 November, 14:30 UTC. Both comparison pages preserve the original campaign hero and the following homepage sections. Original final rating passes remain 0/3.",
+  "updated": "1 November, 14:34 UTC. Both comparison pages preserve the original campaign hero and the following homepage sections. Original final rating passes remain 0/3.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -207,7 +207,7 @@
   "recentChanges": [
     "The owner chose the original October 3 homepage with “MAKE AN ENTRANCE.” The two new designs go inside “A Closer Look.” The archival page is available to scroll in its original preview.",
     "Five photographed studio looks have been matched to their catalogue records for the runway option. The second option uses the same Frost Blue ringer tee from the front and back. Both original photo files match the October archive.",
-    "Both private comparison pages are available. Each preserves the original hero images and every section after Closer Look. The five runway photos and the two garment views were fetched and verified in the previews. The owner can try both before choosing which design goes to review. Both versions passed six responsive browser cases after corrections to swipe handling, the phone index and the link arrow."
+    "Both private comparison pages are available. Each preserves the original hero images and every section after Closer Look. The five runway photos and the two garment views were fetched and verified in the previews. The owner can try both before choosing which design goes to review. Both versions passed six responsive browser cases after corrections to swipe handling, the phone index, link arrow and control movement when text wraps."
   ],
   "openDeliveryGates": [
     {
@@ -464,7 +464,7 @@
       },
       {
         "complete": true,
-        "text": "Check both treatments at 380, 430 and 1280 pixels (14:22Z–14:30Z). Touch gestures, desktop controls, keyboard selection and reduced motion passed in the browser test. Native iPhone and independent design ratings remain separate."
+        "text": "Check both treatments at 380, 430 and 1280 pixels (14:22Z–14:34Z). Touch gestures, desktop controls, keyboard selection and reduced motion passed in the browser test. Native iPhone and independent design ratings remain separate."
       },
       {
         "complete": false,
