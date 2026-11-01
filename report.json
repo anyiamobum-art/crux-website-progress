@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer completed the browser repair. Its evidence includes direct taps, rapid selection, reduced motion and an actual 200% browser zoom. The desk holds the release until Hands accepts the exact candidate.",
+  "workerState": "The private shopper comparison is built at 986674d3. The underlying white Runway still needs its original protected-review handoff. The installed Shopify draft is a separate version.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "WebKit exercised all 12 pairings at 380 and 1280 px on 16edd726. Each opened the matching catalog photograph and product link and supported zoom and pan. The yellow Ball Tee carries a note that its catalog photo shows green.",
+  "lastActualProgress": "On this version WebKit exercised all 12 garment comparisons at 380 and 1280 pixels. Six return journeys restored the chosen piece and page position. The test opened the store enquiry without sending it.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
-  "current": "In the private Runway prototype, shoppers can compare each piece on the model with its real catalog photograph. The first five looks cover 12 outfit and garment pairings.",
-  "next": "Return the corrected source to Hands and the qualified independent readers. The small-iPhone and TEST checks continue separately.",
-  "updated": "1 November, 21:48 UTC. Astra and Argon supplied separate suggestions for returning to the selected garment after a product or store visit. The JEV feature has zero of four final ratings. A real JEV image result and small-iPhone check remain open.",
+  "current": "Look 01 has a working tap target on the yellow Ball Tee. It opens the runway photo beside the actual green catalog photo. Shoppers can open the product or carry the piece into a store enquiry.",
+  "next": "Have the original independent readers assess this exact private preview. Hands and the original tester are also correcting two issues in the small-iPhone test.",
+  "updated": "1 November, 22:01 UTC. One approved image-model result is implemented. Two readers contributed design ideas. The four independent ratings for this feature are pending.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,14 +205,14 @@
     }
   ],
   "designScorecard": {
-    "current": "White Runway and animated wardrobe · e1830b7f · awaiting independent scores",
+    "current": "White Runway with a shoppable jersey · 986674d3 · independent scores pending",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
         "scope": "JEV shopper comparison",
         "reader": "Four requested readers",
         "score": "Awaiting scores",
-        "version": "The comparison is in private testing. Two design contributions have been received. These are separate from the final review."
+        "version": "One verified garment hotspot, eleven manual comparisons, and six tested returns on 986674d3. Four independent scores are pending."
       },
       {
         "scope": "Runway",
@@ -250,7 +250,7 @@
     {
       "journey": "Inspect a piece",
       "state": "In the private prototype",
-      "action": "Compare the real photographs, see any known colour difference, and open the product. Test a one-action return from the product and store."
+      "action": "Tap the jersey or select a piece. Compare original photos, open its product or ask a store. One-action return was exercised at two widths inside the private preview."
     },
     {
       "journey": "Dress the look",
@@ -274,10 +274,10 @@
     }
   ],
   "recentChanges": [
-    "Open any of five Runway looks and choose Compare the photos. The source photo and matching catalog item can be inspected without leaving the outfit.",
-    "WebKit tested 12 look and garment pairings at phone and desktop widths. Comparing the Ball Tee tells shoppers that the photographed colors differ.",
-    "Astra and Argon both asked to return shoppers to the exact look and piece after a product or store visit. That improvement is in progress.",
-    "The white Runway also passed its earlier 53 browser checks. A real image-model result, native iPhone evidence and independent final scores are still pending."
+    "Tap the + on Look 01’s yellow Ball Tee to inspect the garment. The original runway and catalog photos stay visible together, with their colours identified.",
+    "One approved JEV image test placed the target on the jersey. The other eleven pairings support manual inspection.",
+    "Going to a product or drafting a store enquiry and coming back restored the selected garment in six preview journeys. The external product page and real iPhone still need separate checks.",
+    "The first small-iPhone run could not confirm the draft assets and zoom. The original tester has two specific repairs for the next run."
   ],
   "openDeliveryGates": [
     {
@@ -297,8 +297,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Seven iPhone checks remain open. The original request dates to 16 October. The homepage and quantity repairs are installed, and desktop-sized browser checks have passed.",
-      "next": "Hands now holds the first hosted run after its verified mirror installation. It must return the actual run ID and seven results, or the specific scheduling conflict."
+      "blocker": "The small iPhone opened the draft. Its asset check lost the draft identifier, zoom did not record a value and Safari obscured the 2XL control. None of the seven checks qualified.",
+      "next": "The original tester repairs zoom recording and the 2XL interaction and verifies the exact served theme before recording the seven results."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -342,7 +342,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). Hands holds the first hosted run after mirror installation; next check at 21:18 UTC or placement."
+        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). The first hosted run ended without a qualified result. The two named test repairs were sent to Hands at 21:58 UTC on 1 November."
       },
       {
         "complete": true,
@@ -609,6 +609,10 @@
         "text": "Correct the enlarged-text layout shift and measure completed motion (20:59Z–21:15Z, took 16 min). Three early animation readings were replaced with completion readings. All 53 focused checks passed."
       },
       {
+        "complete": true,
+        "text": "Build one garment hotspot from the approved photo and test comparison and return at phone and desktop widths (21:52Z–21:59Z, 7 min)."
+      },
+      {
         "complete": false,
         "text": "Obtain independent ratings for this design and protected review of the exact revision (reviewer timing unknown)."
       },
@@ -617,7 +621,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: corrected interactive preview delivered at 21:15Z. Independent ratings and unpublished draft handover depend on review and native device availability."
+    "landing": "Lands: interactive garment preview delivered at 21:59Z. The timing of draft delivery depends on independent review and the original iPhone and TEST checks."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
