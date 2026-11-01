@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-10-28T20:23:40.214110+00:00",
+  "snapshot": "2026-11-01T09:07:59.531207+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,13 +132,13 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Campaign source approved; design review pending",
+      "status": "Slideshow installed in the CRUX draft. Design rating open.",
       "title": "Better store visits, with evidence behind the details.",
-      "summary": "Argon informed the installed store enquiry and identified three concrete homepage repairs now verified in the local candidate.",
+      "summary": "Argon’s store-enquiry recommendation now carries the chosen item, size and store into the enquiry. Its earlier homepage feedback helped address a moving store sheet, missing images and a contact shortcut that covered text.",
       "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
-      "after": "The local candidate keeps the store sheet stable, handles missing images and reserves contact clearance. Its separate installed store enquiry carries the shopper’s selected item, size and store without promising stock.",
-      "resultTitle": "New campaign implementation; no new design score",
-      "result": "The owner-directed NU ERA slideshow, icon-only sound and shoppable runway are implemented in PR #5047. Its current source has the required independent code approval; hosted tests are still running. The original Argon conversation acknowledged the earlier image packet, but its rating attempt ended in a connection reset and the current Terms decision remains open. Earlier Argon repair results do not rate this new source. No homepage installation or live publication is claimed.",
+      "after": "The installed store enquiry keeps the shopper’s selection. The new homepage uses the active NU ERA campaign slideshow, a speaker icon and a shoppable runway. The campaign direction came from the owner.",
+      "resultTitle": "The campaign is in the draft. Its design review is open.",
+      "result": "The NU ERA homepage and its four follow-up repairs were reviewed, merged and installed in the unpublished CRUX theme. At widths of 380, 430 and 1280 pixels, the slideshow controls measured 44 pixels and the page had no horizontal overflow. Pause held for 128 seconds and Play resumed. Argon closed three findings on an earlier design. A score for the installed NU ERA design is still outstanding.",
       "stages": [
         {
           "title": "Carry useful store context.",
@@ -157,8 +157,8 @@
         },
         {
           "title": "Implement the active campaign direction.",
-          "text": "The original designer built the active NU ERA slideshow, icon-only sound and twelve catalogue looks, then repaired the code-review findings. Current source has independent code approval; final design review and draft installation remain separate.",
-          "state": "Code approved / hosted tests running / no final design score"
+          "text": "The owner chose the active campaign slideshow. The new homepage and four follow-up repairs reached the unpublished draft. Its playback controls passed desktop checks at three widths.",
+          "state": "Installed in draft. Native proof and design rating open."
         }
       ],
       "evidence": [
@@ -534,10 +534,15 @@
           "title": "Current campaign source passes code review",
           "date": "28 October 2026, 20:21 UTC · verified",
           "text": "PR #5047 at 6dc0a656 has its required independent code approval. Two hosted test shards and mutation checks pass; the remaining shards are running or queued. The original Argon rating has no result on this source. The draft remains unpublished."
+        },
+        {
+          "title": "Slideshow and follow-up repairs reached the draft",
+          "date": "28–30 October 2026. Receipts reconciled 1 November.",
+          "text": "The original slideshow change (#5047) and repairs #5080, #5092, #5095 and #5109 have Shopify installation receipts. Desktop playback, pause, resume and control sizes were checked. No new Argon rating or foot-traffic outcome was recorded."
         }
       ],
-      "limit": "The installed Stores enquiry and local homepage candidate are different evidence layers. No native, full9.5, conversion or commercial benefit is inferred. Original owners, final-round limits and the unpublished Shopify boundary remain. Client-selected Argon High is recorded; independent backend model attestation is not exposed.",
-      "sourceAsOf": "2026-10-28T20:23:40.214110+00:00"
+      "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
+      "sourceAsOf": "2026-11-01T09:07:59.531207+00:00"
     },
     "companion": {
       "number": "04",
@@ -656,5 +661,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website current-source progress refreshed; other systems retain their individually dated evidence."
+  "snapshotScope": "Website installation and playback evidence refreshed on 1 November. Other systems retain their individually dated evidence."
 }
