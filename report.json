@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Both design reads returned. The original designer has the thirteen reproduced findings and is working in a separate local checkout. No revision from that checkout has passed review.",
+  "workerState": "The original designer has committed a follow-up locally. It gives each outfit its own title and links each listed piece to its Shopify price. Render checks and a fresh independent verdict are still owed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 18:45 UTC. The designer reproduced a 184 px phone layout change and confirmed only the lead product link used the Shopify product object. Both are in the repair.",
+  "lastActualProgress": "1 November, 18:52 UTC. All ten pieces were verified in the Shopify catalog. The jacket product photo was confirmed as Dark Blue; the wash worn by the model is unverified. These checks support the wardrobe rows without hard-coding price or stock.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
