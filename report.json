@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer is sealing source proof and updating the existing interactive preview. The neutral review packet is being finalized; no independent score or Shopify installation is claimed.",
+  "workerState": "The original Astra reviewer is running. The design and neutral evidence preparation are complete. Opus did not start a provider review; its original launch ended at the capacity check.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November,16:15 UTC. Final component and whole-page images inspected; readable labels, full garment thumbnails and all five look states verified.",
+  "lastActualProgress": "1 November,16:28 UTC. Independent Astra continuation started; the actual Opus capacity failure was routed to its original keeper. The existing interactive preview serves the inspected final design.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Independent component ratings and protected release checks remain. The final thumbnail correction and rendered inspection have passed.",
-  "current": "The refined Runway has passed its final desktop and phone browser checks. The preview is being updated and its exact source is being prepared for the two independent readers.",
-  "next": "Obtain independent Opus5.5 and Astra ratings, address their named findings, then complete protected review, merge and unpublished draft installation. Current component ratings:0 of2 received.",
-  "updated": "1 November,16:12 UTC. Final-source browser proof passed at380/430/1280, with keyboard, swipe, reduced-motion and enlarged-text checks plus a33-second journey capture. Functional tests are explicitly carried from identical functional source; native iPhone and Shopify execution remain separate.",
+  "remaining": "Opus’s original review account returned a verified weekly-capacity refusal at16:27 UTC. Its keeper has the exact recovery request; no substitute reviewer or score is claimed. Astra continues independently.",
+  "current": "The improved Runway is available in the interactive preview. Its exact source and phone/desktop evidence are sealed; the original Astra design review is running.",
+  "next": "Consume the independent findings, restore the original Opus review route through its keeper, and take the resulting design through protected review and unpublished draft installation. Current component ratings: 0 of 2 received.",
+  "updated": "1 November,16:27 UTC. Exact preview bytes verified at16:19, final source/evidence sealed at16:22, and the original Opus capacity check returned its recorded refusal at16:27. Independent ratings, native iPhone and Shopify installation remain open.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -206,7 +206,7 @@
   ],
   "recentChanges": [
     "The owner selected **The Runway**, then requested a stronger, more polished version based on the shared reference.",
-    "Typography, featured-model scale, photo staging and touch motion are being refined together in the original October 3 homepage.",
+    "Typography, featured-model scale, photo staging and touch motion are refined together in the original October 3 homepage. The selected Runway remains interactive and scrollable.",
     "The new Runway will be reviewed independently by Opus 5.5 and Astra. Its requested 9.5 ratings remain unearned; the draft is unpublished."
   ],
   "openDeliveryGates": [
@@ -480,7 +480,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain independent ratings on the refined version and address named findings (started16:15Z, est.20min for packet and first readings; findings may extend this). Exact-source packets are being sealed before one request to each original reader."
+        "text": "Obtain independent ratings on the refined version and address named findings (started16:15Z, est.20min for packet and first readings; findings may extend this). Exact-source packets are sealed. Astra is executing; Opus returned a capacity refusal before review and its existing keeper owns recovery."
       },
       {
         "complete": false,
@@ -491,7 +491,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: first independent findings about16:35Z (20min left at16:15Z; provider availability and findings may move this). Draft installation follows required reviews and protected checks; live publication remains off."
+    "landing": "Lands: first available independent findings about16:45Z (17min left at16:28Z; the actual Opus capacity refusal delays the combined result). Draft installation follows required reviews and protected checks; live publication remains off."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
