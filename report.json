@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Website completed the Shopify readback. Hands has the installation receipt. Bridge cleared the obsolete server-setting wait and asked Hands to release the correct TEST browser tab to Checkout. The chair has the separate request for the iPhone run.",
+  "workerState": "Website verified all four new files directly with Shopify. Checkout holds the account test. Hands holds the shared browser and iPhone allocation requests.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 09:05 UTC. Bridge removed the obsolete server-setting wait after verifying the TEST installation and route. It requested the original signed shopper tab and a dated iPhone run from their owners.",
+  "lastActualProgress": "1 November, 09:29 UTC. Installed the four preferences and budget files on the unpublished TEST copy. Saved-look editing and style-data download and removal remain in the same build.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,10 +141,14 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The remaining checks need qualified TEST shopper sessions, a shared browser release and a dated iPhone test slot. The original readers need those results before they can score the remaining design findings.",
-  "current": "The TEST installation has been verified again against Shopify. The remaining question is whether two real shoppers can sign in, give or withdraw consent, and keep their data separate.",
+  "current": "The unpublished TEST shop now contains the reviewed preferences and budget controls. The next check is to sign in as two different shoppers and verify what each can see.",
   "next": "Use the original signed TEST shopper sessions for the account journey. In parallel, Hands needs the chair to allocate a device from the supported small iPhones, and the Website team is waiting for a supported browser session for the 200% check.",
-  "updated": "1 November, 09:02 UTC. Shopify returned the same three files and one approved privacy disclosure. The latest guest-text test uses simulated sign-in transitions. The device owner also verified at 09:03 UTC that there is no qualifying iPhone run. Real account separation, seven iPhone checks and the three final passing scores are still outstanding.",
+  "updated": "1 November, 09:29 UTC. The four files match the reviewed merge. All 601 other TEST draft files and all 481 files in its active theme match the prior inventory. The real shopper and iPhone checks are still open.",
   "links": [
+    {
+      "title": "Shopping Companion preferences #5127",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5127"
+    },
     {
       "title": "TEST privacy-preservation repair #5115",
       "path": "https://github.com/EON-CRUX/3.09/pull/5115"
@@ -172,10 +176,6 @@
     {
       "title": "iPhone sign-in hook #5083",
       "path": "https://github.com/EON-CRUX/3.09/pull/5083"
-    },
-    {
-      "title": "Cart timing repair #5081",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5081"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,11 +205,10 @@
     }
   ],
   "recentChanges": [
-    "Shopify returned exact matches for all three files installed on 30 October. All 605 draft file records and all 481 active TEST theme file records matched the installation inventory.",
-    "The existing TEST privacy policy is preserved. The approved assistant disclosure appears once.",
-    "The source routes the TEST shop and workspace to the installed proxy. Two checks with the wrong shop or workspace both refused access. Real sign-in and consent still need to be exercised.",
-    "The iPhone test code still matches its reviewed version after the shared helper changed. None of the six earlier device dispatches used this version. The chair has the request for one small iPhone run.",
-    "The guest-text test in #5172 covers what happens to typed text across simulated account changes. It has no Shopify theme files. The original owner retains the review."
+    "The Shopping Companion on the unpublished TEST shop now contains the controls for a shopper to save style preferences and a budget in naira.",
+    "Shopify returned all four files byte for byte as reviewed. The existing saved-look controls, account settings and approved privacy notice are preserved.",
+    "No customer account was used in the installation. A signed-in shopper still needs to demonstrate that a saved budget comes back in the right account after signing out and back in.",
+    "The CRUX draft still has seven iPhone checks outstanding. Hands has the request for the first device run and for the shared TEST browser."
   ],
   "openDeliveryGates": [
     {
@@ -274,7 +273,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting for the dated device allocation since 16 October at 20:16 UTC. On 1 November the original device owner verified the workflow, its tests and all 20 dependencies used to identify the draft. Next check 09:32 UTC on 1 November."
+        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting for the dated device allocation since 16 October at 20:16 UTC. On 1 November the original device owner verified the workflow, its tests and all 20 dependencies used to identify the draft. Next check 10:02 UTC on 1 November."
       },
       {
         "complete": true,
@@ -334,7 +333,7 @@
       },
       {
         "complete": false,
-        "text": "Verify two distinct TEST shoppers and exercise consent and withdrawal. Waiting for eligible shopper sessions and shared browser release. Next check 09:32 UTC on 1 November."
+        "text": "Verify two distinct TEST shoppers and exercise consent and withdrawal. Waiting for eligible shopper sessions and shared browser release. Next check 10:02 UTC on 1 November."
       },
       {
         "complete": true,
@@ -370,7 +369,7 @@
       },
       {
         "complete": false,
-        "text": "Check the installed homepage and cart at genuine 200% zoom. The original browser holder must release the shared session to the Website team. Next check 09:32 UTC on 1 November."
+        "text": "Check the installed homepage and cart at genuine 200% zoom. The original browser holder must release the shared session to the Website team. Next check 10:02 UTC on 1 November."
       },
       {
         "complete": true,
@@ -395,9 +394,13 @@
       {
         "complete": true,
         "text": "Reconcile the buyer-review handoff (09:13Z–09:14Z). Two staff/workspace repairs are merged. The original customer-care owner returned twelve served-code checks."
+      },
+      {
+        "complete": true,
+        "text": "Install and verify the four Shopping Companion files on unpublished TEST (09:22Z–09:29Z). Four matched the reviewed release. All 601 other files and the active TEST theme were preserved."
       }
     ],
-    "landing": "Lands: next access check at about 09:32 UTC on 1 November. A finish time depends on the shared browser, iPhone allocation and three final reviews."
+    "landing": "Lands: next access check at about 10:02 UTC on 1 November. A finish time depends on the shared browser, iPhone allocation and three final reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
