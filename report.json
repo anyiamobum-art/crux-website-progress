@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer, review-packet supporter and release supporter are continuing their existing scopes. The selected package has one Runway entry; there have been no Shopify writes.",
+  "workerState": "The original designer is refining the Runway. The existing review supporter is preparing the original Opus and Astra routes. No rating calls, Shopify writes or live publication have occurred for this refinement.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 14:59 UTC. The selected Runway package rendered identically to its tested preview. Read-only reconciliation confirmed that none of its proposed new files has been installed.",
+  "lastActualProgress": "1 November, 15:15 UTC. Full-homepage baseline capture completed at 380, 430 and 1280 pixels, with a 33-second journey. The owner requested further design refinement before ratings.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The selected candidate has no independent design rating yet. Historical final native and connected acceptance gaps remain open and carry no new completion credit.",
-  "current": "The owner selected The Runway. Its five styled CRUX looks are being prepared for independent review and installation into the unpublished draft, preserving the October 3 homepage.",
-  "next": "Complete the original independent reviews, address their named findings, then review, merge and verify the selected homepage in the unpublished Shopify draft.",
-  "updated": "1 November, 14:59 UTC. The selected-only package preserves the October 3 hero. The 701-file draft and 550-file active theme are unchanged. No score transfers from an earlier design.",
+  "remaining": "No independent rating exists for the refined version yet. The earlier comparison is a tested baseline, not the final design.",
+  "current": "Refining the selected Runway against the original reference: clearer typography, a larger featured look on phones, cleaner model staging and smoother selection. The October 3 homepage remains the foundation.",
+  "next": "Finish and inspect the refined Runway, then obtain independent Opus 5.5 and Astra ratings on that exact version before protected review and unpublished draft installation.",
+  "updated": "1 November, 15:15 UTC. Baseline touch, keyboard and reduced-motion checks passed. Full-page recording exposes retained archive limitations; these are not passing design ratings.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "The owner selected **The Runway**: five styled CRUX looks revolving in A Closer Look on the October 3 homepage.",
-    "The selected-only Shopify package preserves the exact rendered Runway and original hero. It contains one entry instead of both comparison options.",
-    "Original design, review preparation and release work have resumed. Independent ratings, protected review and unpublished installation are the next gates; no Shopify write or live publication has occurred."
+    "The owner selected **The Runway**, then requested a stronger, more polished version based on the shared reference.",
+    "Typography, featured-model scale, photo staging and touch motion are being refined together in the original October 3 homepage.",
+    "The new Runway will be reviewed independently by Opus 5.5 and Astra. Its requested 9.5 ratings remain unearned; the draft is unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -472,7 +472,15 @@
       },
       {
         "complete": false,
-        "text": "Prepare the exact-source review packet and continue the original independent readers (started 14:59Z, est. 15 min)."
+        "text": "Refine the selected Runway typography, model staging and phone interaction (started 15:11Z, est. 20 min)."
+      },
+      {
+        "complete": false,
+        "text": "Inspect the refined desktop and phone renders and run targeted checks (est. 10 min)."
+      },
+      {
+        "complete": false,
+        "text": "Obtain independent ratings on the refined version and address named findings (est. 15 min per reader; findings may extend this)."
       },
       {
         "complete": false,
@@ -483,7 +491,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: the review packet is expected about 15:14Z (15 min left). Reviewer findings, provider access and protected checks determine the draft handover time; live publication remains off."
+    "landing": "Lands: refined preview about 15:41Z (26 min left). Independent findings and protected review determine draft installation; live publication remains off."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
