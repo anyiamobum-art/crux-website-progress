@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November. The order-help developer returned the named repair at 13:10 UTC. The source is at 29f53f39. Its Draft status kept the hosted product tests from running.",
+  "lastActualProgress": "1 November, 14:30 UTC. The corrected Closer Look interactions passed all six phone-size and desktop browser cases. The alternate Shopify templates also rendered offline.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The tester still needs independent signed-session isolation and consent and withdrawal evidence. The seven native checks need a dated small-iPhone run, and the installed homepage and cart need genuine 200% zoom proof.",
-  "current": "Building two private versions of the October 3 homepage. One cycles between looks. The other lets shoppers drag between photographs of the same garment.",
-  "next": "Open the two versions at A Closer Look, compare them on phone and desktop, and take the chosen treatment through the original independent review route.",
-  "updated": "1 November, 13:14 UTC. Both approved shoppers have distinct TEST profiles. Three installed TEST files match. The signed-session, genuine 200% zoom and seven iPhone checks remain open. None of the three final ratings has reached 9.5.",
+  "current": "Two working Closer Look previews are ready for the owner to choose between on the original October 3 homepage. The Runway shows five styled CRUX looks. The Turn shows the Frost Blue ringer tee from the front and back.",
+  "next": "Take the owner’s selection into independent design review, then verify the selected treatment on the unpublished Shopify draft.",
+  "updated": "1 November, 14:30 UTC. Both comparison pages preserve the original campaign hero and the following homepage sections. Original final rating passes remain 0/3.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -207,7 +207,7 @@
   "recentChanges": [
     "The owner chose the original October 3 homepage with “MAKE AN ENTRANCE.” The two new designs go inside “A Closer Look.” The archival page is available to scroll in its original preview.",
     "Five photographed studio looks have been matched to their catalogue records for the runway option. The second option uses the same Frost Blue ringer tee from the front and back. Both original photo files match the October archive.",
-    "Both comparisons are in preparation. The owner will pick a treatment after trying them. The selected build still needs independent ratings."
+    "Both private comparison pages are available. Each preserves the original hero images and every section after Closer Look. The five runway photos and the two garment views were fetched and verified in the previews. The owner can try both before choosing which design goes to review. Both versions passed six responsive browser cases after corrections to swipe handling, the phone index and the link arrow."
   ],
   "openDeliveryGates": [
     {
@@ -455,15 +455,23 @@
         "text": "Verify the front and back CRUX photos and identify the studio looks (14:10Z–14:13Z)."
       },
       {
-        "complete": false,
-        "text": "Build and compare both private Closer Look treatments on the same homepage (started 14:10Z, est. 20 min)."
+        "complete": true,
+        "text": "Build the two private Closer Look treatments and verify the original hero (14:10Z–14:20Z, 10 min)."
+      },
+      {
+        "complete": true,
+        "text": "Provide both scrollable preview links for the owner to compare (14:18Z–14:20Z, 2 min)."
+      },
+      {
+        "complete": true,
+        "text": "Check both treatments at 380, 430 and 1280 pixels (14:22Z–14:30Z). Touch gestures, desktop controls, keyboard selection and reduced motion passed in the browser test. Native iPhone and independent design ratings remain separate."
       },
       {
         "complete": false,
-        "text": "Open the two scrollable previews and verify the selected design with the independent readers (after owner selection)."
+        "text": "Review the selected treatment with the original independent readers (after owner selection)."
       }
     ],
-    "landing": "Lands: first comparison is estimated around 14:30Z. Review timing depends on the selection and the readers’ access."
+    "landing": "Lands: both comparisons were available by 14:20Z. The next design review depends on the owner’s selection."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
