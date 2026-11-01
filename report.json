@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The first repair passed 41 browser checks, including small-phone touch and stable wardrobe switching. All 37 homepage files were verified identical after integrating current main. The original designer now owns the white-stage refinement.",
+  "workerState": "The white Runway is served on the existing interactive preview. The original designer’s browser run has started; the source and controller checks passed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 20:34 UTC. The repaired private preview was read back across 26 routes; the matching main-integrated code is on protected PR #5204. The new white stage is not in that preview yet.",
+  "lastActualProgress": "1 November, 20:43 UTC. Verified 26 private preview routes against the white-stage source. The original photographs remain unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
-  "current": "The repaired five-look Runway is interactive in the private October 3 preview. The owner has now asked for a clean white background, one floor circle and shadow, and redesigned pagination. That design change is in progress.",
-  "next": "Preview the new white stage and look selector on phone and desktop, then send that version to the original independent readers.",
-  "updated": "1 November, 20:34 UTC. GitHub confirmed the repaired head and updated description. No Shopify installation or publication.",
+  "current": "The October 3 private preview has the white Runway: five original photographed looks, a single floor ring, contact shadows and a numbered look selector.",
+  "next": "Check the new selector on phone and desktop and submit this exact design to its independent readers.",
+  "updated": "1 November, 20:44 UTC. Preview and remote source checks verified. This version has no independent 9.5 verdict or Shopify installation.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -523,12 +523,12 @@
         "text": "Rebuild against current main and update the protected PR (20:30Z–20:34Z, took 4 min). All 37 emitted files and the rendered default homepage matched byte for byte."
       },
       {
-        "complete": false,
-        "text": "Build the requested white stage, floor circle and new look selector (started 20:33Z, est. 20 min)."
+        "complete": true,
+        "text": "Build and serve the white stage, floor circle and five-look selector (20:33Z–20:42Z, took 9 min)."
       },
       {
         "complete": false,
-        "text": "Inspect the new selector by tap, swipe and keyboard and open it in the private preview (est. 10 min after the render)."
+        "text": "Inspect the rendered outfits and verify selection by tap, swipe and keyboard (started 20:43Z, est. 10 min)."
       },
       {
         "complete": false,
@@ -539,7 +539,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: first white-stage preview estimated about 21:03Z; photo edges and small-screen checks may move it. Review time is not yet known."
+    "landing": "Lands: white-stage preview delivered at 20:39Z and refined at 20:42Z. Browser checks estimated around 20:53Z; independent review timing is not yet known."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
