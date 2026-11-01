@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-01T12:42:44.561532+00:00",
+  "snapshot": "2026-11-01T12:51:35.592805+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -543,7 +543,7 @@
         {
           "title": "Two additional TEST shoppers approved",
           "date": "1 November 2026",
-          "text": "At 12:38 UTC the TEST store returned its hosted customer-account entry and found no matching profile for either approved shopper. The owner requests and enters each code privately in two separate sessions. Agents requested zero emails. The original tester can verify distinct profiles after sign-in. The seven hosted small-iPhone checks and three final ratings remain open."
+          "text": "The owner’s Mac opened the verified TEST customer sign-in at 12:49 UTC. The last two exact profile lookups, at 12:38 UTC, returned no records. The owner received the two approved identifiers privately and handles each sign-in in a separate session. The tester will verify the resulting profiles. Agents requested zero emails. The seven small-iPhone cases and three final ratings are still open."
         }
       ],
       "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
