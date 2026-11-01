@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Astra’s final named check is complete. The first Opus packet is with Hands. It is not counted as a review until the reviewer returns a verdict.",
+  "workerState": "Astra’s final named check is complete. The independent Opus reader is running on the corrected build. It has not returned a verdict.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Astra’s final check closed its only named defect, but the component average remains below 9.5. The chair admitted this exact revision for size. Its first code review is waiting for the original writer to be registered in the review queue.",
-  "current": "The October 3 Runway stands at 9.38/10 from Astra after the jacket fix, up from 9.06 on the first design read. Opus 5.5: awaiting its first component verdict. The 9.5 target remains 0/2.",
+  "remaining": "Astra’s final check closed its only named defect, but the component average remains below 9.5. The chair admitted this exact revision and the review desk accepted it. It is waiting for its turn in protected code review.",
+  "current": "The October 3 Runway stands at 9.38/10 from Astra after the jacket fix, up from 9.06 on the first design read. Opus 5.5 started its first independent component review at 18:25 UTC. The 9.5 target remains 0/2.",
   "next": "Collect the blind Opus review. The chair has the request for a small-iPhone swipe and text-zoom check and a decision on any further design work.",
-  "updated": "1 November, 18:15 UTC. The corrected revision is admitted for size and has been handed to the code review desk. It is still in the private preview, not installed on Shopify.",
+  "updated": "1 November, 18:25 UTC. Opus started the independent read. The code review desk accepted the corrected revision. It is still in the private preview, not installed on Shopify.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -508,7 +508,7 @@
       },
       {
         "complete": false,
-        "text": "Collect the first independent full review from the second reader (packet delivered 18:05Z; next check 18:20Z unless the result arrives sooner)."
+        "text": "Collect the first independent full review from the second reader (started 18:25Z; time to verdict unknown)."
       },
       {
         "complete": true,
@@ -516,7 +516,7 @@
       },
       {
         "complete": false,
-        "text": "Finish protected code review and merge (with the original writer registration desk; review time is not yet known)."
+        "text": "Finish protected code review and merge (exact revision accepted at 18:23Z; waiting for its scheduled review)."
       },
       {
         "complete": false,
