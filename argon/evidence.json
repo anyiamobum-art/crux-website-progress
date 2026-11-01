@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-01T13:01:51.680534+00:00",
+  "snapshot": "2026-11-01T13:15:06.485876+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -541,13 +541,13 @@
           "text": "The original slideshow change (#5047) and repairs #5080, #5092, #5095 and #5109 have Shopify installation receipts. Desktop playback, pause, resume and control sizes were checked. No new Argon rating or foot-traffic outcome was recorded."
         },
         {
-          "title": "Two additional TEST shoppers approved",
+          "title": "Both TEST shopper profiles verified",
           "date": "1 November 2026",
-          "text": "The owner completed the two personal TEST sign-ins and Shopify returned two distinct profiles. The three installed privacy-test files match. At 12:59 UTC the original tester’s browser connection failed before it could identify the signed shopper. The hosted test needs a private approved session. Session separation, consent, withdrawal, seven native checks and final ratings remain open."
+          "text": "The owner finished both TEST sign-ins. Shopify confirmed two distinct profiles, and three installed test files match the approved source. The original tester’s browser stopped before the signed identity could be checked. The 13:12 device check found no dated slot or new hosted run. Independent session isolation, consent and withdrawal, seven iPhone checks and all three final ratings remain open."
         }
       ],
       "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
-      "sourceAsOf": "2026-11-01T09:07:59.531207+00:00"
+      "sourceAsOf": "2026-11-01T13:15:06.485876+00:00"
     },
     "companion": {
       "number": "04",

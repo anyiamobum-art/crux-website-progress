@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "The original tester returned the browser at 12:59 UTC. Hands and Bridge own its recovery. The device team’s inbox cursor has passed the hosted small-iPhone request. A specific date or queue position is still due.",
+  "workerState": "The original tester returned the browser at 12:59 UTC. Hands and Bridge own its recovery. Bridge acknowledged the separate hosted small-iPhone request. At the 13:12 check the chair had given no date or queue position.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November. At 12:59 UTC the passive browser turn ended without an account match. The Website team then confirmed the three TEST files, the configured app paths and deployed build 5c9f62a.",
+  "lastActualProgress": "1 November. The order-help developer returned the named repair at 13:10 UTC. The source is at 29f53f39. Its Draft status kept the hosted product tests from running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The tester still needs independent signed-session isolation and consent and withdrawal evidence. The seven native checks need a dated small-iPhone run, and the installed homepage and cart need genuine 200% zoom proof.",
   "current": "Two distinct TEST shopper profiles are verified. All three installed privacy-test files still match the approved TEST configuration. The original tester’s 12:59 UTC passive browser read ended before the account page opened.",
   "next": "Hands and Bridge must restore the original tester’s access and assign a fresh passive check on the signed TEST preview. The hosted test also needs an approved private shopper session. After identity is verified, the original team can exercise session isolation, consent and withdrawal.",
-  "updated": "1 November, 13:01 UTC. Two separate profiles and three installed TEST files are verified. No independent signed identity or consent result exists. Seven iPhone cases and three final 9.5 ratings remain open.",
+  "updated": "1 November, 13:14 UTC. Both approved shoppers have distinct TEST profiles. Three installed TEST files match. The signed-session, genuine 200% zoom and seven iPhone checks remain open. None of the three final ratings has reached 9.5.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -206,8 +206,8 @@
   ],
   "recentChanges": [
     "The owner reported completing both TEST sign-ins. The 12:54 UTC read found two distinct shopper records. The original tester received the passive browser turn, but its connection failed before the account page opened. Hands and Bridge have the result. The private hosted shopper-session input is also outstanding.",
-    "The guest sign-in and sign-out test merged in #5172. Its first two-shopper run is still open. The TEST order-help change #5190 has two reported checks to resolve. The separate preference-form check #5189 passed its five test groups and awaits release from Draft.",
-    "Warehouse returned its local iPhone 17 at 12:34 UTC. The Website’s seven cases use a hosted small iPhone. The first scheduling update was behind the device team’s last-read position. At 12:51 UTC the Website lead placed one pointer after that position. The device team’s read cursor later passed the pointer. A dated allocation or queue position is still due. The four qualified test files still match."
+    "The guest sign-in and sign-out test merged in #5172. Its first two-shopper run is still open. The original order-help developer returned a revision in #5190. At 29f53f39, the Draft gate skipped the hosted product tests. The separate preference-form check #5189 passed all five test groups and awaits release from Draft.",
+    "Warehouse returned its local iPhone 17 at 12:34 UTC. Bridge acknowledged the separate request for the hosted small iPhone and posted it for the incoming chair. The 13:12 check found no dated allocation, queue position or new hosted run. Four test files and all 20 required dependencies match the device owner’s qualified source."
   ],
   "openDeliveryGates": [
     {
@@ -272,7 +272,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting since 16 October at 20:16 UTC. Warehouse returned its local iPhone 17 at 12:34 UTC. The original request for a hosted small iPhone still needs a date and eligible models. Four files and all 20 dependencies still match the device owner’s qualification. Next check 13:12 UTC on 1 November."
+        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting since 16 October at 20:16 UTC. At the 13:12 check Bridge had passed the request to the incoming chair. No date, device or queue position had been returned. The latest hosted run was on 29 October. Next check 13:38 UTC on 1 November, or when the chair answers."
       },
       {
         "complete": true,
@@ -332,7 +332,7 @@
       },
       {
         "complete": false,
-        "text": "Test session isolation, consent and withdrawal for the two approved TEST shoppers. Both profiles are distinct. At 12:59 UTC the original tester’s passive identity check ended before the page opened. Hands and Bridge must restore that tester’s browser connection and release it for the check. The hosted test also needs a private, run-approved shopper session. Next check 13:12 UTC on 1 November or an actual handback."
+        "text": "Test session isolation, consent and withdrawal for the two approved TEST shoppers. Both profiles are distinct. At 12:59 UTC the original tester’s passive identity check ended before the page opened. Hands and Bridge must restore that tester’s browser connection and release it for the check. The hosted test also needs a private, run-approved shopper session. Next check 13:38 UTC on 1 November or an actual handback."
       },
       {
         "complete": true,
@@ -368,7 +368,7 @@
       },
       {
         "complete": false,
-        "text": "Check the installed homepage and cart at genuine 200% zoom. Waiting since 30 October at 14:30 UTC for the original browser holder to release the correct storefront tab with working zoom controls. Next check 13:12 UTC on 1 November."
+        "text": "Check the installed homepage and cart at genuine 200% zoom. Waiting since 30 October at 14:30 UTC for the original browser holder to release the correct storefront tab with working zoom controls. Next check 13:38 UTC on 1 November."
       },
       {
         "complete": true,
@@ -447,7 +447,7 @@
         "text": "Check whether the signed TEST journey can run (12:55–13:01 UTC, 6 min). The three installed files match, the TEST styling controls point to the expected app paths, and the deployed build is identified. The hosted run has no generic shopper-session input. The passive browser turn was returned without an identity match."
       }
     ],
-    "landing": "Lands: next evidence check about 13:12 UTC on 1 November. Final delivery depends on isolated TEST journeys, actual device and zoom results and three final reviews."
+    "landing": "Lands: next evidence check about 13:38 UTC on 1 November. Final delivery depends on isolated TEST journeys, actual device and zoom results and three final reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
