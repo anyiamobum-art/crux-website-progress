@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Original component reader executing; source builder and evidence support completed this repair. Draft#5204 is awaiting exact-head admission.",
+  "workerState": "The original designer is correcting the jacket thumbnail. The code is in #5204; the revised section is still a private preview.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November,17:44 UTC. Refined source0caaf6ed pushed once and Draft#5204 opened. All9 changed files and37 draft payloads remain bound to the inspected proof.",
+  "lastActualProgress": "1 November, 17:52 UTC. The second design review verified the phone spacing, colour notes, product links and narrow-phone controls. It found one remaining crop.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The original Opus route refused weekly capacity before execution. The chair has assigned Hands to recover that same review on an available seat. Hands has the final source and command; no execution or score is claimed yet.",
-  "current": "The refined Runway is in the existing private preview and submitted as #5204. Its original independent second component review is running on the same version.",
-  "next": "Collect the design result and apply any named corrections through the original designer. The exact-head code admission is requested. Current design passes remain0 of2; the previous candidate scored9.06/minimum8.8.",
-  "updated": "1 November,17:44 UTC. Remote PR matches frozen source, is mergeable and remains Draft. Private preview and public report bytes were read back. Original current-stock/cart, native and Shopify installation acceptance remain open.",
+  "remaining": "The first Opus component review has not run. Hands has agreed a route on an available seat and is waiting for the corrected build.",
+  "current": "The Runway in A Closer Look scored 9.32/10 from Astra, up from 9.06. It confirmed all four earlier fixes. 0 of 2 requested 9.5 ratings are in.",
+  "next": "Show the full hem of the Look 05 denim jacket in its desktop shopping thumbnail, then give both readers the same corrected build.",
+  "updated": "1 November, 17:57 UTC. The chair and Hands confirmed a route for the first Opus component read. No Opus verdict or Shopify installation of this version is recorded.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "The owner selected **The Runway**, then requested a stronger, more polished version based on the shared reference.",
-    "Typography, featured-model scale, photo staging and touch motion are refined together in the original October 3 homepage. The selected Runway remains interactive and scrollable.",
-    "The new Runway will be reviewed independently by Opus 5.5 and Astra. Its requested 9.5 ratings remain unearned; the draft is unpublished."
+    "The five-look Runway now gives the selected model more room, with Archivo type and a product link directly beneath its caption.",
+    "Astra raised its component score from 9.06 to **9.32/10** and verified all four earlier fixes. One desktop jacket thumbnail still cuts off the hem.",
+    "The next component check is on the corrected build. Independent Opus feedback and installation in the unpublished draft are still ahead."
   ],
   "openDeliveryGates": [
     {
@@ -491,19 +491,31 @@
         "text": "Bind the tested source and refresh the private preview (17:16Z–17:30Z, took14min). All37 draft payloads match the tested build;26 local preview routes were read back."
       },
       {
-        "complete": false,
-        "text": "Obtain the next independent readings (started17:30Z, est.15min for the active review; the other original account still requires recovery)."
+        "complete": true,
+        "text": "Submit the reviewed candidate for protected code review (17:30Z–17:44Z, took 14 min). #5204 is open; admission is tied to the revision."
+      },
+      {
+        "complete": true,
+        "text": "Complete the second visual review (17:30Z–17:52Z, took 22 min). All four prior fixes passed; the reviewer inspected 23 images and found one remaining desktop crop."
       },
       {
         "complete": false,
-        "text": "Address any named findings and complete protected review and merge (est. dependent on findings and hosted checks)."
+        "text": "Fit the full denim jacket in its thumbnail and compare the neighboring garments (started 17:52Z, est. 20 min)."
+      },
+      {
+        "complete": false,
+        "text": "Give both independent readers the corrected section (est. 20 min after final evidence is ready; account availability can change this)."
+      },
+      {
+        "complete": false,
+        "text": "Finish protected code review and merge (estimate depends on the reviewers and hosted checks)."
       },
       {
         "complete": false,
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: next independent result about17:45Z (15min from17:30Z; reviewer findings can move this). Combined rating and draft delivery remain unestimated until the original review account is available. Live publication remains off."
+    "landing": "Lands: jacket proof about 18:12Z (20 min from 17:52Z; remote rendering can move this). Draft delivery depends on independent ratings and code review. The store remains unpublished for this change."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
