@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-01T10:32:54.477686+00:00",
+  "snapshot": "2026-11-01T11:04:49.133291+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -542,8 +542,8 @@
         },
         {
           "title": "Two additional TEST shoppers approved",
-          "date": "1 November 2026, 10:14–10:32 UTC",
-          "text": "Shopify found no saved profile for either approved shopper. Shopify’s documented account flow creates each new profile after the owner completes hosted email sign-in. The Website tester needs a working browser turn for that flow. Zero emails, new sessions or iPhone checks have been verified."
+          "date": "1 November 2026, 10:14–11:03 UTC",
+          "text": "Shopify found no existing customer profile for either approved shopper. The repaired sign-in and sign-out test merged at 10:47 UTC. The Website tester received a registration browser turn at 11:00 UTC, but Chrome declined access before the TEST store opened. Neither shopper received a sign-in email and this turn created no profiles. Seven iPhone checks are still open."
         }
       ],
       "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
