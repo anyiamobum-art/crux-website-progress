@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Astra’s final crop check is running. Hands will host the first Opus 5.5 component read when its separate visual evidence is ready.",
+  "workerState": "Astra’s final named check is complete. The first Opus packet is with Hands. It is not counted as a review until the reviewer returns a verdict.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 18:01 UTC. The corrected revision was served in the private preview and submitted to #5204. Only the desktop outfit-thumbnail CSS changed in this repair.",
+  "lastActualProgress": "1 November, 18:06 UTC. Astra verified the entire desktop jacket and neighboring garments. Shopping clarity and responsive presentation both reached 9.4; interaction remains 9.3.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Neither reviewer has yet returned a 9.5 on this corrected source. The protected code review also requires the desk to admit the new revision.",
-  "current": "The corrected Runway is in the private October 3 preview. Select Look 05: the entire denim jacket is visible. Astra is checking that repair; its preceding score was 9.32/10.",
-  "next": "Collect the two independent component verdicts on the corrected version. The target is 9.5 from each reviewer.",
-  "updated": "1 November, 18:01 UTC. The full jacket fits; neighboring garments and phone thumbnails matched their previous pixels. All seven paired browser checks passed. No Shopify installation or live publication of this revision.",
+  "remaining": "Astra’s final check closed its only named defect, but the component average remains below 9.5. The code review also needs admission on the repaired revision.",
+  "current": "The October 3 Runway stands at 9.38/10 from Astra after the jacket fix, up from 9.06 on the first design read. Opus 5.5: awaiting its first component verdict. The 9.5 target remains 0/2.",
+  "next": "Collect the blind Opus review. The chair has the request for a small-iPhone swipe and text-zoom check and a decision on any further design work.",
+  "updated": "1 November, 18:06 UTC. The repaired preview was read back; the five criterion scores average exactly 9.38. The corrected Runway is not installed or published on Shopify.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,9 +205,9 @@
     }
   ],
   "recentChanges": [
-    "The five-look Runway now gives the selected model more room, with Archivo type and a product link directly beneath its caption.",
-    "Astra raised its component score from 9.06 to **9.32/10** and verified all four earlier fixes. Its one remaining finding was a clipped jacket hem on desktop.",
-    "The jacket crop is repaired in the private preview. Both independent verdicts on this version and installation in the unpublished draft are still ahead."
+    "The five-look Runway gives the selected model more room, uses Archivo for a clearer reading order, and places a named product link beneath the caption.",
+    "The Look 05 desktop thumbnail now shows the whole denim jacket. The adjacent garments and phone thumbnails kept the same pixels.",
+    "Astra’s component standing moved **9.06 → 9.32 → 9.38**. The last step was a focused crop check. Opus’s independent full review has no score yet."
   ],
   "openDeliveryGates": [
     {
@@ -503,8 +503,12 @@
         "text": "Fit the full denim jacket in its thumbnail and compare the neighboring garments (17:52Z–18:00Z, took 8 min). All seven paired photo checks passed."
       },
       {
+        "complete": true,
+        "text": "Verify the jacket with the original independent reader (18:01Z–18:06Z, took 5 min). The crop passed; the section stands at 9.38/10."
+      },
+      {
         "complete": false,
-        "text": "Collect both design verdicts on the corrected section (started 18:01Z, est. 20 min for the active check; the second reader needs an available seat)."
+        "text": "Collect the first independent full review from the second reader (packet delivered 18:05Z; next check 18:20Z unless the result arrives sooner)."
       },
       {
         "complete": false,
@@ -515,7 +519,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: the first design verdict is estimated around 18:21Z (20 min from 18:01Z); both verdicts and protected review are required for draft delivery. No live publication."
+    "landing": "Lands: the crop check finished at 18:06Z. There is no verified completion time for both 9.5 ratings; the second reader and any further design repairs determine that. The draft stays unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
