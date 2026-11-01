@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-01T12:54:16.769892+00:00",
+  "snapshot": "2026-11-01T12:55:35.724714+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -543,7 +543,7 @@
         {
           "title": "Two additional TEST shoppers approved",
           "date": "1 November 2026",
-          "text": "The hosted TEST account entry opened for the owner. At 12:53 UTC the store matched one of two approved shopper profiles. The second profile and both signed sessions still need verification. Agents requested zero emails. Seven small-iPhone checks and three final ratings remain open."
+          "text": "The owner reported completing the two private TEST sign-ins. Shopify confirmed both customer profiles exist and are distinct at 12:54 UTC. Independent session isolation, consent and withdrawal remain open. Agents requested zero emails. The seven small-iPhone checks and three final ratings are still open."
         }
       ],
       "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
