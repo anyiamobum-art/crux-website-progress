@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 21:15 UTC. The corrected version is served on all 26 checked preview routes. At 380 px with double-size text, switching between the five looks moved the list 0 px. The earlier version moved it by 36.39 px.",
+  "lastActualProgress": "WebKit exercised all 12 pairings at 380 and 1280 px on 16edd726. Each opened the matching catalog photograph and product link and supported zoom and pan. The yellow Ball Tee carries a note that its catalog photo shows green.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
-  "current": "The five-look Runway and animated garment list are ready to try in the October 3 private preview. At enlarged text, switching outfits now keeps the list in place.",
+  "current": "In the private Runway prototype, shoppers can compare each piece on the model with its real catalog photograph. The first five looks cover 12 outfit and garment pairings.",
   "next": "Return the corrected source to Hands and the qualified independent readers. The small-iPhone and TEST checks continue separately.",
-  "updated": "1 November, 21:15 UTC. All 53 component browser checks passed on e1830b7f. The full homepage passed at 380, 430 and 1280 px, with a 33-second recorded journey. The new design awaits its independent scores.",
+  "updated": "1 November, 21:48 UTC. Astra and Argon supplied separate suggestions for returning to the selected garment after a product or store visit. The JEV feature has zero of four final ratings. A real JEV image result and small-iPhone check remain open.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -209,6 +209,12 @@
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
+        "scope": "JEV shopper comparison",
+        "reader": "Four requested readers",
+        "score": "Awaiting scores",
+        "version": "The comparison is in private testing. Two design contributions have been received. These are separate from the final review."
+      },
+      {
         "scope": "Runway",
         "reader": "Astra 6",
         "score": "9.38/10",
@@ -242,6 +248,11 @@
   },
   "reusePlan": [
     {
+      "journey": "Inspect a piece",
+      "state": "In the private prototype",
+      "action": "Compare the real photographs, see any known colour difference, and open the product. Test a one-action return from the product and store."
+    },
+    {
       "journey": "Dress the look",
       "state": "In the private preview",
       "action": "Each numbered piece in the Runway leads to its existing product. Next: verify the unpublished product page, size selection, bag and return to the same look on iPhone."
@@ -263,11 +274,10 @@
     }
   ],
   "recentChanges": [
-    "The October 3 composition is intact. In A Closer Look, five photographed looks now share a white floor, a circle, soft shadows and a five-position selector.",
-    "Selecting a look changes its garment list. The numbered pieces appear in order; reduced motion has a static presentation. The private preview links to the existing products.",
-    "The corrected preview passed all 53 component checks. The garment list stayed in place at double-size text, and rapid changes ended on the last look selected.",
-    "The TEST shop has no products. Its default product template also lacks the shopping companion. An isolated TEST fixture and template repair are separate from the homepage work.",
-    "The chair assigned the first available hosted small-iPhone run after Hands installed the mirror. That installation is verified; no new device run is verified."
+    "Open any of five Runway looks and choose Compare the photos. The source photo and matching catalog item can be inspected without leaving the outfit.",
+    "WebKit tested 12 look and garment pairings at phone and desktop widths. Comparing the Ball Tee tells shoppers that the photographed colors differ.",
+    "Astra and Argon both asked to return shoppers to the exact look and piece after a product or store visit. That improvement is in progress.",
+    "The white Runway also passed its earlier 53 browser checks. A real image-model result, native iPhone evidence and independent final scores are still pending."
   ],
   "openDeliveryGates": [
     {
