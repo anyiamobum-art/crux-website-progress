@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished Shopify draft with merged source and final 9.5 passes from the three original readers. The parallel homepage redesign now uses the active NU ERA hero slideshow: the owner explicitly replaced SIDE BY SIDE with this direction. Preserve and improve category photography, shoppable looks and store discovery; replace visible sound text with a speaker icon. Fable and Argon must independently review the new rendered design. The draft must stay unpublished. The separately requested removal of the pet from the active theme is completed.",
-  "workerState": "Website verified all four new files directly with Shopify. Checkout holds the account test. Hands holds the shared browser and iPhone allocation requests.",
+  "workerState": "Hands has the browser again. The browser team is following the access failure in Checkout’s own session. The account team has both approved roles.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 09:55 UTC. Verified why Order help is absent on TEST. Prepared a disabled configuration and checked that it can be reversed byte for byte.",
+  "lastActualProgress": "1 November, 10:15 UTC. Checkout used the returned browser turn. Its connection failed before it could read the account or verify which shopper was signed in.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The remaining checks need qualified TEST shopper sessions, a shared browser release and a dated iPhone test slot. The original readers need those results before they can score the remaining design findings.",
-  "current": "The preference and budget controls are installed in TEST. The two-shopper check is waiting for its TEST browser slot. For Order help, the shopping-companion team has the exact page addresses and a disabled configuration it can test safely once signed forwarding is verified.",
-  "next": "Use the original signed TEST shopper sessions for the account journey. In parallel, Hands needs the chair to allocate a device from the supported small iPhones, and the Website team is waiting for a supported browser session for the 200% check.",
-  "updated": "1 November, 10:02 UTC. Customer care returned its browser turn. Checkout is next for the TEST shopper check. The separate small iPhone slot is still unassigned.",
+  "remaining": "Bridge could see the shared TEST tab. At 10:15 UTC Checkout received the tab again, but its connection failed before it could open Shopify. The seven iPhone checks also need a dated device allocation.",
+  "current": "The owner approved two additional TEST shoppers. At 10:14 UTC Shopify found zero matching profiles for either. One earlier TEST shopper signed in on 30 October.",
+  "next": "When Checkout can open the TEST account page, the account team will recheck both profiles and create any still missing, without sending invitations. When each sign-in page is ready, the owner enters that shopper’s one-time code directly in Shopify.",
+  "updated": "1 November, 10:15 UTC. Two additional TEST roles approved, zero matching profiles and zero new sign-in emails. Seven iPhone checks and all three final ratings remain open.",
   "links": [
     {
       "title": "Shopping Companion preferences #5127",
@@ -205,11 +205,10 @@
     }
   ],
   "recentChanges": [
-    "The Shopping Companion on the unpublished TEST shop now contains the controls for a shopper to save style preferences and a budget in naira.",
-    "Shopify returned all four files byte for byte as reviewed. The existing saved-look controls, account settings and approved privacy notice are preserved.",
-    "No customer account was used in the installation. A signed-in shopper still needs to demonstrate that a saved budget comes back in the right account after signing out and back in.",
-    "The CRUX draft still has seven iPhone checks outstanding. Hands has the request for the first device run and for the shared TEST browser.",
-    "Order help is switched off in TEST. The shopping-companion owner confirmed the test opens a different page from the storefront account link. Checkout has requested a read-only order check before the feature is enabled."
+    "Shopify found no saved customer profile for either newly approved TEST shopper. The earlier shopper’s last verified sign-in was on 30 October.",
+    "Bridge could see the shared tab. Checkout received it again at 10:13 UTC and returned it after its own connection failed at 10:15 UTC. The account team can register each missing shopper when Checkout has a working TEST session.",
+    "The preference and budget controls are installed on the TEST draft. Order help remains disabled while its signed account route is checked.",
+    "Seven iPhone checks await the first device run. The final reviewers still need those results."
   ],
   "openDeliveryGates": [
     {
@@ -219,8 +218,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The notice and guarded Ask configuration in the unpublished TEST copy are verified. Two distinct signed shopper sessions and a real consent and withdrawal journey still lack receipts.",
-      "next": "Use the original account owner and the released browser to sign in, verify account separation, and exercise consent and withdrawal on the TEST copy."
+      "blocker": "The notice and TEST configuration are installed. Shopify found no profile for either newly approved shopper. Checkout’s own browser could not open the TEST page.",
+      "next": "Recheck and save each missing profile without an invitation. When the owner can enter the code, send one ordinary sign-in email per shopper. Then verify separate sessions and exercise consent and withdrawal."
     },
     {
       "label": "8. Final three-model ratings",
@@ -334,7 +333,7 @@
       },
       {
         "complete": false,
-        "text": "Verify two distinct TEST shoppers and exercise consent and withdrawal. Waiting for eligible shopper sessions and shared browser release. Next check 10:32 UTC on 1 November."
+        "text": "Verify separate TEST sign-ins and exercise consent and withdrawal. The two new shoppers are approved. At 10:14 UTC Shopify found neither profile. The account team can recheck and create missing profiles when its TEST admin browser works. The owner enters each code directly in Shopify. Next check 10:32 UTC on 1 November."
       },
       {
         "complete": true,
@@ -403,6 +402,14 @@
       {
         "complete": true,
         "text": "Trace Order help from the installed TEST account page and rehearse its disabled configuration offline (09:49Z–09:55Z). The original shopping-companion owner has the two page addresses and the rollback."
+      },
+      {
+        "complete": true,
+        "text": "Check the three TEST shopper roles (10:05–10:14 UTC, 9 min). One account had signed in on 30 October. The owner approved two distinct additional roles. Shopify returned zero matching profiles for both, and zero sign-in emails were sent."
+      },
+      {
+        "complete": true,
+        "text": "Check the browser handback (10:13–10:15 UTC, 2 min). Bridge could list the TEST tab. Checkout received it, but its own connection failed before Shopify opened. Hands has the tab again."
       }
     ],
     "landing": "Lands: next access check at about 10:32 UTC on 1 November. A finish time depends on the shared browser, iPhone allocation and three final reviews."
