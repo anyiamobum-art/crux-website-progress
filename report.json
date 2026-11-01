@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original designer is implementing the named repair; the existing neutral evidence preparer is preparing the next packets. Astra’s first component read is complete. No Opus review is running.",
+  "workerState": "The original designer is freezing the tested source and reconciling main. The existing evidence preparer will bind the next review packets. No Opus review is running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November,16:44 UTC. Astra’s exact-source findings were validated and all four named refinements were returned to the original designer. The prior candidate remains available in the interactive preview during the repair.",
+  "lastActualProgress": "1 November,17:16 UTC. The revised Runway completed six browser cases and whole-homepage checks at380/430/1280 with no failures. The320px control edge-hit checks also passed. Source1b4b1708;33.024-second journey recorded.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The original Opus review account returned a weekly-capacity refusal at16:27 UTC, before a provider review started. Its original keeper owns recovery. The named design repair continues independently.",
-  "current": "Astra has completed the first independent Runway review: 9.06/10, lowest8.8. The original designer is correcting the four named refinements, including the excessive gap before the shopping action on shorter looks.",
-  "next": "Verify the revised phone and desktop experience, then return the same new source to Astra and the original Opus reviewer. Component reviews received:1 of2; target passes:0 of2. These are separate from historical whole-site ratings.",
-  "updated": "1 November,16:44 UTC. The Astra result is bound to efa47511; score arithmetic and required-image coverage were checked. The prior preview and public report were read back exactly. Current revision, second review and Shopify installation remain open.",
+  "current": "The four named Runway refinements pass their browser checks. Compact phone product rows remove the empty tail, product links name the selected piece, colour differences are explicit, and the narrow-phone controls clear the contact button.",
+  "next": "Seal the tested source after the original designer reconciles main, then return it for the second independent component reading. Component reviews received:1 of2; target passes:0 of2. First Astra score9.06, minimum8.8 remains historical to the previous candidate.",
+  "updated": "1 November,17:18 UTC. Parent inspected the new320px controls and compact phone rows. Functional results are explicitly reused from identical inputs; the changed CSS has current rendered proof. A retained desktop jacket-thumbnail crop is disclosed for review. Native iPhone, independent passing scores and Shopify installation remain open.",
   "links": [
     {
       "title": "TEST sign-in and sign-out check #5172",
@@ -483,12 +483,12 @@
         "text": "Obtain the first available independent Runway rating (16:15Z–16:44Z, took29min). First review9.06/10, minimum8.8; four named refinements accepted for correction. The other review was refused before execution."
       },
       {
-        "complete": false,
-        "text": "Correct and prove the four named Runway refinements (started16:44Z, est.25min). Close the empty gap, clarify colour differences, name the product action and fit the320px index."
+        "complete": true,
+        "text": "Correct and prove the four named Runway refinements (16:44Z–17:16Z, took32min). Compact phone rows, clear colour notes, named product actions and narrow-phone edge hits passed. Extra time covered a real contact-button overlap exposed by the new check."
       },
       {
         "complete": false,
-        "text": "Obtain the next independent readings on the repaired source (est.20min after evidence is ready; original review-account recovery is also required)."
+        "text": "Bind the tested source and obtain the next independent readings (started17:16Z, est.20min after final source binding; original review-account recovery is also required)."
       },
       {
         "complete": false,
@@ -499,7 +499,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: repaired candidate about17:09Z (22min left at16:47Z; new findings or proof failures could move it). Combined rating and draft-delivery time remain unknown until the original review account is available. Live publication remains off."
+    "landing": "Lands: repaired candidate checks completed17:16Z; next review package about17:25Z (7min left at17:18Z; main integration could move it). Combined rating and draft-delivery time remain unknown until the original review account is available. Live publication remains off."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
