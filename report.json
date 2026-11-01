@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The white Runway is served on the existing interactive preview. The original designer’s browser run has started; the source and controller checks passed.",
+  "workerState": "The designer is investigating four failed browser checks: motion at three widths and target stability at 200% on the narrowest one. All 13 fault-injection checks passed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "1 November, 20:43 UTC. Verified 26 private preview routes against the white-stage source. The original photographs remain unchanged.",
+  "lastActualProgress": "1 November, 20:56 UTC. Verified all 26 preview routes after changing only the selected homepage HTML, its stylesheet and controller. Product links lead to the existing product pages; this preview cannot submit a bag.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The new white version has no independent rating yet. The earlier 9.38/10 and 8.48/10 scores apply to the previous design only. Protected review, native iPhone evidence and installation in the unpublished draft remain open.",
-  "current": "The October 3 private preview has the white Runway: five original photographed looks, a single floor ring, contact shadows and a numbered look selector.",
-  "next": "Check the new selector on phone and desktop and submit this exact design to its independent readers.",
-  "updated": "1 November, 20:44 UTC. Preview and remote source checks verified. This version has no independent 9.5 verdict or Shopify installation.",
+  "current": "The October 3 preview shows five photographed looks on white. Each selection opens its matching animated wardrobe list, with named pieces and product links.",
+  "next": "Verify the white Runway and wardrobe together, then return that version to its eligible independent readers. Reuse the later shopping components on their original pages.",
+  "updated": "1 November, 20:59 UTC. The combined version passed 60 of 64 browser checks. Its private preview is available; it has no new independent rating.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -204,10 +204,70 @@
       "result": "Original FULL R2 returned20:25:22Z: FAIL, average8.75/10, lowest8.0, all ten measures scored. The9.5 average and minimum9 requirements remain unmet."
     }
   ],
+  "designScorecard": {
+    "current": "White Runway and animated wardrobe · 13937bc4 · unscored",
+    "target": "9.5/10 for each required reader, with no individual measure below 9.",
+    "rows": [
+      {
+        "scope": "Runway",
+        "reader": "Astra 6",
+        "score": "9.38/10",
+        "version": "Earlier design b0c747c3. The original sequence was 9.06, 9.32, then 9.38 after a crop correction."
+      },
+      {
+        "scope": "Runway",
+        "reader": "Opus 5.5",
+        "score": "8.48/10",
+        "version": "Earlier design b0c747c3. Its lowest score was 7.8 for shopping clarity."
+      },
+      {
+        "scope": "Whole draft",
+        "reader": "Fable 5.1",
+        "score": "9.05/10",
+        "version": "Earlier full review; lowest measure 8.5."
+      },
+      {
+        "scope": "Whole draft",
+        "reader": "Astra 6",
+        "score": "No overall score",
+        "version": "House consistency received 9.0. Nine measures were unscored."
+      },
+      {
+        "scope": "Whole draft",
+        "reader": "Opus 5.5",
+        "score": "8.75/10",
+        "version": "Earlier full review; lowest measure 8.0."
+      }
+    ]
+  },
+  "reusePlan": [
+    {
+      "journey": "Dress the look",
+      "state": "In the private preview",
+      "action": "Each numbered piece in the Runway leads to its existing product. Next: verify the unpublished product page, size selection, bag and return to the same look on iPhone."
+    },
+    {
+      "journey": "Browse the collection",
+      "state": "Found in later theme source",
+      "action": "Restore Grid and Focus, filters and Save on the collection page. Keep the selected item and scroll position when changing the view or coming back."
+    },
+    {
+      "journey": "Try it in a shop",
+      "state": "Found in later theme source",
+      "action": "Reuse the product enquiry and store directions. Carry the piece and selected size into the enquiry; the store confirms availability."
+    },
+    {
+      "journey": "Explore Big Bag",
+      "state": "Existing unpublished page",
+      "action": "Use its navigation destination for objects and homeware. Verify the trip back to shopping without adding another homepage banner."
+    }
+  ],
   "recentChanges": [
-    "The five-look Runway gives the selected model more room, uses Archivo for a clearer reading order, and places a named product link beneath the caption.",
-    "The Look 05 desktop thumbnail now shows the whole denim jacket. The adjacent garments and phone thumbnails kept the same pixels.",
-    "Astra’s component standing moved **9.06 → 9.32 → 9.38**. The last step was a focused crop check. Opus’s first full read scored **8.48**, with the biggest gap in shopping clarity (7.8)."
+    "The October 3 composition is intact. In A Closer Look, five photographed looks now share a white floor, a circle, soft shadows and a five-position selector.",
+    "Selecting a look changes its garment list. The numbered pieces appear in order; reduced motion has a static presentation. The private preview links to the existing products.",
+    "Combined preview: 60 of 64 browser checks passed. The designer is examining three motion readings and a 200% target-stability finding before independent review.",
+    "The TEST shop has no products. Its default product template also lacks the shopping companion. An isolated TEST fixture and template repair are separate from the homepage work.",
+    "The chair assigned the first available hosted small-iPhone run after Hands installed the mirror. That installation is verified; no new device run is verified."
   ],
   "openDeliveryGates": [
     {
@@ -228,7 +288,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Seven iPhone checks remain open. The original request dates to 16 October. The homepage and quantity repairs are installed, and desktop-sized browser checks have passed.",
-      "next": "The device owner verified the current workflow and the code it uses to identify the draft. The chair must now allocate one run and specify the allowed small iPhones. Hands can then run the seven checks on the installed draft."
+      "next": "Hands now holds the first hosted run after its verified mirror installation. It must return the actual run ID and seven results, or the specific scheduling conflict."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -272,7 +332,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed CRUX draft. Waiting since 16 October at 20:16 UTC. At the 13:12 check Bridge had passed the request to the incoming chair. No date, device or queue position had been returned. The latest hosted run was on 29 October. Next check 13:38 UTC on 1 November, or when the chair answers."
+        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). Hands holds the first hosted run after mirror installation; next check at 21:18 UTC or placement."
       },
       {
         "complete": true,
@@ -527,8 +587,16 @@
         "text": "Build and serve the white stage, floor circle and five-look selector (20:33Z–20:42Z, took 9 min)."
       },
       {
+        "complete": true,
+        "text": "Put the animated look breakdown into the interactive private preview (20:47Z–20:56Z, took 9 min). All 26 local route checks passed."
+      },
+      {
+        "complete": true,
+        "text": "Exercise the combined Runway and wardrobe in the browser (20:54Z–20:59Z, took 5 min). Sixty of 64 checks passed."
+      },
+      {
         "complete": false,
-        "text": "Inspect the rendered outfits and verify selection by tap, swipe and keyboard (started 20:43Z, est. 10 min)."
+        "text": "Diagnose three motion readings and a 200% target-stability failure (started 20:59Z, est. 15 min)."
       },
       {
         "complete": false,
@@ -539,7 +607,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: white-stage preview delivered at 20:39Z and refined at 20:42Z. Browser checks estimated around 20:53Z; independent review timing is not yet known."
+    "landing": "Lands: interactive wardrobe preview delivered at 20:56Z. First combined results returned at 20:59Z. Diagnosis estimated around 21:14Z; independent ratings and draft acceptance have no confirmed time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
