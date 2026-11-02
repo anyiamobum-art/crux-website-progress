@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair paused the failing Stores review service. The next attempt stopped before a reviewer received it. The retry window has opened. GitHub still shows five test groups and one verification job waiting for a runner.",
+  "workerState": "The original reviewer is reading the floating Stores button again. Five test groups and one verification job are waiting for a runner.",
   "journey": [
     {
       "stage": "Build",
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
-    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. The retry is eligible. Six protected jobs are queued.",
+    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. The original retry reached its reviewer at 17:02 UTC. [Review run](https://github.com/EON-CRUX/3.09/actions/runs/41487149025)",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
     "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
@@ -437,7 +437,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original Stores review and verify its five merged files on the unpublished theme. The retry became eligible at 16:59Z."
+        "text": "Complete the original Stores review and verify its five merged files on the unpublished theme. The original retry reached its reviewer at 17:02Z."
       },
       {
         "complete": true,
@@ -489,7 +489,7 @@
       },
       {
         "complete": false,
-        "text": "Observe the looks request and visible result on one visit to the TEST tee (first requested 22:54Z, installed 16:18Z, est. 5 min after access to the protected preview)."
+        "text": "Compare the look count and visible rail on the original follow-up visit (request verified at 16:52Z, screen comparison due after #5244 merges)."
       },
       {
         "complete": true,
@@ -637,7 +637,7 @@
       },
       {
         "complete": false,
-        "text": "Test session isolation, consent and withdrawal for the two approved TEST shoppers. Their profiles are distinct. The original signed run needs both sign-in repairs merged and served. One has two code approvals and the other is testing. Next check 14:55Z or a protected result."
+        "text": "Test session isolation, consent and withdrawal for the two approved TEST shoppers. Their profiles are distinct. The shopper sign-in check now passes on the TEST tee. The separate guest-to-shopper test still needs the guest session that has passed the TEST shop password and its reviewed test wiring. [Guest-session change](https://github.com/EON-CRUX/3.09/pull/5269)"
       },
       {
         "complete": true,
@@ -673,7 +673,7 @@
       },
       {
         "complete": false,
-        "text": "Check the installed homepage and cart at genuine 200% zoom. The 30 October browser request remains open. The original hosted run has returned its Safari overlay and wrong-theme redirect for repair. Next check 15:19Z or an earlier original-writer handback."
+        "text": "Check the installed homepage and cart at genuine 200% zoom. The 30 October browser request remains open. The original hosted run has returned its Safari overlay and wrong-theme redirect for repair. Recheck when Hands returns the original test repair."
       },
       {
         "complete": true,
