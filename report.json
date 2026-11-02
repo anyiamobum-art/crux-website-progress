@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The TEST sign-in repair entered protected review. The desk placed the TEST looks-rail fix after #5230. All five looks-rail test jobs are queued. The chair still holds the Stores button, and its two design reviewers have yet to be assigned.",
+  "workerState": "The release desk scheduled the rail fix after #5230, which has one of two code approvals. The 380 px product Options timing test is waiting for the shared remote worker.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the looks-rail change against the actual unpublished TEST theme. Two startup checks passed on the CRUX draft, and all 267 gallery points and 24 purchase controls were reachable in the floating Stores repair.",
+  "lastActualProgress": "Added a passive observer to the original TEST tee check. Eleven offline examples distinguish a genuinely empty rail from a missing response, wrong shop or failed render. Restored the small-iPhone dispatch instruction to Hands’ current worklist.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST theme still serves the old product-page file. The Stores design readers are unassigned, and the hosted small-iPhone checks have no run on the corrected version.",
-  "current": "The fix for the TEST looks rail is in PR #5288. Its test plan passed, and the five test jobs are queued. I verified the replacement against the PR and the rollback against the file served by the unpublished TEST theme.",
-  "next": "After #5288 passes tests and protected review, apply the one-file fix to TEST and check the actual rail on the tee. The chair can assign both Stores design reviewers while Hands handles the small-iPhone check.",
-  "updated": "02 November, 12:57 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
+  "remaining": "The TEST product still serves the old rail binding. The floating Stores button awaits Hands’ acceptance of its corrected version and two design reviewers. The small-iPhone run still needs a run number.",
+  "current": "Both protected reviewers approved the TEST sign-in repair. Its merge is pending. One of five test jobs is running for the separate product-page fix that points the looks rail to the correct shop.",
+  "next": "Install the rail fix on the unpublished TEST theme after it merges. On the original tee visit, compare the shop in the response with the shop on the page and count the looks actually shown.",
+  "updated": "02 November, 13:31 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "The catalogue recorded 77 ms of long-task blocking and Big Bag recorded 0.8 ms of frame blocking during separate ten-second startup checks. Both passed the 300 ms budget on desktop Chromium at phone width.",
-    "On the active store locator, Chrome rendered the Google map with pins and separate directions links for Palms, Chevron and Abuja. Marketing verified that change. The two unpublished directory templates still include retired Osapa and need the separate draft correction.",
-    "The TEST sign-in repair passed 257 focused checks and entered protected review. The tee and signed styling panel opened. The looks-rail fix now has a place in the release queue.",
-    "The floating Stores button cleared all 267 gallery tap points and 24 purchase controls. The chair has the corrected version for its original reviews.",
-    "The iPhone tester resumed at 12:41 UTC. GitHub had no phone run for the corrected version at that check. The next evidence is a run number and the results for each of the seven cases."
+    "The signed-shopper repair passed both protected reviews. The critical review approved the exact revision at 13:14 UTC. It still awaits merge.",
+    "The looks-rail fix started its first test job. The shopper test can now compare the expected TEST shop, the ordinary network response and the visible rail on the same visit. Eleven offline cases passed. The actual tee visit follows installation.",
+    "The small-iPhone instruction was missing from Hands’ current worklist. It was restored at 13:24 UTC. The run and its seven results are still outstanding.",
+    "The phone-width Options check is queued on the existing remote worker. It will time opening and closing the selector on the installed catalogue. The two previously completed desktop startup checks passed.",
+    "The Stores button cleared 267 gallery tap points and 24 purchase controls. Its corrected version still needs the original design reviews."
   ],
   "openDeliveryGates": [
     {
@@ -323,6 +323,14 @@
     "steps": [
       {
         "complete": true,
+        "text": "Attach the passive looks-rail check to the existing shopper test packet and verify eleven offline cases (13:26Z–13:30Z, took 4 min)."
+      },
+      {
+        "complete": false,
+        "text": "Measure the catalogue Options button at 380 px on the installed draft (queued 13:23Z, est. 5 min after remote capacity opens)."
+      },
+      {
+        "complete": true,
         "text": "Qualify both ten-second startup checks on the unpublished draft (10:43Z–11:13Z, took 30 min)."
       },
       {
@@ -339,7 +347,7 @@
       },
       {
         "complete": false,
-        "text": "Run the protected shopper checks after both fixes are merged and served (the failed test passed on main and the full rerun started at 11:08Z, next check 12:10Z or a result)."
+        "text": "Run the protected shopper checks once both repairs have merged and are served. The sign-in repair received both code approvals by 13:14Z. The rail repair started testing. Next check 13:55Z or a protected result."
       },
       {
         "complete": true,
@@ -363,7 +371,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, restored to the current worklist at 10:40Z, the 11:36Z desk decision kept it held, next check 12:25Z or a new decision)."
+        "text": "Obtain acceptance of the corrected Stores button and its two component reviews (submitted 05:29Z, retained on the chair’s list, next check at the next desk decision)."
       },
       {
         "complete": true,
