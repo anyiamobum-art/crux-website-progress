@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The floating Stores control passed its private browser checks. The protected shopper preflight has a prepared source version. The native iPhone and signed TEST interactions remain open.",
+  "workerState": "The read-only TEST run is complete. Seven of eight steps passed. The product-read failure has gone to its original team. The private Stores control is ready to try.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The private preview now serves the Stores icon on home, collection, product and directory pages. The pair clears purchase controls at enlarged text. Separately, zero saved product sections enable the draft size-evidence feature.",
+  "lastActualProgress": "Verified the original eight-step TEST browser receipt. It identified the correct tee and preview theme, opened the signed styling panel, and left Style and Save untouched. The rail was outside the recorded checks.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST product page still requests looks from CRUX. The protected shopper check has no browser result. The small-iPhone repair still needs an exact source version from its original author.",
-  "current": "Shoppers can open Stores from the October 3 private preview. The store directory, product enquiry and return to the selected size work across the four tested pages.",
-  "next": "Check the protected TEST tee and its looks rail, then open the signed styling panel. Qualify the small-iPhone repair and return its evidence to the original three readers.",
-  "updated": "02 November, 01:34 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "remaining": "The TEST product page requests looks for CRUX and its intended TEST product has zero looks. The native run still needs a measured Safari zoom value and a confirmed 2XL tap.",
+  "current": "The actual TEST tee and signed styling panel both opened in the protected shopper session. The public looks rail is the remaining one of these three browser checks.",
+  "next": "Capture the public looks rail on the actual tee. The original team is tracing the product read that returned HTTP 500. The native team still owes the repaired small-iPhone run.",
+  "updated": "02 November, 01:38 UTC. Two of three requested TEST surfaces verified. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -289,7 +289,7 @@
     "A floating storefront icon now sits above green WhatsApp on the private October 3 home, collection, Ball Tee and Stores pages. On Stores it jumps to the list of locations.",
     "Across 81 scroll positions, the pair left the hero controls, sizes, quantity and Add to bag clear. A Yellow/L enquiry retained its selection on return, and links worked with JavaScript off.",
     "All 43 saved theme configurations matched the unpublished draft inventory. Neither product template enables product-specific size evidence. The two-file update is prepared and still needs a confirmed chart for the positive product example.",
-    "The TEST tee has zero linked Studio looks. Its current page points at the wrong shop. The protected shopper preflight has seven steps but no direct looks-rail check. No authenticated result is counted.",
+    "The original read-only shopper run verified the TEST tee and signed styling panel. Seven of eight steps passed. The product read returned HTTP 500. The public looks rail still needs a direct browser observation.",
     "All five iPhone proof files on current main still matched the earlier unsuccessful run. An original-author fix for Safari zoom and 2XL selection is required before a new native result can count."
   ],
   "openDeliveryGates": [
@@ -354,12 +354,16 @@
         "text": "Compare all 701 files on the unpublished draft and trace the TEST rail request (00:15Z–00:26Z, took 11 min). Correct TEST endpoint returned zero looks."
       },
       {
-        "complete": false,
-        "text": "Open the exact tee on the protected TEST preview and verify the empty rail. The test product has zero linked Studio looks (waiting since 22:54Z for a rendered product)."
+        "complete": true,
+        "text": "Open the actual TEST tee on its protected preview theme (01:23Z–01:24Z, took 1 min)."
       },
       {
         "complete": false,
-        "text": "Verify the styling panel in the signed shopper session (repair started 00:10Z, original workflow and test edits observed 00:35Z)."
+        "text": "Inspect the public looks rail on that tee at the next original browser sitting (first requested 22:54Z). Its TEST data has zero linked looks."
+      },
+      {
+        "complete": true,
+        "text": "Verify that a signed TEST shopper can open the styling panel without using Style or Save (01:23Z–01:24Z, took 1 min)."
       },
       {
         "complete": false,
