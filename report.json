@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify reported the CRUX draft unpublished. All 701 files matched the recorded draft snapshot. At 00:21 UTC the TEST looks endpoint identified the tee and returned zero looks. The installed page was found to request the wrong store.",
+  "lastActualProgress": "At 00:34 UTC, a count in the TEST store confirmed zero Studio looks linked to this tee, matching its API response. For the small-iPhone product, Shopify confirmed 2XL is available. Both storefront interactions still require a browser observation.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Shopify’s signed merchant Themes page opened a blank frame. The protected shopper inspection has no browser result yet. The small iPhone still needs a numeric Safari zoom reading and a confirmed 2XL selection.",
   "current": "The TEST tee’s product page requests looks from the CRUX store. A separate read against the correct TEST store returned zero looks. The repair is with the original product-page team.",
   "next": "Use the original protected shopper session to open the TEST tee, report the rail as visible, hidden or absent, and open the signed styling panel. Confirm the corrected store address on the unpublished TEST theme.",
-  "updated": "02 November, 00:32 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "updated": "02 November, 00:36 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -287,9 +287,9 @@
   ],
   "recentChanges": [
     "Shopify reported that the CRUX theme is unpublished. All 701 file checksums and sizes match its recorded draft snapshot.",
-    "The TEST tee page requests Studio looks from the CRUX store. The correct TEST endpoint returned zero looks. The original product-page team received the repair details. The rail has not been seen in a shopper browser.",
+    "The TEST tee page requests Studio looks from CRUX. The correct TEST endpoint returned zero looks and the fixture has zero linked Studio looks. The original product-page team received the repair. A shopper still needs to see the empty state.",
     "The protected shopper repair started at 00:10 UTC. The signed merchant Themes frame stayed blank, and the browser slot was returned. The tee and signed styling panel still need a shopper check.",
-    "The 404 Tee quantity control measured 50 × 44 CSS pixels at four widths on the same source. Genuine iPhone zoom and the 2XL selection remain open.",
+    "The 404 Tee quantity control measured 50 × 44 CSS pixels at four widths on the same source. Shopify confirms 2XL is available on the iPhone test product. Safari zoom and selecting 2XL still need a device check.",
     "Fable’s last full average was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open."
   ],
   "openDeliveryGates": [
@@ -343,11 +343,11 @@
       },
       {
         "complete": false,
-        "text": "Verify the tee and its public looks rail through the original protected preview (waiting since 22:54Z for a rendered product)."
+        "text": "Open the exact tee on the protected TEST preview and verify the empty rail. The test product has zero linked Studio looks (waiting since 22:54Z for a rendered product)."
       },
       {
         "complete": false,
-        "text": "Verify the styling panel in an authenticated shopper session (waiting for its existing owner’s read-only workflow option)."
+        "text": "Verify the styling panel in the signed shopper session (repair started 00:10Z, original workflow and test edits observed 00:35Z)."
       },
       {
         "complete": false,
