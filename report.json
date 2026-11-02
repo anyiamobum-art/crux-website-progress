@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The final review packet now contains the four-width quantity check and one earlier held bag-plus observation. Seven other requested bag controls and current collection timings still need proof.",
+  "workerState": "The TEST browser turn finished. The protected shopper and small-iPhone work remain with their original owners. The four-width quantity measurement is in the final review packet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original shopper owner verified the browser and runner limits. The final review packet now includes the four-width 404 Tee measurement against all 701 recorded draft files.",
+  "lastActualProgress": "A signed merchant session and the correct TEST store were verified at 00:10–00:12 UTC. The wait for a visible theme or Preview control expired. Product, rail and signed panel remain unverified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "No interactive TEST shopper tab remains from the completed sign-in. The current runner offers seven journeys and no read-only panel check. The last small-iPhone run still lacks genuine Safari zoom and confirmed 2XL selection.",
-  "current": "Hands signed in to the TEST merchant. Shopify placed Preview inside a frame its tool could not open. The original shopper owner has checked the independent signed route as well.",
-  "next": "Hands can open the tee and looks rail when its Chrome extension reconnects. The signed panel needs the protected shopper runner to stop after opening the panel, before Style or Save.",
-  "updated": "02 November, 00:04 UTC. TEST tee, public looks rail and signed shopper panel each await a render. Whole-draft passes are 0/3.",
+  "remaining": "The merchant page exposed no usable preview control. The protected read-only shopper check has no result yet. The small-iPhone run needs a working zoom reading and a confirmed 2XL selection.",
+  "current": "Hands cleared the browser slot. The tester reached the signed-in TEST merchant and opened Themes. Shopify’s embedded page stayed blank, and the slot was returned at 00:12 UTC.",
+  "next": "The original protected shopper runner has a read-only check in its repair brief. It needs to show the TEST tee, report whether the public looks rail appears, and open the signed styling panel before any Style or Save action.",
+  "updated": "02 November, 00:13 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -289,7 +289,7 @@
     "The 404 Tee quantity control measured 50 × 44 CSS px at all four tested widths. The measured source matches the recorded draft. These were responsive browser checks at normal zoom.",
     "One earlier 380px bag-plus press has a screenshot and six matching cart files. Seven other requested controls still need held-state proof.",
     "Five files changed after the collection timing run, so its earlier Options and loading times are excluded from current acceptance.",
-    "Hands verified the signed TEST merchant, then met a Shopify frame its Chrome tool could not open. The shopper owner confirmed the prior signed windows had closed. The tee, public looks rail and signed panel each remain unobserved.",
+    "Hands cleared the TEST browser slot. The tester opened Themes on the signed-in merchant, reached the embedded page and observed a blank frame until the Preview-control wait expired. The original shopper team has added a read-only inspection to its repair brief. All three storefront observations are pending.",
     "Fable’s last full review was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open. The unpublished draft still needs all three final passes."
   ],
   "openDeliveryGates": [
@@ -334,8 +334,12 @@
         "text": "Reconcile both TEST access routes with their original owners (23:56Z–00:01Z, took 5 min). The merchant was visible. Its Preview control was inaccessible, and the signed workflow cannot stop after a read."
       },
       {
+        "complete": true,
+        "text": "Use the exclusive TEST merchant slot (00:10Z–00:12Z, took 2 min). Signed store verified. Themes loaded an empty frame and exposed no Preview button. Browser returned to Hands."
+      },
+      {
         "complete": false,
-        "text": "Verify the tee and its looks rail on the retained merchant preview (waiting since 22:54Z for the original extension or an admitted compatible browser turn)."
+        "text": "Verify the tee and its public looks rail through the original protected preview (waiting since 22:54Z for a rendered product)."
       },
       {
         "complete": false,
@@ -690,7 +694,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: four-width proof is in the final review packet. Draft handover timing depends on the shared browser slot, the repaired native run and the original reviewers."
+    "landing": "Lands: handover timing depends on the protected shopper render, the repaired small-iPhone check and the three final reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
