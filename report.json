@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Stores repair is on the original chair card. The TEST catalogue backend repair is deployed. The signed shopper run still needs two dependent releases.",
+  "workerState": "The Desktop chair has the floating Stores decision. The TEST catalogue fix is deployed and its first dependency merged. The separate shopper-panel repair is still in review preparation.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The TEST catalogue repair merged at 05:46 UTC. At 05:50 the running catalogue file matched the approved version. The Website and Companion owners also identified the change needed to save a fitted look to the signed shopper’s account.",
+  "lastActualProgress": "Measured useful content on the unpublished Shopify catalogue. In desktop Chromium at 380 px, the first decoded product photo, name and price appeared in 236–381 ms across three warm reloads. The median was 302 ms.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The public looks rail still requests the CRUX catalogue on the TEST tee. The original owner must correct that binding before a browser check counts. Small-iPhone Safari still needs measured zoom and a working 2XL tap.",
   "current": "The floating Stores button clears the gallery’s Pause control on the repaired revision. GitHub’s source and PR description checks passed. Hands and the component reviewers have the revision for admission and review.",
   "next": "Get the two component verdicts on 23a74fac, then complete protected review, merge and verify all five changed files on the unpublished theme.",
-  "updated": "02 November, 06:01 UTC. TEST shopper checks 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
+  "updated": "02 November, 08:45 UTC. TEST shopper checks 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Floating Stores button #5250",
@@ -288,9 +288,9 @@
   "recentChanges": [
     "On two phone widths, a tap near the gallery’s Pause button could open Stores. The repair passed all 267 gallery hit tests and left all 24 tested purchase targets clear. These checks used desktop WebKit.",
     "The corrected Stores revision passed GitHub’s source and description checks. The earlier review admission applies only to the previous revision. The corrected revision still needs its own admission and component reviews.",
-    "The TEST catalogue repair is running on EON. The separate signed shopper check follows releases #5212 and #5244.",
+    "The TEST catalogue repair is running on EON and #5212 has merged. The separate signed shopper run still needs the #5244 repair served and the TEST shopper and product rechecked.",
     "The TEST tee and signed styling panel opened. The public looks rail still needs a corrected shop binding and direct observation on that tee.",
-    "Verified the fitting-desk design against the existing shopper code. The product and size can feed the new presentation. Account saving needs the existing signed, versioned save path before it can be tested."
+    "Three warm catalogue reloads on the actual unpublished theme showed a decoded product photo, name and price within 381 ms. The draft ID and role were verified on each reload. This completes the desktop warm-catalogue measurement for the original Opus review."
   ],
   "openDeliveryGates": [
     {
@@ -343,7 +343,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, allocation checked 05:59Z, next check 06:28Z)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, next check 09:15Z)."
       },
       {
         "complete": true,
@@ -392,6 +392,10 @@
       {
         "complete": true,
         "text": "Verify the deployed TEST catalogue repair against the approved file (05:46Z–05:50Z, took 4 min)."
+      },
+      {
+        "complete": true,
+        "text": "Measure first useful product content on three warm draft reloads and attach it to the original review packet (06:05Z–06:27Z, took 22 min)."
       },
       {
         "complete": true,
