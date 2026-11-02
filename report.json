@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "For Stores, the corrected five-file handoff now checks that the reviewed and merged files match before draft installation. Five offline checks passed. For the TEST looks rail, all five test groups passed and the remaining check is waiting for a free runner.",
+  "lastActualProgress": "The looks-rail repair merged at 16:17 UTC. Shopify readback at 16:18 confirmed the product section was the only change across all 609 files on the TEST draft.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
-  "current": "All five test groups passed for the TEST looks-rail repair. One required check is queued for a runner before GitHub can merge it.",
-  "next": "After protected merge, install the reviewed template on TEST, then open the tee and verify the looks it actually returns.",
-  "updated": "02 November, 16:00 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "The product-page repair is installed on the unpublished TEST theme. A TEST tee now asks its own store for related looks.",
+  "next": "Open that tee in the existing shopper test and check what the shopper sees. If the store returns looks, the rail should show them. If it returns none, the rail should stay hidden.",
+  "updated": "02 November, 16:22 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -296,7 +296,7 @@
     "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. Its original review can retry from 16:59 UTC.",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
-    "The TEST tee and signed shopper panel opened. The fix for the third surface, the looks rail, passed protected review at 15:05 UTC. All five test groups passed. Both aggregate checks are green. The required Ready-time pin check is queued for a runner. The rail itself still needs an observed visit after installation."
+    "The TEST tee and signed shopper panel opened. The looks-rail repair passed protected review and merged. Shopify returned the exact reviewed template from the unpublished TEST theme. A shopper visit is still needed to close the third check."
   ],
   "openDeliveryGates": [
     {
@@ -368,8 +368,8 @@
         "text": "Verify protected code approval for the TEST rail (15:01Z–15:05Z, took 4 min)."
       },
       {
-        "complete": false,
-        "text": "Install the merged rail fix and verify the tee and looks response on TEST (est. 10 min after merge). All five groups and both aggregate checks passed. The required pin check is queued. All 8 available matching runners were busy at 16:00Z."
+        "complete": true,
+        "text": "Install the merged rail repair on the unpublished TEST theme and verify the complete file inventory (16:17Z–16:18Z, took 1 min)."
       },
       {
         "complete": false,
@@ -465,7 +465,7 @@
       },
       {
         "complete": false,
-        "text": "Verify the looks rail on the actual TEST tee when the source uses its correct shop (first requested 22:54Z). The TEST endpoint previously returned zero linked looks."
+        "text": "Observe the looks request and visible result on one visit to the TEST tee (first requested 22:54Z, installed 16:18Z, est. 5 min after access to the protected preview)."
       },
       {
         "complete": true,
