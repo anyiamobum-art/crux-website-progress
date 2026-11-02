@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The hosted iPhone run has ended. The TEST looks-rail repair passed its required pin check and two of five test jobs. The original desk has the result for review scheduling.",
+  "workerState": "Four of the five TEST looks-rail test jobs passed. The chair accepted its green pin check for the paced review queue. The combined Runway, garment comparison and store enquiry also entered its first design-review queue.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "The desktop Options drawer exceeded its 50 ms frame budget. The Stores change still needs component reviews and protected merge. The TEST looks rail still needs the corrected file installed.",
   "current": "The iPhone run returned seven untested checks. Safari’s own menu covered the product, and the source check landed on the active theme. Hands has the screenshots and the source evidence for the original writer.",
   "next": "Verify that Safari is showing the unpublished product and can read 200% zoom before the next phone check. After the TEST looks-rail repair merges, install its one file and check the tee.",
-  "updated": "02 November, 14:51 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised on the unpublished draft. Final ratings at or above 9.5 are 0/3.",
+  "updated": "02 November, 15:06 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Three whole-draft design ratings at or above 9.5 are still due.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,9 +205,15 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The separate Shopify change #5250 is on corrected revision 23a74fac. The gallery overlap is fixed. Component reviewers have yet to score it. Original final review results below remain bound to their reviewed versions.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores repair is on 23a74fac. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
+      {
+        "scope": "Combined Runway and store enquiry",
+        "reader": "Opus 5.5, Astra 6, Fable 5.1 and Argon",
+        "score": "Ungraded",
+        "version": "First design review admitted for d34c0865. Opus and Astra await seats. Fable’s original connection reported its weekly limit. Argon awaits the chair’s separate decision."
+      },
       {
         "scope": "JEV shopper comparison",
         "reader": "Astra 6",
@@ -286,6 +292,7 @@
     }
   ],
   "recentChanges": [
+    "The combined Runway and store-enquiry design entered its first review queue. Its packet ties the garment photos, selected size and store destination to one version. It has no score yet.",
     "Hands accepted the corrected floating Stores button. It keeps the gallery Pause control and the purchase controls usable. Two component reviews and protected merge are still due.",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The original test owner has the screenshots and the incorrect theme readback.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
@@ -358,7 +365,7 @@
       },
       {
         "complete": false,
-        "text": "Run the protected shopper checks once both sign-in repairs merge and are served. The separate rail fix passed two of five test jobs. Its required pin check passed at 14:42Z. The paced release desk has the result."
+        "text": "Run the protected shopper checks once both sign-in repairs merge and are served. The separate rail fix passed four of five test jobs. The chair put its green pin check on the release desk’s list."
       },
       {
         "complete": true,
@@ -485,8 +492,16 @@
         "text": "Integrate the faster popup, pass the remote tests and verify the served private journey (23:18Z–23:22Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Obtain the chair’s first-round decision for the combined shopping journey (requested 1 Nov 23:22Z, granted 2 Nov 14:53Z)."
+      },
+      {
+        "complete": true,
+        "text": "Bind its source, four rendered settings and shopping actions to one verified review packet (14:53Z–14:58Z, took 5 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain the original chair’s scope decision for the combined design (waiting since 1 Nov 23:22Z, reached the chair’s worklist 14:05Z, next check 14:35Z or a ruling)."
+        "text": "Collect the original design reads after higher-priority work releases a review seat (next check 15:28Z or a reader assignment)."
       },
       {
         "complete": true,
