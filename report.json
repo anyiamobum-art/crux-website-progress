@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The floating Stores repair is cleared for a second code review. The release desk finished its previous batch. Its restart request is open, and the repair is still waiting for a review slot.",
+  "workerState": "The release desk has restarted and resumed its review queue. Floating Stores and Runway still await their own protected review slots; a restarted desk is not an approval.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify served the correct unpublished product page for both test tees when the preview redirect kept its session. Both pages include the existing size guide. Their unverified online size evidence stays off.",
+  "lastActualProgress": "Recovered the existing TEST account through Chrome’s native controls and confirmed its Orders page and TEST tee recommendation. No new sign-in or store setting was needed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The iPhone test must keep the correct draft open in Safari, clear its menus and verify 200% zoom. The desktop Options drawer also needs its timing repair.",
-  "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
-  "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 20:11 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "Chrome now displays the signed-in TEST account again. The existing eight-check shopper test remains passed; the looks rail still needs its visible-state check.",
+  "next": "Use the original browser allocation to verify the TEST tee and its visible looks rail, or consume the original styling follow-up after its test merges.",
+  "updated": "02 November, 20:46 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
-    "The unpublished product page now contains the reviewed size-guide code. Both files match the merged change. All 699 other draft files and all 550 live-theme files matched their pre-install records. Shoppers keep the existing guide until product-specific measurements are verified. [Size-guide change #5061](https://github.com/EON-CRUX/3.09/pull/5061)",
-    "The floating Stores button yields taps to Grid/Focus at enlarged text sizes. WhatsApp hides when it cannot receive taps. All 1,350 paired-control taps and 267 gallery taps passed in desktop WebKit. The chair and Hands cleared the repair for round 2. [Chair’s size decision](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584086285) · [Hands acceptance](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584126702)",
-    "We traced the live-theme result to the preview redirect and verified how to reach the draft on two product pages. Safari itself still needs to show the draft and genuine 200% zoom. All seven device checks remain open.",
-    "At 380 px, the Options drawer passed all four interactions. At 1280 px, the second close took 57.4 ms. We traced the animation to the catalogue stylesheet and returned the timing test to its owner.",
-    "All eight sign-in checks passed. Order Help now opens the correct TEST account page. The signed order and the on-screen looks rail still need separate checks. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960) · [Styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)"
+    "Chrome recovery is verified: the existing signed TEST account now renders normally through native controls. The full product-and-looks check remains separate.",
+    "The review desk restarted and resumed its existing queue. Stores and Runway are still awaiting their own reviews.",
+    "The TEST tee and signed shopper panel passed all eight checks. Matching looks returned from the correct shop; the visible rail still needs verification.",
+    "Both exact product URLs now return the unpublished draft when their preview session survives the redirect. The existing size guide is present; unverified size evidence stays off.",
+    "The Shopify checkout refinements are saved and verified. The store remains on its current live theme; this work continues in the unpublished draft."
   ],
   "openDeliveryGates": [
     {
@@ -329,6 +329,10 @@
     "steps": [
       {
         "complete": true,
+        "text": "Recover the existing signed TEST account in Chrome and verify the rendered Orders page (20:39Z–20:46Z, took 7 min)."
+      },
+      {
+        "complete": true,
         "text": "Attach the passive looks-rail check to the existing shopper test packet and verify eleven offline cases (13:26Z–13:30Z, took 4 min)."
       },
       {
@@ -341,7 +345,7 @@
       },
       {
         "complete": false,
-        "text": "Identify what causes the second drawer open and close to stutter at 1280 px, then measure the proposed change (started 17:49Z, timing depends on the two measured runs)."
+        "text": "Identify what causes the second drawer open and close to stutter at 1280 px, then measure the proposed change (waiting on the catalogue writer’s allocation since 19:55Z; prior shell diagnosis returned without edits)."
       },
       {
         "complete": true,
