@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
+  "remaining": "Safari’s menu covered the product, and the iPhone source check reached the active theme. The chair is holding that repair. Separately, the original drawer developer is measuring why a second open or close stutters at desktop width.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 17:48 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 17:52 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -294,8 +294,8 @@
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
     "The floating Stores button yields taps to Grid/Focus at enlarged text sizes. WhatsApp hides when it cannot receive taps. All 1,350 paired-control taps and 267 gallery taps passed in desktop WebKit. The chair and Hands cleared the repair for round 2. [Chair’s size decision](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584086285) · [Hands acceptance](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584126702)",
-    "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
-    "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
+    "All seven small-iPhone checks remain unexercised. Safari’s Connection Security Details covered the shopper page. The chair still holds the iPhone repair.",
+    "The catalogue Options drawer passed all four interactions at 380 px. At 1280 px the second open and close exceeded 50 ms. The original developer started diagnosing the 57.4 ms close at 17:49 UTC.",
     "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
   ],
   "openDeliveryGates": [
@@ -338,6 +338,10 @@
       {
         "complete": true,
         "text": "Return the desktop frame failure with the actual drawer assets to the original repair queue (14:35Z–14:42Z, took 7 min)."
+      },
+      {
+        "complete": false,
+        "text": "Identify what causes the second drawer open and close to stutter at 1280 px, then measure the proposed change (started 17:49Z, timing depends on the two measured runs)."
       },
       {
         "complete": true,
