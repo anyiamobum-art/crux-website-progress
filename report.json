@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair paused the failing Stores review service. The next attempt stopped before a reviewer received it. The release system can try again from 16:59 UTC.",
+  "workerState": "The chair paused the failing Stores review service. The next attempt stopped before a reviewer received it. The retry window has opened. GitHub still shows five test groups and one verification job waiting for a runner.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify verified the TEST rail template and four checkout settings. The sign-in test repair merged. GitHub now confirms the related styling test has its conflict resolved at 3422de15.",
+  "lastActualProgress": "At 16:52 UTC the signed shopper opened the TEST tee and styling panel. EON read the correct product, and the service log confirmed the rail requested looks from the TEST shop. The earlier product lookup error is cleared.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
-  "current": "The product-page repair is installed on the unpublished TEST theme. A TEST tee now asks its own store for related looks.",
-  "next": "The shopper test can now open the TEST tee on the repaired revision. Check whether the request reaches the right shop, then confirm the rail shows the returned looks or stays hidden when there are none.",
-  "updated": "02 November, 16:51 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
+  "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
+  "updated": "02 November, 16:54 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -293,10 +293,10 @@
   ],
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
-    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. Its original review can retry from 16:59 UTC.",
+    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. The retry is eligible. Six protected jobs are queued.",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
-    "The TEST tee and signed shopper panel opened. The looks-rail repair passed protected review and merged. Shopify returned the exact reviewed template from the unpublished TEST theme. A shopper visit is still needed to close the third check."
+    "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
   ],
   "openDeliveryGates": [
     {
@@ -388,8 +388,12 @@
         "text": "Resolve both edits in the styling-test fixture and verify the repaired source on GitHub (16:42Z–16:51Z, took 9 min)."
       },
       {
+        "complete": true,
+        "text": "Verify all eight signed TEST checks and the matching looks request in the service log (16:52Z–16:54Z, took 2 min)."
+      },
+      {
         "complete": false,
-        "text": "Check the signed TEST tee and its natural looks request using the repaired test (est. 2 min once the original runner starts)."
+        "text": "Verify the returned look count against the visible or hidden rail in the original follow-up (est. 2 min once the reviewed check runs)."
       },
       {
         "complete": false,
@@ -433,7 +437,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original Stores review and verify its five merged files on the unpublished theme. Earliest eligible review retry 16:59Z."
+        "text": "Complete the original Stores review and verify its five merged files on the unpublished theme. The retry became eligible at 16:59Z."
       },
       {
         "complete": true,
