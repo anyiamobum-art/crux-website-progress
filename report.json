@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Stores repair, the TEST product lookup and the iPhone repair have separate original owners. The owner approved #5250 by number.",
+  "workerState": "Hands has the exact Stores revision and evidence. The TEST product lookup and small-iPhone repair remain with their original owners.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the tap conflict on the Stores change and checked the two existing Shopify files against its base. Captured rollback copies and confirmed the three new files are absent.",
+  "lastActualProgress": "The corrected Stores button passed eight remote tests and all eleven mutation checks. Its five draft files are staged against a verified Shopify baseline.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The looks rail still needs a direct observation on the correct TEST product. The small-iPhone run needs measured Safari zoom and a successful 2XL tap.",
-  "current": "The original builder is correcting the floating Stores button on the product page. At two phone widths, a corner tap intended for Pause slideshow opened Stores instead.",
-  "next": "Retest the gallery controls at both phone widths, have two readers assess the corrected button, then complete protected review and install the merged files on the unpublished theme.",
-  "updated": "02 November, 05:18 UTC. TEST tee and signed styling panel 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
+  "current": "The floating Stores gallery fix is on GitHub at 23a74fac. All 267 visible tap points reached Previous, Next or Pause/Play; the corrected source is with Hands for review.",
+  "next": "Two component reviewers assess the corrected Stores button. After protected review and merge, verify its five files on the unpublished Shopify theme.",
+  "updated": "02 November, 05:30 UTC. TEST tee and signed styling panel 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Floating Stores button #5250",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The separate Shopify change #5250 is under repair after a reproducible gallery overlap on 2ff87c86. Original final review results below remain bound to their reviewed versions.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The separate Shopify change #5250 is on corrected revision 23a74fac. The gallery overlap is fixed. Component reviewers have yet to score it. Original final review results below remain bound to their reviewed versions.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -287,7 +287,7 @@
   ],
   "recentChanges": [
     "Approved by the owner, #5250 adds a one-tap Stores shortcut above WhatsApp. It opens the directory and takes shoppers straight to the locations list when already on that page.",
-    "In the rendered build, 24 of 24 purchase-control tap checks reached the intended colour, size, quantity or Add to bag control. At 380 and 430 px, a separate gallery test found the floating pair overlapped Pause. Its top-right corner opened Stores at all ten sampled phone positions. The original builder has the fix.",
+    "The repaired Stores button leaves all 267 tested gallery tap points and all 24 purchase-control targets clear. Keyboard Previous, Next and Pause/Play work. Sixteen rendered page states passed, including the store directory and Back. These were desktop WebKit checks.",
     "Verified both existing Shopify files match the starting source, saved their rollback copies and confirmed the three new files are absent from the unpublished theme.",
     "The TEST tee and signed styling panel opened. The public looks rail needs a correctly bound TEST product and a direct browser observation. The small-iPhone repair is with its original team.",
     "The target remains an unpublished Shopify draft. The earlier full-review results are still the last scores for that draft."
@@ -334,8 +334,16 @@
         "text": "Locate the phone gallery conflict and reproduce it at ten scroll positions (05:13Z–05:16Z, took 3 min)."
       },
       {
+        "complete": true,
+        "text": "Repair the overlap and check the actual gallery, purchase controls and store directory (05:17Z–05:26Z, took 9 min)."
+      },
+      {
+        "complete": true,
+        "text": "Push the corrected source and verify the proof in #5250 (05:28Z–05:29Z, took 1 min)."
+      },
+      {
         "complete": false,
-        "text": "Repair the gallery overlap and repeat the tap checks (started 05:17Z, estimated 20 min)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, next review-allocation check 05:58Z)."
       },
       {
         "complete": true,
