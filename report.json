@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Stores builder is qualifying the scoped styling repair. The TEST repair has two test groups queued. The original native and desktop Options repairs retain their allocations; no duplicate shopper or iPhone run has started.",
+  "workerState": "The original Stores builder finished the repair: 10 remote tests, nine mutation checks and 32 desktop states pass. Hands is checking its acceptance. Both remaining TEST test groups are running. The original iPhone and desktop Options repairs retain their allocations.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 23:03 UTC the original builder committed the Stores styling repair after proving the regression fails on the reviewed version and passes on the fix. The draft’s size-guide source was also verified through Shopify’s matching versioned source map.",
+  "lastActualProgress": "At 23:09 UTC the repaired Stores revision was pushed and verified. Size admission followed at 23:13; at 23:15 the chair removed the accidental dependency between its code review and the iPhone run. Both remaining TEST test groups are now running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "TEST checkout needs its three policy declarations and supported paths. The size-guide journey needs an approved product-to-chart mapping. Local iPhone work remains behind Hands’ capacity and source-repair allocation.",
-  "current": "The second Stores review found one styling regression: its shared stylesheet repaints the WhatsApp button. The original builder has committed a focused repair and its failing-then-passing regression. Remote qualification is running before the final named-fix review.",
-  "next": "Verify the focused repair, publish it once for the final code review, and install the five files only after protected merge. In parallel, consume the original TEST checks and Hands’ existing iPhone allocation.",
-  "updated": "02 November, 23:03 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "The Stores styling repair is tested and pushed for its final named-fix code review. The chair granted size admission and confirmed that this review proceeds independently of the iPhone slot. Hands is checking the exact revision for acceptance.",
+  "next": "Complete the original final code review and required tests, verify merge, then install the five files in the unpublished draft. In parallel, finish the two running TEST test groups and consume Hands’ separate iPhone source repair and allocation.",
+  "updated": "02 November, 23:19 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,14 +205,14 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate is 44e66934; its remote qualification and final code review remain pending. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate is 44e66934; remote qualification and size admission pass, while exact acceptance and the final code review remain pending. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
         "scope": "Combined Runway and store enquiry",
         "reader": "Opus 5.5, Astra 6, Fable 5.1 and Argon",
         "score": "Ungraded",
-        "version": "First design review admitted for d34c0865. Opus and Astra await seats. Fable’s original connection reported its weekly limit. Argon awaits the chair’s separate decision."
+        "version": "First design review admitted for d34c0865. Opus and Astra await seats. Fable’s original connection reported its weekly limit. The general Argon credit hold has cleared; this review still awaits its original reader allocation."
       },
       {
         "scope": "JEV shopper comparison",
@@ -292,10 +292,10 @@
     }
   ],
   "recentChanges": [
-    "Stores completed its second review. One styling finding is being repaired by the original builder; the final review will check that named fix.",
-    "The new regression loads the actual stylesheet order. It failed on the previous revision and passes after the fix; remote qualification is running.",
-    "The draft serves the reviewed size-guide code. Shopify’s minified script and matching source map are verified; an approved product-to-chart mapping is still needed before activation.",
-    "Three of five TEST test groups and all three proof groups pass. The two remaining groups are queued; the paired shopper journey follows their merge.",
+    "The Stores styling repair is committed and pushed. Ten remote tests, nine mutation checks and 32 desktop states pass, including the actual stylesheet order and WhatsApp colors.",
+    "The chair granted size admission on that exact revision and cleared the accidental iPhone dependency. Hands is checking acceptance before the last named-fix review; review and merge remain open.",
+    "Three of five TEST test groups and all three proof groups pass. The two remaining test groups are running; the paired shopper journey follows merge and served-code verification.",
+    "The draft serves the reviewed size-guide code, verified through Shopify’s versioned source map. Its approved product-to-chart mapping and the TEST checkout declarations remain outstanding.",
     "Hands retains the original iPhone allocation and capacity recovery. Both approved checkout refinements remain saved and verified. The website stays unpublished."
   ],
   "openDeliveryGates": [
@@ -340,8 +340,16 @@
         "text": "Consume the second Stores review and return its one styling finding to the original builder (22:48Z–23:01Z, took 13 min)."
       },
       {
+        "complete": true,
+        "text": "Qualify the focused styling repair and publish it for the final named-fix review (23:01Z–23:09Z, took 8 min)."
+      },
+      {
+        "complete": true,
+        "text": "Obtain exact revision size admission and separate code review from iPhone capacity (23:09Z–23:15Z, took 6 min)."
+      },
+      {
         "complete": false,
-        "text": "Qualify the focused styling repair and publish it for the final named-fix review (started 23:01Z, est. 15 min; remote worker availability may move this)."
+        "text": "Complete Hands acceptance, the original last code review and protected merge (waiting since 23:09Z; next check 23:35Z or returned acceptance)."
       },
       {
         "complete": true,
@@ -900,7 +908,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: repair qualification is estimated around 23:16Z; protected review, iPhone capacity and the three final ratings determine draft handover. An overall completion time is not yet verified."
+    "landing": "Lands: Stores installation takes about 10 minutes after protected merge. The review queue, TEST prerequisites, iPhone capacity and three final ratings still determine draft handover; an overall completion time is unknown."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
