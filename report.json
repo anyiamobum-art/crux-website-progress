@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The release desk has restarted and resumed its review queue. Floating Stores and Runway still await their own protected review slots; a restarted desk is not an approval.",
+  "workerState": "The remote review desk is running. Stores and Runway await their protected review slots. The customer-care owner is active on the original TEST release; no duplicate shopper run has started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Recovered the existing TEST account through Chrome’s native controls and confirmed its Orders page and TEST tee recommendation. No new sign-in or store setting was needed.",
+  "lastActualProgress": "Traced Stores to the old revision in the queue exception and returned the exact-head correction to the chair. The earlier Chrome recovery and all eight signed TEST checks remain verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The iPhone test must keep the correct draft open in Safari, clear its menus and verify 200% zoom. The desktop Options drawer also needs its timing repair.",
-  "current": "Chrome now displays the signed-in TEST account again. The existing eight-check shopper test remains passed; the looks rail still needs its visible-state check.",
-  "next": "Use the original browser allocation to verify the TEST tee and its visible looks rail, or consume the original styling follow-up after its test merges.",
-  "updated": "02 November, 20:46 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "remaining": "Shared Mac checks are held by the current disk-space floor. The iPhone source and Safari-menu repairs and the desktop Options timing repair remain with their original writers.",
+  "current": "The Stores repair is accepted, but the review queue exception still names its earlier revision. The exact mismatch is with the chair for correction. Three of five TEST test groups have passed; two remain queued.",
+  "next": "Resume Stores through the existing review queue after the exception is corrected. After the TEST repair merges, its original owner runs the paired shopper journey and checks the visible looks rail.",
+  "updated": "02 November, 21:10 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
-    "Chrome recovery is verified: the existing signed TEST account now renders normally through native controls. The full product-and-looks check remains separate.",
-    "The review desk restarted and resumed its existing queue. Stores and Runway are still awaiting their own reviews.",
-    "The TEST tee and signed shopper panel passed all eight checks. Matching looks returned from the correct shop; the visible rail still needs verification.",
-    "Both exact product URLs now return the unpublished draft when their preview session survives the redirect. The existing size guide is present; unverified size evidence stays off.",
-    "The Shopify checkout refinements are saved and verified. The store remains on its current live theme; this work continues in the unpublished draft."
+    "Stores is waiting on a precise queue correction: its exception names the earlier revision. The repaired revision already has size admission and Hands acceptance; the chair has the correction request.",
+    "Three of five TEST test groups have passed. The two remaining groups and the existing proof checks continue through the original workflow.",
+    "Chrome recovery is verified: the signed TEST account renders through native controls. All eight shopper preflight checks passed; the visible looks rail and full paired journey remain separate.",
+    "The Mac crossed its disk-space floor again, so the shared browser and iPhone checks await resource recovery and their existing allocation.",
+    "Both approved Shopify checkout refinements remain saved and verified. All website changes stay in the unpublished draft."
   ],
   "openDeliveryGates": [
     {
@@ -327,6 +327,14 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Trace the Stores queue exception to the older revision and return the accepted repair to the chair’s existing decision (21:03Z–21:07Z, took 4 min)."
+      },
+      {
+        "complete": false,
+        "text": "Apply the chair’s exact-revision queue decision through the existing desk, then consume round 2 (waiting on the original exception request since 17:44Z; next check by 21:30Z)."
+      },
       {
         "complete": true,
         "text": "Recover the existing signed TEST account in Chrome and verify the rendered Orders page (20:39Z–20:46Z, took 7 min)."
