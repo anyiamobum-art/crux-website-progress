@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The TEST theme still serves the old product-page file. The Stores design readers are unassigned, and the hosted small-iPhone checks have no run on the corrected version.",
-  "current": "The TEST looks-rail fix is built in PR #5288. The unpublished TEST product page matches the verified starting file, and changing only its shop identifier produces the candidate exactly. Hosted tests are queued.",
+  "current": "The fix for the TEST looks rail is in PR #5288. Its test plan passed, and the five test jobs are queued. I verified the replacement against the PR and the rollback against the file served by the unpublished TEST theme.",
   "next": "After #5288 passes tests and protected review, apply the one-file fix to TEST and check the actual rail on the tee. The chair can assign both Stores design reviewers while Hands handles the small-iPhone check.",
-  "updated": "02 November, 12:24 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
+  "updated": "02 November, 12:49 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -287,10 +287,10 @@
   ],
   "recentChanges": [
     "The catalogue recorded 77 ms of long-task blocking and Big Bag recorded 0.8 ms of frame blocking during separate ten-second startup checks. Both passed the 300 ms budget on desktop Chromium at phone width.",
-    "Both Shopify draft directory templates still list retired Osapa and use address searches for all locations. The three current shops were matched to their Google listings for the separate directory correction.",
+    "On the active store locator, Chrome rendered the Google map with pins and separate directions links for Palms, Chevron and Abuja. Marketing verified that change. The two unpublished directory templates still include retired Osapa and need the separate draft correction.",
     "The TEST sign-in repair passed 257 checks. The tee and signed styling panel opened. The product page still requests looks from the CRUX catalogue when opened in TEST.",
     "The floating Stores button cleared all 267 gallery tap points and 24 purchase controls. The chair has the corrected version for its original reviews.",
-    "The iPhone tester completed another turn without starting this run. Its missing instruction went back to the original chair for a dated test slot."
+    "The iPhone tester resumed at 12:41 UTC. GitHub had no phone run for the corrected version at that check. The next evidence is a run number and the results for each of the seven cases."
   ],
   "openDeliveryGates": [
     {
