@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Four of the five TEST looks-rail test jobs passed. The chair accepted its green pin check for the paced review queue. The combined Runway, garment comparison and store enquiry also entered its first design-review queue.",
+  "workerState": "The chair cleared the floating Stores button for protected review in the unpublished draft. Hands confirmed the original iPhone and catalogue-drawer writers will get a seat after the four higher-priority teams.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The seven phone results were traced to the Safari overlay and a wrong-theme redirect. The Stores correction has Hands acceptance. At 1280 px the catalogue Options drawer still has a measured 57.4 ms frame on close.",
+  "lastActualProgress": "The original code reviewer approved the change that makes the looks rail request products from the correct shop. The release desk received the chair’s instruction to move Stores into review.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The desktop Options drawer exceeded its 50 ms frame budget. The Stores change still needs component reviews and protected merge. The TEST looks rail still needs the corrected file installed.",
-  "current": "The iPhone run returned seven untested checks. Safari’s own menu covered the product, and the source check landed on the active theme. Hands has the screenshots and the source evidence for the original writer.",
-  "next": "Verify that Safari is showing the unpublished product and can read 200% zoom before the next phone check. After the TEST looks-rail repair merges, install its one file and check the tee.",
-  "updated": "02 November, 15:06 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Three whole-draft design ratings at or above 9.5 are still due.",
+  "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
+  "current": "The TEST looks-rail fix passed protected code review. Four test groups passed. The fifth started at 15:15 UTC.",
+  "next": "After the remaining tests and merge, install the reviewed file on TEST and open the tee to verify which looks it displays. The installation and rollback have been rehearsed.",
+  "updated": "02 November, 15:17 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores repair is on 23a74fac. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores repair is on 23a74fac. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -293,10 +293,10 @@
   ],
   "recentChanges": [
     "The combined Runway and store-enquiry design entered its first review queue. Its packet ties the garment photos, selected size and store destination to one version. It has no score yet.",
-    "Hands accepted the corrected floating Stores button. It keeps the gallery Pause control and the purchase controls usable. Two component reviews and protected merge are still due.",
-    "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The original test owner has the screenshots and the incorrect theme readback.",
+    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. The chair cleared it for the release desk. Component reviews, protected merge and draft installation are still due.",
+    "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
-    "The TEST tee and signed shopper panel opened. The rail repair passed its required pin check. Its actual looks remain unverified until protected review, merge and installation on TEST."
+    "The TEST tee and signed shopper panel opened. The fix for the third surface, the looks rail, passed protected review at 15:05 UTC. Four test groups passed and the fifth is running. The rail itself still needs an observed visit after installation."
   ],
   "openDeliveryGates": [
     {
@@ -345,7 +345,7 @@
       },
       {
         "complete": false,
-        "text": "Verify Safari has returned to the product page on the correct unpublished theme, then check genuine 200% zoom. Original test owner has the evidence. Next check 15:19Z or an earlier repair."
+        "text": "Verify Safari has returned to the product page on the correct unpublished theme, then check genuine 200% zoom. The original writer is next at the assigned priority after the shared seats clear. Next check 15:40Z or earlier placement."
       },
       {
         "complete": true,
@@ -364,8 +364,16 @@
         "text": "Restore the missing phone and Stores instructions to the original team’s current worklist (10:34Z–10:40Z, took 6 min)."
       },
       {
+        "complete": true,
+        "text": "Verify protected code approval for the TEST rail (15:01Z–15:05Z, took 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Run the protected shopper checks once both sign-in repairs merge and are served. The separate rail fix passed four of five test jobs. The chair put its green pin check on the release desk’s list."
+        "text": "Install the merged rail fix and verify the tee and looks response on TEST (est. 10 min after merge). The fifth test group started at 15:15Z."
+      },
+      {
+        "complete": false,
+        "text": "Run the protected signed shopper checks once both sign-in repairs merge and are served (timing depends on the second repair)."
       },
       {
         "complete": true,
@@ -388,8 +396,12 @@
         "text": "Push the corrected source and verify the proof in #5250 (05:28Z–05:29Z, took 1 min)."
       },
       {
+        "complete": true,
+        "text": "Confirm the chair cleared the corrected Stores source for protected review (14:40Z–15:08Z, took 28 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain acceptance of the corrected Stores button and its two component reviews (submitted 05:29Z, retained on the chair’s list, next check at the next desk decision)."
+        "text": "Obtain both Stores component reviews on the accepted revision (waiting for the two assignments, next check 15:35Z or earlier assignment)."
       },
       {
         "complete": true,
@@ -537,7 +549,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). The first hosted run ended without a qualified result. Hands received the qualified repair on 2 November at 08:53 UTC. Its hosted result is pending."
+        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). The first hosted run ended without a qualified result. The 2 November hosted run returned seven untested rows at 14:45 UTC. The original writer has the two specific source fixes."
       },
       {
         "complete": true,
