@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original phone tester completed both repairs. Hands received them at 08:53 UTC. The chair has the Stores decision, and the TEST team owns the remaining shopper checks.",
+  "workerState": "The original sign-in repair is on GitHub. The iPhone tester recovered its connection. Its corrected run has no recorded results yet.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the original iPhone tester’s four regressions against both the broken and corrected code. On the Shopify draft, desktop Chromium showed the first catalogue photo, name and price in 236–381 ms over three warm reloads.",
+  "lastActualProgress": "Recovered the TEST sign-in repair and verified its exact revision on GitHub. Restored the missing iPhone and Stores items to the current worklist. The TEST tee and signed styling panel are verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The hosted phone run has no run ID yet. The public looks rail still requests the CRUX catalogue from the TEST tee. The separate signed-shopper test requires two fixes to reach the served build.",
-  "current": "The small-iPhone test can now measure 200% zoom and select 2XL. Hands has the verified repair for one hosted run. The floating Stores button is also ready for its two component reviews.",
-  "next": "Hands runs the corrected phone test and returns seven results. For Stores, obtain review of the corrected revision, merge #5250 and verify its five files on the unpublished Shopify theme.",
-  "updated": "02 November, 10:08 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings at 9.5 or higher 0/3.",
+  "remaining": "The TEST product page requests looks from the CRUX shop. A separate signed-shopper repair has one failing test that Hands is comparing with the main branch.",
+  "current": "The TEST sign-in repair passed 257 targeted checks and is first in the review queue. The floating Stores button and the small-iPhone run are back on the current worklist.",
+  "next": "Hands returns a decision on the corrected Stores button and the run ID for seven small-iPhone checks. The TEST team assigns the looks-rail fix to the product-page maintainer.",
+  "updated": "02 November, 10:44 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "iPhone test repair #5275",
@@ -286,10 +286,10 @@
     }
   ],
   "recentChanges": [
-    "Four regressions for the phone test passed on the corrected revision and reproduced the old failures. Hands received #5275. At 10:08 UTC, GitHub still showed no hosted phone run for it.",
+    "The original TEST sign-in fix passed all 257 targeted checks. Hands accepted it on GitHub. The desk placed it first for protected review.",
+    "The TEST looks rail still requests the wrong shop. The original product-page repair brief is back with the team that can assign it. The tee and signed styling panel account for two of three verified surfaces.",
+    "The current worklist dropped the corrected iPhone run during handover. Its run instructions and the Stores review request were restored. The three whole-draft ratings still await measured results.",
     "The floating Stores button cleared 267 gallery tap checks and all 24 tested purchase controls in desktop WebKit. The earlier admission names the previous revision. The corrected #5250 still needs admission and its two reviews.",
-    "The TEST tee and signed styling panel opened. The public looks rail still points at the wrong shop. Its last check against the correct TEST catalogue returned zero looks.",
-    "The catalogue and product-read repairs are served. The original signed-shopper check now depends on both #5201 and #5244 being merged and served.",
     "On the unpublished Shopify catalogue, the first decoded product photo, name and price appeared in 236–381 ms across three warm desktop reloads at 380 px. Median 302 ms."
   ],
   "openDeliveryGates": [
@@ -323,6 +323,18 @@
     "steps": [
       {
         "complete": true,
+        "text": "Recover the original sign-in fix and verify its GitHub revision and 257 checks (10:20Z–10:37Z, took 17 min)."
+      },
+      {
+        "complete": true,
+        "text": "Restore the missing phone and Stores instructions to the original team’s current worklist (10:34Z–10:40Z, took 6 min)."
+      },
+      {
+        "complete": false,
+        "text": "Run the protected shopper checks after both fixes are merged and served (next team check 11:20Z)."
+      },
+      {
+        "complete": true,
         "text": "Record the owner’s approval of #5250 on the accepted revision (05:01Z–05:04Z, took 3 min)."
       },
       {
@@ -343,7 +355,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, next check 10:40Z)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, restored to the current worklist at 10:40Z, next check 11:04Z)."
       },
       {
         "complete": true,
