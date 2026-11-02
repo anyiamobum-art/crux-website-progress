@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair cleared the floating Stores button for protected review in the unpublished draft. Hands confirmed the original iPhone and catalogue-drawer writers will get a seat after the four higher-priority teams.",
+  "workerState": "The floating Stores button entered protected review at 15:19 UTC. The review service failed before returning its first verdict. Hands found the same error on three other changes and took the failure to the chair.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original code reviewer approved the change that makes the looks rail request products from the correct shop. The release desk received the chair’s instruction to move Stores into review.",
+  "lastActualProgress": "The TEST looks-rail code passed review. The final test group is running. For Stores, the release desk acted on the chair’s approval and the original reviewer’s failed run was traced to its service.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
   "current": "The TEST looks-rail fix passed protected code review. Four test groups passed. The fifth started at 15:15 UTC.",
   "next": "After the remaining tests and merge, install the reviewed file on TEST and open the tee to verify which looks it displays. The installation and rollback have been rehearsed.",
-  "updated": "02 November, 15:17 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 15:28 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The combined Runway and store-enquiry design entered its first review queue. Its packet ties the garment photos, selected size and store destination to one version. It has no score yet.",
-    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. The chair cleared it for the release desk. Component reviews, protected merge and draft installation are still due.",
+    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. Its original reviewer must recover before merge and draft installation.",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
     "The TEST tee and signed shopper panel opened. The fix for the third surface, the looks rail, passed protected review at 15:05 UTC. Four test groups passed and the fifth is running. The rail itself still needs an observed visit after installation."
@@ -408,8 +408,12 @@
         "text": "Package the Stores button separately and verify its draft pull request (01:33Z–01:56Z, took 23 min)."
       },
       {
+        "complete": true,
+        "text": "Confirm the desk moved Stores into protected review and read the first run (15:19Z–15:26Z, took 7 min). The review service returned an error before issuing a verdict."
+      },
+      {
         "complete": false,
-        "text": "Complete protected review and verify the installed Stores button on the unpublished theme (waiting on source review and the installation slot)."
+        "text": "Complete protected Stores review, merge and verify the button on the unpublished theme (waiting on the original review service and the remaining checks)."
       },
       {
         "complete": true,
