@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The TEST browser turn finished. The protected shopper and small-iPhone work remain with their original owners. The four-width quantity measurement is in the final review packet.",
+  "workerState": "The original protected shopper repair started at 00:10 UTC. The small-iPhone repair brief is with Hands. The current draft file comparison and the TEST looks response are verified.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "A signed merchant session and the correct TEST store were verified at 00:10–00:12 UTC. The wait for a visible theme or Preview control expired. Product, rail and signed panel remain unverified.",
+  "lastActualProgress": "Shopify reported the CRUX draft unpublished. All 701 files matched the recorded draft snapshot. At 00:21 UTC the TEST looks endpoint identified the tee and returned zero looks. The installed page was found to request the wrong store.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The merchant page exposed no usable preview control. The protected read-only shopper check has no result yet. The small-iPhone run needs a working zoom reading and a confirmed 2XL selection.",
-  "current": "Hands cleared the browser slot. The tester reached the signed-in TEST merchant and opened Themes. Shopify’s embedded page stayed blank, and the slot was returned at 00:12 UTC.",
-  "next": "The original protected shopper runner has a read-only check in its repair brief. It needs to show the TEST tee, report whether the public looks rail appears, and open the signed styling panel before any Style or Save action.",
-  "updated": "02 November, 00:13 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "remaining": "Shopify’s signed merchant Themes page opened a blank frame. The protected shopper inspection has no browser result yet. The small iPhone still needs a numeric Safari zoom reading and a confirmed 2XL selection.",
+  "current": "The TEST tee’s product page requests looks from the CRUX store. A separate read against the correct TEST store returned zero looks. The repair is with the original product-page team.",
+  "next": "Use the original protected shopper session to open the TEST tee, report the rail as visible, hidden or absent, and open the signed styling panel. Confirm the corrected store address on the unpublished TEST theme.",
+  "updated": "02 November, 00:32 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "The 404 Tee quantity control measured 50 × 44 CSS px at all four tested widths. The measured source matches the recorded draft. These were responsive browser checks at normal zoom.",
-    "One earlier 380px bag-plus press has a screenshot and six matching cart files. Seven other requested controls still need held-state proof.",
-    "Five files changed after the collection timing run, so its earlier Options and loading times are excluded from current acceptance.",
-    "Hands cleared the TEST browser slot. The tester opened Themes on the signed-in merchant, reached the embedded page and observed a blank frame until the Preview-control wait expired. The original shopper team has added a read-only inspection to its repair brief. All three storefront observations are pending.",
-    "Fable’s last full review was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open. The unpublished draft still needs all three final passes."
+    "Shopify reported that the CRUX theme is unpublished. All 701 file checksums and sizes match its recorded draft snapshot.",
+    "The TEST tee page requests Studio looks from the CRUX store. The correct TEST endpoint returned zero looks. The original product-page team received the repair details. The rail has not been seen in a shopper browser.",
+    "The protected shopper repair started at 00:10 UTC. The signed merchant Themes frame stayed blank, and the browser slot was returned. The tee and signed styling panel still need a shopper check.",
+    "The 404 Tee quantity control measured 50 × 44 CSS pixels at four widths on the same source. Genuine iPhone zoom and the 2XL selection remain open.",
+    "Fable’s last full average was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open."
   ],
   "openDeliveryGates": [
     {
@@ -336,6 +336,10 @@
       {
         "complete": true,
         "text": "Use the exclusive TEST merchant slot (00:10Z–00:12Z, took 2 min). Signed store verified. Themes loaded an empty frame and exposed no Preview button. Browser returned to Hands."
+      },
+      {
+        "complete": true,
+        "text": "Compare all 701 files on the unpublished draft and trace the TEST rail request (00:15Z–00:26Z, took 11 min). Correct TEST endpoint returned zero looks."
       },
       {
         "complete": false,
