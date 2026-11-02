@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Stores builder finished the repair: 10 remote tests, nine mutation checks and 32 desktop states pass. Hands is checking its acceptance. Both remaining TEST test groups are running. The original iPhone and desktop Options repairs retain their allocations.",
+  "workerState": "The original Stores builder finished: 10 remote tests, nine mutation checks and 32 desktop states pass. Hands accepted the revision and the chair renewed its queue exception. Both remaining TEST test groups are running. The original Ask owner acknowledged the size-guide and checkout handoff and is acting on it.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 23:09 UTC the repaired Stores revision was pushed and verified. Size admission followed at 23:13; at 23:15 the chair removed the accidental dependency between its code review and the iPhone run. Both remaining TEST test groups are now running.",
+  "lastActualProgress": "At 23:17 UTC Hands accepted the repaired Stores revision. The chair’s exact-revision queue exception was verified at 23:27. The five-file draft installation package is prepared and correctly refuses installation before protected merge.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "TEST checkout needs its three policy declarations and supported paths. The size-guide journey needs an approved product-to-chart mapping. Local iPhone work remains behind Hands’ capacity and source-repair allocation.",
-  "current": "The Stores styling repair is tested and pushed for its final named-fix code review. The chair granted size admission and confirmed that this review proceeds independently of the iPhone slot. Hands is checking the exact revision for acceptance.",
+  "current": "The chair has cleared the Stores queue blocker on the exact repaired revision, and Hands has accepted it. Its last named-fix review follows the existing release order; merge and draft installation remain open.",
   "next": "Complete the original final code review and required tests, verify merge, then install the five files in the unpublished draft. In parallel, finish the two running TEST test groups and consume Hands’ separate iPhone source repair and allocation.",
-  "updated": "02 November, 23:19 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 23:30 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate is 44e66934; remote qualification and size admission pass, while exact acceptance and the final code review remain pending. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate is 44e66934; remote qualification, size admission and exact acceptance pass. The queue blocker is cleared; final code review and merge remain pending. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The Stores styling repair is committed and pushed. Ten remote tests, nine mutation checks and 32 desktop states pass, including the actual stylesheet order and WhatsApp colors.",
-    "The chair granted size admission on that exact revision and cleared the accidental iPhone dependency. Hands is checking acceptance before the last named-fix review; review and merge remain open.",
+    "The chair granted size admission and the queue exception on the exact repaired revision, and Hands accepted it. The accidental iPhone dependency is cleared; last named-fix review and merge remain open.",
     "Three of five TEST test groups and all three proof groups pass. The two remaining test groups are running; the paired shopper journey follows merge and served-code verification.",
     "The draft serves the reviewed size-guide code, verified through Shopify’s versioned source map. Its approved product-to-chart mapping and the TEST checkout declarations remain outstanding.",
     "Hands retains the original iPhone allocation and capacity recovery. Both approved checkout refinements remain saved and verified. The website stays unpublished."
@@ -348,8 +348,12 @@
         "text": "Obtain exact revision size admission and separate code review from iPhone capacity (23:09Z–23:15Z, took 6 min)."
       },
       {
+        "complete": true,
+        "text": "Obtain Hands acceptance and renew the queue exception on the exact final-repair revision (23:09Z–23:27Z, took 18 min)."
+      },
+      {
         "complete": false,
-        "text": "Complete Hands acceptance, the original last code review and protected merge (waiting since 23:09Z; next check 23:35Z or returned acceptance)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check 23:40Z or returned review)."
       },
       {
         "complete": true,
