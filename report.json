@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The iPhone run started at 14:40 UTC. Two of five looks-rail test jobs had passed at the last read. The new desktop measurements cover eight open and close actions on the identified Shopify draft.",
+  "workerState": "The hosted iPhone run has ended. The TEST looks-rail repair passed its required pin check and two of five test jobs. The original desk has the result for review scheduling.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the second desktop close, the browser recorded a 57.4 ms frame. Input feedback passed all eight actions. The original repair request includes both widths and the installed source.",
+  "lastActualProgress": "The seven phone results were traced to the Safari overlay and a wrong-theme redirect. The Stores correction has Hands acceptance. At 1280 px the catalogue Options drawer still has a measured 57.4 ms frame on close.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The desktop Options drawer exceeded its 50 ms frame budget. The Stores change still needs component reviews and protected merge. The TEST looks rail still needs the corrected file installed.",
-  "current": "The seven small-iPhone checks are running on a hosted Mac. Hands accepted the corrected floating Stores button. The catalogue Options drawer passed at 380 px and missed the desktop frame limit at 1280 px.",
-  "next": "Read the seven iPhone results individually. The original shell writer has been requested for the desktop drawer. After the TEST looks-rail change merges, install its one file on the unpublished TEST theme and check the actual tee.",
-  "updated": "02 November, 14:43 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified while the run is in progress. Final draft ratings at or above 9.5 are 0/3.",
+  "current": "The iPhone run returned seven untested checks. Safari’s own menu covered the product, and the source check landed on the active theme. Hands has the screenshots and the source evidence for the original writer.",
+  "next": "Verify that Safari is showing the unpublished product and can read 200% zoom before the next phone check. After the TEST looks-rail repair merges, install its one file and check the tee.",
+  "updated": "02 November, 14:51 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised on the unpublished draft. Final ratings at or above 9.5 are 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -287,9 +287,9 @@
   ],
   "recentChanges": [
     "Hands accepted the corrected floating Stores button. It keeps the gallery Pause control and the purchase controls usable. Two component reviews and protected merge are still due.",
-    "The small-iPhone workflow started on the corrected revision. Each of its seven results will be checked against the unpublished theme.",
+    "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The original test owner has the screenshots and the incorrect theme readback.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
-    "The TEST tee and signed shopper panel opened. The looks rail is the third surface. Its repair is in CI and still needs an installed storefront check."
+    "The TEST tee and signed shopper panel opened. The rail repair passed its required pin check. Its actual looks remain unverified until protected review, merge and installation on TEST."
   ],
   "openDeliveryGates": [
     {
@@ -309,8 +309,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The earlier small-iPhone run qualified none of seven checks. The hosted replacement on the corrected revision started at 14:40 UTC.",
-      "next": "Read the seven results and verify the unpublished theme, observed zoom and selected size. Before handover, reconcile the store directory with the current three locations and verify map destinations."
+      "blocker": "The seven iPhone checks could not exercise the unpublished draft. The original test owner has the wrong-theme redirect and Safari overlay to repair.",
+      "next": "Verify 200% zoom and a real size selection, then check the store directory and its map destinations before handover."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -333,8 +333,12 @@
         "text": "Return the desktop frame failure with the actual drawer assets to the original repair queue (14:35Z–14:42Z, took 7 min)."
       },
       {
+        "complete": true,
+        "text": "Read all seven hosted iPhone results, inspect the screenshots and trace the source redirect (14:45Z–14:50Z, took 5 min)."
+      },
+      {
         "complete": false,
-        "text": "Read the seven small-iPhone results from the hosted Mac and verify the source of every result (started 14:40Z, est. 5 min after the run returns)."
+        "text": "Verify Safari has returned to the product page on the correct unpublished theme, then check genuine 200% zoom. Original test owner has the evidence. Next check 15:19Z or an earlier repair."
       },
       {
         "complete": true,
@@ -354,7 +358,7 @@
       },
       {
         "complete": false,
-        "text": "Run the protected shopper checks once both sign-in repairs merge and are served. The separate rail fix passed two of five test jobs. Its required pin check is in the runner queue. Next check 14:55Z or a result."
+        "text": "Run the protected shopper checks once both sign-in repairs merge and are served. The separate rail fix passed two of five test jobs. Its required pin check passed at 14:42Z. The paced release desk has the result."
       },
       {
         "complete": true,
@@ -450,7 +454,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven small-iPhone checks on #5275, with numeric zoom and a verified 2XL selection (waiting since 08:53Z for Hands to return its hosted run ID)."
+        "text": "Run the seven small-iPhone checks on #5275, with numeric zoom and a verified 2XL selection (original wait since 08:53Z, returned seven untested results at 14:45Z, repair with original test owner)."
       },
       {
         "complete": true,
@@ -614,7 +618,7 @@
       },
       {
         "complete": false,
-        "text": "Check the installed homepage and cart at genuine 200% zoom. The 30 October browser request remains open. The original hosted small-iPhone check also needs a run number. Next check at the keeper’s 14:39Z turn or an earlier actual handback."
+        "text": "Check the installed homepage and cart at genuine 200% zoom. The 30 October browser request remains open. The original hosted run has returned its Safari overlay and wrong-theme redirect for repair. Next check 15:19Z or an earlier original-writer handback."
       },
       {
         "complete": true,
