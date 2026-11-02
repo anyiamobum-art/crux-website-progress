@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Matched all 701 installed-source entries and rechecked 26 evidence references. The 404 Tee control measured 50 × 44 CSS px at 188, 380, 430 and 1280 px, with zero label overlap or page overflow.",
+  "lastActualProgress": "The original shopper owner verified the browser and runner limits. The final review packet now includes the four-width 404 Tee measurement against all 701 recorded draft files.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Hands has confirmed the Chrome queue but has not assigned a start time. The small iPhone run still needs a repair that records real Safari zoom and the selected 2XL size.",
-  "current": "The 404 Tee quantity control is verified against the recorded draft at four widths. Hands has put the three TEST checks on the original browser queue.",
-  "next": "Open the TEST tee in the private merchant preview when the slot starts. Check its looks rail separately, then verify the styling panel under the signed test shopper.",
-  "updated": "01 November, 23:56 UTC. Whole-draft reviews remain at 0/3. Six release gates and one final milestone are verified.",
+  "remaining": "No interactive TEST shopper tab remains from the completed sign-in. The current runner offers seven journeys and no read-only panel check. The last small-iPhone run still lacks genuine Safari zoom and confirmed 2XL selection.",
+  "current": "Hands signed in to the TEST merchant. Shopify placed Preview inside a frame its tool could not open. The original shopper owner has checked the independent signed route as well.",
+  "next": "Hands can open the tee and looks rail when its Chrome extension reconnects. The signed panel needs the protected shopper runner to stop after opening the panel, before Style or Save.",
+  "updated": "02 November, 00:04 UTC. TEST tee, public looks rail and signed shopper panel each await a render. Whole-draft passes are 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -289,7 +289,7 @@
     "The 404 Tee quantity control measured 50 × 44 CSS px at all four tested widths. The measured source matches the recorded draft. These were responsive browser checks at normal zoom.",
     "One earlier 380px bag-plus press has a screenshot and six matching cart files. Seven other requested controls still need held-state proof.",
     "Five files changed after the collection timing run, so its earlier Options and loading times are excluded from current acceptance.",
-    "Hands has queued the original TEST merchant tab. The tee, public looks rail and signed shopper panel each have their own pending result.",
+    "Hands verified the signed TEST merchant, then met a Shopify frame its Chrome tool could not open. The shopper owner confirmed the prior signed windows had closed. The tee, public looks rail and signed panel each remain unobserved.",
     "Fable’s last full review was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open. The unpublished draft still needs all three final passes."
   ],
   "openDeliveryGates": [
@@ -330,8 +330,16 @@
         "text": "Match the four-width quantity proof, held bag control and earlier collection timings to the recorded draft (23:48Z–23:56Z, took 8 min)."
       },
       {
+        "complete": true,
+        "text": "Reconcile both TEST access routes with their original owners (23:56Z–00:01Z, took 5 min). The merchant was visible. Its Preview control was inaccessible, and the signed workflow cannot stop after a read."
+      },
+      {
         "complete": false,
-        "text": "Verify the tee, its looks rail and the signed styling panel (waiting on the original browser slot, then the protected shopper return)."
+        "text": "Verify the tee and its looks rail on the retained merchant preview (waiting since 22:54Z for the original extension or an admitted compatible browser turn)."
+      },
+      {
+        "complete": false,
+        "text": "Verify the styling panel in an authenticated shopper session (waiting for its existing owner’s read-only workflow option)."
       },
       {
         "complete": false,
