@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original builder is fixing two issues in the floating Stores button. WhatsApp can ignore taps while visible, and Stores can cover Grid/Focus at 200% zoom.",
+  "workerState": "Both Stores tap conflicts are repaired. The original builder’s revision is on GitHub. The chair has the request to admit 621 lines for the next review.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 17:10 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 17:27 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores repair is on 23a74fac. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores repair is on f59481c1. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
-    "The gallery Pause repair passed review. The reviewer reproduced two contact-button conflicts. The original builder resumed to fix both. [Independent findings](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6583340202)",
+    "Stores now gives taps back to Grid/Focus, and WhatsApp disappears when it cannot receive taps. Desktop WebKit passed all 1,350 paired-control tap checks and 267 gallery taps. The repair is on GitHub for its second review. [Repair and review request](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6583699470)",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
     "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
@@ -425,7 +425,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain both Stores component reviews on the accepted revision (waiting for the chair to assign the two original readers)."
+        "text": "Obtain both Stores component reviews on repaired revision f59481c1 (waiting for the chair to assign the two original readers)."
       },
       {
         "complete": true,
@@ -440,8 +440,12 @@
         "text": "Recover the original protected review and return both findings to the original builder (17:01Z–17:12Z, took 11 min)."
       },
       {
+        "complete": true,
+        "text": "Repair both tap conflicts, run 10 tests and six mutation checks, and verify the pushed revision (17:12Z–17:26Z, took 14 min)."
+      },
+      {
         "complete": false,
-        "text": "Repair both tap conflicts, complete protected review, then verify the five merged files on the unpublished theme (started 17:12Z, waiting for the repaired revision and tests)."
+        "text": "Obtain the chair’s size admission and Hands acceptance, finish protected round 2, and install the five merged files in the unpublished theme (waiting since 17:26Z, next check 17:41Z)."
       },
       {
         "complete": true,
