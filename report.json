@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 17:46 UTC Hands accepted the revision that fixed both Stores tap conflicts. The TEST tee and signed panel passed eight checks. The looks rail still needs a screen check.",
+  "lastActualProgress": "Shopify returned both reviewed size-guide files from the unpublished draft at 18:00 UTC. The feature is switched off while the catalogue team verifies a product chart.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Safari’s menu covered the product, and the iPhone source check reached the active theme. The chair is holding that repair. Separately, the original drawer developer is measuring why a second open or close stutters at desktop width.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 17:52 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 18:37 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
-    "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
+    "The unpublished product page now contains the reviewed size-guide code. Both files match the merged change. All 699 other draft files and all 550 live-theme files matched their pre-install records. Shoppers keep the existing guide until product-specific measurements are verified. [Size-guide change #5061](https://github.com/EON-CRUX/3.09/pull/5061)",
     "The floating Stores button yields taps to Grid/Focus at enlarged text sizes. WhatsApp hides when it cannot receive taps. All 1,350 paired-control taps and 267 gallery taps passed in desktop WebKit. The chair and Hands cleared the repair for round 2. [Chair’s size decision](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584086285) · [Hands acceptance](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584126702)",
     "All seven small-iPhone checks remain unexercised. Safari’s Connection Security Details covered the shopper page. The chair still holds the iPhone repair.",
     "The catalogue Options drawer passed all four interactions at 380 px. At 1280 px the second open and close exceeded 50 ms. The original developer started diagnosing the 57.4 ms close at 17:49 UTC.",
-    "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
+    "The merged sign-in repair passed all eight shopper checks. The looks request reached the TEST shop. Its matching products and on-screen rail can be checked after the repaired styling test merges. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960) · [Styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)"
   ],
   "openDeliveryGates": [
     {
