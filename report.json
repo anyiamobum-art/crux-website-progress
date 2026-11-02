@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Options test reached Shopify and stopped before the first click. Shopify can remove the preview parameter after opening the draft. The corrected test checks the rendered draft ID, passed 12 cases and is queued for the remote browser.",
+  "workerState": "The iPhone run started at 14:40 UTC. Two of five looks-rail test jobs had passed at the last read. The new desktop measurements cover eight open and close actions on the identified Shopify draft.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The iPhone and Stores entries passed the worklist filter, but the team’s last turn read a different inbox. Both actions are now in the inbox it actually read. A run number and a Stores decision are still due.",
+  "lastActualProgress": "On the second desktop close, the browser recorded a 57.4 ms frame. Input feedback passed all eight actions. The original repair request includes both widths and the installed source.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST product still serves the old rail binding. The floating Stores button awaits Hands’ acceptance of its corrected version and two design reviewers. The small-iPhone run still needs a run number.",
-  "current": "Two of five test jobs passed for the change that loads the TEST tee’s looks from the correct shop. Three jobs are queued. Both reviewers approved the separate sign-in repair, which is waiting to merge.",
-  "next": "Install the rail fix on the unpublished TEST theme after it merges. On the original tee visit, compare the shop in the response with the shop on the page and count the looks actually shown.",
-  "updated": "02 November, 14:26 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
+  "remaining": "The desktop Options drawer exceeded its 50 ms frame budget. The Stores change still needs component reviews and protected merge. The TEST looks rail still needs the corrected file installed.",
+  "current": "The seven small-iPhone checks are running on a hosted Mac. Hands accepted the corrected floating Stores button. The catalogue Options drawer passed at 380 px and missed the desktop frame limit at 1280 px.",
+  "next": "Read the seven iPhone results individually. The original shell writer has been requested for the desktop drawer. After the TEST looks-rail change merges, install its one file on the unpublished TEST theme and check the actual tee.",
+  "updated": "02 November, 14:43 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified while the run is in progress. Final draft ratings at or above 9.5 are 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -286,10 +286,10 @@
     }
   ],
   "recentChanges": [
-    "Two test jobs passed for the TEST tee’s looks rail. The product page and signed shopper panel have been seen. Verifying the rail itself requires installing the merged repair and checking the response on the tee.",
-    "The small-iPhone request was on the worklist, but the original keeper read a different inbox. Its open request and the Stores acceptance now appear in that inbox. Neither has a result yet.",
-    "The remote Options test stopped before its first click. Twelve checks passed for the corrected draft identification. Two opens and two closes remain to be measured.",
-    "The Stores button passed its gallery and purchase-control checks. The chair still holds the corrected version for acceptance and two component reviews."
+    "Hands accepted the corrected floating Stores button. It keeps the gallery Pause control and the purchase controls usable. Two component reviews and protected merge are still due.",
+    "The small-iPhone workflow started on the corrected revision. Each of its seven results will be checked against the unpublished theme.",
+    "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
+    "The TEST tee and signed shopper panel opened. The looks rail is the third surface. Its repair is in CI and still needs an installed storefront check."
   ],
   "openDeliveryGates": [
     {
@@ -304,13 +304,13 @@
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
+      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. The catalogue drawer passed at 380 px but missed the desktop frame budget at 1280 px. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
       "next": "Complete each reader’s named evidence, then return the same installed source to those original readers once. Passing requires average 9.5 or higher and no measure below 9; code approvals do not substitute."
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The small iPhone opened the draft. Its asset check lost the draft identifier, zoom did not record a value and Safari obscured the 2XL control. None of the seven checks qualified.",
-      "next": "Hands has the verified fixes for both failures. It runs the seven checks once, verifies the unpublished theme and records the observed zoom and selected size. Before handover, reconcile the store directory with the current three locations and verify map destinations."
+      "blocker": "The earlier small-iPhone run qualified none of seven checks. The hosted replacement on the corrected revision started at 14:40 UTC.",
+      "next": "Read the seven results and verify the unpublished theme, observed zoom and selected size. Before handover, reconcile the store directory with the current three locations and verify map destinations."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -325,8 +325,16 @@
         "text": "Attach the passive looks-rail check to the existing shopper test packet and verify eleven offline cases (13:26Z–13:30Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Measure two catalogue Options opens and closes at both widths and verify the raw frames (14:19Z–14:35Z, took 16 min)."
+      },
+      {
+        "complete": true,
+        "text": "Return the desktop frame failure with the actual drawer assets to the original repair queue (14:35Z–14:42Z, took 7 min)."
+      },
+      {
         "complete": false,
-        "text": "Measure the catalogue Options button twice in each direction at 380 px (started 13:23Z, corrected 14:19Z, est. 5 min once the remote slot opens)."
+        "text": "Read the seven small-iPhone results from the hosted Mac and verify the source of every result (started 14:40Z, est. 5 min after the run returns)."
       },
       {
         "complete": true,
