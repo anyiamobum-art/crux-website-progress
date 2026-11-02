@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The read-only TEST run is complete. Seven of eight steps passed. The product-read failure has gone to its original team. The private Stores control is ready to try.",
+  "workerState": "The floating Stores button is in a separate draft pull request. Its seven focused tests passed. Hands accepted the exact Runway revision for protected review. The chair owns the next step on Runway.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the original eight-step TEST browser receipt. It identified the correct tee and preview theme, opened the signed styling panel, and left Style and Save untouched. The rail was outside the recorded checks.",
+  "lastActualProgress": "Opened the floating Stores change after seven source checks, two mutation checks and twelve WebKit journeys passed. The private full-page preview was also checked at 81 scroll positions.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,8 +143,12 @@
   "remaining": "The TEST product page requests looks for CRUX and its intended TEST product has zero looks. The native run still needs a measured Safari zoom value and a confirmed 2XL tap.",
   "current": "The actual TEST tee and signed styling panel both opened in the protected shopper session. The public looks rail is the remaining one of these three browser checks.",
   "next": "Capture the public looks rail on the actual tee. The original team is tracing the product read that returned HTTP 500. The native team still owes the repaired small-iPhone run.",
-  "updated": "02 November, 01:38 UTC. Two of three requested TEST surfaces verified. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "updated": "02 November, 01:57 UTC. Two of three requested TEST surfaces verified. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
+    {
+      "title": "Floating Stores button #5250",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5250"
+    },
     {
       "title": "Runway refinement #5204",
       "path": "https://github.com/EON-CRUX/3.09/pull/5204"
@@ -172,10 +176,6 @@
     {
       "title": "iPhone source-binding correction #5106",
       "path": "https://github.com/EON-CRUX/3.09/pull/5106"
-    },
-    {
-      "title": "Slideshow readiness repair #5095",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5095"
     }
   ],
   "source": "Published projection of the original task report",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "A floating storefront icon now sits above green WhatsApp on the private October 3 home, collection, Ball Tee and Stores pages. On Stores it jumps to the list of locations.",
-    "Across 81 scroll positions, the pair left the hero controls, sizes, quantity and Add to bag clear. A Yellow/L enquiry retained its selection on return, and links worked with JavaScript off.",
-    "All 43 saved theme configurations matched the unpublished draft inventory. Neither product template enables product-specific size evidence. The two-file update is prepared and still needs a confirmed chart for the positive product example.",
-    "The original read-only shopper run verified the TEST tee and signed styling panel. Seven of eight steps passed. The product read returned HTTP 500. The public looks rail still needs a direct browser observation.",
-    "All five iPhone proof files on current main still matched the earlier unsuccessful run. An original-author fix for Safari zoom and 2XL selection is required before a new native result can count."
+    "A floating storefront icon sits above green WhatsApp on the October 3 preview. It opens the directory from shopping pages and jumps to the locations list when you are already there.",
+    "The pair cleared shopping and hero controls across 81 private-preview scroll positions. Separate PR #5250 passed seven focused tests, two mutation checks and twelve WebKit journeys. Shopify installation is pending.",
+    "Hands accepted the exact Runway revision for protected review. Its next step is the chair’s review-queue release.",
+    "The protected shopper run verified the TEST tee and signed styling panel. The public looks rail still needs a direct observation. The original iPhone repair still needs measured Safari zoom and a confirmed 2XL tap.",
+    "The preview directory still lists Osapa. Matching it to the current three stores and checking map destinations is on the draft handover checklist."
   ],
   "openDeliveryGates": [
     {
@@ -311,7 +311,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "The small iPhone opened the draft. Its asset check lost the draft identifier, zoom did not record a value and Safari obscured the 2XL control. None of the seven checks qualified.",
-      "next": "The original tester repairs zoom recording and the 2XL interaction and verifies the exact served theme before recording the seven results."
+      "next": "The original tester repairs zoom recording and the 2XL interaction and verifies the exact served theme before recording the seven results. Before handover, reconcile the store directory with the current three locations and verify map destinations."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -321,6 +321,14 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Package the Stores button separately and verify its draft pull request (01:33Z–01:56Z, took 23 min)."
+      },
+      {
+        "complete": false,
+        "text": "Complete protected review and verify the installed Stores button on the unpublished theme (waiting on source review and the installation slot)."
+      },
       {
         "complete": true,
         "text": "Build the floating Stores icon alongside WhatsApp and fix overlap with the hero and purchase controls (01:08Z–01:28Z, took 20 min)."
