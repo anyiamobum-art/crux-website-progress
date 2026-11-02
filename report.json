@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Desktop chair has the floating Stores decision. The TEST catalogue fix is deployed and its first dependency merged. The separate shopper-panel repair is still in review preparation.",
+  "workerState": "The original phone tester completed both repairs. Hands received them at 08:53 UTC. The chair has the Stores decision, and the TEST team owns the remaining shopper checks.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Measured useful content on the unpublished Shopify catalogue. In desktop Chromium at 380 px, the first decoded product photo, name and price appeared in 236–381 ms across three warm reloads. The median was 302 ms.",
+  "lastActualProgress": "Verified the original iPhone tester’s four regressions against both the broken and corrected code. On the Shopify draft, desktop Chromium showed the first catalogue photo, name and price in 236–381 ms over three warm reloads.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The public looks rail still requests the CRUX catalogue on the TEST tee. The original owner must correct that binding before a browser check counts. Small-iPhone Safari still needs measured zoom and a working 2XL tap.",
-  "current": "The floating Stores button clears the gallery’s Pause control on the repaired revision. GitHub’s source and PR description checks passed. Hands and the component reviewers have the revision for admission and review.",
-  "next": "Get the two component verdicts on 23a74fac, then complete protected review, merge and verify all five changed files on the unpublished theme.",
-  "updated": "02 November, 08:45 UTC. TEST shopper checks 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
+  "remaining": "The hosted phone run has no run ID yet. The public looks rail still requests the CRUX catalogue from the TEST tee. The separate signed-shopper test requires two fixes to reach the served build.",
+  "current": "The small-iPhone test can now measure 200% zoom and select 2XL. Hands has the verified repair for one hosted run. The floating Stores button is also ready for its two component reviews.",
+  "next": "Hands runs the corrected phone test and returns seven results. For Stores, obtain review of the corrected revision, merge #5250 and verify its five files on the unpublished Shopify theme.",
+  "updated": "02 November, 10:08 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings at 9.5 or higher 0/3.",
   "links": [
+    {
+      "title": "iPhone test repair #5275",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5275"
+    },
     {
       "title": "Floating Stores button #5250",
       "path": "https://github.com/EON-CRUX/3.09/pull/5250"
@@ -172,10 +176,6 @@
     {
       "title": "Small-screen quantity repair #5107",
       "path": "https://github.com/EON-CRUX/3.09/pull/5107"
-    },
-    {
-      "title": "iPhone source-binding correction #5106",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5106"
     }
   ],
   "source": "Published projection of the original task report",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "On two phone widths, a tap near the gallery’s Pause button could open Stores. The repair passed all 267 gallery hit tests and left all 24 tested purchase targets clear. These checks used desktop WebKit.",
-    "The corrected Stores revision passed GitHub’s source and description checks. The earlier review admission applies only to the previous revision. The corrected revision still needs its own admission and component reviews.",
-    "The TEST catalogue repair is running on EON and #5212 has merged. The separate signed shopper run still needs the #5244 repair served and the TEST shopper and product rechecked.",
-    "The TEST tee and signed styling panel opened. The public looks rail still needs a corrected shop binding and direct observation on that tee.",
-    "Three warm catalogue reloads on the actual unpublished theme showed a decoded product photo, name and price within 381 ms. The draft ID and role were verified on each reload. This completes the desktop warm-catalogue measurement for the original Opus review."
+    "Four regressions for the phone test passed on the corrected revision and reproduced the old failures. Hands received #5275. At 10:08 UTC, GitHub still showed no hosted phone run for it.",
+    "The floating Stores button cleared 267 gallery tap checks and all 24 tested purchase controls in desktop WebKit. The earlier admission names the previous revision. The corrected #5250 still needs admission and its two reviews.",
+    "The TEST tee and signed styling panel opened. The public looks rail still points at the wrong shop. Its last check against the correct TEST catalogue returned zero looks.",
+    "The catalogue and product-read repairs are served. The original signed-shopper check now depends on both #5201 and #5244 being merged and served.",
+    "On the unpublished Shopify catalogue, the first decoded product photo, name and price appeared in 236–381 ms across three warm desktop reloads at 380 px. Median 302 ms."
   ],
   "openDeliveryGates": [
     {
@@ -311,7 +311,7 @@
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "The small iPhone opened the draft. Its asset check lost the draft identifier, zoom did not record a value and Safari obscured the 2XL control. None of the seven checks qualified.",
-      "next": "The original tester repairs zoom recording and the 2XL interaction and verifies the exact served theme before recording the seven results. Before handover, reconcile the store directory with the current three locations and verify map destinations."
+      "next": "Hands has the verified fixes for both failures. It runs the seven checks once, verifies the unpublished theme and records the observed zoom and selected size. Before handover, reconcile the store directory with the current three locations and verify map destinations."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -343,7 +343,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, next check 09:15Z)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, next check 10:40Z)."
       },
       {
         "complete": true,
@@ -410,8 +410,12 @@
         "text": "Verify that a signed TEST shopper can open the styling panel without using Style or Save (01:23Z–01:24Z, took 1 min)."
       },
       {
+        "complete": true,
+        "text": "Qualify the original zoom and size-selection fixes and hand them to the iPhone tester (08:46Z–08:53Z, took 7 min)."
+      },
+      {
         "complete": false,
-        "text": "Run the seven small-iPhone checks on the repaired source (waiting on the original zoom and size-selection repair)."
+        "text": "Run the seven small-iPhone checks on #5275, with numeric zoom and a verified 2XL selection (waiting since 08:53Z for Hands to return its hosted run ID)."
       },
       {
         "complete": true,
@@ -479,7 +483,7 @@
       },
       {
         "complete": false,
-        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). The first hosted run ended without a qualified result. The two named test repairs were sent to Hands at 21:58 UTC on 1 November."
+        "text": "Run the seven iPhone checks on the installed draft (waiting since 16 October, 20:16 UTC). The first hosted run ended without a qualified result. Hands received the qualified repair on 2 November at 08:53 UTC. Its hosted result is pending."
       },
       {
         "complete": true,
