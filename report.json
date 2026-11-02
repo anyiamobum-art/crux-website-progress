@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original protected shopper repair started at 00:10 UTC. The small-iPhone repair brief is with Hands. The current draft file comparison and the TEST looks response are verified.",
+  "workerState": "The floating Stores control passed its private browser checks. The protected shopper preflight has a prepared source version. The native iPhone and signed TEST interactions remain open.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 00:34 UTC, a count in the TEST store confirmed zero Studio looks linked to this tee, matching its API response. For the small-iPhone product, Shopify confirmed 2XL is available. Both storefront interactions still require a browser observation.",
+  "lastActualProgress": "The private preview now serves the Stores icon on home, collection, product and directory pages. The pair clears purchase controls at enlarged text. Separately, zero saved product sections enable the draft size-evidence feature.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Shopify’s signed merchant Themes page opened a blank frame. The protected shopper inspection has no browser result yet. The small iPhone still needs a numeric Safari zoom reading and a confirmed 2XL selection.",
-  "current": "The TEST tee’s product page requests looks from the CRUX store. A separate read against the correct TEST store returned zero looks. The repair is with the original product-page team.",
-  "next": "Use the original protected shopper session to open the TEST tee, report the rail as visible, hidden or absent, and open the signed styling panel. Confirm the corrected store address on the unpublished TEST theme.",
-  "updated": "02 November, 00:36 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "remaining": "The TEST product page still requests looks from CRUX. The protected shopper check has no browser result. The small-iPhone repair still needs an exact source version from its original author.",
+  "current": "Shoppers can open Stores from the October 3 private preview. The store directory, product enquiry and return to the selected size work across the four tested pages.",
+  "next": "Check the protected TEST tee and its looks rail, then open the signed styling panel. Qualify the small-iPhone repair and return its evidence to the original three readers.",
+  "updated": "02 November, 01:34 UTC. Six of eleven delivery checks complete. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Runway refinement #5204",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Unified private shopping journey · d34c0865 · no independent score yet. Astra and Argon each passed their five named repairs on dc6c13cf. Neither issued a new score.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4 · no independent score on this revision. Original final review results below remain bound to their reviewed versions.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -276,8 +276,8 @@
     },
     {
       "journey": "Try it in a shop",
-      "state": "Found in later theme source",
-      "action": "Reuse the product enquiry and store directions. Carry the piece and selected size into the enquiry; the store confirms availability."
+      "state": "Verified on the private preview",
+      "action": "Open Stores from four pages. The directory link focuses the locations. An enquiry keeps the chosen piece and size when you return."
     },
     {
       "journey": "Explore Big Bag",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "Shopify reported that the CRUX theme is unpublished. All 701 file checksums and sizes match its recorded draft snapshot.",
-    "The TEST tee page requests Studio looks from CRUX. The correct TEST endpoint returned zero looks and the fixture has zero linked Studio looks. The original product-page team received the repair. A shopper still needs to see the empty state.",
-    "The protected shopper repair started at 00:10 UTC. The signed merchant Themes frame stayed blank, and the browser slot was returned. The tee and signed styling panel still need a shopper check.",
-    "The 404 Tee quantity control measured 50 × 44 CSS pixels at four widths on the same source. Shopify confirms 2XL is available on the iPhone test product. Safari zoom and selecting 2XL still need a device check.",
-    "Fable’s last full average was 9.05 and Opus’s was 8.75. Astra scored house consistency 9.0 and left its overall score open."
+    "A floating storefront icon now sits above green WhatsApp on the private October 3 home, collection, Ball Tee and Stores pages. On Stores it jumps to the list of locations.",
+    "Across 81 scroll positions, the pair left the hero controls, sizes, quantity and Add to bag clear. A Yellow/L enquiry retained its selection on return, and links worked with JavaScript off.",
+    "All 43 saved theme configurations matched the unpublished draft inventory. Neither product template enables product-specific size evidence. The two-file update is prepared and still needs a confirmed chart for the positive product example.",
+    "The TEST tee has zero linked Studio looks. Its current page points at the wrong shop. The protected shopper preflight has seven steps but no direct looks-rail check. No authenticated result is counted.",
+    "All five iPhone proof files on current main still matched the earlier unsuccessful run. An original-author fix for Safari zoom and 2XL selection is required before a new native result can count."
   ],
   "openDeliveryGates": [
     {
@@ -321,6 +321,18 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Build the floating Stores icon alongside WhatsApp and fix overlap with the hero and purchase controls (01:08Z–01:28Z, took 20 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the green WhatsApp glyph and ink Stores icon in the served preview, with and without JavaScript (01:28Z–01:32Z, took 4 min)."
+      },
+      {
+        "complete": true,
+        "text": "Check all 43 saved configurations for the size-evidence switch (01:06Z–01:24Z, took 18 min). Both product templates have it off."
+      },
       {
         "complete": true,
         "text": "Reconcile the TEST browser request with the actual queue (23:44Z–23:52Z, took 8 min)."
