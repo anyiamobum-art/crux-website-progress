@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original sign-in repair is on GitHub. The iPhone tester recovered its connection. Its corrected run has no recorded results yet.",
+  "workerState": "The remote desktop startup tests finished. The original iPhone tester’s next worklist again omitted the corrected test. That missed handoff is now with the chair.",
   "journey": [
     {
       "stage": "Build",
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The TEST product page requests looks from the CRUX shop. A separate signed-shopper repair has one failing test that Hands is comparing with the main branch.",
-  "current": "The TEST sign-in repair passed 257 targeted checks and is first in the review queue. The floating Stores button and the small-iPhone run are back on the current worklist.",
-  "next": "Hands returns a decision on the corrected Stores button and the run ID for seven small-iPhone checks. The TEST team assigns the looks-rail fix to the product-page maintainer.",
-  "updated": "02 November, 10:44 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings at 9.5 or higher 0/3.",
+  "current": "Two startup checks passed on the unpublished Shopify draft. The TEST tee and signed styling panel have opened. The looks rail still points to the wrong shop.",
+  "next": "Hands runs the seven small-iPhone checks. The chair has the corrected floating Stores button for admission, and the product-page team has the TEST looks-rail repair.",
+  "updated": "02 November, 11:17 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 qualified. Final draft ratings of 9.5 or higher 0/3.",
   "links": [
     {
       "title": "iPhone test repair #5275",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "The original TEST sign-in fix passed all 257 targeted checks. Hands accepted it on GitHub. The desk placed it first for protected review.",
-    "The TEST looks rail still requests the wrong shop. The original product-page repair brief is back with the team that can assign it. The tee and signed styling panel account for two of three verified surfaces.",
-    "The current worklist dropped the corrected iPhone run during handover. Its run instructions and the Stores review request were restored. The three whole-draft ratings still await measured results.",
-    "The floating Stores button cleared 267 gallery tap checks and all 24 tested purchase controls in desktop WebKit. The earlier admission names the previous revision. The corrected #5250 still needs admission and its two reviews.",
-    "On the unpublished Shopify catalogue, the first decoded product photo, name and price appeared in 236–381 ms across three warm desktop reloads at 380 px. Median 302 ms."
+    "The catalogue recorded 77 ms of long-task blocking and Big Bag recorded 0.8 ms of frame blocking during separate ten-second startup checks. Both passed the 300 ms budget on desktop Chromium at phone width.",
+    "Both Shopify draft directory templates still list retired Osapa and use address searches for all locations. The three current shops were matched to their Google listings for the separate directory correction.",
+    "The TEST sign-in repair passed 257 checks. The tee and signed styling panel opened. The product page still requests looks from the CRUX catalogue when opened in TEST.",
+    "The floating Stores button cleared all 267 gallery tap points and 24 purchase controls. The chair has the corrected version for its original reviews.",
+    "The iPhone tester completed another turn without starting this run. Its missing instruction went back to the original chair for a dated test slot."
   ],
   "openDeliveryGates": [
     {
@@ -305,7 +305,7 @@
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The scoped desktop timing capture is complete and retained. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
+      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
       "next": "Complete each reader’s named evidence, then return the same installed source to those original readers once. Passing requires average 9.5 or higher and no measure below 9; code approvals do not substitute."
     },
     {
@@ -321,6 +321,14 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Qualify both ten-second startup checks on the unpublished draft (10:43Z–11:13Z, took 30 min)."
+      },
+      {
+        "complete": true,
+        "text": "Match the three current stores to their Google listings and check both draft directory templates (10:53Z–11:08Z, took 15 min)."
+      },
       {
         "complete": true,
         "text": "Recover the original sign-in fix and verify its GitHub revision and 257 checks (10:20Z–10:37Z, took 17 min)."
@@ -355,7 +363,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, restored to the current worklist at 10:40Z, next check 11:04Z)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, returned to the Desktop chair at 08:33Z, restored to the current worklist at 10:40Z, next chair decision check 11:34Z)."
       },
       {
         "complete": true,
