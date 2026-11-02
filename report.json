@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The floating Stores button is in a separate draft pull request. Its seven focused tests passed. Hands accepted the exact Runway revision for protected review. The chair owns the next step on Runway.",
+  "workerState": "The Stores repair, the TEST product lookup and the iPhone repair have separate original owners. The owner approved #5250 by number.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Opened the floating Stores change after seven source checks, two mutation checks and twelve WebKit journeys passed. The private full-page preview was also checked at 81 scroll positions.",
+  "lastActualProgress": "Verified the tap conflict on the Stores change and checked the two existing Shopify files against its base. Captured rollback copies and confirmed the three new files are absent.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST product page requests looks for CRUX and its intended TEST product has zero looks. The native run still needs a measured Safari zoom value and a confirmed 2XL tap.",
-  "current": "The actual TEST tee and signed styling panel both opened in the protected shopper session. The public looks rail is the remaining one of these three browser checks.",
-  "next": "Capture the public looks rail on the actual tee. The original team is tracing the product read that returned HTTP 500. The native team still owes the repaired small-iPhone run.",
-  "updated": "02 November, 01:57 UTC. Two of three requested TEST surfaces verified. Small iPhone 0/7 qualified. Whole-draft ratings at 9.5 or higher 0/3.",
+  "remaining": "The looks rail still needs a direct observation on the correct TEST product. The small-iPhone run needs measured Safari zoom and a successful 2XL tap.",
+  "current": "The original builder is correcting the floating Stores button on the product page. At two phone widths, a corner tap intended for Pause slideshow opened Stores instead.",
+  "next": "Retest the gallery controls at both phone widths, have two readers assess the corrected button, then complete protected review and install the merged files on the unpublished theme.",
+  "updated": "02 November, 05:18 UTC. TEST tee and signed styling panel 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Floating Stores button #5250",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4 · no independent score on this revision. Original final review results below remain bound to their reviewed versions.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The separate Shopify change #5250 is under repair after a reproducible gallery overlap on 2ff87c86. Original final review results below remain bound to their reviewed versions.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "A floating storefront icon sits above green WhatsApp on the October 3 preview. It opens the directory from shopping pages and jumps to the locations list when you are already there.",
-    "The pair cleared shopping and hero controls across 81 private-preview scroll positions. Separate PR #5250 passed seven focused tests, two mutation checks and twelve WebKit journeys. Shopify installation is pending.",
-    "Hands accepted the exact Runway revision for protected review. Its next step is the chair’s review-queue release.",
-    "The protected shopper run verified the TEST tee and signed styling panel. The public looks rail still needs a direct observation. The original iPhone repair still needs measured Safari zoom and a confirmed 2XL tap.",
-    "The preview directory still lists Osapa. Matching it to the current three stores and checking map destinations is on the draft handover checklist."
+    "Approved by the owner, #5250 adds a one-tap Stores shortcut above WhatsApp. It opens the directory and takes shoppers straight to the locations list when already on that page.",
+    "In the rendered build, 24 of 24 purchase-control tap checks reached the intended colour, size, quantity or Add to bag control. At 380 and 430 px, a separate gallery test found the floating pair overlapped Pause. Its top-right corner opened Stores at all ten sampled phone positions. The original builder has the fix.",
+    "Verified both existing Shopify files match the starting source, saved their rollback copies and confirmed the three new files are absent from the unpublished theme.",
+    "The TEST tee and signed styling panel opened. The public looks rail needs a correctly bound TEST product and a direct browser observation. The small-iPhone repair is with its original team.",
+    "The target remains an unpublished Shopify draft. The earlier full-review results are still the last scores for that draft."
   ],
   "openDeliveryGates": [
     {
@@ -321,6 +321,22 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Record the owner’s approval of #5250 on the accepted revision (05:01Z–05:04Z, took 3 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the two existing draft files, the three absent files and the two storefront layout mounts (05:08Z–05:16Z, took 8 min)."
+      },
+      {
+        "complete": true,
+        "text": "Locate the phone gallery conflict and reproduce it at ten scroll positions (05:13Z–05:16Z, took 3 min)."
+      },
+      {
+        "complete": false,
+        "text": "Repair the gallery overlap and repeat the tap checks (started 05:17Z, estimated 20 min)."
+      },
       {
         "complete": true,
         "text": "Package the Stores button separately and verify its draft pull request (01:33Z–01:56Z, took 23 min)."
