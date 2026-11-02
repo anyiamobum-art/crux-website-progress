@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Both Stores tap conflicts are repaired. The original builder’s revision is on GitHub. The chair has the request to admit 621 lines for the next review.",
+  "workerState": "The chair and Hands cleared the repaired floating Stores button for its second code review. The review desk is waiting for a CI slot.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 16:52 UTC the signed shopper opened the TEST tee and styling panel. EON read the correct product, and the service log confirmed the rail requested looks from the TEST shop. The earlier product lookup error is cleared.",
+  "lastActualProgress": "At 17:46 UTC Hands accepted the revision that fixed both Stores tap conflicts. The TEST tee and signed panel passed eight checks. The looks rail still needs a screen check.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 17:27 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 17:48 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
-    "Stores now gives taps back to Grid/Focus, and WhatsApp disappears when it cannot receive taps. Desktop WebKit passed all 1,350 paired-control tap checks and 267 gallery taps. The repair is on GitHub for its second review. [Repair and review request](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6583699470)",
+    "The floating Stores button yields taps to Grid/Focus at enlarged text sizes. WhatsApp hides when it cannot receive taps. All 1,350 paired-control taps and 267 gallery taps passed in desktop WebKit. The chair and Hands cleared the repair for round 2. [Chair’s size decision](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584086285) · [Hands acceptance](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584126702)",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
     "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
@@ -444,8 +444,12 @@
         "text": "Repair both tap conflicts, run 10 tests and six mutation checks, and verify the pushed revision (17:12Z–17:26Z, took 14 min)."
       },
       {
+        "complete": true,
+        "text": "Secure the chair’s size admission and Hands acceptance on the repaired revision (17:26Z–17:46Z, took 20 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain the chair’s size admission and Hands acceptance, finish protected round 2, and install the five merged files in the unpublished theme (waiting since 17:26Z, next check 17:41Z)."
+        "text": "Complete the second code review and install the five merged files on the unpublished theme (waiting for a review slot since 17:46Z)."
       },
       {
         "complete": true,
