@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Hands has the exact Stores revision and evidence. The TEST product lookup and small-iPhone repair remain with their original owners.",
+  "workerState": "The Stores repair is on the original chair card. The TEST catalogue backend repair is deployed. The signed shopper run still needs two dependent releases.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The corrected Stores button passed eight remote tests and all eleven mutation checks. Its five draft files are staged against a verified Shopify baseline.",
+  "lastActualProgress": "The TEST catalogue repair merged at 05:46 UTC. At 05:50 the running catalogue file matched the approved version. The Website and Companion owners also identified the change needed to save a fitted look to the signed shopper’s account.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The looks rail still needs a direct observation on the correct TEST product. The small-iPhone run needs measured Safari zoom and a successful 2XL tap.",
-  "current": "The floating Stores gallery fix is on GitHub at 23a74fac. All 267 visible tap points reached Previous, Next or Pause/Play; the corrected source is with Hands for review.",
-  "next": "Two component reviewers assess the corrected Stores button. After protected review and merge, verify its five files on the unpublished Shopify theme.",
-  "updated": "02 November, 05:30 UTC. TEST tee and signed styling panel 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
+  "remaining": "The public looks rail still requests the CRUX catalogue on the TEST tee. The original owner must correct that binding before a browser check counts. Small-iPhone Safari still needs measured zoom and a working 2XL tap.",
+  "current": "The floating Stores button clears the gallery’s Pause control on the repaired revision. GitHub’s source and PR description checks passed. Hands and the component reviewers have the revision for admission and review.",
+  "next": "Get the two component verdicts on 23a74fac, then complete protected review, merge and verify all five changed files on the unpublished theme.",
+  "updated": "02 November, 06:01 UTC. TEST shopper checks 2/3. Small iPhone 0/7 qualified. Final draft scores at 9.5 or higher 0/3.",
   "links": [
     {
       "title": "Floating Stores button #5250",
@@ -286,11 +286,11 @@
     }
   ],
   "recentChanges": [
-    "Approved by the owner, #5250 adds a one-tap Stores shortcut above WhatsApp. It opens the directory and takes shoppers straight to the locations list when already on that page.",
-    "The repaired Stores button leaves all 267 tested gallery tap points and all 24 purchase-control targets clear. Keyboard Previous, Next and Pause/Play work. Sixteen rendered page states passed, including the store directory and Back. These were desktop WebKit checks.",
-    "Verified both existing Shopify files match the starting source, saved their rollback copies and confirmed the three new files are absent from the unpublished theme.",
-    "The TEST tee and signed styling panel opened. The public looks rail needs a correctly bound TEST product and a direct browser observation. The small-iPhone repair is with its original team.",
-    "The target remains an unpublished Shopify draft. The earlier full-review results are still the last scores for that draft."
+    "On two phone widths, a tap near the gallery’s Pause button could open Stores. The repair passed all 267 gallery hit tests and left all 24 tested purchase targets clear. These checks used desktop WebKit.",
+    "The corrected Stores revision passed GitHub’s source and description checks. The earlier review admission applies only to the previous revision. The corrected revision still needs its own admission and component reviews.",
+    "The TEST catalogue repair is running on EON. The separate signed shopper check follows releases #5212 and #5244.",
+    "The TEST tee and signed styling panel opened. The public looks rail still needs a corrected shop binding and direct observation on that tee.",
+    "Verified the fitting-desk design against the existing shopper code. The product and size can feed the new presentation. Account saving needs the existing signed, versioned save path before it can be tested."
   ],
   "openDeliveryGates": [
     {
@@ -343,7 +343,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, next review-allocation check 05:58Z)."
+        "text": "Obtain acceptance of 23a74fac and both component reviews (submitted 05:29Z, allocation checked 05:59Z, next check 06:28Z)."
       },
       {
         "complete": true,
@@ -390,8 +390,16 @@
         "text": "Open the actual TEST tee on its protected preview theme (01:23Z–01:24Z, took 1 min)."
       },
       {
+        "complete": true,
+        "text": "Verify the deployed TEST catalogue repair against the approved file (05:46Z–05:50Z, took 4 min)."
+      },
+      {
+        "complete": true,
+        "text": "Compare the fitting desk with the signed shopper save contract and return the required adapter change (05:56Z–06:00Z, took 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Inspect the public looks rail on that tee at the next original browser sitting (first requested 22:54Z). Its TEST data has zero linked looks."
+        "text": "Verify the looks rail on the actual TEST tee when the source uses its correct shop (first requested 22:54Z). The TEST endpoint previously returned zero linked looks."
       },
       {
         "complete": true,
