@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original reviewer is reading the floating Stores button again. Five test groups and one verification job are waiting for a runner.",
+  "workerState": "The original builder is fixing two issues in the floating Stores button. WhatsApp can ignore taps while visible, and Stores can cover Grid/Focus at 200% zoom.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 16:54 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 17:10 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
-    "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. The original retry reached its reviewer at 17:02 UTC. [Review run](https://github.com/EON-CRUX/3.09/actions/runs/41487149025)",
+    "The gallery Pause repair passed review. The reviewer reproduced two contact-button conflicts. The original builder resumed to fix both. [Independent findings](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6583340202)",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
     "All eight signed shopper checks passed, including the product lookup that previously failed. The looks request reached the TEST shop and returned HTTP 200. Its result count and visible or hidden rail still need a browser observation. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960)"
@@ -436,8 +436,12 @@
         "text": "Confirm the desk moved Stores into protected review and read the first run (15:19Z–15:26Z, took 7 min). The review service returned an error before issuing a verdict."
       },
       {
+        "complete": true,
+        "text": "Recover the original protected review and return both findings to the original builder (17:01Z–17:12Z, took 11 min)."
+      },
+      {
         "complete": false,
-        "text": "Complete the original Stores review and verify its five merged files on the unpublished theme. The original retry reached its reviewer at 17:02Z."
+        "text": "Repair both tap conflicts, complete protected review, then verify the five merged files on the unpublished theme (started 17:12Z, waiting for the repaired revision and tests)."
       },
       {
         "complete": true,
