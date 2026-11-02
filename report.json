@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Stores builder finished: 10 remote tests, nine mutation checks and 32 desktop states pass. Hands accepted the revision and the chair renewed its queue exception. Both remaining TEST test groups are running. The original Ask owner acknowledged the size-guide and checkout handoff and is acting on it.",
+  "workerState": "The original Stores builder finished: 10 remote tests, nine mutation checks and 32 desktop states pass. Hands accepted the revision and the chair renewed its queue exception. All five TEST test groups and all three proof groups pass, but GitHub now reports a conflict with newer main. The chair assigned that merge repair to the original holder.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 23:17 UTC Hands accepted the repaired Stores revision. The chair’s exact-revision queue exception was verified at 23:27. The five-file draft installation package is prepared and correctly refuses installation before protected merge.",
+  "lastActualProgress": "At 23:38 UTC the TEST checks were confirmed green and its merge conflict was verified. The original release desk obtained the chair’s repair ruling. The TEST lead acknowledged the size-guide and checkout inputs and is preparing the next declaration step.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "TEST checkout needs its three policy declarations and supported paths. The size-guide journey needs an approved product-to-chart mapping. Local iPhone work remains behind Hands’ capacity and source-repair allocation.",
   "current": "The chair has cleared the Stores queue blocker on the exact repaired revision, and Hands has accepted it. Its last named-fix review follows the existing release order; merge and draft installation remain open.",
-  "next": "Complete the original final code review and required tests, verify merge, then install the five files in the unpublished draft. In parallel, finish the two running TEST test groups and consume Hands’ separate iPhone source repair and allocation.",
-  "updated": "02 November, 23:30 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "next": "Complete the original final Stores code review and required tests, verify merge, then install the five files in the unpublished draft. In parallel, the original TEST holder merges newer main and the TEST lead prepares the checkout declarations.",
+  "updated": "02 November, 23:42 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -294,8 +294,8 @@
   "recentChanges": [
     "The Stores styling repair is committed and pushed. Ten remote tests, nine mutation checks and 32 desktop states pass, including the actual stylesheet order and WhatsApp colors.",
     "The chair granted size admission and the queue exception on the exact repaired revision, and Hands accepted it. The accidental iPhone dependency is cleared; last named-fix review and merge remain open.",
-    "Three of five TEST test groups and all three proof groups pass. The two remaining test groups are running; the paired shopper journey follows merge and served-code verification.",
-    "The draft serves the reviewed size-guide code, verified through Shopify’s versioned source map. Its approved product-to-chart mapping and the TEST checkout declarations remain outstanding.",
+    "All five TEST test groups and all three proof groups pass. Newer main introduced a merge conflict; the chair assigned one main merge to the original holder. The paired shopper journey follows protected merge and served-code verification.",
+    "The draft serves the reviewed size-guide code, verified through Shopify’s versioned source map. The original TEST lead accepted responsibility for the checkout declaration values and assigned a scoped existing-guide lookup to the original checkout owner.",
     "Hands retains the original iPhone allocation and capacity recovery. Both approved checkout refinements remain saved and verified. The website stays unpublished."
   ],
   "openDeliveryGates": [
@@ -353,7 +353,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check 23:40Z or returned review)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check 23:50Z or returned review)."
       },
       {
         "complete": true,
@@ -438,6 +438,14 @@
       {
         "complete": false,
         "text": "Verify the returned look count against the visible or hidden rail in the original follow-up (est. 2 min once the reviewed check runs)."
+      },
+      {
+        "complete": true,
+        "text": "Verify all five TEST test groups and all three proof groups pass on the submitted revision (23:30Z–23:33Z, took 3 min)."
+      },
+      {
+        "complete": false,
+        "text": "Consume the original TEST holder’s main-merge repair and its fresh protected checks (waiting on the holder through Hands since 23:39Z; next check 23:50Z)."
       },
       {
         "complete": false,
