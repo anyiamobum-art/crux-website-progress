@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify verified the TEST rail template and all four new checkout settings. The sign-in test repair merged at 16:26 UTC. The paired styling test passed all five test groups. At 16:38 UTC the two conflicting edits were sent to its original writer that still prevent review.",
+  "lastActualProgress": "Shopify verified the TEST rail template and four checkout settings. The sign-in test repair merged. GitHub now confirms the related styling test has its conflict resolved at 3422de15.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "Safari’s menu covered the product in the iPhone run, and its source check landed on the active theme. The 1280 px drawer also missed its frame budget. Both repairs await their original writers.",
   "current": "The product-page repair is installed on the unpublished TEST theme. A TEST tee now asks its own store for related looks.",
-  "next": "Open that tee in the existing shopper test and check what the shopper sees. If the store returns looks, the rail should show them. If it returns none, the rail should stay hidden.",
-  "updated": "02 November, 16:38 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "next": "The shopper test can now open the TEST tee on the repaired revision. Check whether the request reaches the right shop, then confirm the rail shows the returned looks or stays hidden when there are none.",
+  "updated": "02 November, 16:51 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,7 +292,7 @@
     }
   ],
   "recentChanges": [
-    "The signed-shopper repair merged. The styling test now needs two edits combined in a single test fixture before protected review can begin. The two edits were sent to the original writer. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Styling test review](https://github.com/EON-CRUX/3.09/pull/5244#issuecomment-6582471741)",
+    "The signed-shopper repair merged. The original team resolved both edits in the styling test, and GitHub confirms its repaired branch can merge after review. [Sign-in repair #5201](https://github.com/EON-CRUX/3.09/pull/5201) · [Paired styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)",
     "The corrected floating Stores button passed the gallery Pause and purchase-control checks. It entered protected review at 15:19 UTC. The first automated review ended without a verdict. The chair paused the shared failing seat. A completed review and protected checks are still required before draft installation. The next attempt stopped before dispatch. Its original review can retry from 16:59 UTC.",
     "The small-iPhone workflow finished with seven untested checks. Safari’s Connection Security Details obscured the shopper page. The chair assigned both source fixes to the original writer after the higher-priority teams release a seat.",
     "The catalogue Options drawer gave feedback in 19–31 ms at 380 px and 18–46 ms at 1280 px. All four narrow interactions stayed within the frame budget. At desktop width, the second open and close exceeded 50 ms. The close included a 57.4 ms frame.",
@@ -384,8 +384,16 @@
         "text": "Reproduce the styling-test merge conflict and return both edits to the original writer (16:31Z–16:38Z, took 7 min)."
       },
       {
+        "complete": true,
+        "text": "Resolve both edits in the styling-test fixture and verify the repaired source on GitHub (16:42Z–16:51Z, took 9 min)."
+      },
+      {
         "complete": false,
-        "text": "Run the protected signed-shopper journey after the styling test passes review and merges (waiting on the original fixture repair since 16:31Z)."
+        "text": "Check the signed TEST tee and its natural looks request using the repaired test (est. 2 min once the original runner starts)."
+      },
+      {
+        "complete": false,
+        "text": "Run the full paired styling journey after its test passes review and merges (timing depends on protected checks)."
       },
       {
         "complete": true,
