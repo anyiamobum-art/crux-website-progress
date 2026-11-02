@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair and Hands cleared the repaired floating Stores button for its second code review. The review desk is waiting for a CI slot.",
+  "workerState": "The floating Stores repair is cleared for a second code review. The release desk finished its previous batch. Its restart request is open, and the repair is still waiting for a review slot.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "The iPhone test must keep the correct draft open in Safari, clear its menus and verify 200% zoom. The desktop Options drawer also needs its timing repair.",
   "current": "The signed shopper test passed all eight checks on the unpublished TEST tee. Its request for matching looks reached the right shop and returned HTTP 200.",
   "next": "Check what the shopper actually sees. A tee with matching looks should display them. A tee with no matches should leave no empty rail. The original team will add this screen check after the styling test merges.",
-  "updated": "02 November, 20:05 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "02 November, 20:11 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -296,7 +296,7 @@
     "The floating Stores button yields taps to Grid/Focus at enlarged text sizes. WhatsApp hides when it cannot receive taps. All 1,350 paired-control taps and 267 gallery taps passed in desktop WebKit. The chair and Hands cleared the repair for round 2. [Chair’s size decision](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584086285) · [Hands acceptance](https://github.com/EON-CRUX/3.09/pull/5250#issuecomment-6584126702)",
     "We traced the live-theme result to the preview redirect and verified how to reach the draft on two product pages. Safari itself still needs to show the draft and genuine 200% zoom. All seven device checks remain open.",
     "At 380 px, the Options drawer passed all four interactions. At 1280 px, the second close took 57.4 ms. We traced the animation to the catalogue stylesheet and returned the timing test to its owner.",
-    "The merged sign-in repair passed all eight shopper checks. The looks request reached the TEST shop. Its matching products and on-screen rail can be checked after the repaired styling test merges. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960) · [Styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)"
+    "All eight sign-in checks passed. Order Help now opens the correct TEST account page. The signed order and the on-screen looks rail still need separate checks. [Signed shopper run](https://github.com/EON-CRUX/3.09/actions/runs/41485634960) · [Styling test #5244](https://github.com/EON-CRUX/3.09/pull/5244)"
   ],
   "openDeliveryGates": [
     {
@@ -346,6 +346,10 @@
       {
         "complete": true,
         "text": "Read all seven hosted iPhone results, inspect the screenshots and trace the source redirect (14:45Z–14:50Z, took 5 min)."
+      },
+      {
+        "complete": true,
+        "text": "Confirm the Order Help test opens the correct TEST account page and remove its redundant sign-in step from the checklist (20:03Z–20:09Z, took 6 min)."
       },
       {
         "complete": true,
