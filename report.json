@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Options maintainer started the corrected-source comparison at 08:30 UTC. The original iPhone observation writer has returned a correction; it is held for the authorized workflow review window. The existing combined-design lead has resumed through its parent. No replacement reviewer or repeated capture was created.",
+  "workerState": "The original Options comparison is complete: 5/10 baseline actions passed versus 10/10 at both desktop and phone widths with only the tray blur removed. Its source correction is requested through the same maintainer. The original iPhone repair has returned for its workflow review window. The recovered design coordinator verified its unchanged packet and is correcting its missing queue placement.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified Hands acceptance of the Runway repair. The Options writer resumed measurements after the asset mismatch was resolved. Recovered the unloaded original design coordinator through its parent. The original iPhone repair returned with specific scrolling and zoom-observation corrections.",
+  "lastActualProgress": "Verified Runway’s exact-revision size admission. Consumed the controlled Options comparison and returned the narrow source correction to the original maintainer. Verified the resumed design coordinator’s packet and queue investigation.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Stores tests are queued on busy eligible runners. The iPhone correction requires its exact-source proof and workflow review window. TEST needs its storefront password unlocked in Chrome; the customer-account sign-in does not unlock that separate gate.",
-  "current": "Stores has passed its named-fix review and awaits required test runners. Hands has accepted the Runway repair; its exact-revision size admission and second full review are next. The original Options performance comparison is running. The iPhone observation repair has returned for proof and review. TEST access is still locked.",
-  "next": "Consume the original iPhone correction and Options paired measurement. Complete Runway’s exact-revision admission and second full review. Install Stores after its required tests and protected merge. Qualify TEST routes after the storefront is unlocked.",
-  "updated": "03 November, 08:36 UTC. Native checks 0/7 qualified. Stores approved, not merged. Runway repair accepted, second review pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "current": "Stores has passed its named-fix review and awaits required test runners. Runway has exact-revision acceptance and size admission for its second full review. The Options comparison identified the backdrop blur as the desktop bottleneck; its narrow source fix is with the original maintainer. The iPhone observation repair awaits its authorized review window. TEST access is still locked.",
+  "next": "Review and merge the original Options and iPhone corrections. Complete Runway’s existing second full review. Install Stores after its required tests and protected merge. Qualify TEST routes after the storefront is unlocked.",
+  "updated": "03 November, 08:39 UTC. Native checks 0/7 qualified. Stores approved, not merged. Runway admitted, second review pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,10 +292,10 @@
     }
   ],
   "recentChanges": [
-    "**Runway repair accepted:** Hands verified the repaired revision and its passing proof at 08:28 UTC. The chair’s exact-revision size admission and existing second full review remain. The visual design is unchanged.",
+    "**Runway repair accepted:** Hands verified the repaired revision and its passing proof at 08:28 UTC. The chair’s exact-revision size admission is now verified; its existing second full review is next. The visual design is unchanged.",
     "**Stores review passed:** its final named-fix review approved the revision at 07:10 UTC. Five required test groups and one pin job remain queued before protected merge and draft installation.",
     "**iPhone correction returned:** the original writer identified incorrect Safari-menu, zoom-value and scrolling observations in the retained run. The correction now needs its full proof and authorized workflow review; no second capture has been started.",
-    "**Options comparison running:** the original maintainer started at 08:30 UTC after the changed asset was bound to its reviewed installation. The same desktop and phone comparison, asset checks and performance limit remain in force.",
+    "**Options bottleneck isolated:** the same controlled desktop comparison improved from 5/10 to 10/10 passing transitions with only backdrop blur removed. The phone-width variant also passed 10/10. The original maintainer now has the narrow source fix; these box measurements do not claim Safari or native acceptance.",
     "**Original design coordinator resumed:** its unloaded session was recovered through the existing parent. TEST still needs the storefront password unlocked, separately from the completed customer sign-in. The customer-care parent had already recovered its child’s failed tool route; its current release work continues through that same parent."
   ],
   "openDeliveryGates": [
@@ -311,7 +311,7 @@
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. The catalogue drawer passed at 380 px but missed the desktop frame budget at 1280 px. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
+      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. The controlled comparison isolated the catalogue drawer’s desktop backdrop blur: the narrow variant passes at both widths. Its source repair, review, installation and acceptance remain. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
       "next": "Complete each reader’s named evidence, then return the same installed source to those original readers once. Passing requires average 9.5 or higher and no measure below 9; code approvals do not substitute."
     },
     {
@@ -361,7 +361,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the desktop Options motion repair and paired measurement (08:12Z attempt stopped before measurement; current-source rebind authorized 08:24Z; same writer started 08:30Z; next check 09:00Z; duration unknown)."
+        "text": "Complete the desktop Options motion repair (paired comparison 08:33Z–08:35Z, took 2 min: baseline 5/10, both variants 10/10; original narrow source fix requested 08:39Z; next check 09:00Z)."
       },
       {
         "complete": true,
@@ -369,7 +369,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Runway’s fresh exact-revision admission and second full review (requested 08:24Z; Hands accepted 08:28Z; size admission pending; next check 09:00Z; review duration unknown)."
+        "text": "Complete Runway’s second full review (Hands accepted 08:28Z; exact-revision size admission verified 08:31Z; original paced review next; next check 09:00Z; review duration unknown)."
       },
       {
         "complete": false,
