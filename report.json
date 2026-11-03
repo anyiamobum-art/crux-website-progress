@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Adopted the original Bridge’s successful same-tab browser read and identified the actual TEST password gate. No endpoint request, credential entry or settings submission occurred. Verified all three TEST pin-proof groups passed. The original iPhone repair is still on its prior revision; its actual queue placement has been requested through Hands, without a second writer.",
+  "lastActualProgress": "Hands confirmed the original iPhone test writer started both named repairs on the remote worker. Its instructions require real 200% zoom, the shop visible with 2XL selected, and proof that Safari serves the unpublished theme. The repair has no passing result or new submitted revision yet.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST storefront password gate remains. The earlier browser-control failure is historical, not the current blanket blocker. Stores is waiting under the review-capacity limit; the iPhone source correction is queued with its original writer, with native allocation separate.",
-  "current": "Browser control is restored on the same TEST tab. The original Bridge found the storefront password screen with an empty input. Storefront access and the three route checks remain open; Hands retains custody. Stores remains queued for final protected review.",
-  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:20 UTC or earlier result. Stores review remains independent.",
-  "updated": "03 November, 02:05 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "remaining": "The TEST storefront password gate remains. The earlier browser-control failure is historical, not the current blanket blocker. Stores is waiting under the review-capacity limit; the iPhone source correction is running with its original writer, with native allocation separate.",
+  "current": "The original iPhone-check writer started the two named source repairs at 02:13:54 UTC. Stores awaits its last code review. TEST browser control works, but storefront password access and the three route checks remain open.",
+  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:45 UTC or earlier result. Stores review remains independent.",
+  "updated": "03 November, 02:19 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -365,11 +365,11 @@
       },
       {
         "complete": false,
-        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:20Z). Install only after qualification (est. 5 min)."
+        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:45Z). Install only after qualification (est. 5 min)."
       },
       {
         "complete": false,
-        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 02:20Z; review duration unknown)."
+        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 02:45Z; review duration unknown)."
       },
       {
         "complete": true,
@@ -409,7 +409,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 02:20Z or returned review)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 02:45Z or returned review)."
       },
       {
         "complete": true,
@@ -444,8 +444,12 @@
         "text": "Verify the redirect on the exact iPhone test product and the 404 Tee. Shopify served the unpublished theme and the existing size-guide controls on both (19:58Z–20:03Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Start the two original iPhone test-source repairs (Hands confirmed start 02:13:54Z; same writer, remote worker)."
+      },
+      {
         "complete": false,
-        "text": "Verify Safari has returned to the product page on the correct unpublished theme, then check genuine 200% zoom. The original writer is next at the assigned priority after the shared seats clear. Next action when Hands places the two original source fixes after the higher-priority writers clear."
+        "text": "Consume the repaired iPhone test source, its focused proof and Hands’ accepted revision, then run the seven checks under the original allocation (repair running since 02:13:54Z; next result check 02:45Z; duration unknown)."
       },
       {
         "complete": true,
@@ -501,7 +505,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; four test groups queued, all three pins passed; next owner check 02:20Z)."
+        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; four test groups queued, all three pins passed; next owner check 02:45Z)."
       },
       {
         "complete": false,
@@ -976,7 +980,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: browser control is restored; TEST storefront access and the original three reads remain with Hands, next owner check 02:20 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
+    "landing": "Lands: browser control is restored; TEST storefront access and the original three reads remain with Hands, next owner check 02:45 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
