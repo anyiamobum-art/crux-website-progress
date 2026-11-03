@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The two TEST policies were written and separately read back. Four TEST settings were prepared with a full theme preimage and a one-submission guard. A factory-workbook photo now has an exact catalogue product and M/L variant candidate for visual qualification.",
+  "lastActualProgress": "One source-backed product-to-chart binding was committed and read back. Only four binding fields changed; all measurements and the other 134 rows remained unchanged. The original checkout reader resolved all four sizes without missing fields. Its public route requires an active, published product, so this draft garment is not an eligible positive shopper test. No product was published.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Stores is still Draft under the shared review-cap limit; its exact-head acceptance and queue exception are retained. The iPhone source repair is queued with its original writer. TEST paths remain password-gated for anonymous reads; the scoped contact-permission repair remains separate.",
-  "current": "The TEST policies are saved and read back. The Delivery and total switch is prepared; Hands will verify the three signed TEST paths at 00:45–00:55 UTC before it is enabled.",
-  "next": "Consume the signed-path result and apply only the four TEST settings if it qualifies. In parallel, consume the original Stores final review, verify the TEST repair’s new checks, and finish the size-guide product binding.",
-  "updated": "03 November, 00:12 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "The first factory size guide is linked to its verified product: four sizes and all 24 measurements checked. The TEST policies are saved; Hands has the signed-path check allocated for 00:45–00:55 UTC.",
+  "next": "Consume the signed-path result and apply only the four TEST settings if it qualifies. In parallel, consume the original Stores final review, verify the TEST repair’s new checks, and resolve the newly linked size guide’s test-product eligibility through its original owner.",
+  "updated": "03 November, 00:27 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -295,7 +295,7 @@
     "The two TEST checkout policies are saved and read back against the verified shopper. This completes their configuration, not the checkout journey.",
     "The unpublished TEST theme has a saved preimage and a prepared four-setting Delivery and total change. No theme settings have been written. Hands has one signed-in path check allocated for 00:45–00:55 UTC.",
     "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. Fresh tests are queued; the earlier head’s green tests are not counted for the new head.",
-    "The size-guide workbook’s embedded garment photo was recovered. A read-only catalogue lookup found the matching black style candidate with exact M/L variant IDs; visual applicability is being qualified without publishing the draft product.",
+    "The factory size-guide photo, production references and exact catalogue image now establish one product binding. Four size rows were linked and read back; all 24 measurements match the workbook. The original checkout reader confirms the chart is complete; the draft product fails the public route’s publication requirement. An eligible test product is still needed. No product was published.",
     "Stores remains on its accepted final-repair revision. Its pin proof passes; the shared review cap still holds Ready. The website stays unpublished."
   ],
   "openDeliveryGates": [
@@ -336,8 +336,16 @@
         "text": "Confirm the original TEST conflict repair is pushed and its new checks are queued (00:07Z–00:11Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Match the factory-guide image to the exact catalogue product and variants, bind its four sizes, and verify the unchanged measurements (00:12Z–00:22Z, took 10 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the bound size guide through its original reader and check public-route eligibility (00:22Z–00:24Z, took 2 min; internal lookup passes, draft product is ineligible)."
+      },
+      {
         "complete": false,
-        "text": "Match the factory-guide image to exact catalogue product and variant identities (started 00:12Z, est. 15 min)."
+        "text": "Resolve the original size-guide test-product choice without publishing a product (waiting since 00:24Z; original source owner; next check 00:55Z)."
       },
       {
         "complete": false,
@@ -385,7 +393,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check 00:10Z or returned review)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check about 01:05Z or returned review)."
       },
       {
         "complete": true,
