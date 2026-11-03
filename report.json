@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Helper #5332 has two test groups running, three queued and its pin check queued. The native observation repair #5323 retains its paced review position. The original viewport-test correction is now Draft #5342; its stated sparse-sample pass behavior conflicts with the retained unmeasured boundary, so the existing coordinator has returned that discrepancy through the original review route. No replacement writer or test rerun was started.",
+  "workerState": "Helper #5332’s two started test groups were cancelled at 20:01 and 20:04 UTC. GitHub confirms the first exceeded its 45-minute limit; neither returned a test verdict, and their artifact uploads failed. Three other test groups remain queued. The changed failure is with the original release desk for exact-revision recovery. The native observation repair #5323 and shared-header/store repairs retain their existing owners. No replacement writer, new review or root rerun was started.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "Stores #5250 still depends on helper #5332 and the original route-test repair. TEST admin is currently showing connection verification through Chrome, followed by a page-inspection timeout. The earlier TEST storefront-password result and expired contact grant remain separate; no settings change or repeat endpoint request was made.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
   "next": "Consume helper #5332’s protected CI result before resuming Stores #5250. The combined shopper repair evidence is complete and returned to its original review coordination. Resolve the remaining shared-header/store findings through their existing owners; continue TEST and iPhone checks when their specific prerequisites clear.",
-  "updated": "04 November, 04:00 Shanghai / 03 November, 20:00 UTC. Two original helper test groups are still running, three groups and the pin are queued. Stores and the native observation repair retain their protected Drafts. No new merge or acceptance pass.",
+  "updated": "04 November, 04:08 Shanghai / 03 November, 20:08 UTC. Public checklist revision 0d7a6de deployed successfully and both hosted files match. The newly observed CI timeout is recorded separately from the completed Runway and Options draft installations; no new merge or acceptance pass.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -369,7 +369,7 @@
       },
       {
         "complete": false,
-        "text": "Finish helper #5332 through protected CI, then resume approved Stores #5250 (two helper test groups running since 19:15Z/19:18Z; next check 20:30Z or result)."
+        "text": "Recover helper #5332’s cancelled required checks through the original release desk, then resume approved Stores #5250 (two groups cancelled at 20:01Z/20:04Z; three queued; next check 20:30Z or recovery result)."
       },
       {
         "complete": false,
