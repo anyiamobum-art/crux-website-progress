@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "One source-backed product-to-chart binding was committed and read back. Only four binding fields changed; all measurements and the other 134 rows remained unchanged. The original checkout reader resolved all four sizes without missing fields. Its public route requires an active, published product, so this draft garment is not an eligible positive shopper test. No product was published.",
+  "lastActualProgress": "Read the complete active catalogue and factory SKU group. All 119 factory products are still drafts; none can serve as a published positive test. The original source owner has the evidence and will resolve that test prerequisite. No product was published or newly bound.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Stores is still Draft under the shared review-cap limit; its exact-head acceptance and queue exception are retained. The iPhone source repair is queued with its original writer. TEST paths remain password-gated for anonymous reads; the scoped contact-permission repair remains separate.",
-  "current": "The first factory size guide is linked to its verified product: four sizes and all 24 measurements checked. The TEST policies are saved; Hands has the signed-path check allocated for 00:45–00:55 UTC.",
+  "current": "The original size-guide reader passes, but its product is unpublished. The completed catalogue search found no eligible source-backed replacement. Hands has the TEST path check allocated for 00:45–00:55 UTC; the Stores final review remains in the protected queue.",
   "next": "Consume the signed-path result and apply only the four TEST settings if it qualifies. In parallel, consume the original Stores final review, verify the TEST repair’s new checks, and resolve the newly linked size guide’s test-product eligibility through its original owner.",
-  "updated": "03 November, 00:27 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "updated": "03 November, 00:35 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
-    "The two TEST checkout policies are saved and read back against the verified shopper. This completes their configuration, not the checkout journey.",
-    "The unpublished TEST theme has a saved preimage and a prepared four-setting Delivery and total change. No theme settings have been written. Hands has one signed-in path check allocated for 00:45–00:55 UTC.",
-    "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. Fresh tests are queued; the earlier head’s green tests are not counted for the new head.",
-    "The factory size-guide photo, production references and exact catalogue image now establish one product binding. Four size rows were linked and read back; all 24 measurements match the workbook. The original checkout reader confirms the chart is complete; the draft product fails the public route’s publication requirement. An eligible test product is still needed. No product was published.",
-    "Stores remains on its accepted final-repair revision. Its pin proof passes; the shared review cap still holds Ready. The website stays unpublished."
+    "The factory guide is bound to its verified garment: four sizes and 24 measurements. The original reader passes. The complete source search found that all 119 factory products remain unpublished drafts, so no eligible positive shopper test is established. The original owner accepted that source constraint; no product was published.",
+    "Both TEST checkout policies are saved and read back against the verified shopper. This completes configuration, not the checkout journey.",
+    "The unpublished TEST theme has a saved preimage and a prepared four-setting change. Hands has one signed-path check allocated for 00:45–00:55 UTC; installation remains conditional on that result.",
+    "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. Fresh test groups are queued and pin proofs are running. Earlier-head results are not counted for this head.",
+    "Stores remains on its accepted final-repair revision. Pin proof passes; the shared review cap still holds Ready. The website stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -344,8 +344,16 @@
         "text": "Verify the bound size guide through its original reader and check public-route eligibility (00:22Z–00:24Z, took 2 min; internal lookup passes, draft product is ineligible)."
       },
       {
+        "complete": true,
+        "text": "Complete the active catalogue and factory-source census without publishing or binding another product (00:28Z–00:34Z, took 6 min; no eligible factory product)."
+      },
+      {
+        "complete": true,
+        "text": "Return the no-eligible-source result and receive the original acceptance owner’s disposition (00:34Z–00:35Z, took 1 min)."
+      },
+      {
         "complete": false,
-        "text": "Resolve the original size-guide test-product choice without publishing a product (waiting since 00:24Z; original source owner; next check 00:55Z)."
+        "text": "Qualify the size-guide positive shopper test when an approved chart exists for an already-published product with two sizes (source prerequisite; no further census or publication requested)."
       },
       {
         "complete": false,
@@ -485,7 +493,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the original TEST holder’s main-merge repair and its fresh protected checks (waiting on the holder through Hands since 23:39Z; next check 00:10Z)."
+        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; new tests queued, pins running; next check 01:05Z)."
       },
       {
         "complete": false,
