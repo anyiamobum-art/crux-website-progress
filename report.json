@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Stores helper #5332 has one test group running, two queued and two earlier timeouts; the release desk owns the permitted recovery. The TEST access repair remains with its original Ask/Hands owner. Hands found that the two shared-component design fixes had no actual writer placement; the concrete brief has now been delivered, with original-writer identity resolution still owed.",
+  "workerState": "The original TEST access writer is running; Hands verified its start at 21:30 UTC. Stores helper #5332 has one test group running, two queued and two earlier timeouts. A separate shared CI dependency fault is now diagnosed. The concrete Near me and Add to bag repair brief is acknowledged and with Hands for its original-author binding.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original shopper run executed at 21:22–21:23 UTC after the settings and grant passed. It returned a concrete storefront-access failure, which has been routed into the original repair. Settings and grant remain verified; no live publication.",
+  "lastActualProgress": "The concrete two-fix brief was delivered and acknowledged at 21:42–21:44 UTC. Hands then confirmed the existing TEST access writer is running. The public dashboard update passed its Pages build and exact hosted readback at 21:47 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "The TEST run reached the storefront password page; the saved access had expired and the guest session was unset. Checkout was not exercised. Stores #5250 awaits helper #5332; iPhone checks and final named-fix evidence remain open.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
   "next": "Complete the original TEST access repair and the two remaining shared-component design fixes. The concrete repair brief is now with Hands, including exact findings and original author history. Continue the Stores and iPhone protected review lanes; repeat the shopper journey only after reviewed access is ready.",
-  "updated": "03 November, 21:44 UTC / 04 November, 05:44 Shanghai. Exact protected heads and the original test queue rechecked; one Stores helper group started at 21:41 UTC. No final acceptance or rating credit added.",
+  "updated": "03 November, 21:53 UTC / 04 November, 05:53 Shanghai. Original TEST writer start and shared CI diagnosis consumed. No shopper, iPhone or final-rating pass inferred.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -393,7 +393,7 @@
       },
       {
         "complete": false,
-        "text": "Recover TEST access through the original protected repair and existing credential handoff (waiting since 21:23Z; next check 22:00Z or original result)."
+        "text": "Complete the running original TEST access repair, then its protected review and existing credential handoff (started 21:30Z; duration unknown; next check 22:00Z or original result)."
       },
       {
         "complete": false,
