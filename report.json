@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The TEST repair on 0cd8c161 has two of three pin-proof groups and one of five test groups passed. The last pin group is running and four test groups are queued. Stores stays frozen at 44e66934 for the final named-fix review.",
+  "workerState": "The TEST repair on 0cd8c161 has all three pin-proof groups and one of five test groups passed. Four test groups remain queued. Stores stays frozen at 44e66934 for the final named-fix review.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Adopted the original Bridge’s successful same-tab browser read and identified the actual TEST password gate. No endpoint request, credential entry or settings submission occurred. Verified the last TEST pin-proof group started.",
+  "lastActualProgress": "Adopted the original Bridge’s successful same-tab browser read and identified the actual TEST password gate. No endpoint request, credential entry or settings submission occurred. Verified all three TEST pin-proof groups passed. The original iPhone repair is still on its prior revision; its actual queue placement has been requested through Hands, without a second writer.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -142,8 +142,8 @@
   ],
   "remaining": "The TEST storefront password gate remains. The earlier browser-control failure is historical, not the current blanket blocker. Stores is waiting under the review-capacity limit; the iPhone source correction is queued with its original writer, with native allocation separate.",
   "current": "Browser control is restored on the same TEST tab. The original Bridge found the storefront password screen with an empty input. Storefront access and the three route checks remain open; Hands retains custody. Stores remains queued for final protected review.",
-  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:05 UTC or earlier result. Stores review remains independent.",
-  "updated": "03 November, 02:00 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:20 UTC or earlier result. Stores review remains independent.",
+  "updated": "03 November, 02:05 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -295,7 +295,7 @@
     "The factory guide is bound to its verified garment: four sizes and 24 measurements. The original reader passes. The complete source search found that all 119 factory products remain unpublished drafts, so no eligible positive shopper test is established. The original owner accepted that source constraint; no product was published.",
     "Both TEST checkout policies are saved and read back against the verified shopper. This completes configuration, not the checkout journey.",
     "The unpublished TEST theme has a saved preimage and a prepared four-setting change. Hands confirmed the 00:45–00:55 UTC window had no executor. The later 01:25 attempt returned a browser-control failure at 01:29 before any of the three endpoint GETs. Nothing was installed.",
-    "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. One pin group passes; two pin groups and five test groups are queued. Earlier-head results are not counted for this head.",
+    "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. All three pin groups and one of five test groups pass; four test groups remain queued. Earlier-head results are not counted for this head.",
     "Stores remains on its accepted final-repair revision. Pin proof passes; the shared review cap still holds Ready. The website stays unpublished."
   ],
   "openDeliveryGates": [
@@ -365,11 +365,11 @@
       },
       {
         "complete": false,
-        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:05Z). Install only after qualification (est. 5 min)."
+        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:20Z). Install only after qualification (est. 5 min)."
       },
       {
         "complete": false,
-        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 02:05Z; review duration unknown)."
+        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 02:20Z; review duration unknown)."
       },
       {
         "complete": true,
@@ -409,7 +409,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 02:05Z or returned review)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 02:20Z or returned review)."
       },
       {
         "complete": true,
@@ -501,7 +501,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; new tests queued, pins running; next owner check 02:05Z)."
+        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; four test groups queued, all three pins passed; next owner check 02:20Z)."
       },
       {
         "complete": false,
@@ -976,7 +976,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: browser control is restored; TEST storefront access and the original three reads remain with Hands, next owner check 02:05 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
+    "landing": "Lands: browser control is restored; TEST storefront access and the original three reads remain with Hands, next owner check 02:20 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
