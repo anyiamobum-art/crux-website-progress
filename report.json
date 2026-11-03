@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Options comparison is complete: 5/10 baseline actions passed versus 10/10 at both desktop and phone widths with only the tray blur removed. Its source correction is requested through the same maintainer. The original iPhone repair has returned for its workflow review window. The recovered design coordinator verified its unchanged packet and is correcting its missing queue placement.",
+  "workerState": "The original Options source repair is running. Its controlled comparison passed 10/10 transitions at both widths after removing only tray backdrop blur. The original iPhone correction is published for protected review. The recovered combined-design coordinator corrected an obsolete Argon credit hold; actual reader allocation is still pending.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified Runway’s exact-revision size admission. Consumed the controlled Options comparison and returned the narrow source correction to the original maintainer. Verified the resumed design coordinator’s packet and queue investigation.",
+  "lastActualProgress": "Verified the exact source and acceptance for iPhone correction #5323. Confirmed the Options repair started. Challenged the stale Stores queue warning using the newer successful admission and current queued jobs. Corrected the combined-review route without starting a duplicate review.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,14 +140,18 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores tests are queued on busy eligible runners. The iPhone correction requires its exact-source proof and workflow review window. TEST needs its storefront password unlocked in Chrome; the customer-account sign-in does not unlock that separate gate.",
-  "current": "Stores has passed its named-fix review and awaits required test runners. Runway has exact-revision acceptance and size admission for its second full review. The Options comparison identified the backdrop blur as the desktop bottleneck; its narrow source fix is with the original maintainer. The iPhone observation repair awaits its authorized review window. TEST access is still locked.",
+  "remaining": "Stores tests are queued; an old Draft failure was incorrectly flagged as current and the evidence has been sent to the chair. The iPhone correction needs its protected review and merge. TEST needs its storefront password unlocked in Chrome; the customer-account sign-in does not unlock that separate gate.",
+  "current": "Stores has passed its named-fix review and awaits required test runners. Runway is admitted for its second full review. The Options performance correction started with its original maintainer at 08:42 UTC. The iPhone observation correction is open as #5323 and accepted by Hands; its review scheduling is being reconciled. TEST access is still locked.",
   "next": "Review and merge the original Options and iPhone corrections. Complete Runway’s existing second full review. Install Stores after its required tests and protected merge. Qualify TEST routes after the storefront is unlocked.",
-  "updated": "03 November, 08:39 UTC. Native checks 0/7 qualified. Stores approved, not merged. Runway admitted, second review pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "updated": "03 November, 08:48 UTC. Native checks 0/7 qualified. Stores approved, not merged. Runway admitted, second review pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
       "path": "https://github.com/EON-CRUX/3.09/pull/5288"
+    },
+    {
+      "title": "iPhone observation repair #5323",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5323"
     },
     {
       "title": "iPhone test repair #5275",
@@ -172,10 +176,6 @@
     {
       "title": "TEST privacy-preservation repair #5115",
       "path": "https://github.com/EON-CRUX/3.09/pull/5115"
-    },
-    {
-      "title": "Homepage text-size correction #5109",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5109"
     }
   ],
   "source": "Published projection of the original task report",
@@ -294,8 +294,8 @@
   "recentChanges": [
     "**Runway repair accepted:** Hands verified the repaired revision and its passing proof at 08:28 UTC. The chair’s exact-revision size admission is now verified; its existing second full review is next. The visual design is unchanged.",
     "**Stores review passed:** its final named-fix review approved the revision at 07:10 UTC. Five required test groups and one pin job remain queued before protected merge and draft installation.",
-    "**iPhone correction returned:** the original writer identified incorrect Safari-menu, zoom-value and scrolling observations in the retained run. The correction now needs its full proof and authorized workflow review; no second capture has been started.",
-    "**Options bottleneck isolated:** the same controlled desktop comparison improved from 5/10 to 10/10 passing transitions with only backdrop blur removed. The phone-width variant also passed 10/10. The original maintainer now has the narrow source fix; these box measurements do not claim Safari or native acceptance.",
+    "**iPhone correction published:** [#5323](https://github.com/EON-CRUX/3.09/pull/5323) fixes Safari-menu, zoom-value, scrolling and Draft-badge observations using the retained run. Hands accepted its exact revision at 08:40 UTC. Protected review and merge still precede another device run.",
+    "**Options bottleneck isolated:** the same controlled desktop comparison improved from 5/10 to 10/10 passing transitions with only backdrop blur removed. The phone-width variant also passed 10/10. The original maintainer started the narrow source fix at 08:42 UTC; these box measurements do not claim Safari or native acceptance.",
     "**Original design coordinator resumed:** its unloaded session was recovered through the existing parent. TEST still needs the storefront password unlocked, separately from the completed customer sign-in. The customer-care parent had already recovered its child’s failed tool route; its current release work continues through that same parent."
   ],
   "openDeliveryGates": [
@@ -357,11 +357,11 @@
       },
       {
         "complete": false,
-        "text": "Complete the original seven iPhone checks on the unpublished draft (08:00Z–08:08Z run finished; 0/7 qualified; original observation repair returned at 08:33Z; proof and authorized review window next; next check 09:00Z)."
+        "text": "Complete the original seven iPhone checks on the unpublished draft (08:00Z–08:08Z run finished; 0/7 qualified; original observation repair #5323 accepted 08:40Z; protected review and merge next; next check 09:00Z)."
       },
       {
         "complete": false,
-        "text": "Complete the desktop Options motion repair (paired comparison 08:33Z–08:35Z, took 2 min: baseline 5/10, both variants 10/10; original narrow source fix requested 08:39Z; next check 09:00Z)."
+        "text": "Complete the desktop Options motion repair (paired comparison 08:33Z–08:35Z, took 2 min: baseline 5/10, both variants 10/10; original narrow source fix started 08:42Z; next check 09:00Z)."
       },
       {
         "complete": true,
