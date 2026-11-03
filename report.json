@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "iPhone source #5275 passed both reviews and merged as f68c8eac. All five reviewed changes are verified in the merge. The original Hands keeper has the changed-source handback. Stores #5250 test groups remain queued. Rail #5318 remains in the original protected release order.",
+  "workerState": "The original Runway designer confirmed the rejected source, reproduced the test gap and began the named correction through its existing handle. The merged iPhone source reached the original Hands keeper through Bridge. Stores tests and the rail release remain queued.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Merged the approved iPhone source through the normal protected path and verified its five reviewed changes. Returned the merged source to the original device keeper. Stores review is approved; TEST access and rail acceptance remain open.",
+  "lastActualProgress": "Merged and content-verified iPhone repair #5275; verified the public checklist bytes; consumed Runway first-review result and returned its single named test gap to the original designer.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores protected tests are queued. The iPhone source-review blocker is cleared; its original device allocation is next. TEST needs an authorized unlocked original storefront session and a fresh fixed browser window.",
-  "current": "The iPhone source repair passed both independent code reviews and is merged. Its original seven device checks are next. The Stores repair has passed review and is waiting for its queued required tests. TEST still needs an authorized unlocked storefront session.",
-  "next": "Run the original iPhone checks using the verified merged source. Consume Stores test results and install its five files after protected merge. After TEST access and a fresh browser window are available, qualify its routes and apply the guarded settings once.",
-  "updated": "03 November, 15:49 China time (07:49 UTC). iPhone source merged; device checks 0/7 exercised. Stores approved, not merged. Styling journeys 2/2 pass. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "remaining": "Stores required tests are queued. Runway needs one actual-theme rendering regression and source pin; its design is unchanged. iPhone checks need their original device allocation. TEST needs an authorized unlocked original storefront session.",
+  "current": "The iPhone source repair is merged and returned to its original device tester. Stores has passed review and awaits queued required tests. The original Runway designer is resuming one rendering-test gap from its first protected review. TEST access is still locked.",
+  "next": "Complete the named Runway test repair and second protected review. Consume Stores test results and install after merge. Execute the original iPhone allocation. After TEST access returns, qualify its routes before applying guarded settings.",
+  "updated": "03 November, 07:55 UTC. iPhone source merged; device checks 0/7 exercised. Stores approved, not merged. Runway named test repair pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
+    "**Runway review acted on:** the first protected read found one missing regression for the actual homepage variant switch. The original designer has started that named test repair; the visual design is unchanged. Its next review is the second full read.",
     "**Styling accepted:** both original browser journeys passed: C04 8/8 and C05 9/9. Their original acceptance owner verified the receipts. No repeat is needed.",
     "**Stores review passed:** the final named-fix check approved the repaired revision at 07:10 UTC with no remaining findings. Seven focused checks pass. Required protected test groups remain queued before merge and draft installation.",
     "**iPhone source merged:** both independent code approvals and all required checks passed. The normal protected merge is f68c8eac; all five reviewed changes are verified. The original seven device checks remain outstanding.",
-    "**TEST prerequisite cleared, access checked:** all three committed declarations are verified. The allocated browser run reached the storefront password screen on all three prepared paths. No settings were changed. The original rail follow-up is now built and accepted as #5318; protected review and the actual rail check remain.",
-    "**Checklist clarified:** the current plan now lists the remaining actions and dependencies. Earlier execution records are retained. Delivery remains 6/11 and final 9.5 passes remain 0/3 because no additional whole acceptance gate has passed."
+    "**TEST prerequisite cleared, access checked:** all three committed declarations are verified. The allocated browser run reached the storefront password screen on all three prepared paths. No settings were changed. The original rail follow-up is now built and accepted as #5318; protected review and the actual rail check remain."
   ],
   "openDeliveryGates": [
     {
@@ -365,7 +365,7 @@
       },
       {
         "complete": false,
-        "text": "Finish the retained Runway release and original component reviews (existing release and reader queues; no replacement reviewer or additional full round)."
+        "text": "Repair the actual Runway homepage-switch test and return to protected review (original designer resumed 07:55Z, est. 25 min for the named test/pin repair; then second full review in the existing queue)."
       },
       {
         "complete": false,
