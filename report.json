@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Hands started the original seven-row iPhone run at 08:00 UTC on merged f68c8eac; its XCUITest step is running. The original Runway designer is correcting and proving the actual-source regression. Stores tests and the rail release remain queued.",
+  "workerState": "The original iPhone run is terminal; no replacement capture is running. The original Runway designer has five passing behavior tests and is checking its corrected mutation manifest. The original iPhone writer disposition is with Hands. Stores tests remain queued. The original catalogue maintainer started its paired motion measurement at 08:09 UTC.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the original post-merge iPhone run had actually started. The Runway named test correction is committed, with no product-design change; the original designer is consuming its remote results. The existing desktop drawer repair request was returned to its original keeper.",
+  "lastActualProgress": "Inspected and verified all 27 retained iPhone artifact hashes, identified the observation discrepancies and returned them once through the original keeper. Runway’s five behavior tests pass; the remaining pin check is running on its corrected source.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "All eligible Stores test runners are busy. Runway’s new test needs its remote proof to pass. The iPhone run is active, not waiting for allocation. TEST still needs an authorized unlocked original storefront session.",
-  "current": "The original small-iPhone run is executing against the merged repair. Stores has passed review and awaits busy test runners. The original Runway designer is proving its named rendering-test correction. TEST access is still locked.",
-  "next": "Consume the original iPhone result and Runway test proof. Return the one Runway correction to protected review. Install Stores after its tests pass and it merges. Qualify TEST routes only after authorized storefront access returns.",
-  "updated": "03 November, 08:08 UTC. iPhone checks running, accepted result pending. Stores approved, not merged. Runway test proof in progress. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "remaining": "Stores tests are queued on busy eligible runners. The iPhone screenshots show the correct draft, but the test missed its badge and could not measure 200% zoom. TEST still needs an authorized unlocked original storefront session.",
+  "current": "The iPhone run finished with seven checks unqualified: its page observations need correction. Stores has passed its named-fix review and awaits busy test runners. The original Runway designer is finishing the rendering-test proof. TEST access is still locked.",
+  "next": "Consume the original Runway test result and return its one correction to protected review. Route the retained iPhone observation failures to the original writer. Install Stores after its required tests and protected merge. Qualify TEST routes after authorized access returns.",
+  "updated": "03 November, 08:15 UTC. Native checks 0/7 qualified. Stores approved, not merged. Runway behavior tests pass; pin proof pending. TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -295,7 +295,7 @@
     "**Runway review acted on:** the first protected read found one missing regression for the actual homepage variant switch. The original designer has started that named test repair; the visual design is unchanged. Its next review is the second full read.",
     "**Styling accepted:** both original browser journeys passed: C04 8/8 and C05 9/9. Their original acceptance owner verified the receipts. No repeat is needed.",
     "**Stores review passed:** the final named-fix check approved the repaired revision at 07:10 UTC with no remaining findings. Seven focused checks pass. Required protected test groups remain queued before merge and draft installation.",
-    "**iPhone source merged:** both independent code approvals and all required checks passed. The normal protected merge is f68c8eac; all five reviewed changes are verified. The original seven-check run started at 08:00 UTC on that merged version; no result is claimed yet.",
+    "**iPhone source merged:** both independent code approvals and all required checks passed. The normal protected merge is f68c8eac; all five reviewed changes are verified. The original seven-check run finished without qualifying the checks. Its retained screenshots reveal a missed draft badge; numeric zoom remains unmeasured. The original writer has those exact observation findings.",
     "**TEST prerequisite cleared, access checked:** all three committed declarations are verified. The allocated browser run reached the storefront password screen on all three prepared paths. No settings were changed. The original rail follow-up is now built and accepted as #5318; protected review and the actual rail check remain."
   ],
   "openDeliveryGates": [
@@ -337,7 +337,7 @@
       },
       {
         "complete": false,
-        "text": "Complete #5250’s protected tests, final named-fix check and merge (Ready 07:00Z; named-fix approval 07:10Z; five test groups queued; next check 08:10Z or original result)."
+        "text": "Complete #5250’s protected tests, final named-fix check and merge (Ready 07:00Z; named-fix approval 07:10Z; five test groups queued; next check 08:40Z or original result)."
       },
       {
         "complete": false,
@@ -345,7 +345,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; three route checks 06:45Z–06:46Z, took 1 min, all reached storefront password). Waiting on authorized access; next check 08:10Z. Settings take an estimated 5 min after qualification."
+        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; three route checks 06:45Z–06:46Z, took 1 min, all reached storefront password). Waiting on authorized access; next check 08:40Z. Settings take an estimated 5 min after qualification."
       },
       {
         "complete": false,
@@ -357,11 +357,11 @@
       },
       {
         "complete": false,
-        "text": "Complete the original seven iPhone checks on the unpublished draft (started 08:00Z on merged f68c8eac; current XCUITest step running; next check 08:10Z or its result, duration unknown)."
+        "text": "Complete the original seven iPhone checks on the unpublished draft (08:00Z–08:08Z run finished; 0/7 qualified; original observation-repair disposition pending, next check 08:40Z)."
       },
       {
         "complete": false,
-        "text": "Complete the desktop Options motion repair and paired measurement (original handoff reconciled 08:03Z; first wait remains 02 November 14:34Z; original keeper’s placement/result due 08:30Z; execution estimate unknown)."
+        "text": "Complete the desktop Options motion repair and paired measurement (original maintainer started 08:09Z; paired desktop measurement and 380px recheck running; next result check 08:30Z; duration unknown)."
       },
       {
         "complete": false,
@@ -380,7 +380,7 @@
         "text": "Verify the exact final unpublished theme version and deliver the draft handover (est. 10 min after all required acceptance gates pass)."
       }
     ],
-    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Next queue and access check is 08:10 UTC or the original result. The final delivery time remains unknown until TEST access, the running device checks and the required reviews return."
+    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Runway proof is due from the original running job; next release and access check is 08:40 UTC or its result. Final delivery time remains unknown until TEST access, reliable iPhone measurements and required reviews return."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
