@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original TEST repair on 0cd8c161 has two of three pin-proof groups and one of five test groups passed; the rest are queued. Stores is frozen at 44e66934 for the final named-fix review. The same original Hands custodian owns browser recovery.",
+  "workerState": "The TEST repair on 0cd8c161 has two of three pin-proof groups and one of five test groups passed. The last pin group is running and four test groups are queued. Stores stays frozen at 44e66934 for the final named-fix review.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Consumed the exact TEST execution failure without treating it as a missing route; confirmed no requests or settings submission occurred. Verified two further CI groups passed on the original TEST repair and checked the retained iPhone writer queue.",
+  "lastActualProgress": "Adopted the original Bridge’s successful same-tab browser read and identified the actual TEST password gate. No endpoint request, credential entry or settings submission occurred. Verified the last TEST pin-proof group started.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Chrome could show the existing TEST account page but navigation and reacquisition timed out. Zero endpoint GETs ran, so route statuses remain unknown. The original iPhone source repair is queued with its existing writer after the 02:00 UTC seat reset; native allocation is separate.",
-  "current": "The original TEST browser attempt returned a control failure before any endpoint request. The missing handoff is resolved; route qualification remains open. Hands is recovering the same browser custody. Stores remains in its final protected-review queue.",
-  "next": "Consume Hands’ recovery and a fresh allocation for the original three TEST reads, then install and verify the four TEST settings only if the response receipt qualifies. Next owner check: 02:05 UTC or an earlier result. Stores review proceeds independently.",
-  "updated": "03 November, 01:38 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "remaining": "The TEST storefront password gate remains. The earlier browser-control failure is historical, not the current blanket blocker. Stores is waiting under the review-capacity limit; the iPhone source correction is queued with its original writer, with native allocation separate.",
+  "current": "Browser control is restored on the same TEST tab. The original Bridge found the storefront password screen with an empty input. Storefront access and the three route checks remain open; Hands retains custody. Stores remains queued for final protected review.",
+  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:05 UTC or earlier result. Stores review remains independent.",
+  "updated": "03 November, 02:00 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -360,8 +360,12 @@
         "text": "Recover the missing TEST handoff (01:13Z–01:36Z, 23 min): original result consumed; zero endpoint requests, browser-control failure. This closes the handoff only."
       },
       {
+        "complete": true,
+        "text": "Confirm same-tab browser control recovered (original Bridge return consumed 01:59Z). The visible TEST password gate is not signed storefront acceptance."
+      },
+      {
         "complete": false,
-        "text": "Recover same browser custody and complete the original three TEST reads (Hands owns the next allocation; next check 02:05Z). Install only after qualification (est. 5 min)."
+        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:05Z). Install only after qualification (est. 5 min)."
       },
       {
         "complete": false,
@@ -972,7 +976,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: TEST execution returned a browser-control failure; same-browser recovery is with Hands, next owner check 02:05 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
+    "landing": "Lands: browser control is restored; TEST storefront access and the original three reads remain with Hands, next owner check 02:05 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
