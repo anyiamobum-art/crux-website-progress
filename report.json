@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original release desk is running; #5275 entered review at 06:48 UTC. The rail writer stopped without edits because its brief lacked the TEST product ID; that ID is now verified and returned through its original keeper. Its continuation is not yet proved.",
+  "workerState": "The Stores repair entered its final named-fix review lane at 07:00 UTC; no extra review round was created. The iPhone source’s first review is executing. The original rail writer returned its accepted source as #5318.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "All three committed TEST declarations qualified. The allocated browser run checked all three paths and released the browser at 06:46 UTC. The desk marked the tested iPhone repair Ready at 06:48 UTC.",
+  "lastActualProgress": "The chair released Stores #5250 for its final named-fix check at 07:00 UTC. The original rail proof follow-up was accepted at 06:58 UTC. The iPhone source is under review; the three TEST endpoint results are recorded and the browser slot is released.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores remains in the paced review queue. TEST routes are stopped by storefront password protection. The iPhone source needs its protected verdict and merge before the seven device checks.",
-  "current": "The iPhone source repair is now Ready for its protected review, with all five test groups and three proof groups passed. All three TEST declarations are verified. The three endpoint checks reached Shopify’s storefront password screen; access remains the blocker.",
-  "next": "Consume the original protected reviews and merge results. Obtain an authorized unlocked TEST session, qualify the same routes, then apply the four guarded TEST settings once. The Stores installation remains prepared for its protected merge.",
-  "updated": "03 November, 06:49 UTC. Stores accepted, not yet merged. The iPhone source is Ready and its existing tests pass; the seven real-device checks remain open. Styling journeys 2/2 pass. TEST shopper surfaces 2/3; small-iPhone checks 0/7 exercised; whole-draft 9.5 ratings 0/3.",
+  "remaining": "Protected review and merge results remain outstanding. TEST route qualification needs an authorized unlocked storefront session. Native and rail checks require their reviewed source and original allocated runs.",
+  "current": "Both the Stores button and iPhone source repair are Ready in their original protected review lanes. The rail proof follow-up is also built and accepted. TEST endpoint checks reached Shopify’s storefront password screen; the original access keeper owns recovery.",
+  "next": "Consume the original protected verdicts and merge results, then install the five Stores files into the unpublished theme. Qualify TEST routes after authorized access is restored, apply the guarded settings once, and complete the original device and rail checks.",
+  "updated": "03 November, 07:03 UTC. Stores and iPhone source repairs are Ready, not merged. Rail proof follow-up is accepted, not merged. Styling journeys 2/2 pass. TEST shopper surfaces 2/3; small-iPhone checks 0/7 exercised; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -295,7 +295,7 @@
     "**Styling accepted:** both original browser journeys passed: C04 8/8 and C05 9/9. Their original acceptance owner verified the receipts. No repeat is needed.",
     "**Stores corrected:** all seven focused checks pass; Hands accepted the repaired revision and the chair granted its size. The existing desk still owes the required suite and final named-fix check before merge and draft installation.",
     "**iPhone repair entered review:** the desk marked the accepted source Ready at 06:48 UTC. All five test groups, all three proof groups and the test gate pass. Its protected verdict, merge and seven device checks remain outstanding.",
-    "**TEST prerequisite cleared, access checked:** all three committed declarations are verified. The allocated browser run reached the storefront password screen on all three prepared paths. No settings were changed. The rail follow-up’s missing product ID is now verified; the original keeper owns its continuation.",
+    "**TEST prerequisite cleared, access checked:** all three committed declarations are verified. The allocated browser run reached the storefront password screen on all three prepared paths. No settings were changed. The original rail follow-up is now built and accepted as #5318; protected review and the actual rail check remain.",
     "**Checklist clarified:** the current plan now lists the remaining actions and dependencies. Earlier execution records are retained. Delivery remains 6/11 and final 9.5 passes remain 0/3 because no additional whole acceptance gate has passed."
   ],
   "openDeliveryGates": [
@@ -337,7 +337,7 @@
       },
       {
         "complete": false,
-        "text": "Complete #5250’s protected tests, final named-fix check and merge (waiting on the existing desk since 05:35Z; next check 07:00Z or its result; duration depends on the queue)."
+        "text": "Complete #5250’s protected tests, final named-fix check and merge (Ready 07:00Z; original final named-fix review and required tests next; next check 07:15Z or its result)."
       },
       {
         "complete": false,
@@ -345,15 +345,15 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; three route checks 06:45Z–06:46Z, took 1 min, all reached storefront password). Waiting on authorized access; next check 07:00Z. Settings take an estimated 5 min after qualification."
+        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; three route checks 06:45Z–06:46Z, took 1 min, all reached storefront password). Waiting on authorized access; next check 07:15Z. Settings take an estimated 5 min after qualification."
       },
       {
         "complete": false,
-        "text": "Finish the public looks-rail response-count and visible/hidden-state proof through the original reviewed follow-up (original writer stopped for missing product ID; ID verified and returned to the same keeper; next check 07:00Z; est. 2 min for observation after release)."
+        "text": "Finish the public looks-rail response-count and visible/hidden-state proof through the original reviewed follow-up (original writer completed; follow-up #5318 accepted 06:58Z; protected review and merge next; est. 2 min for observation after release)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone source’s protected review, then execute all seven original device checks (Ready 06:48Z; all five test groups, three proof groups and the test gate passed; next check 07:00Z; device duration depends on the allocated slot)."
+        "text": "Complete the iPhone source’s protected review, then execute all seven original device checks (Ready 06:48Z; all five test groups, three proof groups and the test gate passed; next check 07:15Z; device duration depends on the allocated slot)."
       },
       {
         "complete": false,
@@ -376,7 +376,7 @@
         "text": "Verify the exact final unpublished theme version and deliver the draft handover (est. 10 min after all required acceptance gates pass)."
       }
     ],
-    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Next queue and access check is 07:00 UTC or the original result. The final delivery time remains unknown until TEST access, device allocation and the required reviews return."
+    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Next queue and access check is 07:15 UTC or the original result. The final delivery time remains unknown until TEST access, device allocation and the required reviews return."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
