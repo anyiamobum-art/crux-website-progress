@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original sitewide builder is checking the combined findings and the review fixture. Both original design reads are finished. Runway’s code review approved its current revision; its tests and other protected jobs continue. No duplicate builder or review was started.",
+  "workerState": "The original popup writer and original sitewide integrator are active again after the interrupted turn. The completed Runway spacing commit is integrated. Existing protected readers and the paced release desk retain their work; no replacement reviewer or duplicate capture was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Runway received its second full code approval at 11:55 UTC. Both combined design reports and one consolidated findings list are recovered. Ten omitted original source/data files were recovered with matching hashes for the next evidence packet. Missing fixture styles and a misaligned screenshot/log stage were identified before product changes.",
+  "lastActualProgress": "The original integrator combined the enquiry/context fix and the Runway spacing/typography fix into 114d042b. Four original context tests and one focused stale-receipt regression had already passed on the component source. Combined geometry and visual acceptance remain pending until the popup repair is included.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "#5332 remains accepted but Draft in the paced queue. Stores depends on that helper and the existing staff-test and iPhone route-test repairs. TEST access and the reviewed iPhone observation correction remain prerequisites. Both combined design readers found problems, so the design has no passing score.",
-  "current": "The original Runway code review approved the repaired revision at 11:55 UTC. Its required test jobs are queued. In parallel, the first combined shopper-design review returned concrete fixes for return navigation, shared garments and enquiry wording; the original builder is reconciling the whole list against the current source.",
-  "next": "Repair the confirmed shopper-journey findings through the original builder while #5332 proceeds through protected review. After its merge and the other test repairs, resume #5250 and install its prepared files into the unpublished draft. The original TEST owner is reconciling Hands’ 11:55 access check.",
-  "updated": "03 November, 12:07 UTC. Current GitHub states are verified. Code approval is separate from design acceptance, protected merge and the unpublished Shopify installation.",
+  "remaining": "Stores #5250 still depends on helper #5332 and the original iPhone route-test repair. The staff-test dependency is merged. TEST remains behind its storefront password: the original 12:16 UTC check returned HTTP 302 to that page. Its temporary contact grant expired at 12:43 UTC; it was not renewed and no TEST settings were changed.",
+  "current": "Two release dependencies have merged: the staff-test repair #5320 and the looks-rail verification update #5318. Runway #5204 now passes all five required test groups and its gate; its original second independent reader is still pending. The original shopper integrator has combined the completed enquiry-context repair and Runway typography revision; the original popup writer is finishing its interrupted named repair.",
+  "next": "Finish and integrate the original popup commit, then run one combined source-matched proof. The release desk has the changed #5332 state: its own pin and checks now pass, so its existing paced review can proceed. After the helper merges, resume #5250 at its held approved head and install its prepared files into the unpublished draft.",
+  "updated": "04 November, 02:24 Shanghai / 03 November, 18:24 UTC. GitHub merges and current checks are read back. The final Shopify draft remains unpublished; no new 9.5 pass is claimed.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -304,11 +304,11 @@
     }
   ],
   "recentChanges": [
-    "**GitHub works again:** the narrow helper is published as #5332 and accepted at its exact revision. Its required review and merge are still pending in the existing queue.",
-    "**Runway code approved:** the original second full code review approved #5204 at 11:55 UTC. Required test groups remain queued; nothing has been installed from this revision yet.",
-    "**Both combined design reads returned:** the original Opus and Astra readers found return-navigation and shared-garment context errors. Their results are failures, with incomplete evidence for an overall score. The original builder is reconciling one combined repair list.",
-    "**Review evidence is being repaired too:** ten omitted source/input files were recovered exactly. The test page omitted some styles already loaded by the theme, so those visual findings are being checked against a faithful page before changing product styling.",
-    "**Acceptance remains separate:** TEST access, seven qualified native checks and final whole-draft ratings remain open. The theme remains unpublished."
+    "**Two dependencies merged:** #5320 closes the staff-test repair; #5318 supplies the reviewed looks-rail observer. The original acceptance owner still needs to run that observer on a qualified TEST session.",
+    "**Runway tests pass:** all five required groups and the gate are green on #5204. The original critical review remains pending; this is not a design rating or merge.",
+    "**Stores helper is ready for its existing queue:** #5332 now has a passing pin and checks. The original release desk has been told once to consume that changed state; #5250 stays at its approved, held revision.",
+    "**Shopper repairs are being assembled:** preserved look/piece context, precise store enquiry wording, and larger, better-spaced Runway controls are committed and combined locally. Popup actions on short screens and its help copy are being finished by their original designer.",
+    "**TEST blocker is precise:** the original authorized request reached the storefront password page. Its temporary grant has expired. No repeated request, automatic extension or settings write was made."
   ],
   "openDeliveryGates": [
     {
@@ -341,86 +341,74 @@
     "steps": [
       {
         "complete": true,
-        "text": "Complete the Stores correction and exact-head acceptance (05:18Z–05:35Z, took 17 min; seven focused checks pass)."
+        "text": "Repair the Stores measuring helper and publish #5332 (03 November 11:11Z–11:25Z, took 14 min; no assertion weakened)."
       },
       {
         "complete": true,
-        "text": "Reconcile current evidence, recover the iPhone queue entry and return the rail-proof follow-up to its original owner (06:13Z–06:24Z, took 11 min; desk correction independently verified)."
-      },
-      {
-        "complete": true,
-        "text": "Repair and verify the Big Bag safe-area measuring helper through its original writer (11:11Z–11:25Z, took 14 min; #5332 published; explicit nonzero inset, unchanged assertions, and failing-before/passing-after proof)."
+        "text": "Verify the changed release results and resume interrupted original builders (03 November 18:21Z–18:24Z, took 3 min; #5320 and #5318 merged, Runway suite passes)."
       },
       {
         "complete": false,
-        "text": "Complete #5332’s protected review and merge (published 11:25Z; Hands accepted 11:30Z; paced review next; next check 12:20Z or review result)."
+        "text": "Complete #5332 protected review and merge (published 11:25Z; original accepted head and pin pass; existing paced queue, next check 18:40Z or result)."
       },
       {
         "complete": false,
-        "text": "Complete #5250’s protected tests and merge (named-fix approval 07:10Z retained; Draft hold corrected 11:09Z; separate helper, staff-test and iPhone route-test dependencies; next check 12:20Z or original result)."
+        "text": "Complete #5250 protected tests and merge (held approved head retained; helper and original route-test prerequisites; next check on their merge)."
       },
       {
         "complete": false,
         "text": "Install and verify the five merged Stores files in the unpublished theme (est. 10 min after protected merge)."
       },
       {
-        "complete": false,
-        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; original password gate retained; #5303 served-source proof closed 11:22Z). Original Hands’ single access check was due 11:55Z; its original owner is reconciling the result after the Mac sleep interruption, next check 12:20Z. Settings take an estimated 5 min after qualification."
+        "complete": true,
+        "text": "Complete original sitewide context and Runway spacing repairs (12:24Z source receipts retained; combined into 114d042b at 18:24Z; component tests pass)."
       },
       {
         "complete": false,
-        "text": "Finish the public looks-rail response-count and visible/hidden-state proof through the original reviewed follow-up (follow-up accepted 06:58Z and first code approval 08:00Z; required tests and merge next; est. 2 min for observation after release)."
+        "text": "Finish original popup repair and combine it with the same source (resumed 18:23Z, est. 15 min; interrupted changes preserved)."
+      },
+      {
+        "complete": false,
+        "text": "Run one combined remote proof and complete the exact-source review packet (est. 15 min after popup commit; original reviewers and named findings retained)."
+      },
+      {
+        "complete": false,
+        "text": "Complete Runway #5204 protected critical review and merge (all five test groups and gate pass; original reader pending, next check 18:40Z or result)."
+      },
+      {
+        "complete": false,
+        "text": "Qualify TEST and apply the guarded four-setting change (waiting on existing owner storefront unlock; original 12:16Z request reached password, contact grant expired 12:43Z; fresh valid scope required; est. 5 min after qualification)."
       },
       {
         "complete": true,
-        "text": "Review and merge the iPhone source repair (06:48Z–07:46Z, took 58 min; both approvals and required checks passed; all five reviewed changes verified)."
+        "text": "Review and merge the public looks-rail observer #5318 (merged 16:00Z; verified 18:23Z)."
       },
       {
         "complete": false,
-        "text": "Complete the original seven iPhone checks on the unpublished draft (08:00Z–08:08Z run finished; 0/7 qualified; original observation repair #5323 accepted 08:40Z; queue hold cleared 08:53Z; protected review and merge next; next check 12:20Z)."
+        "text": "Run the original looks-rail observation after qualified TEST access (est. 2 min; no duplicate observer or sign-in)."
       },
       {
         "complete": false,
-        "text": "Complete the desktop Options motion repair (paired comparison 08:33Z–08:35Z, took 2 min: baseline 5/10, both variants 10/10; source fix completed and #5324 accepted 08:50Z; one-file install prepared; protected review and merge next; next check 12:20Z)."
-      },
-      {
-        "complete": true,
-        "text": "Repair and push the actual Runway homepage-switch tests (07:55Z–08:19Z, took 24 min; five behavior tests and fifteen mutation checks pass)."
-      },
-      {
-        "complete": true,
-        "text": "Complete Runway’s second full code review (11:55Z approval verified 12:07Z; required tests and protected merge remain)."
+        "text": "Complete original iPhone observation repair #5323 and seven device checks (accepted Draft; original protected review and native allocation remain; 0/7 qualified)."
       },
       {
         "complete": false,
-        "text": "Complete Runway’s required tests and protected merge (current five test groups queued; next check 12:20Z or result)."
-      },
-      {
-        "complete": true,
-        "text": "Recover both original combined-design results and consolidate their named findings (11:34Z–11:51Z, took 17 min; both FAIL, no overall score)."
+        "text": "Complete Options motion repair #5324 (Ready 18:10Z; original review pending; one-file unpublished install prepared, est. 5 min after merge)."
       },
       {
         "complete": false,
-        "text": "Reconcile and repair the confirmed combined-shopper findings with the original builder (started 11:44Z, est. 30 min for diagnosis and scoped repair plan; subsequent build estimate follows source reconciliation)."
+        "text": "Complete buyer-trust consent, privacy isolation and remaining connected proof (original acceptance owners; TEST access and approved source prerequisites; duration unknown)."
       },
       {
         "complete": false,
-        "text": "Complete buyer-trust consent, privacy isolation and remaining connected proof (original acceptance owners; TEST access and approved source prerequisites remain; duration unknown)."
+        "text": "Return complete source-matched evidence to the three original final named-fix readers (only after repairs and checks; duration unknown)."
       },
       {
         "complete": false,
-        "text": "Return the complete, source-matched evidence to the three original final named-fix readers (after the repairs and checks above; review duration unknown)."
-      },
-      {
-        "complete": false,
-        "text": "Verify the exact final unpublished theme version and deliver the draft handover (est. 10 min after all required acceptance gates pass)."
-      },
-      {
-        "complete": true,
-        "text": "Recover GitHub access and return the exact failed test to its original author (10:48Z–10:53Z, took 5 min; API and job-log readback verified)."
+        "text": "Verify the exact final unpublished theme version and deliver the draft handover (est. 10 min after all acceptance gates pass)."
       }
     ],
-    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Next protected-release and TEST result check is 12:20 UTC or the original result. Runway code approval is complete; current tests remain queued. Final delivery time is unknown until connected and native acceptance, combined repairs and required original-reader checks pass."
+    "landing": "Lands: next source-assembly target is 18:40 UTC on 03 November / 02:40 Shanghai on 04 November, then approximately 15 minutes for combined proof if the remote slot is available. Protected-release check is due at 18:40 UTC or its original result. Final delivery time remains unknown until TEST access, native acceptance and original ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
