@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The helper’s pin and guard checks passed. The original desk owns its one authorized whole retry after the current run ends. The viewport-test repair is submitted and accepted by Hands, with one missing regression recorded in its self-review. The original release coordinator has resumed through its existing parent handle and is reconciling the TEST handoff.",
+  "workerState": "Shopify accepted the one TEST settings update at 21:11 UTC. The original coordinator is comparing the returned file with the candidate before any shopper grant; no repeat write is allowed. The helper’s pins and guards passed; its original desk retry remains armed. The viewport-test revision is awaiting its original full review, including the recorded missing regression.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The viewport-test fix reached a new accepted revision at 20:17 UTC. The release coordinator acknowledged its resume and read the original handoff at 20:28 UTC. Hands’ 20:28 TEST result identifies the owner’s password-unlock action. These are repair and handoff advances, not native acceptance or final ratings.",
+  "lastActualProgress": "Hands withdrew the password-tap requirement at 21:04 UTC. The original coordinator verified the unpublished TEST theme and submitted its four prepared settings once at 21:11 UTC. Shopify accepted the update; readback differs from the submitted bytes, so verification is still in progress.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores #5250 depends on helper #5332. Three helper test groups remain queued; two timed out. TEST storefront routes reach the password page. Hands has confirmed that unlocking TEST is an owner action, not a missing session-recovery job. The original unlock request remains pending; the expired contact grant cannot be reused.",
+  "remaining": "The earlier TEST password-unlock request has been withdrawn. The supported route uses the existing handed shopper session after the four TEST-theme settings are verified. Stores #5250 still awaits helper #5332; three test groups remain queued after two timeouts.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
-  "next": "Consume the existing desk’s single full CI retry for helper #5332 after its current run ends, then resume Stores #5250. Complete the original viewport-test regression and native review. TEST needs the owner’s existing password-unlock action before Checkout can qualify a new contact grant.",
-  "updated": "03 November, 20:30 UTC / 04 November, 04:30 Shanghai. Helper pins and guards passed; three test groups remain queued. Original Stores and iPhone-review heads remain unchanged. Runway and Options remain installed in the unpublished draft.",
+  "next": "Verify the four TEST-theme checkout settings already accepted by Shopify through EON’s Admin API. Checkout then qualifies one fresh six-hour contact grant, and the original Ask owner runs the TEST journey. The Stores helper and iPhone review continue through the original release desk.",
+  "updated": "03 November, 21:15 UTC / 04 November, 05:15 Shanghai. Shopify accepted the TEST update; readback verification is active. No new protected merge or native acceptance pass.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -307,8 +307,8 @@
     "**Runway installed and opened:** #5204 is merged. Its exact 37-file October 3 homepage assembly is now in the unpublished Shopify draft. The correct Draft banner, homepage, five-look section and next/previous product-list changes were verified in Chrome.",
     "**Options performance repair installed:** #5324 merged and its one CSS file passed hosted readback. The desktop drawer blur is removed while the zoom treatment stays intact. Final installed timing evidence is still owed.",
     "**Combined shopper proof completed:** the four WebKit journeys, shared trouser and sock identity, popup behaviors and 30-second recording are complete; 78 source and evidence hashes match. Choose size and L selection work at 380/430 px. This is evidence for the original readers, not a new rating.",
-    "**Stores prerequisite executing:** #5332 has its first review approval and two test groups running; three groups and its pin check are queued. #5250 keeps its existing approvals and revision while that helper clears.",
-    "**TEST access isolated:** browser control works on the CRUX draft. TEST admin specifically remains on connection verification; this is not a general browser outage or a passing TEST check."
+    "**Stores prerequisite:** #5332 has its first review approval. Pins and guards passed; two test groups timed out and three remain queued. The existing release desk owns the permitted retry after the current run ends. #5250 retains its approvals and revision.",
+    "**TEST route advanced:** the earlier password-unlock request is withdrawn. Shopify accepted the original four-setting update to the unpublished TEST theme. The returned file is being verified before Checkout issues the scoped grant and Ask exercises the existing shopper session."
   ],
   "openDeliveryGates": [
     {
@@ -369,22 +369,22 @@
       },
       {
         "complete": false,
-        "text": "Consume the desk-owned full CI retry for helper #5332, then resume approved Stores #5250 (pins and guards passed; three groups queued; next check 20:55Z or result)."
+        "text": "Consume the desk-owned full CI retry for helper #5332, then resume approved Stores #5250 (pins and guards passed; three groups queued; next check 21:30Z or result)."
       },
       {
         "complete": false,
-        "text": "Resume original TEST and looks-rail checks after the owner unlocks TEST (request pending since 08:29Z; Hands confirmed owner-only password action at 20:28Z; new contact qualification follows unlock)."
+        "text": "Verify four TEST-theme settings via Admin API (started 21:08Z, est. 10 min); then original Checkout grant and Ask TEST journey. The password-unlock request is withdrawn."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 has one named regression outstanding; next check 20:55Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 21:30Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: next protected-result and original-owner check at about 20:55 UTC on 03 November / 04:55 Shanghai on 04 November. Final delivery time remains unknown until TEST, native acceptance and original ratings pass."
+    "landing": "Lands: TEST settings readback about 21:18 UTC on 03 November / 05:18 Shanghai on 04 November (estimate; source or API mismatch could move it). Final delivery time remains unknown until TEST, native checks and original ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
