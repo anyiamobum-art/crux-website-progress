@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Stores writer is finished. The existing release desk is running. Three iPhone test groups pass, one is running and one queued. The public looks-rail follow-up has been returned to its original owner; execution is not yet confirmed.",
+  "workerState": "The Stores writer is finished. The existing release desk is running. Four iPhone test groups pass; the last group is running. The public looks-rail follow-up has been returned to its original owner; execution is not yet confirmed.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "Stores needs its protected tests and final correction check. TEST remains at the storefront password gate and needs an exclusive browser allocation. The iPhone source needs its remaining tests and review before the seven real device checks.",
   "current": "The Stores repair is accepted and size-approved. The existing release desk owes its final fix check. I also found that the accepted iPhone source was missing from the staged list and returned that exact omission to the desk through the original coordinator.",
   "next": "Get the existing desk to advance #5250 and restore #5275 to its proper queue position. The original shopper-test owner has the ready public looks-rail follow-up; this does not require repeating the completed styling journeys.",
-  "updated": "03 November, 06:18 UTC. Stores accepted, not yet merged. Styling journeys 2/2 pass. TEST shopper surfaces 2/3; small-iPhone checks 0/7 exercised; whole-draft 9.5 ratings 0/3.",
+  "updated": "03 November, 06:22 UTC. Stores accepted, not yet merged. Four of five iPhone source test groups pass; the last is running. Styling journeys 2/2 pass. TEST shopper surfaces 2/3; small-iPhone checks 0/7 exercised; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -294,7 +294,7 @@
   "recentChanges": [
     "**Styling accepted:** both original browser journeys passed: C04 8/8 and C05 9/9. Their original acceptance owner verified the receipts. No repeat is needed.",
     "**Stores corrected:** all seven focused checks pass; Hands accepted the repaired revision and the chair granted its size. The existing desk still owes the required suite and final named-fix check before merge and draft installation.",
-    "**iPhone queue gap found:** the accepted source was missing from the desk list. That omission is with the original coordinator. Three test groups pass, one runs and one is queued; the seven device checks remain unexercised.",
+    "**iPhone queue gap found:** the accepted source was missing from the desk list. That omission is with the original coordinator. Four test groups pass; the last group is running. The seven device checks remain unexercised.",
     "**Remaining TEST proof made explicit:** the accepted styling runs do not measure the public looks rail. Its original after-merge follow-up has been resumed. The separate TEST settings change is prepared but unsubmitted because storefront access remains blocked.",
     "**Checklist clarified:** the current plan now lists the remaining actions and dependencies. Earlier execution records are retained. Delivery remains 6/11 and final 9.5 passes remain 0/3 because no additional whole acceptance gate has passed."
   ],
@@ -353,7 +353,7 @@
       },
       {
         "complete": false,
-        "text": "Finish the accepted iPhone source’s tests and protected review, then execute all seven original device checks (three test groups passed, one running, one queued; next check 06:40Z; device duration depends on the allocated slot)."
+        "text": "Finish the accepted iPhone source’s tests and protected review, then execute all seven original device checks (four test groups passed, the last running; next check 06:40Z; device duration depends on the allocated slot)."
       },
       {
         "complete": false,
