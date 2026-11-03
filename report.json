@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The TEST repair on 0cd8c161 has all three pin-proof groups and one of five test groups passed. Four test groups remain queued. Stores stays frozen at 44e66934 for the final named-fix review.",
+  "workerState": "The original Stores writer has resumed on the manifest-only correction. The iPhone repair is pushed at 90a60f05 with Hands acceptance: all three pin groups and three of five test groups pass; two test groups are queued. The styling repair is merged at 8935dd6.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Hands confirmed the original iPhone test writer started both named repairs on the remote worker. Its instructions require real 200% zoom, the shop visible with 2XL selected, and proof that Safari serves the unpublished theme. The repair has no passing result or new submitted revision yet.",
+  "lastActualProgress": "Verified the merged styling repair and both original hosted receipts, including every referenced screenshot hash: C04 passes 8/8 steps and C05 passes 9/9. Reconciled the already-pushed iPhone repair and resumed the original Stores writer for the chair-authorized fix.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST storefront password gate remains. The earlier browser-control failure is historical, not the current blanket blocker. Stores is waiting under the review-capacity limit; the iPhone source correction is running with its original writer, with native allocation separate.",
-  "current": "The original iPhone-check writer started the two named source repairs at 02:13:54 UTC. Stores awaits its last code review. TEST browser control works, but storefront password access and the three route checks remain open.",
-  "next": "Consume Hands’ TEST-access disposition and original dated allocation, then qualify the three endpoint responses before installing the prepared settings. Next owner check: 02:45 UTC or earlier result. Stores review remains independent.",
-  "updated": "03 November, 02:19 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "remaining": "Stores passed its round-three code check, but its actual test run found two stale manifest assertions. The chair authorized one mechanical correction. TEST still needs storefront password access and the original three endpoint reads. Native checks need the reviewed iPhone test source and a dated device allocation.",
+  "current": "The styling repair has merged. Both original shopper journeys passed: save and change one piece, and correct an unclear piece without losing the others. The original Stores writer is now repairing the stale installer manifest.",
+  "next": "Consume the one-file Stores repair, verify its exact source and focused checks, and make its one authorized push. The chair then renews acceptance and the final fix-check. The iPhone repair is already pushed and accepted; its remaining tests and protected review come next.",
+  "updated": "03 November, 05:20 UTC. Styling journeys 2/2 pass on the tested build. TEST shopper surfaces remain 2/3; small-iPhone checks 0/7 exercised; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate is 44e66934; remote qualification, size admission and exact acceptance pass. The exact-head queue exception is retained, but the shared review cap still holds Ready; final code review and merge remain pending. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions; the original writer has the chair-authorized one-file correction. Fresh exact-head acceptance and the final correction check precede merge. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -292,11 +292,11 @@
     }
   ],
   "recentChanges": [
-    "The factory guide is bound to its verified garment: four sizes and 24 measurements. The original reader passes. The complete source search found that all 119 factory products remain unpublished drafts, so no eligible positive shopper test is established. The original owner accepted that source constraint; no product was published.",
-    "Both TEST checkout policies are saved and read back against the verified shopper. This completes configuration, not the checkout journey.",
-    "The unpublished TEST theme has a saved preimage and a prepared four-setting change. Hands confirmed the 00:45–00:55 UTC window had no executor. The later 01:25 attempt returned a browser-control failure at 01:29 before any of the three endpoint GETs. Nothing was installed.",
-    "The original TEST holder resolved the main-branch conflict and pushed 0cd8c161. All three pin groups and one of five test groups pass; four test groups remain queued. Earlier-head results are not counted for this head.",
-    "Stores remains on its accepted final-repair revision. Pin proof passes; the shared review cap still holds Ready. The website stays unpublished."
+    "**Styling repair merged:** #5244 merged at 03:42 UTC. The original paired browser run then passed both journeys: C04 8/8 and C05 9/9. Receipt and screenshot fingerprints match. Independent acceptance remains with the original companion reviewer; this is not iPhone or final design-rating proof.",
+    "**iPhone repair delivered:** the original writer fixed both source issues, and Hands pushed and accepted 90a60f05 at 02:58 UTC. Three proof groups and three test groups pass; two test groups are queued. The seven actual phone checks remain unexercised.",
+    "**Stores final code check passed, but tests caught an omission:** two installer-manifest assertions failed after the new reachable theme files were added. The chair authorized one manifest-only correction and a final check of that correction. The original writer is running it; no design change is being added.",
+    "**TEST configuration remains prepared:** browser control is available, but the storefront password gate prevented the original endpoint reads. The four-setting change remains unsubmitted.",
+    "**Release totals remain honest:** the new passes advance work inside the five remaining gates. They do not yet complete another whole delivery gate or any of the three final 9.5 ratings."
   ],
   "openDeliveryGates": [
     {
@@ -327,6 +327,10 @@
   ],
   "timedPlan": {
     "steps": [
+      {
+        "complete": false,
+        "text": "Verify the remaining iPhone source tests, protected review and original device allocation; then exercise the seven checks (source accepted 02:58Z; two test groups queued at 05:18Z; next owner check 06:00Z)."
+      },
       {
         "complete": true,
         "text": "Verify the original TEST policy writes and prepare the four-setting candidate without installing it (23:57Z–00:10Z, took 13 min)."
@@ -365,11 +369,11 @@
       },
       {
         "complete": false,
-        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (next check 02:45Z). Install only after qualification (est. 5 min)."
+        "text": "Resolve TEST storefront access and complete the original three reads under Hands’ dated allocation (access prerequisite; next owner check 06:00Z). Install only after qualification (est. 5 min)."
       },
       {
-        "complete": false,
-        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 02:45Z; review duration unknown)."
+        "complete": true,
+        "text": "Consume the Stores final code approval and its separate real test failure (review 03:00Z; chair repair decision 05:11Z; verified 05:18Z)."
       },
       {
         "complete": true,
@@ -409,7 +413,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 02:45Z or returned review)."
+        "text": "Complete the chair-authorized manifest correction, its final fix-check and protected merge (original writer resumed 05:18Z, est. 10 min for the correction; review and CI duration unknown)."
       },
       {
         "complete": true,
@@ -448,8 +452,8 @@
         "text": "Start the two original iPhone test-source repairs (Hands confirmed start 02:13:54Z; same writer, remote worker)."
       },
       {
-        "complete": false,
-        "text": "Consume the repaired iPhone test source, its focused proof and Hands’ accepted revision, then run the seven checks under the original allocation (repair running since 02:13:54Z; next result check 02:45Z; duration unknown)."
+        "complete": true,
+        "text": "Consume the repaired iPhone test source and Hands acceptance (pushed 02:57Z, accepted 02:58Z; verified 05:18Z)."
       },
       {
         "complete": true,
@@ -504,12 +508,12 @@
         "text": "Verify all five TEST test groups and all three proof groups pass on the submitted revision (23:30Z–23:33Z, took 3 min)."
       },
       {
-        "complete": false,
-        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; four test groups queued, all three pins passed; next owner check 02:45Z)."
+        "complete": true,
+        "text": "Verify the styling repair passed protected review and merged (03:42Z; checked 05:18Z)."
       },
       {
-        "complete": false,
-        "text": "Run the full paired styling journey after its test passes review and merges (timing depends on protected checks)."
+        "complete": true,
+        "text": "Verify the original paired styling journey and all receipt screenshots (run 03:55Z–04:00Z; verified 05:19Z, 2/2 journeys pass)."
       },
       {
         "complete": true,
@@ -561,7 +565,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the final named-fix code review and install the five files after protected merge (est. 10 min for installation after review and tests pass; queue timing remains unknown)."
+        "text": "Install the five reviewed Stores files after the corrected manifest passes its protected merge (est. 10 min after merge)."
       },
       {
         "complete": true,
