@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the public task-site deployment, resolved the size-guide census with the original owner, and prepared exact POST-route expectations for the TEST read. The expired browser allocation is recorded as a missed result, not a successful check.",
+  "lastActualProgress": "Verified the task-site deployment; recovered the missing-result request through Bridge into the original Hands conversation; corrected an older child checkpoint so its superseded head cannot restart the wrong work. The size-guide census is resolved. TEST execution and final review remain unverified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The TEST browser result is missing after the 00:45–00:55 UTC allocation. Stores remains Draft under the shared review cap. The original iPhone source repair and native allocation remain separate prerequisites.",
-  "current": "Hands’ signed TEST window ended without its result. The missed handoff is back with the same owner for reconciliation. Stores still awaits its final protected review; its pin proof passes.",
-  "next": "Consume the original signed-path receipt, then install and verify the four TEST settings only if it qualifies. The release desk’s next check is about 01:05 UTC. No duplicate browser run or review has been started.",
-  "updated": "03 November, 00:56 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
+  "current": "Bridge has delivered the missing TEST-result request to the original Hands conversation. The result or exact execution failure is still owed. Stores remains on its final protected-review queue; its pin proof passes.",
+  "next": "Consume the original signed-path receipt, then install and verify the four TEST settings only if it qualifies. The 01:05 UTC check found Stores still in Draft; the next owner check is 01:35 UTC or an earlier returned result. No duplicate browser run or review has been started.",
+  "updated": "03 November, 01:13 UTC. TEST shopper surfaces 2/3. Small-iPhone checks 0/7 exercised. Whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "TEST product-page looks repair #5288",
@@ -357,11 +357,11 @@
       },
       {
         "complete": false,
-        "text": "Recover the original signed TEST path result (00:45Z–00:55Z allocation missed; same owner notified 00:55Z; next check 01:05Z). Install only after qualification (est. 5 min)."
+        "text": "Recover the original signed TEST path result (00:45Z–00:55Z allocation missed; same card notified 00:55Z, original Hands conversation delivery verified 01:13Z; next check 01:35Z). Install only after qualification (est. 5 min)."
       },
       {
         "complete": false,
-        "text": "Consume the Stores final review when the existing desk’s capacity opens (next check about 01:05Z; review duration unknown)."
+        "text": "Consume the Stores final review when the existing desk’s capacity opens (next owner check 01:35Z; review duration unknown)."
       },
       {
         "complete": true,
@@ -401,7 +401,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next check about 01:05Z or returned review)."
+        "text": "Complete the original last code review and protected merge (waiting on the paced release queue since 23:27Z; next owner check 01:35Z or returned review)."
       },
       {
         "complete": true,
@@ -493,7 +493,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; new tests queued, pins running; next check 01:05Z)."
+        "text": "Consume the fresh protected checks on the accepted TEST main-merge revision (main merge received 00:11Z; new tests queued, pins running; next owner check 01:35Z)."
       },
       {
         "complete": false,
@@ -968,7 +968,7 @@
         "text": "Install and verify the selected homepage in the unpublished Shopify draft (est. 15 min after required reviews pass)."
       }
     ],
-    "landing": "Lands: TEST path verification is allocated for 00:45–00:55 UTC, with about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
+    "landing": "Lands: the original TEST allocation returned no result; recovery is with Hands, next owner check 01:35 UTC. Allow about 5 minutes for the setting change after a qualified result. Stores installation takes about 10 minutes after protected merge. Review capacity, the iPhone repair and final ratings prevent a defensible whole-draft finish time."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
