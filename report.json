@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair-approved author started the Near me and Add to bag repairs at 22:03 UTC. The original CI maintainer is also running. The TEST access writer finished: #5350 was pushed once and accepted at 22:05 UTC. Its two independent code reviews and merge are still owed.",
+  "workerState": "Hands verified the same design-fix process is live: Near me has commit b7644b3f and a clean worktree; Add to bag is still being edited. The shared CI author finished #5351, with a fresh dependency resolve and 13 bootstrap checks passing. Both #5351 and TEST #5350 now await protected review.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original TEST access repair became Draft #5350 at revision d15321bd, with its holder and exact-source acceptance independently verified. The chair resolved the unavailable Near me author by explicitly appointing the original Add to bag author; both scoped repairs have a verified start.",
+  "lastActualProgress": "Near me’s first scoped fix is committed. The original shared CI repair was pushed once as #5351 at revision 0d61b10a, with holder and exact-source acceptance independently verified. Hands confirmed the quiet design log was buffered output, not a stalled execution.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "TEST reached the storefront password page before checkout. Its repair is now submitted as #5350, with the exact revision accepted for review; shopper acceptance is still open. Stores #5250 awaits helper #5332. The shared CI dependency repair precedes the next review-queue entries.",
+  "remaining": "The shared CI dependency repair is now Draft #5351 and first in the chair’s exception order. Its critical reviews and merge precede the affected releases. TEST helper #5350 is also submitted and accepted for review; shopper and native acceptance remain open.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
-  "next": "Take the original TEST password helper #5350 through its protected reviews and merge, then finish the existing guest-session follow-up. Consume the two running Near me and Add to bag fixes. Stores and iPhone release work continue after the shared CI dependency repair.",
-  "updated": "03 November, 22:14 UTC / 04 November, 06:14 Shanghai. Actual repair starts and #5350 publication reconciled; no shopper, iPhone or final-rating pass inferred.",
+  "next": "Complete #5351’s protected reviews and merge through the original desk, then the dependent Stores, TEST and iPhone release steps. Consume the remaining Add to bag result alongside the committed Near me fix, preserving their existing review history.",
+  "updated": "03 November, 22:24 UTC / 04 November, 06:24 Shanghai. Actual design progress and #5351 publication verified; no shopper, iPhone or final-rating pass inferred.",
   "links": [
+    {
+      "title": "Shared CI dependency repair #5351",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5351"
+    },
     {
       "title": "TEST password helper #5350",
       "path": "https://github.com/EON-CRUX/3.09/pull/5350"
@@ -172,10 +176,6 @@
     {
       "title": "Floating Stores button #5250",
       "path": "https://github.com/EON-CRUX/3.09/pull/5250"
-    },
-    {
-      "title": "Runway refinement #5204",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5204"
     }
   ],
   "source": "Published projection of the original task report",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Retained floating Stores preview: 6df2daf4. Separate combined shopper repair candidate: 1d880beb, private and unpromoted. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The five required test groups finished with three passes and two failures. The chair has placed Stores in Draft without changing its revision or review history. The separate helper-only correction is published as #5332 with its scoped proof; the existing staff and iPhone route-test repairs stay with their own owners. The combined Runway, garment comparison and store enquiry at d34c0865 now has two completed first design reads. Both returned FAIL. Their original named repairs are combined at 1d880beb; the remote suite, four coherent browser journeys, shared garment identity and popup evidence are complete. All 78 source and evidence hashes match. The remaining shared-component findings are the inert no-JavaScript Near me control and the outward arrow on Add to bag. Their exact findings and source history are now in one concrete brief. The chair has now bound both repairs to the original Add to bag author, expressly appointed as the Near me stand-in. Their START at 22:03:37 UTC is verified. No terminal result or new design pass has been returned yet. No replacement review or passing score is claimed.",
+    "current": "Installed homepage — October 3 Runway · 29e4c4a. Retained floating Stores preview: 6df2daf4. Separate combined shopper repair candidate: 1d880beb, private and unpromoted. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The five required test groups finished with three passes and two failures. The chair has placed Stores in Draft without changing its revision or review history. The separate helper-only correction is published as #5332 with its scoped proof; the existing staff and iPhone route-test repairs stay with their own owners. The combined Runway, garment comparison and store enquiry at d34c0865 now has two completed first design reads. Both returned FAIL. Their original named repairs are combined at 1d880beb; the remote suite, four coherent browser journeys, shared garment identity and popup evidence are complete. All 78 source and evidence hashes match. The remaining shared-component findings are the inert no-JavaScript Near me control and the outward arrow on Add to bag. Their exact findings and source history are now in one concrete brief. The chair has now bound both repairs to the original Add to bag author, expressly appointed as the Near me stand-in. Their START at 22:03:37 UTC is verified. Hands subsequently verified Near me commit b7644b3f and the original author still editing Add to bag. The final two-fix return and new design pass remain pending. No replacement review or passing score is claimed.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -304,10 +304,10 @@
     }
   ],
   "recentChanges": [
-    "**Two component repairs started:** the chair resolved the author handoff. The original Add to bag author is also the expressly appointed Near me stand-in, and began both isolated repairs at 22:03 UTC. Their source results and independent reviews are still pending.",
+    "**Two component repairs progressing:** Near me is committed as b7644b3f. The same original Add to bag author is still completing that second fix. Hands verified the running process and changing source; no restart or trust change was needed.",
     "**Runway installed and opened:** #5204 is merged. Its exact 37-file October 3 homepage assembly is now in the unpublished Shopify draft. The correct Draft banner, homepage, five-look section and next/previous product-list changes were verified in Chrome. Options repair #5324 is also merged and installed; hosted CSS matches, while its final timing check remains.",
     "**Combined shopper proof completed:** the four WebKit journeys, shared trouser and sock identity, popup behaviors and 30-second recording are complete; 78 source and evidence hashes match. Choose size and L selection work at 380/430 px. This is evidence for the original readers, not a new rating.",
-    "**Stores prerequisite:** #5332 has its first review approval. Pins and guards passed; one test group is running, two remain queued and two earlier groups timed out. The existing release desk must reconcile recovery with the newer shared dependency repair. #5250 retains its approvals and revision.",
+    "**Shared test repair submitted:** #5351 pins the retrying dependency and removes retry delays against the dummy test database. Its fresh resolve and 13 bootstrap checks pass. The chair placed it first for protected review; the original desk then resumes the affected releases, including the Stores prerequisite. #5250 retains its approvals and revision.",
     "**TEST access repair submitted:** #5350 is now a Draft with its exact source accepted for protected review. It adds a TEST-only password step without changing CRUX. The original settings and contact grant remain verified. The original guest-session follow-up, owner-managed secret and a new single-run authorization still precede shopper acceptance."
   ],
   "openDeliveryGates": [
@@ -368,8 +368,12 @@
         "text": "Review and merge the public looks-rail observer #5318 (merged 16:00Z; verified 18:23Z)."
       },
       {
+        "complete": true,
+        "text": "Complete and submit the original shared CI dependency repair (22:01Z–22:24Z, took 23 min; #5351 exact source accepted, protected reviews remain)."
+      },
+      {
         "complete": false,
-        "text": "Consume the shared dependency repair, then the original desk’s helper #5332 recovery and approved Stores #5250 continuation (dependency owner working; next check 22:20Z or result)."
+        "text": "Complete #5351 reviews and merge, then the original desk’s helper #5332 recovery and approved Stores #5250 continuation (first named exception; next check 22:40Z or result)."
       },
       {
         "complete": true,
@@ -393,7 +397,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the running Near me and Add to bag repairs into protected review (started 22:03Z; completion unknown; next check 22:20Z or result)."
+        "text": "Consume the running Near me and Add to bag repairs into protected review (started 22:03Z; completion unknown; next check 22:40Z or result)."
       },
       {
         "complete": true,
@@ -401,18 +405,18 @@
       },
       {
         "complete": false,
-        "text": "Complete #5350 protected reviews and merge, then its existing guest-session and credential prerequisites (queued after the shared dependency repair; next check 22:20Z or result)."
+        "text": "Complete #5350 protected reviews and merge, then its existing guest-session and credential prerequisites (queued after the shared dependency repair; next check 22:40Z or result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on shared dependency repair, #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 22:20Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on shared dependency repair, #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 22:40Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: Next original-result check is 22:20 UTC on 03 November / 06:20 Shanghai on 04 November, or an earlier result. Completion time remains unknown: protected reviews, TEST access, native checks and final ratings still have prerequisites."
+    "landing": "Lands: Next original-result check is 22:40 UTC on 03 November / 06:40 Shanghai on 04 November, or an earlier result. Completion time remains unknown: protected reviews, TEST access, native checks and final ratings still have prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
