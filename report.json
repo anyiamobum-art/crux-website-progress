@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original helper writer completed the repair and all scoped proof; its parent pushed and opened #5332 once. The duplicate writer has stopped. Original review and release jobs continue; the combined-review coordinator is checking its existing reader allocation.",
+  "workerState": "The original helper writer finished; Hands accepted the exact published commit. The duplicate writer is stopped. Existing protected jobs continue. The combined design packet still needs its original reader allocation; no review score is implied.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Published #5332 at 11:25 UTC after remote checks, the failing-before/passing-after comparison, and twenty desktop clearance states. Current main was merged without rebase; relevant proof dependencies are unchanged. The original Stores approval and source remain protected.",
+  "lastActualProgress": "Hands accepted #5332 at 11:30 UTC. The public page and report were read back byte-for-byte at 11:32 UTC. The original Checkout owner closed #5303’s served-source proof at 11:22 UTC; TEST access remains gated.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The helper fix is now a three-file PR awaiting protected review. Stores also depends on the existing staff-test repair and the original iPhone route-test correction. TEST still needs its storefront unlock; native qualification awaits its reviewed observation repair.",
-  "current": "The separate safe-area test repair is complete and published as #5332. It reproduces the two failures before the fix and passes all twenty cases afterward. The original review desk is taking it first so the unchanged Stores revision can proceed.",
-  "next": "Obtain the original acceptance and protected review of #5332, merge the helper and other owners’ test repairs, then resume #5250 at its unchanged reviewed revision. Install the prepared unpublished files after merge and continue TEST and iPhone qualification.",
-  "updated": "03 November, 11:27 UTC. Helper #5332 is published, not yet reviewed or merged. Native checks 0/7 qualified; TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "current": "Hands accepted the separate safe-area helper repair #5332 at 11:30 UTC. Its original review slot is next in the paced queue. The repair reproduces the two failures before the fix and passes all twenty cases afterward; the Stores revision and its existing approval remain unchanged.",
+  "next": "Complete #5332’s protected review and merge, then resume #5250 after its other test dependencies clear. Install the prepared files into the unpublished draft after merge. Original Hands has the single TEST access check at 11:55 UTC.",
+  "updated": "03 November, 11:36 UTC. Acceptance is verified on GitHub; protected review, merge, TEST access and final ratings remain open.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -341,7 +341,7 @@
       },
       {
         "complete": false,
-        "text": "Complete #5332’s protected review and merge (published 11:25Z; original acceptance and first desk slot next; next check 11:45Z or review result)."
+        "text": "Complete #5332’s protected review and merge (published 11:25Z; Hands accepted 11:30Z; paced review next; next check 11:45Z or review result)."
       },
       {
         "complete": false,
@@ -353,7 +353,7 @@
       },
       {
         "complete": false,
-        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; three route checks 06:45Z–06:46Z, took 1 min, all reached storefront password). Waiting on authorized access; next check 11:45Z. Settings take an estimated 5 min after qualification."
+        "text": "Finish TEST route qualification and the guarded four-setting change (declarations verified 06:44Z; original password gate retained; #5303 served-source proof closed 11:22Z). Original Hands checks access once at 11:55Z; disposition due 12:00Z. Settings take an estimated 5 min after qualification."
       },
       {
         "complete": false,
