@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original integrator completed the bounded combined-shopper evidence. Root verified all 78 source and evidence hashes and returned the result. Protected CI for #5332 is queued; the original native repair #5323 retains its paced review position. Hands has the existing shared-control intake; its scoped acknowledgment remains pending.",
+  "workerState": "The combined shopper evidence is complete. Helper #5332 now has two test groups running, three waiting and its pin check waiting. The original native repair #5323 retains its paced review position. The original viewport-test writer diagnosed two unrelated-PR failures as a time-unaware sampling assertion; the same Hands queue owns its repair placement. No replacement writer or rerun was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 19:10 UTC, the combined candidate’s 78 source and evidence files matched. Four shopping journeys, shared trouser and sock identity, popup photo behavior and a 30-second recording are complete. At both phone widths, Choose size reveals the controls and tapping L enables Add. The suspected purchase-bar blocker was corrected to informational; no unnecessary repair is being opened.",
+  "lastActualProgress": "Helper #5332 test groups 1 and 3 started at 19:15:46 and 19:18:36 UTC. The original viewport diagnosis finished at 19:19:30 and was consumed with its limits preserved: missing frame timestamps mean dropped-frame causation is inferred, not measured. Earlier completed combined shopper and hosted draft evidence remains valid.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,7 +143,7 @@
   "remaining": "Stores #5250 still depends on helper #5332 and the original route-test repair. TEST admin is currently showing connection verification through Chrome, followed by a page-inspection timeout. The earlier TEST storefront-password result and expired contact grant remain separate; no settings change or repeat endpoint request was made.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
   "next": "Consume helper #5332’s protected CI result before resuming Stores #5250. The combined shopper repair evidence is complete and returned to its original review coordination. Resolve the remaining shared-header/store findings through their existing owners; continue TEST and iPhone checks when their specific prerequisites clear.",
-  "updated": "04 November, 03:16 Shanghai / 03 November, 19:16 UTC. Runway and Options are installed in the unpublished draft; Runway has bounded desktop browser proof. Combined shopper source proof is complete on its separate private candidate. No native or new 9.5 pass is claimed.",
+  "updated": "04 November, 03:30 Shanghai / 03 November, 19:30 UTC. Runway and Options remain installed in the unpublished draft; combined source proof is complete. Two helper test groups are executing. No native or new 9.5 pass is claimed.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -307,7 +307,7 @@
     "**Runway installed and opened:** #5204 is merged. Its exact 37-file October 3 homepage assembly is now in the unpublished Shopify draft. The correct Draft banner, homepage, five-look section and next/previous product-list changes were verified in Chrome.",
     "**Options performance repair installed:** #5324 merged and its one CSS file passed hosted readback. The desktop drawer blur is removed while the zoom treatment stays intact. Final installed timing evidence is still owed.",
     "**Combined shopper proof completed:** the four WebKit journeys, shared trouser and sock identity, popup behaviors and 30-second recording are complete; 78 source and evidence hashes match. Choose size and L selection work at 380/430 px. This is evidence for the original readers, not a new rating.",
-    "**Stores prerequisite advanced:** #5332 is Ready with fresh tests queued. #5250 keeps its existing approvals and revision while those original dependencies clear.",
+    "**Stores prerequisite executing:** #5332 has its first review approval and two test groups running; three groups and its pin check are queued. #5250 keeps its existing approvals and revision while that helper clears.",
     "**TEST access isolated:** browser control works on the CRUX draft. TEST admin specifically remains on connection verification; this is not a general browser outage or a passing TEST check."
   ],
   "openDeliveryGates": [
@@ -369,7 +369,7 @@
       },
       {
         "complete": false,
-        "text": "Finish helper #5332 through protected CI, then resume approved Stores #5250 (Ready; tests queued; next check 19:30Z or result)."
+        "text": "Finish helper #5332 through protected CI, then resume approved Stores #5250 (two helper test groups running since 19:15Z/19:18Z; next check 20:00Z or result)."
       },
       {
         "complete": false,
@@ -377,14 +377,14 @@
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and original native slot; next check 19:30Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and original native slot; next check 20:00Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: next protected-result and original-owner check at about 19:30 UTC on 03 November / 03:30 Shanghai on 04 November. Runway and Options installations and the bounded combined evidence are complete. Final delivery time remains unknown until TEST, native acceptance and original ratings pass."
+    "landing": "Lands: next protected-result and original-owner check at about 20:00 UTC on 03 November / 04:00 Shanghai on 04 November. Runway and Options installations and the bounded combined evidence are complete. Final delivery time remains unknown until TEST, native acceptance and original ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
