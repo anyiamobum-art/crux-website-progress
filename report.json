@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original TEST access writer is running; Hands verified its start at 21:30 UTC. Stores helper #5332 has one test group running, two queued and two earlier timeouts. A separate shared CI dependency fault is now diagnosed. The concrete Near me and Add to bag repair brief is acknowledged and with Hands for its original-author binding.",
+  "workerState": "The original TEST access writer is running, with its start verified at 21:30 UTC. Stores helper #5332 has one test group running, two queued and two earlier timeouts. Hands is handling the shared CI repair and the chair decision for the two component fixes. No replacement writer has been launched.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The concrete two-fix brief was delivered and acknowledged at 21:42–21:44 UTC. Hands then confirmed the existing TEST access writer is running. The public dashboard update passed its Pages build and exact hosted readback at 21:47 UTC.",
+  "lastActualProgress": "Hands verified the original Add to bag author can resume at 21:58 UTC and identified the missing route to the old Near me author. The parent independently checked its available agents and returned that evidence to the chair through the existing coordination route. The TEST writer remains running.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The TEST run reached the storefront password page; the saved access had expired and the guest session was unset. Checkout was not exercised. Stores #5250 awaits helper #5332; iPhone checks and final named-fix evidence remain open.",
+  "remaining": "TEST stopped at the storefront password page before checkout. Stores #5250 awaits helper #5332. New review-queue entries are paused while the original CI owner fixes the shared dependency failure. iPhone and final named-fix evidence remain open.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
-  "next": "Complete the original TEST access repair and the two remaining shared-component design fixes. The concrete repair brief is now with Hands, including exact findings and original author history. Continue the Stores and iPhone protected review lanes; repeat the shopper journey only after reviewed access is ready.",
-  "updated": "03 November, 21:53 UTC / 04 November, 05:53 Shanghai. Original TEST writer start and shared CI diagnosis consumed. No shopper, iPhone or final-rating pass inferred.",
+  "next": "Complete the original TEST access repair and the two remaining shared-component design fixes. Hands can resume the Add to bag author; the chair must resolve the unavailable original Near me author on the existing repair request. Protected release also awaits the shared CI dependency repair.",
+  "updated": "03 November, 22:01 UTC / 04 November, 06:01 Shanghai. Original repair custody and current CI states reconciled; no shopper, iPhone or final-rating pass inferred.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -304,11 +304,11 @@
     }
   ],
   "recentChanges": [
-    "**Concrete design repair handoff:** recovered the original Stores and product-button authors, quoted both remaining findings and bound the current source. The brief is delivered; original route resolution and actual writer START remain separate, unverified steps.",
+    "**Two component repairs:** the exact Near me and Add to bag findings are in one acknowledged brief. Hands verified the original Add to bag author is resumable; the old Near me author is unreachable. The chair now has the precise route failure and recommended scoped continuation.",
     "**Runway installed and opened:** #5204 is merged. Its exact 37-file October 3 homepage assembly is now in the unpublished Shopify draft. The correct Draft banner, homepage, five-look section and next/previous product-list changes were verified in Chrome. Options repair #5324 is also merged and installed; hosted CSS matches, while its final timing check remains.",
     "**Combined shopper proof completed:** the four WebKit journeys, shared trouser and sock identity, popup behaviors and 30-second recording are complete; 78 source and evidence hashes match. Choose size and L selection work at 380/430 px. This is evidence for the original readers, not a new rating.",
-    "**Stores prerequisite:** #5332 has its first review approval. Pins and guards passed; one test group is running, two remain queued and two earlier groups timed out. The existing release desk owns the permitted retry after the current run ends. #5250 retains its approvals and revision.",
-    "**TEST setup complete; access repair now concrete:** four settings passed Admin API readback at 21:15 UTC and the scoped grant at 21:18 UTC. The original run then failed at the storefront password page. The original access repair is queued; completed settings and grant will not be repeated."
+    "**Stores prerequisite:** #5332 has its first review approval. Pins and guards passed; one test group is running, two remain queued and two earlier groups timed out. The existing release desk must reconcile recovery with the newer shared dependency repair. #5250 retains its approvals and revision.",
+    "**TEST setup complete; access repair running:** four settings passed Admin API readback at 21:15 UTC and the scoped grant at 21:18 UTC. The original run then failed at the storefront password page. Hands verified the assigned repair writer started at 21:30 UTC; completed settings and grant will not be repeated."
   ],
   "openDeliveryGates": [
     {
@@ -369,7 +369,7 @@
       },
       {
         "complete": false,
-        "text": "Consume the desk-owned full CI retry for helper #5332, then resume approved Stores #5250 (pins and guards passed; one group running, two queued; next check 22:00Z or result)."
+        "text": "Consume the shared dependency repair, then the original desk’s helper #5332 recovery and approved Stores #5250 continuation (dependency owner working; next check 22:20Z or result)."
       },
       {
         "complete": true,
@@ -389,22 +389,22 @@
       },
       {
         "complete": false,
-        "text": "Resolve the original shared-component writer route and consume its named repair (waiting on Hands; next check 22:00Z or original result)."
+        "text": "Resolve the unreachable Near me author through the existing chair decision, then consume the two-fix result (original Add to bag author verified; next check 22:20Z or result)."
       },
       {
         "complete": false,
-        "text": "Complete the running original TEST access repair, then its protected review and existing credential handoff (started 21:30Z; duration unknown; next check 22:00Z or original result)."
+        "text": "Complete the running original TEST access repair, then its protected review and existing credential handoff (started 21:30Z; duration unknown; next check 22:20Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 22:00Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on shared dependency repair, #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 22:20Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: Next verified update by 22:00 UTC on 03 November / 06:00 Shanghai on 04 November, or an earlier original result. Completion time is unknown: TEST access, protected reviews, native checks and final ratings still have real prerequisites."
+    "landing": "Lands: Next original-result check is 22:20 UTC on 03 November / 06:20 Shanghai on 04 November, or an earlier result. Completion time remains unknown: protected reviews, TEST access, native checks and final ratings still have prerequisites."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
