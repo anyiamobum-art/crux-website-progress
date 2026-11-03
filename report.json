@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Two helper test groups exceeded their 45-minute limit; three remain queued and the pin check is running. The chair has authorized one full retry, owned by the existing desk. Its start is not yet observed. A second timeout goes to the CI maintainer. The original viewport-test correction writer is running. No duplicate writer, review or root retry was started.",
+  "workerState": "The helper’s pin and guard checks passed. The original desk owns its one authorized whole retry after the current run ends. The viewport-test repair is submitted and accepted by Hands, with one missing regression recorded in its self-review. The original release coordinator has resumed through its existing parent handle and is reconciling the TEST handoff.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original viewport-test writer published #5342 at 19:44:05 UTC; Hands accepted the exact revision at 19:44:10. That is submission evidence, not a cleared test or native check. Its sparse-sample limitation remains under review. The Runway and Options installations and completed combined shopper proof remain verified.",
+  "lastActualProgress": "The viewport-test fix reached a new accepted revision at 20:17 UTC. The release coordinator acknowledged its resume and read the original handoff at 20:28 UTC. Hands’ 20:28 TEST result identifies the owner’s password-unlock action. These are repair and handoff advances, not native acceptance or final ratings.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores #5250 still depends on helper #5332 and the original route-test repair. TEST admin is currently showing connection verification through Chrome, followed by a page-inspection timeout. The earlier TEST storefront-password result and expired contact grant remain separate; no settings change or repeat endpoint request was made.",
+  "remaining": "Stores #5250 depends on helper #5332. Three helper test groups remain queued; two timed out. TEST storefront routes reach the password page. Hands has confirmed that unlocking TEST is an owner action, not a missing session-recovery job. The original unlock request remains pending; the expired contact grant cannot be reused.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
-  "next": "The original release desk will run one whole CI retry for helper #5332 after its current run ends, on the same revision if it remains Ready. Consume that result before resuming Stores #5250. Continue the original shared-header/store repairs, TEST access and iPhone evidence through their existing owners.",
-  "updated": "03 November, 20:09 UTC / 04 November, 04:09 Shanghai. The exact-revision CI recovery ruling is received. The Runway and Options draft installations remain verified. No new merge or final acceptance pass.",
+  "next": "Consume the existing desk’s single full CI retry for helper #5332 after its current run ends, then resume Stores #5250. Complete the original viewport-test regression and native review. TEST needs the owner’s existing password-unlock action before Checkout can qualify a new contact grant.",
+  "updated": "03 November, 20:30 UTC / 04 November, 04:30 Shanghai. Helper pins and guards passed; three test groups remain queued. Original Stores and iPhone-review heads remain unchanged. Runway and Options remain installed in the unpublished draft.",
   "links": [
     {
       "title": "Safe-area test helper #5332",
@@ -369,22 +369,22 @@
       },
       {
         "complete": false,
-        "text": "Consume the desk-owned full CI retry for helper #5332, then resume approved Stores #5250 (authorized after the current run ends; start not yet observed; next check 20:30Z or result)."
+        "text": "Consume the desk-owned full CI retry for helper #5332, then resume approved Stores #5250 (pins and guards passed; three groups queued; next check 20:55Z or result)."
       },
       {
         "complete": false,
-        "text": "Resume original TEST and looks-rail checks after access is restored (waiting since original 08:29Z unlock request; TEST admin now shows connection verification; valid contact scope remains required)."
+        "text": "Resume original TEST and looks-rail checks after the owner unlocks TEST (request pending since 08:29Z; Hands confirmed owner-only password action at 20:28Z; new contact qualification follows unlock)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and original native slot; next check 20:30Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 has one named regression outstanding; next check 20:55Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: next protected-result and original-owner check at about 20:30 UTC on 03 November / 04:30 Shanghai on 04 November. Runway and Options installations and the bounded combined evidence are complete. Final delivery time remains unknown until TEST, native acceptance and original ratings pass."
+    "landing": "Lands: next protected-result and original-owner check at about 20:55 UTC on 03 November / 04:55 Shanghai on 04 November. Final delivery time remains unknown until TEST, native acceptance and original ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
