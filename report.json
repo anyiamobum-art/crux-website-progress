@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Original protected jobs remain queued or running. The original combined-design coordinator finished correcting its missed review intake; Hands’ network is recovered, but no reader assignment has returned. No duplicate writer or review was started.",
+  "workerState": "The original Stores writer has created its separate helper branch and confirmed the safe-area parsing defect. The existing protected release jobs continue. The combined-design review still awaits its original reader assignment.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Retrieved all five Stores test-group results. Confirmed the staff-test issue is covered by an existing repair, isolated the Big Bag helper calculation failure, and returned the two new failures to Hands for original-owner disposition. The approved source stays unchanged.",
+  "lastActualProgress": "Consumed the chair’s corrected ruling, restored the original Stores writer through its existing child session, and verified its first work on a separate branch. The approved Stores revision and its review rounds remain unchanged.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Stores still has three required-test failures across two groups. The Big Bag test helper returns an invalid number for safe-area CSS; rendered clearance remains to be checked. The iPhone route test lacks its expected result. TEST still needs its storefront unlock.",
-  "current": "GitHub is reachable again. Stores passed its final named-fix review. All five test groups have now finished: three passed and two failed. The three failing cases are with their original owners; one is already covered by an existing repair.",
-  "next": "Complete the existing staff-test repair and obtain the chair’s repair path for the Big Bag safe-area helper and the iPhone route-test failure. Install the prepared Stores and Options files after protected merges, then continue native and TEST qualification.",
-  "updated": "03 November, 11:03 UTC. The five submitted website changes remain unmerged. Native checks 0/7 qualified; TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
+  "current": "GitHub is recovered. The chair has authorized a separate measuring-helper repair, and the original Stores writer is building it. Stores stays at its reviewed revision in Draft while its test dependencies are repaired.",
+  "next": "Review and merge the separate safe-area helper repair, the existing staff-test repair and the original iPhone route-test correction. Then return the unchanged Stores revision to its protected tests and merge, install the prepared draft files, and continue acceptance.",
+  "updated": "03 November, 11:14 UTC. Hosted task-site files match the published source. Native checks 0/7 qualified; TEST shopper surfaces 2/3; whole-draft 9.5 ratings 0/3.",
   "links": [
     {
       "title": "Options performance correction #5324",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The five required test groups finished with three passes and two failures. Existing staff-test repair, Big Bag helper correction and route-test diagnosis now need the original release disposition. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
+    "current": "October 3 private shopping journey with floating Stores · 6df2daf4. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The five required test groups finished with three passes and two failures. The chair has placed Stores in Draft without changing its revision or review history. A separate helper-only correction is in progress through the original writer; the existing staff and iPhone route-test repairs stay with their own owners. The combined Runway, garment comparison and store enquiry at d34c0865 has its own first design review. Hands confirmed its review position. No reviewer has graded that revision yet.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -293,7 +293,7 @@
   ],
   "recentChanges": [
     "**GitHub access recovered:** fresh API reads and the failed-job log are now available. The release queue remains with its existing desk.",
-    "**Stores test results are complete:** three groups passed and two failed. An existing repair covers the staff-login assertion. The Big Bag safe-area helper and iPhone route-result failures are now with the original owners through Hands; protected merge remains pending.",
+    "**Stores test results are complete:** three groups passed and two failed. An existing repair covers the staff-login assertion. The chair authorized a separate helper-only repair; its original writer is working. The route-result failure stays with its original iPhone owner. Stores retains its reviewed revision and awaits those protected repairs.",
     "**Prepared repairs remain intact:** Runway awaits its second full review. The accepted iPhone observation correction and Options performance correction await their protected review and merge. The unpublished installation packages are prepared.",
     "**Original design handoff corrected:** the recovered Hands connection has no returned reader assignment for the retained review packet. The same intake was corrected; no second review or new score was created.",
     "**Acceptance remains separate:** TEST still requires its storefront unlock. Final whole-draft ratings remain 0/3, and the seven native checks still need qualified results. Nothing has been published to the live Shopify theme."
@@ -337,7 +337,11 @@
       },
       {
         "complete": false,
-        "text": "Complete #5250’s protected tests and merge (Ready 07:00Z; named-fix approval 07:10Z; three test groups passed, two failed with three cases; one existing repair covers the staff assertion; original Big Bag/P212 repair disposition pending; next check 11:20Z or original result)."
+        "text": "Repair and verify the Big Bag safe-area measuring helper through its original writer (started 11:11Z, est. 20 min; separate branch; explicit nonzero inset and unchanged clearance assertions)."
+      },
+      {
+        "complete": false,
+        "text": "Complete #5250’s protected tests and merge (named-fix approval 07:10Z retained; Draft hold corrected 11:09Z; separate helper, staff-test and iPhone route-test dependencies; next check 11:20Z or original result)."
       },
       {
         "complete": false,
@@ -388,7 +392,7 @@
         "text": "Recover GitHub access and return the exact failed test to its original author (10:48Z–10:53Z, took 5 min; API and job-log readback verified)."
       }
     ],
-    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Runway’s repaired source is pushed; next release and access check is 11:20 UTC or its result. The original three-failure repair disposition now also precedes Stores merge. Final delivery time remains unknown until TEST access, reliable iPhone measurements and required reviews return."
+    "landing": "Lands: Stores installation takes about 10 minutes after its protected merge. Runway’s repaired source is pushed; next release and access check is 11:20 UTC or its result. The original writer is completing the separately authorized helper correction; its protected merge and the other test repairs precede Stores merge. Final delivery time remains unknown until TEST access, reliable iPhone measurements and required reviews return."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
