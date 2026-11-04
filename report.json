@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original remote signed TEST writer is running. The separate JEV response-format repair is assigned to its existing keeper and queue. The Website parent is reconciling one queued dashboard deployment retry; no duplicate writer or test has been launched.",
+  "workerState": "Hands owns the protected queue for Near me, Add to bag and the iPhone test tool. The TEST checkout team owns the signed shopper checks. The source for the signed journey is being qualified by its original author.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "The iPhone test tool has green checks, but the queue skips it while over capacity. Hands and the chair own its review slot. Near me and Add to bag follow it. Guest TEST access awaits its original repair.",
   "current": "Floating Stores is merged and verified in the unpublished Shopify draft. Near me, Add to bag and the iPhone observer are accepted Drafts awaiting protected review. The original signed TEST journey writer is running; that route needs no PIN or manual browser login.",
   "next": "Consume the original protected review results and install qualifying merged sources. The signed TEST writer must deliver its workflow selector and proof before a dated hosted test. The seven iPhone checks await the original observer merge and device allocation.",
-  "updated": "4 November, 23:29 UTC. All five groups and the overall gate passed for #5350. The protected reviewer started its second round at 23:27 UTC. The verdict and merge are pending.",
+  "updated": "4 November, 23:36 UTC. All five test groups passed. The protected reviewer approved the TEST password fix in round 2 at 23:33 UTC. Its protected merge is still pending.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -305,10 +305,10 @@
   ],
   "recentChanges": [
     "Floating Stores is installed in the unpublished draft. All five files matched the reviewed source when read back from Shopify.",
-    "All five CI test groups passed for the TEST password repair (#5350). The final group finished at 23:14 UTC. The overall test gate passed at 23:19 UTC, and the protected reviewer started its second round at 23:27 UTC.",
+    "All five CI groups passed for the TEST password repair (#5350). Its reviewer approved the full second-round read at 23:33 UTC. The protected merge and guest-access follow-up remain open.",
     "The two shopper profiles are distinct. Their signed comparisons still need an authorized TEST run. The shared TEST frame repair shipped in #5376.",
     "Both Near me and Add to bag have been accepted into the queue. The iPhone test tool passed its checks. Hands has the request for its review slot.",
-    "The previous dashboard version timed out during deployment. Its retry was still queued when this update was prepared."
+    "The earlier dashboard deployment was superseded. Both the public page and its data matched the corrected source at 23:30 UTC."
   ],
   "openDeliveryGates": [
     {
@@ -429,7 +429,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 23:40Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; continue at the Hands queue decision or protected merge)."
       },
       {
         "complete": true,
@@ -461,15 +461,15 @@
       },
       {
         "complete": false,
-        "text": "Complete signed TEST workflow qualification and scoped hosted checks (original writer started22:25Z; no manual PIN/browser prerequisite; review/deployment and dated grant required; next check23:40Z or original result)."
+        "text": "Complete signed TEST workflow qualification and scoped hosted checks (original writer started22:25Z; no manual PIN/browser prerequisite; review/deployment and dated grant required; continue on the original result)."
       },
       {
         "complete": false,
-        "text": "Consume the separate original JEV response and held-key repairs (study stopped22:17Z with zero scored cases; original keeper owns the next allowed proof; next check23:40Z or original result)."
+        "text": "Consume the separate original JEV response and held-key repairs (study stopped22:17Z with zero scored cases; original keeper owns the next allowed proof; continue on the original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 23:40Z or original result)."
+        "text": "Run the seven iPhone checks on the unpublished draft after the test tool merges and Hands allocates the device. The signed-device check now uses the TEST enrollment task after #5219. The earlier sign-in appointment was superseded."
       },
       {
         "complete": true,
@@ -500,7 +500,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes to install the remaining two components after their protected merges. Next release check is 23:40 UTC / 07:40 Shanghai, or an earlier result. The existing review queue controls admission. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: Allow about 10 minutes for the two draft installations after their protected merges. The next handoff is the original protected review or merge result. The final delivery date depends on TEST, iPhone checks and final ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
