@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The shared panel failures are assigned to their original writer as a separate priority repair. Hands holds the Stores diagnostic and existing release queue. The TEST installation hold is cleared; no replacement writer or review was started.",
+  "workerState": "The original viewport repair started at 13:22 UTC. The voice-timing follow-up is Draft #5376, stacked after its original shared repair. The existing review queue is running; no competing writer, retry or release call was started.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Floating Stores still has its Big Bag text-measurement failure. The TEST repair’s one authorized retry is queued after four panel-motion failures. Near me and Add to bag remain accepted Drafts. The iPhone observer needs protected release and a specific allocation.",
+  "remaining": "Floating Stores still needs its original Big Bag text-measurement diagnosis. The TEST retry failed one voice-animation timing check; its original author has opened a separate repair. Near me and Add to bag remain accepted Drafts. The iPhone observer needs protected release and an allocation.",
   "current": "The combined budget and draft-order source is installed and hash-verified in TEST: ten files, with all 145 existing settings, saved values and active sign-in code preserved. The new features remain OFF.",
   "next": "Take the original repairs through protected review and merge, then run the already-planned TEST journeys against the verified installed files. Continue the iPhone release and allocation in parallel.",
-  "updated": "04 November, 13:27 UTC. TEST source installation passed; protected merges, shopper tests, native checks and final ratings remain open. Nothing was published live.",
+  "updated": "04 November, 13:37 UTC. TEST installation is verified and acknowledged. Its retry has one failed group and four queued groups; protected merges, shopper tests, native checks and final ratings remain open.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -305,7 +305,7 @@
   ],
   "recentChanges": [
     "**TEST source installed and verified:** ten merged feature files are now in the unpublished TEST theme. All existing settings and sign-in behavior were preserved. New features remain OFF; this is installation proof, not a shopper-test pass.",
-    "**TEST source repair accepted; tests still failing:** the last required group finished with four panel-motion failures. The original owners have the exact cases; the second full review still awaits green required checks.",
+    "**TEST retry found one timing failure:** the group passed 20,124 tests and failed the voice animation’s slowest-frame limit. Four other groups remain queued. The original author opened separate repair #5376; the shared viewport repair is also running. No third retry was started.",
     "**Stores diagnosis completed:** Four test groups passed. The remaining test cleared the arrow but measured too little text width. The saved evidence cannot distinguish real clipping from a measurement problem. The earlier safe-area helper is excluded; one remote witness is now with the original narrow-sort author through Hands.",
     "**Near me and Add to bag:** Bridge verified both accepted revisions in the existing single release queue. Neither is merged or installed yet; no competing release call was started.",
     "**iPhone prerequisites remain open:** Disk recovery was reported at 11:39 UTC. The native observer’s protected release and a Website device allocation are still required; no native pass is claimed."
