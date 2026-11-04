@@ -389,7 +389,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining protected Stores checks and merge, then install in the draft (CI queued; about 10 min installation after merge; next check 15:00Z or original result)."
+        "text": "Complete remaining protected Stores checks and merge, then install in the draft (CI queued; about 10 min installation after merge; next check 15:30Z or original result)."
       },
       {
         "complete": true,
@@ -417,7 +417,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 15:00Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 15:30Z or original result)."
       },
       {
         "complete": true,
@@ -433,11 +433,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 15:00Z or original result)."
+        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 15:30Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 15:00Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 15:30Z or original result)."
       },
       {
         "complete": true,
@@ -468,7 +468,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 15:00 UTC / 23:00 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 15:30 UTC / 23:30 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
