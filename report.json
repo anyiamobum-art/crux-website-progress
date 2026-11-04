@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original desk freed runner capacity: #5351’s regression job ran at 04:22 and passed at 04:27 UTC. It marked the accepted revision Ready at 04:32. Its review-history check stays with that desk; component source is unchanged and no duplicate tests or reviews were started.",
+  "workerState": "#5351 passed its original second review, the independent read and all five test groups. The protected desk merged it at 04:50 UTC. The same desk now owns the dependent release order; no replacement reviewers or duplicate tests were started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#5351’s regression check passed at 04:27 UTC and the original desk marked it Ready at 04:32. Two test groups passed; the other three are running. #5353 and #5354 remain queued after the shared repair.",
+  "lastActualProgress": "#5351 merged at 04:50 UTC on 4 November as d36b2d50. The shared dependency blocker is cleared. Near me #5353 and Add to bag #5354 retain their exact accepted revisions and original queue places.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "#5351 is Ready but unmerged: its regression check passed, two test groups passed and three are running. The desk is reconciling the exact-source review records. #5353/#5354 checks were cancelled in the chair’s capacity recovery; they retain their place in the release order. TEST needs the absent repository secret and fresh admitted run. Native and final-rating acceptance remain open.",
+  "remaining": "#5353/#5354 still need their own admitted checks, independent reviews and merges. Their earlier checks were cancelled during the chair’s runner-capacity recovery. TEST needs its helper release, absent repository secret and fresh admitted run. Native and final-rating acceptance remain open.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
-  "next": "Finish #5351’s original second review and required checks after its 04:32 UTC Ready transition. The chair’s existing queue then takes Near me #5353 and Add to bag #5354 through protected review and merge. Their draft installation is prepared.",
-  "updated": "04 November, 04:34 UTC. Current GitHub heads, jobs and Ready comment read. #5351, #5353 and #5354 remain unmerged; Ready is not completion.",
+  "next": "Take Near me #5353 and Add to bag #5354 through the chair’s protected review and merge order, then install their verified files into the unpublished draft. The shared CI dependency repair #5351 is merged.",
+  "updated": "04 November, 04:56 UTC. #5351 merge and successful required tests verified directly on GitHub. #5353 and #5354 remain Draft and unmerged; their release and installation remain pending.",
   "links": [
     {
       "title": "Near me repair #5353",
@@ -304,7 +304,7 @@
     }
   ],
   "recentChanges": [
-    "**Runner blocker cleared:** #5351’s regression job ran at 04:22 and passed at 04:27 UTC. Two test groups passed and the remaining three are running. The original desk marked this exact revision Ready at 04:32; review and merge still remain.",
+    "**Shared CI repair merged:** #5351 passed its original second review, independent read and all five test groups. It merged at 04:50 UTC as d36b2d50, clearing the dependency for the chair’s release recovery.",
     "**Component release order retained:** #5353/#5354 test runs were cancelled during the chair’s capacity recovery for #5351. This is not a product-test failure. Both exact revisions remain in the original release queue; #5354’s regression check passed. The desk owns their next admitted checks and reviews.",
     "**Options status corrected:** #5324 is merged and installed with exact hosted CSS. The separate desktop-frame obligation was already closed by the chair; stale text claiming it was still due has been removed. Broader draft and native acceptance stays open.",
     "**TEST prerequisite verified:** Ask checked repository-secret names at 04:22 UTC and confirmed the required TEST password secret is absent. #5350 remains unmerged and the earlier contact grant expired. The existing owner-secret action and fresh chair run admission are required; no credential value was read or published.",
@@ -369,11 +369,15 @@
       },
       {
         "complete": true,
-        "text": "Complete and submit the original shared CI dependency repair (22:01Z–22:24Z, took 23 min; #5351 exact source accepted, protected reviews remain)."
+        "text": "Complete and submit the original shared CI dependency repair (22:01Z–22:24Z, took 23 min; protected release now complete in the next step)."
+      },
+      {
+        "complete": true,
+        "text": "Complete #5351’s protected reviews and merge (04:32Z–04:50Z, took 18 min from Ready; original second review, independent read and all five test groups passed)."
       },
       {
         "complete": false,
-        "text": "Complete #5351’s protected second and independent reviews, merge, then the existing Stores release recovery (accepted correction Ready 04:32Z; pin passed, two groups passed and three running; next check 04:50Z or result)."
+        "text": "Advance the existing Stores release recovery after the merged shared repair (started 04:56Z; original desk controls the admitted order; next check 05:10Z or result)."
       },
       {
         "complete": true,
@@ -401,7 +405,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and unpublished-draft installation (chair check 139 queues both after the shared repair; next check 04:50Z or result)."
+        "text": "Take #5353 and #5354 through protected review, merge and unpublished-draft installation (shared dependency merged 04:50Z; original release order retained; about 10 min for installation after both merges; next check 05:10Z or result)."
       },
       {
         "complete": true,
@@ -409,18 +413,18 @@
       },
       {
         "complete": false,
-        "text": "Complete #5350 protected reviews and merge, then its guest-session and credential prerequisites (Ready 02:10Z; fresh run authority required; next check 04:50Z or result)."
+        "text": "Complete #5350 protected reviews and merge, then its guest-session and credential prerequisites (Ready 02:10Z; fresh run authority required; next check 05:10Z or result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on shared dependency repair, #5323 protected review and native slot; #5342 is queued for full review with the recorded regression gap; next check 04:50Z or result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 retains its original review; next check 05:10Z or result)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: Next original-result check is 04:50 UTC / 12:50 Shanghai on 04 November, or an earlier result. Completion time is unknown: protected reviews, TEST access, native checks and final ratings remain."
+    "landing": "Lands: Next original-result check is 05:10 UTC / 13:10 Shanghai on 04 November, or an earlier result. Completion time is unknown: protected reviews, TEST access, native checks and final ratings remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
