@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Stores helper now has three passing test groups and two queued. TEST’s 74 seeded products are published and resolving; the full 76-product map is qualified. The guest-access writer finished, and the original publisher is reconciling its holder record and inherited workflow change. No replacement writer or duplicate run was started.",
+  "workerState": "The Stores helper now has three passing test groups and two queued. TEST’s 74 seeded products are published and resolving; the full 76-product map is qualified. The guest-access repair is now Draft #5359, with its original author and exact-version acceptance from Hands. No replacement writer or duplicate run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original Checkout owner qualified the frozen 76-product map at 06:31 UTC. The Stores helper passed its third test group at 06:38 UTC. The guest-access repair finished at 06:40 UTC and was returned by its original owner for publication.",
+  "lastActualProgress": "The original Checkout owner qualified the frozen 76-product map at 06:31 UTC. The Stores helper passed its third test group at 06:38 UTC. The guest-access repair was published as Draft #5359 and accepted by Hands at 06:53 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -143,8 +143,12 @@
   "remaining": "#5353/#5354 still need admitted checks, independent reviews and merges. Their earlier Draft checks were cancelled during runner recovery. TEST’s secret and catalogue prerequisites are complete; #5350 and the guest follow-up still need protected release and fresh run authority. The iPhone observer is green but awaits protected review and device allocation.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
   "next": "Take Near me #5353 and Add to bag #5354 through the original protected review and merge order, then install their verified files into the unpublished draft. The desk confirmed both queue positions and the iPhone observer’s position; its existing admission limits remain in force.",
-  "updated": "04 November, 06:54 UTC / 14:54 Shanghai. Both catalogue receipt and frozen map hashes match. #5353 and #5354 remain accepted Drafts. #5332 has three passing groups and two queued; #5350 has five queued. Guest publication is pending; no shopper or native acceptance is claimed.",
+  "updated": "04 November, 07:00 UTC / 15:00 Shanghai. The catalogue receipt and frozen map hashes match. #5353 and #5354 remain accepted Drafts. Guest repair #5359 is published and accepted, with review still pending. No shopper or native acceptance is claimed.",
   "links": [
+    {
+      "title": "TEST guest-access repair #5359",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5359"
+    },
     {
       "title": "Near me repair #5353",
       "path": "https://github.com/EON-CRUX/3.09/pull/5353"
@@ -172,10 +176,6 @@
     {
       "title": "TEST product-page looks repair #5288",
       "path": "https://github.com/EON-CRUX/3.09/pull/5288"
-    },
-    {
-      "title": "iPhone observation repair #5323",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5323"
     }
   ],
   "source": "Published projection of the original task report",
@@ -305,7 +305,7 @@
   ],
   "recentChanges": [
     "**TEST catalogue qualified:** All 74 seeded products are ACTIVE, published in TEST and resolving. Checkout verified the unchanged 76-product map, including two existing targets. The original readbacks were reused; no second sync or product publication was performed.",
-    "**Guest-access repair finished:** Its original owner has returned the missing holder record and inherited workflow change to the existing publisher. Source completion does not yet prove live guest access.",
+    "**Guest-access repair published:** Draft #5359 now carries the original author’s fix and Hands’ exact-version acceptance. The publication error is resolved; protected release and a real TEST journey remain pending.",
     "**Stores checks advancing:** Three of its helper’s five test groups have passed; two remain queued. The floating Stores release follows the helper’s protected merge.",
     "**Near me and Add to bag:** Both repaired revisions remain accepted Drafts in the original paced review order. Neither is merged or installed yet.",
     "**Accepted design preserved:** The October 3 homepage and five-look Runway remain installed in the unpublished draft. Final ratings stay 0/3; catalogue and code progress do not substitute for design acceptance."
@@ -417,7 +417,7 @@
       },
       {
         "complete": false,
-        "text": "Complete #5350 protected reviews and merge, then its guest-session prerequisites (recovery queued 06:16Z; secret presence verified; fresh run authority required; next check 07:20Z or original result)."
+        "text": "Complete #5350 and guest repair #5359 protected reviews and merges (recovery queued 06:16Z; secret presence verified; fresh run authority required; next check 07:20Z or original result)."
       },
       {
         "complete": false,
@@ -433,7 +433,7 @@
       },
       {
         "complete": true,
-        "text": "Consume the completed guest-access repair and verify its original publication handoff (06:40Z–06:54Z, took 14 min; source complete, protected release still pending)."
+        "text": "Consume the completed guest-access repair and verify its publication as #5359 (06:40Z–06:53Z, took 13 min; original holder and exact-version acceptance verified; protected release pending)."
       },
       {
         "complete": false,
