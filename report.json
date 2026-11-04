@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Hands pass is handling queue positions and network recovery. The TEST owner has resumed after #5365 merged. No installation, writer or review has been duplicated.",
+  "workerState": "The Desktop chair has returned, and the existing Bridge is restoring its current Hands and desk handoffs. The TEST owner is checking the merged repair and routing the newly observed timing failure to its original author. No replacement website writer or duplicate TEST run has been started.",
   "journey": [
     {
       "stage": "Build",
@@ -429,7 +429,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 21:30Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 22:04Z or original result)."
       },
       {
         "complete": true,
@@ -453,11 +453,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original TEST timing and access repairs, protected reviews and merges (shared viewport dependency merged; original #5358 and #5352 checks resumed; no extra retry; next check 21:30Z or original result)."
+        "text": "Complete original TEST timing and access repairs, protected reviews and merges (shared viewport dependency merged; original #5358 and #5352 checks resumed; no extra retry; next check 22:04Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 21:30Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 22:04Z or original result)."
       },
       {
         "complete": true,
@@ -488,7 +488,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes to install the remaining two components after their protected merges. Next release check is 21:30 UTC / 05:30 Shanghai, or an earlier result. The connection failure delayed the queue readback. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: About 10 minutes to install the remaining two components after their protected merges. Next release check is 22:04 UTC / 06:04 Shanghai, or an earlier result. The connection failure delayed the queue readback. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
