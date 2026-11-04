@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The approved Stores source remains unchanged. Its separate regression-test follow-up is prepared for after the merge. Hands retained the original viewport release continuation and stopped the duplicate helper at 16:12 UTC. Its required check remains queued; no new writer or review was started.",
+  "workerState": "The approved Stores source is unchanged. Its original regression-test follow-up is prepared for after merge. Hands marked the shared viewport repair Ready at 16:42 UTC through the existing continuation; no duplicate writer or review was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Stores group 0 started at 16:18 UTC and is executing its tests. The corrected public report is deployed and byte-verified. TEST and iPhone acceptance remain open.",
+  "lastActualProgress": "Stores group 0 passed at 16:30 UTC and group 3 started at 16:39 UTC. The shared TEST repair’s pin and guards passed, then Hands marked it Ready at 16:42 UTC. The preceding public report is deployed and byte-verified.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "One Stores CI group is running and three are queued. The remaining component reviews are in the existing paced queue. TEST also awaits the shared viewport repair. Hands verified the original continuation and stopped a duplicate helper; its required check remains queued. The iPhone observer is green but still awaits protected review and allocation.",
-  "current": "The Stores overlap repair passed its original final fix-check review, source guards, mutation tests and first CI test group. One further CI group is running and three are queued; protected merge remains outstanding.",
+  "remaining": "Stores still needs three CI results and protected merge. Near me, Add to bag and the iPhone observer remain in the accepted paced review queue. TEST depends on the shared repair’s protected review and merge, followed by its original access checks. The iPhone observer also needs its original device allocation.",
+  "current": "The Stores overlap repair passed its original final fix-check review, source guards and mutation tests. Two CI groups passed, one is running and two are queued. The shared TEST viewport repair has passed its pin check and entered protected review.",
   "next": "Finish Stores CI and merge; take Near me, Add to bag and the iPhone observer through their original review queue. Install only qualified merged files, then complete the original TEST and device journeys.",
-  "updated": "04 November, 16:32 UTC. Stores has its final code approval, one CI group passed, one running and three queued. Near me, Add to bag and the iPhone observer remain accepted Drafts. The task site serves the verified latest report.",
+  "updated": "04 November, 16:44 UTC. Stores has final code approval, two CI groups passed, one running and two queued. The shared TEST repair is Ready; Near me, Add to bag and the iPhone observer remain accepted Drafts. All product merges and acceptance results remain separately tracked.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -304,8 +304,8 @@
     }
   ],
   "recentChanges": [
-    "Hands verified the original viewport release continuation and stopped a duplicate helper at 16:12 UTC. The earlier self-wait diagnosis was incorrect. Its required check remains queued; the repair has not merged yet.",
-    "Stores passed its original final code review and first CI group. Four CI groups and its protected merge remain outstanding.",
+    "The shared TEST viewport repair passed its pin check and guards, then entered protected review at 16:42 UTC. Its existing continuation recovered after the brief GitHub rate limit; the earlier self-wait diagnosis remains withdrawn.",
+    "Stores passed its original final code review and two CI groups. One further group is running and two are queued; protected merge remains outstanding.",
     "The chair filled the available review slot. The existing accepted website order remains the iPhone observer, Near me, then Add to bag; no duplicate queue entry was created.",
     "The buyer-trust check has a specific access prerequisite: the available signed-in device is an Owner session, while Use and Dismiss require the existing staff-representative session. Those actions remain untested.",
     "The draft stays unpublished. Final ratings remain 0/3; separate code approvals do not count as design ratings."
@@ -389,7 +389,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining protected Stores checks and merge, then install in the draft (one CI group passed, one running, three queued; about 10 min installation after merge; next check 16:45Z or original result)."
+        "text": "Complete remaining protected Stores checks and merge, then install in the draft (two CI groups passed, one running, two queued; about 10 min installation after merge; next check 17:10Z or original result)."
       },
       {
         "complete": true,
@@ -417,7 +417,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 16:45Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 17:10Z or original result)."
       },
       {
         "complete": true,
@@ -433,11 +433,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 16:45Z or original result)."
+        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 17:10Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 16:45Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 17:10Z or original result)."
       },
       {
         "complete": true,
