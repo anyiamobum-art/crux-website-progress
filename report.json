@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Hands verified the original release continuation and stopped a duplicate at 16:12 UTC. Stores CI group 4 passed at 15:46 UTC. These are release advances; shopper and iPhone acceptance remain open.",
+  "lastActualProgress": "Stores group 0 started at 16:18 UTC and is executing its tests. The corrected public report is deployed and byte-verified. TEST and iPhone acceptance remain open.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Four Stores CI groups are queued. The remaining component reviews are in the existing paced queue. TEST also awaits the shared viewport repair. Hands verified the original continuation and stopped a duplicate helper; its required check remains queued. The iPhone observer is green but still awaits protected review and allocation.",
-  "current": "The Stores overlap repair passed its original final fix-check review, source guards, mutation tests and first CI test group. Four CI groups and the protected merge remain outstanding.",
+  "remaining": "One Stores CI group is running and three are queued. The remaining component reviews are in the existing paced queue. TEST also awaits the shared viewport repair. Hands verified the original continuation and stopped a duplicate helper; its required check remains queued. The iPhone observer is green but still awaits protected review and allocation.",
+  "current": "The Stores overlap repair passed its original final fix-check review, source guards, mutation tests and first CI test group. One further CI group is running and three are queued; protected merge remains outstanding.",
   "next": "Finish Stores CI and merge; take Near me, Add to bag and the iPhone observer through their original review queue. Install only qualified merged files, then complete the original TEST and device journeys.",
-  "updated": "04 November, 16:18 UTC. Stores is approved with one CI group passed and four queued. Near me and Add to bag remain accepted Drafts. The chair filled its available review slot; the existing website order remains pending.",
+  "updated": "04 November, 16:32 UTC. Stores has its final code approval, one CI group passed, one running and three queued. Near me, Add to bag and the iPhone observer remain accepted Drafts. The task site serves the verified latest report.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -389,7 +389,7 @@
       },
       {
         "complete": false,
-        "text": "Complete remaining protected Stores checks and merge, then install in the draft (one CI group passed, four queued; about 10 min installation after merge; next check 16:30Z or original result)."
+        "text": "Complete remaining protected Stores checks and merge, then install in the draft (one CI group passed, one running, three queued; about 10 min installation after merge; next check 16:45Z or original result)."
       },
       {
         "complete": true,
@@ -417,7 +417,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 16:30Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 16:45Z or original result)."
       },
       {
         "complete": true,
@@ -433,11 +433,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 16:30Z or original result)."
+        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 16:45Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 16:30Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 16:45Z or original result)."
       },
       {
         "complete": true,
@@ -468,7 +468,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 16:30 UTC / 00:30 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 16:45 UTC / 00:45 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
