@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Stores writer has made the scoped source change and is preparing remote qualification. The original TEST and viewport owners retain their repairs. No duplicate writers or review runs were started.",
+  "workerState": "The original Stores writer finished its scoped repair. The parent made the authorized single push and verified it at 14:10 UTC. Required CI is queued or running; the original TEST and viewport owners continue their separate repairs.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original 188 px witness completed at 13:54 UTC and proved that the Stores button covered the sort control. The same source with the narrow lift passed all eight sort choices; the original writer is now integrating it.",
+  "lastActualProgress": "At 14:10 UTC, the narrow Stores collision fix and its file-hash binding were pushed. The unchanged native sort check, four Stores tests, seven closure checks and seven mutation checks passed. Two old-helper test cases remain disclosed; their separate repair is already on main.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The Stores repair needs remote proof and review. TEST still needs its original timing and access repairs; the size-guide journey needs the approved TEST-only fixture. Native checks await the released observer and an allocation.",
-  "current": "The Stores overlap is diagnosed. Its original writer is qualifying the one-line collision fix before the authorized push and protected review.",
-  "next": "Push the qualified Stores repair once and obtain acceptance on that exact version. The existing queue now prioritizes the iPhone observer, then Near me and Add to bag.",
-  "updated": "04 November, 14:04 UTC. Queue priority is accepted; the three prioritized changes remain Drafts. TEST, iPhone checks and the three final ratings remain open.",
+  "remaining": "The Stores repair needs exact-version acceptance, protected CI and review. TEST still needs its original timing and access repairs; the size-guide journey needs the approved TEST-only fixture. Native checks await the released observer and an allocation.",
+  "current": "The Stores overlap repair is pushed and its exact revision is verified on GitHub. Hands acceptance and the original protected reviews are next.",
+  "next": "Complete protected review and merge of Stores, Near me, Add to bag and the iPhone observer; install only qualified merged files, then complete the original TEST and device journeys.",
+  "updated": "04 November, 14:13 UTC. Stores is submitted at its new revision; the three prioritized changes still await their existing Ready queue. TEST, native acceptance and final ratings remain open.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -304,7 +304,7 @@
     }
   ],
   "recentChanges": [
-    "The Stores failure is now traced to a real button overlap. The original writer is applying the smallest correction; all eight sort choices passed the isolated unchanged witness after that lift.",
+    "The Stores failure is now traced to a real button overlap. The original writer completed the smallest correction and it is pushed; all eight sort choices passed the isolated unchanged witness after that lift.",
     "Review priority is accepted: the iPhone observer goes first, followed by Near me and Add to bag. Protected reviews and merges are still outstanding.",
     "The existing TEST catalogue has no eligible two-size product or TEST size guide. The chair approved a small TEST-only fixture through its original owner; the production catalogue stays outside that change.",
     "The ten-file TEST feature installation remains verified. New features are OFF; installation is separate from shopper acceptance."
@@ -379,8 +379,12 @@
         "text": "Complete Stores helper #5332 protected checks and merge (04:56Z–07:56Z, took 180 min including the existing runner queue)."
       },
       {
+        "complete": true,
+        "text": "Diagnose the Stores overlap, qualify the original repair and push once (13:44Z–14:10Z, took 26 min; actual original witness, native regression, source binding and mutation proof retained)."
+      },
+      {
         "complete": false,
-        "text": "Qualify, review and merge the original Stores overlap repair, then install in the draft (started 13:59Z, est. 20 min for remote qualification; original witness completed 13:54Z; review duration depends on the existing queue)."
+        "text": "Complete Stores exact-version acceptance, protected review and merge, then install in the draft (submitted 14:10Z; about 10 min installation after merge; next check 14:20Z or original result)."
       },
       {
         "complete": true,
