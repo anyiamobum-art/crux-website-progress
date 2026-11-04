@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original Stores builder is running its bounded diagnosis. The repaired TEST helper has one test group passed, two running and two queued; its full second review is pending. The existing single release keeper has Near me and Add to bag in its queue; no duplicate Ready call was made.",
+  "workerState": "The original Stores source diagnosis is complete and returned through Hands to the original narrow-sort author. Its remote witness has not started yet. The repaired TEST helper has one test group passed, two running and two queued; full second review is pending. Near me and Add to bag remain in the existing single release queue.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The TEST repair was accepted at 09:42 UTC and returned to Ready at 09:59. The exact new Stores test failure was recovered and sent to its original builder at 11:00. Bridge verified the existing review queue at 11:04.",
+  "lastActualProgress": "The Stores diagnosis bound the actual tested source and ruled out the safe-area helper. Arrow clearance passed, but measured text width failed. Hands received the scoped original-author witness request; no replacement writer or test rerun was started.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Floating Stores has one current failing test. Near me #5353 and Add to bag #5354 await their existing review turns. TEST needs #5350 and #5359 released and fresh run authority. The iPhone observer #5323 and the shared Mac resource hold remain open.",
-  "current": "The TEST named repair is accepted and back in its second independent review. Floating Stores passed four test groups; the fifth found clipped sort text at 188px, which its original builder is diagnosing.",
+  "current": "The TEST named repair is accepted and back in its second independent review. Floating Stores passed four test groups; its remaining failure needs one original-author remote check to distinguish clipped native-select text from a measurement problem.",
   "next": "Resolve the exact Floating Stores test failure through its original author. Continue the existing protected review order for Near me and Add to bag, then install merged files in the unpublished draft.",
-  "updated": "04 November, 11:08 UTC / 19:08 Shanghai. Floating Stores: four test groups passed and one failed. TEST repair: accepted, Ready, second review and checks pending. Near me and Add to bag: accepted Drafts in the original queue.",
+  "updated": "04 November, 11:12 UTC / 19:12 Shanghai. Floating Stores: four test groups passed, one failed; original diagnosis complete, remote witness placement pending. TEST repair: accepted and Ready. Near me and Add to bag: accepted Drafts in the original queue.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Retained floating Stores preview: 6df2daf4. Separate combined shopper repair candidate: 1d880beb, private and unpromoted. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The earlier five-group run finished with three passes and two failures. The chair placed Stores in Draft without changing its revision or review history. Its separate helper correction #5332 has now merged. Floating Stores #5250 returned to Ready on the same approved revision; four current test groups passed and one found clipped sort text at 188px. Its original builder is diagnosing that exact failure; no extra review round or approved-head push is authorized. The existing staff and iPhone route-test repairs stay with their own owners. The combined Runway, garment comparison and store enquiry at d34c0865 now has two completed first design reads. Both returned FAIL. Their original named repairs are combined at 1d880beb; the remote suite, four coherent browser journeys, shared garment identity and popup evidence are complete. All 78 source and evidence hashes match. The remaining shared-component findings are the inert no-JavaScript Near me control and the outward arrow on Add to bag. Their exact findings and source history are now in one concrete brief. The chair has now bound both repairs to the original Add to bag author, expressly appointed as the Near me stand-in. The same author resumed at 03:24 UTC and completed both fixes. Near me b7644b3f is published as #5353, and Add to bag d9733ed6 as #5354; both have exact-source Hands acceptance. Protected review, installation and the original named-fix design acceptance remain pending. No replacement review or passing score is claimed.",
+    "current": "Installed homepage — October 3 Runway · 29e4c4a. Retained floating Stores preview: 6df2daf4. Separate combined shopper repair candidate: 1d880beb, private and unpromoted. The Stores styling candidate at 44e66934 passed its final code check. Its actual test run found two stale installer-manifest assertions. The original writer has completed the chair-amended two-file correction on 01405664, with seven focused tests passing. The single push is verified. Exact-head acceptance and size approval are complete. The final correction check passed at 07:10 UTC. The earlier five-group run finished with three passes and two failures. The chair placed Stores in Draft without changing its revision or review history. Its separate helper correction #5332 has now merged. Floating Stores #5250 returned to Ready on the same approved revision; four current test groups passed and one failed the native-select text-width measurement at 188px. The original diagnosis ruled out the safe-area helper; a remote visual witness is required to distinguish clipping from measurement. No extra review round or approved-head push is authorized. The existing staff and iPhone route-test repairs stay with their own owners. The combined Runway, garment comparison and store enquiry at d34c0865 now has two completed first design reads. Both returned FAIL. Their original named repairs are combined at 1d880beb; the remote suite, four coherent browser journeys, shared garment identity and popup evidence are complete. All 78 source and evidence hashes match. The remaining shared-component findings are the inert no-JavaScript Near me control and the outward arrow on Add to bag. Their exact findings and source history are now in one concrete brief. The chair has now bound both repairs to the original Add to bag author, expressly appointed as the Near me stand-in. The same author resumed at 03:24 UTC and completed both fixes. Near me b7644b3f is published as #5353, and Add to bag d9733ed6 as #5354; both have exact-source Hands acceptance. Protected review, installation and the original named-fix design acceptance remain pending. No replacement review or passing score is claimed.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -305,7 +305,7 @@
   ],
   "recentChanges": [
     "**TEST repair completed:** The original author fixed the missing password setting in both remaining journeys. Hands accepted the exact revision, the chair’s fix check passed, and #5350 is back in its second full review. Fresh required checks are running.",
-    "**Stores failure isolated:** Four test groups passed. The remaining group found clipped “Alphabetically, A-Z” text at 188px. Its original builder is checking the tested source and cause; the approved Stores revision is unchanged.",
+    "**Stores diagnosis completed:** Four test groups passed. The remaining test cleared the arrow but measured too little text width. The saved evidence cannot distinguish real clipping from a measurement problem. The earlier safe-area helper is excluded; one remote witness is now with the original narrow-sort author through Hands.",
     "**Near me and Add to bag:** Bridge verified both accepted revisions in the existing single release queue. Neither is merged or installed yet; no competing release call was started.",
     "**iPhone capacity remains held:** Hands has held Mac lanes for resource recovery. The native observer’s protected release and the allocated device run are still required; no native pass is claimed.",
     "**Accepted design preserved:** The October 3 homepage and five-look Runway remain installed in the unpublished draft. Final ratings stay 0/3; code approvals do not substitute for design acceptance."
@@ -381,7 +381,7 @@
       },
       {
         "complete": false,
-        "text": "Resolve Floating Stores #5250’s current sort-text test failure, complete protected merge and install in the draft (diagnosis started 11:00Z, est. 20 min; about 10 min installation after merge; next check 11:40Z or original result)."
+        "text": "Resolve Floating Stores #5250’s current sort-text test failure, complete protected merge and install in the draft (source diagnosis observed complete 11:10Z; elapsed about 10 min; original-author remote witness placement pending; about 10 min installation after merge; next check 11:40Z or original result)."
       },
       {
         "complete": true,
