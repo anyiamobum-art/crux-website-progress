@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original writer is preparing the reviewer’s non-blocking regression-test follow-up without changing the approved Stores head. Hands published and accepted viewport repair #5380. The desk’s replacement queue process is running; no duplicate was started.",
+  "workerState": "The original writer has prepared the reviewer’s separate regression-test follow-up. The approved Stores head remains unchanged; application and test proof follow its merge. Hands published and accepted viewport repair #5380. The desk’s replacement queue process is running; no duplicate was started.",
   "journey": [
     {
       "stage": "Build",
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores is awaiting protected CI and merge. TEST waits for its original access and timing repairs, including shared viewport repair #5380. The size-guide journey requires the original read-only live-chart check after #5319 merges. Native checks await the released observer and an allocation.",
-  "current": "The Stores overlap repair has passed its original final fix-check review. Hands acceptance and size admission are verified; required CI and any remaining protected read still precede merge.",
+  "remaining": "Stores is awaiting five CI test groups and merge. Its source guards and mutation tests have passed; every online runner matching the queued tests is currently busy. TEST waits for its original access and timing repairs, including shared viewport repair #5380. The size-guide journey requires the original read-only live-chart check after #5319 merges. Native checks await the released observer and an allocation.",
+  "current": "The Stores overlap repair has passed its original final fix-check review. Hands acceptance and size admission are verified; the standard-tier code review is complete. Required CI still precedes merge.",
   "next": "Complete protected review and merge of Stores, Near me, Add to bag and the iPhone observer; install only qualified merged files, then complete the original TEST and device journeys.",
-  "updated": "04 November, 14:50 UTC. GitHub confirms the Stores approval and the accepted viewport Draft. The iPhone observer, Near me and Add to bag remain Drafts in the existing review queue. Public source is being refreshed; hosted byte verification follows.",
+  "updated": "04 November, 15:06 UTC. GitHub confirms Stores is verified and merge-eligible, with its five CI test groups queued. The iPhone observer, Near me, Add to bag and shared viewport repair remain in the original release queue. Public source is being refreshed; hosted byte verification follows.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. Required CI, any remaining protected read and merge remain open. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
+    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. The standard-tier code review is complete; required CI and merge remain open. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -304,7 +304,7 @@
     }
   ],
   "recentChanges": [
-    "The Stores overlap correction passed the original final fix check at 14:46 UTC. The same author is preparing a separate non-blocking test follow-up; the approved source stays frozen.",
+    "The Stores overlap correction passed the original final fix check at 14:46 UTC. The same author has prepared the separate non-blocking test follow-up; the approved source stays frozen.",
     "The shared viewport repair is now published as #5380 with exact-version acceptance. The original TEST owners await its protected merge, then resume the existing runs.",
     "Review priority is accepted: the iPhone observer goes first, followed by Near me and Add to bag. Protected reviews and merges are still outstanding.",
     "The size-guide TEST fixture was withdrawn after the original writer found it could not satisfy the real chart contract honestly. Its original journey will check genuine workbook charts read-only after #5319 merges and its run is authorized; no product or guide will be invented.",
