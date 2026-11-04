@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Floating Stores has five test groups and one pin check queued on its original Ready run. TEST has four groups passed and its last group running. No duplicate run was started.",
+  "workerState": "Floating Stores has five test groups and one pin check queued. TEST’s current suite is complete and green. Near me and Add to bag retain their accepted source and original review order; the desk is holding new admissions while its test queue is above 24. No duplicate run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The Stores helper merged at 07:56 UTC; the desk released Floating Stores at 08:11 UTC. TEST’s final test group began at 08:42 UTC after the other four passed.",
+  "lastActualProgress": "TEST’s final test group passed at 08:58 UTC and its test gate passed at 09:00 UTC. This result was returned once to its original owner for the independent review and merge. The Stores helper merged at 07:56 UTC; Floating Stores became Ready at 08:11 UTC.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Near me #5353 and Add to bag #5354 still need protected reviews and merges. TEST has its secret and qualified catalogue, but #5350 and guest repair #5359 still need release and fresh run authority. The iPhone observer #5323 remains in the protected review queue.",
-  "current": "The Stores helper has merged. Floating Stores is Ready with its existing approval, and its new required checks are queued. The TEST access helper has four passing test groups and the last group running.",
+  "current": "The TEST access helper has passed all five test groups and its final test gate. The original independent review is next. The Stores helper has merged; Floating Stores is Ready with its existing approval and required checks queued.",
   "next": "Finish the original Stores and TEST release checks. Near me and Add to bag continue through the original review order; install each only after its protected merge.",
-  "updated": "04 November, 08:53 UTC / 16:53 Shanghai. Stores helper merged; Floating Stores Ready; TEST four groups passed and one running. Near me, Add to bag and the iPhone observer remain accepted Drafts.",
+  "updated": "04 November, 09:01 UTC / 17:01 Shanghai. TEST’s five groups and final gate passed; its first independent review remains pending. Near me, Add to bag and the iPhone observer remain accepted Drafts.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -306,7 +306,7 @@
   "recentChanges": [
     "**TEST catalogue qualified:** All 74 seeded products are ACTIVE, published in TEST and resolving. Checkout verified the unchanged 76-product map, including two existing targets. The original readbacks were reused; no second sync or product publication was performed.",
     "**Guest-access repair published:** Draft #5359 now carries the original author’s fix and Hands’ exact-version acceptance. The publication error is resolved; protected release and a real TEST journey remain pending.",
-    "**Stores helper merged:** #5332 merged at 07:56 UTC. Floating Stores #5250 returned to Ready at the same approved revision, and its required checks are queued. TEST has four test groups passed and the final group running; the original runs continue.",
+    "**Stores helper merged:** #5332 merged at 07:56 UTC. Floating Stores #5250 returned to Ready at the same approved revision, and its required checks are queued. TEST has now passed all five test groups and its final gate; the original independent review remains pending.",
     "**Near me and Add to bag:** Both repaired revisions remain accepted Drafts in the original paced review order. Neither is merged or installed yet.",
     "**Accepted design preserved:** The October 3 homepage and five-look Runway remain installed in the unpublished draft. Final ratings stay 0/3; catalogue and code progress do not substitute for design acceptance."
   ],
