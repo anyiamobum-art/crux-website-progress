@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Original owners and review histories are retained. The release worker is alive with a fresh tracker and is paused at its existing review-capacity limit. Stores auto-merge remains enabled. Draft installation preparation refuses to run before protected merge. TEST owners are running the dependent checks.",
+  "workerState": "The original queue is progressing again. The Website parent is preparing the merged Stores draft installation; its original support agent is continuing the separate select-control test follow-up. TEST owners retain the dependent runs.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shared TEST repair #5380 merged at 18:15:29 UTC. The original dependent checks for #5358 and #5352 restarted. The original chair recovered the stale queue tracker at 19:47 UTC. The public report deployment completed at 19:48:52 UTC and its exact HTML and data were verified at 19:51 UTC.",
+  "lastActualProgress": "Stores #5250 merged at 20:09:05 UTC as 54cfaa4a after one cancelled metadata job passed. The shared TEST repair #5380 was already merged and its dependent checks resumed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The stale queue tracker was recovered by its original owner at 19:47 UTC. The existing worker now reports six changes waiting for their first verdict, at its six-change limit. Stores retains a separate GitHub merge-policy refusal despite passing required checks. The exact duplicate-check evidence is with the original custodian; its cause is not yet established.",
-  "current": "The shared TEST repair #5380 has merged. Its original dependent checks are running through the existing owners. Stores #5250 has passed its final code review and all required checks, but GitHub still blocks its protected merge. Near me, Add to bag and the iPhone observer are waiting in the existing review queue.",
-  "next": "Resolve the recorded Stores merge refusal, then qualify the merged source and install its five files in the unpublished draft. The existing queue tracker has recovered; Near me, Add to bag and the iPhone observer await the next review-capacity boundary. Continue the original TEST journeys after their dependent checks pass.",
-  "updated": "04 November, 19:53 UTC. Stores is approved and its four required checks pass; merge remains open. Near me and Add to bag remain accepted Drafts in the original capacity queue. Shared TEST repair #5380 is merged. Final design passes remain 0/3; the Shopify draft remains unpublished.",
+  "remaining": "The Stores merge refusal is resolved. Near me, Add to bag and the iPhone observer still await their paced review turns. TEST and native acceptance remain dependent on their original repairs and supported allocations.",
+  "current": "Floating Stores #5250 merged at 20:09 UTC after its cancelled metadata check was recovered. The approved five-file change is being qualified for installation into the unpublished Shopify draft. Near me, Add to bag and the iPhone observer remain in the existing review queue.",
+  "next": "Install the exact merged Stores files, verify Shopify readback and preserve the active theme. Continue the original TEST journeys and iPhone checks as their reviewed dependencies and allocated turns become available.",
+  "updated": "04 November, 20:10 UTC. Stores is merged. Its draft installation is in progress, not yet verified. Near me and Add to bag remain accepted Drafts. Final design passes remain 0/3 and live publication is excluded.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. The standard-tier code review and required CI are complete; the protected merge refusal remains open. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
+    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. The standard-tier code review and required CI are complete; protected merge 54cfaa4a is verified at 20:09 UTC and draft installation is in progress. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -305,7 +305,7 @@
   ],
   "recentChanges": [
     "The shared TEST repair #5380 merged at 18:15 UTC. Its old merge wait is closed, and the original owners have restarted the dependent checks.",
-    "Stores is code-approved with all required checks passing. GitHub’s protected merge refusal remains open; normal auto-merge is enabled.",
+    "Stores is code-approved, all required checks pass, and protected merge 54cfaa4a is verified. Its five-file draft installation is being qualified.",
     "The original keeper recovered the stale queue tracker at 19:47 UTC. The same worker is now waiting at its existing six-change review limit; no replacement queue was created.",
     "The 19:48 task-site update is deployed and its public HTML and data were verified byte for byte. This report records the recovered tracker and remaining capacity limit.",
     "Final ratings stay 0/3 until the required evidence passes. No Shopify theme was published live."
@@ -392,8 +392,12 @@
         "text": "Complete all five Stores test groups and the final required gate (14:10Z–17:15Z, took 185 min including the existing runner queue)."
       },
       {
+        "complete": true,
+        "text": "Recover the cancelled Stores metadata check and complete protected merge (20:00Z–20:09Z, took 9 min; same approved source, one job retry and normal protected squash)."
+      },
+      {
         "complete": false,
-        "text": "Clear the protected Stores merge refusal and install the five qualified files in the draft (started 17:18Z; installation est. 10 min after merge; original custodian is resolving the recorded policy refusal; next check 20:15Z or original result)."
+        "text": "Install and verify the five merged Stores files in the unpublished draft (started 20:09Z, est. 10 min; qualification and fresh preimages running)."
       },
       {
         "complete": true,
