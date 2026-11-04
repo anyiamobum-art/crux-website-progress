@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original TEST owner is reconciling the same writer’s repair placement. Floating Stores has five test groups and one pin check queued. Near me and Add to bag remain accepted Drafts; no duplicate writer or review was started.",
+  "workerState": "Hands has received the one TEST review finding through its original owner; writer start is not yet verified. Floating Stores has five test groups and one pin check queued. Near me and Add to bag remain accepted Drafts. No duplicate writer, review or test was started.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "Near me #5353 and Add to bag #5354 still need protected reviews and merges. TEST has its secret and qualified catalogue, but #5350 and guest repair #5359 still need release and fresh run authority. The iPhone observer #5323 remains in the protected review queue.",
   "current": "The TEST helper passed its full test suite, but its first independent review found one medium issue in two additional journeys. The original owner is arranging the scoped repair. Floating Stores remains Ready with its required checks queued.",
   "next": "Complete the original TEST named repair and protected review. Keep Near me and Add to bag in the original review order, then install their merged files in the unpublished draft.",
-  "updated": "04 November, 09:12 UTC / 17:12 Shanghai. TEST review R1 rejected one medium issue after the full test suite passed. Near me, Add to bag and the iPhone observer remain accepted Drafts.",
+  "updated": "04 November, 09:21 UTC / 17:21 Shanghai. Hands has received the TEST finding; the original repair writer’s start is not yet verified. Floating Stores checks remain queued. Near me, Add to bag and the iPhone observer remain accepted Drafts.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -381,7 +381,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Floating Stores #5250 required checks, protected merge and draft installation (started 08:11Z; original queued run retained; about 10 min installation after merge; next check 09:20Z or original result)."
+        "text": "Complete Floating Stores #5250 required checks, protected merge and draft installation (started 08:11Z; original queued run retained; about 10 min installation after merge; next check 09:40Z or original result)."
       },
       {
         "complete": true,
@@ -409,7 +409,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and unpublished-draft installation (shared dependency merged 04:50Z; original release order retained; about 10 min for installation after both merges; next check 09:20Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and unpublished-draft installation (shared dependency merged 04:50Z; original release order retained; about 10 min for installation after both merges; next check 09:40Z or original result)."
       },
       {
         "complete": true,
@@ -421,11 +421,11 @@
       },
       {
         "complete": false,
-        "text": "Complete #5350’s one named repair, then #5350 and guest #5359 protected reviews and merges (R1 finding returned 09:10Z; original writer recovery; fresh run authority required; next check 09:20Z or original result)."
+        "text": "Complete #5350’s one named repair, then #5350 and guest #5359 protected reviews and merges (R1 finding returned 09:10Z; original writer recovery; fresh run authority required; next check 09:40Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 retains its original review; next check 09:20Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review and native slot; #5342 retains its original review; next check 09:40Z or original result)."
       },
       {
         "complete": true,
@@ -444,7 +444,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: Next original-result check is 09:20 UTC / 17:20 Shanghai on 04 November, or an earlier result. Final completion time is unknown: protected reviews, TEST journeys, iPhone checks and final ratings remain."
+    "landing": "Lands: Next original-result check is 09:40 UTC / 17:40 Shanghai on 04 November, or an earlier result. Final completion time is unknown: protected reviews, TEST journeys, iPhone checks and final ratings remain."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
