@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Stores helper has four passing test groups and one queued. The TEST access helper’s first group is now running; four remain queued. All 76 mapped TEST products resolve, and guest repair #5359 is published with its original author. No duplicate run was started.",
+  "workerState": "The Stores helper has four passing test groups and one queued. The TEST access helper’s tests are running on the original remote workers; remaining groups are queued. All 76 mapped TEST products resolve, and guest repair #5359 is published with its original author. No duplicate run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -143,7 +143,7 @@
   "remaining": "#5353/#5354 still need admitted checks, independent reviews and merges. Their earlier Draft checks were cancelled during runner recovery. TEST’s secret and catalogue prerequisites are complete; #5350 and the guest follow-up still need protected release and fresh run authority. The iPhone observer is green but awaits protected review and device allocation.",
   "current": "The October 3 homepage and five-look Runway are installed in the unpublished Shopify draft. All 37 files passed exact hosted readback; the active theme stayed unchanged. Chrome visibly confirmed the Draft banner, homepage and working next/previous look controls. The Options performance repair is also merged and installed.",
   "next": "Take Near me #5353 and Add to bag #5354 through the original protected review and merge order, then install their verified files into the unpublished draft. The desk confirmed both queue positions and the iPhone observer’s position; its existing admission limits remain in force.",
-  "updated": "04 November, 07:20 UTC / 15:20 Shanghai. Stores has four passing groups and one queued; the TEST helper’s first group is running. #5353 and #5354 remain accepted Drafts. The chair approval on #5350 is verified; robot review remains pending protected checks.",
+  "updated": "04 November, 07:20 UTC / 15:20 Shanghai. Stores has four passing groups and one queued; the TEST helper’s tests are running. #5353 and #5354 remain accepted Drafts. The chair approval on #5350 is verified; robot review remains pending protected checks.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -306,7 +306,7 @@
   "recentChanges": [
     "**TEST catalogue qualified:** All 74 seeded products are ACTIVE, published in TEST and resolving. Checkout verified the unchanged 76-product map, including two existing targets. The original readbacks were reused; no second sync or product publication was performed.",
     "**Guest-access repair published:** Draft #5359 now carries the original author’s fix and Hands’ exact-version acceptance. The publication error is resolved; protected release and a real TEST journey remain pending.",
-    "**Protected tests advancing:** Stores has four groups passed and one queued. The TEST access helper has begun its first group. The original runs continue; no rerun was dispatched.",
+    "**Protected tests advancing:** Stores has four groups passed and one queued. The TEST access helper’s test groups are executing. The original runs continue; no rerun was dispatched.",
     "**Near me and Add to bag:** Both repaired revisions remain accepted Drafts in the original paced review order. Neither is merged or installed yet.",
     "**Accepted design preserved:** The October 3 homepage and five-look Runway remain installed in the unpublished draft. Final ratings stay 0/3; catalogue and code progress do not substitute for design acceptance."
   ],
