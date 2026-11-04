@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The approved Stores source is unchanged. Its original regression-test follow-up is prepared for after merge. The shared viewport repair is Ready with its first approval; the same original owners retain the remaining work.",
+  "workerState": "The approved Stores source is unchanged. Its protected auto-merge is armed; the exact installation preparation is ready and refuses to run before the merge. The original regression-test follow-up is prepared separately. Existing owners retain the remaining review and TEST work.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Stores group 1 passed at 17:06 UTC, bringing its CI groups to four passed and one running. The shared TEST repair’s last group passed at 17:06 UTC and its test gate passed at 17:06:46 UTC. No product merge or final design pass is claimed.",
+  "lastActualProgress": "Stores group 2 passed at 17:13:53 UTC and the final test gate passed at 17:15:11 UTC. The protected merge attempt returned a branch-policy refusal; ordinary auto-merge was enabled at 17:20:29 UTC. The same installer now has a five-file preparation step that verifies current main, original approval and fresh draft backups before any write.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Stores needs its last CI result and protected merge. Near me, Add to bag and the iPhone observer remain in the accepted paced review queue. TEST depends on the shared repair’s second review and merge, followed by its original access checks. The iPhone observer also needs its original device allocation.",
-  "current": "The Stores overlap repair has its final code approval, guards and mutation tests. Four CI groups passed; only the original group 2 is running. The shared TEST viewport repair passed all five groups and its test gate; its first protected review approved it. Its second review and fresh Ready-triggered check remain.",
-  "next": "Finish Stores CI and merge; take Near me, Add to bag and the iPhone observer through their original review queue. Install only qualified merged files, then complete the original TEST and device journeys.",
-  "updated": "04 November, 17:10 UTC. Stores has final code approval, four CI groups passed and one running. The shared TEST repair has its first approval and a passing test gate. Near me, Add to bag and the iPhone observer remain accepted Drafts.",
+  "remaining": "Stores is green but GitHub still reports a branch-policy merge refusal. Hands is reconciling it. Near me, Add to bag and the iPhone observer remain in the accepted paced review queue. TEST still needs its protected dependency merges and original access checks; iPhone needs its original device allocation.",
+  "current": "Stores has passed all five CI groups, its final test gate and its original final code review. GitHub still refuses its protected merge; normal auto-merge is enabled and Hands has the exact refusal. The shared TEST repair has its first approval and passing required checks; its current standard classification requires no extra review.",
+  "next": "Clear the recorded GitHub merge refusal, qualify the merged Stores source and install its five files in the unpublished draft. Continue Near me, Add to bag and the iPhone observer through their existing review queue, then the original TEST and device journeys.",
+  "updated": "04 November, 17:23 UTC. Stores: all five test groups and four required checks pass; final code review approved; protected merge still open. Near me, Add to bag and the iPhone observer remain accepted Drafts. No final design pass or Shopify publication is claimed.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -205,7 +205,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. The standard-tier code review is complete; required CI and merge remain open. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
+    "current": "Installed homepage — October 3 Runway · 29e4c4a. Stores repair ca91bd46 is pushed but not installed: its unchanged native sort regression passes, and exact-version size admission is verified. Hands acceptance and the original first-reader round-3 fix check are complete. The standard-tier code review and required CI are complete; the protected merge refusal remains open. Earlier design scores below are bound to their named source; they do not grade this new correction or the complete installed draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -304,11 +304,11 @@
     }
   ],
   "recentChanges": [
-    "The shared TEST viewport repair received its first protected approval at 16:51 UTC. All five original test groups and its test gate passed by 17:06 UTC. Its critical review tier still requires the original second approval; a fresh Ready-triggered check remains queued.",
-    "Stores passed its original final code review and four CI groups. Only the original group 2 is running; protected merge remains outstanding.",
-    "The chair filled the available review slot. The existing accepted website order remains the iPhone observer, Near me, then Add to bag; no duplicate queue entry was created.",
-    "The buyer-trust check has a specific access prerequisite: the available signed-in device is an Owner session, while Use and Dismiss require the existing staff-representative session. Those actions remain untested.",
-    "The draft stays unpublished. Final ratings remain 0/3; separate code approvals do not count as design ratings."
+    "Stores completed all five test groups and its final gate. The remaining failure is GitHub's protected merge refusal; Hands has its exact result and ordinary auto-merge is armed.",
+    "The five-file installation preparation now checks the protected merge, current-main bytes, original approvals, current theme roles and exact backups before the existing draft installer can write.",
+    "The shared TEST repair is currently classified standard, with its first approval and four required checks passing. The earlier statement that a second approval was required has been corrected; its remaining automatic check and protected merge stay with the original owner.",
+    "Near me, Add to bag and the iPhone observer retain their positions in the existing review queue. No duplicate queue entries or review runs were created.",
+    "The draft stays unpublished. Final design passes remain 0/3; code approvals do not change those ratings."
   ],
   "openDeliveryGates": [
     {
@@ -388,8 +388,12 @@
         "text": "Complete Stores exact-version acceptance and original final fix check (14:10Z–14:46Z, took 36 min; protected head preserved)."
       },
       {
+        "complete": true,
+        "text": "Complete all five Stores test groups and the final required gate (14:10Z–17:15Z, took 185 min including the existing runner queue)."
+      },
+      {
         "complete": false,
-        "text": "Complete remaining protected Stores checks and merge, then install in the draft (four CI groups passed, one running; about 10 min installation after merge; next check 17:25Z or original result)."
+        "text": "Clear the protected Stores merge refusal and install the five qualified files in the draft (started 17:18Z; installation est. 10 min after merge; Hands has the exact policy refusal; next check 17:35Z or original result)."
       },
       {
         "complete": true,
@@ -417,7 +421,7 @@
       },
       {
         "complete": false,
-        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 17:25Z or original result)."
+        "text": "Take #5353 and #5354 through protected review, merge and draft installation (priority accepted 13:51Z after the iPhone observer; about 10 min installation after both merges; next check 17:35Z or original result)."
       },
       {
         "complete": true,
@@ -433,11 +437,11 @@
       },
       {
         "complete": false,
-        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 17:25Z or original result)."
+        "text": "Complete original TEST timing and access repairs, protected reviews and merges (attempt 2 failed its voice timing group; original repair #5376 is a separate Draft; no third retry; next check 17:35Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 17:25Z or original result)."
+        "text": "Complete original iPhone repair and allocated seven checks (waiting on #5323 protected review, Hands native allocation after reported disk recovery; no Mac lane started; next check 17:35Z or original result)."
       },
       {
         "complete": true,
@@ -468,7 +472,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 17:25 UTC / 01:25 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 17:35 UTC / 01:35 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
