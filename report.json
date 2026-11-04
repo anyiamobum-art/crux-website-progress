@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original panel repair has a new submitted revision with protected tests queued. Hands has the overdue Stores diagnostic placement. The original source custodian is deciding the precise TEST schema preservation exception; no replacement writer or review was started.",
+  "workerState": "The shared panel failures are assigned to their original writer as a separate priority repair. Hands holds the Stores diagnostic and existing release queue. The TEST installation hold is cleared; no replacement writer or review was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 13:16 UTC, captured 28 TEST preimages and prepared the ten-file merged feature installation, with no Shopify writes. Verified the original TEST retry is queued on the same revision and the component repairs remain in their original queue.",
+  "lastActualProgress": "At 13:25 UTC, verified one ten-file TEST installation by exact hash. Every unrelated draft file, saved setting, sign-in file and TEST main-theme file stayed unchanged. The receipt is returned to the original test owners.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -141,9 +141,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Floating Stores still has its Big Bag text-measurement failure. The TEST repair’s one authorized retry is queued after four panel-motion failures. Near me and Add to bag remain accepted Drafts. The iPhone observer needs protected release and a specific allocation.",
-  "current": "The combined budget and draft-order installation is prepared for TEST: ten changed files, with all 145 existing theme settings and active sign-in behavior preserved. No files have been installed yet.",
-  "next": "Resolve the four existing schema differences with the original source owner, confirm the gap between TEST runs, then install and verify the exact merged files. Continue Stores, Near me and Add to bag through their existing repair and review routes.",
-  "updated": "04 November, 13:17 UTC. Installation preparation is complete; protected merges, shopper tests, native checks and final ratings remain open. The live theme is unchanged.",
+  "current": "The combined budget and draft-order source is installed and hash-verified in TEST: ten files, with all 145 existing settings, saved values and active sign-in code preserved. The new features remain OFF.",
+  "next": "Take the original repairs through protected review and merge, then run the already-planned TEST journeys against the verified installed files. Continue the iPhone release and allocation in parallel.",
+  "updated": "04 November, 13:27 UTC. TEST source installation passed; protected merges, shopper tests, native checks and final ratings remain open. Nothing was published live.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -304,11 +304,11 @@
     }
   ],
   "recentChanges": [
+    "**TEST source installed and verified:** ten merged feature files are now in the unpublished TEST theme. All existing settings and sign-in behavior were preserved. New features remain OFF; this is installation proof, not a shopper-test pass.",
     "**TEST source repair accepted; tests still failing:** the last required group finished with four panel-motion failures. The original owners have the exact cases; the second full review still awaits green required checks.",
     "**Stores diagnosis completed:** Four test groups passed. The remaining test cleared the arrow but measured too little text width. The saved evidence cannot distinguish real clipping from a measurement problem. The earlier safe-area helper is excluded; one remote witness is now with the original narrow-sort author through Hands.",
     "**Near me and Add to bag:** Bridge verified both accepted revisions in the existing single release queue. Neither is merged or installed yet; no competing release call was started.",
-    "**iPhone prerequisites remain open:** Disk recovery was reported at 11:39 UTC. The native observer’s protected release and a Website device allocation are still required; no native pass is claimed.",
-    "**Accepted design preserved:** The October 3 homepage and five-look Runway remain installed in the unpublished draft. Final ratings stay 0/3; code approvals do not substitute for design acceptance."
+    "**iPhone prerequisites remain open:** Disk recovery was reported at 11:39 UTC. The native observer’s protected release and a Website device allocation are still required; no native pass is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -452,15 +452,15 @@
         "text": "Prepare the compatible budget and draft-order feature installation (12:36Z–13:16Z, took 40 min; 28 guarded preimages, ten changed files, no write)."
       },
       {
-        "complete": false,
-        "text": "Resolve the schema exception and install the qualified TEST cohort between runs (started 13:14Z, est. 10 min after the original ruling and boundary; settings and sign-in preserved)."
+        "complete": true,
+        "text": "Resolve the schema exception and install the qualified TEST cohort between runs (13:14Z–13:25Z, took 11 min; one write, ten exact file hashes, preserved settings/sign-in and TEST main theme)."
       },
       {
         "complete": false,
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: About 10 minutes to install and verify after the original source ruling and between-run boundary. Next release check is 13:45 UTC / 21:45 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
+    "landing": "Lands: About 10 minutes for the remaining component installation after its protected merges. Next release check is 13:45 UTC / 21:45 Shanghai, or an earlier result. Final completion time remains unknown while TEST, iPhone checks and final ratings are open."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
