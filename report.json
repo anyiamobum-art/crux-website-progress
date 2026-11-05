@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Queue hold removed and checkout repair5397 Ready verified at05:59 UTC; original test run41977319171 now has five queued groups. Near me and Add to bag exact-head acceptances were rechecked; their old red summaries came from cancelled runs, not demonstrated source failures.",
+  "lastActualProgress": "Checkout5397 admission passed and its correctness job is running; five test groups are queued. The original password repair5319 now has exact-head acceptance. JEV5394’s real TEST reply and first code approval are verified; its protected release and capped replay remain open.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Protected reviews and merges are still required. Separately, the reviewed draft uploader loads a held Mac configuration; Hands must qualify the server invocation and the exact unpublished-theme command.",
+  "remaining": "Protected reviews and merges are still required. The server route has reopened, but the existing uploader’s Mac paths and external payload need a qualified server invocation and permission for the exact unpublished-theme asset.",
   "current": "The shared CI repair is merged and deployed. The original desk has lifted its hold and restarted the ordered review queue; the isolated TEST checkout repair is now Ready and its five test groups are queued.",
   "next": "Consume the original protected checkout result while the Near me, Add to bag and iPhone-observer changes reach their retained queue slots. Obtain the safe one-asset draft-installation command from the original custodian.",
-  "updated": "5 November,06:02 UTC /14:02 Shanghai. Shared repair merged and deployed; dependent queue recovery is executing. Safe draft installation, native checks and final ratings remain open.",
+  "updated": "5 November,06:14 UTC /14:14 Shanghai. Shared repair merged and deployed; original dependent work continues. Draft installation, native checks and final ratings remain open.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -305,9 +305,10 @@
   ],
   "recentChanges": [
     "The shared repair passed all five test groups, merged and was verified deployed. The original desk has now removed its hold; checkout5397 is Ready with its original suite queued.",
-    "The draft installation request now names one exact asset and its verified source, candidate and rollback hashes. The reviewed adapter’s Mac configuration dependency is explicitly recorded for the original server custodian; it has not been bypassed.",
+    "The draft installation request now names one exact asset and its verified source, candidate and rollback hashes. The actual reopened server wrapper disables dotenv loading. Its remaining Mac-path and external-input incompatibility is now with the original custodian; no upload or credential workaround has occurred.",
     "The chair acknowledged the three-product catalogue mismatch and confirmed that nothing should be published or removed from a sales channel until its reason is established.",
-    "The guest iPhone checks remain independent of signed TEST setup. They need the original observer merge and device allocation, not another staff login."
+    "The guest iPhone checks remain independent of signed TEST setup. They need the original observer merge and device allocation, not another staff login.",
+    "JEV’s real TEST call returned an answer and passed the first independent code review. The app switch remains off; the capped replay and final website experience are still unverified."
   ],
   "openDeliveryGates": [
     {
@@ -488,7 +489,7 @@
       },
       {
         "complete": false,
-        "text": "Install and verify the merged browsing-identity patch in the unpublished draft (about10min after the original credential custodian clears its route; next check06:09Z; original wait remains04:12Z)."
+        "text": "Install and verify the merged browsing-identity patch in the unpublished draft (about10min after the original credential custodian clears its route; next route check06:45Z; original wait remains04:12Z)."
       },
       {
         "complete": true,
@@ -496,7 +497,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (checkout5397 is Ready with five queued test groups;5359 remains in the original paced queue; next check06:09Z)."
+        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (checkout5397 is Ready with five queued test groups;5359 remains in the original paced queue; original Checkout next check06:21Z)."
       },
       {
         "complete": false,
@@ -573,7 +574,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: The next bounded history read is about5min after the shared repair clears and the original custodian qualifies the server read. Draft identity write has a separate scope gap, next check06:09 UTC /14:09 Shanghai. Next protected-result and draft-route check06:09 UTC /14:09 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
+    "landing": "Lands: The next bounded history read is about5min after the shared repair clears and the original custodian qualifies the server read. Draft identity write has a separate scope gap, next check06:45 UTC /14:45 Shanghai. Next protected-result check06:21 UTC /14:21 Shanghai and draft-route check06:45 UTC /14:45 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
