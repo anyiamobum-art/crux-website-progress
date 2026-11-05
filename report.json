@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Hands owns the protected queue for Near me, Add to bag and the iPhone test tool. The TEST checkout team owns the signed shopper checks. The source for the signed journey is being qualified by its original author.",
+  "workerState": "Checkout took the merged repair forward and requested the current four-setting check. Website returned the verified result. Ask sent the guest-access merge conflicts to Hands under the original assignment.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Stores #5250 merged at20:09 UTC and passed exact draft readback at20:20. TEST frame repair shipped in #5376 at22:27; original #5358 closed at22:29. The signed TEST writer started at22:25. The separate JEV evaluation stopped before scoring and remains a repair, not a pass.",
+  "lastActualProgress": "At 00:01 UTC on 5 November the TEST password repair merged after both protected approvals. At 00:08 UTC all four checkout settings matched on the private TEST theme. The check made zero writes.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The iPhone test tool has green checks, but the queue skips it while over capacity. Hands and the chair own its review slot. Near me and Add to bag follow it. Guest TEST access awaits its original repair.",
-  "current": "Floating Stores is merged and verified in the unpublished Shopify draft. Near me, Add to bag and the iPhone observer are accepted Drafts awaiting protected review. The original signed TEST journey writer is running; that route needs no PIN or manual browser login.",
-  "next": "Consume the original protected review results and install qualifying merged sources. The signed TEST writer must deliver its workflow selector and proof before a dated hosted test. The seven iPhone checks await the original observer merge and device allocation.",
-  "updated": "4 November, 23:36 UTC. All five test groups passed. The protected reviewer approved the TEST password fix in round 2 at 23:33 UTC. Its protected merge is still pending.",
+  "remaining": "The guest-access repair needs its three conflicts resolved on the merged source. The iPhone checks need the observer to clear protected review and a device slot. Hands holds the queue for the two storefront controls.",
+  "current": "The TEST password repair has merged. All four checkout settings on the unpublished TEST theme matched after installation. Checkout has the readback for the shopper test. Floating Stores is already verified in the CRUX draft.",
+  "next": "Checkout prepares the time-limited grant for the delivery-and-total test. Its original test owner runs it when the chair grants the slot. Hands has the follow-up for three conflicting guest-access files. Near me, Add to bag and the iPhone observer are queued for review.",
+  "updated": "5 November, 00:08 UTC. The merged workflow and three other files match the reviewed versions byte for byte. The shared test harness also contains an existing main-branch change. Its merged content was verified.",
   "links": [
     {
       "title": "TEST guest-access repair #5359",
@@ -305,10 +305,10 @@
   ],
   "recentChanges": [
     "Floating Stores is installed in the unpublished draft. All five files matched the reviewed source when read back from Shopify.",
-    "All five CI groups passed for the TEST password repair (#5350). Its reviewer approved the full second-round read at 23:33 UTC. The protected merge and guest-access follow-up remain open.",
+    "The TEST password repair passed both protected reviews and merged. All four settings matched on Shopify’s private TEST theme. Checkout has the signed-off settings for its shopper test.",
     "The two shopper profiles are distinct. Their signed comparisons still need an authorized TEST run. The shared TEST frame repair shipped in #5376.",
     "Both Near me and Add to bag have been accepted into the queue. The iPhone test tool passed its checks. Hands has the request for its review slot.",
-    "The earlier dashboard deployment was superseded. Both the public page and its data matched the corrected source at 23:30 UTC."
+    "The guest-access follow-up needs three files reconciled with the merge. Its original lead has sent Hands the exact changes."
   ],
   "openDeliveryGates": [
     {
@@ -445,7 +445,15 @@
       },
       {
         "complete": true,
-        "text": "Verify all five groups and the overall TEST password-repair gate on the same commit (23:14Z–23:20Z, took 6 min). Protected review and Shopify shopper tests remain open."
+        "text": "Verify all five groups and the overall TEST password-repair gate on the same commit (23:14Z–23:20Z, took 6 min). Both protected reviews subsequently passed. Shopify shopper tests remain open."
+      },
+      {
+        "complete": true,
+        "text": "Follow the TEST password repair through both independent code approvals and protected merge (23:33Z–00:02Z, took 29 min)."
+      },
+      {
+        "complete": true,
+        "text": "Read and verify the four checkout settings on the unpublished TEST theme and return the receipt to Checkout (00:05Z–00:08Z, took 3 min)."
       },
       {
         "complete": true,
