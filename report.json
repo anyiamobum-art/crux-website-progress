@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The existing TEST coordinator and release Bridge are active in parallel. No replacement writer or review has started. The cart-author route refusal has been returned to Hands. The remaining iPhone observer proof group is queued; no native Website check is active.",
+  "workerState": "The existing TEST coordinator and release Bridge are active in parallel. The remaining observer proof group is running. The source-only empty-bag follow-up has been returned through the original chair card; no replacement author or test replay was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Observer regression-proof group2 passed at12:04 UTC. Actual failed admission and cancelled-job logs for #5353/#5354 were diagnosed and returned to the original release queue at12:05 UTC. Homepage #5433 acceptance and both TEST merge-conflict pushes remain verified.",
+  "lastActualProgress": "At12:14 UTC the chair removed the queue-cap hold for the two accepted component repairs. At12:20 UTC the cart trace identified the first-add refusal before POST and the recovery paths that the fix must preserve. Observer proof group1 is now executing; group2 passed at12:04 UTC.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Near me #5353 and Add to bag #5354 remain accepted Drafts. Their admission logs fail only on Draft status; their later red aggregates come from cancelled required jobs. The original release desk has the exact logs for queue recovery. These results are not new source findings or passing tests. Studio holds the shared Mac for a capture until its release, no later than13:00 UTC.",
-  "current": "One of the iPhone observer’s two regression-proof groups passed at12:04 UTC; the other is queued. The observer has both independent code approvals. Homepage repair #5433 is accepted and waiting for its original protected review.",
-  "next": "Complete the original protected reviews and install only eligible merged fixes in the unpublished draft. Hands must return a supported continuation for the cart author: the original conversation now explicitly says it is unavailable. The prepared empty-bag diagnosis remains with that same custody request.",
-  "updated": "5 November, 12:10 UTC /20:10 Shanghai. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "remaining": "The two component repairs still need protected review and merge; the new queue exception has not completed those steps. The empty-bag failure is diagnosed but not repaired. Studio holds the shared Mac until its released slot, no later than13:00 UTC. Native iPhone acceptance remains0/7.",
+  "current": "The chair has granted the specific queue exceptions for Near me #5353 and Add to bag #5354. The iPhone observer’s second proof group has passed and its first group is now running. The empty-bag source trace is complete.",
+  "next": "The original release desk admits #5353 then #5354 after #5323 once the shared proof-capacity repair #5437 is merged and deployed. The chair is receiving the empty-bag repair recommendation and its required recovery tests. Homepage repair #5433 stays frozen for protected review.",
+  "updated": "5 November, 12:23 UTC /20:23 Shanghai. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "Homepage integration repair #5433 is now published with 7 passing tests and 18 passing regression mutations. Only its generated homepage layout changes; the other 36 files remain identical. The approved design is preserved.",
-    "iPhone observer #5323 has both independent approvals, at11:10 and11:23 UTC. Its current second proof group is running; the remaining proof, merge and device allocation are still open.",
-    "The TEST delivery-total journey is accepted: all 12 checks passed on deployed code, including changed-bag invalidation and cleanup without a charge. Store collection remains a separate unfinished path.",
-    "The collection repair’s pin passed at 11:14 UTC; its original Checkout owner resumed for review. The staff-fixture repair is now #5436. Hands completed the authorized merge-only corrections: #5359 at b7938d9f and #5319 at faee92bc. Both pushes are verified; protected release remains.",
-    "The current plan remains 5 of 9 complete. Source proof is now finished inside the next release step; it does not count as a protected merge, draft installation or final rating."
+    "The chair granted queue exceptions for Near me #5353 and Add to bag #5354 at12:14 UTC. The original desk will admit them in order after the observer and the shared proof-capacity repair. These are admission decisions, not review passes or merges.",
+    "iPhone observer #5323 has both independent code approvals. Proof group2 passed at12:04 UTC; group1 is now running. Native device checks remain0/7.",
+    "The first-add failure is traced: an unstable empty-cart token causes the guard to refuse before sending Add to bag. The source-only recommendation now includes the uncertain-add and other-tab recovery requirements; implementation remains open.",
+    "Homepage integration repair #5433 remains an accepted Draft with seven passing targeted tests and eighteen passing regression mutations. Its protected review and one-file draft installation are separate.",
+    "The original TEST coordinator is continuing the private-session and mobile repairs. Delivery-total12/12 and order-help8/8 results remain verified; they do not close the unfinished privacy, staff or native journeys."
   ],
   "openDeliveryGates": [
     {
@@ -389,7 +389,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; proof group2 passed12:04Z; group1, merge and allocation remain; next check12:20Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; proof group2 passed12:04Z; group1 is running; merge and allocation remain; next check12:40Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check12:20Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
+    "landing": "Lands: Next result check12:40Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
