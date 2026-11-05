@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The existing TEST coordinator and release Bridge are active in parallel. The remaining observer proof group is running. The source-only empty-bag follow-up has been returned through the original chair card; no replacement author or test replay was started.",
+  "workerState": "The existing TEST coordinator and release Bridge are active in parallel. The observer proof is running. The cart implementation brief is prepared and handed to the existing Hands queue; a queued brief is not a started repair.",
   "journey": [
     {
       "stage": "Build",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The two component repairs still need protected review and merge; the new queue exception has not completed those steps. The empty-bag failure is diagnosed but not repaired. Studio holds the shared Mac until its released slot, no later than13:00 UTC. Native iPhone acceptance remains0/7.",
-  "current": "The chair has granted the specific queue exceptions for Near me #5353 and Add to bag #5354. The iPhone observer’s second proof group has passed and its first group is now running. The empty-bag source trace is complete.",
-  "next": "The original release desk admits #5353 then #5354 after #5323 once the shared proof-capacity repair #5437 is merged and deployed. The chair is receiving the empty-bag repair recommendation and its required recovery tests. Homepage repair #5433 stays frozen for protected review.",
-  "updated": "5 November, 12:23 UTC /20:23 Shanghai. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "remaining": "The empty-bag repair has not started; its original placement is pending. Homepage integration #5433 is frozen until that repair is deployed to the unpublished draft and its browser check passes. The component fixes still owe protected review and merge. Native iPhone acceptance remains0/7.",
+  "current": "The cart repair has an assigned owner and a concrete implementation brief. The chair has accepted the diagnosis and retained this Website session for the repair. The original release and TEST owners continue in parallel.",
+  "next": "Hands places the cart repair after the original queued round-three correction. Near me #5353 and Add to bag #5354 have explicit queue exceptions after #5323 once the shared proof-capacity repair #5437 is merged and deployed. The iPhone observer’s last proof group is running.",
+  "updated": "5 November, 12:35 UTC /20:35 Shanghai. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -385,7 +385,7 @@
       },
       {
         "complete": false,
-        "text": "Review and merge homepage integration repair #5433 while original privacy/mobile releases continue (source and proof11:10Z–11:21Z, took11min; exact-version acceptance11:41Z; protected queue duration unknown)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; waiting on the original implementation slot, next check12:40Z; build estimate follows source checkout)."
       },
       {
         "complete": false,
@@ -414,7 +414,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Next original result check11:00 UTC or earlier return. About10min for the bounded installed-view check after review and release. Full handover timing remains unknown until TEST, native and final-rating evidence is complete.",
+    "landing": "Lands: Both scoped settings changes are complete, saved and verified; no theme publication.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
