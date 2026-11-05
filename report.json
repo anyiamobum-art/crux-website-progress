@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original release desk resumed at06:38 after a temporary unreadable-queue pause. It counted36 queued jobs at06:45. The same Checkout owner is consuming5397; the original TEST custodian awaits a read-only connection recovery.",
+  "workerState": "The original release desk is running its paced queue. The same Checkout owner is consuming the actual TEST readback; Bridge is reconciling the separate draft-command handoff with Hands. No duplicate order or test run has been started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Checkout5397 test group4, both pin jobs and guards passed, reported by its original owner at06:45. The original TEST recovery result arrived06:38. The retained help-panel candidate was hash-verified and its exact TEST-only activation returned for route qualification.",
+  "lastActualProgress": "Hands returned successful read-only recovery at07:03: zero orders, drafts and mirrored orders. The original Checkout owner resumed on that result at07:05. Guest repair #5359 is Ready with its original checks queued.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Four checkout test groups remain queued, and the other accepted repairs await their paced protected reviews. The interrupted TEST order needs readback and an eligibility decision. Its help panel needs verified signed forwarding before activation; the CRUX draft adapter needs its supported command.",
-  "current": "The release desk resumed its original queue. Checkout5397 has passed test group4, both pin checks and guards; four test groups remain queued. TEST help-panel qualification is prepared with the existing configuration.",
-  "next": "Consume the original protected review and test results. Qualify the exact TEST orders route and help-panel activation through the original owners.",
-  "updated": "5 November,06:52 UTC /14:52 Shanghai. Checkout5397 remains open and blocked on its remaining checks. Draft installation, native checks and final ratings remain open.",
+  "remaining": "Original protected tests and reviews remain outstanding. TEST has no eligible paid order, and its captain’s final ruling remains open. Its help panel requires signed forwarding and a supported TEST-only invocation. The separate CRUX draft adapter still needs its supported command and scoped release.",
+  "current": "Guest-access repair #5359 entered protected review at06:50. Checkout #5397 has passed one test group, both pin checks and guards; four groups remain queued. Hands has now reconciled the interrupted TEST step: no order or draft exists.",
+  "next": "Consume the original protected results. Obtain the original TEST captain’s eligibility decision and qualify the signed orders route and help-panel activation. Complete the missed draft-command handoff through its original custodian.",
+  "updated": "5 November,07:07 UTC /15:07 Shanghai. The interrupted TEST effect is reconciled absent. Protected merges, draft installation, native checks and final ratings remain open.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -304,11 +304,11 @@
     }
   ],
   "recentChanges": [
-    "The shared repair passed all five test groups, merged and was verified deployed. The original desk has now removed its hold; checkout5397 is Ready with its original suite queued.",
-    "The draft installation request now names one exact asset and its verified source, candidate and rollback hashes. The actual reopened server wrapper disables dotenv loading. Its remaining Mac-path and external-input incompatibility is now with the original custodian; no upload or credential workaround has occurred.",
-    "The chair acknowledged the three-product catalogue mismatch and confirmed that nothing should be published or removed from a sales channel until its reason is established.",
-    "The guest iPhone checks remain independent of signed TEST setup. They need the original observer merge and device allocation, not another staff login.",
-    "JEV’s real TEST call returned an answer and passed the first independent code review. The app switch remains off; the capped replay and final website experience are still unverified."
+    "Guest-access repair #5359 entered protected review at06:50. Checkout #5397 has one test group and both pin checks passed; original remaining tests and reviews are queued.",
+    "Hands completed read-only recovery of the interrupted TEST step: no order or draft exists. No replay, charge or payment-state change occurred. The original captain still owns the eligibility decision.",
+    "The draft installation request names one exact asset and its verified source, candidate and rollback hashes. The supported command is still unqualified; the original handoff is being recovered without another uploader.",
+    "The seven guest iPhone checks need the original observer merge and device allocation. They do not need another staff login. The chair also confirmed that the three-product catalogue mismatch must not trigger a publication change.",
+    "JEV’s real TEST call returned an answer and passed its first independent code review. Its switch remains off; capped replay and the final website experience are unverified."
   ],
   "openDeliveryGates": [
     {
@@ -488,8 +488,12 @@
         "text": "Bind the exact one-asset draft command scope to the original server custodian (05:21Z–05:23Z, took2min; source and rollback hashes checked, server execution still unqualified)."
       },
       {
+        "complete": true,
+        "text": "Reconcile the interrupted TEST order without replay (07:03Z–07:07Z, took4min; original read found zero orders and drafts; eligibility and help-panel prerequisites remain open)."
+      },
+      {
         "complete": false,
-        "text": "Install and verify the merged browsing-identity patch in the unpublished draft (about10min after the original credential custodian clears its route; next route check07:00Z; original wait remains04:12Z)."
+        "text": "Install and verify the merged browsing-identity patch in the unpublished draft (about10min after the original custodian qualifies its command; next route check07:25Z; first wait remains04:12Z)."
       },
       {
         "complete": true,
@@ -497,7 +501,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (checkout5397 is Ready; one test group, both pin jobs and guards passed; four test groups remain queued.5359 remains in the original paced queue; original Checkout next check07:10Z)."
+        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (both5397 and5359 are Ready;5397 has one test group, both pin jobs and guards passed; original remaining tests are queued; next result check07:25Z or earlier result)."
       },
       {
         "complete": false,
@@ -574,7 +578,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: The next bounded history read is about5min after the original custodian qualifies its restored server connection. The shared repair is already deployed. Draft identity write has a separate scope gap, next check07:00 UTC /15:00 Shanghai. Next protected-result check07:00 UTC /15:00 Shanghai and draft-route check07:00 UTC /15:00 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
+    "landing": "Lands: About10min for the draft asset after the original supported command and scoped release return. Next review-result and route check07:25 UTC /15:25 Shanghai, or earlier on the original result. Final handover timing remains unknown while TEST, iPhone checks and final ratings are open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
