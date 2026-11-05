@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Cart source and remote proof are complete; #5439 is an accepted Draft awaiting the existing protected review slot. The original TEST owners retain their checks. Hands has the admitted iPhone correction in its existing queue. Shopify remains unpublished.",
+  "workerState": "Cart source and remote proof are complete; #5439 is accepted and waiting in the existing protected queue. The original staff-fixture repair #5436 is now Ready for review. The Checkout owner is addressing the named stock-read error finding on #5390. Hands retains the admitted iPhone correction. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At14:55:54UTC Hands pushed #5439 once. Its exact commit and four-file diff were read back from GitHub. Hands also confirmed the admitted iPhone correction brief is queued. The two bounded diagnostic reads succeeded, so the hosted429 cause remains unproved.",
+  "lastActualProgress": "At 15:15 UTC the original Bridge returned #5439’s recorded queue placement and confirmed the iPhone repair’s original parent had adopted its queued brief. Staff-fixture #5436 entered Ready at 15:06:50 UTC; its exact commit is independently verified. The original Checkout owner resumed the named #5390 repair.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -139,8 +139,8 @@
   ],
   "remaining": "TEST guest access has a confirmed mobile-panel geometry failure, already assigned to the existing panel repair. The iPhone run returned HTTP 429 before its seven storefront journeys. Shared CI repair #5437 is also awaiting its current checks and review.",
   "current": "The first-add cart repair is published as #5439 on its tested commit, with13/13 targeted tests and26/26 mutation checks passed. The original publisher has accepted it; its two independent reviews and merge are next. TEST and iPhone work continue with their existing owners.",
-  "next": "Take #5439 through protected review and merge, install only its qualified cart asset in the unpublished draft, then verify the original Identity journey. The iPhone correction is queued with Hands after two existing repairs; no device journey is being repeated yet.",
-  "updated": "5 November,15:03UTC. #5439 exact commit and Draft state verified. Cart tests13/13 and mutation checks26/26 pass; native checks0/7 and final passing ratings0/3 remain unfinished.",
+  "next": "Take #5439 through its existing protected queue, install only its qualified merged cart asset in the unpublished draft, then verify the original Identity journey. Its queue predecessors are recorded; the next shared review-slot eligibility is 15:36:50 UTC, not a reserved start time for this PR. The iPhone correction is already queued after the CS and checkout repairs.",
+  "updated": "5 November, 15:21 UTC. #5439 remains on its accepted commit with 13/13 targeted tests and 26/26 mutation checks passed; protected reviews are outstanding. Staff-fixture #5436 is Ready. Native checks remain 0/7 and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -337,8 +337,8 @@
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The repairs are merged and twelve served-code checks are retained. The signed staff test reached its own session but stopped because the fixture chat was absent. The chair approved a clean Codex repair route at 10:41 UTC. Its original owner corrected the brief, and Hands has queued it behind the already-running TEST approver job; the staff-fixture writer has not started yet. Held provider work will not be reused. Use and Dismiss, buyer consent and withdrawal remain open.",
-      "next": "The original owner completes the fixture repair through review, then continues the same admitted TEST check. Aftercare still owes the private review, consent and withdrawal."
+      "blocker": "The original staff-fixture repair #5436 is built, accepted and Ready for protected review on commit 91891166. Its review and release are still owed before the original Use and Dismiss check. Buyer consent and withdrawal remain open.",
+      "next": "Consume the original protected release, then continue the same admitted TEST check and aftercare review; no replacement writer or repeated fixture test."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (source/proof13:56Z–14:36Z,took40min; #5439 published14:55:54Z and exacthead verified15:03Z; waiting for protectedreviews and merge, nextcheck15:15Z)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (source/proof13:56Z–14:36Z,took40min; #5439 published14:55:54Z and exacthead verified15:03Z; waiting in the original protected queue since14:56Z, nextcheck15:40Z or returned review)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (observer merged13:13Z; run13:28Z–13:32Z hit429beforejourneys; bounded diagnosis14:45Z found two200responses; admitted correction queued14:58Z afterexistingCSand5183, nextcheck15:15Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (observer merged13:13Z; run13:28Z–13:32Z hit429beforejourneys; bounded diagnosis14:45Z found two200responses; admitted correction queued14:58Z afterexistingCSand5183, nextcheck15:40Z or originalSTART)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Cart source and proof are complete; #5439 is published. Next original review and queue-result check15:15UTC (about10min). Whole draft handover timing remains unknown until protected reviews, native checks and final ratings pass."
+    "landing": "Lands: Cart source and proof are complete; #5439 is published and awaiting its original review slot. Next due result check 15:40 UTC. The shared queue can admit its next eligible entry from 15:36:50 UTC; #5439 has predecessors, so this is not its promised start. Whole handover timing is unknown until protected reviews, native checks and final ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
