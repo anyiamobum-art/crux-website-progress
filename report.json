@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The existing TEST coordinator and release Bridge are active in parallel. The observer proof is running. The cart implementation brief is prepared and handed to the existing Hands queue; a queued brief is not a started repair.",
+  "workerState": "The existing TEST coordinator and release Bridge are working in parallel. Remote proof jobs continue. Local heavy work is held by the shared disk-space threshold; five recoverable worktree archives are queued, with no cleanup completion claimed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At12:14 UTC the chair removed the queue-cap hold for the two accepted component repairs. At12:20 UTC the cart trace identified the first-add refusal before POST and the recovery paths that the fix must preserve. Observer proof group1 is now executing; group2 passed at12:04 UTC.",
+  "lastActualProgress": "Both iPhone-observer proof groups now pass. Hands acknowledged the original cart brief at12:55:56 UTC. At12:58 UTC the TEST mobile review named one stale stylesheet hash/length in its installation manifest; that finding was returned to the original coordinator for repair.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The empty-bag repair has not started; its original placement is pending. Homepage integration #5433 is frozen until that repair is deployed to the unpublished draft and its browser check passes. The component fixes still owe protected review and merge. Native iPhone acceptance remains0/7.",
-  "current": "The cart repair has an assigned owner and a concrete implementation brief. The chair has accepted the diagnosis and retained this Website session for the repair. The original release and TEST owners continue in parallel.",
-  "next": "Hands places the cart repair after the original queued round-three correction. Near me #5353 and Add to bag #5354 have explicit queue exceptions after #5323 once the shared proof-capacity repair #5437 is merged and deployed. The iPhone observer’s last proof group is running.",
-  "updated": "5 November, 12:35 UTC /20:35 Shanghai. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "remaining": "The cart repair is acknowledged but has not started. Homepage integration #5433 remains frozen until that fix is installed in the unpublished draft and passes its browser check. A TEST mobile fix needs one installer-manifest correction after its first review. Native acceptance remains0/7.",
+  "current": "The original cart repair is acknowledged in the build queue. Both iPhone-observer proof groups have passed; its final guard is running. TEST repairs continue through their original owners in parallel.",
+  "next": "Complete the observer’s protected release and the shared proof-capacity repair, then admit Near me #5353 and Add to bag #5354 in the agreed order. The cart implementation follows the two repairs already ahead of it; its first-add and recovery cases are prepared.",
+  "updated": "5 November, 13:08 UTC. Native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -309,7 +309,7 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Delivery-total12/12 and order-help8/8",
-      "evidence": "C11 verifies delivery total, confirmation, changed-bag invalidation and cleanup; store collection is separate and unfinished. C17 now passes from signed shopper through staff completion and Done after reload. Earlier C04/C05 passes are retained. Staff and privacy journeys remain; the mobile-clipping correction is submitted as #5429, with protected release and installed visual verification pending. Guest-access now has its exact-version acceptance; it and Near me/Add to bag still need protected release."
+      "evidence": "C11 verifies delivery total, confirmation, changed-bag invalidation and cleanup; store collection is separate and unfinished. C17 now passes from signed shopper through staff completion and Done after reload. Earlier C04/C05 passes are retained. Staff and privacy journeys remain; the mobile-clipping correction #5429 has one named installer-manifest fix from its first review, then protected release and installed visual verification. Guest-access now has its exact-version acceptance; it and Near me/Add to bag still need protected release."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "The chair granted queue exceptions for Near me #5353 and Add to bag #5354 at12:14 UTC. The original desk will admit them in order after the observer and the shared proof-capacity repair. These are admission decisions, not review passes or merges.",
-    "iPhone observer #5323 has both independent code approvals. Proof group2 passed at12:04 UTC; group1 is now running. Native device checks remain0/7.",
-    "The first-add failure is traced: an unstable empty-cart token causes the guard to refuse before sending Add to bag. The source-only recommendation now includes the uncertain-add and other-tab recovery requirements; implementation remains open.",
-    "Homepage integration repair #5433 remains an accepted Draft with seven passing targeted tests and eighteen passing regression mutations. Its protected review and one-file draft installation are separate.",
-    "The original TEST coordinator is continuing the private-session and mobile repairs. Delivery-total12/12 and order-help8/8 results remain verified; they do not close the unfinished privacy, staff or native journeys."
+    "Both proof groups for iPhone observer #5323 passed. Its two code approvals are retained; the final guard and protected merge remain. This does not count as native device acceptance.",
+    "The shared proof-capacity fix #5437 passed its pin checks. Hosted test groups are queued. Near me #5353 and Add to bag #5354 retain their exact-version accepts and authorized place after that dependency.",
+    "Hands acknowledged the cart repair brief and its original queue position. Implementation has not started; the current homepage integration remains frozen until the repaired cart is accepted in the unpublished draft.",
+    "TEST mobile correction #5429 received one first-review finding: refresh the changed stylesheet’s hash and byte length in its installation manifest. The original coordinator has the finding; the PR is Draft while that repair is made.",
+    "Five obsolete Website checkouts have recoverable archive requests queued in the app. All five were still present at readback, so no reclaimed space or completed cleanup is claimed."
   ],
   "openDeliveryGates": [
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; waiting on the original implementation slot, next check12:40Z; build estimate follows source checkout)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; acknowledged12:55:56Z, queued after the two original repairs ahead; next check13:20Z; build estimate follows source checkout)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; proof group2 passed12:04Z; group1 is running; merge and allocation remain; next check12:40Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; both proof groups passed; final guard is running; merge and allocation remain; next check13:20Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check12:40Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
+    "landing": "Lands: Next result check13:20Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
