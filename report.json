@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Original Hands, TEST and repair owners continue in parallel. One TEST order and one TEST help-panel write are verified and will not be replayed. The one-asset CRUX draft command is authorized; its original execution result is pending. No live publication.",
+  "workerState": "Original TEST, release and viewport owners continue in parallel. C17 passed once; the one-asset CRUX installation completed once. Neither action will be replayed. The Shopify theme remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The TEST order and help panel were verified at07:20–07:21, and the07:30 sync produced the matching EON row. Both admissions were stored at07:38 and07:42. The chair authorized the reserved CRUX draft command at07:42. Guest-access repair #5359 now carries commit fe90cd66; its original holder was recorded at07:45. The dashboard correction passed browser and hosted-file verification at07:45.",
+  "lastActualProgress": "C17 passed eight of eight steps at08:11:33 UTC: signed shopper, owned order, one help request, scoped staff completion and Done after reload. The draft asset passed hosted readback at08:18:21 UTC, with the live theme and all unrelated draft files preserved.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Signed TEST journeys and the separate run-bound admission remain unfinished. Guest-access repair #5359 needs its new-version acceptance and second review. The iPhone observer release and device allocation remain required. Final ratings are not yet qualified.",
-  "current": "The TEST order, synced record and unpublished help panel are verified. Both required TEST admissions are stored. The guest-access repair has advanced to a new commit; its exact-version acceptance and protected review remain pending.",
-  "next": "Consume the original one-asset draft installation journal and preservation readback. The original TEST captain proceeds with the signed journeys; the original desk carries the repaired guest-access commit into review. Complete the seven iPhone checks after the observer release and device allocation.",
-  "updated": "5 November,07:55 UTC /15:55 Shanghai. TEST prerequisites and the corrected public report are verified. Signed journeys, seven native checks and final ratings remain unfinished.",
+  "remaining": "Remaining signed TEST journeys, protected repair releases and the iPhone observer/device allocation are unfinished. The order-help screenshot has left-edge clipping at 390px; its source and existing repair status need reconciliation. Final ratings are not yet qualified.",
+  "current": "The signed order-help journey passed all eight steps. The browsing-identity fix is installed and byte-verified in the unpublished CRUX draft; the live theme and every other draft file are preserved. A mobile clipping observation from the TEST journey is being checked against the existing viewport repair.",
+  "next": "The original TEST captain continues the staff and privacy journeys in sequence. Verify the newly installed draft asset in the original browser slot, take the pending repairs through protected review, then complete the seven iPhone checks on the released observer.",
+  "updated": "5 November,08:23 UTC /16:23 Shanghai. Original C17 receipt and all five screenshot hashes verified; exact one-asset draft journal verified. Native checks remain0/7 and final passing ratings0/3.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -303,13 +303,13 @@
   "deliveryStages": [
     {
       "stage": "Installed in the draft",
-      "state": "Verified components",
-      "evidence": "Runway #5204, floating Stores #5250 and Options motion #5324 are merged and installed. Further repairs and full journey acceptance remain open."
+      "state": "New installation verified at08:18 UTC",
+      "evidence": "Runway #5204, floating Stores #5250, Options motion #5324 and the browsing-identity fix are installed. Exact readback and preservation passed; the live theme is unchanged."
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "In progress",
-      "evidence": "Near me and Add to bag await protected review. Checkout has three test groups passed and two queued. The guest-access correction is pushed; its acceptance and second review remain pending. The draft asset installation is authorized, with its original result pending."
+      "state": "Order-help journey passed8/8",
+      "evidence": "C17 now passes from signed shopper through staff completion and Done after reload. Earlier C04/C05 passes are retained. Staff, privacy and checkout journeys remain; mobile clipping is under source review. Near me, Add to bag and guest-access repairs await protected release."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "Corrected the public report: the old 6/11 record is historical, with no overall completion percentage. Installed components, remaining acceptance and final ratings are shown separately.",
-    "Verified the single TEST order, its normal sync into EON and the exact approved help-panel file on the unpublished TEST theme.",
-    "Consumed the original custodian’s successful storage of both TEST admissions; the signed journeys remain separate checks.",
-    "Verified the guest-access repair has a new commit from its original holder. Its exact-version acceptance and second review are next.",
-    "The chair authorized the reserved one-asset CRUX draft installation. Its original execution and preservation readback are pending; nothing is published live."
+    "Signed order help passed all eight steps on the installed TEST theme, including one request, staff completion and Done after reload.",
+    "The browsing-identity fix was installed once in the unpublished CRUX draft. Exact hosted readback passed; the live theme and all other draft files were preserved.",
+    "The order-help screenshot reveals left-edge clipping at390px. Functional acceptance is retained; visual acceptance stays open while the original viewport source is reconciled.",
+    "Guest-access admission is red only because the PR is Draft; its other eleven admission requirements passed. The original exact-version acceptance and second review remain next.",
+    "The historical6/11 record no longer implies overall completion. Native checks remain0/7 and final passing ratings0/3."
   ],
   "openDeliveryGates": [
     {
@@ -528,8 +528,16 @@
         "text": "Verify fresh draft preparation, offline plan and reserve the exact original installation attempt (07:25Z–07:33Z, took8min; four output hashes, runtime pins and one-asset scope match; zero writes)."
       },
       {
+        "complete": true,
+        "text": "Install and byte-verify the merged browsing-identity patch in the unpublished draft (08:18Z–08:19Z, took1min; one original apply, exact hosted file, live theme and other draft files preserved; rendered acceptance follows separately)."
+      },
+      {
+        "complete": true,
+        "text": "Consume and verify the original signed order-help journey (08:11Z–08:23Z, took12min including receipt consumption;8/8 steps and five screenshot hashes; no native or visual completion credit)."
+      },
+      {
         "complete": false,
-        "text": "Install and verify the merged browsing-identity patch in the unpublished draft (chair authorization received07:42Z; original attempt reserved, about10min after Hands execution starts; next result check08:00Z; first wait remains04:12Z)."
+        "text": "Verify the installed identity fix in the unpublished preview at the original next eligible browser slot (allocation requested08:23Z; about10min after start; first-wait history retained)."
       },
       {
         "complete": true,
@@ -541,7 +549,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review and merge of the checkout and guest-access repairs (three checkout test groups passed and two queued at07:46Z; guest-access correction pushed as fe90cd66, original exact-version acceptance and second review pending; next check08:05Z or earlier result)."
+        "text": "Complete protected review and merge of the checkout and guest-access repairs (three checkout test groups passed and two queued at07:46Z; guest-access correction pushed as fe90cd66, original exact-version acceptance and second review pending; next check08:35Z or earlier original result)."
       },
       {
         "complete": false,
@@ -618,7 +626,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: About10min for the draft asset after the original supported command and scoped release return. Next review-result and route check08:05 UTC /16:05 Shanghai, or earlier on the original result. Final handover timing remains unknown while TEST, iPhone checks and final ratings are open.",
+    "landing": "Lands: The one-asset installation is complete. About10min for its rendered check after the original browser allocation; next original release/result check08:35 UTC. Full handover timing remains unknown until TEST, native and final-rating evidence is complete.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
