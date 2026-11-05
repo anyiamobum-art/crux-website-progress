@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Checkout confirmed both results. The original Ask owner assigned the isolated checkout test repair to Hands at priority one. The Website owner checked their receipts and prepared the Near me and Add to bag installations against the existing Shopify draft.",
+  "workerState": "The original TEST repair builders have finished their accepted changes. The existing review queue is running. Website has returned the changed queue condition to the original coordinator and is updating the evidence and public checklist; no duplicate run or writer was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 00:20 UTC two signed styling journeys passed. The checkout journey stopped at the cart. At 00:26 UTC the second run stopped earlier at the shopper session. Ask then placed the isolated test repair in the queue.",
+  "lastActualProgress": "At01:50UTC the third TEST run finished: both signed styling journeys passed, checkout stopped at the cart. The guest repair was accepted at00:53UTC; the isolated checkout repair was accepted at02:37UTC. Both now await protected review.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,11 +140,15 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Shopify TEST returned HTTP 429 when adding a tee to the bag. The next authorized test encountered the same status when opening the shopper session. The guest profiles and seven small-iPhone checks still need their own evidence.",
-  "current": "Floating Stores is installed in the CRUX draft. Two signed styling journeys passed on the TEST build. The checkout test could not get a delivery total.",
-  "next": "Ask has queued a repair so checkout can run alone and record a request limit as blocked. The next shopper test follows its protected merge. Hands has the guest-access repair, the two storefront controls and the iPhone observer in its existing queues.",
-  "updated": "5 November, 00:29 UTC. The hosted test receipts were checked against the acceptance rules from the exact build. Near me and Add to bag are still Draft pull requests.",
+  "remaining": "The third existing TEST run still hit HTTP429 adding the tee. The checkout repair records the request-limit evidence and avoids repeating unrelated journeys; it has not yet passed protected review. Native and final ratings remain unverified.",
+  "current": "Floating Stores is installed in the CRUX draft. Both signed styling journeys passed again. The isolated checkout test and guest-access repair have returned and are accepted into the existing review queue.",
+  "next": "Take the two TEST repairs through protected review and merge, then let the original testers run the isolated checkout and guest checks. Hands has the request to admit the iPhone observer, Near me and Add to bag fixes.",
+  "updated": "5 November, 03:57 UTC. Three original test-run receipts, both repair acceptances and the current queue condition reconciled. Near me and Add to bag remain Draft pull requests.",
   "links": [
+    {
+      "title": "Isolated checkout repair #5397",
+      "path": "https://github.com/EON-CRUX/3.09/pull/5397"
+    },
     {
       "title": "TEST guest-access repair #5359",
       "path": "https://github.com/EON-CRUX/3.09/pull/5359"
@@ -172,10 +176,6 @@
     {
       "title": "Options performance correction #5324",
       "path": "https://github.com/EON-CRUX/3.09/pull/5324"
-    },
-    {
-      "title": "TEST product-page looks repair #5288",
-      "path": "https://github.com/EON-CRUX/3.09/pull/5288"
     }
   ],
   "source": "Published projection of the original task report",
@@ -304,9 +304,10 @@
     }
   ],
   "recentChanges": [
-    "A signed TEST shopper saved a look, changed one piece, and kept the earlier version intact. They also corrected an invalid piece and recovered the saved look after reloading.",
-    "The private TEST checkout settings matched all four expected values after the password repair merged. The first checkout test then hit a request limit adding the tee. The second hit the limit before the shopper session loaded. Neither reached a delivery total.",
-    "Floating Stores is installed and verified in the CRUX draft. Preparing Near me and Add to bag revealed two existing details a direct file replacement would lose. The prepared changes preserve keyboard focus on the store list and the product page’s looks rail."
+    "The guest-access repair has resolved its merge conflicts and received acceptance on the updated source. It now needs protected review, then the original guest and privacy checks.",
+    "The checkout test can now run independently and capture request-limit details with one bounded retry. That source is accepted for review; it does not yet prove checkout works.",
+    "Both signed styling journeys passed again in the third original TEST run. Adding the tee still returned HTTP429, so delivery totals and checkout remain unverified. No further default test suite was started.",
+    "Floating Stores remains installed in the unpublished CRUX draft. Near me and Add to bag have prepared installations that preserve the store-list focus and product looks rail; protected merges are still required."
   ],
   "openDeliveryGates": [
     {
@@ -468,6 +469,14 @@
       {
         "complete": true,
         "text": "Verify the first two signed styling journeys and trace both checkout attempts (00:12Z–00:27Z, took 15 min)."
+      },
+      {
+        "complete": true,
+        "text": "Consume the third original TEST result and both accepted repair sources (03:46Z–03:57Z, took 11 min; no new test run, guest conflicts closed, isolated checkout source accepted)."
+      },
+      {
+        "complete": false,
+        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (waiting on existing review queue; next check by 04:27Z, then original tests only)."
       },
       {
         "complete": false,
