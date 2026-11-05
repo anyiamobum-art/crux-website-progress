@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Website’s original cart repair is complete at commit e572af01; its publication request was delivered to the original Bridge at 17:42 UTC. Hands’ publication acknowledgment is pending. The original Hands/A2 team continues native and TEST work; no duplicate writer or review.",
+  "workerState": "Hands pushed and accepted cart e572af01 at17:47 UTC, with the prepared body and current self-review confirmed on GitHub. Website is following its original review. Hands/A2 continues the separate native failure diagnosis, TEST access and connected repairs.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Cart repair e572af01 passes all 13 targeted tests, all 26 affected mutations and a fresh author checklist with zero findings. Its immutable source, corrected PR body and verified bundle are handed off. The iPhone correction has 152 passing tests; its independent mutation proof remains with Hands.",
+  "lastActualProgress": "Cart repair pushed and accepted:13 targeted tests and26 affected mutation checks passed, fresh author self-review zero findings. Shared CI #5437 has merged after its first review and chair read. The separate native proof failure is assigned to its existing owner; it is not a completed iPhone check.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Cart #5439 needs its corrected source independently reviewed and merged. Shared CI #5437 has passing tests but its review request returned protected_check_census_refused; the original retry is due after17:30:30 UTC. The current TEST browser shows the store-password gate. The iPhone correction has 152 passing tests and mutation proof underway.",
-  "current": "The cart repair has passed its full affected proof and fresh author self-review. The exact commit and verified bundle are with the original publishing route for one push and the second full review. TEST and iPhone work continue in parallel.",
-  "next": "Verify Hands’ publication and exact-head acceptance, then follow the original protected review and merge. Consume the original iPhone repair’s proof and release, then complete the seven device checks and original TEST journeys.",
-  "updated": "5 November, 17:43 UTC. Cart repair and author proof complete; publisher handoff delivered, not yet acknowledged or pushed. Native journeys 0/7 and final passing design ratings 0/3 remain unchanged.",
+  "remaining": "Cart #5439 awaits its second independent review and protected merge. Shared CI #5437 merged as29cdaa6; deployment and release of the two held repairs are still separate. TEST is showing the store-password gate. The iPhone test-runner correction passed152 tests, but its mutation run timed out with172passes, one failure and11unfinished; Hands is retrieving the failed check for the original writer.",
+  "current": "The repaired cart commit e572af01 is pushed and accepted by Hands. Its 13 targeted tests and 26 mutation checks pass; the next step is the original second full code review. TEST and iPhone work continue in parallel.",
+  "next": "Follow the cart’s original second review and protected merge. Shared CI #5437 has merged; its release owner must verify deployment before advancing the two held website repairs. Continue the original iPhone failure diagnosis and TEST access checks.",
+  "updated": "5 November,17:53 UTC. Cart repaired head, acceptance and exact PR body verified. Shared CI merge verified on GitHub at17:50:37Z; deployment remains separate. Native journeys0/7 and final passing design ratings0/3 remain unchanged.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (R1 repair and proof 17:20Z–17:39Z, took 19 min; publisher handoff delivered 17:42Z; waiting on original publication and independent reviews; next check 17:55Z or acknowledgment)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (R1 repair and proof 17:20Z–17:39Z, took 19 min; push and exact-head acceptance verified17:47Z; waiting on original independent reviews; next check18:05Z or result)."
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven-check device run (repair16:17Z–16:37Z,took20min;152 outside tests pass; full pins running; next result check17:40Z or earlier return)."
+        "text": "Complete the original iPhone discovery correction and seven-check device run (repair16:17Z–16:37Z,took20min;152 outside tests pass; mutation run172pass/1fail/11unfinished at timeout; original diagnosis active; next result check18:05Z or return)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Cart repair handoff delivered at 17:42 UTC. Next publication check about 17:55 UTC (12 min; original queue can move it). Original iPhone and TEST work continues in parallel. Whole draft handover timing remains unknown until reviews and acceptance pass."
+    "landing": "Lands: Repaired cart head pushed and accepted17:47 UTC. Next result check by18:05 UTC (12min; original review queues can move it). Native failure diagnosis and TEST work continue in parallel. Whole draft handover timing remains unknown until reviews and acceptance pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
