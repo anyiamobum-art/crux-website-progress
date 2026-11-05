@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original TEST coordinator and release Bridge are working in parallel. Hands acknowledged ownership of the shared-CI finding. Studio released the Mac at 13:43 UTC without booting because disk was below its floor; this does not allocate a Website browser or iPhone turn.",
+  "workerState": "Website is building on the remote machine under the recorded 13:56 UTC START. The original TEST coordinator and release Bridge are active in parallel. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Shared CI repair #5437 has one actual test-contract failure, returned to its original author. The cart build is held by the chair pending capacity and Hands START; this Website session has not received a provider refusal. The iPhone route needs its original failure disposition.",
-  "current": "TEST guest-access #5359 passed its first independent review on the corrected version. Its second review and current CI remain open. The iPhone run reached a working simulator but stopped on a product-discovery HTTP 429; none of its seven storefront checks ran.",
-  "next": "Consume the original shared-CI repair and TEST review results. Resolve the iPhone product-discovery failure through its original holder. Begin the prepared cart repair when Hands releases the existing owner slot.",
-  "updated": "5 November, 13:49 UTC. Native checks 0/7; final passing ratings 0/3. Shopify remains unpublished.",
+  "remaining": "The iPhone run returned HTTP 429 before its seven storefront journeys. Shared CI repair #5437 is now pushed at its corrected head and awaits checks and review. These dependencies do not stop the remote cart build.",
+  "current": "The first-add cart repair is built and committed on the remote machine. All 13 targeted test cases pass; mutation checks and the author self-review are running before independent review. Shared CI and TEST repairs continue through their original owners.",
+  "next": "Finish the cart repair proof and hand its exact commit to Hands for publication and two independent reviews. Consume the shared-CI release and TEST review results while the original iPhone holder resolves product discovery.",
+  "updated": "5 November, 14:20 UTC. Cart targeted tests13/13; native checks0/7; final passing ratings0/3. These counts describe different checks and are not added together.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "TEST guest-access #5359 passed its first independent review on b7938d9f at 13:38 UTC. Its second review and current CI are still open; a code approval does not count as a final website rating.",
-    "Shared proof repair #5437 returned one actual failure: a runner-contract test still expects the old variable. Hands, its original author, accepted the finding. This now replaces the earlier queue-only explanation for Near me #5353 and Add to bag #5354.",
-    "The original iPhone run 42036046026 completed on the merged observer. Simulator boot and its probe passed; product discovery returned HTTP 429 before any storefront journey. All seven rows remain NOT EXERCISED. No duplicate run has been launched.",
-    "The chair moved the small recipe repairs to Hands. The prepared cart build keeps its existing Website owner and awaits an explicit START; this session has no returned provider refusal.",
-    "Final passing ratings remain 0/3 and the Shopify draft remains unpublished. The historic 6/11 tally is a mixed milestone record, not overall completion."
+    "The empty-cart repair now allows a deliberate first add when Shopify rotates an otherwise identical empty bag token. Both native and shopping-companion paths pass; populated bag identity stays strict.",
+    "All13 targeted pytest cases pass, including six added recovery cases. The unchanged original runtime failed the two first-add regressions. Mutation proof and self-review are the current steps; independent approval and installation are still owed.",
+    "Hands pushed the shared-CI correction #5437 and the three TEST repairs #5319, #5429 and #5436 with fresh acceptance records. They still need their respective protected review and checks.",
+    "The original iPhone run booted successfully but product discovery returned HTTP429 before the journey. All seven rows remain NOT EXERCISED; its original holder owns the route correction.",
+    "The historical6/11 tally is retained as a mixed milestone record. Current working plan5/9, native checks0/7 and final passing ratings0/3 remain separate; the draft stays unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; acknowledged12:55:56Z; chair13:37 held this build for capacity while small fixes moved to Hands shell; no provider refusal in this session; await original START, next check14:10Z; build estimate follows source checkout)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (started13:56Z, est.45min for source and remote proof; committed14:20Z;13 targeted tests pass; mutation proof and self-review running; protected reviews and installation follow)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original run13:28Z–13:32Z returned HTTP429 before the journey; original holder awaits the chair's route disposition, next check14:10Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original run13:28Z–13:32Z returned HTTP429 before the journey; original holder is diagnosing the product-discovery429 through Hands, next check14:40Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check14:10Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
+    "landing": "Lands: Source and proof handoff about14:41Z (21min left; mutation failures could move it). Whole draft handover remains unknown until protected reviews, native checks and final ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
