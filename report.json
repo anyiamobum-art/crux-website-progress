@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Website is building on the remote machine under the recorded 13:56 UTC START. The original TEST coordinator and release Bridge are active in parallel. Shopify remains unpublished.",
+  "workerState": "Cart implementation and remote proof are complete; Hands has the publication packet through the original Bridge. TEST and native owners retain their separate unfinished checks. Shopify remains unpublished.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "TEST guest-access #5359 received its first independent approval at 13:38 UTC. Hands acknowledged the shared-CI failure and the iPhone product-discovery result at 13:43 UTC. The iPhone run artifact verifies simulator boot and the probe, with all seven storefront rows explicitly NOT EXERCISED.",
+  "lastActualProgress": "At 14:36 UTC the cart repair completed 13/13 tests, 26/26 mutation checks and its exact-commit self-review. The publication packet was saved at 14:40 UTC and delivered to the original Bridge. The TEST viewport owner has acknowledged the exact failed check.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The iPhone run returned HTTP 429 before its seven storefront journeys. Shared CI repair #5437 is now pushed at its corrected head and awaits checks and review. These dependencies do not stop the remote cart build.",
-  "current": "The first-add cart repair is built and committed on the remote machine. All 13 targeted test cases pass; mutation checks and the author self-review are running before independent review. Shared CI and TEST repairs continue through their original owners.",
-  "next": "Finish the cart repair proof and hand its exact commit to Hands for publication and two independent reviews. Consume the shared-CI release and TEST review results while the original iPhone holder resolves product discovery.",
-  "updated": "5 November, 14:20 UTC. Cart targeted tests13/13; native checks0/7; final passing ratings0/3. These counts describe different checks and are not added together.",
+  "remaining": "TEST guest access has a confirmed mobile-panel geometry failure, already assigned to the existing panel repair. The iPhone run returned HTTP 429 before its seven storefront journeys. Shared CI repair #5437 is also awaiting its current checks and review.",
+  "current": "The first-add cart repair has passed all 13 targeted tests, all 26 mutation checks and its author self-review. Its frozen commit and proof are with the original publisher for independent review. The original TEST and iPhone owners are working in parallel.",
+  "next": "Take the cart repair through its two protected reviews and merge, then install it in the unpublished draft and verify the original Identity journey. Consume the TEST mobile-panel repair and iPhone product-discovery diagnosis through their existing owners.",
+  "updated": "5 November, 14:42 UTC. Cart tests13/13 and mutation checks26/26 pass. Native checks0/7 and final passing ratings0/3 remain unfinished. These are separate measures.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "The empty-cart repair now allows a deliberate first add when Shopify rotates an otherwise identical empty bag token. Both native and shopping-companion paths pass; populated bag identity stays strict.",
-    "All13 targeted pytest cases pass, including six added recovery cases. The unchanged original runtime failed the two first-add regressions. Mutation proof and self-review are the current steps; independent approval and installation are still owed.",
-    "Hands pushed the shared-CI correction #5437 and the three TEST repairs #5319, #5429 and #5436 with fresh acceptance records. They still need their respective protected review and checks.",
-    "The original iPhone run booted successfully but product discovery returned HTTP429 before the journey. All seven rows remain NOT EXERCISED; its original holder owns the route correction.",
-    "The historical6/11 tally is retained as a mixed milestone record. Current working plan5/9, native checks0/7 and final passing ratings0/3 remain separate; the draft stays unpublished."
+    "The empty-cart repair passed all13 targeted cases and all26 mutation checks. The author self-review found no remaining issue. Independent reviews are next.",
+    "Two weaknesses in the new regression tests were caught by mutation testing and corrected. The tests now independently detect broken cart-state validation and an unsafe visible-bag readback.",
+    "The exact repair commit and proof were delivered for protected publication. It has not been installed in Shopify yet; the homepage integration remains held until the original draft check passes.",
+    "TEST’s failing check is now tied to the existing mobile-panel repair. Its original owner has acknowledged the failure; a passing result is still owed.",
+    "The iPhone run passed boot and its probe, then hit HTTP429 before shopping. Its original holder is diagnosing the request path. Native0/7 and final passing ratings0/3 remain unchanged."
   ],
   "openDeliveryGates": [
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (started13:56Z, est.45min for source and remote proof; committed14:20Z;13 targeted tests pass; mutation proof and self-review running; protected reviews and installation follow)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (source/proof13:56Z–14:36Z, took40min; publication handoff14:40Z;13 tests and26 mutation checks pass; waiting on original protected publication and reviews, next check14:55Z)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original run13:28Z–13:32Z returned HTTP429 before the journey; original holder is diagnosing the product-discovery429 through Hands, next check14:40Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original run13:28Z–13:32Z returned HTTP429 before the journey; original holder is diagnosing the product-discovery429 through Hands, next check14:55Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Source and proof handoff about14:41Z (21min left; mutation failures could move it). Whole draft handover remains unknown until protected reviews, native checks and final ratings pass."
+    "landing": "Lands: Source and proof completed14:36Z; publication packet handed over14:40Z. Next review-result check14:55Z (about12min). Whole draft handover has no defensible finish time until protected reviews, native checks and final ratings pass."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
