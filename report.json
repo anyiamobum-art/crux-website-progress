@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The existing TEST coordinator and release Bridge are working in parallel. Remote proof jobs continue. The local browser quiet window ended at13:18 UTC; machine load still needs qualification for local heavy work. Five recoverable worktree archives remain queued, with no cleanup completion claimed.",
+  "workerState": "The TEST coordinator and release Bridge are active in parallel. Hands has ordered the remaining repairs and the existing cart owner. The shared Mac is quiet for Studio from13:35 UTC until its actual release; remote work continues.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#5323 merged at13:13:44 UTC. Direct source comparison at13:20 verified all59,119 bytes of the seven-check workflow unchanged, plus the shared inputs and test files. The original native owner has this evidence. The cart brief is acknowledged but has no observed start; TEST mobile review findings remain with their original writer.",
+  "lastActualProgress": "The original run42036046026 finished13:31:50 UTC on mergedf62ff3a3. Its artifact proves iPhone SE3/iOS26.2 boot and a passing UI-test probe, then HTTP429 during product discovery. All seven rows are explicitly NOT EXERCISED; the original owner has the result. TEST guest-access5359 is now in protected review.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The cart repair is acknowledged but has not started. Homepage integration #5433 remains frozen until that fix is installed in the unpublished draft and passes its browser check. A TEST mobile fix needs one installer-manifest correction after its first review. Native acceptance remains0/7.",
-  "current": "The iPhone observer repair #5323 is merged. Its complete seven-check workflow and shared inputs match the approved source exactly. The original native owner is taking the next test step; cart and TEST repairs continue in parallel.",
-  "next": "Run the original seven-check iPhone journey from the merged observer. Release the shared proof-capacity repair, then admit Near me #5353 and Add to bag #5354 in the agreed order. Resolve the cart writer placement and complete its prepared first-add and recovery repair.",
-  "updated": "5 November, 13:22 UTC. The observer release is complete; native checks remain0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "remaining": "Native acceptance is0/7 because the product request was rate-limited before the page journey. The cart repair has explicit custody but awaits its ordered start; homepage integration5433 stays frozen until the repaired cart passes on the unpublished draft.",
+  "current": "The original small-iPhone run completed. The simulator and UI-test probe passed, but product discovery received HTTP429, so none of the seven storefront checks ran. The original owner is resolving that precise failure while TEST and cart work continue.",
+  "next": "Resolve the original iPhone product-discovery failure. Complete the ordered TEST repairs; begin the prepared cart repair when Hands releases its existing slot. Keep Near me and Add to bag in their protected release order.",
+  "updated": "5 November,13:36 UTC. Native checks0/7; final passing ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -314,7 +314,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 checks verified",
-      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original seven-check device run remains. Responsive desktop checks do not count as native iPhone evidence."
+      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original device run42036046026 passed its boot/probe but product discovery returned HTTP429; all seven storefront rows are NOT EXERCISED. The original owner is resolving that failure."
     },
     {
       "stage": "Final design acceptance",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "iPhone observer #5323 passed both protected reviews and all checks, then merged at13:13:44 UTC asf62ff3a3. All seven-check workflow bytes are verified unchanged. Native device acceptance remains separate.",
-    "The shared proof-capacity fix #5437 passed its pin checks. Hosted test groups remain in the original queue. Near me #5353 and Add to bag #5354 retain their exact-version accepts and authorized place after that dependency.",
-    "Hands acknowledged the cart repair brief and its original queue position. Implementation has not started; the current homepage integration remains frozen until the repaired cart is accepted in the unpublished draft.",
-    "TEST mobile correction #5429 received one first-review finding: refresh the changed stylesheet’s hash and byte length in its installation manifest. The original coordinator has the finding; the PR is Draft while that repair is made.",
-    "Five obsolete Website checkouts have recoverable archive requests queued in the app. All five were still present at readback, so no reclaimed space or completed cleanup is claimed."
+    "The original iPhone run42036046026 completed on the merged observer. Simulator boot and the UI-test probe passed; product discovery returned HTTP429. All seven storefront rows remain NOT EXERCISED. The result is with the original owner, with no duplicate run.",
+    "TEST guest-access5359 has moved from Draft into protected review. Its current tests are running or queued; Ready is not a passing review or merge.",
+    "The chair fixed the repair order: the already-running5409 finishes, then5436,5429,5319, then the existing Website owner begins the cart repair after Hands issues START. No replacement writer was created.",
+    "iPhone observer5323 is merged asf62ff3a3; all59119 bytes of its guest workflow are identical to the approved source. Near me5353 and Add to bag5354 still await their protected queue dependencies.",
+    "Final passing ratings remain0/3 and the Shopify draft remains unpublished. The historic6/11 tally is retained as a mixed milestone record, not overall completion."
   ],
   "openDeliveryGates": [
     {
@@ -352,7 +352,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The seven iPhone checks could not exercise the unpublished draft. The wrong-theme redirect and Safari overlay repair has passed both reviews and merged. The original seven device checks remain.",
+      "blocker": "The observer repair has passed both reviews and merged. Its original iPhone run completed, but product discovery returned HTTP429 before any page journey. All seven rows remain NOT EXERCISED.",
       "next": "Verify 200% zoom and a real size selection, then check the store directory and its map destinations before handover."
     },
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; acknowledged12:55:56Z, queued with Hands; revised placement order is being reconciled; next check13:40Z; build estimate follows source checkout)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (diagnosis and brief12:14Z–12:34Z, took20min; owner assigned12:30Z; acknowledged12:55:56Z; chair13:25 set the order after5409,5436,5429 and5319; await original START, next check13:55Z; build estimate follows source checkout)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original seven-check run remains; next check13:40Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; protected merge13:13:44Z; merged source qualified13:20Z; original run13:28Z–13:32Z returned HTTP429 before the journey; same owner resolving it, next check13:55Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check13:40Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
+    "landing": "Lands: Next result check13:55Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
