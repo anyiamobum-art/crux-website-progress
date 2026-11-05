@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Checkout merged at09:46 UTC, deployed at09:48 and served-code verification passed at09:52. Fresh TEST admission followed at10:01. The privacy repair’s first regression check passed at09:58. The original Identity lead took the homepage diagnostic at10:05. No whole-site rating has been added.",
+  "lastActualProgress": "Original TEST run42009417326 finished at10:19 UTC with12/12 C11 checks passing; its source and receipt hash are verified. The public checklist exporter now reads the current working plan; all exported rows were checked against the report. The older 6/11 record remains historical.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The iPhone observer remains an accepted Draft under the chair’s queue. Privacy #5428 needs protected release. The staff-fixture repair is held because its provider-access refusal remains unresolved. Final reviews require the remaining measured evidence.",
-  "current": "Checkout repair #5397 is merged, deployed and verified in served code. Its original captain has admitted the fresh TEST run; the existing custodian is writing and reading back its grant. The original Identity owner is diagnosing the homepage loader in parallel.",
-  "next": "Consume the original TEST grant result, the homepage diagnostic output and the chair’s iPhone-release decision. Take each returned result straight into its existing next step.",
-  "updated": "5 November,10:18 UTC /18:18 Shanghai. C17 retains8/8 functional checks. Native acceptance remains0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "current": "The TEST delivery-total journey has passed12 of12 checks on deployed code. Checkout repair #5397 is reviewed, merged, deployed and accepted for that journey. The homepage diagnostic and the privacy/mobile protected releases continue in parallel.",
+  "next": "Consume the original homepage diagnostic and protected repair results; obtain the chair’s iPhone-observer release, then perform the existing seven device checks.",
+  "updated": "5 November,10:24 UTC /18:24 Shanghai. C11 delivery-total checks12/12; C17 order-help checks8/8. Native acceptance0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -308,8 +308,8 @@
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "Order-help journey passed8/8",
-      "evidence": "C17 now passes from signed shopper through staff completion and Done after reload. Earlier C04/C05 passes are retained. Staff, privacy and checkout journeys remain; the mobile-clipping correction is submitted as #5429, with protected release and installed visual verification pending. Guest-access now has its exact-version acceptance; it and Near me/Add to bag still need protected release."
+      "state": "Delivery-total12/12 and order-help8/8",
+      "evidence": "C11 verifies the total, confirmation, changed-bag invalidation and cleanup. C17 now passes from signed shopper through staff completion and Done after reload. Earlier C04/C05 passes are retained. Staff and privacy journeys remain; the mobile-clipping correction is submitted as #5429, with protected release and installed visual verification pending. Guest-access now has its exact-version acceptance; it and Near me/Add to bag still need protected release."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "Checkout #5397 has completed code review, merge, deployment and served-code verification. The actual TEST checkout journey is the remaining step; its original grant command is running.",
+    "Checkout #5397 is reviewed, merged, deployed and accepted for C11: all12 TEST delivery-total checks passed, including changed-bag invalidation and cleanup without a charge. The run finished at10:19 UTC.",
     "The mobile repair has real test failures in addition to the cancelled hosted run. Its last existing box run returned77 failed and85 passed; all12 pins passed. Most failure details were lost when that container was removed. The original captain and release desk now own recovery; no passing full suite is claimed.",
     "The privacy repair passed its first regression check at09:58 UTC; the second is queued. Its protected review and connected acceptance are still open.",
     "The homepage loader now has a named diagnostic owner. The existing read-only check will distinguish an older draft layout from a code defect before a repair is assigned.",
-    "The staff-fixture execution was stopped at09:55 UTC and removed from launch eligibility at09:57. Its provider-access issue is still unresolved; no result or publication was accepted."
+    "The public plan now reads the current working checklist. Its previous connection to the historical Timed plan was repaired and verified against every exported row; historical progress is not relabelled as current completion."
   ],
   "openDeliveryGates": [
     {
@@ -380,8 +380,8 @@
         "text": "Reconcile the mobile failure details, provider stop and homepage owner into the current handoff (10:10Z–10:18Z, took8min)."
       },
       {
-        "complete": false,
-        "text": "Complete the admitted TEST checkout journey through its original captain (in progress10:01Z; grant readback pending; run duration unknown)."
+        "complete": true,
+        "text": "Complete the admitted TEST delivery-total journey:12/12 checks passed (10:01Z–10:21Z, took20min including grant and verification; the run itself took111seconds)."
       },
       {
         "complete": false,
