@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "All five original test groups and the combined gate have finished successfully. The original protected merge route is pending. Hands has the exact draft command requirements; no duplicate test run, writer or credential attempt was started.",
+  "workerState": "The shared repair’s test run and protected merge are complete. The original watcher verified deployed-source ancestry. Checkout remains active on its original release sequence; Hands holds the qualified draft-write route. No duplicate test, review, writer or credential attempt was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The fifth test group passed at05:37 UTC and the combined gate passed at05:38 UTC. At05:39 the existing custody request was reconciled: no safe draft-write invocation had returned, so its exact missing prerequisite remains with Hands. Existing preservation checks for the next three draft files are intact.",
+  "lastActualProgress": "Shared repair merged at05:48:11 UTC and its deployed-source receipt returned at05:52:33 UTC. That changed dependency was delivered through the original draft custody request at05:54 UTC. The TEST actor list also adopted the original owner’s removal of the unsupported revoked-staff scenario.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The shared repair is green but not yet merged and served. Separately, the reviewed draft uploader loads the held Mac configuration; Hands must qualify a safe server invocation and the exact unpublished-theme command. No live theme change is included.",
-  "current": "The shared test repair has passed all five test groups and the final test gate. Its source review, pin proof and current guard check also passed. The protected merge and served verification are still pending before the existing website queue resumes.",
-  "next": "Consume the original repair merge and served receipt, then continue the existing Near me, Add to bag, TEST and iPhone-observer reviews. Hands also has the exact one-asset draft installation scope for the merged browsing-identity patch.",
-  "updated": "5 November, 05:43 UTC /13:43 Shanghai. All five test groups and the final gate passed. The shared repair remains open; final passing ratings remain0/3.",
+  "remaining": "The shared repair is merged and deployed; the existing desk’s release hold was still present at05:54 UTC. Separately, the reviewed draft uploader loads a held Mac configuration. Hands must return the safe server invocation and the exact unpublished-theme command approval.",
+  "current": "The shared test repair has passed all five groups, merged at05:48 UTC and been verified on the deployed version at05:52 UTC. The existing desk is now responsible for clearing its queue hold and resuming the waiting website reviews.",
+  "next": "Consume the desk’s ordered queue recovery and continue Near me, Add to bag, TEST and the iPhone-observer reviews. The original draft custodian has received the deployment receipt and the exact one-asset installation scope.",
+  "updated": "5 November,05:54 UTC /13:54 Shanghai. Shared repair merged and deployed. Website queue recovery, safe draft installation, native checks and final ratings remain open.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -304,7 +304,7 @@
     }
   ],
   "recentChanges": [
-    "All five original test groups and the combined gate passed. Current pin and guard checks and the first protected review also passed. The protected merge and served verification remain open.",
+    "The shared repair passed all five test groups, merged, and was verified on the deployed version. The original release desk must consume that receipt before the dependent queue resumes.",
     "The draft installation request now names one exact asset and its verified source, candidate and rollback hashes. The reviewed adapter’s Mac configuration dependency is explicitly recorded for the original server custodian; it has not been bypassed.",
     "The chair acknowledged the three-product catalogue mismatch and confirmed that nothing should be published or removed from a sales channel until its reason is established.",
     "The guest iPhone checks remain independent of signed TEST setup. They need the original observer merge and device allocation, not another staff login."
@@ -496,7 +496,7 @@
       },
       {
         "complete": false,
-        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (shared date-test repair now required; next check by05:45Z or its merge, then original tests only)."
+        "text": "Complete protected review and merge of the isolated checkout and guest-access repairs (shared date-test repair is merged and deployed; next original desk recovery check05:59Z, then original tests only)."
       },
       {
         "complete": false,
@@ -547,8 +547,12 @@
         "text": "Verify the three sampled products in Shopify Admin and return the channel mismatch (04:57Z–05:03Z, took6 min; no write, actor and reason unproved)."
       },
       {
+        "complete": true,
+        "text": "Consume the shared CI repair #5415 protected merge and deployed-source receipt (05:38Z–05:54Z, took16min; merged05:48:11, deployed ancestry verified05:52:33)."
+      },
+      {
         "complete": false,
-        "text": "Consume the original shared CI repair #5415 merge and served receipt (all5 test groups and final gate passed at05:38Z; next check05:45Z or its result; dependent protected queue remains held)."
+        "text": "Consume the original desk’s ordered queue recovery after the shared repair (started05:54Z, est.5min; existing desk alone lifts its hold and resumes the accepted heads)."
       },
       {
         "complete": false,
@@ -569,7 +573,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: The next bounded history read is about5min after the shared repair clears and the original custodian qualifies the server read. Draft identity write has a separate scope gap, next check06:09 UTC /14:09 Shanghai. Shared repair check05:45 UTC /13:45 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
+    "landing": "Lands: The next bounded history read is about5min after the shared repair clears and the original custodian qualifies the server read. Draft identity write has a separate scope gap, next check06:09 UTC /14:09 Shanghai. Desk recovery check05:59 UTC /13:59 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
