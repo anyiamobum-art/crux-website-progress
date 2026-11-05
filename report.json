@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Checkout #5397 merged as281e8af0 at09:46:07 UTC. Public report revisionbc29cbf was verified at09:51:44: both hosted files match their exported source exactly. The09:55 queue check confirms the remaining accepted Drafts are still queued; the original iPhone and homepage-loader requests remain with the chair.",
+  "lastActualProgress": "Checkout merged at09:46 UTC, deployed at09:48 and served-code verification passed at09:52. Fresh TEST admission followed at10:01. The privacy repair’s first regression check passed at09:58. The original Identity lead took the homepage diagnostic at10:05. No whole-site rating has been added.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The iPhone observer remains an accepted Draft under the chair’s queue. Privacy #5428 needs protected release. The staff-fixture repair is held because its provider-access refusal remains unresolved. Final reviews require the remaining measured evidence.",
-  "current": "Checkout repair #5397 merged at09:46 UTC after both original code reviews and all five test groups passed. Its owner is verifying deployed source and preparing one source-bound TEST checkout run. Mobile #5429 and privacy #5428 remain in their original protected paths.",
-  "next": "Consume the original protected results and install merged fixes in the unpublished draft. The chair must return the iPhone observer’s queue decision and the original homepage-loader writer’s actual start.",
-  "updated": "5 November,09:57 UTC /17:57 Shanghai. C17 retains8/8 functional checks. Native acceptance remains0/7 and final passing design ratings0/3. Shopify remains unpublished.",
+  "current": "Checkout repair #5397 is merged, deployed and verified in served code. Its original captain has admitted the fresh TEST run; the existing custodian is writing and reading back its grant. The original Identity owner is diagnosing the homepage loader in parallel.",
+  "next": "Consume the original TEST grant result, the homepage diagnostic output and the chair’s iPhone-release decision. Take each returned result straight into its existing next step.",
+  "updated": "5 November,10:18 UTC /18:18 Shanghai. C17 retains8/8 functional checks. Native acceptance remains0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "Checkout #5397 passed both original code reviews and merged at09:46 UTC. All five test groups passed. Deployment verification and the actual TEST checkout journey are the next separate steps.",
-    "#5429’s test run ended cancelled: one group passed and four were cancelled. The aggregate failure reports the missing groups, not a new assertion failure. Its original owner has that exact result and is reconciling the existing box proof before recovery.",
-    "C17’s completed order-help journey remains8/8. The separate mobile visual fix has not yet been installed or accepted.",
-    "The final-review packet now points to the current source and repairs. Original Fable/Opus assistant-OFF reviews do not wait on unrelated staff enrollment; Astra’s connected findings keep their own evidence requirements.",
-    "JEV’s allocated browser turn ended without uploading or submitting a trial. Its original parent retains the verification question; no duplicate request or provider call was made."
+    "Checkout #5397 has completed code review, merge, deployment and served-code verification. The actual TEST checkout journey is the remaining step; its original grant command is running.",
+    "The mobile repair has real test failures in addition to the cancelled hosted run. Its last existing box run returned77 failed and85 passed; all12 pins passed. Most failure details were lost when that container was removed. The original captain and release desk now own recovery; no passing full suite is claimed.",
+    "The privacy repair passed its first regression check at09:58 UTC; the second is queued. Its protected review and connected acceptance are still open.",
+    "The homepage loader now has a named diagnostic owner. The existing read-only check will distinguish an older draft layout from a code defect before a repair is assigned.",
+    "The staff-fixture execution was stopped at09:55 UTC and removed from launch eligibility at09:57. Its provider-access issue is still unresolved; no result or publication was accepted."
   ],
   "openDeliveryGates": [
     {
@@ -632,7 +632,7 @@
         "text": "Submit qualified final evidence through the retained reader histories and finish draft handover (remaining named fixes and TEST/native evidence required; duration unknown)."
       }
     ],
-    "landing": "Lands: Next original protected and placement result check09:55 UTC. About10min for an allocated installed-view check after review and release. Full handover timing remains unknown until TEST, native and final-rating evidence is complete."
+    "landing": "Lands: Next original result check10:40 UTC or earlier return. About10min for the bounded installed-view check after review and release. Full handover timing remains unknown until TEST, native and final-rating evidence is complete."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -646,7 +646,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Next original protected and placement result check09:55 UTC. About10min for an allocated installed-view check after review and release. Full handover timing remains unknown until TEST, native and final-rating evidence is complete.",
+    "landing": "Lands: Next original result check10:40 UTC or earlier return. About10min for the bounded installed-view check after review and release. Full handover timing remains unknown until TEST, native and final-rating evidence is complete.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
