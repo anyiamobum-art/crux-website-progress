@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original TEST coordinator resumed successfully after a compaction connection failure and is advancing the merged companion correction toward TEST installation and its visual check. The original native owner remains active. Hands owns the newly authorized phone-button lane; Website is consuming its result and protected reviews without a duplicate writer.",
+  "workerState": "The original Website builder completed the cart manifest correction; Hands owns its single push. The assigned phone-button writer returned d874232a and its outside proof is running. Hands has chair authorization for the one-file TEST stylesheet replacement; the original TEST coordinator owns acceptance. The original native owner has been notified that #5446 is Ready.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Cart #5439 passed its second full review at 19:39 UTC, then test group 1 at 20:11 UTC. The original coordinator observed the assigned phone-button repair running at 20:10 UTC. The TEST owner is advancing the merged companion stylesheet to installation and visual verification. The public task report was verified byte for byte at 20:10 UTC.",
+  "lastActualProgress": "At 20:25 UTC, cart correction c258fba5 passed all seven closure checks and self-review. It changes one manifest line, with no runtime or assertion change. The phone-button repair has returned. #5446 is verified Ready on its existing source. The last public revision, 7481224, was checked byte for byte at 20:19 UTC.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Cart’s test groups and final code review remain; the named phone-button worker has been authorized but its start is not yet verified. iPhone correction #5446 is in the paced review queue at position26. TEST stylesheet installation, access and visual acceptance remain open.",
-  "current": "Cart repair #5439 passed its second full independent review, current proof and guards. One test group has passed, one is running and three are queued; its final code review starts after those checks. The assigned phone Add to bag repair is now running. Near me retains its first approval and has also passed one test group. TEST work continues separately.",
-  "next": "Consume the assigned phone-button repair and the remaining cart/Near me reviews. Install eligible merged changes into the unpublished draft while the original TEST and iPhone owners continue acceptance.",
-  "updated": "5 November, 20:16 UTC. Cart and Near me each have one passing test group, one running and three queued. Add to bag has an executing named repair; review and merge remain. Native checks remain 0/7 and final passing ratings remain 0/3.",
+  "remaining": "Cart #5439 needs its corrected head published and protected checks completed. Phone Add to bag #5354 needs its returned fix proved and published. Native #5446 is Ready and still owes review and merge before the device checks. TEST replacement and visual acceptance remain open.",
+  "current": "The cart’s CI failure is fixed locally: its TEST file record was stale. The unchanged closure checks now pass 7/7; the one-line correction is with Hands for publication and protected review. In parallel, the phone Add to bag writer returned its fix, and the iPhone correction has reached Ready.",
+  "next": "Verify the cart correction’s publication, consume the phone-button proof and protected reviews, and complete the original TEST stylesheet check. Install eligible merged changes into the unpublished draft; continue the original iPhone run after its source clears review.",
+  "updated": "5 November, 20:29 UTC. Cart’s CI failure is reproduced and corrected locally; its new source is not yet published or approved. Phone Add to bag has a returned fix. Native checks remain 0/7 and final passing ratings remain 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -314,7 +314,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 checks verified",
-      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original device run42036046026 passed its boot/probe but product discovery returned HTTP429; all seven storefront rows are NOT EXERCISED. The original correction #5446 now passes152 tests,184 mutation checks and a public product-pick check. Protected review and merge still precede the actual device run."
+      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original device run42036046026 passed its boot/probe but product discovery returned HTTP429; all seven storefront rows are NOT EXERCISED. The original correction #5446 passes152 tests,184 mutation checks and a public product-pick check. It is now Ready; protected review and merge still precede the actual device run."
     },
     {
       "stage": "Final design acceptance",
@@ -331,8 +331,8 @@
     "iPhone correction #5446 passed152 tests and184 mutation checks; its read-only product pick passed. It is published and accepted for protected review. This clears its earlier proof failure, not the seven device checks.",
     "CS correction #5445 passed452 tests and137 mutation checks, was published and received its exact-head size admission. Connected shopper acceptance follows protected release.",
     "Near me #5353 passed its first review at 18:52 UTC and guards at 18:54 UTC. One test group passed; the remaining tests and second review are still owed. Add to bag #5354 has one sticky-phone glyph finding, with its chair-assigned repair now executing through the original release route.",
-    "Cart #5439 passed its current mutation proof, guards and second full review. One test group passed, one is running and three queued. The final reviewer is explicitly waiting for protected checks; it has not started. The one-file draft installation plan is prepared and source-hash verified.",
-    "Public report revision35efe27 was checked against exact hosted HTML and JSON. The Shopify theme remains unpublished."
+    "Cart #5439 passed its second full review, then a test group exposed its stale TEST file record. The same builder reproduced and corrected that record; all7closure tests pass and the one-line fix is with Hands. The new head has no transferred approval. The final reviewer had not started. No Shopify installation is claimed.",
+    "Public report revision7481224 was checked against exact hosted HTML and JSON. The Shopify theme remains unpublished."
   ],
   "openDeliveryGates": [
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (R1 repair and proof 17:20Z–17:39Z, took 19 min; push and exact-head acceptance verified17:47Z; Ready18:29Z, admission passed18:32Z; required checks and original independent reviews remain; next check20:30Z or result)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (R1 repair and proof17:20Z–17:39Z,took19min; CI binding correction20:22Z–20:25Z,took3min,7/7checks passed; single publication and remaining protected reviews owed; next check20:50Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven-check device run (repair16:17Z–16:37Z,took20min;152 outside tests pass; 152tests and184/184mutation checks pass; published #5446 with a read-only product-pick pass; protected review and merge remain; next check20:30Z or return)."
+        "text": "Complete the original iPhone discovery correction and seven-check device run (source repair16:17Z–16:37Z,took20min;152tests and184mutation checks passed; read-only product-pick passed; #5446 is Ready; original reviews and merge remain; next check20:50Z or result)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next original result check by 20:30 UTC. Cart and Near me remain Ready; Add to bag needs its one named repair. Protected checks and reviews are still required. Native source release and connected TEST work continue in parallel. Installation takes about 10 minutes once the required merges pass; full handover timing remains unknown."
+    "landing": "Lands: Next original result check by20:50 UTC. Cart and phone-button corrections need publication and protected checks. Native review and connected TEST work continue in parallel. The bounded installation check takes about10min after required merges; a full handover time is not yet established."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
