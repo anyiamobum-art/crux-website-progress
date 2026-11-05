@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Hands has the phone manifest correction chained to its original writer behind the current repair. Cart #5439 has one full test group running and four queued. The iPhone helper has two groups running and two queued; its failed shared fixture remains with the infrastructure owner. The account/help visual check is complete.",
+  "workerState": "Cart has two test groups running and three queued. The phone’s original writer is queued behind its existing repair. Three iPhone-helper test groups run; its two failed groups remain with their original shared-test owners. The original Monitor is recovering a shopping-companion intake delay; a running badge alone is not counted as progress.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The account/help visual run42120307960 passed its permitted steps and preserved the page margin. The cart installation candidate was also checked against current commitc258fba52: all40,897 bytes match exactly. Its critical review, complete tests and merge are still required before installation. No Shopify write was made.",
+  "lastActualProgress": "The TEST account/help visual check passed, the 40,897-byte cart installation candidate was matched to the reviewed source, and the new iPhone group failure was recovered from the actual job log and returned to its original owner. It matches the existing clock-fixture diagnosis; no duplicate repair or rerun was started.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Cart #5439 needs full tests, critical review and merge. Phone #5354 is back in Draft after its second review because its JavaScript hash and size do not match the installation manifest. Near me #5353 has a distinct Ask visibility failure awaiting diagnosis. iPhone #5446 has three shared image-fixture timeouts with cause unproved; device journeys remain0/7. C17’s visual-admission blocker is cleared.",
-  "current": "The TEST account/help visual check has passed at390px: opening help no longer shifts the page sideways. Cart release, the phone manifest repair and the remaining shared-test diagnoses continue in parallel.",
-  "next": "Consume the original phone manifest repair and final named-fix review. Continue cart release and the shared-test repairs, then install only eligible merged changes into the unpublished draft. The completed account/help visual check will not be repeated.",
-  "updated": "5 November,22:36 UTC. Public revision481369b passed deployment and exact HTML/JSON readback at22:26. The original phone repair chain is acknowledged; its new result is pending. Device checks remain0/7 and final passing ratings remain0/3.",
+  "remaining": "Cart #5439 needs complete tests, critical review and merge. Phone #5354 needs its one named installation-manifest correction. Near me #5353 has a diagnosed timing race; its desk-owned rerun was cancelled before starting and rescheduled past a separate clock-sensitive test window. iPhone #5446 has two shared-test failures: an image-worker timeout awaiting diagnosis and the separately diagnosed clock fixture. Device journeys remain0/7.",
+  "current": "TEST account/help passed its phone-width visual check. Cart release and the Add to bag correction continue in parallel. The Near me test failure is now diagnosed; the original test owner has the timing correction.",
+  "next": "Consume the original phone manifest correction and protected review. Follow the existing desk’s Near me test run after23:00UTC, and complete cart review before its one-file draft installation. The completed account/help check will not be repeated.",
+  "updated": "5 November,22:49 UTC. Public revisionc286917’s deployment and exact HTML/JSON files were verified at22:43. The original Near me rerun is terminally cancelled; its existing desk helper owns the next run after23:00:30. Final ratings remain0/3 and native checks0/7.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -309,12 +309,12 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Delivery-total12/12 and order-help8/8",
-      "evidence": "The corrected account stylesheet #5429 is merged and installed in the unpublished TEST theme, with exact stored-byte readback verified. The account/help view passed its original390px visual check in run42120307960: opening help preserves the18–19px page margin. No send occurred and the existing functional8/8 count is unchanged. The focus ring at the table edge remains a separate follow-up. Staff, privacy and store-collection journeys remain unfinished. Near me has its first independent approval; its two shared test failures remain under the original owners. The second full Add to bag review returned one installation-manifest defect; only that named correction and the original final fix check remain."
+      "evidence": "The corrected account stylesheet #5429 is merged and installed in the unpublished TEST theme, with exact stored-byte readback verified. The account/help view passed its original390px visual check in run42120307960: opening help preserves the18–19px page margin. No send occurred and the existing functional8/8 count is unchanged. The focus ring at the table edge remains a separate follow-up. Staff, privacy and store-collection journeys remain unfinished. Near me has its first independent approval; its Ask timing failure is diagnosed and the existing desk owns the follow-up run after23:00UTC. The second full Add to bag review returned one installation-manifest defect; only that named correction and the original final fix check remain."
     },
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 checks verified",
-      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original device run42036046026 passed its boot/probe but product discovery returned HTTP429; all seven storefront rows are NOT EXERCISED. The original correction #5446 passes152 tests,184 mutation checks and a public product-pick check. It is now Ready, and both current mutation jobs passed. Current test group1 failed on three shared image-fixture timeouts outside its delta. The original infrastructure owner now owes the cause and disposition; protected release still precedes the device run."
+      "evidence": "Observer #5323 is reviewed, merged and source-qualified. The original device run42036046026 passed its boot/probe but product discovery returned HTTP429; all seven storefront rows are NOT EXERCISED. The original correction #5446 passes152 tests,184 mutation checks and a public product-pick check. It is now Ready, and both current mutation jobs passed. Test group1 failed on three shared image-fixture timeouts outside its delta; group3 hit the separately diagnosed clock-sensitive fixture. Three other groups run. Original owners retain both repairs; protected release still precedes the device run."
     },
     {
       "stage": "Final design acceptance",
@@ -328,11 +328,11 @@
     }
   ],
   "recentChanges": [
-    "TEST account/help visual follow-up completed at390px. [Original result](https://github.com/EON-CRUX/3.09/pull/5429#issuecomment-6671076114): opening help leaves the page margin unchanged; the previous59px sideways shift is gone. No send or extra functional acceptance credit.",
-    "CS correction #5445 passed452 tests and137 mutation checks, then its first review returned three findings at20:22 UTC. Its original repair writer started at21:05 UTC for those three findings; connected shopper acceptance remains open.",
-    "Near me #5353 passed its first review; its completed suite returned two shared Ask/CS failures in group0; the other four groups passed. CS’s shared fix is served, but the distinct Ask visibility failure still needs its original diagnosis before a desk-owned follow-up run. Phone Add to bag #5354 at5db08975 passed6+1 focused tests and14/14 mutations, then its second full review found one stale manifest entry. It returned to Draft at22:09 UTC; the same writer owes only that correction before the final named-fix read.",
-    "Cart #5439 received first approval on current c258fba5 at21:01 UTC after its one-line TEST source-record correction. Admission and focused proof pass. The full suite, critical review and merge remain; no Shopify installation or final design-rating credit is claimed.",
-    "Public report revisionfa98dbf was checked against exact hosted HTML and JSON at22:19 UTC. This source refresh will be marked published only after its own deployment and served-file verification. Shopify remains unpublished."
+    "The TEST account/help visual follow-up passed at390px. [Original result](https://github.com/EON-CRUX/3.09/pull/5429#issuecomment-6671076114): opening help preserves the page margin. No send occurred; the existing functional8/8 count is unchanged.",
+    "Near me’s visibility failure is diagnosed: a fixed wait can read the panel before its opening transition has settled on a busy worker. [Original disposition](https://github.com/EON-CRUX/3.09/pull/5353#issuecomment-6671287114). Its existing desk owns the single whole-run follow-up after23:00:30UTC; no replacement review or duplicate run.",
+    "The iPhone helper’s newly failed group contains the already-diagnosed clock-sensitive test fixture. Its separate image-worker timeouts still need their original diagnosis. Three other groups are running; device checks remain unexercised.",
+    "Phone Add to bag’s second review found one stale installation-manifest entry. Its original writer is queued for that correction alone before the final named-fix read.",
+    "Cart’s current-version first review is approved. Two full test groups run and three queue; critical review and merge are still required. The prepared draft asset matches the current source exactly. No Shopify write was made."
   ],
   "openDeliveryGates": [
     {
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Repair first-add recovery, then release homepage integration #5433 (CI correction20:22Z–20:25Z,took3min; push/acceptance20:43Z; current-version first approval21:01Z; full tests, critical review and draft acceptance pending, next check22:45Z or original result)."
+        "text": "Repair first-add recovery, then release homepage integration #5433 (CI correction20:22Z–20:25Z,took3min; push/acceptance20:43Z; current-version first approval21:01Z; full tests, critical review and draft acceptance pending, next check23:05Z or original result)."
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven-check device run (source repair16:17Z–16:37Z,took20min;152tests and184mutation checks passed; read-only product-pick passed; #5446 is Ready; current group1 failed in a shared image fixture; original infrastructure diagnosis, other groups, reviews and merge remain; next check22:45Z or original result)."
+        "text": "Complete the original iPhone discovery correction and seven-check device run (source repair16:17Z–16:37Z,took20min;152tests and184mutation checks passed; read-only product-pick passed; #5446 is Ready; group1 failed in a shared image fixture and group3 hit the diagnosed clock fixture; original shared-test dispositions, other groups, reviews and merge remain; next check23:05Z or original result)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next protected-result check by22:45 UTC or an earlier original result. Cart release, phone’s named manifest repair and shared-failure diagnosis continue in parallel. The TEST account/help visual follow-up is complete. Draft installation takes about10min after required merges; full handover time remains unknown."
+    "landing": "Lands: Next original release-result check by23:05UTC, after the existing23:00:30 desk action. The cart suite and phone repair continue in parallel. The TEST account/help visual check is complete. Draft installation takes about10min after required merges; full handover time remains unknown."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
