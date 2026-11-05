@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Hands is processing the homepage repair handoff and has begun inspecting the two TEST merge conflicts. The original staff-fixture writer started at 11:23 UTC. No Website browser or simulator run is active.",
+  "workerState": "Hands completed and verified both TEST merge-conflict pushes. The staff-fixture repair is Draft #5436; its author reports 715 tests and 12 pin checks passing. The iPhone observer’s second proof group is running. No Website browser capture or simulator run is active.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Homepage integration #5433 passed 7/7 tests and 18/18 mutations; only one of 37 assembled files changes. Its admission check refuses only its Draft state. The iPhone observer has both approvals. A separate empty-bag first-add defect is reproduced and traced; its original repair-owner handoff is prepared.",
+  "lastActualProgress": "Homepage #5433 exact-version acceptance posted at11:41 UTC. TEST #5359 and #5319 now carry the verified merge repairs; #5436 is published. The public report’s HTML and JSON were verified byte-identical at11:48 UTC.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The iPhone observer has both independent approvals and awaits its current CI checks, merge and original device allocation. Near me and Add to bag await the existing review queue. Privacy and mobile repairs retain their original release checks.",
-  "current": "Homepage integration repair #5433 is built and pushed: 7/7 tests and 18/18 regression mutations passed. It restores the missing EON block while preserving the selected October 3 design. TEST and iPhone work continue through their original owners in parallel.",
-  "next": "Take #5433 through exact-head acceptance and protected review, then the prepared one-file draft installation. Complete the iPhone observer’s remaining checks and merge. Hands has started the two TEST merge repairs through its shell route.",
-  "updated": "5 November, 11:43 UTC / 19:43 Shanghai. Public report files match. Hands’ shell conflict work is executing; no merge result claimed yet. Native acceptance remains 0/7 and final passing design ratings 0/3. Shopify remains unpublished.",
+  "current": "Homepage integration repair #5433 has exact-version Hands acceptance. Its 7/7 tests and 18/18 regression mutations passed; protected review and merge remain. The two TEST merge conflicts are repaired and pushed. The iPhone observer’s current proof checks have started.",
+  "next": "Complete the original protected reviews, then install the eligible changes in the unpublished draft. Reopen the original cart author’s conversation for the separately reproduced empty-bag failure, while the TEST staff and iPhone work continue.",
+  "updated": "5 November, 11:52 UTC /19:52 Shanghai. Homepage acceptance and both TEST pushes are verified. Native acceptance remains0/7 and final passing design ratings0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -329,9 +329,9 @@
   ],
   "recentChanges": [
     "Homepage integration repair #5433 is now published with 7 passing tests and 18 passing regression mutations. Only its generated homepage layout changes; the other 36 files remain identical. The approved design is preserved.",
-    "iPhone observer #5323 received its first independent approval at 11:10 UTC. Its second review, remaining checks, merge and device allocation remain open.",
+    "iPhone observer #5323 has both independent approvals, at11:10 and11:23 UTC. Its current second proof group is running; the remaining proof, merge and device allocation are still open.",
     "The TEST delivery-total journey is accepted: all 12 checks passed on deployed code, including changed-bag invalidation and cleanup without a charge. Store collection remains a separate unfinished path.",
-    "The collection repair’s pin passed at 11:14 UTC; its original Checkout owner resumed for review. The staff-fixture writer is running. Hands has begun the authorized shell merge-only work for the conflicting support repairs; no new push or merge is yet verified.",
+    "The collection repair’s pin passed at 11:14 UTC; its original Checkout owner resumed for review. The staff-fixture repair is now #5436. Hands completed the authorized merge-only corrections: #5359 at b7938d9f and #5319 at faee92bc. Both pushes are verified; protected release remains.",
     "The current plan remains 5 of 9 complete. Source proof is now finished inside the next release step; it does not count as a protected merge, draft installation or final rating."
   ],
   "openDeliveryGates": [
@@ -385,11 +385,11 @@
       },
       {
         "complete": false,
-        "text": "Review and merge homepage integration repair #5433 while original privacy/mobile releases continue (source and proof11:10Z–11:21Z, took11min; protected queue duration unknown)."
+        "text": "Review and merge homepage integration repair #5433 while original privacy/mobile releases continue (source and proof11:10Z–11:21Z, took11min; exact-version acceptance11:41Z; protected queue duration unknown)."
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; CI, merge and allocation remain; next check11:50Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; CI, merge and allocation remain; next check12:05Z)."
       },
       {
         "complete": false,
@@ -400,7 +400,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check11:50Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
+    "landing": "Lands: Next result check12:05Z or earlier return. Full handover timing remains unknown until release, native and review dependencies clear."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
