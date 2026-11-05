@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Mac restarted around 06:18 UTC. Remote CI continued. The original TEST custodian’s last action has no terminal receipt; its owner and Bridge are reconciling effects before any continuation.",
+  "workerState": "The original release desk is running, but its latest log pauses on an unreadable queue. The TEST custodian stopped with a recorded connection/access refusal. Git repository access now answers; dashboard publication recovery is underway.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the updated public report against its hosted bytes. Checkout5397 correctness passed; its original test group4 is running. The TEST custodian START is verified, but its interrupted action is not a completed test.",
+  "lastActualProgress": "Checkout5397 correctness passed; original test group4 was running at06:28. The original TEST recovery result arrived06:38. The retained help-panel candidate was hash-verified against current source, and its exact TEST-only setting change was returned to the original custodian.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Protected reviews and merges are still required. The server route has reopened, but the existing uploader’s Mac paths and external payload need a qualified server invocation and permission for the exact unpublished-theme asset.",
-  "current": "The checkout repair’s correctness check has passed. One original test group is running and four are queued. The other accepted repairs remain with the original paced review desk.",
-  "next": "Consume the original protected checkout result while the Near me, Add to bag and iPhone-observer changes reach their retained queue slots. Obtain the safe one-asset draft-installation command from the original custodian.",
-  "updated": "5 November,06:31 UTC /14:31 Shanghai. Protected reviews, safe draft installation, native checks and final ratings remain open.",
+  "remaining": "GitHub API and box SSH connections have timed out after the Mac restart. The TEST order needs readback and a decision on its payment state; aftercare accepts paid orders. Its help panel also needs verified signed forwarding before activation.",
+  "current": "The TEST custodian returned a precise recovery result. The interrupted order remains unconfirmed; the original read-only reconciliation is prepared. The existing TEST help-panel configuration has been recovered and checked against current source.",
+  "next": "Recover this dashboard upload, then consume the original protected review results. Qualify the exact TEST orders route and help-panel activation through the original owners.",
+  "updated": "5 November,06:45 UTC /14:45 Shanghai. Later GitHub API reads failed; no newer CI outcome is inferred. TEST activation, draft installation, native checks and final ratings remain open.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
