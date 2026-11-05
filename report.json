@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The chair has made the original shared CI repair Ready. Website completed the read-only catalogue source diagnosis and returned its exact next read to the existing chair and custodian. No duplicate writer, review, test run or credential request was started.",
+  "workerState": "Website finished the three-product Shopify Admin read, returned the findings to the original catalogue owner and released Chrome. The original proxy-observer repair has a new third-round head; its protected review remains with its existing writer and desk.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Completed the catalogue source diagnosis: ACTIVE products may intentionally be store-only, and the optional automatic-hide state records intent before transport. A hidden state row alone cannot prove who unpublished a product. The three original examples now have a bounded follow-up read; no product visibility changed.",
+  "lastActualProgress": "Verified all three channel mismatches directly in Shopify Admin. The retained Flow search for one product showed no run, but its 14-day retention cannot establish who unpublished it. No product, channel or theme changed.",
   "milestone": "Draft delivery · 1 of 3 verified",
   "overall": null,
   "scopedProgress": [
@@ -140,10 +140,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The shared date-sensitive test repair has not merged. The draft identity installation and bounded catalogue history read await the original credential custodian’s supported route. Guest iPhone checks separately need the observer merge and original device allocation.",
-  "current": "The shared CI repair #5415 is Ready and awaiting its tests. In parallel, the Google catalogue diagnosis has identified existing store-only and optional sold-out hiding paths; the reason for the sampled removals still needs publication-history evidence.",
-  "next": "Consume the original shared-test repair after merge and served verification, then resume the existing protected queue. Use the original qualified server route for the three-product catalogue read and the prepared draft identity installation.",
-  "updated": "5 November, 04:54 UTC / 12:54 Shanghai. The shared CI repair remains open; the credential return supplies no clearance. Final passing ratings remain 0/3.",
+  "remaining": "Shared test repair #5415 is not yet verified merged and served. The returned server route does not permit the pending CRUX draft identity installation. Guest iPhone checks separately need the observer merge and original device allocation.",
+  "current": "Three sampled products have Google & YouTube enabled while their Online Store channel is disabled. All three are Active with one available unit. This verifies a current channel mismatch; the reason and actor remain unproved.",
+  "next": "Consume the original shared CI repair after merge and served verification, then resume the existing protected queue. The original custodian has identified a TEST-write / CRUX-read-only server route; the unpublished CRUX theme installation still needs a route that permits that exact write.",
+  "updated": "5 November, 05:07 UTC / 13:07 Shanghai. The three-product read is complete; shared CI and exact draft-write clearance remain pending. Final passing ratings remain 0/3.",
   "links": [
     {
       "title": "Isolated checkout repair #5397",
@@ -304,10 +304,10 @@
     }
   ],
   "recentChanges": [
-    "Shared CI repair #5415 is Ready on its original source. Its current metadata gates passed; the five test groups and pin proof are still queued. No merge or resumed suite is claimed.",
-    "Read-only catalogue diagnosis is complete. The sample points to unpublished online product pages; existing source supports intentional store-only products and optional automatic sold-out hiding. The actual cause of the named removals remains unproved.",
-    "The Merchant Center count is offers and issue rows, not established as 1,595 distinct products. No hidden product has been published and no channel membership has changed.",
-    "The original credential custodian confirmed that no route clearance or line-removal approval has been returned. The prepared draft identity patch retains its six passing offline checks; installation remains pending.",
+    "Direct Shopify Admin reading confirms the same channel mismatch on three sampled products: Google & YouTube enabled, Online Store disabled, Active, one available unit each. This is a bounded sample, not a conclusion about the entire catalogue.",
+    "No retained Flow run was found for the third product. The visible 14-day retention means the actor, time and business reason remain unknown. Stock alone is not permission to republish.",
+    "The custodian returned a supported server route for TEST writes and CRUX read-only work. It excludes the pending CRUX draft installation and stays held during the shared CI repair.",
+    "Original proxy-observer repair #5319 has its third-round correction at `13b656c2`. Its writer and review history are retained; no new approval is claimed.",
     "The guest iPhone checks remain separate from signed TEST setup. No extra staff login is required for those seven device checks."
   ],
   "openDeliveryGates": [
@@ -540,6 +540,10 @@
         "text": "Complete read-only Google catalogue source diagnosis and return the bounded three-product read (04:45Z–04:53Z, took8 min; actual removal cause remains unproved)."
       },
       {
+        "complete": true,
+        "text": "Verify the three sampled products in Shopify Admin and return the channel mismatch (04:57Z–05:03Z, took6 min; no write, actor and reason unproved)."
+      },
+      {
         "complete": false,
         "text": "Consume the original shared CI repair #5415 merge and served receipt (next check05:15Z or its result; dependent protected queue remains held)."
       },
@@ -555,14 +559,14 @@
     "steps": [
       {
         "complete": true,
-        "text": "Completed — Audit existing product copy and settings (08:42Z–08:54Z, took12 min; API refreshed17:55Z–17:59Z; Admin read22:13Z–22:16Z). Prior descriptions and categories are preserved; original SEO repair keeps its owner. Follow-up catalogue source diagnosis completed04:45Z–04:53Z, took8min: store-only and automatic-hide paths exist; the actual removal reason remains unproved."
+        "text": "Completed — Audit existing product copy and settings (08:42Z–08:54Z, took12 min; API refreshed17:55Z–17:59Z; Admin read22:13Z–22:16Z). Prior descriptions and categories are preserved. Follow-up source diagnosis04:45Z–04:53Z and three-product Admin read04:57Z–05:03Z verified the channel mismatch. Its cause remains unproved; no publication changed."
       },
       {
         "complete": true,
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: The next bounded catalogue history read needs the original qualified server route (about5min once available; custody check05:12 UTC /13:12 Shanghai). No bulk publication or Google-channel change. Shared repair check05:15 UTC /13:15 Shanghai; final handover duration remains unknown while TEST, iPhone and ratings are open.",
+    "landing": "Lands: The next bounded history read is about5min after the shared repair clears and the original custodian qualifies the server read. Draft identity write has a separate scope gap, next check05:12 UTC /13:12 Shanghai. Shared repair check05:15 UTC /13:15 Shanghai; final handover timing remains unknown while TEST, iPhone and ratings are open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
