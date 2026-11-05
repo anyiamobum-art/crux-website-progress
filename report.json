@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Website has completed and pushed its assigned source repair. Original Checkout has resumed after the collection pin passed at 11:14 UTC; the staff-fixture job is queued behind the running approver. No Website browser or simulator run is active.",
+  "workerState": "Hands is processing the homepage repair handoff. The original staff-fixture writer started at 11:23 UTC; the two merge-only TEST repairs are queued behind the earlier jobs. No Website browser or simulator run is active.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#5433 is published with exact-source tests and mutation proof. Of 37 generated files, only the homepage layout changes. The iPhone observer #5323 received its first independent approval at 11:10 UTC. TEST delivery-total acceptance remains 12/12 passed, without replay.",
+  "lastActualProgress": "Homepage integration #5433 passed 7/7 tests and 18/18 mutations; only one of 37 assembled files changes. Its one-file draft installation plan is prepared. The iPhone observer received its second approval at 11:23 UTC. TEST delivery-total acceptance remains 12/12 passed.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The iPhone observer has its first independent approval; its second review, merge and device allocation remain. Near me and Add to bag await the existing review queue. Privacy and mobile repairs still need their original release checks. The two conflicting TEST support changes need a named merge-only disposition under the provider pause.",
+  "remaining": "The iPhone observer has both independent approvals and awaits its current CI checks, merge and original device allocation. Near me and Add to bag await the existing review queue. Privacy and mobile repairs retain their original release checks.",
   "current": "Homepage integration repair #5433 is built and pushed: 7/7 tests and 18/18 regression mutations passed. It restores the missing EON block while preserving the selected October 3 design. TEST and iPhone work continue through their original owners in parallel.",
-  "next": "Take #5433 through exact-head acceptance and protected review, then its separately approved one-file draft installation. Complete the iPhone observer’s second review and the original TEST release steps.",
-  "updated": "5 November, 11:23 UTC / 19:23 Shanghai. Homepage repair source and proof verified; iPhone observer first approval verified. Native acceptance remains 0/7 and final passing design ratings 0/3. Shopify remains unpublished.",
+  "next": "Take #5433 through exact-head acceptance and protected review, then the prepared one-file draft installation. Complete the iPhone observer’s remaining checks and merge; the two authorized TEST merge repairs are queued.",
+  "updated": "5 November, 11:35 UTC / 19:35 Shanghai. Both iPhone observer approvals verified; original TEST writer started and merge repairs queued. Native acceptance remains 0/7 and final passing design ratings 0/3. Shopify remains unpublished.",
   "links": [
     {
       "title": "Homepage integration repair #5433",
@@ -389,7 +389,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the iPhone observer review and take the existing seven-check device slot (first approval11:10Z; second review, merge and allocation remain; next check11:50Z)."
+        "text": "Complete the iPhone observer review and take the existing seven-check device slot (both approvals11:10Z and11:23Z; CI, merge and allocation remain; next check11:50Z)."
       },
       {
         "complete": false,
