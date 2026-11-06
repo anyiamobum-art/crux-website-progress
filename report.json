@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The release service owns the Near me merge. The desk has reported two offline runners to Hands. The prechecks on Near me itself passed. The release owner is checking the server’s merge decision. The chair authorized one full staff TEST rerun after the busy-runner repair is merged and served.",
+  "workerState": "The browser slot for the directory has been requested. The staff TEST owner has the chair’s approval for one full rerun after the busy-runner fix is merged and served.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "I compared both phone Add to bag files against the current unpublished Shopify theme. The reviewed script fits the installed version. The product section needs to retain the CRUX shop setting that loads the Looks rail. Both draft files are ready for that limited change after protected merge.",
+  "lastActualProgress": "The store directory merged at 02:10 UTC. Shopify returned both installed files exactly at 02:14. The draft page served the new control and five directions links, and the served script’s source map matched the merged code.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The small iPhone helper is held until the owner of a shared image test explains its timeouts. A separate clock-sensitive test has a repair in review. Signed TEST privacy and staff journeys remain open.",
-  "current": "Near me passed its code review and full test run. Its protected merge is next. The chair admitted the phone Add to bag repair to its final review. All five groups of the cart test are queued.",
-  "next": "Once Near me merges, compare both changed files with the unpublished theme, install the repair, and check the directory and directions when a shopper declines location access.",
-  "updated": "6 November, 02:05 UTC. Checked the two Shopify files, the chair’s staff TEST decision and the Near me merge queue.",
+  "current": "Near me is installed on the unpublished Shopify store directory. The phone Add to bag repair passed its first reviewer’s final check. Its second code review and protected tests remain open.",
+  "next": "Use the shared browser to tap Near me, decline location access, and follow a store’s directions link. In parallel, the original owners are handling the phone button, TEST and small iPhone checks.",
+  "updated": "6 November, 02:17 UTC. Verified the unpublished directory installation and the reviewer’s decision on the phone Add to bag repair.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -304,8 +304,8 @@
   "deliveryStages": [
     {
       "stage": "Installed in the draft",
-      "state": "Installation and collection load verified",
-      "evidence": "Runway #5204, floating Stores #5250, Options motion #5324 and the identity asset are installed. Chrome confirms the draft and collection loader; the homepage loader is absent. The live theme is unchanged."
+      "state": "Near me installed and served",
+      "evidence": "Runway, floating Stores and Options motion were already installed. The new store directory is served on the unpublished Shopify theme. Both changed files matched the merge. The location-permission interaction is the next browser check."
     },
     {
       "stage": "Repairs and connected TEST",
@@ -329,10 +329,10 @@
     }
   ],
   "recentChanges": [
-    "Near me: Its reviewer approved the change and the complete test run passed. The protected merge comes next. The draft check will verify that tapping Near me works and directions stay accessible if location permission is declined.",
+    "Near me is in the Shopify draft. Its reviewed code merged and the served directory contains the new control plus five directions links. The live theme’s 550 files matched their pre-install versions.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The desk held the helper for diagnosis of three timeouts in one shared image test. A separate clock repair is in review. The original iPhone owner has the ruling. All seven shopper journeys still need device evidence.",
-    "Phone Add to bag: The original repair passed 14 focused checks and 18 mutation checks. The chair admitted it to final review. Both current Shopify files match their expected starting versions. The product section will retain the setting that loads the Looks rail when the plus is installed.",
+    "Phone Add to bag passed its first reviewer’s final check at 02:13 UTC. Both changed files have been rehearsed against the existing Shopify draft, including its Looks rail setting. The independent second code review and protected tests are next.",
     "TEST: account help passed the 390 px visual check after its stylesheet repair. Opening help keeps the page margin intact. Nothing was sent from the test account."
   ],
   "openDeliveryGates": [
@@ -393,12 +393,16 @@
         "text": "Compare both phone Add to bag files with the unpublished theme and verify the existing Looks rail setting (02:03Z–02:05Z, took 2 min)."
       },
       {
-        "complete": false,
-        "text": "Install the two Near me files after the protected merge and check store directions on the draft (waiting since 01:45Z; 10 min for the draft check after merge)."
+        "complete": true,
+        "text": "Merge Near me, install both files in the unpublished theme and verify the served directory (02:10Z–02:15Z, took 5 min)."
       },
       {
         "complete": false,
-        "text": "Take the accepted phone Add to bag installer through its final review, then verify the plus button on the unpublished draft (admitted to final review at 01:42Z; 10 min for the draft check after merge)."
+        "text": "Check Near me in a shopper’s browser with location declined, then open directions (shared browser requested 02:13Z, est. 5 min once admitted)."
+      },
+      {
+        "complete": false,
+        "text": "Complete the second phone Add to bag review and protected tests, then install and verify the plus button in the unpublished draft (first reviewer passed it at 02:13Z, est. 10 min after merge)."
       },
       {
         "complete": false,
@@ -417,7 +421,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next release and test-owner check by 02:30 UTC or on a protected merge. Allow about 10 min to install and verify the directory after merge. Final handover timing depends on TEST, iPhone and the three reviews."
+    "landing": "Lands: Allow five minutes to check store directions once the browser slot opens. The next release check is due by 02:30 UTC. Final handover depends on TEST, the iPhone journeys and the three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
