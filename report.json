@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The phone Add-button check has passed one of its five test groups on its current run. The guest and privacy changes are in protected testing. Hands has the repeated-add evidence for the collection tracking repair.",
+  "workerState": "Two of the five phone Add-button test groups passed, one is running and two are queued. The guest fix has one passing group and two running. The staff menu fix has passed 87 fault checks and is second in the release queue.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify returned the updated three-piece line total on a one-piece request. The original writer received the exact source line, failing case and expected value. The six earlier browser checks are recorded against the cases they actually covered.",
+  "lastActualProgress": "Shopify returned the updated three-piece line total on a one-piece request. Website and Identity sent Hands the exact source line, failing case and expected value for the original writer. The six earlier browser checks are recorded against the cases they actually covered.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -90,15 +90,15 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "Installed; staff-role prerequisite open",
-      "Signed buyer lookup and twelve served-code checks passed. Hands verified the available device is signed in as CRUX Owner on 4 November; it does not qualify the required staff witness.",
-      "Original CS owner qualifies the named staff session and TEST conversation, then Aftercare proves consent and withdrawal on the same product."
+      "Participants verified in TEST; staff actions pending",
+      "Staff TEST verified the store, buyer and staff identities. Step 3 clicked a hidden control. The menu correction passed six test files and 87 fault checks.",
+      "After #5466 deploys, renew the original TEST access and complete the conversation and consent checks."
     ],
     [
       "6. Assistant privacy facts",
-      "Notice and guarded TEST configuration verified",
-      "On 1 November Shopify returned the three installed files, the preserved policy and one approved disclosure. The TEST proxy source rejected cross-shop and cross-workspace pairs.",
-      "Verify two distinct signed shoppers and consent withdrawal on the unpublished TEST copy."
+      "Disclosure installed; consent and isolation pending",
+      "Both shoppers have distinct TEST profiles. The actual privacy test reached step 7 and hit the request limit. Its pacing fix #5428 passed first review.",
+      "Complete protected testing and second review, then run the original privacy check with both shopper profiles."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -140,7 +140,7 @@
   "remaining": "The staff test stopped at a hidden menu button. The small iPhone hit a request limit before the first journey. The store directory still includes a closed location. Each has a named repair and an acceptance check.",
   "current": "The private draft lets a shopper add to an empty bag from a collection or a product page. A separate tracking repair overstates the value of a repeat add. The original writer has been asked to correct it before installation.",
   "next": "Verify that adding one more ₦15,900 item reports exactly ₦15,900, including when the bag already holds two. Guest-access and privacy repairs have each passed their first protected review. Their tests and second reviews continue in parallel.",
-  "updated": "6 November, 08:29 UTC. The staff TEST verified its assigned identities. Seven native iPhone journeys and all three final ratings still need passing evidence.",
+  "updated": "6 November, 08:35 UTC. The actual staff, customer and store identities were verified in TEST. Seven native iPhone journeys and all three final ratings still need passing evidence.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -332,14 +332,14 @@
     "Both first-add paths passed on the unpublished draft. The cart repair is installed. [Cart repair #5439](https://github.com/EON-CRUX/3.09/pull/5439)",
     "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The proposed tracking code uses that total as the value of the single new add. The six served-copy checks missed this case. The writer has the correction. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
     "The TEST guest-access and privacy fixes each passed a first review. Both still need passing protected tests and a second approval. [Guest access #5359](https://github.com/EON-CRUX/3.09/pull/5359) · [Privacy #5428](https://github.com/EON-CRUX/3.09/pull/5428)",
-    "The deployed staff helper verified the store, customer and staff identities. Step 3 clicked a hidden control. The team received the corrected route through the conversation menu. [Staff check #5436](https://github.com/EON-CRUX/3.09/pull/5436)",
+    "The signed-in staff test verified its store and participants. Its menu repair passed six test files and 87 fault checks. It is second in the release queue. After deployment, the original tester can verify consent and the remaining staff actions. [Staff repair #5466](https://github.com/EON-CRUX/3.09/pull/5466)",
     "The floating Stores control is installed in the draft. The Near Me repair merged. Removing the closed shop from the private list still needs a passing test and verification on both directory pages. [Floating Stores #5250](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me #5353](https://github.com/EON-CRUX/3.09/pull/5353)"
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The signed-in TEST verified the store, customer and staff identities. Step 3 clicked a hidden button.",
-      "next": "Hands repairs the test to open Ask from the conversation menu, then the original tester verifies the staff actions on the reviewed version. The privacy check separately verifies buyer consent and withdrawal. Owner: Original staff TEST and privacy owners."
+      "blocker": "The staff TEST verified its participants, then stopped at step 3 when it tried a hidden button.",
+      "next": "Release the corrected conversation-menu test (#5466, second in the queue), then have the original tester complete the staff actions. Buyer consent and withdrawal require their own check."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -491,6 +491,14 @@
       {
         "complete": true,
         "text": "Verify both store-panel code reviews, all five test groups, the protected merge and the deployed version. Return the result to the phone-button release queue (06:28Z–06:56Z)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the replacement staff menu test, all 87 fault checks and its place second in the release queue (08:25Z–08:31Z, took 6 min)."
+      },
+      {
+        "complete": false,
+        "text": "Verify the staff actions in TEST after that test deploys and its original access is renewed (est. 10 min after release)."
       },
       {
         "complete": true,
