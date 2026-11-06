@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The Add to bag and store-directory test retries reached GitHub. The staff menu retry is still on the release desk’s list. The repeat-add tracking repair remains in a draft pull request.",
+  "workerState": "Add to bag passed its full test run. The release desk started its separate correctness check. Store-directory tests continue. The shopper export diagnostic passed its first code review. The iPhone helper awaits release capacity.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The connected shopper reached the style-data export and saw the download error. The original team opened a diagnostic change to distinguish a failed export response from an unreadable downloaded file. It reports response and file metadata while keeping the contents private. GitHub started the Add to bag test plan and accepted the directory retry.",
+  "lastActualProgress": "The five Add to bag test groups passed. The staff repair’s 30-second Runway timeout did not reproduce on the exact source: all nine interactions passed in 1.09 seconds. The identical test and storefront code also passed in another hosted suite. The staff repair still needs its own passing run.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -91,14 +91,14 @@
     [
       "5. Buyer trust and WhatsApp reviews",
       "TEST identities verified. Staff actions pending.",
-      "The original staff test reached the conversation. Four of five repair test groups passed. A worker ran out of memory in the fifth.",
-      "Finish the queued repair run, then verify Use and Dismiss and the separate buyer-consent flow."
+      "An earlier runner ran out of memory. On the second attempt a Runway interaction test exceeded 30 seconds. All nine interactions passed on the exact source in isolation and the same test passed on another hosted head.",
+      "Finish the approved retry, then verify staff Use and Dismiss, buyer consent and withdrawal."
     ],
     [
       "6. Assistant privacy facts",
       "Notice installed. Export and removal pending.",
-      "The pacing repair merged. The shopper passed five steps, then saw a download error at step six.",
-      "Diagnose the export response, then verify removal and account isolation on the deployed repair."
+      "On TEST the shopper saved a look; the export failed at step six. The change that will identify the response or file failure passed its first code review.",
+      "Complete its protected release and repeat export, deletion and account isolation against the two original TEST accounts."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The shopper could not download their saved style data. The staff test needs a working runner. The iPhone test needs its product-discovery repair and a device slot.",
-  "current": "The guest-access and privacy test repairs merged. On the deployed build the shopper passed five steps, including saving a look. Downloading style data failed at step six.",
-  "next": "Trace the failed export response, finish the staff menu test, and verify that both private directory pages list the three open stores when the store-list repair merges.",
-  "updated": "6 November, 19:16 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.",
+  "remaining": "The shopper’s style-data download failed at step six. A hosted Runway test timed out during the staff repair. The small-iPhone run needs the product-discovery repair and its allocated device turn.",
+  "current": "Add to bag passed all five test groups. Its separate correctness check is running through the release queue. The store-directory repair has passed three of its five groups.",
+  "next": "Finish the separate Add to bag check and second review, then install the merged change on the private theme and tap the plus on a product. Continue the signed shopper export and staff review checks in TEST.",
+  "updated": "6 November, 21:57 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,21 +345,21 @@
     }
   ],
   "recentChanges": [
-    "The TEST guest-access repair merged at 11:03 UTC. The corrected software served at 11:07 UTC. One guest selector still awaits protected review. [Guest fix](https://github.com/EON-CRUX/3.09/pull/5359) · [Selector follow-up](https://github.com/EON-CRUX/3.09/pull/5471)",
-    "The privacy pacing repair merged at 12:17 UTC. The connected shopper passed five steps, then saw an error downloading style data. The tester saved the failure. A draft diagnostic change would show whether the error came from the export response or the downloaded file. [Diagnostic change](https://github.com/EON-CRUX/3.09/pull/5472) [Privacy fix](https://github.com/EON-CRUX/3.09/pull/5428) · [Actual TEST result](https://github.com/EON-CRUX/3.09/pull/5350#issuecomment-6691484605)",
-    "GitHub accepted the Add to bag test retry at 19:07 UTC and the closed-store test retry at 19:12 UTC. Both still need a passing result and the required second approval. All five directory files are prepared for private installation after protected merge. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)",
-    "The floating Stores button and Near Me are installed in the private theme. Both collection and product first-add paths passed there. [Stores](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me](https://github.com/EON-CRUX/3.09/pull/5353) · [First add](https://github.com/EON-CRUX/3.09/pull/5439)"
+    "Add to bag passed all five hosted test groups. The desk restarted its separate required check on the same change. It still needs that result and the second code approval before installation on the draft. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Separate check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)",
+    "The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. [Store-directory tests](https://github.com/EON-CRUX/3.09/actions/runs/42162738189)",
+    "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
+    "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)"
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The signed staff test stopped at a hidden menu button. Its repair passed four of five test groups. The fifth lost its worker.",
-      "next": "The release desk has queued the retry. Once the repair serves, the original tester will verify Use and Dismiss. Buyer review consent and withdrawal still need their own evidence."
+      "blocker": "The staff repair’s second hosted run timed out in a Runway test. The same test passed elsewhere, and all nine interactions passed on the exact source in isolation.",
+      "next": "Finish the chair-approved hosted retry, then verify the staff Use and Dismiss actions, buyer publication consent and withdrawal."
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Guest access and privacy pacing both merged. On the deployed build the shopper saved a look, then hit a download error. The final three test steps did not run.",
-      "next": "Use the failed export response to identify the repair, then verify export, removal and separation between the two approved TEST accounts."
+      "blocker": "The signed shopper saved a look, then the data download failed at step six. The diagnostic repair has its first code approval.",
+      "next": "Complete review of the diagnostic, use it on the original two TEST accounts, then verify export, deletion and account separation."
     },
     {
       "label": "8. Final three-model ratings",
@@ -461,8 +461,16 @@
         "text": "Merge #5459, install the five private files and verify the three stores on both routes (est. 5 min for hosted verification after protected merge and installation)."
       },
       {
+        "complete": true,
+        "text": "Verify Add to bag’s five hosted test groups and the passing aggregate (19:07Z–21:05Z, took 118 min including queue time)."
+      },
+      {
+        "complete": true,
+        "text": "Trace the staff Runway timeout and compare unchanged source across two hosted runs (21:53Z–21:57Z, took 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Finish Add to bag’s required tests, restore the separately cancelled check and obtain the second review. Install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
+        "text": "Finish the restarted correctness check and second review for Add to bag. Install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
       },
       {
         "complete": true,
@@ -557,7 +565,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: The next decision follows the hosted store-list and Add to bag results or the export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
+    "landing": "Lands: The next decision follows the separate Add to bag check, the two remaining store-directory test groups or the signed shopper export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
