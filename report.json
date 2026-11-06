@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "All five test groups and the combined test gate passed for the shared store-panel repair. The independent second reviewer started at 06:36 UTC. Its decision, merge and deployment come before the phone-button retry. Hands confirmed the collection Quick Add tracking fix in the existing writer queue.",
+  "workerState": "The shared store-panel repair has passed both reviews and all five test groups. It is deployed. The release desk has one full retry allocated for the phone Add button.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The independent reviewer started on the shared store-panel repair at 06:36 UTC after all five test groups passed. The separate correction removing closed Osapa passed its first protected review. The homepage repair holds row 44 in the release queue.",
+  "lastActualProgress": "The shared panel fix merged at 06:52 UTC and deployed at 06:55 UTC. The version served by EON matched that merge. This clears a shared prerequisite for the phone button, guest access and assistant privacy.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The release desk counted 27 active runs against its limit of 24. The shared panel repair is still open. The corrected store list, staff TEST journeys, privacy checks and seven native iPhone journeys also remain open.",
+  "remaining": "The private store list still includes closed Osapa. Its correction passed code review and is waiting for its tests. The staff and privacy journeys, the small-iPhone test slot and seven native journeys also remain open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
-  "next": "The homepage repair has a place in the review queue. The desk will mark it Ready when capacity opens. The phone Add button gets one full test run after the shared store-panel repair merges and is served.",
-  "updated": "6 November, 06:45 UTC. The private draft passed both empty-bag Add checks. The second store-panel review is running on GitHub. The homepage and closed-store repairs are awaiting their next protected steps.",
+  "next": "The phone Add button, guest access and privacy checks are eligible for their full test runs. The release desk has the deployed version and owns the existing queue. The homepage repair holds row 44.",
+  "updated": "6 November, 06:57 UTC. EON served the reviewed store-panel fix. The pending phone Add button still showed its previous completed run when the release desk received the evidence. Both private-draft empty-bag Add checks passed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,7 +329,7 @@
     }
   ],
   "recentChanges": [
-    "The phone Add button passed its first review. Its last run failed on the image worker and the store panel. All five test groups passed for the shared store-panel repair at 06:27 UTC, followed by the combined gate at 06:28 UTC. The release desk will retry the phone Add button once that repair has merged and is served. [Shared repair tests](https://github.com/EON-CRUX/3.09/actions/runs/42031601569/attempts/5)",
+    "The shared store-panel fix passed all five test groups and both reviews, merged at 06:52 UTC, and was verified on the deployed EON service at 06:55 UTC. The phone button, guest access and privacy checks can now take their scheduled full retries. [Merged panel repair](https://github.com/EON-CRUX/3.09/pull/5342)",
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
     "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Its first protected review passed. The full test run is queued. Its draft installation and verification of both store-directory pages are pending.",
     "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper tested each path from an empty bag. Both added one Achilles Pendant, opened or updated the bag correctly, and left no recovery marker. The test bag was emptied. Collection Quick Add still needs its analytics event. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
@@ -458,6 +458,10 @@
       },
       {
         "complete": true,
+        "text": "Verify both store-panel code reviews, all five test groups, the protected merge and the deployed version. Return the result to the phone-button release queue (06:28Z–06:56Z)."
+      },
+      {
+        "complete": true,
         "text": "Verify the homepage’s place in the release queue, the phone button’s retry decision and the collection Add tracking contract (06:17Z–06:24Z)."
       },
       {
@@ -477,7 +481,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next decision when the shared store-panel review returns. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next decision when the release desk runs the phone-button, guest-access and privacy checks. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -491,7 +495,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next decision when the shared store-panel review returns.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next decision when the release desk runs the phone-button, guest-access and privacy checks.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
