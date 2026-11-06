@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The phone Add-button repair has two passing test groups. The signed TEST staff menu, guest access and privacy repairs are in protected review and testing.",
+  "workerState": "The release desk resumed. It has queued separate test retries for Add to bag, the store directory and the staff menu. The repeat-add tracking repair remains in a draft pull request.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 390 and 1280 px, adding the same item again recorded the price of one piece. The previous code failed at both widths. All 13 deliberate fault checks passed on the correction. The two files for the private theme are prepared.",
+  "lastActualProgress": "The connected shopper reached the style-data export and saw the download error. The original tester identified the export request to trace and returned the failure to its owner. The release desk also placed the directory and Add to bag retries.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -90,15 +90,15 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "Participants verified in TEST; staff actions pending",
-      "Staff TEST verified the store, buyer and staff identities. Step 3 clicked a hidden control. The menu correction passed six test files and 87 fault checks.",
-      "After #5466 deploys, renew the original TEST access and complete the conversation and consent checks."
+      "TEST identities verified. Staff actions pending.",
+      "The original staff test reached the conversation. Four of five repair test groups passed. A worker ran out of memory in the fifth.",
+      "Finish the queued repair run, then verify Use and Dismiss and the separate buyer-consent flow."
     ],
     [
       "6. Assistant privacy facts",
-      "Disclosure installed; consent and isolation pending",
-      "Both shoppers have distinct TEST profiles. The actual privacy test reached step 7 and hit the request limit. Its pacing fix #5428 passed first review.",
-      "Complete protected testing and second review, then run the original privacy check with both shopper profiles."
+      "Notice installed. Export and removal pending.",
+      "The pacing repair merged. The shopper passed five steps, then saw a download error at step six.",
+      "Diagnose the export response, then verify removal and account isolation on the deployed repair."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The staff test stopped at a hidden menu button. The small iPhone hit a request limit before the first journey. The store directory still includes a closed location. Each has a named repair and an acceptance check.",
-  "current": "The corrected repeat-add tracking passed all six browser checks. A first add from either the collection or product page already works on the unpublished draft.",
-  "next": "Take the corrected tracking through protected review, install it in the unpublished theme after merge, then repeat the pendant test there. The staff menu repair entered protected review at 09:00 UTC.",
-  "updated": "6 November, 09:03 UTC. The TEST store, staff member and shopper identities were verified. The seven iPhone journeys and the three final ratings remain open.",
+  "remaining": "The shopper could not download their saved style data. The staff test needs a working runner. The iPhone test needs its product-discovery repair and a device slot.",
+  "current": "The guest-access and privacy test repairs merged. On the deployed build the shopper passed five steps, including saving a look. Downloading style data failed at step six.",
+  "next": "Trace the failed export response, finish the staff menu test, and verify that both private directory pages list the three open stores when the store-list repair merges.",
+  "updated": "6 November, 18:04 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -310,13 +310,13 @@
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "Checkout totals: 12/12; account help: 8/8",
-      "evidence": "The TEST account/help screen now preserves an 18–19 px page margin when help opens at 390 px. The functional checks were not counted again. The staff test, independent shopper privacy check and public looks rail still need their own evidence. The collection test owner returned a repair that passed both affected files; the connected staff check remains open."
+      "state": "Checkout totals 12/12 and account help 8/8",
+      "evidence": "Guest access and privacy pacing merged. The connected shopper passed five steps and then could not export style data. The staff Use and Dismiss actions and guest looks rail still need their own checks."
     },
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The shared date-sensitive test that had failed the iPhone build has a merged fix. The release desk corrected the product-discovery helper’s queue entry. Its protected run and native device allocation are pending."
+      "evidence": "Product discovery stopped at a request limit before the first journey. The helper is on the release desk’s list. Its protected run and the original small-iPhone allocation are pending."
     },
     {
       "stage": "Final design acceptance",
@@ -330,22 +330,21 @@
     }
   ],
   "recentChanges": [
-    "Both first-add paths passed on the unpublished draft. The cart repair is installed. [Cart repair #5439](https://github.com/EON-CRUX/3.09/pull/5439)",
-    "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The writer corrected the event to report one item at its actual unit price. Six browser checks passed on the corrected source and 13 deliberate faults were detected. Its check on the installed draft follows protected merge. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
-    "The TEST guest-access and privacy fixes each passed a first review. Both still need passing protected tests and a second approval. [Guest access #5359](https://github.com/EON-CRUX/3.09/pull/5359) · [Privacy #5428](https://github.com/EON-CRUX/3.09/pull/5428)",
-    "The signed-in staff test verified its store and participants. Its menu repair passed six test files and 87 fault checks. Protected review and testing started at 09:00 UTC. After deployment, the original tester can check Use and Dismiss. Buyer consent and withdrawal have a separate test. [Staff repair #5466](https://github.com/EON-CRUX/3.09/pull/5466)",
-    "The floating Stores control is installed in the draft. The Near Me repair merged. Removing the closed shop from the private list still needs a passing test and verification on both directory pages. [Floating Stores #5250](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me #5353](https://github.com/EON-CRUX/3.09/pull/5353)"
+    "The TEST guest-access repair merged at 11:03 UTC. The corrected software served at 11:07 UTC. One guest selector still awaits protected review. [Guest fix](https://github.com/EON-CRUX/3.09/pull/5359) · [Selector follow-up](https://github.com/EON-CRUX/3.09/pull/5471)",
+    "The privacy pacing repair merged at 12:17 UTC. The connected shopper passed five steps, then saw an error downloading style data. The tester identified the export request and saved the error evidence. [Privacy fix](https://github.com/EON-CRUX/3.09/pull/5428) · [Actual TEST result](https://github.com/EON-CRUX/3.09/pull/5350#issuecomment-6691484605)",
+    "The desk reopened at 17:43 UTC after the shared test repair merged. The closed-store correction and Add to bag plus are in its retry order. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)",
+    "The floating Stores button and Near Me are installed in the private theme. Both collection and product first-add paths passed there. [Stores](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me](https://github.com/EON-CRUX/3.09/pull/5353) · [First add](https://github.com/EON-CRUX/3.09/pull/5439)"
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The staff TEST verified its participants, then stopped at step 3 when it tried a hidden button.",
-      "next": "Release the corrected conversation-menu test (#5466, in protected review), then have the original tester complete the staff actions. Buyer consent and withdrawal require their own check."
+      "blocker": "The signed staff test stopped at a hidden menu button. Its repair passed four of five test groups. The fifth lost its worker.",
+      "next": "The release desk has queued the retry. Once the repair serves, the original tester will verify Use and Dismiss. Buyer review consent and withdrawal still need their own evidence."
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Both approved shoppers have distinct TEST profiles, and the notice and settings are installed. Independent session isolation and consent and withdrawal are still unverified.",
-      "next": "The actual run passed six steps and hit the request limit at step7. Repair #5428 paces the walk without changing the product limit. The first independent code review passed. Protected tests and the second review are still outstanding. The original captain continues after protected merge with a fresh source-bound admission; the disposable shopper remains unspent."
+      "blocker": "Guest access and privacy pacing both merged. On the deployed build the shopper saved a look, then hit a download error. The final three test steps did not run.",
+      "next": "Use the failed export response to identify the repair, then verify export, removal and separation between the two approved TEST accounts."
     },
     {
       "label": "8. Final three-model ratings",
@@ -431,12 +430,20 @@
         "text": "Prepare the Osapa fix, verify all five candidate files and check that both routes preserve every other setting (03:39Z–04:00Z, took 21 min)."
       },
       {
+        "complete": true,
+        "text": "Reconcile the merged directory dependency, the actual failed run and its place in the reopened desk queue (17:55Z–18:02Z, took 7 min)."
+      },
+      {
+        "complete": true,
+        "text": "Identify the separate failed Add to bag check and return its cancelled job to the release desk (18:00Z–18:03Z, took 3 min)."
+      },
+      {
         "complete": false,
         "text": "Merge #5459, install the five private files and verify the three stores on both routes (est. 5 min for hosted verification after protected merge and installation)."
       },
       {
         "complete": false,
-        "text": "Complete the second phone Add to bag review and protected tests, then install and verify the plus button in the unpublished draft (first reviewer passed it at 02:13Z, est. 10 min after merge)."
+        "text": "Finish Add to bag’s required tests, restore the separately cancelled check and obtain the second review. Install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
       },
       {
         "complete": true,
@@ -520,7 +527,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven journeys (desk hold since 01:21 UTC; requires the authorized full rerun and available small iPhone)."
+        "text": "Complete the product-discovery helper’s protected run, then use the original device allocation for the seven iPhone checks (first wait 1 November 08:59Z, run time pending allocation)."
       },
       {
         "complete": false,
@@ -531,7 +538,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next decision when the active phone-button, guest-access and privacy checks return. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: The next decision follows the hosted store-list and Add to bag results or the export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -545,7 +552,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next decision when the active phone-button, guest-access and privacy checks return.",
+    "landing": "Lands: Both approved settings changes are saved and verified. The separate storefront handover depends on TEST, iPhone and final reviews.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
