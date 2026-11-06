@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The shared store-panel repair has passed both reviews and all five test groups. It is deployed. The release desk has one full retry allocated for the phone Add button.",
+  "workerState": "The shared store-panel repair has passed both reviews and all five test groups. It is deployed. The phone button’s second test plan passed and scheduled all five test groups.",
   "journey": [
     {
       "stage": "Build",
@@ -139,8 +139,8 @@
   ],
   "remaining": "The private store list still includes closed Osapa. Its first reviewer approved it. A shared animation test failed. The release desk will rerun the full suite after the animation repair merges. The staff and privacy journeys, the small-iPhone test slot and seven native journeys also remain open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
-  "next": "The release desk has the deployed fix for the phone Add button’s retry. The guest-access and privacy teams first need to bring that fix into their branches, then run the full tests. The homepage repair holds row 44.",
-  "updated": "6 November, 06:57 UTC. EON served the reviewed store-panel fix. The pending phone Add button still showed its previous completed run when the release desk received the evidence. Both private-draft empty-bag Add checks passed.",
+  "next": "GitHub accepted the phone Add button’s full retry. The guest-access and privacy branches both conflict with main. Their original builders must resolve those conflicts before their tests run. The homepage repair holds row 44.",
+  "updated": "6 November, 07:02 UTC. EON served the reviewed store-panel fix. GitHub queued attempt 2 for the phone Add button at 07:01 UTC. Both private-draft empty-bag Add checks passed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
