@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The cart repair is merged and both first-add journeys are specified. The five phone Add test groups have returned. The collection-panel failure was traced to the exact test already being repaired. A separate date-sensitive test that had blocked the iPhone work also has a merged fix.",
+  "lastActualProgress": "The cart repair reached the private Shopify theme and its installed file matched the reviewed code. In parallel, the new phone-test failure was matched to the existing 380 px collection-panel test repair.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
-  "current": "The empty-bag fix passed both independent code reviews and merged at 04:30 UTC. Hands has the chair’s instruction to install the verified cart file in the unpublished Shopify theme.",
-  "next": "After Hands verifies the installed cart file, the shopper-test owner will try quick add from New Arrivals and Add to bag from the product page, starting with an empty bag each time. Each action must add exactly one item before the homepage integration proceeds.",
-  "updated": "6 November, 05:05 UTC. The phone test results and the two planned shopper journeys were checked against their original records. The draft cart installation and the seven iPhone outcomes still need verification.",
+  "current": "The empty-bag repair is on the unpublished Shopify draft. At 05:09 UTC Shopify returned all 40,897 bytes of the reviewed file. The live theme and the other draft files were preserved.",
+  "next": "Verify two shopper actions on the draft. Start with an empty bag, quick-add one pendant from New Arrivals, empty the bag, then add the pendant from its product page. Each action must leave exactly one item in the bag. A pass releases the homepage integration for review.",
+  "updated": "6 November, 05:09 UTC. Shopify returned the installed cart file and confirmed preservation of the active theme. Both first-add journeys still require their own shopper result.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,7 +331,7 @@
   "recentChanges": [
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
     "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. The correction entered protected review. Its draft installation and verification of both store-directory pages are pending.",
-    "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands owns the actual installation, followed by a shopper adding the first item. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
+    "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper checks on New Arrivals and the product page are next. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
     "The iPhone work was held up by a date-sensitive automated test. Its fix merged at 04:31 UTC. The separate product-discovery repair and a small-iPhone test slot are still required. All seven journeys remain open.",
     "The phone Add button passed the first reviewer’s final check. Three test groups passed. One failed on the image worker; the other recorded no header motion on the collection’s store panel at 380 px. The existing panel-test repair changes that exact check. The second review and the next complete run are pending. [Phone test results](https://github.com/EON-CRUX/3.09/actions/runs/42145632035)"
   ],
@@ -353,8 +353,8 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The small iPhone booted but product discovery returned HTTP 429. The shared date-sensitive test has a merged fix. The separate product-discovery helper needs its protected rerun and device allocation. Cart, the resulting homepage installation and connected TEST checks also remain open.",
-      "next": "Install the reviewed cart and homepage changes in the unpublished theme, then verify the shopper journeys, including 200% zoom, selecting a size and store directions."
+      "blocker": "The small iPhone booted but product discovery returned HTTP 429. The shared date-sensitive test has a merged fix. The separate product-discovery helper needs its protected rerun and device allocation. The cart file is installed. Both first-add journeys, the homepage integration and connected TEST checks remain open.",
+      "next": "Verify the two first-add paths, then take the homepage integration through review and installation. The final checks include 200% zoom, selecting a size and store directions."
     },
     {
       "label": "11. BIG BAG page and navigation",
@@ -437,8 +437,12 @@
         "text": "Match the merged cart file and rollback to the unpublished theme, and confirm one file in the installation plan (04:46Z–04:50Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Install the reviewed cart repair in the private Shopify theme and verify the returned file (05:08Z–05:09Z, took 1 min)."
+      },
+      {
         "complete": false,
-        "text": "Hands installs the cart file in the unpublished theme and verifies it. The shopper-test owner verifies first add from both a collection and a product page before the homepage integration proceeds (est. 10 min after installation and test access)."
+        "text": "Verify first add from both a collection and a product page before the homepage integration proceeds (est. 10 min after browser access)."
       },
       {
         "complete": false,
