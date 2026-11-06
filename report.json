@@ -139,7 +139,7 @@
   ],
   "remaining": "The private store list still includes closed Osapa. Its first reviewer approved it. The shared animation repair failed its first review and is back with its writer. The store-list suite retries after that repair merges. The staff and privacy journeys, the small-iPhone test slot and seven native journeys also remain open.",
   "current": "The empty-bag shopping checks still pass on both routes. The collection Add tracking repair now passes 18 simulated cases. Its patch also applied to the exact tracking file from the unpublished theme.",
-  "next": "GitHub accepted the phone Add button’s full retry. The guest-access and privacy branches both conflict with main. Their original builders must resolve those conflicts before their tests run. The homepage repair holds row 44.",
+  "next": "GitHub accepted the phone Add button’s full retry. The privacy builder resolved the conflict with main and GitHub queued the new tests. Guest access still has a merge conflict. The homepage repair holds row 44.",
   "updated": "6 November, 07:37 UTC. The released staff test helper is verified. The staff workflow and the collection tracking check in a browser are still open.",
   "links": [
     {
@@ -330,7 +330,7 @@
   ],
   "recentChanges": [
     "The staff test now opens the All chats view to find its assigned conversation. The repair passed the full check, merged and reached EON. The next evidence is a signed-in staff member using and dismissing a suggestion in TEST. [Staff test repair #5436](https://github.com/EON-CRUX/3.09/pull/5436)",
-    "The shared store-panel fix passed all five test groups and both reviews, merged at 06:52 UTC, and was verified on the deployed EON service at 06:55 UTC. The desk queued the phone-button tests. The original guest and privacy builders must resolve conflicts with main. [Merged panel repair](https://github.com/EON-CRUX/3.09/pull/5342)",
+    "The shared store-panel fix passed all five test groups and both reviews, merged at 06:52 UTC, and was verified on the deployed EON service at 06:55 UTC. The desk queued the phone-button tests. The privacy builder incorporated this fix and its test run is queued. The guest-access repair still needs its merge conflict resolved. [Merged panel repair](https://github.com/EON-CRUX/3.09/pull/5342)",
     "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Its first protected review passed. Three test groups passed, one group failed the shared laptop animation test, and one group was queued. The desk tied the retry to repair #5462. Its draft installation and verification of both store-directory pages are pending.",
     "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper tested each path from an empty bag. Both added one Achilles Pendant, opened or updated the bag correctly, and left no recovery marker. The test bag was emptied. The tracking repair now passes simulation and was prepared against the exact draft file; its served-browser check remains open. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
     "The iPhone work was held up by a date-sensitive automated test. Its fix merged at 04:31 UTC. The separate product-discovery repair and a small-iPhone test slot are still required. All seven journeys remain open."
@@ -344,7 +344,7 @@
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Both approved shoppers have distinct TEST profiles, and the notice and settings are installed. Independent session isolation and consent and withdrawal are still unverified.",
-      "next": "The actual run passed six steps and hit the request limit at step7. Repair #5428 paces the walk without changing the product limit. The original captain continues after protected merge with a fresh source-bound admission; the disposable shopper remains unspent."
+      "next": "The actual run passed six steps and hit the request limit at step7. Repair #5428 paces the walk without changing the product limit. Its builder merged current main into the branch and GitHub queued the new tests. The original captain continues after protected merge with a fresh source-bound admission; the disposable shopper remains unspent."
     },
     {
       "label": "8. Final three-model ratings",
