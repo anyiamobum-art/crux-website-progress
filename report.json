@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original coordinator put the outstanding directory check in the browser holder’s current handoff. Three shared image tests timed out while checking the phone button. The same three timed out on the small iPhone helper. The original test owner now has both job records. The staff TEST rerun follows deployment of the busy-runner fix.",
+  "workerState": "The browser slot was released. The original native owner has the shared timeout diagnosis. The review desk owns the full reruns, and the staff TEST rerun follows deployment of the busy-runner fix.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The store directory merged at 02:10 UTC. Shopify returned both installed files exactly at 02:14. The draft page served the new control and five directions links, and the served script’s source map matched the merged code.",
+  "lastActualProgress": "The shopper selected Osapa London and activated Get directions. Chrome showed the selected destination as Matis Brass, 27 Castle Rock Ave, Osapa London, Lagos. Arrival on Google Maps and the location-declined message remain unverified.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The phone Add to bag repair and the small iPhone helper both hit the same three image-worker timeouts. The phone repair’s failed test group passed 19,142 other tests. The shared test owner has both failures to diagnose. Signed TEST privacy and staff journeys remain open.",
-  "current": "Near me is installed on the unpublished Shopify store directory. The phone Add to bag repair passed its first reviewer’s final check. Its second code review and protected tests remain open.",
-  "next": "Use the shared browser to tap Near me, decline location access, and follow a store’s directions link. In parallel, the original owners are handling the phone button, TEST and small iPhone checks.",
-  "updated": "6 November, 02:35 UTC. Read the phone repair’s failed test log and sent the three matching image-worker errors to the owner of the iPhone test failure.",
+  "remaining": "The shopper test stopped before requesting location because the browser’s existing permission was unknown. Shared test-runner load caused the three image errors on both repairs. The second phone review and connected TEST privacy and staff checks are still open.",
+  "current": "In Chrome on the unpublished draft, choosing Osapa London switched the map card, street address and Directions link from Palms Lekki to Osapa.",
+  "next": "Verify the location-declined message on a guest browser confirmed to ask before sharing location. The review desk owns a full rerun for the phone Add to bag repair and another for the iPhone helper.",
+  "updated": "6 November, 02:59 UTC. Chrome showed the Shopify draft preview bar, the selected Osapa store and its matching directions destination.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -304,8 +304,8 @@
   "deliveryStages": [
     {
       "stage": "Installed in the draft",
-      "state": "Near me installed and served",
-      "evidence": "Runway, floating Stores and Options motion were already installed. The new store directory is served on the unpublished Shopify theme. Both changed files matched the merge. The location-permission interaction is the next browser check."
+      "state": "Store selection and directions checked in Chrome",
+      "evidence": "The unpublished directory switched to Osapa and its Maps link when the shopper selected that store. The location-declined message still needs a browser check."
     },
     {
       "stage": "Repairs and connected TEST",
@@ -315,7 +315,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery returned HTTP 429 before the first small-iPhone journey. The proposed helper passed 152 focused tests and 184 mutation checks. Its full suite had two failures. The desk has held the helper for the image-test owner’s diagnosis. The separate clock repair is in review."
+      "evidence": "Product discovery returned HTTP 429 before the first journey. Shared runner load caused the image-test timeout on its helper. The desk owns a full rerun. A separate clock repair is in review."
     },
     {
       "stage": "Final design acceptance",
@@ -329,11 +329,11 @@
     }
   ],
   "recentChanges": [
-    "Near me is installed in the draft. Each store card points to its own address in Google Maps: Palms Lekki, Atlantic Center Chevron, Osapa London and Abuja FCT. The map panel’s fifth link matches the selected store. The location-declined interaction still needs a browser check.",
+    "In Chrome, selecting Osapa switched the map card and Get directions to Matis Brass, 27 Castle Rock Ave. The shopper’s location stayed private. The declined-location message still needs verification.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
-    "iPhone helper: The desk held the helper for diagnosis of three timeouts in one shared image test. A separate clock repair is in review. The original iPhone owner has the ruling. All seven shopper journeys still need device evidence.",
-    "Phone Add to bag passed its first reviewer’s final check. The repair preserves the Looks rail in the draft rehearsal. One protected test group returned three image-worker timeouts. The other groups and the independent second review are tracked separately.",
-    "TEST checkout totals passed 12/12 checks and signed account help passed 8/8. The remaining guest and privacy checks depend on a shared repair. One test in that repair timed out waiting for the Studio journey to start. The original Studio owner has been asked for a diagnosis."
+    "iPhone helper: The original test owner confirmed that the phone and iPhone timeouts came from one overloaded machine. The desk owns a full rerun for each repair. All seven iPhone journeys are still open.",
+    "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open.",
+    "TEST checkout totals passed 12/12 checks and signed account help passed 8/8. A shared dependency timed out on the overloaded runner. The desk has scheduled one complete rerun after that attempt ends."
   ],
   "openDeliveryGates": [
     {
@@ -397,8 +397,12 @@
         "text": "Merge Near me, install both files in the unpublished theme and verify the served directory (02:10Z–02:15Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Select Osapa manually in the Shopify draft and verify the Directions destination in Chrome (02:55Z–02:59Z, took 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Check Near me in a shopper’s browser with location declined, then open directions (shared browser requested 02:13Z, est. 5 min once admitted)."
+        "text": "Verify the message after declining location (est. 2 min after a guest browser with confirmed Ask or Block permission is available)."
       },
       {
         "complete": false,
@@ -410,7 +414,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven journeys (desk hold since 01:21 UTC; waiting on the image-test owner and the clock correction)."
+        "text": "Complete the original iPhone discovery correction and seven journeys (desk hold since 01:21 UTC; requires the authorized full rerun and separate clock repair)."
       },
       {
         "complete": false,
@@ -435,7 +439,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Both scoped settings changes are complete, saved and verified; no theme publication.",
+    "landing": "Lands: Timing depends on the next full test runs and a guest browser with confirmed location permissions. Check by 03:30 UTC or on the next test result. Seven native journeys and three final ratings remain open.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
