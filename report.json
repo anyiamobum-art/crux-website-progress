@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The store fix has a pull request and acceptance from Hands. Three of five cart test groups passed and the other two are running. The iPhone team traced a skipped queue entry to the release helper and sent the exact job to the desk.",
+  "workerState": "The store-directory repair is awaiting its protected review. The release desk corrected the iPhone test helper’s queue entry. Phone Add to bag, staff access and shopper privacy have separate test runs.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The store correction removes Osapa from all five candidate files. I checked that both directory pages retain all the other settings and preserve the order of Palms, Chevron and Abuja. The five affected test files passed, along with all 12 independent checks.",
+  "lastActualProgress": "The cart passed its second full test run on the same code. The proposed store correction also preserved both directory pages’ settings and passed all 12 independent checks.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
-  "current": "The Osapa removal is implemented and has passed its independent tests. It is awaiting protected code review. The current draft still lists Osapa.",
-  "next": "Review and merge the store correction, then install it in the private theme and check both directory pages. The cart, phone and connected checkout repairs are on separate release tracks.",
-  "updated": "6 November at 04:00 UTC for the store fix and protected test runs. The location-refusal fallback passed on the private storefront at 03:30 UTC.",
+  "current": "The empty-cart repair passed all five protected test groups and the overall check at 04:06 UTC. Its first code review passed. The remaining independent review is with the release desk.",
+  "next": "Once the cart repair merges, install the reviewed file in the unpublished theme and verify a shopper can add the first item to an empty bag. That check unlocks the homepage integration.",
+  "updated": "6 November, 04:09 UTC. The protected cart run finished at 04:06 UTC. The location-refusal check passed on the private storefront at 03:30 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -315,7 +315,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The release desk received the exact job and queue entry."
+      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The release desk corrected the queue entry. The protected run and native device allocation are pending."
     },
     {
       "stage": "Final design acceptance",
@@ -331,7 +331,7 @@
   "recentChanges": [
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
     "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Protected review and draft installation are next.",
-    "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
+    "On the same cart revision, all five groups passed. The two earlier timeouts cleared. Its second code review, private installation and first-add shopper check remain open. [Completed cart test run](https://github.com/EON-CRUX/3.09/actions/runs/42105906625)",
     "iPhone helper: The original test owner confirmed that the phone and iPhone timeouts came from one overloaded machine. The desk owns a full rerun for each repair. All seven iPhone journeys are still open.",
     "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open."
   ],
@@ -425,8 +425,12 @@
         "text": "Complete the second phone Add to bag review and protected tests, then install and verify the plus button in the unpublished draft (first reviewer passed it at 02:13Z, est. 10 min after merge)."
       },
       {
+        "complete": true,
+        "text": "Complete the full test run for the empty-cart repair (01:22Z–04:06Z, took 164 min including queue time). All five groups passed."
+      },
+      {
         "complete": false,
-        "text": "Finish the original full cart test on the accepted source (second attempt queued 01:22 UTC). After the remaining review, merge and private draft check, release homepage integration #5433."
+        "text": "Complete the remaining code review, install the merged cart file privately and verify first add before releasing the homepage integration (est. 10 min after merge and test access)."
       },
       {
         "complete": false,
@@ -441,7 +445,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check by 04:00 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next result check by 04:35 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -455,7 +459,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 04:00 UTC.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 04:35 UTC.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
