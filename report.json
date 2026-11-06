@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The guest sign-in and signed-budget test changes passed both code reviews, merged at 23:16 UTC and are now served. The earlier TEST receipt verifies that the styling panel opened and the tee correctly hid its Looks rail when there were zero looks.",
+  "lastActualProgress": "The signed-shopper test passed all eight steps. Preferences and a naira budget persisted after reload. Editing the budget preserved the preference. Forged and signed-out requests were refused. A separate read confirmed the TEST catalogue currently holds zero studio looks.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -139,8 +139,8 @@
   ],
   "remaining": "The shopper’s style-data download failed at step six. The staff repair needs a passing hosted run. Product discovery on the small iPhone hit a request limit, and its helper is awaiting a release slot.",
   "current": "The floating Stores button, Near me and the product-page Add to bag plus have all merged and are installed in the private theme. In Safari, one tap on the yellow plus added one Achilles Pendant to an empty bag. Removing it emptied the bag again.",
-  "next": "Run the signed shopper’s preferences and budget test on the served release. Check the product-page Looks rail with a linked look when an eligible TEST product is available. Separately verify signed shopper export and the staff Use and Dismiss actions in TEST. After the closed-store fix merges, check both directory routes. The iPhone run follows release of its discovery helper and the shared device slot.",
-  "updated": "6 November, 23:21 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "next": "Verify the shopper’s data download on TEST after its repair passes, then check deletion and account separation. The staff Use and Dismiss test has its own repair. The iPhone team is waiting for the product-discovery fix. For the populated Looks rail, the TEST catalogue needs an approved look linked to the test tee.",
+  "updated": "6 November, 23:27 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -325,8 +325,8 @@
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "Checkout totals 12/12 and account help 8/8",
-      "evidence": "Guest access and privacy pacing merged. The connected shopper passed five steps and then could not export style data. The TEST tee and styling panel passed eight checks. The tee received zero looks and hid its rail. Staff Use and Dismiss and a populated rail still need their own checks."
+      "state": "Checkout 12/12, account help 8/8, saved preferences and budget 8/8",
+      "evidence": "The signed shopper edited a budget and kept the preference after reload. The separate data download stopped at step six. The TEST tee correctly hid its empty Looks rail. A populated rail, staff Use and Dismiss, consent and withdrawal still need checks."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -348,7 +348,7 @@
     "The Add to bag plus passed both protected reviews and merged. Shopify returned both reviewed files from the unpublished draft. In a fresh Safari bag, one tap added one pendant and removing it returned the bag to empty. [Merged repair](https://github.com/EON-CRUX/3.09/pull/5354) · [Final code approval](https://github.com/EON-CRUX/3.09/pull/5354#issuecomment-6697482657)",
     "Four of five test groups passed for the closed-store repair. The fifth failed a shared test about which runner may take a job. Its test and reader match the base revision. The chair authorized a full retry with all checks intact. The release desk owns its placement. The store correction still awaits merge. [Failed shared test](https://github.com/EON-CRUX/3.09/actions/runs/42162738189/job/128098276032)",
     "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
-    "The TEST tee returned zero looks and kept the rail hidden. Eight checks passed, including the signed panel. The separate tests for guest-to-sign-in and saved naira budgets passed both code reviews, merged and are now available to run. The saved-style download failed at step six and still needs repair. [TEST tee and panel receipt](https://github.com/EON-CRUX/3.09/actions/runs/42142774375) · [Merged test change](https://github.com/EON-CRUX/3.09/pull/5471) · [Download repair](https://github.com/EON-CRUX/3.09/pull/5472)",
+    "The signed-shopper journey passed all eight steps on TEST, including persistence after reload, budget edits and refusing forged requests. Separately, the correct tee hid its empty Looks rail. The TEST catalogue contains zero studio looks. An approved look linked to the TEST tee is needed to check the populated display. [Signed-shopper receipt](https://github.com/EON-CRUX/3.09/actions/runs/42311339265) · [Tee and styling panel receipt](https://github.com/EON-CRUX/3.09/actions/runs/42142774375) · [Download repair](https://github.com/EON-CRUX/3.09/pull/5472)",
     "The shopping assistant comparison finished. JEV answered 33 of 100 test cases and agreed with Fable on 24 of those 33. Neither proposed an incorrect bag. Fable stays in charge of shopping decisions. [Decision repair](https://github.com/EON-CRUX/3.09/pull/5394)"
   ],
   "recentChangeParts": [
@@ -404,18 +404,18 @@
     ],
     [
       {
-        "text": "The TEST tee returned zero looks and kept the rail hidden. Eight checks passed, including the signed panel. The separate tests for guest-to-sign-in and saved naira budgets passed both code reviews, merged and are now available to run. The saved-style download failed at step six and still needs repair. "
+        "text": "The signed-shopper journey passed all eight steps on TEST, including persistence after reload, budget edits and refusing forged requests. Separately, the correct tee hid its empty Looks rail. The TEST catalogue contains zero studio looks. An approved look linked to the TEST tee is needed to check the populated display. "
       },
       {
-        "text": "TEST tee and panel receipt",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42142774375"
+        "text": "Signed-shopper receipt",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42311339265"
       },
       {
         "text": " · "
       },
       {
-        "text": "Merged test change",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5471"
+        "text": "Tee and styling panel receipt",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42142774375"
       },
       {
         "text": " · "
@@ -449,7 +449,7 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The signed shopper saved a look, then the data download failed at step six. The diagnostic repair has its first code approval.",
+      "blocker": "The signed shopper saved a look, then the data download failed at step six. The diagnostic repair has its first code approval and four passing test groups.",
       "next": "Complete review of the diagnostic, use it on the original two TEST accounts, then verify export, deletion and account separation."
     },
     {
@@ -533,11 +533,11 @@
       },
       {
         "complete": false,
-        "text": "Verify the populated Looks rail on an eligible TEST product with a linked look (est. 5 min once a qualifying product and access are available)."
+        "text": "Verify the populated Looks rail. The TEST catalogue has zero studio looks. Use an approved TEST-only look linked to the tee (est. 5 min once supplied)."
       },
       {
-        "complete": false,
-        "text": "Read the signed preferences and naira-budget result from its admitted TEST run (est. 5 min after that run finishes)."
+        "complete": true,
+        "text": "Verify all eight signed-shopper preference and naira-budget steps on TEST (23:21Z–23:25Z, took 4 min including receipt verification)."
       },
       {
         "complete": false,
