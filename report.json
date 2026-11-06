@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The store repair started at 03:39 UTC. The cart has one passing test group and four running. The privacy repair has one passing group. The iPhone helper is in the release desk’s queue.",
+  "workerState": "The store fix has a pull request and acceptance from Hands. Three of five cart test groups passed and the other two are running. The iPhone team traced a skipped queue entry to the release helper and sent the exact job to the desk.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified that both installed directory templates preserve exactly the store settings on the source branch. The assistant TEST repair also passed 31 setup tests and 168 independent checks and was admitted for review.",
+  "lastActualProgress": "The store correction removes Osapa from all five candidate files. I checked that both directory pages retain all the other settings and preserve the order of Palms, Chevron and Abuja. The five affected test files passed, along with all 12 independent checks.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
-  "current": "The private store finder offers manual choice when a shopper declines location. A repair is underway to remove the closed Osapa shop from directions and the other places shoppers see it.",
-  "next": "Review the store correction, install it in the unpublished theme and verify both directory routes list Palms, Chevron and Abuja. Cart, phone and connected checkout checks continue in parallel.",
-  "updated": "6 November at 03:45 UTC. Location refusal was verified in the private storefront at 03:30 UTC.",
+  "current": "The Osapa removal is implemented and has passed its independent tests. It is awaiting protected code review. The current draft still lists Osapa.",
+  "next": "Review and merge the store correction, then install it in the private theme and check both directory pages. The cart, phone and connected checkout repairs are on separate release tracks.",
+  "updated": "6 November at 04:00 UTC for the store fix and protected test runs. The location-refusal fallback passed on the private storefront at 03:30 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -315,7 +315,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery returned HTTP 429 before the first journey. Shared runner load caused the image-test timeout on its helper. The desk owns a full rerun. A separate clock repair is in review."
+      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The release desk received the exact job and queue entry."
     },
     {
       "stage": "Final design acceptance",
@@ -330,7 +330,7 @@
   ],
   "recentChanges": [
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
-    "The shopper can decline location and choose a shop manually. The repair for closed Osapa started at 03:39 UTC and covers both directory pages, Fitting Desk, store data for search engines and the location picker.",
+    "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Protected review and draft installation are next.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The original test owner confirmed that the phone and iPhone timeouts came from one overloaded machine. The desk owns a full rerun for each repair. All seven iPhone journeys are still open.",
     "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open."
@@ -413,8 +413,12 @@
         "text": "Decline location in Chrome Guest and verify the fallback on the private draft (03:25Z–03:30Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Prepare the Osapa fix, verify all five candidate files and check that both routes preserve every other setting (03:39Z–04:00Z, took 21 min)."
+      },
+      {
         "complete": false,
-        "text": "Remove closed Osapa and verify that both directory pages list the three open branches (repair started 03:39Z, est. 5 min for hosted verification after review, merge and draft installation)."
+        "text": "Merge #5459, install the five private files and verify the three stores on both routes (est. 5 min for hosted verification after protected merge and installation)."
       },
       {
         "complete": false,
