@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The browser slot was released. The original native owner has the shared timeout diagnosis. The review desk owns the full reruns, and the staff TEST owner now has proof that its prerequisite is serving.",
+  "workerState": "The browser slot was released. The original native owner has the shared timeout diagnosis. The review desk owns the phone and native reruns. Staff TEST attempt 4 and guest dependency attempt 5 are underway.",
   "journey": [
     {
       "stage": "Build",
@@ -140,7 +140,7 @@
   "remaining": "The shopper test stopped before requesting location because the browser’s existing permission was unknown. Shared test-runner load caused the three image errors on both repairs. The second phone review and connected TEST privacy and staff checks are still open.",
   "current": "In Chrome on the unpublished draft, choosing Osapa London switched the map card, street address and Directions link from Palms Lekki to Osapa.",
   "next": "Verify the location-declined message on a guest browser confirmed to ask before sharing location. The review desk owns a full rerun for the phone Add to bag repair and another for the iPhone helper.",
-  "updated": "6 November, 03:10 UTC. The deployed EON shell serves the repaired build. That clears the prerequisite for a full staff TEST run. The shopper’s Osapa directions check passed separately at 02:59 UTC.",
+  "updated": "6 November, 03:10 UTC. The deployed EON shell serves the repaired build. The staff test plan used that exact repair and scheduled all five groups. The shopper’s Osapa directions check passed separately at 02:59 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,17 +329,17 @@
     }
   ],
   "recentChanges": [
+    "Staff TEST attempt 4 is testing the repaired revision across all five groups. The separate guest and privacy dependency is on attempt 5.",
     "In Chrome, selecting Osapa switched the map card and Get directions to Matis Brass, 27 Castle Rock Ave. The shopper’s location stayed private. The declined-location message still needs verification.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The original test owner confirmed that the phone and iPhone timeouts came from one overloaded machine. The desk owns a full rerun for each repair. All seven iPhone journeys are still open.",
-    "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open.",
-    "TEST checkout totals passed 12/12 checks and signed account help passed 8/8. A shared dependency timed out on the overloaded runner. The desk has scheduled one complete rerun after that attempt ends."
+    "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "Three staff TEST groups passed. A runner ran out of memory in a fourth, and four Ask and Inventory assertions failed in the fifth. The chair confirmed both failures are outside the staff repair and kept its approval.",
-      "next": "Repair #5451 merged at 03:00 UTC. The deployed EON shell returned the matching version. The original desk can now run all five groups together once and verify the tested revision. Then verify staff Use and Dismiss, buyer consent and withdrawal. Owner: Original staff TEST owner and the chair’s desk."
+      "next": "Repair #5451 merged at 03:00 UTC. The deployed EON shell returned the matching version. Attempt 4 is underway. Its test plan includes the verified repair and scheduled all five groups. Then verify staff Use and Dismiss, buyer consent and withdrawal. Owner: Original staff TEST owner and the chair’s desk."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -403,6 +403,10 @@
       {
         "complete": true,
         "text": "Verify the staff TEST prerequisite on the deployed EON shell and return it to the original owner (03:06Z–03:09Z, took 3 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the new staff test plan includes the deployed repair and all five groups were scheduled (03:11Z–03:12Z, took 1 min)."
       },
       {
         "complete": false,
