@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The browser slot for the directory has been requested. The staff TEST owner has the chair’s approval for one full rerun after the busy-runner fix is merged and served.",
+  "workerState": "The original coordinator put the outstanding directory check in the browser holder’s current handoff. The phone button test has one group passed, two running and two queued. The staff TEST rerun follows deployment of the busy-runner fix.",
   "journey": [
     {
       "stage": "Build",
@@ -140,7 +140,7 @@
   "remaining": "The small iPhone helper is held until the owner of a shared image test explains its timeouts. A separate clock-sensitive test has a repair in review. Signed TEST privacy and staff journeys remain open.",
   "current": "Near me is installed on the unpublished Shopify store directory. The phone Add to bag repair passed its first reviewer’s final check. Its second code review and protected tests remain open.",
   "next": "Use the shared browser to tap Near me, decline location access, and follow a store’s directions link. In parallel, the original owners are handling the phone button, TEST and small iPhone checks.",
-  "updated": "6 November, 02:17 UTC. Verified the unpublished directory installation and the reviewer’s decision on the phone Add to bag repair.",
+  "updated": "6 November, 02:30 UTC. Checked directions for all four stores on the served draft, the phone button’s current test groups and the TEST access failure.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,11 +329,11 @@
     }
   ],
   "recentChanges": [
-    "Near me is in the Shopify draft. Its reviewed code merged and the served directory contains the new control plus five directions links. The live theme’s 550 files matched their pre-install versions.",
+    "Near me is installed in the draft. Each store card points to its own address in Google Maps: Palms Lekki, Atlantic Center Chevron, Osapa London and Abuja FCT. The map panel’s fifth link matches the selected store. The location-declined interaction still needs a browser check.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The desk held the helper for diagnosis of three timeouts in one shared image test. A separate clock repair is in review. The original iPhone owner has the ruling. All seven shopper journeys still need device evidence.",
     "Phone Add to bag passed its first reviewer’s final check at 02:13 UTC. Both changed files have been rehearsed against the existing Shopify draft, including its Looks rail setting. The independent second code review and protected tests are next.",
-    "TEST: account help passed the 390 px visual check after its stylesheet repair. Opening help keeps the page margin intact. Nothing was sent from the test account."
+    "TEST checkout totals passed 12/12 checks and signed account help passed 8/8. The remaining guest and privacy checks depend on a shared repair. One test in that repair timed out waiting for the Studio journey to start. The original Studio owner has been asked for a diagnosis."
   ],
   "openDeliveryGates": [
     {
@@ -421,7 +421,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Allow five minutes to check store directions once the browser slot opens. The next release check is due by 02:30 UTC. Final handover depends on TEST, the iPhone journeys and the three independent ratings."
+    "landing": "Lands: Allow five minutes to check store directions once the shared browser opens. Follow up by 03:00 UTC or sooner on a browser grant or test result. Final handover depends on TEST, seven native iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
