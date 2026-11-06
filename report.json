@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The original tester confirmed both cart paths at 05:13 UTC. I then checked the homepage’s layout and two dependencies directly in Shopify and returned the homepage repair to the release desk.",
+  "lastActualProgress": "The two first-add shopper checks passed. At 05:58 UTC I delivered the homepage request to the mailbox the release desk actually reads. I also delivered a separate repair brief for the missing collection event to Hands.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -139,8 +139,8 @@
   ],
   "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
-  "next": "The homepage integration can now enter its protected review queue. The current Shopify layout and both dependencies matched the recorded inputs. Separately, the collection’s Quick Add needs its missing analytics event repaired.",
-  "updated": "6 November, 05:20 UTC. Both first-add journeys passed. The homepage candidate is waiting for its protected review. Native acceptance is still 0 of 7 and final ratings are 0 of 3.",
+  "next": "The release desk has the homepage repair request in its review mailbox. The homepage is still Draft. Hands has the brief for fixing the missing collection Quick Add event. Both are awaiting placement.",
+  "updated": "6 November, 06:05 UTC. GitHub still shows the homepage repair as Draft. The shopping fixes are tracked separately from the seven native iPhone checks and the three final ratings.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -449,6 +449,14 @@
         "text": "Verify the homepage layout and its dependencies directly in Shopify, and return the repair for protected review (05:16Z–05:20Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Deliver the homepage repair to the release desk’s intake and verify the handoff (05:57Z–05:59Z, took 2 min)."
+      },
+      {
+        "complete": true,
+        "text": "Deliver the collection Quick Add analytics repair brief, including the product-page control and duplicate-event checks (05:59Z–06:03Z, took 4 min)."
+      },
+      {
         "complete": false,
         "text": "Complete protected review and merge of the homepage integration, then install and verify the single layout in the unpublished theme (est. 10 min after merge and installation clearance)."
       },
@@ -465,7 +473,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check by 05:45 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next result check by 06:30 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -479,7 +487,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 05:45 UTC.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 06:30 UTC.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
