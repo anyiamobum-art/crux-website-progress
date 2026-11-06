@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shopify returned the updated three-piece line total on a one-piece request. Website and Identity sent Hands the exact source line, failing case and expected value for the original writer. The six earlier browser checks are recorded against the cases they actually covered.",
+  "lastActualProgress": "The writer reproduced the repeat-add error and passed three tests after the fix. Hands independently reproduced the error on the previous version and started checking the corrected version in a browser.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The staff test stopped at a hidden menu button. The small iPhone hit a request limit before the first journey. The store directory still includes a closed location. Each has a named repair and an acceptance check.",
-  "current": "The private draft lets a shopper add to an empty bag from a collection or a product page. A separate tracking repair overstates the value of a repeat add. The original writer has been asked to correct it before installation.",
+  "current": "The original writer corrected what goes into the shopping analytics when someone adds another of the same item. A first add from either the collection or the product page already works on the private draft.",
   "next": "Verify that adding one more ₦15,900 item reports exactly ₦15,900, including when the bag already holds two. Guest-access and privacy repairs have each passed their first protected review. Their tests and second reviews continue in parallel.",
-  "updated": "6 November, 08:35 UTC. The actual staff, customer and store identities were verified in TEST. Seven native iPhone journeys and all three final ratings still need passing evidence.",
+  "updated": "6 November, 08:46 UTC. The TEST store, staff member and shopper identities were verified. Seven native iPhone journeys and the three final passing ratings remain open.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -186,7 +186,8 @@
     "done": 6,
     "total": 11,
     "basis": "Historical mixed component and acceptance checklist; no overall percentage",
-    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 6 November, 22 days have passed without another full item closing. Five release outcomes remain. Their individual blockers and next steps are below."
+    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 6 November, 22 days have passed without another full item closing. Five release outcomes remain. Their individual blockers and next steps are below.",
+    "label": "6 of 11 release items verified"
   },
   "ratings": [
     {
@@ -330,7 +331,7 @@
   ],
   "recentChanges": [
     "Both first-add paths passed on the unpublished draft. The cart repair is installed. [Cart repair #5439](https://github.com/EON-CRUX/3.09/pull/5439)",
-    "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The proposed tracking code uses that total as the value of the single new add. The six served-copy checks missed this case. The writer has the correction. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
+    "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The writer corrected the event to report one item at its actual unit price. Three focused tests passed. Independent browser verification is underway. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
     "The TEST guest-access and privacy fixes each passed a first review. Both still need passing protected tests and a second approval. [Guest access #5359](https://github.com/EON-CRUX/3.09/pull/5359) · [Privacy #5428](https://github.com/EON-CRUX/3.09/pull/5428)",
     "The signed-in staff test verified its store and participants. Its menu repair passed six test files and 87 fault checks. It is second in the release queue. After deployment, the original tester can verify consent and the remaining staff actions. [Staff repair #5466](https://github.com/EON-CRUX/3.09/pull/5466)",
     "The floating Stores control is installed in the draft. The Near Me repair merged. Removing the closed shop from the private list still needs a passing test and verification on both directory pages. [Floating Stores #5250](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me #5353](https://github.com/EON-CRUX/3.09/pull/5353)"
@@ -362,6 +363,7 @@
       "next": "Keep the verified title evidence, complete the original native shopping/Back and connected journey checks on the installed source, then include the result in the final named-fix review."
     }
   ],
+  "finalRatingState": "0 of 3 passing ratings",
   "timedPlan": {
     "steps": [
       {
@@ -485,8 +487,12 @@
         "text": "Trace the repeat-add tracking discrepancy to the original source and return it to the original holder (08:25Z–08:28Z, took 3 min)."
       },
       {
+        "complete": true,
+        "text": "Reproduce the cumulative-line error and correct repeat-add tracking (08:30Z–08:38Z, took 8 min to the writer’s verified return). Three focused checks passed."
+      },
+      {
         "complete": false,
-        "text": "Verify the repeat-add regression on the corrected #5465 source, then complete protected review, merge, private installation and the original shopper check (est. 10 min for the bounded check after merge)."
+        "text": "Verify the repeat-add regression independently on the corrected #5465 source, then complete protected review, merge, private installation and the original shopper check (est. 10 min for the bounded check after merge)."
       },
       {
         "complete": true,
