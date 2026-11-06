@@ -4,17 +4,19 @@
 
 ## Current delivery
 
-**6 of 11 release items verified · 0 of 3 passing ratings.**
+**55% verified · 45% remaining**
 
-Last verified 6 November, 19:10 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.
+6 of 11 delivery items verified. 5 remain (45%).. 0 of 3 passing ratings.
 
-The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 6 November, 22 days have passed without another full item closing. Five release outcomes remain. Their individual blockers and next steps are below.
+Last verified 6 November, 19:16 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.
+
+The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 6 November, 22 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
 - The TEST guest-access repair merged at 11:03 UTC. The corrected software served at 11:07 UTC. One guest selector still awaits protected review. [Guest fix](https://github.com/EON-CRUX/3.09/pull/5359) · [Selector follow-up](https://github.com/EON-CRUX/3.09/pull/5471)
 - The privacy pacing repair merged at 12:17 UTC. The connected shopper passed five steps, then saw an error downloading style data. The tester saved the failure. A draft diagnostic change would show whether the error came from the export response or the downloaded file. [Diagnostic change](https://github.com/EON-CRUX/3.09/pull/5472) [Privacy fix](https://github.com/EON-CRUX/3.09/pull/5428) · [Actual TEST result](https://github.com/EON-CRUX/3.09/pull/5350#issuecomment-6691484605)
-- The desk reopened at 17:43 UTC after the shared test repair merged. The closed-store correction and Add to bag plus are in its retry order. All five directory files are prepared for private installation after protected merge. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)
+- GitHub accepted the Add to bag test retry at 19:07 UTC and the closed-store test retry at 19:12 UTC. Both still need a passing result and the required second approval. All five directory files are prepared for private installation after protected merge. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)
 - The floating Stores button and Near Me are installed in the private theme. Both collection and product first-add paths passed there. [Stores](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me](https://github.com/EON-CRUX/3.09/pull/5353) · [First add](https://github.com/EON-CRUX/3.09/pull/5439)
 
 ## What still needs to pass
