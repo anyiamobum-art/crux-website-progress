@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The release desk has the passing Add to bag checks for the original second reviewer. Store-directory tests continue. The shopper export diagnostic passed its first code review. The iPhone helper awaits release capacity.",
+  "workerState": "Store-directory tests, the staff repair’s third hosted attempt, and the shopper export diagnostic are in protected review or testing. The original iPhone team is waiting for the discovery helper to leave Draft.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The final Add to bag check passed at 22:09 UTC. At 22:14 UTC the two Shopify files still matched their saved originals, ready for the reviewed change. The staff repair’s 30-second Runway timeout did not reproduce on the exact source: all nine interactions passed in 1.09 seconds. The identical test and storefront code also passed in another hosted suite. The staff repair still needs its own passing run.",
+  "lastActualProgress": "At 22:33 UTC the Add to bag repair merged. At 22:36 Shopify returned both reviewed files from the unpublished draft. At 22:38 the plus opened the bag with one pendant, and removal returned it to empty in desktop Safari.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The shopper’s style-data download failed at step six. A hosted Runway test timed out during the staff repair. The small-iPhone run needs the product-discovery repair and its allocated device turn.",
-  "current": "Add to bag passed all five test groups and its separate correctness check. Its first reviewer approved it. The second review is pending. The store-directory repair has passed three of its five groups.",
-  "next": "Take Add to bag through the second review and merge, then install it on the private theme and tap the plus on a product. Continue the signed shopper export and staff review checks in TEST.",
-  "updated": "6 November, 22:15 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "remaining": "The shopper’s style-data download failed at step six. The staff repair needs a passing hosted run. Product discovery on the small iPhone hit a request limit, and its helper is awaiting a release slot.",
+  "current": "The floating Stores button, Near me and the product-page Add to bag plus have all merged and are installed in the private theme. In Safari, one tap on the yellow plus added one Achilles Pendant to an empty bag. Removing it emptied the bag again.",
+  "next": "Verify signed shopper export and the staff Use and Dismiss actions in TEST. After the closed-store fix merges, check both directory routes. The iPhone run follows release of its discovery helper and the shared device slot.",
+  "updated": "6 November, 22:39 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -320,8 +320,8 @@
   "deliveryStages": [
     {
       "stage": "Installed in the draft",
-      "state": "Location refusal and manual choice verified",
-      "evidence": "The private directory allows shoppers to choose a shop after declining location. Its list still contains closed Osapa and needs correction before handover."
+      "state": "Add to bag, location refusal and manual store choice verified",
+      "evidence": "The product-page plus added one item to an empty bag in desktop Safari, and removal emptied the bag again. The private directory allows shoppers to choose a shop after declining location. Its list still contains closed Osapa and needs correction before handover."
     },
     {
       "stage": "Repairs and connected TEST",
@@ -331,7 +331,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery stopped at a request limit before the first journey. The release desk counted 33 jobs for 24 places at its 22:00 UTC check. The product-discovery helper and original device allocation are pending."
+      "evidence": "Product discovery stopped at a request limit before the first journey. The release desk counted 29 jobs for 24 places at its 22:26 UTC check. The product-discovery helper and original device allocation are pending."
     },
     {
       "stage": "Final design acceptance",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "Add to bag passed all five test groups and its final automated check. The first reviewer approved it. The second review and private installation are pending. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Passing final check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)",
+    "The Add to bag plus passed both protected reviews and merged. Shopify returned both reviewed files from the unpublished draft. In a fresh Safari bag, one tap added one pendant and removing it returned the bag to empty. [Merged repair](https://github.com/EON-CRUX/3.09/pull/5354) · [Final code approval](https://github.com/EON-CRUX/3.09/pull/5354#issuecomment-6697482657)",
     "The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. [Store-directory tests](https://github.com/EON-CRUX/3.09/actions/runs/42162738189)",
     "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
     "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)",
@@ -354,18 +354,18 @@
   "recentChangeParts": [
     [
       {
-        "text": "Add to bag passed all five test groups and its final automated check. The first reviewer approved it. The second review and private installation are pending. "
+        "text": "The Add to bag plus passed both protected reviews and merged. Shopify returned both reviewed files from the unpublished draft. In a fresh Safari bag, one tap added one pendant and removing it returned the bag to empty. "
       },
       {
-        "text": "Passing tests",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145632035"
+        "text": "Merged repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5354"
       },
       {
         "text": " · "
       },
       {
-        "text": "Passing final check",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145631932"
+        "text": "Final code approval",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5354#issuecomment-6697482657"
       },
       {
         "text": ""
@@ -557,8 +557,8 @@
         "text": "Verify the final Add to bag check (22:02Z–22:09Z, took 7 min). Confirm that the two installed Shopify files still match their saved originals (22:14Z)."
       },
       {
-        "complete": false,
-        "text": "Finish the second review for Add to bag, then install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
+        "complete": true,
+        "text": "Finish both Add to bag reviews, install the two reviewed files on the unpublished theme and verify one tap adds exactly one item in Safari. Remove the test item and verify the empty bag (22:32Z–22:39Z, took 7 min)."
       },
       {
         "complete": true,
@@ -657,7 +657,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: The next decision follows the separate Add to bag check, the two remaining store-directory test groups or the signed shopper export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
+    "landing": "Lands: The next decision follows the remaining store-directory tests, the staff test run or the signed shopper export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

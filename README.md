@@ -8,13 +8,13 @@
 
 6 of 11 delivery items verified. 5 remain (45%). 0 of 3 passing ratings.
 
-Last verified 6 November, 22:15 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.
+Last verified 6 November, 22:39 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 6 November, 22 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- Add to bag passed all five test groups and its final automated check. The first reviewer approved it. The second review and private installation are pending. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Passing final check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)
+- The Add to bag plus passed both protected reviews and merged. Shopify returned both reviewed files from the unpublished draft. In a fresh Safari bag, one tap added one pendant and removing it returned the bag to empty. [Merged repair](https://github.com/EON-CRUX/3.09/pull/5354) · [Final code approval](https://github.com/EON-CRUX/3.09/pull/5354#issuecomment-6697482657)
 - The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. [Store-directory tests](https://github.com/EON-CRUX/3.09/actions/runs/42162738189)
 - A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)
 - The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)
