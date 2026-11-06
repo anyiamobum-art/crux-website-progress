@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The shared panel repair passed four of five test groups. The fifth is running. The collection Quick Add tracking rules are agreed. Hands owns writer placement.",
+  "workerState": "All five test groups and the combined test gate passed for the shared store-panel repair. It still needs its second review, merge and deployment. Hands confirmed the collection Quick Add tracking fix in the existing writer queue.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 06:17 UTC the release desk placed the homepage repair in row 44 and assigned one retry for both phone Add button failures. Identity supplied the exact Quick Add tracking contract and owns its post-install check.",
+  "lastActualProgress": "At 06:28 UTC the store-panel repair passed its full test run. The separate correction removing closed Osapa passed its first protected review. The homepage repair holds row 44 in the release queue.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -140,7 +140,7 @@
   "remaining": "The release desk counted 27 active runs against its limit of 24. The shared panel repair is still open. The corrected store list, staff TEST journeys, privacy checks and seven native iPhone journeys also remain open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
   "next": "The homepage repair has a place in the review queue. The desk will mark it Ready when capacity opens. The phone Add button gets one full test run after the shared store-panel repair merges and is served.",
-  "updated": "6 November, 06:24 UTC. The homepage repair is in row 44 and still shows Draft on GitHub. The shared store-panel fix is under test. The first-add shopper checks on the unpublished theme both passed.",
+  "updated": "6 November, 06:29 UTC. The private draft passed both empty-bag Add checks. The shared store-panel repair passed its tests and is open on GitHub. The homepage and closed-store repairs are awaiting their next protected steps.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,11 +329,11 @@
     }
   ],
   "recentChanges": [
+    "The phone Add button passed its first review. Its last run failed on the image worker and the store panel. All five test groups passed for the shared store-panel repair at 06:27 UTC, followed by the combined gate at 06:28 UTC. The release desk will retry the phone Add button once that repair has merged and is served. [Shared repair tests](https://github.com/EON-CRUX/3.09/actions/runs/42031601569/attempts/5)",
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
-    "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. The correction entered protected review. Its draft installation and verification of both store-directory pages are pending.",
+    "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Its first protected review passed. The full test run is queued. Its draft installation and verification of both store-directory pages are pending.",
     "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper tested each path from an empty bag. Both added one Achilles Pendant, opened or updated the bag correctly, and left no recovery marker. The test bag was emptied. Collection Quick Add still needs its analytics event. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
-    "The iPhone work was held up by a date-sensitive automated test. Its fix merged at 04:31 UTC. The separate product-discovery repair and a small-iPhone test slot are still required. All seven journeys remain open.",
-    "The phone Add button passed the first reviewer’s final check. Three test groups passed. One failed on the image worker; the other recorded no header motion on the collection’s store panel at 380 px. The existing panel-test repair changes that exact check. The second review and the next complete run are pending. [Phone test results](https://github.com/EON-CRUX/3.09/actions/runs/42145632035)"
+    "The iPhone work was held up by a date-sensitive automated test. Its fix merged at 04:31 UTC. The separate product-discovery repair and a small-iPhone test slot are still required. All seven journeys remain open."
   ],
   "openDeliveryGates": [
     {
