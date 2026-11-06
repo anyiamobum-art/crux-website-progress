@@ -140,7 +140,7 @@
   "remaining": "The shopper’s style-data download failed at step six. A hosted Runway test timed out during the staff repair. The small-iPhone run needs the product-discovery repair and its allocated device turn.",
   "current": "Add to bag passed all five test groups. Its separate correctness check is running through the release queue. The store-directory repair has passed three of its five groups.",
   "next": "Finish the separate Add to bag check and second review, then install the merged change on the private theme and tap the plus on a product. Continue the signed shopper export and staff review checks in TEST.",
-  "updated": "6 November, 21:57 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "updated": "6 November, 22:04 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,7 +331,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery stopped at a request limit before the first journey. The helper is on the release desk’s list. Its protected run and the original small-iPhone allocation are pending."
+      "evidence": "Product discovery stopped at a request limit before the first journey. The release desk counted 33 jobs for 24 places at its 22:00 UTC check. The product-discovery helper and original device allocation are pending."
     },
     {
       "stage": "Final design acceptance",
@@ -348,7 +348,91 @@
     "Add to bag passed all five hosted test groups. The desk restarted its separate required check on the same change. It still needs that result and the second code approval before installation on the draft. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Separate check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)",
     "The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. [Store-directory tests](https://github.com/EON-CRUX/3.09/actions/runs/42162738189)",
     "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
-    "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)"
+    "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)",
+    "The shopping assistant comparison finished. JEV answered 33 of 100 test cases and agreed with Fable on 24 of those 33. Neither proposed an incorrect bag. Fable stays in charge of shopping decisions. [Decision repair](https://github.com/EON-CRUX/3.09/pull/5394)"
+  ],
+  "recentChangeParts": [
+    [
+      {
+        "text": "Add to bag passed all five hosted test groups. The desk restarted its separate required check on the same change. It still needs that result and the second code approval before installation on the draft. "
+      },
+      {
+        "text": "Passing tests",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145632035"
+      },
+      {
+        "text": " · "
+      },
+      {
+        "text": "Separate check",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145631932"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. "
+      },
+      {
+        "text": "Store-directory tests",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42162738189"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. "
+      },
+      {
+        "text": "Failing group",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383"
+      },
+      {
+        "text": " · "
+      },
+      {
+        "text": "Passing comparison",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. "
+      },
+      {
+        "text": "Export repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5472"
+      },
+      {
+        "text": " · "
+      },
+      {
+        "text": "Guest repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5471"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "The shopping assistant comparison finished. JEV answered 33 of 100 test cases and agreed with Fable on 24 of those 33. Neither proposed an incorrect bag. Fable stays in charge of shopping decisions. "
+      },
+      {
+        "text": "Decision repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5394"
+      },
+      {
+        "text": ""
+      }
+    ]
   ],
   "openDeliveryGates": [
     {
@@ -551,6 +635,10 @@
       {
         "complete": false,
         "text": "Complete protected review and merge of the homepage integration, then install and verify the single layout in the unpublished theme (est. 10 min after merge and installation clearance)."
+      },
+      {
+        "complete": true,
+        "text": "Complete the 100-case shopping-assistant comparison. The decision fix merged at 19:57Z, the measured run finished at 20:27Z, and the original reviewer closed the study at 20:45Z. Fable remains the shopping planner."
       },
       {
         "complete": false,
