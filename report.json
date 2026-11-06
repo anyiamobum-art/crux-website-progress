@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The store-directory repair is awaiting its protected review. The release desk corrected the iPhone test helper’s queue entry. Phone Add to bag, staff access and shopper privacy have separate test runs.",
+  "workerState": "Three tracks are running separately. The closed-store correction entered protected review. The phone Add to bag test suite has two groups still running. The iPhone timing helper has merged; the product-discovery helper and device allocation are pending.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The cart passed its second full test run on the same code. The proposed store correction also preserved both directory pages’ settings and passed all 12 independent checks.",
+  "lastActualProgress": "Both cart reviews passed and the merged file matched the planned draft update byte for byte. The iPhone timing helper also merged. The private directory already supports manual store selection when location access is declined.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
-  "current": "The empty-cart repair passed all five protected test groups and the overall check at 04:06 UTC. Its first code review passed. The remaining independent review is with the release desk.",
-  "next": "Once the cart repair merges, install the reviewed file in the unpublished theme and verify a shopper can add the first item to an empty bag. That check unlocks the homepage integration.",
-  "updated": "6 November, 04:09 UTC. The protected cart run finished at 04:06 UTC. The location-refusal check passed on the private storefront at 03:30 UTC.",
+  "current": "The empty-bag fix passed both independent code reviews and merged at 04:30 UTC. Hands has the chair’s instruction to install the verified cart file in the unpublished Shopify theme.",
+  "next": "After the installed file matches the reviewed version, the original TEST shopper will start with an empty bag, tap Add once and verify exactly one item appears. A pass releases the homepage integration for review.",
+  "updated": "6 November, 04:53 UTC. Shopify’s draft still contained the earlier cart file at the pre-install check. The chair assigned the install to Hands at 04:52 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -315,7 +315,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The release desk corrected the queue entry. The protected run and native device allocation are pending."
+      "evidence": "Product discovery returned HTTP 429 before the first journey. The release helper later skipped the approved test prerequisite because its queue mode expected a Draft-only failure. The timing helper merged at 04:31 UTC. The release desk corrected the product-discovery helper’s queue entry. Its protected run and native device allocation are pending."
     },
     {
       "stage": "Final design acceptance",
@@ -330,8 +330,8 @@
   ],
   "recentChanges": [
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
-    "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Protected review and draft installation are next.",
-    "On the same cart revision, all five groups passed. The two earlier timeouts cleared. Its second code review, private installation and first-add shopper check remain open. [Completed cart test run](https://github.com/EON-CRUX/3.09/actions/runs/42105906625)",
+    "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. The correction entered protected review. Its draft installation and verification of both store-directory pages are pending.",
+    "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands owns the actual installation, followed by a shopper adding the first item. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
     "iPhone helper: The original test owner confirmed that the phone and iPhone timeouts came from one overloaded machine. The desk owns a full rerun for each repair. All seven iPhone journeys are still open.",
     "Phone Add to bag passed its first reviewer’s final check and preserves the Looks rail in the installation rehearsal. Its second code review and protected checks remain open."
   ],
@@ -353,7 +353,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The small iPhone booted but product discovery returned HTTP 429. The replacement helper still has two failed CI groups. Cart, the resulting homepage installation and connected TEST checks also remain open.",
+      "blocker": "The small iPhone booted but product discovery returned HTTP 429. The timing helper merged. The separate product-discovery helper needs its protected rerun and device allocation. Cart, the resulting homepage installation and connected TEST checks also remain open.",
       "next": "Install the reviewed cart and homepage changes in the unpublished theme, then verify the shopper journeys, including 200% zoom, selecting a size and store directions."
     },
     {
@@ -429,12 +429,20 @@
         "text": "Complete the full test run for the empty-cart repair (01:22Z–04:06Z, took 164 min including queue time). All five groups passed."
       },
       {
-        "complete": false,
-        "text": "Complete the remaining code review, install the merged cart file privately and verify first add before releasing the homepage integration (est. 10 min after merge and test access)."
+        "complete": true,
+        "text": "Complete both cart code reviews and verify the protected merge (04:06Z–04:30Z, took 24 min)."
+      },
+      {
+        "complete": true,
+        "text": "Match the merged cart file and rollback to the unpublished theme, and confirm one file in the installation plan (04:46Z–04:50Z, took 4 min)."
       },
       {
         "complete": false,
-        "text": "Complete the original iPhone discovery correction and seven journeys (desk hold since 01:21 UTC; requires the authorized full rerun and separate clock repair)."
+        "text": "Hands installs the cart file in the unpublished theme and verifies it. The original TEST shopper checks first add before the homepage integration proceeds (est. 10 min after installation and test access)."
+      },
+      {
+        "complete": false,
+        "text": "Complete the original iPhone discovery correction and seven journeys (desk hold since 01:21 UTC; requires the authorized full rerun and available small iPhone)."
       },
       {
         "complete": false,
@@ -445,7 +453,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check by 04:35 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next result check by 05:20 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -459,7 +467,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 04:35 UTC.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 05:20 UTC.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
