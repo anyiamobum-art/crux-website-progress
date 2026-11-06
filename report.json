@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Add to bag passed its full test run. The release desk started its separate correctness check. Store-directory tests continue. The shopper export diagnostic passed its first code review. The iPhone helper awaits release capacity.",
+  "workerState": "The release desk has the passing Add to bag checks for the original second reviewer. Store-directory tests continue. The shopper export diagnostic passed its first code review. The iPhone helper awaits release capacity.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The five Add to bag test groups passed. The staff repair’s 30-second Runway timeout did not reproduce on the exact source: all nine interactions passed in 1.09 seconds. The identical test and storefront code also passed in another hosted suite. The staff repair still needs its own passing run.",
+  "lastActualProgress": "The final Add to bag check passed at 22:09 UTC. At 22:14 UTC the two Shopify files still matched their saved originals, ready for the reviewed change. The staff repair’s 30-second Runway timeout did not reproduce on the exact source: all nine interactions passed in 1.09 seconds. The identical test and storefront code also passed in another hosted suite. The staff repair still needs its own passing run.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The shopper’s style-data download failed at step six. A hosted Runway test timed out during the staff repair. The small-iPhone run needs the product-discovery repair and its allocated device turn.",
-  "current": "Add to bag passed all five test groups. Its separate correctness check is running through the release queue. The store-directory repair has passed three of its five groups.",
-  "next": "Finish the separate Add to bag check and second review, then install the merged change on the private theme and tap the plus on a product. Continue the signed shopper export and staff review checks in TEST.",
-  "updated": "6 November, 22:04 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "current": "Add to bag passed all five test groups and its separate correctness check. Its first reviewer approved it. The second review is pending. The store-directory repair has passed three of its five groups.",
+  "next": "Take Add to bag through the second review and merge, then install it on the private theme and tap the plus on a product. Continue the signed shopper export and staff review checks in TEST.",
+  "updated": "6 November, 22:15 UTC. Six of eleven items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "Add to bag passed all five hosted test groups. The desk restarted its separate required check on the same change. It still needs that result and the second code approval before installation on the draft. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Separate check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)",
+    "Add to bag passed all five test groups and its final automated check. The first reviewer approved it. The second review and private installation are pending. [Passing tests](https://github.com/EON-CRUX/3.09/actions/runs/42145632035) · [Passing final check](https://github.com/EON-CRUX/3.09/actions/runs/42145631932)",
     "The closed-store directory repair passed three of five groups. All five files are ready for private installation after merge. The remaining groups and the second code review are pending. [Store-directory tests](https://github.com/EON-CRUX/3.09/actions/runs/42162738189)",
     "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
     "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail repair also entered review. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest repair](https://github.com/EON-CRUX/3.09/pull/5471)",
@@ -354,7 +354,7 @@
   "recentChangeParts": [
     [
       {
-        "text": "Add to bag passed all five hosted test groups. The desk restarted its separate required check on the same change. It still needs that result and the second code approval before installation on the draft. "
+        "text": "Add to bag passed all five test groups and its final automated check. The first reviewer approved it. The second review and private installation are pending. "
       },
       {
         "text": "Passing tests",
@@ -364,7 +364,7 @@
         "text": " · "
       },
       {
-        "text": "Separate check",
+        "text": "Passing final check",
         "url": "https://github.com/EON-CRUX/3.09/actions/runs/42145631932"
       },
       {
@@ -553,8 +553,12 @@
         "text": "Trace the staff Runway timeout and compare unchanged source across two hosted runs (21:53Z–21:57Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Verify the final Add to bag check (22:02Z–22:09Z, took 7 min). Confirm that the two installed Shopify files still match their saved originals (22:14Z)."
+      },
+      {
         "complete": false,
-        "text": "Finish the restarted correctness check and second review for Add to bag. Install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
+        "text": "Finish the second review for Add to bag, then install and verify the plus on the unpublished theme (est. 10 min for the bounded check after merge)."
       },
       {
         "complete": true,
