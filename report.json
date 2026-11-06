@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "All five test groups and the combined test gate passed for the shared store-panel repair. It still needs its second review, merge and deployment. Hands confirmed the collection Quick Add tracking fix in the existing writer queue.",
+  "workerState": "All five test groups and the combined test gate passed for the shared store-panel repair. The independent second reviewer started at 06:36 UTC. Its decision, merge and deployment come before the phone-button retry. Hands confirmed the collection Quick Add tracking fix in the existing writer queue.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 06:28 UTC the store-panel repair passed its full test run. The separate correction removing closed Osapa passed its first protected review. The homepage repair holds row 44 in the release queue.",
+  "lastActualProgress": "The independent reviewer started on the shared store-panel repair at 06:36 UTC after all five test groups passed. The separate correction removing closed Osapa passed its first protected review. The homepage repair holds row 44 in the release queue.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -140,7 +140,7 @@
   "remaining": "The release desk counted 27 active runs against its limit of 24. The shared panel repair is still open. The corrected store list, staff TEST journeys, privacy checks and seven native iPhone journeys also remain open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
   "next": "The homepage repair has a place in the review queue. The desk will mark it Ready when capacity opens. The phone Add button gets one full test run after the shared store-panel repair merges and is served.",
-  "updated": "6 November, 06:29 UTC. The private draft passed both empty-bag Add checks. The shared store-panel repair passed its tests and is open on GitHub. The homepage and closed-store repairs are awaiting their next protected steps.",
+  "updated": "6 November, 06:45 UTC. The private draft passed both empty-bag Add checks. The second store-panel review is running on GitHub. The homepage and closed-store repairs are awaiting their next protected steps.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -477,7 +477,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next status check at 06:45 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next decision when the shared store-panel review returns. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -491,7 +491,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next status check at 06:45 UTC.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next decision when the shared store-panel review returns.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
