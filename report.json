@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original coordinator put the outstanding directory check in the browser holder’s current handoff. The phone button test has one group passed, two running and two queued. The staff TEST rerun follows deployment of the busy-runner fix.",
+  "workerState": "The original coordinator put the outstanding directory check in the browser holder’s current handoff. Three shared image tests timed out while checking the phone button. The same three timed out on the small iPhone helper. The original test owner now has both job records. The staff TEST rerun follows deployment of the busy-runner fix.",
   "journey": [
     {
       "stage": "Build",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The small iPhone helper is held until the owner of a shared image test explains its timeouts. A separate clock-sensitive test has a repair in review. Signed TEST privacy and staff journeys remain open.",
+  "remaining": "The phone Add to bag repair and the small iPhone helper both hit the same three image-worker timeouts. The phone repair’s failed test group passed 19,142 other tests. The shared test owner has both failures to diagnose. Signed TEST privacy and staff journeys remain open.",
   "current": "Near me is installed on the unpublished Shopify store directory. The phone Add to bag repair passed its first reviewer’s final check. Its second code review and protected tests remain open.",
   "next": "Use the shared browser to tap Near me, decline location access, and follow a store’s directions link. In parallel, the original owners are handling the phone button, TEST and small iPhone checks.",
-  "updated": "6 November, 02:30 UTC. Checked directions for all four stores on the served draft, the phone button’s current test groups and the TEST access failure.",
+  "updated": "6 November, 02:35 UTC. Read the phone repair’s failed test log and sent the three matching image-worker errors to the owner of the iPhone test failure.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -332,7 +332,7 @@
     "Near me is installed in the draft. Each store card points to its own address in Google Maps: Palms Lekki, Atlantic Center Chevron, Osapa London and Abuja FCT. The map panel’s fifth link matches the selected store. The location-declined interaction still needs a browser check.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The desk held the helper for diagnosis of three timeouts in one shared image test. A separate clock repair is in review. The original iPhone owner has the ruling. All seven shopper journeys still need device evidence.",
-    "Phone Add to bag passed its first reviewer’s final check at 02:13 UTC. Both changed files have been rehearsed against the existing Shopify draft, including its Looks rail setting. The independent second code review and protected tests are next.",
+    "Phone Add to bag passed its first reviewer’s final check. The repair preserves the Looks rail in the draft rehearsal. One protected test group returned three image-worker timeouts. The other groups and the independent second review are tracked separately.",
     "TEST checkout totals passed 12/12 checks and signed account help passed 8/8. The remaining guest and privacy checks depend on a shared repair. One test in that repair timed out waiting for the Studio journey to start. The original Studio owner has been asked for a diagnosis."
   ],
   "openDeliveryGates": [
