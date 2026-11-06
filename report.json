@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The connected shopper reached the style-data export and saw the download error. The original tester identified the export request to trace and returned the failure to its owner. The release desk also placed the directory and Add to bag retries.",
+  "lastActualProgress": "The connected shopper reached the style-data export and saw the download error. The original team opened a diagnostic change to distinguish a failed export response from an unreadable downloaded file. It reports response and file metadata while keeping the contents private. The release desk also placed the directory and Add to bag retries.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -140,7 +140,7 @@
   "remaining": "The shopper could not download their saved style data. The staff test needs a working runner. The iPhone test needs its product-discovery repair and a device slot.",
   "current": "The guest-access and privacy test repairs merged. On the deployed build the shopper passed five steps, including saving a look. Downloading style data failed at step six.",
   "next": "Trace the failed export response, finish the staff menu test, and verify that both private directory pages list the three open stores when the store-list repair merges.",
-  "updated": "6 November, 18:04 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.",
+  "updated": "6 November, 19:10 UTC. Six release items are verified. Seven iPhone journeys and three passing whole-draft ratings are outstanding.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,8 +331,8 @@
   ],
   "recentChanges": [
     "The TEST guest-access repair merged at 11:03 UTC. The corrected software served at 11:07 UTC. One guest selector still awaits protected review. [Guest fix](https://github.com/EON-CRUX/3.09/pull/5359) · [Selector follow-up](https://github.com/EON-CRUX/3.09/pull/5471)",
-    "The privacy pacing repair merged at 12:17 UTC. The connected shopper passed five steps, then saw an error downloading style data. The tester identified the export request and saved the error evidence. [Privacy fix](https://github.com/EON-CRUX/3.09/pull/5428) · [Actual TEST result](https://github.com/EON-CRUX/3.09/pull/5350#issuecomment-6691484605)",
-    "The desk reopened at 17:43 UTC after the shared test repair merged. The closed-store correction and Add to bag plus are in its retry order. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)",
+    "The privacy pacing repair merged at 12:17 UTC. The connected shopper passed five steps, then saw an error downloading style data. The tester saved the failure. A draft diagnostic change would show whether the error came from the export response or the downloaded file. [Diagnostic change](https://github.com/EON-CRUX/3.09/pull/5472) [Privacy fix](https://github.com/EON-CRUX/3.09/pull/5428) · [Actual TEST result](https://github.com/EON-CRUX/3.09/pull/5350#issuecomment-6691484605)",
+    "The desk reopened at 17:43 UTC after the shared test repair merged. The closed-store correction and Add to bag plus are in its retry order. All five directory files are prepared for private installation after protected merge. The plus button also needs a separate required check after its previous job was cancelled. [Store list](https://github.com/EON-CRUX/3.09/pull/5459) · [Add to bag](https://github.com/EON-CRUX/3.09/pull/5354)",
     "The floating Stores button and Near Me are installed in the private theme. Both collection and product first-add paths passed there. [Stores](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me](https://github.com/EON-CRUX/3.09/pull/5353) · [First add](https://github.com/EON-CRUX/3.09/pull/5439)"
   ],
   "openDeliveryGates": [
@@ -348,8 +348,8 @@
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "Final passes remain 0/3. Both full review rounds are consumed; only the original final named-fix checks remain. Earlier-source200% evidence is retained; the newly installed homepage typography still needs its own genuine200% proof; native, connected and remaining performance-contract evidence remain incomplete. The catalogue and Big Bag desktop startup budgets passed. The controlled comparison isolated the catalogue drawer’s desktop backdrop blur: the narrow variant passes at both widths. Its source repair #5324 is reviewed, merged and installed; the separate Options desktop-frame requirement is closed by the original chair. Whole-draft and native evidence still remains. Warm arrival on the small iPhone remains open. Owner: The same Fable 5.1, Astra 6 and Opus 5.5 readers; Website assembles evidence. Wait: No final named-fix call is running or queued; this is a prerequisite wait, not a new review round.",
-      "next": "Complete each reader’s named evidence, then return the same installed source to those original readers once. Passing requires average 9.5 or higher and no measure below 9; code approvals do not substitute."
+      "blocker": "The current homepage still needs a 200% text check, connected shopping evidence, and small-iPhone timing. The last full reviews gave Fable 9.05 and Opus 8.75. Astra could score only one measure.",
+      "next": "Return the same tested draft to the three original readers for their final check of the named repairs. Each reader must average at least 9.5 with every measure at 9 or above."
     },
     {
       "label": "10. Completed Shopify draft and handover",
@@ -358,8 +358,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "The title is reviewed, merged, installed and fits at 320/380/1280. Remaining native, connected and final-reader evidence uses the same shared prerequisites; no repeat title repair is ready. Owner: Original BIG BAG/native acceptance owner and the same final readers. Wait: Shares the retained native/timing waits above; no separate reset or duplicate allocation request.",
-      "next": "Keep the verified title evidence, complete the original native shopping/Back and connected journey checks on the installed source, then include the result in the final named-fix review."
+      "blocker": "The installed title fits at widths of 320, 380 and 1280 pixels. The native shopping journey and return to the collection still need a device check.",
+      "next": "Follow a product from Big Bag, use Back and verify that the shopper returns to the expected place. Include that result in the final review."
     }
   ],
   "finalRatingState": "0 of 3 passing ratings",
