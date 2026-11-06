@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Two of the five phone Add-button test groups passed, one is running and two are queued. The guest fix has one passing group and two running. The staff menu fix has passed 87 fault checks and is second in the release queue.",
+  "workerState": "The phone Add-button repair has two passing test groups. The signed TEST staff menu, guest access and privacy repairs are in protected review and testing.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The writer reproduced the repeat-add error and passed three tests after the fix. Hands independently reproduced the error on the previous version and started checking the corrected version in a browser.",
+  "lastActualProgress": "At 390 and 1280 px, adding the same item again recorded the price of one piece. The previous code failed at both widths. All 13 deliberate fault checks passed on the correction. The two files for the private theme are prepared.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The staff test stopped at a hidden menu button. The small iPhone hit a request limit before the first journey. The store directory still includes a closed location. Each has a named repair and an acceptance check.",
-  "current": "The original writer corrected what goes into the shopping analytics when someone adds another of the same item. A first add from either the collection or the product page already works on the private draft.",
-  "next": "Verify that adding one more ₦15,900 item reports exactly ₦15,900, including when the bag already holds two. Guest-access and privacy repairs have each passed their first protected review. Their tests and second reviews continue in parallel.",
-  "updated": "6 November, 08:46 UTC. The TEST store, staff member and shopper identities were verified. Seven native iPhone journeys and the three final passing ratings remain open.",
+  "current": "The corrected repeat-add tracking passed all six browser checks. A first add from either the collection or product page already works on the unpublished draft.",
+  "next": "Take the corrected tracking through protected review, install it in the unpublished theme after merge, then repeat the pendant test there. The staff menu repair entered protected review at 09:00 UTC.",
+  "updated": "6 November, 09:03 UTC. The TEST store, staff member and shopper identities were verified. The seven iPhone journeys and the three final ratings remain open.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,16 +331,16 @@
   ],
   "recentChanges": [
     "Both first-add paths passed on the unpublished draft. The cart repair is installed. [Cart repair #5439](https://github.com/EON-CRUX/3.09/pull/5439)",
-    "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The writer corrected the event to report one item at its actual unit price. Three focused tests passed. Independent browser verification is underway. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
+    "Adding one ₦15,900 pendant to a bag that already holds two produces a ₦47,700 line total. The writer corrected the event to report one item at its actual unit price. Six browser checks passed on the corrected source and 13 deliberate faults were detected. Its check on the installed draft follows protected merge. [Tracking repair #5465](https://github.com/EON-CRUX/3.09/pull/5465)",
     "The TEST guest-access and privacy fixes each passed a first review. Both still need passing protected tests and a second approval. [Guest access #5359](https://github.com/EON-CRUX/3.09/pull/5359) · [Privacy #5428](https://github.com/EON-CRUX/3.09/pull/5428)",
-    "The signed-in staff test verified its store and participants. Its menu repair passed six test files and 87 fault checks. It is second in the release queue. After deployment, the original tester can verify consent and the remaining staff actions. [Staff repair #5466](https://github.com/EON-CRUX/3.09/pull/5466)",
+    "The signed-in staff test verified its store and participants. Its menu repair passed six test files and 87 fault checks. Protected review and testing started at 09:00 UTC. After deployment, the original tester can check Use and Dismiss. Buyer consent and withdrawal have a separate test. [Staff repair #5466](https://github.com/EON-CRUX/3.09/pull/5466)",
     "The floating Stores control is installed in the draft. The Near Me repair merged. Removing the closed shop from the private list still needs a passing test and verification on both directory pages. [Floating Stores #5250](https://github.com/EON-CRUX/3.09/pull/5250) · [Near Me #5353](https://github.com/EON-CRUX/3.09/pull/5353)"
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "The staff TEST verified its participants, then stopped at step 3 when it tried a hidden button.",
-      "next": "Release the corrected conversation-menu test (#5466, second in the queue), then have the original tester complete the staff actions. Buyer consent and withdrawal require their own check."
+      "next": "Release the corrected conversation-menu test (#5466, in protected review), then have the original tester complete the staff actions. Buyer consent and withdrawal require their own check."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -491,8 +491,12 @@
         "text": "Reproduce the cumulative-line error and correct repeat-add tracking (08:30Z–08:38Z, took 8 min to the writer’s verified return). Three focused checks passed."
       },
       {
+        "complete": true,
+        "text": "Verify six browser cases and all 13 fault checks, confirm exact-source acceptance and prepare the two private-theme files (08:37Z–09:03Z, including external tests and release preparation)."
+      },
+      {
         "complete": false,
-        "text": "Verify the repeat-add regression independently on the corrected #5465 source, then complete protected review, merge, private installation and the original shopper check (est. 10 min for the bounded check after merge)."
+        "text": "Merge the tracking repair after protected reviews, install the two verified files in the unpublished theme and repeat the shopper check (est. 10 min for the bounded check after merge)."
       },
       {
         "complete": true,
