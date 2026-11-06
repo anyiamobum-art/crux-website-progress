@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The shared store-panel repair has passed both reviews and all five test groups. It is deployed. The phone button’s second test plan passed and scheduled all five test groups.",
+  "workerState": "The release desk queued all five phone-button test groups. All five staff TEST groups have passed; the protected merge and the staff workflow check are still owed.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The shared panel fix merged at 06:52 UTC and deployed at 06:55 UTC. The version served by EON matched that merge. This clears a shared prerequisite for the phone button, guest access and assistant privacy.",
+  "lastActualProgress": "At 07:28 UTC the original writer’s patch applied offline to the exact draft tracking file, and its JavaScript syntax passed. Hands has both files for the browser check. The test used an isolated sink.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The private store list still includes closed Osapa. Its first reviewer approved it. A shared animation test failed. The release desk will rerun the full suite after the animation repair merges. The staff and privacy journeys, the small-iPhone test slot and seven native journeys also remain open.",
-  "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
+  "remaining": "The private store list still includes closed Osapa. Its first reviewer approved it. The shared animation repair failed its first review and is back with its writer. The store-list suite retries after that repair merges. The staff and privacy journeys, the small-iPhone test slot and seven native journeys also remain open.",
+  "current": "The empty-bag shopping checks still pass on both routes. The collection Add tracking repair now passes 18 simulated cases. Its patch also applied to the exact tracking file from the unpublished theme.",
   "next": "GitHub accepted the phone Add button’s full retry. The guest-access and privacy branches both conflict with main. Their original builders must resolve those conflicts before their tests run. The homepage repair holds row 44.",
-  "updated": "6 November, 07:02 UTC. EON served the reviewed store-panel fix. GitHub queued attempt 2 for the phone Add button at 07:01 UTC. Both private-draft empty-bag Add checks passed.",
+  "updated": "6 November, 07:29 UTC. The tracking change has a candidate commit. Browser consent, duplicate-event handling on the served copy, protected review and installation remain open.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -332,14 +332,14 @@
     "The shared store-panel fix passed all five test groups and both reviews, merged at 06:52 UTC, and was verified on the deployed EON service at 06:55 UTC. The phone button, guest access and privacy checks can now take their scheduled full retries. [Merged panel repair](https://github.com/EON-CRUX/3.09/pull/5342)",
     "The assistant TEST repair passed 31 setup tests and 168 independent checks. The chair admitted the fixed version for review. The separate staff and privacy test runs are underway.",
     "Closed-store repair #5459 removes Osapa from all five affected files. Both directory configurations kept the three open shops in order and preserved every other setting. Hands accepted the source after all 12 independent checks passed. Its first protected review passed. Three test groups passed, one group failed the shared laptop animation test, and one group was queued. The desk tied the retry to repair #5462. Its draft installation and verification of both store-directory pages are pending.",
-    "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper tested each path from an empty bag. Both added one Achilles Pendant, opened or updated the bag correctly, and left no recovery marker. The test bag was emptied. Collection Quick Add still needs its analytics event. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
+    "All five cart test groups and both protected code reviews passed. The fix merged at 04:30 UTC. The single-file draft installation was rehearsed against a fresh Shopify inventory. Hands installed the one reviewed file at 05:09 UTC. Shopify returned an exact match. The shopper tested each path from an empty bag. Both added one Achilles Pendant, opened or updated the bag correctly, and left no recovery marker. The test bag was emptied. The tracking repair now passes simulation and was prepared against the exact draft file; its served-browser check remains open. [Merged cart repair](https://github.com/EON-CRUX/3.09/pull/5439)",
     "The iPhone work was held up by a date-sensitive automated test. Its fix merged at 04:31 UTC. The separate product-discovery repair and a small-iPhone test slot are still required. All seven journeys remain open."
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "Three staff TEST groups passed. A runner ran out of memory in a fourth, and four Ask and Inventory assertions failed in the fifth. The chair confirmed both failures are outside the staff repair and kept its approval.",
-      "next": "Repair #5451 merged at 03:00 UTC. The deployed EON shell returned the matching version. Attempt 4 is underway. Its test plan includes the verified repair and scheduled all five groups. Then verify staff Use and Dismiss, buyer consent and withdrawal. Owner: Original staff TEST owner and the chair’s desk."
+      "blocker": "Staff workflow verification depends on protected merge and deployment. All five staff test groups and four required checks passed. The first independent review also passed.",
+      "next": "verify the protected merge and deployed version, then exercise staff Use and Dismiss, buyer consent and withdrawal in TEST. Owner: Original staff TEST owner and release desk."
     },
     {
       "label": "6. Assistant privacy facts",
@@ -455,6 +455,14 @@
       {
         "complete": true,
         "text": "Deliver the collection Quick Add analytics repair brief, including the product-page control and duplicate-event checks (05:59Z–06:03Z, took 4 min)."
+      },
+      {
+        "complete": true,
+        "text": "Confirm the original tracking repair and supply the exact draft file for its browser test. The writer reproduced the lost event and passed 18 simulated cases. Its patch then applied to the witnessed file (07:10Z–07:29Z, took 19 min)."
+      },
+      {
+        "complete": false,
+        "text": "Verify the tracking repair in a browser with consent enabled and disabled, check the product-page control, then complete protected review and private draft acceptance (est. 10 min for browser evidence after the original proof slot opens)."
       },
       {
         "complete": true,
