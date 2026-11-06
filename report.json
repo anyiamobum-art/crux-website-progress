@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Near me has one test group left. The original cart run is queued for a second attempt on the same code. Three staff-repair test groups passed. One runner stopped, and another group failed in four Ask and Inventory tests. Their results were sent to the original TEST owner. The protected reviewer can read the phone repair when the release desk admits it.",
+  "workerState": "The release desk has the Near me result and the phone repair. The original TEST owner received both staff failures. One runner shut down, and four Ask and Inventory tests failed in a different group. The original iPhone owner has the shared test diagnosis request.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The phone installer passed its seven file checks, the seven plus-button and arrow checks, and all 18 mutation checks. The prepared shopping script matches the accepted file, byte for byte. Final review and draft installation are still ahead.",
+  "lastActualProgress": "The last Near me test group passed at 01:34 UTC. The release desk has the full five-group result. The phone Add to bag installer passed 14 focused checks and 18 mutation checks, and its shopping script matches the accepted 68,592 bytes.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "The small iPhone helper is held until the owner of a shared image test explains its timeouts. A separate clock-sensitive test has a repair in review. Signed TEST privacy and staff journeys remain open.",
-  "current": "Four of five Near me test groups passed. The chair queued a full run of the first-add cart repair. The phone Add to bag installer has passed its focused checks and is waiting for its final code review.",
-  "next": "Read the remaining Near me group and the cart run, then complete the protected reviews. After each merge, compare its files with the unpublished draft before installing and checking the shopper action.",
-  "updated": "6 November, 01:29 UTC. Verified the cart release decision and queued run, the remaining Near me and staff test jobs, and the iPhone release hold.",
+  "current": "All five test groups passed for Near me. Its final combined test check is queued. The cart repair also passed test planning, and all five groups are queued for its full run.",
+  "next": "Complete the remaining code review for Near me and the final review of the phone Add to bag installer. After each merge, check the changed files against the unpublished theme, then test the shopper action there.",
+  "updated": "6 November, 01:41 UTC. Checked the final Near me test group, cart test planning, staff test failures, phone review queue and iPhone hold.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,7 +329,7 @@
     }
   ],
   "recentChanges": [
-    "Near me: Four groups passed. Group 3 is still running. The remaining protected review, merge and unpublished-draft check follow the full test result.",
+    "Near me: All five test groups passed. The final combined test check is queued. After protected review and merge, the draft check covers tapping Near me and opening directions with location access declined.",
     "Cart: The chair cleared a full second run on the same code. Two unrelated tests timed out on the same runner in the first run. Their owners are investigating. If the same failures recur, their diagnosis is required.",
     "iPhone helper: The desk held the helper for diagnosis of three timeouts in one shared image test. A separate clock repair is in review. The original iPhone owner has the ruling. All seven shopper journeys still need device evidence.",
     "Phone Add to bag: The original writer fixed the installer mismatch. Hands accepted revision 5e5c10c5. Its corrected entry matches all 68,592 bytes of the shopping script. The final code review, merge and draft installation are pending.",
@@ -385,6 +385,18 @@
         "text": "Complete the admitted TEST delivery-total journey:12/12 checks passed (10:01Z–10:21Z, took20min including grant and verification; the run itself took111seconds)."
       },
       {
+        "complete": true,
+        "text": "Verify all five Near me test groups (00:40Z–01:35Z, took 55 min)."
+      },
+      {
+        "complete": false,
+        "text": "Carry Near me through its combined test check and remaining review, then check the store directory on the unpublished draft (waiting since 01:35Z; 10 min for the draft check after merge)."
+      },
+      {
+        "complete": false,
+        "text": "Take the accepted phone Add to bag installer through its final review, then verify the plus button on the unpublished draft (waiting since 01:23Z; 10 min for the draft check after merge)."
+      },
+      {
         "complete": false,
         "text": "Finish the original full cart test on the accepted source (second attempt queued 01:22 UTC). After the remaining review, merge and private draft check, release homepage integration #5433."
       },
@@ -401,7 +413,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next original release and test-owner check by 01:52 UTC or on a result. Allow about 10 min for the bounded draft installation after the required merge. Final handover timing is unknown."
+    "landing": "Lands: Next release and test-owner check by 02:00 UTC or when a result arrives. Allow about 10 min for the bounded draft installation after the required merge. Final handover timing is unknown."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
