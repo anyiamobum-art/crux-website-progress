@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The three-store correction is in review. All five groups finished on the phone Add button. Two failed: one on image processing and one on measuring the collection’s store panel. The existing panel-test repair covers that exact test.",
+  "workerState": "The shared panel repair passed four of five test groups. The fifth is running. The collection Quick Add tracking rules are agreed. Hands owns writer placement.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The two first-add shopper checks passed. At 05:58 UTC I delivered the homepage request to the mailbox the release desk actually reads. I also delivered a separate repair brief for the missing collection event to Hands.",
+  "lastActualProgress": "At 06:17 UTC the release desk placed the homepage repair in row 44 and assigned one retry for both phone Add button failures. Identity supplied the exact Quick Add tracking contract and owns its post-install check.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five theme files still contain Osapa. The phone Add to bag repair awaits its second review and protected tests. Staff, privacy and native iPhone checks are also open.",
+  "remaining": "The release desk counted 27 active runs against its limit of 24. The shared panel repair is still open. The corrected store list, staff TEST journeys, privacy checks and seven native iPhone journeys also remain open.",
   "current": "Two shopping checks passed on the unpublished Shopify draft. Starting with an empty bag, Quick Add in New Arrivals and Add on the pendant’s product page each put exactly one item in the bag. The test bag ended empty.",
-  "next": "The release desk has the homepage repair request in its review mailbox. The homepage is still Draft. Hands has the brief for fixing the missing collection Quick Add event. Both are awaiting placement.",
-  "updated": "6 November, 06:05 UTC. GitHub still shows the homepage repair as Draft. The shopping fixes are tracked separately from the seven native iPhone checks and the three final ratings.",
+  "next": "The homepage repair has a place in the review queue. The desk will mark it Ready when capacity opens. The phone Add button gets one full test run after the shared store-panel repair merges and is served.",
+  "updated": "6 November, 06:24 UTC. The homepage repair is in row 44 and still shows Draft on GitHub. The shared store-panel fix is under test. The first-add shopper checks on the unpublished theme both passed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -457,6 +457,10 @@
         "text": "Deliver the collection Quick Add analytics repair brief, including the product-page control and duplicate-event checks (05:59Z–06:03Z, took 4 min)."
       },
       {
+        "complete": true,
+        "text": "Verify the homepage’s place in the release queue, the phone button’s retry decision and the collection Add tracking contract (06:17Z–06:24Z)."
+      },
+      {
         "complete": false,
         "text": "Complete protected review and merge of the homepage integration, then install and verify the single layout in the unpublished theme (est. 10 min after merge and installation clearance)."
       },
@@ -473,7 +477,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Next result check by 06:30 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
+    "landing": "Lands: Next status check at 06:45 UTC. Final handover depends on the corrected directory, TEST, seven iPhone journeys and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -487,7 +491,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next result check by 06:30 UTC.",
+    "landing": "Lands: Final timing depends on protected tests, the store-list correction, native iPhone journeys and independent ratings. Next status check at 06:45 UTC.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
