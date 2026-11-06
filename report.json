@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "All five automated test groups for guest shopping passed by 23:01 UTC. Its first code reviewer approved at 23:05 UTC. Earlier, Shopify served the repaired Add to bag plus from the private draft and one tap added exactly one pendant in Safari.",
+  "lastActualProgress": "The guest sign-in and signed-budget test changes passed both code reviews, merged at 23:16 UTC and are now served. The earlier TEST receipt verifies that the styling panel opened and the tee correctly hid its Looks rail when there were zero looks.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -139,8 +139,8 @@
   ],
   "remaining": "The shopper’s style-data download failed at step six. The staff repair needs a passing hosted run. Product discovery on the small iPhone hit a request limit, and its helper is awaiting a release slot.",
   "current": "The floating Stores button, Near me and the product-page Add to bag plus have all merged and are installed in the private theme. In Safari, one tap on the yellow plus added one Achilles Pendant to an empty bag. Removing it emptied the bag again.",
-  "next": "After the guest test repair clears its final review and is available on TEST, open the looks rail as a guest. Separately verify signed shopper export and the staff Use and Dismiss actions in TEST. After the closed-store fix merges, check both directory routes. The iPhone run follows release of its discovery helper and the shared device slot.",
-  "updated": "6 November, 23:07 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "next": "Run the signed shopper’s preferences and budget test on the served release. Check the product-page Looks rail with a linked look when an eligible TEST product is available. Separately verify signed shopper export and the staff Use and Dismiss actions in TEST. After the closed-store fix merges, check both directory routes. The iPhone run follows release of its discovery helper and the shared device slot.",
+  "updated": "6 November, 23:21 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -326,7 +326,7 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Checkout totals 12/12 and account help 8/8",
-      "evidence": "Guest access and privacy pacing merged. The connected shopper passed five steps and then could not export style data. The staff Use and Dismiss actions and guest looks rail still need their own checks."
+      "evidence": "Guest access and privacy pacing merged. The connected shopper passed five steps and then could not export style data. The TEST tee and styling panel passed eight checks. The tee received zero looks and hid its rail. Staff Use and Dismiss and a populated rail still need their own checks."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -346,9 +346,9 @@
   ],
   "recentChanges": [
     "The Add to bag plus passed both protected reviews and merged. Shopify returned both reviewed files from the unpublished draft. In a fresh Safari bag, one tap added one pendant and removing it returned the bag to empty. [Merged repair](https://github.com/EON-CRUX/3.09/pull/5354) · [Final code approval](https://github.com/EON-CRUX/3.09/pull/5354#issuecomment-6697482657)",
-    "Four of five test groups passed for the closed-store repair. The fifth failed a shared test about which runner may take a job. Its test and reader match the base revision. I returned the failure to the release desk for the original owner. The store correction still awaits review and merge. [Failed shared test](https://github.com/EON-CRUX/3.09/actions/runs/42162738189/job/128098276032)",
+    "Four of five test groups passed for the closed-store repair. The fifth failed a shared test about which runner may take a job. Its test and reader match the base revision. The chair authorized a full retry with all checks intact. The release desk owns its placement. The store correction still awaits merge. [Failed shared test](https://github.com/EON-CRUX/3.09/actions/runs/42162738189/job/128098276032)",
     "A staff TEST repair hit a 30-second Runway timeout. Its nine interactions passed in 1.09 seconds in isolation, and that same test passed on another hosted run. The chair approved the next hosted attempt. Staff Use and Dismiss are still unverified. [Failing group](https://github.com/EON-CRUX/3.09/actions/runs/42191707389/job/128104504383) · [Passing comparison](https://github.com/EON-CRUX/3.09/actions/runs/42145632035/job/128095200115)",
-    "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail test repair passed all five hosted test groups and its first independent review. Its final code review was requested. The guest shopping journey still has to run on TEST. [Export repair](https://github.com/EON-CRUX/3.09/pull/5472) · [Guest test review](https://github.com/EON-CRUX/3.09/pull/5471#issuecomment-6697990460)",
+    "The TEST tee returned zero looks and kept the rail hidden. Eight checks passed, including the signed panel. The separate tests for guest-to-sign-in and saved naira budgets passed both code reviews, merged and are now available to run. The saved-style download failed at step six and still needs repair. [TEST tee and panel receipt](https://github.com/EON-CRUX/3.09/actions/runs/42142774375) · [Merged test change](https://github.com/EON-CRUX/3.09/pull/5471) · [Download repair](https://github.com/EON-CRUX/3.09/pull/5472)",
     "The shopping assistant comparison finished. JEV answered 33 of 100 test cases and agreed with Fable on 24 of those 33. Neither proposed an incorrect bag. Fable stays in charge of shopping decisions. [Decision repair](https://github.com/EON-CRUX/3.09/pull/5394)"
   ],
   "recentChangeParts": [
@@ -373,7 +373,7 @@
     ],
     [
       {
-        "text": "Four of five test groups passed for the closed-store repair. The fifth failed a shared test about which runner may take a job. Its test and reader match the base revision. I returned the failure to the release desk for the original owner. The store correction still awaits review and merge. "
+        "text": "Four of five test groups passed for the closed-store repair. The fifth failed a shared test about which runner may take a job. Its test and reader match the base revision. The chair authorized a full retry with all checks intact. The release desk owns its placement. The store correction still awaits merge. "
       },
       {
         "text": "Failed shared test",
@@ -404,18 +404,25 @@
     ],
     [
       {
-        "text": "The signed shopper reached the saved-style export and saw a download error. The diagnostic change passed its first code review. The guest looks-rail test repair passed all five hosted test groups and its first independent review. Its final code review was requested. The guest shopping journey still has to run on TEST. "
+        "text": "The TEST tee returned zero looks and kept the rail hidden. Eight checks passed, including the signed panel. The separate tests for guest-to-sign-in and saved naira budgets passed both code reviews, merged and are now available to run. The saved-style download failed at step six and still needs repair. "
       },
       {
-        "text": "Export repair",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5472"
+        "text": "TEST tee and panel receipt",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42142774375"
       },
       {
         "text": " · "
       },
       {
-        "text": "Guest test review",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5471#issuecomment-6697990460"
+        "text": "Merged test change",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5471"
+      },
+      {
+        "text": " · "
+      },
+      {
+        "text": "Download repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5472"
       },
       {
         "text": ""
@@ -517,8 +524,20 @@
         "text": "Verify all five hosted guest test groups and the first code approval (23:00Z–23:05Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Verify both reviews, merge and the served build for the guest sign-in and signed-budget tests (23:05Z–23:19Z, took 14 min)."
+      },
+      {
+        "complete": true,
+        "text": "Recover the TEST tee’s eight-step receipt and verify the hidden empty Looks rail matched the actual product (23:17Z–23:20Z, took 3 min)."
+      },
+      {
         "complete": false,
-        "text": "Run the guest looks rail on the served TEST version after final code review and merge (est. 10 min after release)."
+        "text": "Verify the populated Looks rail on an eligible TEST product with a linked look (est. 5 min once a qualifying product and access are available)."
+      },
+      {
+        "complete": false,
+        "text": "Read the signed preferences and naira-budget result from its admitted TEST run (est. 5 min after that run finishes)."
       },
       {
         "complete": false,
