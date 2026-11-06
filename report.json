@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Three Near me test groups started; two were queued at the last read. The original cart and native release owners have the failed jobs. The Add to bag repair remains with its original writer; a new accepted revision has not been verified.",
+  "workerState": "The phone repair has been pushed and accepted by Hands. Two of five Near me test groups passed and the other three started. The release desk has the original source writer for the Home timeout and a comparison run from the staff-notifications owner.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The release desk started Near me attempt 3 after the Mac woke. The cart suite finished with four groups passing; the two timeouts in the fifth group were returned to the release desk. Separately, the TEST account/help screen passed its 390 px visual check.",
+  "lastActualProgress": "The phone installer passed its seven file checks, the seven plus-button and arrow checks, and all 18 mutation checks. The prepared shopping script matches the accepted file, byte for byte. Final review and draft installation are still ahead.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The cart suite failed outside the cart files. The native helper suite failed in two groups before a device run could start. The phone Add to bag change still needs its installer manifest corrected. No whole-draft reviewer has passed the repaired, installed site.",
-  "current": "The original release desk restarted the Near me checks. Cart and iPhone test results are back; the failing tests and their owners are identified below. The original TEST account owner has resumed work.",
-  "next": "Resolve the two cart timeouts with the Home and staff-notifications test owners. Finish the Add to bag installer correction, the active Near me checks and the native test helper review. Install each qualified change in the unpublished draft.",
-  "updated": "6 November, 00:52 UTC. GitHub confirms the Near me restart, the cart test failure and the native helper result. The selected storefront remains an unpublished draft.",
+  "remaining": "The cart release still needs a decision on two timeouts. The small iPhone run needs its product-discovery helper to pass review and checks. The signed TEST privacy and staff journeys remain open.",
+  "current": "The phone Add to bag repair is back in the release queue. Its installer now matches the tested shopping code. The Near me suite is running in parallel.",
+  "next": "Complete the final review of the phone repair, finish Near me testing and resolve the two shared cart timeouts. After each merge, install and verify its files on the unpublished draft.",
+  "updated": "6 November, 01:16 UTC. Verified the phone repair against its source revision and read the current Near me test jobs. The Shopify draft remains unpublished.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -329,10 +329,10 @@
     }
   ],
   "recentChanges": [
-    "Near me: the original release desk started attempt 3 at 00:40 UTC after the Mac woke. The first three groups started; two were queued. The previous attempt was cancelled before its tests ran.",
-    "Cart: four groups passed. The fifth passed 19,082 tests and timed out in the Home renderer and staff notifications. Both failures were returned to the original release desk. Checkout totals still have their separate 12/12 TEST result.",
+    "Near me: Groups 0 and 2 passed on the current run. Groups 1, 3 and 4 started. Each group must finish before the result can go to the remaining reviewer.",
+    "Cart: Four groups passed. In the fifth, 19,082 tests passed and two timed out. The staff-notifications owner found a passing run of the same fixture. The Home timeout was traced to its original renderer-test writer. The desk still owes the release decision.",
     "iPhone helper: all five groups finished. Three passed; two failed outside the helper. The seven shopper journeys have still not run. No device result is being claimed from the helper tests.",
-    "Phone Add to bag: the original writer owes one fix to the installation manifest. The current review confirmed the plus appears for “Add to bag” and the other actions retain their arrows.",
+    "Phone Add to bag: The original writer fixed the installer mismatch. Hands accepted revision 5e5c10c5. Its corrected entry matches all 68,592 bytes of the shopping script. The final code review, merge and draft installation are pending.",
     "TEST: account help passed the 390 px visual check after its stylesheet repair. Opening help keeps the page margin intact. Nothing was sent from the test account."
   ],
   "openDeliveryGates": [
