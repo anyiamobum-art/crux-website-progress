@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original Claude Code Desktop designer fixed both Stores findings in one change. Sol checked the repaired code independently and closed both findings. Hands accepted the repaired source. The chair granted the Shop This Look size request.",
+  "workerState": "The original Claude Code Desktop designer fixed the two Stores motion findings. Sol verified both. Shop This Look passed the size check and every other admission item except Draft status. The two changes are on the original release desk’s list.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the previous Stores source, two regression cases failed. On the repaired source, 17 tests passed. Clearing a location mid-animation now keeps the cards within one pixel of their previous drawn positions, and Near me and Clear share press feedback. The suite directly exercised pressing Near me.",
+  "lastActualProgress": "The animated directory and closed-store repair passed 19 tests together. Each of the three rendered directions links contains the correct shop name and address. In Shop This Look, browser Back restored the selected outfit and exact scroll position. Both Close and Back responded at 200% zoom on 380px and 430px desktop WebKit windows.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "The local October 3 homepage opens Shop This Look and the repaired Stores directory. Its five existing store links reach the same working directory. Both candidates are in GitHub for protected review before installation in the private Shopify draft.",
-  "next": "Hands and the release desk handle the viewer admission and the protected reviews. After merge, verify the installed maps and directions, the remaining TEST shopper journeys and both iPhone sizes.",
-  "updated": "7 November, 20:27 UTC. Six of eleven delivery gates are verified. Seven iPhone journeys and three final 9.5 scores remain.",
+  "current": "Shop This Look passes Back, Forward and 200% zoom in the local October 3 preview. Its Stores link now opens the three-location directory. The staff buyer-review repair passed all five CI test groups and awaits an independent reviewer.",
+  "next": "The release desk moves Shop This Look and Stores into independent review in queue order. After merge, install the eligible files in the private theme, check its loaded map and run the remaining TEST and iPhone journeys.",
+  "updated": "7 November, 20:56 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,7 +331,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "Product discovery stopped at a request limit. Its helper is Ready, with four test groups passing and one failed; the original desk has a queued retry. Native acceptance follows the original device allocation on qualified source."
+      "evidence": "The original test run hit a product-request limit. The discovery helper is in the release queue and its retry is running. Device verification follows on qualified source. Desktop WebKit checks are recorded separately."
     },
     {
       "stage": "Final design acceptance",
@@ -345,9 +345,9 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. [Size decision](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441)",
-    "In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.",
-    "The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. [Stores repair and test receipt](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189)",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)",
+    "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.",
+    "The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check.",
     "[Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.",
     "[Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview."
   ],
@@ -361,11 +361,11 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. "
+        "text": " adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. "
       },
       {
-        "text": "Size decision",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441"
+        "text": "Admission result",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496"
       },
       {
         "text": ""
@@ -373,19 +373,26 @@
     ],
     [
       {
-        "text": "In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification."
+        "text": "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open."
       }
     ],
     [
       {
-        "text": "The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. "
+        "text": "The desktop designer fixed rapid Clear and missing press feedback. Combining "
       },
       {
-        "text": "Stores repair and test receipt",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189"
+        "text": "the motion change",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
       },
       {
-        "text": ""
+        "text": " with "
+      },
+      {
+        "text": "the directory correction",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5459"
+      },
+      {
+        "text": " passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
       }
     ],
     [
@@ -437,9 +444,9 @@
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The staff TEST walk needs the original quote repair #5490 released; its existing retry follows a neighbouring timeout.",
-      "next": "The staff TEST captain completes Use and Dismiss, buyer consent and withdrawal on served source. Close only with the complete signed journey receipt.",
-      "state": "Waiting on existing retry and release",
+      "blocker": "All five CI groups passed for the staff quote repair. Its protected review was deferred when the reviewer was unavailable.",
+      "next": "After approval and release, the staff TEST captain checks Use, Dismiss, buyer consent and withdrawal. [Successful test run](https://github.com/EON-CRUX/3.09/actions/runs/42371920893/attempts/2)",
+      "state": "All five test groups passed. Waiting for protected review and release",
       "owner": "Staff TEST captain and quote-repair owner",
       "closes": "Staff actions and buyer consent/withdrawal all pass",
       "timing": "About 10 min for the prepared walk after release; queue time unknown"
@@ -554,8 +561,16 @@
         "text": "Obtain the chair’s size decision for the viewer (19:58Z–20:17Z, took 19 min)."
       },
       {
+        "complete": true,
+        "text": "Combine both Stores changes and check all three directions links (20:41Z–20:48Z, took 7 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify outfit focus, Back, Forward and narrow-screen controls at 200% zoom in desktop WebKit (20:50Z–20:56Z)."
+      },
+      {
         "complete": false,
-        "text": "Complete admission and both protected reviews (waiting on the original desk queue, timing depends on its release order)."
+        "text": "Move both admitted designs through protected review (release desk owns the paced queue; review time unknown)."
       },
       {
         "complete": false,

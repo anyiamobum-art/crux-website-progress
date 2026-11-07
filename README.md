@@ -8,21 +8,21 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 20:27 UTC. Six of eleven delivery gates are verified. Seven iPhone journeys and three final 9.5 scores remain.
+Last verified 7 November, 20:56 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. [Size decision](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441)
-- In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.
-- The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. [Stores repair and test receipt](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189)
+- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)
+- In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.
+- The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check.
 - [Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.
 - [Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview.
 
 ## What still needs to pass
 
-- **5. Buyer trust and WhatsApp reviews** — The staff TEST walk needs the original quote repair #5490 released; its existing retry follows a neighbouring timeout. The staff TEST captain completes Use and Dismiss, buyer consent and withdrawal on served source. Close only with the complete signed journey receipt.
+- **5. Buyer trust and WhatsApp reviews** — All five CI groups passed for the staff quote repair. Its protected review was deferred when the reviewer was unavailable. After approval and release, the staff TEST captain checks Use, Dismiss, buyer consent and withdrawal. [Successful test run](https://github.com/EON-CRUX/3.09/actions/runs/42371920893/attempts/2)
 - **6. Assistant privacy facts** — The signed run passed 8 of 9 checks; the second shopper reached a storefront password screen. Original repair #5502 is Ready. The original captain completes the remaining account-isolation path after qualified release. Export and persistent deletion passed; the full privacy gate remains open.
 - **8. Final three-model ratings** — Final source still needs the repaired shopping journeys, 200% text and small-iPhone evidence. Last full scores: Fable 9.05, Opus 8.75; Astra unqualified. The three original readers perform the remaining named-fix checks on the same finished draft. Close only when each averages at least 9.5 and no measure is below 9.
 - **10. Completed Shopify draft and handover** — Homepage and Identity original reviews/tests, closed-store correction, TEST checkout repair and native helper must finish; 0/7 current native journeys are verified. The release owners finish the existing lanes. Website lead installs eligible files privately and the original captains run connected TEST and iPhone checks. Close with the exact final theme files, complete journey evidence and handover.
