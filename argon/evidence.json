@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-07T16:13:21.795021+00:00",
+  "snapshot": "2026-11-07T16:29:22.411874+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,18 +132,18 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Four new ideas checked. Your edit is being built.",
+      "status": "First build caught in full-homepage verification; repair active.",
       "title": "A personal edit, built around the shopper’s choices.",
       "summary": "Argon proposed four experience improvements. The first is a quiet Your edit entry to real saved pieces. Astra is building it and Sol 6.1 is checking the actual homepage runtime independently. Earlier store-enquiry improvements remain recorded below.",
       "before": "Saved pieces already existed, but the selected October 3 homepage loads an archived controller with a different interface. Adding a second saved system would risk inconsistent behavior.",
       "after": "One small entry will show the real saved count or a useful empty state and open the existing Saved drawer. No forced welcome quiz, invented popularity, new tracking or unrequested cart additions.",
-      "resultTitle": "Ideas recovered and checked. The first build is in progress.",
-      "result": "The original Argon conversation returned all four requested ideas on 7 November. Its connection ended with an error, so this is recovered advisory text, not a clean review completion or quality score. The first build is not yet merged or installed. The separate homepage cleanup is PR #5504, with six regression tests and 10/10 targeted fault checks; protected review remains open.",
+      "resultTitle": "Ideas are becoming code. The actual journey must pass.",
+      "result": "Argon returned four current ideas in its original conversation. The first Your edit source is built, but actual-homepage verification found that a later-loading catalogue owner leaves its saved count disconnected. Astra is fixing the original source and Sol independently reproduced the failing journey. No merge, installation, conversion improvement or final rating is claimed. Separate homepage cleanup #5504 has its chair acknowledgment; protected review remains open.",
       "stages": [
         {
           "title": "Return to your choices.",
           "text": "Your edit uses actual saved pieces in this browser and opens the existing drawer. The first slice has no new product grid, cart controls or cross-device memory.",
-          "state": "Astra building / Sol independently verifying"
+          "state": "Original Astra repair / Sol full-homepage regression"
         },
         {
           "title": "Take a selected piece to a store.",
@@ -549,6 +549,11 @@
           "title": "Original Argon experience contribution recovered and fact-checked",
           "date": "7 November 2026, 16:03–16:11 UTC",
           "text": "Four complete ideas returned in the existing conversation. Current response was separated from older review output. Client selection was Argon High; independent server-model attestation is absent. Existing source corrected several assumptions about saved storage, product availability and enquiry text. No new rating, extra review round or provider retry."
+        },
+        {
+          "title": "Actual homepage catches a saved-entry disconnect",
+          "date": "7 November 2026, 16:24–16:25 UTC",
+          "text": "The real product Save button updates its own state and header count, but Your edit stays empty. Independent verification reproduced the same actual emitted catalogue path: 13 earlier cases pass and the new full-homepage case fails. The original builder owns the bounded initialization repair; no accepted build or Shopify installation yet."
         }
       ],
       "limit": "No conversion uplift or new 9.5 score is established. Your edit remains uninstalled work. Current final whole-draft passes are 0/3 and native journeys 0/7. Fable’s original contribution connection returned a weekly limit; its keeper owns recovery. The Shopify draft stays unpublished.",
