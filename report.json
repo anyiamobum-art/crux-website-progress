@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Homepage #5433 and Identity #5465 are Ready on accepted exact heads; their original reviews await the reader hold, while required tests continue. TEST setup #5445 merged at 12:34 UTC. Its first connected run passed steps 1–5 and stopped at signed-in step 6. Original repair #5493 is Ready. Staff test #5490 has a classified neighbouring timeout and one existing retry; no duplicate run was started.",
+  "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
+  "workerState": "Astra: homepage cleanup in a separate follow-up. Verification support: original TEST/review results and exact blockers. Website lead: public checklist, source-bound integration and private-draft verification. These are active scoped assignments; no replacement reviewers or duplicate test runs.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Verified the privacy helper’s independent Astra approval and passing five-group test run. Confirmed TEST repair #5493 has a current running test suite; its older Draft failure is superseded. The homepage and Identity repairs remain in their original second code reviews.",
+  "lastActualProgress": "Observed both duplicate shopping sections in the actual private Shopify homepage. Assigned the focused cleanup and reused-store design. Confirmed the privacy helper merged at 15:23 UTC and the review-seat hold was lifted. The signed privacy journey itself is still unverified.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The original review seats have a provider-access hold. The chair owns the existing recovery; no replacement reviewer or extra round is being started. TEST setup merged and its guest check passed; signed-in step six needs original repair #5493, whose current tests are running. Store-directory, native-helper and staff retries remain in the existing queue. The populated Looks rail still needs a TEST-safe fixture for its separate visual check.",
-  "current": "The homepage and shopper-identity repairs are accepted and queued for their original second code reviews. The chair reports the review seats held until 8 November, 11:05 UTC unless the existing connection recovery clears earlier. Required tests continue. Shopify theme 166627606744 stays unpublished; the owner alone approves going live.",
-  "next": "Finish the two original code reviews and required tests, then install their reviewed files into the private draft. Continue the original TEST password-session repair, staff test, populated Looks rail and seven iPhone journeys before the final design checks.",
-  "updated": "7 November, 15:01 UTC (23:01 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "remaining": "The unfinished work is acceptance, not a missing whole website: original code-review/test results; signed TEST checkout, privacy and staff actions; one populated Looks fixture; seven iPhone journeys; and three passing final design checks. The earlier overnight reviewer hold was lifted at 15:06–15:08 UTC. A new TEST shard failure is being reconciled with its original owner.",
+  "current": "Two parallel tracks: Astra is building the single Shop This Look and store-visit follow-up; the release team is finishing the original reviews, TEST and iPhone dependencies. The privacy helper #5483 merged at 15:23 UTC. Reviewer holds were lifted today; an actual review result is still required.",
+  "next": "Review and render the homepage cleanup. In parallel, consume the existing review and test results, install eligible merged files privately, and run the original signed TEST and iPhone checks on that source. Then return the evidence to the three original final readers.",
+  "updated": "7 November, 15:27 UTC (23:27 Shanghai). Six of eleven delivery items verified; native journeys 0/7; passing final whole-draft ratings 0/3. Homepage cleanup is newly requested work, not counted as a completed historical gate.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -191,7 +191,7 @@
     "verifiedPercent": 55,
     "remainingPercent": 45,
     "remaining": 5,
-    "fractionLabel": "6 of 11 delivery items verified. 5 remain (45%).",
+    "fractionLabel": "6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours).",
     "openHeading": "What remains · 5 items",
     "remainingLabel": "45% remaining",
     "verifiedLabel": "55% verified",
@@ -326,7 +326,7 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Checkout 12/12, account help 8/8, saved preferences and budget 8/8",
-      "evidence": "The signed shopper edited a budget and kept the preference after reload. The privacy test follow-up now has independent approval and awaits its final release check; the actual data download remains unverified. The TEST tee correctly hid its empty Looks rail. A populated rail, staff Use and Dismiss, consent and withdrawal still need checks."
+      "evidence": "The signed shopper edited a budget and kept the preference after reload. The privacy test follow-up merged at 15:23 UTC; the actual signed data download remains unverified. The TEST tee correctly hid its empty Looks rail. A populated rail, staff Use and Dismiss, consent and withdrawal still need checks."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -345,31 +345,43 @@
     }
   ],
   "recentChanges": [
-    "Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari.",
-    "Homepage and Identity repairs now have exact-head acceptance and are queued for their original second code reviews. The review seats are held until 8 November, 11:05 UTC unless the existing recovery clears earlier. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity repair](https://github.com/EON-CRUX/3.09/pull/5465)",
-    "The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. [Privacy helper approval](https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045)",
-    "TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. [Current TEST run](https://github.com/EON-CRUX/3.09/actions/runs/42375231317)",
-    "The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. [Stores](https://github.com/EON-CRUX/3.09/pull/5459) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446) · [Staff quote test](https://github.com/EON-CRUX/3.09/pull/5490)"
+    "The actual private homepage has two consecutive look-shopping sections. The new follow-up keeps the white Runway, renames it Shop This Look, and replaces the second placement with a store-visit chapter. The hero and standalone Looks page stay within their existing scope.",
+    "The privacy helper merged at 15:23 UTC. Its signed export, deletion and account-separation checks can follow once the merged source is served and the original test allocation is ready. [Merged privacy helper](https://github.com/EON-CRUX/3.09/pull/5483)",
+    "The original review-seat holds were lifted at 15:06–15:08 UTC. The earlier overnight wait is no longer the current blocker. Actual protected review results are still pending for the homepage and shopper-identity repairs. [Homepage](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity](https://github.com/EON-CRUX/3.09/pull/5465)",
+    "TEST repair #5493 has a failed shard in its current Ready run. The team is matching it to the original owner before any repair or retry; its older Draft guard failure is superseded by a passing Ready guard. [Current TEST run](https://github.com/EON-CRUX/3.09/actions/runs/42375231317)",
+    "The remaining checklist now names who owns each item, the exact prerequisite and the evidence that closes it. The unchanged 55% is an acceptance-checklist fraction, not a claim about coding effort or time left."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari."
+        "text": "The actual private homepage has two consecutive look-shopping sections. The new follow-up keeps the white Runway, renames it Shop This Look, and replaces the second placement with a store-visit chapter. The hero and standalone Looks page stay within their existing scope."
       }
     ],
     [
       {
-        "text": "Homepage and Identity repairs now have exact-head acceptance and are queued for their original second code reviews. The review seats are held until 8 November, 11:05 UTC unless the existing recovery clears earlier. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. "
+        "text": "The privacy helper merged at 15:23 UTC. Its signed export, deletion and account-separation checks can follow once the merged source is served and the original test allocation is ready. "
       },
       {
-        "text": "Homepage repair",
+        "text": "Merged privacy helper",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5483"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "The original review-seat holds were lifted at 15:06–15:08 UTC. The earlier overnight wait is no longer the current blocker. Actual protected review results are still pending for the homepage and shopper-identity repairs. "
+      },
+      {
+        "text": "Homepage",
         "url": "https://github.com/EON-CRUX/3.09/pull/5433"
       },
       {
         "text": " · "
       },
       {
-        "text": "Identity repair",
+        "text": "Identity",
         "url": "https://github.com/EON-CRUX/3.09/pull/5465"
       },
       {
@@ -378,19 +390,7 @@
     ],
     [
       {
-        "text": "The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. "
-      },
-      {
-        "text": "Privacy helper approval",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045"
-      },
-      {
-        "text": ""
-      }
-    ],
-    [
-      {
-        "text": "TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. "
+        "text": "TEST repair #5493 has a failed shard in its current Ready run. The team is matching it to the original owner before any repair or retry; its older Draft guard failure is superseded by a passing Ready guard. "
       },
       {
         "text": "Current TEST run",
@@ -402,56 +402,72 @@
     ],
     [
       {
-        "text": "The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. "
-      },
-      {
-        "text": "Stores",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5459"
-      },
-      {
-        "text": " · "
-      },
-      {
-        "text": "iPhone helper",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5446"
-      },
-      {
-        "text": " · "
-      },
-      {
-        "text": "Staff quote test",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5490"
-      },
-      {
-        "text": ""
+        "text": "The remaining checklist now names who owns each item, the exact prerequisite and the evidence that closes it. The unchanged 55% is an acceptance-checklist fraction, not a claim about coding effort or time left."
       }
     ]
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "Staff menu repair #5466 merged, but the next TEST walk stopped at quote preparation. Original follow-up #5490 contains the named corrections.",
-      "next": "Review and release that follow-up, then verify Use and Dismiss, buyer publication consent and withdrawal through the original tester."
+      "blocker": "The staff TEST walk needs the original quote repair #5490 released; its existing retry follows a neighbouring timeout.",
+      "next": "The staff TEST captain completes Use and Dismiss, buyer consent and withdrawal on served source. Close only with the complete signed journey receipt.",
+      "state": "Waiting on existing retry and release",
+      "owner": "Staff TEST captain and quote-repair owner",
+      "closes": "Staff actions and buyer consent/withdrawal all pass",
+      "timing": "About 10 min for the prepared walk after release; queue time unknown"
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Follow-up #5483 has passed all five test groups and received Opus plus independent Astra approval, but still needs the chair’s final release check and merge.",
-      "next": "Verify the released helper, then complete the original signed export, deletion and account-separation test. Code approval is not a passing privacy journey."
+      "blocker": "#5483 merged at 15:23 UTC, but the signed privacy journey is not yet passed.",
+      "next": "The original privacy captain binds served source and verifies export, deletion and isolation between shopper accounts. Close with all three observed outcomes, not the code approval.",
+      "state": "Merged; signed check next",
+      "owner": "Original privacy TEST captain",
+      "closes": "Export, deletion and account separation all pass on served source",
+      "timing": "About 10 min after served-source qualification and allocation"
     },
     {
       "label": "8. Final three-model ratings",
-      "blocker": "The current homepage still needs a 200% text check, connected shopping evidence, and small-iPhone timing. The last full reviews gave Fable 9.05 and Opus 8.75. Astra could score only one measure.",
-      "next": "Return the same tested draft to the three original readers for their final check of the named repairs. Each reader must average at least 9.5 with every measure at 9 or above."
+      "blocker": "Final source still needs the repaired shopping journeys, 200% text and small-iPhone evidence. Last full scores: Fable 9.05, Opus 8.75; Astra unqualified.",
+      "next": "The three original readers perform the remaining named-fix checks on the same finished draft. Close only when each averages at least 9.5 and no measure is below 9.",
+      "state": "Waiting on qualified evidence",
+      "owner": "Original three final reviewers",
+      "closes": "Each final result reaches 9.5 average, with no measure below 9",
+      "timing": "Review duration unknown; only permitted named-fix checks remain"
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "Homepage integration #5433 is repaired and pushed for its original second review; closed-store removal #5459 has a queued infrastructure retry. The iPhone discovery helper #5446 has a queued retry.",
-      "next": "Finish protected reviews and private installation, then complete the seven original iPhone journeys, 200% text checks, size selection and store directions. Keep the theme unpublished for owner approval."
+      "blocker": "Homepage and Identity original reviews/tests, closed-store correction, TEST checkout repair and native helper must finish; 0/7 current native journeys are verified.",
+      "next": "The release owners finish the existing lanes. Website lead installs eligible files privately and the original captains run connected TEST and iPhone checks. Close with the exact final theme files, complete journey evidence and handover.",
+      "state": "Review, TEST and device work in progress",
+      "owner": "Website lead, release desk and original TEST/iPhone captains",
+      "closes": "Eligible files privately installed; connected checks and 7/7 native journeys pass; final handover prepared",
+      "timing": "Bounded install about 10 min after merge; total queue and device time unknown"
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "The installed title fits at widths of 320, 380 and 1280 pixels. The native shopping journey and return to the collection still need a device check.",
-      "next": "Follow a product from Big Bag, use Back and verify that the shopper returns to the expected place. Include that result in the final review."
+      "blocker": "Desktop title fitting passed. Native product-to-Back restoration is still unverified.",
+      "next": "The original iPhone captain follows a Big Bag product and returns to the expected collection and scroll position. Close with that device receipt; this shares the native run with item 10.",
+      "state": "Native check pending",
+      "owner": "Original iPhone captain",
+      "closes": "Product → Back returns to the correct collection and position",
+      "timing": "About 5 min within the same native allocation, not another build"
+    }
+  ],
+  "homepageDirection": [
+    {
+      "change": "Single shopping section",
+      "state": "In progress",
+      "action": "Keep the selected white Runway, name it Shop This Look, remove only the duplicate homepage placement."
+    },
+    {
+      "change": "Store-visit chapter",
+      "state": "In progress",
+      "action": "Reuse the current directory and directions. Never copy the archive's closed-store list."
+    },
+    {
+      "change": "Catalogue discovery",
+      "state": "Recommendation prepared",
+      "action": "Combine campaign photography, complete looks and real collection links with product browsing. Bestsellers need real sales evidence or an explicitly maintained collection."
     }
   ],
   "finalRatingState": "0 of 3 passing ratings",
@@ -459,254 +475,34 @@
     "steps": [
       {
         "complete": true,
-        "text": "Reconcile launch authority and keep Shopify unpublished (11:53Z–11:56Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Open the actual October 3 private homepage for scrolling (11:56Z–11:59Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify current release heads and original design authorship (11:54Z–12:00Z, took 6 min)."
-      },
-      {
-        "complete": true,
-        "text": "Prove the homepage’s two named test repairs and make one repair push (11:59Z–12:05Z, took 6 min; 9 tests and 20 mutations passed)."
-      },
-      {
-        "complete": true,
-        "text": "Obtain exact-head acceptance and admission to the original second review (accept 12:41Z; Ready 13:05Z; verified 14:46Z)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the TEST setup merge and its actual guest/signed results (14:46Z–14:50Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Rebind the prepared one-file homepage installation to the accepted repair head (14:50Z–14:52Z, took 2 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the privacy helper’s independent approval and reconcile TEST’s actual current run (14:55Z–15:01Z, took 6 min)."
+        "text": "Inspect the actual duplicate sections and recover reusable source (15:16Z–15:26Z, took about 10 min)."
       },
       {
         "complete": false,
-        "text": "Complete original second reviews and hosted tests for homepage and Identity (tests admitted; review-seat hold until 8 November 11:05Z unless recovered earlier; next check 15:25Z)."
-      },
-      {
-        "complete": true,
-        "text": "Verify checkout’s first approval and all five current test groups (09:28Z–09:34Z, took6min)."
-      },
-      {
-        "complete": true,
-        "text": "Complete checkout’s two protected reviews and merge (09:28Z–09:46Z, took18min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify checkout deployment and served code (09:46Z–09:52Z, took6min)."
-      },
-      {
-        "complete": true,
-        "text": "Reconcile the mobile failure details, provider stop and homepage owner into the current handoff (10:10Z–10:18Z, took8min)."
-      },
-      {
-        "complete": true,
-        "text": "Complete the admitted TEST delivery-total journey:12/12 checks passed (10:01Z–10:21Z, took20min including grant and verification; the run itself took111seconds)."
-      },
-      {
-        "complete": true,
-        "text": "Verify all five Near me test groups (00:40Z–01:35Z, took 55 min)."
-      },
-      {
-        "complete": true,
-        "text": "Compare both phone Add to bag files with the unpublished theme and verify the existing Looks rail setting (02:03Z–02:05Z, took 2 min)."
-      },
-      {
-        "complete": true,
-        "text": "Merge Near me, install both files in the unpublished theme and verify the served directory (02:10Z–02:15Z, took 5 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify that choosing a store changes its card and directions link. This exposed a closed shop in the directory (02:55Z–02:59Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the staff TEST prerequisite on the deployed EON shell and return it to the original owner (03:06Z–03:09Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the staff helper’s merge and running EON version, and confirm the original staff owners received it (07:31Z–07:35Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify that the guest repair passed all 160 guard checks, resolved its branch conflict, and entered protected testing (07:42Z–07:48Z, took 6 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify all five hosted guest test groups and the first code approval (23:00Z–23:05Z, took 5 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify both reviews, merge and the served build for the guest sign-in and signed-budget tests (23:05Z–23:19Z, took 14 min)."
-      },
-      {
-        "complete": true,
-        "text": "Recover the TEST tee’s eight-step receipt and verify the hidden empty Looks rail matched the actual product (23:17Z–23:20Z, took 3 min)."
+        "text": "Build the single Shop This Look and store-visit follow-up in parallel (started 15:27Z, est. 25 min for candidate; review and installation separate)."
       },
       {
         "complete": false,
-        "text": "Verify the populated Looks rail. The TEST catalogue has zero studio looks. Use an approved TEST-only look linked to the tee (est. 5 min once supplied)."
-      },
-      {
-        "complete": true,
-        "text": "Verify all eight signed-shopper preference and naira-budget steps on TEST (23:21Z–23:25Z, took 4 min including receipt verification)."
+        "text": "Clarify and publish the five remaining gates with owners and closing evidence (started 15:27Z, est. 10 min)."
       },
       {
         "complete": false,
-        "text": "Verify Use and Dismiss in signed TEST after #5490 passes its existing queued retry, merges and serves (est. 5 min once released; prior 08:04Z–08:06Z menu failure is superseded by the later quote-preparation repair)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the new staff test plan includes the deployed repair and all five groups were scheduled (03:11Z–03:12Z, took 1 min)."
-      },
-      {
-        "complete": true,
-        "text": "Decline location in Chrome Guest and verify the fallback on the private draft (03:25Z–03:30Z, took 5 min)."
-      },
-      {
-        "complete": true,
-        "text": "Prepare the Osapa fix, verify all five candidate files and check that both routes preserve every other setting (03:39Z–04:00Z, took 21 min)."
-      },
-      {
-        "complete": true,
-        "text": "Reconcile the merged directory dependency, the actual failed run and its place in the reopened desk queue (17:55Z–18:02Z, took 7 min)."
-      },
-      {
-        "complete": true,
-        "text": "Identify the separate failed Add to bag check and return its cancelled job to the release desk (18:00Z–18:03Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Confirm both distinct test retries reached GitHub (19:07Z–19:15Z, took 8 min)."
+        "text": "Consume original protected reviews and queued tests (waiting on actual results; hold lifted 15:08Z; next check 15:45Z)."
       },
       {
         "complete": false,
-        "text": "Merge #5459, install the five private files and verify the three stores on both routes (est. 5 min for hosted verification after protected merge and installation)."
-      },
-      {
-        "complete": true,
-        "text": "Verify Add to bag’s five hosted test groups and the passing aggregate (19:07Z–21:05Z, took 118 min including queue time)."
-      },
-      {
-        "complete": true,
-        "text": "Trace the staff Runway timeout and compare unchanged source across two hosted runs (21:53Z–21:57Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the final Add to bag check (22:02Z–22:09Z, took 7 min). Confirm that the two installed Shopify files still match their saved originals (22:14Z)."
-      },
-      {
-        "complete": true,
-        "text": "Finish both Add to bag reviews, install the two reviewed files on the unpublished theme and verify one tap adds exactly one item in Safari. Remove the test item and verify the empty bag (22:32Z–22:39Z, took 7 min)."
-      },
-      {
-        "complete": true,
-        "text": "Complete the full test run for the empty-cart repair (01:22Z–04:06Z, took 164 min including queue time). All five groups passed."
-      },
-      {
-        "complete": true,
-        "text": "Complete both cart code reviews and verify the protected merge (04:06Z–04:30Z, took 24 min)."
-      },
-      {
-        "complete": true,
-        "text": "Match the merged cart file and rollback to the unpublished theme, and confirm one file in the installation plan (04:46Z–04:50Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Install the reviewed cart repair in the private Shopify theme and verify the returned file (05:08Z–05:09Z, took 1 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify both first-add paths on the unpublished theme (05:10Z–05:13Z, took 3 min). Each produced one item."
-      },
-      {
-        "complete": true,
-        "text": "Verify the homepage layout and its dependencies directly in Shopify, and return the repair for protected review (05:16Z–05:20Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Deliver the homepage repair to the release desk’s intake and verify the handoff (05:57Z–05:59Z, took 2 min)."
-      },
-      {
-        "complete": true,
-        "text": "Deliver the collection Quick Add analytics repair brief, including the product-page control and duplicate-event checks (05:59Z–06:03Z, took 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Confirm the original tracking repair and supply the exact draft file for its browser test. The writer reproduced the lost event and passed 18 simulated cases. Its patch then applied to the witnessed file (07:10Z–07:29Z, took 19 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify all six collection and product tracking checks on a served copy and reproduce the failure on the original controls (07:53Z; elapsed time unmeasured)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the tracking repair’s 17 test files and all 12 fault checks. Prepare both reviewed-candidate files and their rollback copies for the private draft (07:55Z–08:16Z, took 21 min including the test run)."
-      },
-      {
-        "complete": true,
-        "text": "Trace the repeat-add tracking discrepancy to the original source and return it to the original holder (08:25Z–08:28Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Reproduce the cumulative-line error and correct repeat-add tracking (08:30Z–08:38Z, took 8 min to the writer’s verified return). Three focused checks passed."
-      },
-      {
-        "complete": true,
-        "text": "Verify six browser cases and all 13 fault checks, confirm exact-source acceptance and prepare the two private-theme files (08:37Z–09:03Z, including external tests and release preparation)."
+        "text": "Complete signed privacy, checkout, staff actions and populated Looks checks (original owners; each waits only on its named source/access prerequisite; next source check 15:45Z)."
       },
       {
         "complete": false,
-        "text": "Merge the tracking repair after protected reviews, install the two verified files in the unpublished theme and repeat the shopper check (est. 10 min for the bounded check after merge)."
-      },
-      {
-        "complete": true,
-        "text": "Verify both store-panel code reviews, all five test groups, the protected merge and the deployed version. Return the result to the phone-button release queue (06:28Z–06:56Z)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the replacement staff menu test, all 87 fault checks and its place second in the release queue (08:25Z–08:31Z, took 6 min)."
+        "text": "Complete seven iPhone journeys including Big Bag return and 200% text checks (waiting on qualified helper and original device allocation; duration unknown)."
       },
       {
         "complete": false,
-        "text": "Verify the staff actions in TEST after that test deploys and its original access is renewed (est. 10 min after release)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the homepage’s place in the release queue, the phone button’s retry decision and the collection Add tracking contract (06:17Z–06:24Z)."
-      },
-      {
-        "complete": false,
-        "text": "Complete protected review and merge of the homepage integration, then install and verify the single layout in the unpublished theme (est. 10 min after merge and installation clearance)."
-      },
-      {
-        "complete": true,
-        "text": "Complete the 100-case shopping-assistant comparison. The decision fix merged at 19:57Z, the measured run finished at 20:27Z, and the original reviewer closed the study at 20:45Z. Fable remains the shopping planner."
-      },
-      {
-        "complete": false,
-        "text": "Complete the product-discovery helper’s protected run, then use the original device allocation for the seven iPhone checks (first wait 1 November 08:59Z, run time pending allocation)."
-      },
-      {
-        "complete": false,
-        "text": "Install eligible merged fixes and complete each original acceptance check against that source (est.10min for the bounded visual check after release; full suite duration unknown)."
-      },
-      {
-        "complete": false,
-        "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
+        "text": "Finish the three original final named-fix reviews and unpublished handover (after qualified evidence; review duration unknown)."
       }
     ],
-    "landing": "Lands: final date unknown; code-review queues, TEST repairs and native evidence remain. Next source check 15:25Z; no live Shopify publication."
+    "landing": "Lands: homepage candidate targeted about 15:52Z, subject to tests; launch-ready draft time is not yet defensible while protected reviews and native acceptance remain. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
