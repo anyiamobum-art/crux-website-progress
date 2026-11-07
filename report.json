@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 23:36 UTC the designer opened outfit 03, Red on pink, and inspected its pieces. Close and browser Back restored focus and the exact 1,557 px scroll position. Forward reopened the same outfit. The result was recorded on #5518 at 23:37 UTC.",
+  "lastActualProgress": "Stores entered protected review at 23:57 UTC. The Shop This Look review identified a way shoppers could lose their place after visiting a product. The finding is back with the original designer.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Shop This Look passed the required interaction on the served private preview. Close and browser Back returned the shopper to the same outfit without losing their place. The original designer posted the result and the release desk received it.",
-  "next": "The release desk takes Shop This Look and Stores through their separate protected reviews. After merge, the website team installs their approved files in the unpublished theme and checks the shopping journeys on that version.",
-  "updated": "07 November, 23:39 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final passing scores remain.",
+  "current": "Shop This Look and Stores have both entered protected review. The original viewer designer is fixing one return-navigation issue. Stores is being checked on the same version that passed its private motion tests.",
+  "next": "Verify the viewer fix by leaving for a product page, making the browser recreate the homepage on Back, then closing the look at its original scroll position. Apply the reviewed changes to the private Shopify theme after merge.",
+  "updated": "07 November, 23:58 UTC. Six of eleven delivery gates are verified. Signed privacy is at 8/9, native iPhone journeys at 0/7, and final passing ratings at 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,57 +345,58 @@
     }
   ],
   "recentChanges": [
-    "The original designer [verified Shop This Look on the served preview](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012). The product link and unlisted-shorts note appeared. Closing or going back preserved the outfit, focus and exact scroll position. Desktop Chromium was sized to 430 × 844. Protected review and iPhone verification remain open.",
-    "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.",
-    "Close and browser Back had sent shoppers to the top of the page. Now both actions return to the same outfit button at scroll position 844px, with zero shift across eight Chromium measurements. The desktop WebKit check also returned the selected look to its original 820px position.",
-    "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit.",
-    "The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
+    "[Shop This Look review](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714651274) found one case where a shopper loses their place: open an outfit, visit a product, go Back after the browser recreates the homepage, then close the outfit. Its original designer has the repair.",
+    "[Stores entered protected review](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714736219). The three-store private preview passed 19 combined checks, including directions links. The original motion build supports rapid changes of store and reduced motion.",
+    "[The served viewer check](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012) passed for a visit that stayed on the homepage. Closing returned to the Red on pink outfit at exactly 1,557 px and Forward reopened it.",
+    "The [TEST shopper session fix](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6714523161) passed its first code review. The second-shopper privacy check still requires its separate repair and a connected TEST run."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "The original designer "
+        "text": ""
       },
       {
-        "text": "verified Shop This Look on the served preview",
+        "text": "Shop This Look review",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714651274"
+      },
+      {
+        "text": " found one case where a shopper loses their place: open an outfit, visit a product, go Back after the browser recreates the homepage, then close the outfit. Its original designer has the repair."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Stores entered protected review",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714736219"
+      },
+      {
+        "text": ". The three-store private preview passed 19 combined checks, including directions links. The original motion build supports rapid changes of store and reduced motion."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "The served viewer check",
         "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012"
       },
       {
-        "text": ". The product link and unlisted-shorts note appeared. Closing or going back preserved the outfit, focus and exact scroll position. Desktop Chromium was sized to 430 × 844. Protected review and iPhone verification remain open."
+        "text": " passed for a visit that stayed on the homepage. Closing returned to the Red on pink outfit at exactly 1,557 px and Forward reopened it."
       }
     ],
     [
       {
-        "text": "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open."
-      }
-    ],
-    [
-      {
-        "text": "Close and browser Back had sent shoppers to the top of the page. Now both actions return to the same outfit button at scroll position 844px, with zero shift across eight Chromium measurements. The desktop WebKit check also returned the selected look to its original 820px position."
-      }
-    ],
-    [
-      {
-        "text": "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit."
-      }
-    ],
-    [
-      {
-        "text": "The desktop designer fixed rapid Clear and missing press feedback. Combining "
+        "text": "The "
       },
       {
-        "text": "the motion change",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
+        "text": "TEST shopper session fix",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6714523161"
       },
       {
-        "text": " with "
-      },
-      {
-        "text": "the directory correction",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5459"
-      },
-      {
-        "text": " passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
+        "text": " passed its first code review. The second-shopper privacy check still requires its separate repair and a connected TEST run."
       }
     ]
   ],
@@ -459,8 +460,8 @@
     },
     {
       "change": "Higgsfield design refinement",
-      "state": "Viewer #5518 and Stores #5519 submitted",
-      "action": "The viewer pairs the selected outfit with its pieces. Stores updates directions immediately and animates the list around the selected shop. The chair admitted the viewer’s size. The designer fixed both interaction findings, Sol closed them in source and Hands accepted the corrected Stores version. Protected review and Shopify installation follow."
+      "state": "Two working private previews in protected review",
+      "action": "Shop This Look pairs the chosen outfit with its actual pieces. A product-page return needs repair. In Stores, directions change as soon as a shop is selected and the cards move into place. The collection and product-detail refinements are specified for later implementation."
     },
     {
       "change": "Higgsfield media connection",
@@ -547,8 +548,12 @@
         "text": "Exercise the served viewer on the recorded revision and post the original designer’s result (23:36Z–23:37Z, took 1 min)."
       },
       {
+        "complete": true,
+        "text": "Enter protected review for Shop This Look (23:43 UTC) and Stores (23:57 UTC)."
+      },
+      {
         "complete": false,
-        "text": "Complete the protected reviews and merges for Shop This Look and Stores. Each has its own release slot."
+        "text": "Fix and verify the product-page return in Shop This Look, then complete both protected reviews and merges."
       },
       {
         "complete": false,
