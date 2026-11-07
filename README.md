@@ -8,22 +8,22 @@
 
 6 of 11 delivery items verified. 5 remain (45%). 0 of 3 passing ratings.
 
-Last verified 7 November, 14:52 UTC (22:52 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.
+Last verified 7 November, 15:01 UTC (23:01 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- The owner explicitly confirmed launch-ready only. The Shopify theme remains unpublished; only the owner can approve going live. The actual private October 3 homepage is open in Safari.
-- The first homepage code review found two missing safety tests. Both are fixed and pushed by the original writer; all 9 tests and 20 mutation checks passed. Its second review is next. The existing design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433)
-- The staff repair merged. Its next TEST walk passed the opening steps but failed quote preparation; the original owner has the two named fixes in #5490. The privacy diagnostic also merged and returns to its original TEST owner. [Staff repair](https://github.com/EON-CRUX/3.09/pull/5466) · [Quote follow-up](https://github.com/EON-CRUX/3.09/pull/5490) · [Privacy diagnostic](https://github.com/EON-CRUX/3.09/pull/5472)
-- The closed-store repair's third hosted attempt failed on a runner. The original desk already classified it and queued its fourth attempt. The iPhone helper has a separate queued retry; neither is being duplicated. [Store-directory run](https://github.com/EON-CRUX/3.09/actions/runs/42162738189) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446)
-- The tracking repair has a new accepted head and size admission, and is awaiting its second full review. This will verify the quantity and price attributed to a repeated one-piece add. [Tracking repair](https://github.com/EON-CRUX/3.09/pull/5465)
+- Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari.
+- Homepage and Identity repairs now have exact-head acceptance and are in their original second code reviews. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity repair](https://github.com/EON-CRUX/3.09/pull/5465)
+- The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. [Privacy helper approval](https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045)
+- TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. [Current TEST run](https://github.com/EON-CRUX/3.09/actions/runs/42375231317)
+- The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. [Stores](https://github.com/EON-CRUX/3.09/pull/5459) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446) · [Staff quote test](https://github.com/EON-CRUX/3.09/pull/5490)
 
 ## What still needs to pass
 
 - **5. Buyer trust and WhatsApp reviews** — Staff menu repair #5466 merged, but the next TEST walk stopped at quote preparation. Original follow-up #5490 contains the named corrections. Review and release that follow-up, then verify Use and Dismiss, buyer publication consent and withdrawal through the original tester.
-- **6. Assistant privacy facts** — The signed shopper data download failed at step six. Diagnostic #5472 is now merged; that is not a passing export test. Use the deployed diagnostic on the original TEST accounts and verify export, deletion and account separation.
+- **6. Assistant privacy facts** — Follow-up #5483 has passed all five test groups and received Opus plus independent Astra approval, but still needs the chair’s final release check and merge. Verify the released helper, then complete the original signed export, deletion and account-separation test. Code approval is not a passing privacy journey.
 - **8. Final three-model ratings** — The current homepage still needs a 200% text check, connected shopping evidence, and small-iPhone timing. The last full reviews gave Fable 9.05 and Opus 8.75. Astra could score only one measure. Return the same tested draft to the three original readers for their final check of the named repairs. Each reader must average at least 9.5 with every measure at 9 or above.
 - **10. Completed Shopify draft and handover** — Homepage integration #5433 is repaired and pushed for its original second review; closed-store removal #5459 has a queued infrastructure retry. The iPhone discovery helper #5446 has a queued retry. Finish protected reviews and private installation, then complete the seven original iPhone journeys, 200% text checks, size selection and store directions. Keep the theme unpublished for owner approval.
 - **11. BIG BAG page and navigation** — The installed title fits at widths of 320, 380 and 1280 pixels. The native shopping journey and return to the collection still need a device check. Follow a product from Big Bag, use Back and verify that the shopper returns to the expected place. Include that result in the final review.

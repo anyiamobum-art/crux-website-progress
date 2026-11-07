@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Consumed the exact-head acceptance and Ready returns for both repairs. Rebound the homepage installation plan to the repaired head after proving its assembly inputs unchanged. Verified the TEST setup merge and actual partial-run result, and corrected the old review wait.",
+  "lastActualProgress": "Verified the privacy helper’s independent Astra approval and passing five-group test run. Confirmed TEST repair #5493 has a current running test suite; its older Draft failure is superseded. The homepage and Identity repairs remain in their original second code reviews.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -140,7 +140,7 @@
   "remaining": "The homepage and Identity repairs await protected review and tests. TEST setup has merged, and its guest check passed; the signed-in step reached the store-password screen and is addressed by original repair #5493. Existing retries for the store-directory correction, native helper and staff test are queued with the release desk. The TEST catalogue still needs an approved look for its populated rail.",
   "current": "The homepage and shopper-identity repairs are accepted and in their original second code reviews. Homepage testing has one of five groups passed; the others are queued. Shopify theme 166627606744 stays unpublished. The owner alone approves going live.",
   "next": "Finish the two original code reviews and required tests, then install their reviewed files into the private draft. Continue the original TEST password-session repair, staff test, populated Looks rail and seven iPhone journeys before the final design checks.",
-  "updated": "7 November, 14:52 UTC (22:52 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "updated": "7 November, 15:01 UTC (23:01 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -326,7 +326,7 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Checkout 12/12, account help 8/8, saved preferences and budget 8/8",
-      "evidence": "The signed shopper edited a budget and kept the preference after reload. The separate data download stopped at step six. The TEST tee correctly hid its empty Looks rail. A populated rail, staff Use and Dismiss, consent and withdrawal still need checks."
+      "evidence": "The signed shopper edited a budget and kept the preference after reload. The privacy test follow-up now has independent approval and awaits its final release check; the actual data download remains unverified. The TEST tee correctly hid its empty Looks rail. A populated rail, staff Use and Dismiss, consent and withdrawal still need checks."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -345,51 +345,32 @@
     }
   ],
   "recentChanges": [
-    "The owner explicitly confirmed launch-ready only. The Shopify theme remains unpublished; only the owner can approve going live. The actual private October 3 homepage is open in Safari.",
-    "The first homepage code review found two missing safety tests. Both are fixed and pushed by the original writer; all 9 tests and 20 mutation checks passed. Its second review is next. The existing design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433)",
-    "The staff repair merged. Its next TEST walk passed the opening steps but failed quote preparation; the original owner has the two named fixes in #5490. The privacy diagnostic also merged and returns to its original TEST owner. [Staff repair](https://github.com/EON-CRUX/3.09/pull/5466) · [Quote follow-up](https://github.com/EON-CRUX/3.09/pull/5490) · [Privacy diagnostic](https://github.com/EON-CRUX/3.09/pull/5472)",
-    "The closed-store repair's third hosted attempt failed on a runner. The original desk already classified it and queued its fourth attempt. The iPhone helper has a separate queued retry; neither is being duplicated. [Store-directory run](https://github.com/EON-CRUX/3.09/actions/runs/42162738189) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446)",
-    "The tracking repair has a new accepted head and size admission, and is awaiting its second full review. This will verify the quantity and price attributed to a repeated one-piece add. [Tracking repair](https://github.com/EON-CRUX/3.09/pull/5465)"
+    "Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari.",
+    "Homepage and Identity repairs now have exact-head acceptance and are in their original second code reviews. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity repair](https://github.com/EON-CRUX/3.09/pull/5465)",
+    "The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. [Privacy helper approval](https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045)",
+    "TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. [Current TEST run](https://github.com/EON-CRUX/3.09/actions/runs/42375231317)",
+    "The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. [Stores](https://github.com/EON-CRUX/3.09/pull/5459) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446) · [Staff quote test](https://github.com/EON-CRUX/3.09/pull/5490)"
   ],
   "recentChangeParts": [
     [
       {
-        "text": "The owner explicitly confirmed launch-ready only. The Shopify theme remains unpublished; only the owner can approve going live. The actual private October 3 homepage is open in Safari."
+        "text": "Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari."
       }
     ],
     [
       {
-        "text": "The first homepage code review found two missing safety tests. Both are fixed and pushed by the original writer; all 9 tests and 20 mutation checks passed. Its second review is next. The existing design is unchanged. "
+        "text": "Homepage and Identity repairs now have exact-head acceptance and are in their original second code reviews. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. "
       },
       {
         "text": "Homepage repair",
         "url": "https://github.com/EON-CRUX/3.09/pull/5433"
       },
       {
-        "text": ""
-      }
-    ],
-    [
-      {
-        "text": "The staff repair merged. Its next TEST walk passed the opening steps but failed quote preparation; the original owner has the two named fixes in #5490. The privacy diagnostic also merged and returns to its original TEST owner. "
-      },
-      {
-        "text": "Staff repair",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5466"
-      },
-      {
         "text": " · "
       },
       {
-        "text": "Quote follow-up",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5490"
-      },
-      {
-        "text": " · "
-      },
-      {
-        "text": "Privacy diagnostic",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5472"
+        "text": "Identity repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5465"
       },
       {
         "text": ""
@@ -397,11 +378,35 @@
     ],
     [
       {
-        "text": "The closed-store repair's third hosted attempt failed on a runner. The original desk already classified it and queued its fourth attempt. The iPhone helper has a separate queued retry; neither is being duplicated. "
+        "text": "The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. "
       },
       {
-        "text": "Store-directory run",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42162738189"
+        "text": "Privacy helper approval",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. "
+      },
+      {
+        "text": "Current TEST run",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42375231317"
+      },
+      {
+        "text": ""
+      }
+    ],
+    [
+      {
+        "text": "The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. "
+      },
+      {
+        "text": "Stores",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5459"
       },
       {
         "text": " · "
@@ -411,16 +416,11 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5446"
       },
       {
-        "text": ""
-      }
-    ],
-    [
-      {
-        "text": "The tracking repair has a new accepted head and size admission, and is awaiting its second full review. This will verify the quantity and price attributed to a repeated one-piece add. "
+        "text": " · "
       },
       {
-        "text": "Tracking repair",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5465"
+        "text": "Staff quote test",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5490"
       },
       {
         "text": ""
@@ -435,8 +435,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The signed shopper data download failed at step six. Diagnostic #5472 is now merged; that is not a passing export test.",
-      "next": "Use the deployed diagnostic on the original TEST accounts and verify export, deletion and account separation."
+      "blocker": "Follow-up #5483 has passed all five test groups and received Opus plus independent Astra approval, but still needs the chair’s final release check and merge.",
+      "next": "Verify the released helper, then complete the original signed export, deletion and account-separation test. Code approval is not a passing privacy journey."
     },
     {
       "label": "8. Final three-model ratings",
@@ -484,6 +484,10 @@
       {
         "complete": true,
         "text": "Rebind the prepared one-file homepage installation to the accepted repair head (14:50Z–14:52Z, took 2 min)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the privacy helper’s independent approval and reconcile TEST’s actual current run (14:55Z–15:01Z, took 6 min)."
       },
       {
         "complete": false,
@@ -702,7 +706,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: Both approved settings changes are saved and verified. The separate storefront handover depends on TEST, iPhone and final reviews."
+    "landing": "Lands: final date unknown; code-review queues, TEST repairs and native evidence remain. Next source check 15:25Z; no live Shopify publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -716,7 +720,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: final date unknown; code-review queues, TEST repairs and native evidence remain. Next source check 15:25Z; no live Shopify publication.",
+    "landing": "Lands: Both approved settings changes are saved and verified. The separate storefront handover depends on TEST, iPhone and final reviews.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {
