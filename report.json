@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Original homepage builder: regression/pin proof and review packet. Website lead: integration, source-bound layout checks and private release. Adaptive support: source audit complete and adopted. Original TEST and native owners retain their existing running/queued work.",
+  "workerState": "Original Astra homepage builder completed the cleanup proof and stays assigned to its follow-up. Sol 6.1 verified the emitted source and is checking changed release results. Argon acknowledged the ideas brief and began inference. Fable returned usage_limit_reached; its original connection keeper owns recovery. Astra is preparing the separate Your edit follow-up, and Sol is independently verifying the actual runtime and states. Website lead owns integration and private release.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Rendered the complete rebuilt October 3 page with one Shop This Look, zero duplicate outfit modules and the new store visit. No horizontal overflow in the checked narrow layouts; the store CTA is about 72px high. Reuse audit identified five existing shopper capabilities and their integration limits. C08 repair #5502 is Ready on exact head 96694b4d.",
+  "lastActualProgress": "#5504 opened at c95dc4be with six tests, 10/10 mutation checks and a canonical checklist receipt. Sol confirmed no new must-fix cleanup defect and found the archived Saved runtime constraints before personalization. The public dashboard 055f430 served bytes matched. C08 remains 8/9 with original #5502 Ready; its current guards now pass. The #5446 helper still awaits its original queued retry after an unrelated menu-test timeout.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "The homepage cleanup is built and locally checked on desktop and narrow screens: one Shop This Look and a store-visit chapter. Required regression proof and protected review preparation continue. In parallel, the original privacy repair #5502 is Ready after the TEST journey passed 8 of 9 checks.",
-  "next": "Take the homepage cleanup through its required proof and review. Continue the original protected TEST and iPhone lanes. Connect existing saved-piece and product-context tools into the adaptive shopper plan; account memory and live behavioral ranking remain separately qualified.",
-  "updated": "7 November, 15:46 UTC (23:46 Shanghai). Historical delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Homepage visual checks are local, not installed-theme or final-review acceptance.",
+  "current": "The single Shop This Look and COME THROUGH store invitation is now PR #5504. Six regression tests and 10/10 targeted fault checks passed; original builder acceptance and independent source verification are recorded. Hands has the exact-head review request. Astra and Sol 6.1 are assigned to build and verify in parallel; Argon is executing the original-session ideas request. The original Fable connection returned a current weekly-limit refusal; its keeper has the evidence. No substitute review or score is claimed.",
+  "next": "Take #5504 through protected review and private installation. Collect original Argon/Fable experience contributions, then connect Your edit to the saved-piece implementation actually loaded by the homepage. Original TEST and iPhone lanes continue independently.",
+  "updated": "7 November, 16:05 UTC (8 November, 00:05 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. New source and local layout proof are not installed-theme or final-review acceptance.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "Built the requested single Shop This Look and replaced the duplicate with COME THROUGH: a store-directory invitation. Local desktop and narrow-screen layout checks passed; code review and private installation remain.",
+    "[Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain.",
     "Mapped existing saved pieces, recent pieces, product-aware help, manual store choice and related products for the adaptive experience. No hidden profiling or new tracking was enabled.",
     "Privacy TEST passed 8 of 9 checks, including export, persistent deletion and refusal of stale/forged access. The second shopper hit the storefront password screen; original repair [#5502](https://github.com/EON-CRUX/3.09/pull/5502) is Ready.",
     "The public checklist now names the owner, exact blocker, next action and closing evidence for each of the five unfinished outcomes. Its 45% is a checklist fraction, not a time estimate."
@@ -353,7 +353,14 @@
   "recentChangeParts": [
     [
       {
-        "text": "Built the requested single Shop This Look and replaced the duplicate with COME THROUGH: a store-directory invitation. Local desktop and narrow-screen layout checks passed; code review and private installation remain."
+        "text": ""
+      },
+      {
+        "text": "Homepage cleanup #5504",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
+      },
+      {
+        "text": " is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain."
       }
     ],
     [
@@ -429,7 +436,7 @@
   "homepageDirection": [
     {
       "change": "Single shopping section",
-      "state": "Built; protected proof and review pending",
+      "state": "PR #5504; proof passed, protected review requested",
       "action": "The selected Runway now reads Shop This Look. Only the later duplicate homepage placement is removed."
     },
     {
@@ -444,7 +451,7 @@
     },
     {
       "change": "Adaptive experience",
-      "state": "Existing capabilities mapped; integration next",
+      "state": "Astra build and Sol verification running; Argon ideas running; Fable connection limit recorded",
       "action": "First visits get clear ways to shop; returning visitors can continue actual saved pieces. Product help follows the selected piece; store visits follow a manually chosen location. Two shoppers making the same choices may see the same suggestions."
     },
     {
@@ -462,7 +469,7 @@
       },
       {
         "complete": true,
-        "text": "Build and locally render the single Shop This Look and store-visit candidate (15:27Z–15:44Z, took about 17 min; protected proof/review remain)."
+        "text": "Build and locally render the single Shop This Look and store-visit candidate (15:27Z–15:44Z, took about 17 min)."
       },
       {
         "complete": true,
@@ -470,15 +477,19 @@
       },
       {
         "complete": true,
-        "text": "Map existing components for the adaptive shopper journey (15:38Z–15:45Z, took about 7 min; source audit, not activation)."
+        "text": "Map reusable shopper components and verify the emitted runtime (15:38Z–15:59Z, took about 21 min; source and fixture proof, not activation)."
+      },
+      {
+        "complete": true,
+        "text": "Complete homepage regression proof and open the protected review change (15:44Z–15:58Z, took about 14 min; #5504, six tests and 10/10 fault checks)."
       },
       {
         "complete": false,
-        "text": "Complete homepage regression proof, source review and original protected publication (started 15:44Z, est. 15 min for proof/packet; hosted queue time unknown)."
+        "text": "Collect original experience contributors and build the smallest useful adaptive follow-up (started 15:54Z, est. 20 min for contributions and scope; provider response time may move this)."
       },
       {
         "complete": false,
-        "text": "Consume original protected review and TEST results, install eligible merged files privately (waiting on original results; next check 16:00Z)."
+        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 16:30Z or result)."
       },
       {
         "complete": false,
@@ -489,7 +500,7 @@
         "text": "Complete seven iPhone journeys and the three original final named-fix reviews (after qualified source/evidence; queue and review duration unknown)."
       }
     ],
-    "landing": "Lands: homepage proof packet targeted about 15:59Z; launch-ready draft time remains unknown until protected reviews and native acceptance finish. No live publication."
+    "landing": "Lands: experience contributions and first bounded adaptive scope targeted about 16:14Z. Launch-ready draft time remains unknown until protected reviews and native acceptance finish. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

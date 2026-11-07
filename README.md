@@ -8,13 +8,13 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 15:46 UTC (23:46 Shanghai). Historical delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Homepage visual checks are local, not installed-theme or final-review acceptance.
+Last verified 7 November, 16:05 UTC (8 November, 00:05 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. New source and local layout proof are not installed-theme or final-review acceptance.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- Built the requested single Shop This Look and replaced the duplicate with COME THROUGH: a store-directory invitation. Local desktop and narrow-screen layout checks passed; code review and private installation remain.
+- [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain.
 - Mapped existing saved pieces, recent pieces, product-aware help, manual store choice and related products for the adaptive experience. No hidden profiling or new tracking was enabled.
 - Privacy TEST passed 8 of 9 checks, including export, persistent deletion and refusal of stale/forged access. The second shopper hit the storefront password screen; original repair [#5502](https://github.com/EON-CRUX/3.09/pull/5502) is Ready.
 - The public checklist now names the owner, exact blocker, next action and closing evidence for each of the five unfinished outcomes. Its 45% is a checklist fraction, not a time estimate.
