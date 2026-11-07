@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original designer accepted the repaired viewer for independent review. The Stores changes passed their combined directory tests. The second-shopper test repair passed its first code review and its hosted tests are running.",
+  "workerState": "The second signed shopper is waiting for a shared test repair (#5505) before #5502 can run again. The iPhone helper (#5446) passed four of five test groups. The remaining failure is in a budget-sheet test. The desk has one repeat run queued.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Eight Chromium checks returned to precisely the same position at 380px and 430px under both motion settings. Fourteen WebKit checks passed, including 200% zoom and browser Back and Forward. The correction has been pushed.",
+  "lastActualProgress": "At 23:36 UTC the designer opened outfit 03, Red on pink, and inspected its pieces. Close and browser Back restored focus and the exact 1,557 px scroll position. Forward reopened the same outfit. The result was recorded on #5518 at 23:37 UTC.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "Shop This Look returns shoppers to the exact outfit and spot on the page after Close or Back. The repaired revision is on GitHub. The release desk has a separate slot for the three-store directory.",
-  "next": "Obtain the size admission and protected review for the corrected viewer. Install the eligible changes in the private theme after merge. Exercise the signed TEST and iPhone journeys on the installed version.",
-  "updated": "07 November, 21:39 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
+  "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
+  "current": "Shop This Look passed the required interaction on the served private preview. Close and browser Back returned the shopper to the same outfit without losing their place. The original designer posted the result and the release desk received it.",
+  "next": "The release desk takes Shop This Look and Stores through their separate protected reviews. After merge, the website team installs their approved files in the unpublished theme and checks the shopping journeys on that version.",
+  "updated": "07 November, 23:39 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final passing scores remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,7 +331,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "The original test run hit a product-request limit. The discovery helper is in the release queue and its retry is running. Device verification follows on qualified source. Desktop WebKit checks are recorded separately."
+      "evidence": "The device helper #5446 passed four of five hosted test groups. A shared budget-sheet test failed in group four. The release desk has a repeat run queued. The original captain can test seven journeys once the helper qualifies and a device is available."
     },
     {
       "stage": "Final design acceptance",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) now contains the return-to-outfit fix. Its 23 controller cases and 20 regression mutations passed. The 761-line revision needs a fresh size admission and protected review.",
+    "The original designer [verified Shop This Look on the served preview](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012). The product link and unlisted-shorts note appeared. Closing or going back preserved the outfit, focus and exact scroll position. Desktop Chromium was sized to 430 × 844. Protected review and iPhone verification remain open.",
     "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.",
     "Close and browser Back had sent shoppers to the top of the page. Now both actions return to the same outfit button at scroll position 844px, with zero shift across eight Chromium measurements. The desktop WebKit check also returned the selected look to its original 820px position.",
     "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit.",
@@ -354,14 +354,14 @@
   "recentChangeParts": [
     [
       {
-        "text": ""
+        "text": "The original designer "
       },
       {
-        "text": "Shop This Look #5518",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518"
+        "text": "verified Shop This Look on the served preview",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012"
       },
       {
-        "text": " now contains the return-to-outfit fix. Its 23 controller cases and 20 regression mutations passed. The 761-line revision needs a fresh size admission and protected review."
+        "text": ". The product link and unlisted-shorts note appeared. Closing or going back preserved the outfit, focus and exact scroll position. Desktop Chromium was sized to 430 × 844. Protected review and iPhone verification remain open."
       }
     ],
     [
@@ -402,8 +402,8 @@
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "All five CI groups passed for the staff quote repair. Its protected review was deferred when the reviewer was unavailable.",
-      "next": "After approval and release, the staff TEST captain checks Use, Dismiss, buyer consent and withdrawal. [Successful test run](https://github.com/EON-CRUX/3.09/actions/runs/42371920893/attempts/2)",
+      "blocker": "All five automated groups passed for the staff quote repair. Protected review and release remain open.",
+      "next": "The staff TEST captain checks Use, Dismiss, buyer consent and withdrawal on the served change.",
       "state": "All five test groups passed. Waiting for protected review and release",
       "owner": "Staff TEST captain and quote-repair owner",
       "closes": "Staff actions and buyer consent/withdrawal all pass",
@@ -411,12 +411,12 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The signed run passed 8 of 9 checks; the second shopper reached a storefront password screen. Original repair #5502 is Ready.",
-      "next": "The original captain completes the remaining account-isolation path after qualified release. Export and persistent deletion passed; the full privacy gate remains open.",
-      "state": "8/9 checks passed; original password-path repair in review",
+      "blocker": "The signed run passed 8 of 9 checks. The second shopper reached a TEST password screen. Its #5502 fix passed one review, but two hosted test groups failed.",
+      "next": "After the shared test repair #5505 merges, Hands merges main into #5502 and runs the suite once. After release, the TEST captain repeats the second-shopper check.",
+      "state": "8/9. The second shopper’s password-path fix depends on shared test repair #5505",
       "owner": "Original privacy TEST captain",
       "closes": "Export, deletion and account separation all pass on served source",
-      "timing": "About 10 min after served-source qualification and allocation"
+      "timing": "About 10 min after release and TEST access"
     },
     {
       "label": "8. Final three-model ratings",
@@ -539,8 +539,16 @@
         "text": "Repair and recheck Close and browser Back across both phone widths and motion settings, then push the corrected viewer (21:12Z–21:39Z)."
       },
       {
+        "complete": true,
+        "text": "Obtain size approval and Hands acceptance on the corrected viewer (22:13Z–22:33Z, took 20 min)."
+      },
+      {
+        "complete": true,
+        "text": "Exercise the served viewer on the recorded revision and post the original designer’s result (23:36Z–23:37Z, took 1 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain fresh size admission and protected review for the repaired viewer. Stores has an independent release slot."
+        "text": "Complete the protected reviews and merges for Shop This Look and Stores. Each has its own release slot."
       },
       {
         "complete": false,
