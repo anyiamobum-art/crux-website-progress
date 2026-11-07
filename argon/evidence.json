@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-01T13:15:06.485876+00:00",
+  "snapshot": "2026-11-07T16:13:21.795021+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,33 +132,33 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "Slideshow installed in the CRUX draft. Design rating open.",
-      "title": "Better store visits, with evidence behind the details.",
-      "summary": "Argon’s store-enquiry recommendation now carries the chosen item, size and store into the enquiry. Its earlier homepage feedback helped address a moving store sheet, missing images and a contact shortcut that covered text.",
-      "before": "Selecting a store moved the sheet; missing product images needed a clear fallback; the contact shortcut could overlap enlarged content.",
-      "after": "The installed store enquiry keeps the shopper’s selection. The new homepage uses the active NU ERA campaign slideshow, a speaker icon and a shoppable runway. The campaign direction came from the owner.",
-      "resultTitle": "The campaign is in the draft. Its design review is open.",
-      "result": "The NU ERA homepage and its four follow-up repairs were reviewed, merged and installed in the unpublished CRUX theme. At widths of 380, 430 and 1280 pixels, the slideshow controls measured 44 pixels and the page had no horizontal overflow. Pause held for 128 seconds and Play resumed. Argon closed three findings on an earlier design. A score for the installed NU ERA design is still outstanding.",
+      "status": "Four new ideas checked. Your edit is being built.",
+      "title": "A personal edit, built around the shopper’s choices.",
+      "summary": "Argon proposed four experience improvements. The first is a quiet Your edit entry to real saved pieces. Astra is building it and Sol 6.1 is checking the actual homepage runtime independently. Earlier store-enquiry improvements remain recorded below.",
+      "before": "Saved pieces already existed, but the selected October 3 homepage loads an archived controller with a different interface. Adding a second saved system would risk inconsistent behavior.",
+      "after": "One small entry will show the real saved count or a useful empty state and open the existing Saved drawer. No forced welcome quiz, invented popularity, new tracking or unrequested cart additions.",
+      "resultTitle": "Ideas recovered and checked. The first build is in progress.",
+      "result": "The original Argon conversation returned all four requested ideas on 7 November. Its connection ended with an error, so this is recovered advisory text, not a clean review completion or quality score. The first build is not yet merged or installed. The separate homepage cleanup is PR #5504, with six regression tests and 10/10 targeted fault checks; protected review remains open.",
       "stages": [
         {
-          "title": "Carry useful store context.",
-          "text": "The original advisory led to a smaller Stores enquiry change that keeps product, variant and store context current. That change is reviewed, merged and installed in the unpublished draft.",
-          "state": "Installed contribution / connected acceptance open"
+          "title": "Return to your choices.",
+          "text": "Your edit uses actual saved pieces in this browser and opens the existing drawer. The first slice has no new product grid, cart controls or cross-device memory.",
+          "state": "Astra building / Sol independently verifying"
         },
         {
-          "title": "Turn design findings into repairs.",
-          "text": "The original homepage builder addressed sheet movement, unavailable images and contact overlap. Remote tests and mutation checks passed on the frozen candidate.",
-          "state": "Source and tests verified"
+          "title": "Take a selected piece to a store.",
+          "text": "Reuse the existing product and store enquiry flow. Verify the current variant and manual store choice; never imply stock or a reservation.",
+          "state": "Later bounded follow-up / earlier enquiry contribution retained"
         },
         {
-          "title": "Check the same repaired candidate.",
-          "text": "The original Argon conversation checked all eleven required images and the source delta, then closed its three required findings. No replacement reviewer or extra full round was used.",
-          "state": "Final named-fix result verified"
+          "title": "Make suggestions understandable.",
+          "text": "Distinguish pieces photographed together from related or complementary catalogue suggestions. Render only source-backed product details.",
+          "state": "Adopted direction / not built in this slice"
         },
         {
-          "title": "Implement the active campaign direction.",
-          "text": "The owner chose the active campaign slideshow. The new homepage and four follow-up repairs reached the unpublished draft. Its playback controls passed desktop checks at three widths.",
-          "state": "Installed in draft. Native proof and design rating open."
+          "title": "Keep transactional changes small.",
+          "text": "Argon also proposed inline size-and-bag controls. Those require a separate cart and availability check, so they are deferred while existing purchase paths are verified.",
+          "state": "Optional later experiment / no implementation claim"
         }
       ],
       "evidence": [
@@ -544,10 +544,15 @@
           "title": "Both TEST shopper profiles verified",
           "date": "1 November 2026",
           "text": "The owner finished both TEST sign-ins. Shopify confirmed two distinct profiles, and three installed test files match the approved source. The original tester’s browser stopped before the signed identity could be checked. The 13:12 device check found no dated slot or new hosted run. Independent session isolation, consent and withdrawal, seven iPhone checks and all three final ratings remain open."
+        },
+        {
+          "title": "Original Argon experience contribution recovered and fact-checked",
+          "date": "7 November 2026, 16:03–16:11 UTC",
+          "text": "Four complete ideas returned in the existing conversation. Current response was separated from older review output. Client selection was Argon High; independent server-model attestation is absent. Existing source corrected several assumptions about saved storage, product availability and enquiry text. No new rating, extra review round or provider retry."
         }
       ],
-      "limit": "The observed slideshow checks used desktop Chrome at three widths. Native iPhone proof, the current Argon design rating and a measured change in store visits remain open.",
-      "sourceAsOf": "2026-11-01T13:15:06.485876+00:00"
+      "limit": "No conversion uplift or new 9.5 score is established. Your edit remains uninstalled work. Current final whole-draft passes are 0/3 and native journeys 0/7. Fable’s original contribution connection returned a weekly limit; its keeper owns recovery. The Shopify draft stays unpublished.",
+      "sourceAsOf": "2026-11-07T16:13:21.795021+00:00"
     },
     "companion": {
       "number": "04",
@@ -666,5 +671,5 @@
     "studioDelivery": "Original Studio owner verified the receipt and adopted the conditions. Its existing review scope has no outstanding admitted visual call; native performance proof stays with its original owner.",
     "nextPacketGuard": "Inspect the image-description response before proceeding to the advisory question; stop on an image-reading refusal."
   },
-  "snapshotScope": "Website installation and TEST account evidence refreshed on 1 November. Other systems retain their individually dated evidence."
+  "snapshotScope": "Website contribution updated 7 November. Other systems retain their own individually dated evidence."
 }
