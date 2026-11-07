@@ -8,15 +8,15 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 20:09 UTC. Six of eleven delivery items are verified, seven iPhone journeys remain, and none of the three final ratings has reached 9.5.
+Last verified 7 November, 20:27 UTC. Six of eleven delivery gates are verified. Seven iPhone journeys and three final 9.5 scores remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed.
+- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. [Size decision](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441)
 - In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.
-- [Stores #5519](https://github.com/EON-CRUX/3.09/pull/5519) updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed. Independent inspection found a fast-tap issue: choosing Near me and immediately pressing Clear can leave cards moving toward the old order. Both controls also need visible press feedback. The original designer owns these two repairs. Loaded maps and iPhones still need a check.
+- The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. [Stores repair and test receipt](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189)
 - [Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.
 - [Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview.
 

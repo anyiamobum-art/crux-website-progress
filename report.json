@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The viewer builder accepted the tested version. Sol finished the independent Stores inspection. The two findings went to the existing coordinator for the original Claude Code Desktop designer.",
+  "workerState": "The original Claude Code Desktop designer fixed both Stores findings in one change. Sol checked the repaired code independently and closed both findings. Hands accepted the repaired source. The chair granted the Shop This Look size request.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shop This Look opened as #5518 after 22 controller cases and 18 mutation checks passed. The composed preview passed checks for the mobile sheet, desktop layout, keyboard focus return and reduced motion. Stores passed 16 tests. Independent inspection then found that clearing a location during a 300 ms reorder can leave the old animation running, and Near me and Clear lack press feedback.",
+  "lastActualProgress": "On the previous Stores source, two regression cases failed. On the repaired source, 17 tests passed. Clearing a location mid-animation now keeps the cards within one pixel of their previous drawn positions, and Near me and Clear share press feedback. The suite directly exercised pressing Near me.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "The October 3 homepage has a working Shop This Look viewer. The Stores page now has a tested transition between locations. Both changes have pull requests. The private Shopify draft awaits their protected reviews and integration.",
-  "next": "Get the size decision for the outfit viewer and verify two Stores fixes with the original desktop designer. Both pull requests still need protected review. Check the final installed pages with the original TEST shoppers and the allocated iPhones.",
-  "updated": "7 November, 20:09 UTC. Six of eleven delivery items are verified, seven iPhone journeys remain, and none of the three final ratings has reached 9.5.",
+  "current": "The local October 3 homepage opens Shop This Look and the repaired Stores directory. Its five existing store links reach the same working directory. Both candidates are in GitHub for protected review before installation in the private Shopify draft.",
+  "next": "Hands and the release desk handle the viewer admission and the protected reviews. After merge, verify the installed maps and directions, the remaining TEST shopper journeys and both iPhone sizes.",
+  "updated": "7 November, 20:27 UTC. Six of eleven delivery gates are verified. Seven iPhone journeys and three final 9.5 scores remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,9 +345,9 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed.",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. [Size decision](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441)",
     "In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.",
-    "[Stores #5519](https://github.com/EON-CRUX/3.09/pull/5519) updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed. Independent inspection found a fast-tap issue: choosing Near me and immediately pressing Clear can leave cards moving toward the old order. Both controls also need visible press feedback. The original designer owns these two repairs. Loaded maps and iPhones still need a check.",
+    "The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. [Stores repair and test receipt](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189)",
     "[Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.",
     "[Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview."
   ],
@@ -361,7 +361,14 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed."
+        "text": " adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed. The chair admitted the six files for review. "
+      },
+      {
+        "text": "Size decision",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6712499441"
+      },
+      {
+        "text": ""
       }
     ],
     [
@@ -371,14 +378,14 @@
     ],
     [
       {
+        "text": "The desktop designer reproduced the rapid-Clear jump and the missing press response, then fixed them. The corrected Stores build passed 17 tests. Sol closed both source findings and Hands accepted the same revision. Loaded-map behavior and actual iPhone touch still need checks. "
+      },
+      {
+        "text": "Stores repair and test receipt",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6712590189"
+      },
+      {
         "text": ""
-      },
-      {
-        "text": "Stores #5519",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
-      },
-      {
-        "text": " updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed. Independent inspection found a fast-tap issue: choosing Near me and immediately pressing Clear can leave cards moving toward the old order. Both controls also need visible press feedback. The original designer owns these two repairs. Loaded maps and iPhones still need a check."
       }
     ],
     [
@@ -488,7 +495,7 @@
     {
       "change": "Higgsfield design refinement",
       "state": "Viewer #5518 and Stores #5519 submitted",
-      "action": "The viewer pairs the selected outfit with its pieces. Stores updates directions immediately and animates the list around the selected shop. The viewer has builder acceptance. Two interaction findings on Stores went back through the original coordinator. Both changes await protected review."
+      "action": "The viewer pairs the selected outfit with its pieces. Stores updates directions immediately and animates the list around the selected shop. The chair admitted the viewer’s size. The designer fixed both interaction findings, Sol closed them in source and Hands accepted the corrected Stores version. Protected review and Shopify installation follow."
     },
     {
       "change": "Higgsfield media connection",
@@ -535,12 +542,20 @@
         "text": "Check the Stores source against phone and desktop frames and send the two findings for repair (20:01Z–20:04Z, took 3 min)."
       },
       {
-        "complete": false,
-        "text": "Verify rapid Clear and pressed feedback on the repaired Stores build. Check directions with the map loaded after private installation (waiting since 20:04Z for the original designer, next check 20:34Z)."
+        "complete": true,
+        "text": "Verify rapid Clear and pressed feedback on the repaired source, and connect the local homepage to it (20:04Z–20:26Z, took 22 min)."
       },
       {
         "complete": false,
-        "text": "Secure the viewer size decision and complete both protected reviews (started 19:58Z; next check at 20:34Z or an earlier decision)."
+        "text": "After private installation, verify directions with the map loaded and check the two location controls on iPhone (depends on protected merge and device allocation)."
+      },
+      {
+        "complete": true,
+        "text": "Obtain the chair’s size decision for the viewer (19:58Z–20:17Z, took 19 min)."
+      },
+      {
+        "complete": false,
+        "text": "Complete admission and both protected reviews (waiting on the original desk queue, timing depends on its release order)."
       },
       {
         "complete": false,
