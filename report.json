@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra completed the Your edit build and exact-head proof; Sol6.1 independently checked the actual emitted source. The original release desk now owns the protected queue, and named findings return to the same builder. Argon supplied four ideas. Fable supplied none because its original connection returned a weekly usage limit; its keeper retains recovery.",
+  "workerState": "Astra completed Your edit and the independent Higgsfield desktop/mobile study; Sol6.1 verified the actual emitted Your edit source. Protected release work remains with its original owners. Argon supplied four ideas. Claude Desktop is actively running Fable5.1 Extra and shows37% weekly usage; the older429 applies only to the separate VS Code connection. Original keeper continuation is requested without replacing its history.",
   "journey": [
     {
       "stage": "Build",
@@ -140,7 +140,7 @@
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
   "current": "Your edit is submitted as #5510 with the original builder acceptance. The existing Saved drawer now supports a real homepage entry, including delayed catalogue initialization and focus after final removal. Source and scoped browser proof pass; protected review and private installation remain. Homepage cleanup #5504 awaits its original exact Hands acceptance.",
   "next": "Consume the original Hands acceptance and protected reviews for #5510 and #5504. Continue #5433 and the existing TEST repair queue; privately install only eligible merged and recomposed source, then run the original connected and iPhone checks.",
-  "updated": "7 November, 17:35 UTC (8 November, 01:35 Shanghai). Delivery6/11; native0/7; passing final whole-draft ratings0/3. Source and local-browser checks remain separate from Shopify installation and final acceptance.",
+  "updated": "7 November, 17:56 UTC. Delivery6/11; native0/7; final whole-draft passes0/3. Your edit source and browser checks pass; protected review, private installation and final acceptance remain distinct.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -346,10 +346,10 @@
   ],
   "recentChanges": [
     "[Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) opened with exact builder acceptance. Current source passed19/19 selected fault checks and a zero-finding checklist; seven substantive tests and19 independent cases are retained by verified actual-file equality. The real full-homepage Save/reopen/Remove and keyboard journeys passed. Protected review and installation remain.",
-    "[Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge.",
+    "[Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge. [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and 10/10 fault checks; its original Hands acceptance is still owed before paced review.",
     "[Privacy TEST repair #5502](https://github.com/EON-CRUX/3.09/pull/5502) hit a native-test marker failure outside its source diff. The original desk adopted one retry after its current groups finish. The same controller restarted at17:19UTC and made its first pass at17:22UTC; the earlier expiry wait is resolved. No duplicate retry was launched.",
-    "[Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review.",
-    "Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it."
+    "Argon’s four ideas are mapped to existing components. The Fable availability claim is corrected: Claude Desktop is responding on Fable5.1 Extra at37% weekly usage; the separate VS Code route returned429. Original keeper continuation is requested; no new ideas or rating attributed yet.",
+    "Astra independently inspected Higgsfield on desktop and at390px. The strongest reference keeps the visual present beside desktop details and behind a mobile sheet. Recommendations strengthen the existing single Look panel, retain the October3 design and avoid adding duplicate UI. No new feature or score is claimed."
   ],
   "recentChangeParts": [
     [
@@ -373,7 +373,14 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5433"
       },
       {
-        "text": " received its original round-two approval; critical second review and remaining tests still gate merge."
+        "text": " received its original round-two approval; critical second review and remaining tests still gate merge. "
+      },
+      {
+        "text": "Homepage cleanup #5504",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
+      },
+      {
+        "text": " retains six tests and 10/10 fault checks; its original Hands acceptance is still owed before paced review."
       }
     ],
     [
@@ -390,19 +397,12 @@
     ],
     [
       {
-        "text": ""
-      },
-      {
-        "text": "Homepage cleanup #5504",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
-      },
-      {
-        "text": " retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review."
+        "text": "Argon’s four ideas are mapped to existing components. The Fable availability claim is corrected: Claude Desktop is responding on Fable5.1 Extra at37% weekly usage; the separate VS Code route returned429. Original keeper continuation is requested; no new ideas or rating attributed yet."
       }
     ],
     [
       {
-        "text": "Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it."
+        "text": "Astra independently inspected Higgsfield on desktop and at390px. The strongest reference keeps the visual present beside desktop details and behind a mobile sheet. Recommendations strengthen the existing single Look panel, retain the October3 design and avoid adding duplicate UI. No new feature or score is claimed."
       }
     ]
   ],
@@ -465,6 +465,11 @@
       "action": "COME THROUGH leads to the maintained directory for addresses, hours and directions. Current closed-store repair remains in its original release lane."
     },
     {
+      "change": "Higgsfield design research",
+      "state": "Independently observed on desktop and390px",
+      "action": "Keep the look visible while garment details open beside it or in a mobile sheet; compare and refine the existing panel, not another carousel. Observed source: higgsfield.ai/shorts-studio. No implementation or score claimed."
+    },
+    {
       "change": "Catalogue discovery",
       "state": "Reuse plan prepared",
       "action": "Combine campaign photography, complete looks and real collection links with product browsing. Bestsellers require an actual maintained collection or sales evidence."
@@ -517,15 +522,23 @@
       },
       {
         "complete": false,
-        "text": "Receive original Hands acceptance and protected review for #5504 and #5510 (waiting since their original handoffs; next check17:50Z or exact holder result)."
+        "text": "Receive original Hands acceptance and protected review for #5504 and #5510 (waiting since their original handoffs; next check18:25Z or exact holder result)."
+      },
+      {
+        "complete": true,
+        "text": "Verify Claude Desktop Fable availability and correct the separate VS Code refusal (17:43Z–17:47Z, took about4min)."
+      },
+      {
+        "complete": true,
+        "text": "Complete independent Higgsfield desktop and390px visual study; identify patterns for existing Look details (17:40Z–17:56Z, took about16min)."
       },
       {
         "complete": false,
-        "text": "Recover the original Fable contribution after its keeper restores that same connection (waiting since 16:03Z; next check 17:50Z or keeper result)."
+        "text": "Consume original Fable keeper continuation through the available supported route (original request since16:03Z; next check18:25Z or keeper result)."
       },
       {
         "complete": false,
-        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 17:50Z or result)."
+        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check18:25Z or result)."
       },
       {
         "complete": false,

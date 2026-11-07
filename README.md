@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 17:35 UTC (8 November, 01:35 Shanghai). Delivery6/11; native0/7; passing final whole-draft ratings0/3. Source and local-browser checks remain separate from Shopify installation and final acceptance.
+Last verified 7 November, 17:56 UTC. Delivery6/11; native0/7; final whole-draft passes0/3. Your edit source and browser checks pass; protected review, private installation and final acceptance remain distinct.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
 - [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) opened with exact builder acceptance. Current source passed19/19 selected fault checks and a zero-finding checklist; seven substantive tests and19 independent cases are retained by verified actual-file equality. The real full-homepage Save/reopen/Remove and keyboard journeys passed. Protected review and installation remain.
-- [Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge.
+- [Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge. [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and 10/10 fault checks; its original Hands acceptance is still owed before paced review.
 - [Privacy TEST repair #5502](https://github.com/EON-CRUX/3.09/pull/5502) hit a native-test marker failure outside its source diff. The original desk adopted one retry after its current groups finish. The same controller restarted at17:19UTC and made its first pass at17:22UTC; the earlier expiry wait is resolved. No duplicate retry was launched.
-- [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review.
-- Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it.
+- Argon’s four ideas are mapped to existing components. The Fable availability claim is corrected: Claude Desktop is responding on Fable5.1 Extra at37% weekly usage; the separate VS Code route returned429. Original keeper continuation is requested; no new ideas or rating attributed yet.
+- Astra independently inspected Higgsfield on desktop and at390px. The strongest reference keeps the visual present beside desktop details and behind a mobile sheet. Recommendations strengthen the existing single Look panel, retain the October3 design and avoid adding duplicate UI. No new feature or score is claimed.
 
 ## What still needs to pass
 
