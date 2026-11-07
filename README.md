@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 20:56 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.
+Last verified 7 November, 21:13 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)
+- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk has received the separate keyboard-focus finding on this revision. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)
 - In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.
+- A real Close click in Chromium exposed a separate return-to-page defect at 380px and 430px. The viewer closed and briefly restored the outfit button, then browser history moved focus to the page body and scroll to the top. The original designer has the trace.
+- The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit.
 - The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check.
-- [Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.
-- [Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview.
 
 ## What still needs to pass
 

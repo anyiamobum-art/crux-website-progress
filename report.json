@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original Claude Code Desktop designer fixed the two Stores motion findings. Sol verified both. Shop This Look passed the size check and every other admission item except Draft status. The two changes are on the original release desk’s list.",
+  "workerState": "The original designer has the precise viewer finding. The release desk received the request to hold Shop This Look on this revision. The Stores designer’s two repairs have passed source verification and remain in the original queue.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The animated directory and closed-store repair passed 19 tests together. Each of the three rendered directions links contains the correct shop name and address. In Shop This Look, browser Back restored the selected outfit and exact scroll position. Both Close and Back responded at 200% zoom on 380px and 430px desktop WebKit windows.",
+  "lastActualProgress": "Closing Shop This Look with normal motion at 380px and 430px moved focus to the page body and returned the page to the top. The photo recovery check passed. All three product links stayed usable when the outfit photo failed or timed out.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "Shop This Look passes Back, Forward and 200% zoom in the local October 3 preview. Its Stores link now opens the three-location directory. The staff buyer-review repair passed all five CI test groups and awaits an independent reviewer.",
-  "next": "The release desk moves Shop This Look and Stores into independent review in queue order. After merge, install the eligible files in the private theme, check its loaded map and run the remaining TEST and iPhone journeys.",
-  "updated": "7 November, 20:56 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
+  "current": "The Shop This Look viewer closes, but Chromium loses the shopper’s place when it returns to the page. The original designer has the failing interaction and its event trace. The three-store motion change can proceed independently.",
+  "next": "Verify the designer’s repair with real Close and Back interactions. The release desk can advance Stores independently. After protected merge, install the eligible files in the private theme and run the remaining TEST and iPhone journeys.",
+  "updated": "7 November, 21:13 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,11 +345,11 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk has received the separate keyboard-focus finding on this revision. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)",
     "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.",
-    "The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check.",
-    "[Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.",
-    "[Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview."
+    "A real Close click in Chromium exposed a separate return-to-page defect at 380px and 430px. The viewer closed and briefly restored the outfit button, then browser history moved focus to the page body and scroll to the top. The original designer has the trace.",
+    "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit.",
+    "The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
   ],
   "recentChangeParts": [
     [
@@ -361,7 +361,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk holds the queue flip. "
+        "text": " adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk has received the separate keyboard-focus finding on this revision. "
       },
       {
         "text": "Admission result",
@@ -374,6 +374,16 @@
     [
       {
         "text": "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open."
+      }
+    ],
+    [
+      {
+        "text": "A real Close click in Chromium exposed a separate return-to-page defect at 380px and 430px. The viewer closed and briefly restored the outfit button, then browser history moved focus to the page body and scroll to the top. The original designer has the trace."
+      }
+    ],
+    [
+      {
+        "text": "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit."
       }
     ],
     [
@@ -393,51 +403,6 @@
       },
       {
         "text": " passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Homepage repair #5433",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5433"
-      },
-      {
-        "text": " has its named fix pushed. "
-      },
-      {
-        "text": "#5465",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5465"
-      },
-      {
-        "text": " is Ready and "
-      },
-      {
-        "text": "#5493",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5493"
-      },
-      {
-        "text": " has hosted checks queued after integrating main."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Shop This Look and store chapter #5504",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
-      },
-      {
-        "text": " and "
-      },
-      {
-        "text": "Your edit #5510",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5510"
-      },
-      {
-        "text": " are awaiting their protected review process. The new viewer was tested with both in the local preview."
       }
     ]
   ],
@@ -569,8 +534,16 @@
         "text": "Verify outfit focus, Back, Forward and narrow-screen controls at 200% zoom in desktop WebKit (20:50Z–20:56Z)."
       },
       {
+        "complete": true,
+        "text": "Verify failed and delayed outfit photography preserves shopping links and retry focus (20:57Z–21:02Z)."
+      },
+      {
+        "complete": true,
+        "text": "Trace the Close-button focus and scroll loss at 380px and 430px and return it to the original designer (21:09Z–21:12Z)."
+      },
+      {
         "complete": false,
-        "text": "Move both admitted designs through protected review (release desk owns the paced queue; review time unknown)."
+        "text": "Repair and recheck the viewer’s return to the same outfit. Stores can enter protected review independently."
       },
       {
         "complete": false,
