@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "Homepage #5433 and Identity #5465 are Ready on accepted exact heads; their original reviews and test runs are pending. TEST setup #5445 merged at 12:34 UTC. Its first connected run passed steps 1–5 and stopped at signed-in step 6. Original repair #5493 is Ready. Staff test #5490 has a classified neighbouring timeout and one existing retry; no duplicate run was started.",
+  "workerState": "Homepage #5433 and Identity #5465 are Ready on accepted exact heads; their original reviews await the reader hold, while required tests continue. TEST setup #5445 merged at 12:34 UTC. Its first connected run passed steps 1–5 and stopped at signed-in step 6. Original repair #5493 is Ready. Staff test #5490 has a classified neighbouring timeout and one existing retry; no duplicate run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -137,8 +137,8 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The homepage and Identity repairs await protected review and tests. TEST setup has merged, and its guest check passed; the signed-in step reached the store-password screen and is addressed by original repair #5493. Existing retries for the store-directory correction, native helper and staff test are queued with the release desk. The TEST catalogue still needs an approved look for its populated rail.",
-  "current": "The homepage and shopper-identity repairs are accepted and in their original second code reviews. Homepage testing has one of five groups passed; the others are queued. Shopify theme 166627606744 stays unpublished. The owner alone approves going live.",
+  "remaining": "The original review seats have a provider-access hold. The chair owns the existing recovery; no replacement reviewer or extra round is being started. TEST setup merged and its guest check passed; signed-in step six needs original repair #5493, whose current tests are running. Store-directory, native-helper and staff retries remain in the existing queue. The populated Looks rail still needs a TEST-safe fixture for its separate visual check.",
+  "current": "The homepage and shopper-identity repairs are accepted and queued for their original second code reviews. The chair reports the review seats held until 8 November, 11:05 UTC unless the existing connection recovery clears earlier. Required tests continue. Shopify theme 166627606744 stays unpublished; the owner alone approves going live.",
   "next": "Finish the two original code reviews and required tests, then install their reviewed files into the private draft. Continue the original TEST password-session repair, staff test, populated Looks rail and seven iPhone journeys before the final design checks.",
   "updated": "7 November, 15:01 UTC (23:01 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
@@ -346,7 +346,7 @@
   ],
   "recentChanges": [
     "Launch-ready only: the owner alone approves going live. The Shopify theme stays unpublished, and the actual private October 3 homepage is open in Safari.",
-    "Homepage and Identity repairs now have exact-head acceptance and are in their original second code reviews. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity repair](https://github.com/EON-CRUX/3.09/pull/5465)",
+    "Homepage and Identity repairs now have exact-head acceptance and are queued for their original second code reviews. The review seats are held until 8 November, 11:05 UTC unless the existing recovery clears earlier. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. [Homepage repair](https://github.com/EON-CRUX/3.09/pull/5433) · [Identity repair](https://github.com/EON-CRUX/3.09/pull/5465)",
     "The privacy-test helper passed all five test groups and received independent Astra approval at 14:52 UTC, alongside its earlier Opus approval. It still needs the chair’s final read and merge. [Privacy helper approval](https://github.com/EON-CRUX/3.09/pull/5483#issuecomment-6708486045)",
     "TEST setup merged. Its guest steps passed; signed-in step six reached the password screen. Original repair #5493 has two test groups running. Its older Draft failure is superseded. [Current TEST run](https://github.com/EON-CRUX/3.09/actions/runs/42375231317)",
     "The store-directory correction, iPhone helper and staff quote test have existing queued retries. No duplicate test runs were started. [Stores](https://github.com/EON-CRUX/3.09/pull/5459) · [iPhone helper](https://github.com/EON-CRUX/3.09/pull/5446) · [Staff quote test](https://github.com/EON-CRUX/3.09/pull/5490)"
@@ -359,7 +359,7 @@
     ],
     [
       {
-        "text": "Homepage and Identity repairs now have exact-head acceptance and are in their original second code reviews. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. "
+        "text": "Homepage and Identity repairs now have exact-head acceptance and are queued for their original second code reviews. The review seats are held until 8 November, 11:05 UTC unless the existing recovery clears earlier. The homepage’s nine tests and twenty mutation checks passed. Its design is unchanged. "
       },
       {
         "text": "Homepage repair",
@@ -491,7 +491,7 @@
       },
       {
         "complete": false,
-        "text": "Complete original second reviews and hosted tests for homepage and Identity (waiting on admitted runs; next check 15:25Z; no verified queue ETA)."
+        "text": "Complete original second reviews and hosted tests for homepage and Identity (tests admitted; review-seat hold until 8 November 11:05Z unless recovered earlier; next check 15:25Z)."
       },
       {
         "complete": true,
