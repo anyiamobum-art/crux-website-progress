@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra is repairing the saved-drawer focus return while Sol 6.1 verifies the same source independently. Original release support is reading changed protected outcomes. Argon supplied four ideas; Fable supplied none because its original connection is usage-limited.",
+  "workerState": "Astra completed the Your edit build and exact-head proof; Sol6.1 independently checked the actual emitted source. The original release desk now owns the protected queue, and named findings return to the same builder. Argon supplied four ideas. Fable supplied none because its original connection returned a weekly usage limit; its keeper retains recovery.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Your edit passed 7 remote tests, all 18 mutation checks and 16 independent DOM cases. The real full-homepage Save/reopen/Remove journey now works, but closing after removing the last piece loses keyboard focus. Two new focused regressions reproduce that defect; the original builder is repairing it. #5465 has an actual rejection plus its diagnosed stale asset manifest, both retained in the original repair lane.",
+  "lastActualProgress": "Your edit #5510 opened at17:33UTC and its exact source/body readback passed. Seven substantive tests, all19 mutations selected against current main, the zero-finding checklist,19 independent cases and actual full-homepage browser checks are recorded. All40 emitted files match the proven browser source. The two earlier runtime defects remain regression-tested. No Shopify installation or final score is claimed.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "Argon’s four ideas have produced a source-tested Your edit entry. The full homepage now restores saved pieces and updates counts correctly. A real-browser last-item removal check found one keyboard-focus issue; the same Astra builder is fixing it and Sol has reproduced the exact failing target. Fable’s original connection remains usage-limited. Homepage cleanup #5504 has chair acknowledgment and awaits exact Hands acceptance.",
-  "next": "Finish the narrow focus repair, verify the actual full homepage again, and take its source through protected review. Bridge acknowledged the Quick Add file-manifest defect and has returned it with the original review findings to the same writer. Continue the original TEST and iPhone release paths.",
-  "updated": "7 November, 16:49 UTC (8 November, 00:49 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Source and local-browser checks do not establish Shopify installation, conversion uplift or final acceptance.",
+  "current": "Your edit is submitted as #5510 with the original builder acceptance. The existing Saved drawer now supports a real homepage entry, including delayed catalogue initialization and focus after final removal. Source and scoped browser proof pass; protected review and private installation remain. Homepage cleanup #5504 awaits its original exact Hands acceptance.",
+  "next": "Consume the original Hands acceptance and protected reviews for #5510 and #5504. Continue #5433 and the existing TEST repair queue; privately install only eligible merged and recomposed source, then run the original connected and iPhone checks.",
+  "updated": "7 November, 17:35 UTC (8 November, 01:35 Shanghai). Delivery6/11; native0/7; passing final whole-draft ratings0/3. Source and local-browser checks remain separate from Shopify installation and final acceptance.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,12 +345,49 @@
     }
   ],
   "recentChanges": [
-    "[Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain.",
-    "Mapped existing saved pieces, recent pieces, product-aware help, manual store choice and related products for the adaptive experience. No hidden profiling or new tracking was enabled.",
-    "Privacy TEST passed 8 of 9 checks, including export, persistent deletion and refusal of stale/forged access. The second shopper hit the storefront password screen; original repair [#5502](https://github.com/EON-CRUX/3.09/pull/5502) is Ready.",
-    "The public checklist now names the owner, exact blocker, next action and closing evidence for each of the five unfinished outcomes. Its 45% is a checklist fraction, not a time estimate."
+    "[Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) opened with exact builder acceptance. Current source passed19/19 selected fault checks and a zero-finding checklist; seven substantive tests and19 independent cases are retained by verified actual-file equality. The real full-homepage Save/reopen/Remove and keyboard journeys passed. Protected review and installation remain.",
+    "[Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge.",
+    "[Privacy TEST repair #5502](https://github.com/EON-CRUX/3.09/pull/5502) hit a native-test marker failure outside its source diff. The original desk adopted one retry after its current groups finish. The same controller restarted at17:19UTC and made its first pass at17:22UTC; the earlier expiry wait is resolved. No duplicate retry was launched.",
+    "[Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review.",
+    "Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it."
   ],
   "recentChangeParts": [
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Your edit #5510",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5510"
+      },
+      {
+        "text": " opened with exact builder acceptance. Current source passed19/19 selected fault checks and a zero-finding checklist; seven substantive tests and19 independent cases are retained by verified actual-file equality. The real full-homepage Save/reopen/Remove and keyboard journeys passed. Protected review and installation remain."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Homepage integration #5433",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5433"
+      },
+      {
+        "text": " received its original round-two approval; critical second review and remaining tests still gate merge."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Privacy TEST repair #5502",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5502"
+      },
+      {
+        "text": " hit a native-test marker failure outside its source diff. The original desk adopted one retry after its current groups finish. The same controller restarted at17:19UTC and made its first pass at17:22UTC; the earlier expiry wait is resolved. No duplicate retry was launched."
+      }
+    ],
     [
       {
         "text": ""
@@ -360,29 +397,12 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5504"
       },
       {
-        "text": " is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain."
+        "text": " retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review."
       }
     ],
     [
       {
-        "text": "Mapped existing saved pieces, recent pieces, product-aware help, manual store choice and related products for the adaptive experience. No hidden profiling or new tracking was enabled."
-      }
-    ],
-    [
-      {
-        "text": "Privacy TEST passed 8 of 9 checks, including export, persistent deletion and refusal of stale/forged access. The second shopper hit the storefront password screen; original repair "
-      },
-      {
-        "text": "#5502",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5502"
-      },
-      {
-        "text": " is Ready."
-      }
-    ],
-    [
-      {
-        "text": "The public checklist now names the owner, exact blocker, next action and closing evidence for each of the five unfinished outcomes. Its 45% is a checklist fraction, not a time estimate."
+        "text": "Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it."
       }
     ]
   ],
@@ -451,8 +471,8 @@
     },
     {
       "change": "Adaptive experience",
-      "state": "Late-loading repair verified; final focus repair active",
-      "action": "Your edit opens the existing saved-piece drawer with a real count and an honest empty state. Actual full-homepage verification now passes the late-loading catalogue path; last-item removal still needs its keyboard-focus correction. It is not installed. It adds no forced chooser before browsing. Later scoped ideas carry selected pieces to a store enquiry and distinguish photographed outfits from catalogue suggestions. Conversion uplift remains unmeasured."
+      "state": "PR #5510 submitted; source and scoped browser verification passed",
+      "action": "Your edit opens the existing saved-piece drawer with a real count and an honest empty state. Actual full-homepage verification passes delayed catalogue initialization and keyboard focus after last removal. It is not installed. Later scoped ideas carry selected pieces to a store enquiry and distinguish photographed outfits from catalogue suggestions. Conversion uplift remains unmeasured."
     },
     {
       "change": "Personal memory boundary",
@@ -488,16 +508,24 @@
         "text": "Collect and fact-check Argon’s four ideas; record Fable’s actual connection refusal and retain its keeper (15:54Z–16:11Z, took about 17 min)."
       },
       {
-        "complete": false,
-        "text": "Build and independently verify the small Your edit entry (started 16:07Z, revised est. 63 min; late initialization is fixed; the actual browser found one last-removal focus repair)."
+        "complete": true,
+        "text": "Build and independently verify the small Your edit entry (16:07Z–17:18Z, took71min; actual browser, 19 independent cases, seven remote tests and20/20 fault checks passed)."
+      },
+      {
+        "complete": true,
+        "text": "Integrate current main and submit the exact source to protected review (17:22Z–17:35Z, took13min; #5510 opened with exact body readback and builder acceptance)."
       },
       {
         "complete": false,
-        "text": "Recover the original Fable contribution after its keeper restores that same connection (waiting since 16:03Z; next check 17:10Z or keeper result)."
+        "text": "Receive original Hands acceptance and protected review for #5504 and #5510 (waiting since their original handoffs; next check17:50Z or exact holder result)."
       },
       {
         "complete": false,
-        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 17:10Z or result)."
+        "text": "Recover the original Fable contribution after its keeper restores that same connection (waiting since 16:03Z; next check 17:50Z or keeper result)."
+      },
+      {
+        "complete": false,
+        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 17:50Z or result)."
       },
       {
         "complete": false,
@@ -508,7 +536,7 @@
         "text": "Complete seven iPhone journeys and the three original final named-fix reviews (after qualified source/evidence; queue and review duration unknown)."
       }
     ],
-    "landing": "Lands: repaired Your edit source and independent check targeted about 17:10Z; the named last-removal focus regression and actual browser check must pass. Protected review, Fable availability and native acceptance still determine the unpublished-draft handover; their total duration is unknown. No live publication."
+    "landing": "Lands: source submission complete. Next protected review depends on the original queue; a scoped private install takes about10min after qualifying merge and combined-source proof. TEST, native allocation and final reviews have no verified finish time. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

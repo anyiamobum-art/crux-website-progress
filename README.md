@@ -8,16 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 16:49 UTC (8 November, 00:49 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Source and local-browser checks do not establish Shopify installation, conversion uplift or final acceptance.
+Last verified 7 November, 17:35 UTC (8 November, 01:35 Shanghai). Delivery6/11; native0/7; passing final whole-draft ratings0/3. Source and local-browser checks remain separate from Shopify installation and final acceptance.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) is open with the builder acceptance. Six regression tests and 10/10 fault checks passed; desktop, narrow and keyboard checks are recorded. Protected review and private installation remain.
-- Mapped existing saved pieces, recent pieces, product-aware help, manual store choice and related products for the adaptive experience. No hidden profiling or new tracking was enabled.
-- Privacy TEST passed 8 of 9 checks, including export, persistent deletion and refusal of stale/forged access. The second shopper hit the storefront password screen; original repair [#5502](https://github.com/EON-CRUX/3.09/pull/5502) is Ready.
-- The public checklist now names the owner, exact blocker, next action and closing evidence for each of the five unfinished outcomes. Its 45% is a checklist fraction, not a time estimate.
+- [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) opened with exact builder acceptance. Current source passed19/19 selected fault checks and a zero-finding checklist; seven substantive tests and19 independent cases are retained by verified actual-file equality. The real full-homepage Save/reopen/Remove and keyboard journeys passed. Protected review and installation remain.
+- [Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) received its original round-two approval; critical second review and remaining tests still gate merge.
+- [Privacy TEST repair #5502](https://github.com/EON-CRUX/3.09/pull/5502) hit a native-test marker failure outside its source diff. The original desk adopted one retry after its current groups finish. The same controller restarted at17:19UTC and made its first pass at17:22UTC; the earlier expiry wait is resolved. No duplicate retry was launched.
+- [Homepage cleanup #5504](https://github.com/EON-CRUX/3.09/pull/5504) retains six tests and10/10 fault checks; its exact original Hands acceptance is still owed before paced review.
+- Argon’s four ideas are fact-checked and mapped to existing components. Fable’s original contribution request returned a weekly usage limit, so no ideas or new rating are attributed to it.
 
 ## What still needs to pass
 
