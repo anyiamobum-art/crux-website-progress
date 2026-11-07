@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft after independent 9.5 ratings. The owner selected the October 3 “MAKE AN ENTRANCE.” homepage with The Runway in A Closer Look.",
-  "workerState": "The original homepage writer pushed the two named tests and mutation cases once: 9 tests and 20/20 mutation checks passed remotely. Astra and Sol completed evidence audits. Staff repair #5466 and privacy diagnostic #5472 have merged; their TEST acceptance remains separate. The original iPhone team retains device work.",
+  "workerState": "Homepage #5433 and Identity #5465 are Ready on accepted exact heads; their original reviews and test runs are pending. TEST setup #5445 merged at 12:34 UTC. Its first connected run passed steps 1–5 and stopped at signed-in step 6. Original repair #5493 is Ready. Staff test #5490 has a classified neighbouring timeout and one existing retry; no duplicate run was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Homepage repair #5433 pushed at 2fe0fbf8, with passing remote proof, self-review and updated release instructions verified on GitHub. The actual private October 3 homepage opened in Safari. Fresh source checks removed stale release waits while preserving the original review and TEST owners.",
+  "lastActualProgress": "Consumed the exact-head acceptance and Ready returns for both repairs. Rebound the homepage installation plan to the repaired head after proving its assembly inputs unchanged. Verified the TEST setup merge and actual partial-run result, and corrected the old review wait.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The homepage repair awaits exact-head acceptance and its second review. The original desk has queued retries for the store-directory repair and native helper. Staff TEST now stops at quote preparation and has original repair #5490. A populated TEST Looks rail needs an approved look; privacy export still needs the original connected check.",
-  "current": "Launch-ready only: Shopify theme 166627606744 stays unpublished until the owner approves going live. The actual October 3 homepage and Runway are open in Safari. The homepage named repair is pushed with passing proof and awaits the original second review.",
-  "next": "Finish and review the homepage repair, then install only its reviewed layout in the private draft. In parallel, complete the original TEST privacy and staff journeys, obtain a populated Looks rail fixture, and finish the seven iPhone journeys before the original final design checks.",
-  "updated": "7 November, 12:06 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.",
+  "remaining": "The homepage and Identity repairs await protected review and tests. TEST setup has merged, and its guest check passed; the signed-in step reached the store-password screen and is addressed by original repair #5493. Existing retries for the store-directory correction, native helper and staff test are queued with the release desk. The TEST catalogue still needs an approved look for its populated rail.",
+  "current": "The homepage and shopper-identity repairs are accepted and in their original second code reviews. Homepage testing has one of five groups passed; the others are queued. Shopify theme 166627606744 stays unpublished. The owner alone approves going live.",
+  "next": "Finish the two original code reviews and required tests, then install their reviewed files into the private draft. Continue the original TEST password-session repair, staff test, populated Looks rail and seven iPhone journeys before the final design checks.",
+  "updated": "7 November, 14:52 UTC (22:52 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -474,8 +474,20 @@
         "text": "Prove the homepage’s two named test repairs and make one repair push (11:59Z–12:05Z, took 6 min; 9 tests and 20 mutations passed)."
       },
       {
+        "complete": true,
+        "text": "Obtain exact-head acceptance and admission to the original second review (accept 12:41Z; Ready 13:05Z; verified 14:46Z)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the TEST setup merge and its actual guest/signed results (14:46Z–14:50Z, took 4 min)."
+      },
+      {
+        "complete": true,
+        "text": "Rebind the prepared one-file homepage installation to the accepted repair head (14:50Z–14:52Z, took 2 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain exact-head acceptance and the original second review (waiting since 12:05Z; next check 12:20Z; queue has no verified completion estimate)."
+        "text": "Complete original second reviews and hosted tests for homepage and Identity (waiting on admitted runs; next check 15:25Z; no verified queue ETA)."
       },
       {
         "complete": true,
@@ -547,7 +559,7 @@
       },
       {
         "complete": false,
-        "text": "Verify Use and Dismiss in signed TEST after the test opens Ask from the conversation menu (original run 08:04Z–08:06Z, stopped at step 3)."
+        "text": "Verify Use and Dismiss in signed TEST after #5490 passes its existing queued retry, merges and serves (est. 5 min once released; prior 08:04Z–08:06Z menu failure is superseded by the later quote-preparation repair)."
       },
       {
         "complete": true,
@@ -690,7 +702,7 @@
         "text": "Return complete evidence to the original final reviewers and finish the unpublished handover (depends on the evidence above; no defensible finish time yet)."
       }
     ],
-    "landing": "Lands: The next decision follows the shared test repair, the staff test run or the signed shopper export diagnosis. Final delivery depends on connected TEST, device access and three passing reviews."
+    "landing": "Lands: Both approved settings changes are saved and verified. The separate storefront handover depends on TEST, iPhone and final reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
@@ -704,7 +716,7 @@
         "text": "Completed — Apply optional address line 2 and email marketing unchecked by default in every region (22:54Z–22:56Z, took2 min). Saved once, reloaded and verified both settings; regions dialog shows0 of237 selected. No theme publication."
       }
     ],
-    "landing": "Lands: Both approved settings changes are saved and verified. The separate storefront handover depends on TEST, iPhone and final reviews.",
+    "landing": "Lands: final date unknown; code-review queues, TEST repairs and native evidence remain. Next source check 15:25Z; no live Shopify publication.",
     "basis": "Separate track: 2 of 2 scoped steps complete. Details below distinguish configuration reads from saved and verified refinements. This adds no delivery-gate credit."
   },
   "petEvidence": {

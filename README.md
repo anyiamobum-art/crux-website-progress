@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45%). 0 of 3 passing ratings.
 
-Last verified 7 November, 12:06 UTC. Six of eleven delivery items are verified. Seven current iPhone journeys and three passing whole-draft ratings remain.
+Last verified 7 November, 14:52 UTC (22:52 Shanghai). Six of eleven delivery items are verified; seven current iPhone journeys and three passing whole-draft ratings remain.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
