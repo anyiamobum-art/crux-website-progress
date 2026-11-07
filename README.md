@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 18:58 UTC. Delivery6/11; native0/7; final whole-draft passes0/3. New design build and source preparation are active; no new rating, private installation or live publication is claimed.
+Last verified 7 November, 20:02 UTC. Six of eleven delivery items are verified, seven iPhone journeys remain, and none of the three final ratings has reached 9.5.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- Higgsfield is connected to the existing CRUX subscription. Its MCP workflow can use the plan credits; developer API billing is separate. No generation, credit purchase or balance conversion was performed.
-- Astra is building a focused Shop This Look viewer using the existing collection-dialog behavior. White Runway, October 3 identity, honest product details and repaired return behavior are retained. This is new source work, not an installed or rated result.
-- Claude’s new scope is the Stores page: photography, location transitions and easy directions. Existing addresses, operating-store status and functional map links are being prepared for the implementation; no store facts are invented.
-- [Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) passed all five test groups, then its second critical review named one Brain-topology coverage finding. The exact fix is back with the original writer. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) has one specifically authorized final test/comment correction with its existing writer.
-- [#5504](https://github.com/EON-CRUX/3.09/pull/5504) and [#5510](https://github.com/EON-CRUX/3.09/pull/5510) remain Draft awaiting their original exact-head acceptance and review. The existing #5493 and #5502 test retries were submitted; no duplicate run or new approval is claimed.
+- [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed.
+- In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.
+- [Stores #5519](https://github.com/EON-CRUX/3.09/pull/5519) updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed and Hands accepted the commit. Published shop data and map providers were outside this test.
+- [Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.
+- [Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview.
 
 ## What still needs to pass
 

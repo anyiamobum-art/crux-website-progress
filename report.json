@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra is building the scoped Look viewer on a separate follow-up branch. Sol is preparing the existing Stores source for Claude and will independently verify its integration. Claude in Chrome shows Fable 5.1 Extra but currently requires a security verification; the confirmation is pending. The release-support agent is continuing the original repair queue.",
+  "workerState": "The viewer builder returned a tested commit. The original Claude Code Desktop Motion lead returned the Stores implementation. Hands accepted the Stores commit and an independent source check is underway.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Higgsfield authentication and subscription entitlement were verified. The existing PLP dialog and PDP helpers were mined for reuse; a fresh viewer build is authorized without touching protected homepage branches. At18:40UTC, homepage integration #5433 received one critical-review finding after all five test groups passed. Its original repair was delivered once through Bridge. The existing #5465 final test-only correction remains with its original writer.",
+  "lastActualProgress": "Shop This Look opened as #5518 after 22 controller cases and 18 mutation checks passed. Root observed the mobile sheet, desktop layout, keyboard focus return and reduced motion. Stores opened as #5519 with 16 passing browser/source tests and five mutation checks.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "The Higgsfield-inspired refinement is being built in parallel: one polished Shop This Look viewer, followed by a Claude-led Stores motion design. The October 3 homepage remains the foundation. The subscription connection is verified; no credits spent. Original release repairs continue separately.",
-  "next": "Complete the new viewer, collect Claude’s Stores motion implementation, render both with the existing shopper components, and verify keyboard, reduced-motion and small-screen behavior. Consume the original protected repair and acceptance results before any private installation.",
-  "updated": "7 November, 18:58 UTC. Delivery6/11; native0/7; final whole-draft passes0/3. New design build and source preparation are active; no new rating, private installation or live publication is claimed.",
+  "current": "The October 3 homepage has a working Shop This Look viewer. The Stores page now has a tested transition between locations. Both changes have pull requests. The private Shopify draft awaits their protected reviews and integration.",
+  "next": "Obtain the chair’s size decision for the 706-line viewer, finish independent inspection of Stores, and take each through its existing release queue. Check the final installed pages with the original TEST shoppers and the allocated iPhones.",
+  "updated": "7 November, 20:02 UTC. Six of eleven delivery items are verified, seven iPhone journeys remain, and none of the three final ratings has reached 9.5.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,26 +345,28 @@
     }
   ],
   "recentChanges": [
-    "Higgsfield is connected to the existing CRUX subscription. Its MCP workflow can use the plan credits; developer API billing is separate. No generation, credit purchase or balance conversion was performed.",
-    "Astra is building a focused Shop This Look viewer using the existing collection-dialog behavior. White Runway, October 3 identity, honest product details and repaired return behavior are retained. This is new source work, not an installed or rated result.",
-    "Claude’s new scope is the Stores page: photography, location transitions and easy directions. Existing addresses, operating-store status and functional map links are being prepared for the implementation; no store facts are invented.",
-    "[Homepage integration #5433](https://github.com/EON-CRUX/3.09/pull/5433) passed all five test groups, then its second critical review named one Brain-topology coverage finding. The exact fix is back with the original writer. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) has one specifically authorized final test/comment correction with its existing writer.",
-    "[#5504](https://github.com/EON-CRUX/3.09/pull/5504) and [#5510](https://github.com/EON-CRUX/3.09/pull/5510) remain Draft awaiting their original exact-head acceptance and review. The existing #5493 and #5502 test retries were submitted; no duplicate run or new approval is claimed."
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed.",
+    "In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification.",
+    "[Stores #5519](https://github.com/EON-CRUX/3.09/pull/5519) updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed and Hands accepted the commit. Published shop data and map providers were outside this test.",
+    "[Homepage repair #5433](https://github.com/EON-CRUX/3.09/pull/5433) has its named fix pushed. [#5465](https://github.com/EON-CRUX/3.09/pull/5465) is Ready and [#5493](https://github.com/EON-CRUX/3.09/pull/5493) has hosted checks queued after integrating main.",
+    "[Shop This Look and store chapter #5504](https://github.com/EON-CRUX/3.09/pull/5504) and [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) are awaiting their protected review process. The new viewer was tested with both in the local preview."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "Higgsfield is connected to the existing CRUX subscription. Its MCP workflow can use the plan credits; developer API billing is separate. No generation, credit purchase or balance conversion was performed."
+        "text": ""
+      },
+      {
+        "text": "Shop This Look #5518",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518"
+      },
+      {
+        "text": " adds a single outfit viewer. Desktop shows the picture beside its pieces. On a phone-width screen, shoppers can open the pieces and return to the same look. All 22 controller cases and 18 mutation checks passed."
       }
     ],
     [
       {
-        "text": "Astra is building a focused Shop This Look viewer using the existing collection-dialog behavior. White Runway, October 3 identity, honest product details and repaired return behavior are retained. This is new source work, not an installed or rated result."
-      }
-    ],
-    [
-      {
-        "text": "Claude’s new scope is the Stores page: photography, location transitions and easy directions. Existing addresses, operating-store status and functional map links are being prepared for the implementation; no store facts are invented."
+        "text": "In the composed October 3 preview, keyboard focus returned to Look closer after Escape. Reduced motion left no running animations. The three measured widths were 384, 434 and 1293 CSS pixels. Actual iPhone behavior and screen-reader speech still need verification."
       }
     ],
     [
@@ -372,18 +374,37 @@
         "text": ""
       },
       {
-        "text": "Homepage integration #5433",
+        "text": "Stores #5519",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
+      },
+      {
+        "text": " updates the shop name, hours and directions as soon as a shopper chooses a location. Displaced cards slide for 300 ms. Sixteen tests passed and Hands accepted the commit. Published shop data and map providers were outside this test."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Homepage repair #5433",
         "url": "https://github.com/EON-CRUX/3.09/pull/5433"
       },
       {
-        "text": " passed all five test groups, then its second critical review named one Brain-topology coverage finding. The exact fix is back with the original writer. "
+        "text": " has its named fix pushed. "
       },
       {
         "text": "#5465",
         "url": "https://github.com/EON-CRUX/3.09/pull/5465"
       },
       {
-        "text": " has one specifically authorized final test/comment correction with its existing writer."
+        "text": " is Ready and "
+      },
+      {
+        "text": "#5493",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5493"
+      },
+      {
+        "text": " has hosted checks queued after integrating main."
       }
     ],
     [
@@ -391,18 +412,18 @@
         "text": ""
       },
       {
-        "text": "#5504",
+        "text": "Shop This Look and store chapter #5504",
         "url": "https://github.com/EON-CRUX/3.09/pull/5504"
       },
       {
         "text": " and "
       },
       {
-        "text": "#5510",
+        "text": "Your edit #5510",
         "url": "https://github.com/EON-CRUX/3.09/pull/5510"
       },
       {
-        "text": " remain Draft awaiting their original exact-head acceptance and review. The existing #5493 and #5502 test retries were submitted; no duplicate run or new approval is claimed."
+        "text": " are awaiting their protected review process. The new viewer was tested with both in the local preview."
       }
     ]
   ],
@@ -466,8 +487,8 @@
     },
     {
       "change": "Higgsfield design refinement",
-      "state": "Viewer build active; Stores implementation brief being prepared",
-      "action": "Reuse the existing dialog and product actions. Keep the chosen look visible on desktop, use a mobile sheet, and give Stores purposeful transitions and easy directions. No installed result or score claimed."
+      "state": "Viewer #5518 and Stores #5519 submitted",
+      "action": "The viewer pairs the selected outfit with its pieces. Stores updates directions immediately and animates the list around the selected shop. Both are tested candidates for the unpublished draft."
     },
     {
       "change": "Higgsfield media connection",
@@ -495,46 +516,42 @@
     "steps": [
       {
         "complete": true,
-        "text": "Complete desktop and 390px Higgsfield study and source reuse comparison (17:40Z–18:58Z, took about78min including source mapping)."
+        "text": "Study the reference and verify the existing media subscription (17:40Z–18:58Z, took 78 min)."
       },
       {
         "complete": true,
-        "text": "Verify subscription entitlement and connect the existing Higgsfield workspace (18:10Z–18:53Z, took about43min including connection workflow; no spend)."
+        "text": "Build the viewer, repair the two source findings and pass the remote checks (18:57Z–19:30Z, took 33 min)."
+      },
+      {
+        "complete": true,
+        "text": "Check the composed outfit viewer at three browser widths and submit it for review (19:38Z–19:58Z, took 20 min)."
+      },
+      {
+        "complete": true,
+        "text": "Deliver the Stores brief in the desktop app and receive the motion build and its tests (19:16Z–19:59Z, took 43 min)."
       },
       {
         "complete": false,
-        "text": "Build the focused Shop This Look viewer and white Runway refinements (started18:57Z, est.30min; isolated follow-up source)."
+        "text": "Review the Stores changes against their frames, then verify directions with the map loaded (source check started 20:01Z, est. 15 min; map check needs the qualified draft)."
       },
       {
         "complete": false,
-        "text": "Prepare current Stores source and have Claude implement its motion design (started18:58Z, est.20min after Chrome verification; existing functional data retained)."
+        "text": "Secure the viewer size decision and complete both protected reviews (started 19:58Z; next check at 20:25Z or an earlier decision)."
       },
       {
         "complete": false,
-        "text": "Render and independently verify the new motion, keyboard, 200% text and reduced-motion behavior (est.20min after candidate source)."
+        "text": "Complete the original homepage and TEST repairs, then install eligible files on the unpublished theme (est. 10 min for installation after merge and file reconciliation)."
       },
       {
         "complete": false,
-        "text": "Consume original Hands acceptance and protected review for #5504 and #5510 (original handoffs retained; next check19:10Z or exact holder result)."
+        "text": "Verify a populated Looks rail, staff actions and consent, signed-shopper privacy and checkout (depends on qualifying TEST repairs and enrolled accounts)."
       },
       {
         "complete": false,
-        "text": "Consume the original #5433 and #5465 named repairs and TEST release results (original writers; next check19:10Z or result)."
-      },
-      {
-        "complete": false,
-        "text": "Install only eligible merged and recomposed files into the unpublished draft (est.10min after qualifying release and preservation checks)."
-      },
-      {
-        "complete": false,
-        "text": "Complete signed privacy, checkout, staff actions and populated Looks checks (original owners; named source and access prerequisites remain)."
-      },
-      {
-        "complete": false,
-        "text": "Complete seven iPhone journeys and the three original final named-fix reviews (after qualified source and evidence; duration unknown)."
+        "text": "Verify seven iPhone journeys and collect the three final reviews (requires the installed draft and device allocation)."
       }
     ],
-    "landing": "Lands: first design candidate about19:30Z if Claude verification clears; rendering and independent checks follow. Protected review, TEST and native allocation have no verified overall finish time. Shopify stays unpublished."
+    "landing": "Lands: both design changes are in GitHub. Final handover timing depends on protected review, TEST access and iPhone allocation."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
