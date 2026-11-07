@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original designer has the precise viewer finding. The release desk received the request to hold Shop This Look on this revision. The Stores designer’s two repairs have passed source verification and remain in the original queue.",
+  "workerState": "The original designer accepted the repaired viewer for independent review. The Stores changes passed their combined directory tests. The second-shopper test repair passed its first code review and its hosted tests are running.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Closing Shop This Look with normal motion at 380px and 430px moved focus to the page body and returned the page to the top. The photo recovery check passed. All three product links stayed usable when the outfit photo failed or timed out.",
+  "lastActualProgress": "Eight Chromium checks returned to precisely the same position at 380px and 430px under both motion settings. Fourteen WebKit checks passed, including 200% zoom and browser Back and Forward. The correction has been pushed.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "The Shop This Look viewer closes, but Chromium loses the shopper’s place when it returns to the page. The original designer has the failing interaction and its event trace. The three-store motion change can proceed independently.",
-  "next": "Verify the designer’s repair with real Close and Back interactions. The release desk can advance Stores independently. After protected merge, install the eligible files in the private theme and run the remaining TEST and iPhone journeys.",
-  "updated": "7 November, 21:13 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
+  "current": "Shop This Look returns shoppers to the exact outfit and spot on the page after Close or Back. The repaired revision is on GitHub. The release desk has a separate slot for the three-store directory.",
+  "next": "Obtain the size admission and protected review for the corrected viewer. Install the eligible changes in the private theme after merge. Exercise the signed TEST and iPhone journeys on the installed version.",
+  "updated": "07 November, 21:39 UTC. Six of eleven delivery gates are verified. Seven native iPhone journeys and three final 9.5 scores remain.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,9 +345,9 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk has received the separate keyboard-focus finding on this revision. [Admission result](https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496)",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) now contains the return-to-outfit fix. Its 23 controller cases and 20 regression mutations passed. The 761-line revision needs a fresh size admission and protected review.",
     "In the October 3 preview, browser Back restored “Red on pink,” keyboard focus and its original scroll position. Forward reopened that look. WebKit at 200% zoom kept Close and Back reachable at 190 and 215 CSS pixels. Reduced motion and Escape passed in the earlier desktop check. Native iPhone and screen-reader speech remain open.",
-    "A real Close click in Chromium exposed a separate return-to-page defect at 380px and 430px. The viewer closed and briefly restored the outfit button, then browser history moved focus to the page body and scroll to the top. The original designer has the trace.",
+    "Close and browser Back had sent shoppers to the top of the page. Now both actions return to the same outfit button at scroll position 844px, with zero shift across eight Chromium measurements. The desktop WebKit check also returned the selected look to its original 820px position.",
     "The yellow jersey photo was then tested with a failed request and a delayed response. Shoppers could still reach the jersey, shorts and socks. Both Retry and late photo delivery restored the image and keyboard focus in desktop WebKit.",
     "The desktop designer fixed rapid Clear and missing press feedback. Combining [the motion change](https://github.com/EON-CRUX/3.09/pull/5519) with [the directory correction](https://github.com/EON-CRUX/3.09/pull/5459) passed 19 tests. The homepage preview lists Palms Lekki, Atlantic Center Chevron and Abuja FCT. Each directions link contains the matching address. The installed draft still needs the correction and loaded-map check."
   ],
@@ -361,14 +361,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " adds one outfit viewer. Its 22 controller cases and 18 mutation checks passed. Hands recorded the size grant. The hosted check accepted the size and every other item except the PR’s Draft status. The release desk has received the separate keyboard-focus finding on this revision. "
-      },
-      {
-        "text": "Admission result",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42408738782/job/128521907496"
-      },
-      {
-        "text": ""
+        "text": " now contains the return-to-outfit fix. Its 23 controller cases and 20 regression mutations passed. The 761-line revision needs a fresh size admission and protected review."
       }
     ],
     [
@@ -378,7 +371,7 @@
     ],
     [
       {
-        "text": "A real Close click in Chromium exposed a separate return-to-page defect at 380px and 430px. The viewer closed and briefly restored the outfit button, then browser history moved focus to the page body and scroll to the top. The original designer has the trace."
+        "text": "Close and browser Back had sent shoppers to the top of the page. Now both actions return to the same outfit button at scroll position 844px, with zero shift across eight Chromium measurements. The desktop WebKit check also returned the selected look to its original 820px position."
       }
     ],
     [
@@ -542,8 +535,12 @@
         "text": "Trace the Close-button focus and scroll loss at 380px and 430px and return it to the original designer (21:09Z–21:12Z)."
       },
       {
+        "complete": true,
+        "text": "Repair and recheck Close and browser Back across both phone widths and motion settings, then push the corrected viewer (21:12Z–21:39Z)."
+      },
+      {
         "complete": false,
-        "text": "Repair and recheck the viewer’s return to the same outfit. Stores can enter protected review independently."
+        "text": "Obtain fresh size admission and protected review for the repaired viewer. Stores has an independent release slot."
       },
       {
         "complete": false,
