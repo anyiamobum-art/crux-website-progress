@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-07T16:29:22.411874+00:00",
+  "snapshot": "2026-11-07T16:50:24.433875+00:00",
   "purpose": "Public summary of Argon's contribution, original-owner disposition and evidence limits. This is not a raw review transcript.",
   "counts": {
     "websiteDelivery": "6/11",
@@ -132,18 +132,18 @@
     "website": {
       "number": "03",
       "name": "Website",
-      "status": "First build caught in full-homepage verification; repair active.",
+      "status": "Saved-piece continuity verified; last-removal keyboard repair active.",
       "title": "A personal edit, built around the shopper’s choices.",
       "summary": "Argon proposed four experience improvements. The first is a quiet Your edit entry to real saved pieces. Astra is building it and Sol 6.1 is checking the actual homepage runtime independently. Earlier store-enquiry improvements remain recorded below.",
       "before": "Saved pieces already existed, but the selected October 3 homepage loads an archived controller with a different interface. Adding a second saved system would risk inconsistent behavior.",
       "after": "One small entry will show the real saved count or a useful empty state and open the existing Saved drawer. No forced welcome quiz, invented popularity, new tracking or unrequested cart additions.",
       "resultTitle": "Ideas are becoming code. The actual journey must pass.",
-      "result": "Argon returned four current ideas in its original conversation. The first Your edit source is built, but actual-homepage verification found that a later-loading catalogue owner leaves its saved count disconnected. Astra is fixing the original source and Sol independently reproduced the failing journey. No merge, installation, conversion improvement or final rating is claimed. Separate homepage cleanup #5504 has its chair acknowledgment; protected review remains open.",
+      "result": "The repaired Your edit source passes 7 remote tests, 18 fault checks and 16 independent DOM cases. Actual full-homepage Save/reopen/Remove works. Browser verification found one remaining focus issue when the final saved piece is removed; Astra is fixing it and Sol reproduced the exact target error. No Shopify installation, conversion gain or final rating is claimed.",
       "stages": [
         {
           "title": "Return to your choices.",
           "text": "Your edit uses actual saved pieces in this browser and opens the existing drawer. The first slice has no new product grid, cart controls or cross-device memory.",
-          "state": "Original Astra repair / Sol full-homepage regression"
+          "state": "Original late-owner repair verified / keyboard fallback repair active"
         },
         {
           "title": "Take a selected piece to a store.",
@@ -554,6 +554,11 @@
           "title": "Actual homepage catches a saved-entry disconnect",
           "date": "7 November 2026, 16:24–16:25 UTC",
           "text": "The real product Save button updates its own state and header count, but Your edit stays empty. Independent verification reproduced the same actual emitted catalogue path: 13 earlier cases pass and the new full-homepage case fails. The original builder owns the bounded initialization repair; no accepted build or Shopify installation yet."
+        },
+        {
+          "title": "Actual homepage closes a test-coverage gap",
+          "date": "7 November 2026, 16:49 UTC",
+          "text": "Saved-piece continuity now works in the full offline-rendered homepage, including a returning saved piece. Closing after the last removal loses focus; the original writer and independent checker are addressing it. Remote and DOM passes do not substitute for this browser result."
         }
       ],
       "limit": "No conversion uplift or new 9.5 score is established. Your edit remains uninstalled work. Current final whole-draft passes are 0/3 and native journeys 0/7. Fable’s original contribution connection returned a weekly limit; its keeper owns recovery. The Shopify draft stays unpublished.",

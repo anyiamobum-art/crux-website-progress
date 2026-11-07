@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra and Sol 6.1 are actively building and verifying the separate Your edit slice. Argon’s four ideas were fact-checked and narrowed against the actual archived runtime. Fable supplied no new ideas because of its current weekly limit. Website lead owns integration, current reports and private release; the original release and TEST owners retain their lanes.",
+  "workerState": "Astra is repairing the saved-drawer focus return while Sol 6.1 verifies the same source independently. Original release support is reading changed protected outcomes. Argon supplied four ideas; Fable supplied none because its original connection is usage-limited.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Actual full-homepage verification caught a defect missed by the 13 passing native-controller cases; the added catalogue case fails and the original builder is fixing it. #5465’s failed hosted check is now diagnosed as an asset hash/size mismatch, returned to its original owner. #5504 has six regression tests and 10/10 fault checks; #5502 retains its first code approval.",
+  "lastActualProgress": "Your edit passed 7 remote tests, all 18 mutation checks and 16 independent DOM cases. The real full-homepage Save/reopen/Remove journey now works, but closing after removing the last piece loses keyboard focus. Two new focused regressions reproduce that defect; the original builder is repairing it. #5465 has an actual rejection plus its diagnosed stale asset manifest, both retained in the original repair lane.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery outcomes remain: staff review/consent actions; complete signed privacy separation; the final three ratings; final private installation and seven iPhone journeys; Big Bag device return behavior. C08 step 9 reached a storefront password screen for the second test shopper; its original repair is #5502, now Ready. No replacement test run or reviewer has been started.",
-  "current": "Argon’s four experience ideas are checked. The first Your edit build exposed a real homepage defect: saving a product updates the header but leaves the new entry empty. Astra is repairing the asynchronous connection; Sol reproduced the same failure independently. Fable’s original connection returned a weekly-limit refusal and supplied no ideas. Homepage cleanup #5504 has the chair’s acknowledgment; exact Hands acceptance and protected review remain.",
-  "next": "Verify the repaired entry through the actual full-homepage Save, reopen and Remove path, then take the scoped source through protected review. The separate Quick Add check found a stale file manifest; its original writer has the diagnosis through Bridge. Continue the original TEST and iPhone release paths without duplicate runs.",
-  "updated": "7 November, 16:33 UTC (8 November, 00:33 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Current ideas and local proof do not count as installed-theme or final-review acceptance.",
+  "current": "Argon’s four ideas have produced a source-tested Your edit entry. The full homepage now restores saved pieces and updates counts correctly. A real-browser last-item removal check found one keyboard-focus issue; the same Astra builder is fixing it and Sol has reproduced the exact failing target. Fable’s original connection remains usage-limited. Homepage cleanup #5504 has chair acknowledgment and awaits exact Hands acceptance.",
+  "next": "Finish the narrow focus repair, verify the actual full homepage again, and take its source through protected review. Bridge acknowledged the Quick Add file-manifest defect and has returned it with the original review findings to the same writer. Continue the original TEST and iPhone release paths.",
+  "updated": "7 November, 16:49 UTC (8 November, 00:49 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Source and local-browser checks do not establish Shopify installation, conversion uplift or final acceptance.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -451,8 +451,8 @@
     },
     {
       "change": "Adaptive experience",
-      "state": "Actual-homepage defect found; original repair and verification active",
-      "action": "Your edit is intended to open the existing saved-piece drawer with a real count and an honest empty state. Its first build fails when the catalogue initializes later; it is not accepted or installed. It adds no forced chooser before browsing. Later scoped ideas carry selected pieces to a store enquiry and distinguish photographed outfits from catalogue suggestions. Conversion uplift remains unmeasured."
+      "state": "Late-loading repair verified; final focus repair active",
+      "action": "Your edit opens the existing saved-piece drawer with a real count and an honest empty state. Actual full-homepage verification now passes the late-loading catalogue path; last-item removal still needs its keyboard-focus correction. It is not installed. It adds no forced chooser before browsing. Later scoped ideas carry selected pieces to a store enquiry and distinguish photographed outfits from catalogue suggestions. Conversion uplift remains unmeasured."
     },
     {
       "change": "Personal memory boundary",
@@ -489,15 +489,15 @@
       },
       {
         "complete": false,
-        "text": "Build and independently verify the small Your edit entry (started 16:07Z, est. 45 min; full-homepage testing exposed a late initialization defect to repair)."
+        "text": "Build and independently verify the small Your edit entry (started 16:07Z, revised est. 63 min; late initialization is fixed; the actual browser found one last-removal focus repair)."
       },
       {
         "complete": false,
-        "text": "Recover the original Fable contribution after its keeper restores that same connection (waiting since 16:03Z; next check 16:50Z or keeper result)."
+        "text": "Recover the original Fable contribution after its keeper restores that same connection (waiting since 16:03Z; next check 17:10Z or keeper result)."
       },
       {
         "complete": false,
-        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 16:50Z or result)."
+        "text": "Consume original protected review and TEST results; install eligible merged files privately (waiting on original results; next check 17:10Z or result)."
       },
       {
         "complete": false,
@@ -508,7 +508,7 @@
         "text": "Complete seven iPhone journeys and the three original final named-fix reviews (after qualified source/evidence; queue and review duration unknown)."
       }
     ],
-    "landing": "Lands: repaired Your edit source and independent check targeted about 16:52Z; the actual catalogue regression must pass. Protected review, Fable availability and native acceptance still determine the unpublished-draft handover; their total duration is unknown. No live publication."
+    "landing": "Lands: repaired Your edit source and independent check targeted about 17:10Z; the named last-removal focus regression and actual browser check must pass. Protected review, Fable availability and native acceptance still determine the unpublished-draft handover; their total duration is unknown. No live publication."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

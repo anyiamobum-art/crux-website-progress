@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 7 November, 16:33 UTC (8 November, 00:33 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Current ideas and local proof do not count as installed-theme or final-review acceptance.
+Last verified 7 November, 16:49 UTC (8 November, 00:49 Shanghai). Delivery 6/11; native 0/7; passing final whole-draft ratings 0/3. Source and local-browser checks do not establish Shopify installation, conversion uplift or final acceptance.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
