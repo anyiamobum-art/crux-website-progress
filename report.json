@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra: Big Bag built and rendered, final one-line phone repair verified, original remote job queued. Collection builder: all three named review repairs prepared, original proof job queued. Independent Astra support: no further Big Bag defect established; checking a measured Back-position residual against the original contract. Native captain: original device-helper repair complete, receipt queued.",
+  "workerState": "Astra owns Big Bag and homepage integration. Sol owns the collection repairs and product-photo release. The original Runway reviewer and device captain retain their separate work. Big Bag has not paused any of these tasks.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 23:40 UTC, the installed Big Bag journey returned from Donut Lamp to the same visible object after a category change. The measured image position differed by 9.3 pixels and is being checked against the original acceptance criteria. Big Bag homepage phone clearance, keyboard focus and the website reduced-motion control are verified on revision 7216029e. Team Help has entered review with fresh admission passed.",
+  "lastActualProgress": "At 23:51 UTC, the product-photo retention fix passed its first independent code review on its current source. Homepage integration entered review at 23:47 UTC. Big Bag’s final phone repair and navigation checks are complete. Its separate installed Back-position check found a 9.3px mismatch, returned to the original motion writer.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The existing remote jobs are waiting for occupied worker slots. Collection repairs still require their final proof and combined-design card. The original Runway second review and size-guide final named-fix verdict remain outstanding. Signed TEST and current-iPhone acceptance are unfinished.",
-  "current": "Big Bag has a new October 3 homepage chapter and a dedicated group in Collections. Desktop and phone checks are complete, its real Lighting link opens 13 products in the unpublished Shopify theme, and the phone button overlap is repaired. The collection and Runway builders continue separately.",
-  "next": "Consume the existing remote Big Bag proof into protected review, complete the original collection repair proof, and install only eligible merged sources. The original signed TEST and device captains retain their work.",
-  "updated": "08 November 2026, 23:40 UTC. New Big Bag chapter and native Lighting destination checked; protected review and final remote proof remain open. Installed Back journey preserves the object with a measured 9.3px residual. No new final rating or delivery gate is claimed.",
+  "remaining": "The original remote test jobs await occupied worker slots. The Runway film still needs the existing video-rule correction and its original second design review. Size-guide final review, signed TEST and current-iPhone acceptance remain outstanding.",
+  "current": "Big Bag has been built into the October 3 homepage and Collections menu. Its phone and desktop presentation, keyboard access and real Lighting destination are checked. The homepage integration and product-photo repair are in protected review; the photo repair has passed its first independent code review.",
+  "next": "Finish the original Big Bag and collection test jobs, then submit their qualified repairs. Continue the original protected reviews, install eligible merged files into the unpublished draft and finish the signed TEST and current-iPhone checks.",
+  "updated": "08 November 2026, 23:58 UTC. Big Bag is built and rendered; remote proof, protected review and installation of the homepage chapter remain. Two changes have entered review and the photo repair has its first approval. No final 9.5 pass or new delivery gate is claimed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -571,7 +571,7 @@
   "homepageDirection": [
     {
       "change": "Single shopping section",
-      "state": "PR #5504; integrated 4f2ec0a0 submitted, protected review pending",
+      "state": "PR #5504; integrated 4f2ec0a0 entered protected review at23:47Z",
       "action": "The selected Runway now reads Shop This Look. Only the later duplicate homepage placement is removed."
     },
     {
@@ -642,11 +642,11 @@
       },
       {
         "complete": false,
-        "text": "Consume the existing Big Bag test job, obtain the exact-head receipt and protected review, then install the eligible chapter (waiting on the original worker slot since 23:07Z; next check 23:55Z)."
+        "text": "Consume the existing Big Bag test job, obtain the exact-head receipt and protected review, then install the eligible chapter (waiting on the original worker slot since 23:07Z; next check 00:05Z)."
       },
       {
         "complete": true,
-        "text": "Exercise installed Big Bag category → product → Back on desktop (23:37Z–23:40Z, took 3 min; same object retained, 9.3px residual awaiting original-contract disposition)."
+        "text": "Exercise installed Big Bag category → product → Back on desktop (23:37Z–23:40Z, took 3 min; same object retained; 9.3px mismatch returned to the original motion writer)."
       },
       {
         "complete": false,
