@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the unpublished draft, the 404 Tee correctly stopped at its stock limit and the 90s Rugged Shirt kept quantity two after reload. Checkout opened. All 24 selected theme files matched the saved source. An independent size-filter test caught one wrong fallback in 40 product links.",
+  "lastActualProgress": "A shopper test with M and In stock confirmed that Green on Acid Hooded Top opened sold-out S. None of the 13 page-two colour controls accepted a normal tap. Back from three products did restore the correct filtered listing. The original tester has retained the same two-page case for replay.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Sol is repairing a size-filter mismatch found by an independent shopper test. The device and Big Bag teams are tracing their separate blockers. The lead verified bag quantities, checkout handoff and the installed draft files.",
+  "current": "Sol is fixing two failures independently reproduced on the installed collection. A colour tap can open a sold-out size and product cards on page two intercept colour taps. The device and Big Bag teams are working on their own checks.",
   "next": "Retest the repaired size and colour links on the same catalogue. The original TEST captains run staff consent and two-account isolation when their fixes are served. The iPhone captain needs a qualified device helper and a working preview route.",
-  "updated": "08 November, 08:36 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "08 November, 08:40 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "The preview now opens the real unpublished collection and bag. Page 2 showed 20 different products. In a separate size-filter test, 39 of 40 links selected an available M. One bikini opened in S. Sol has the exact failing product and an independent tester will repeat the check.",
+    "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. Page one accepted 17/17 taps and page two accepted 0/13. Back from three products restored the right filters, page and products. The independent tester will replay the same two pages after repair.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
@@ -354,7 +354,7 @@
   "recentChangeParts": [
     [
       {
-        "text": "The preview now opens the real unpublished collection and bag. Page 2 showed 20 different products. In a separate size-filter test, 39 of 40 links selected an available M. One bikini opened in S. Sol has the exact failing product and an independent tester will repeat the check."
+        "text": "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. Page one accepted 17/17 taps and page two accepted 0/13. Back from three products restored the right filters, page and products. The independent tester will replay the same two pages after repair."
       }
     ],
     [

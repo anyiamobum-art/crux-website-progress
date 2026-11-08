@@ -8,13 +8,13 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November, 08:36 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.
+Last verified 08 November, 08:40 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- The preview now opens the real unpublished collection and bag. Page 2 showed 20 different products. In a separate size-filter test, 39 of 40 links selected an available M. One bikini opened in S. Sol has the exact failing product and an independent tester will repeat the check.
+- The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. Page one accepted 17/17 taps and page two accepted 0/13. Back from three products restored the right filters, page and products. The independent tester will replay the same two pages after repair.
 - Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.
 - Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.
 - Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.
