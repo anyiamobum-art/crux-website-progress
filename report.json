@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The staff-review repair passed its fifth hosted test group at 10:04 UTC and the shopper privacy repair at 10:05 UTC. The staff repair has entered protected review. The store theme has not received either TEST repair. The Big Bag owner has the four measurements showing the clicked product 394 px out of place after Back.",
+  "lastActualProgress": "The Shop layout was exercised at 188, 380, 430 and 1280 px. The two-account privacy repair merged, and the Big Bag Back repair was committed for independent verification.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Add to bag and checkout handoff work on the unpublished Shopify theme. Both TEST repairs passed all five hosted test groups. The collection changes still need protected review and installation. Big Bag still loses your place on Back.",
+  "current": "Shop opens on Best sellers in the private design preview. New arrivals is one tap away. Only the main header stays visible while shopping. The collection and Big Bag repairs are in verification.",
   "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The Motion lead has the failing Back test and starts after its current repair passes. Signed TEST and iPhone captains continue their separate checks.",
-  "updated": "8 November, 10:11 UTC. Signed-off delivery checks 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "8 November, 10:56 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,13 +345,18 @@
     }
   ],
   "recentChanges": [
+    "The Shop design preview now opens on the merchant’s 12 Best sellers, with 232 New arrivals next to it. At 380 × 844 px the header and browse row use 105 px. Filters holds four filter groups, 34 category links and the one/two-column view. Shopify installation and independent design review are pending.",
     "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
-    "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
-    "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). Both TEST repairs now passed all five hosted test groups. Staff review actions and the last second-account privacy case still need the deployed TEST build.",
-    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead acknowledged both Big Bag repairs."
+    "Four signed TEST journeys passed 35 of 35 steps. [The shopper privacy repair](https://github.com/EON-CRUX/3.09/pull/5502) merged. The next two-account check stopped during environment setup, before either account ran. The last native privacy result remains 8/9.",
+    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead committed the repair. Its independent return-position check is running."
   ],
   "recentChangeParts": [
+    [
+      {
+        "text": "The Shop design preview now opens on the merchant’s 12 Best sellers, with 232 New arrivals next to it. At 380 × 844 px the header and browse row use 105 px. Filters holds four filter groups, 34 category links and the one/two-column view. Shopify installation and independent design review are pending."
+      }
+    ],
     [
       {
         "text": ""
@@ -371,24 +376,19 @@
     ],
     [
       {
-        "text": "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled."
-      }
-    ],
-    [
-      {
         "text": "Four signed TEST journeys passed 35 of 35 steps. "
       },
       {
-        "text": "Original guest-to-signed result",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105"
+        "text": "The shopper privacy repair",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5502"
       },
       {
-        "text": ". Both TEST repairs now passed all five hosted test groups. Staff review actions and the last second-account privacy case still need the deployed TEST build."
+        "text": " merged. The next two-account check stopped during environment setup, before either account ran. The last native privacy result remains 8/9."
       }
     ],
     [
       {
-        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead acknowledged both Big Bag repairs."
+        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead committed the repair. Its independent return-position check is running."
       }
     ]
   ],
