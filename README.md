@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November, 15:17 UTC. Delivery 6/11. Four signed journeys 35/35. Saved-look export and removal 9/9. Final iPhone checks 0/7. Whole-draft ratings at 9.5 or above 0/3.
+Last verified 08 November 2026, 15:34 UTC.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
@@ -16,9 +16,9 @@ The public history first shows six on 13 October. A reversal on 14 October broug
 
 - [Product size guide #5555](https://github.com/EON-CRUX/3.09/pull/5555) adds cm and inches to the product page. Forty size and option tests passed. Chromium at 380, 430 and 1280 px verified size selection and the saved unit. Mac WebKit also verified conversion, selection and touch targets at 320, 380 and 430 px. All 34 hosted mutation checks passed. The website lead has handed this revision to Hands for protected review. Shopify installation and iPhone verification are pending.
 - [Collection button alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align.
-- In the private [Shop This Look preview change #5556](https://github.com/EON-CRUX/3.09/pull/5556), tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft.
+- In the private [Shop This Look preview change #5556](https://github.com/EON-CRUX/3.09/pull/5556), tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft. [Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6723381616) has its lead acceptance for the final code check. The phone-width browser returned from Luffy Tee to the same look and scroll position. The size grant was already in place. The release desk has the handoff.
 - [Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon confirmed all three earlier findings resolved. The final 4 px Menu-to-wordmark gap passed all ten widths. The revised navigation proof now catches the previously missed desktop wrapping regression. The chair has the updated 660-line request against a 600-line limit.
-- [The signed privacy test](https://github.com/EON-CRUX/3.09/actions/runs/42475063547) passed all nine steps on 8 November. The previous removal error is closed. Same-browser account switching still has its own attended check. [The collection review](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6723057650) found two defects. The original builder has committed both fixes and queued the regression run.
+- [The signed privacy test](https://github.com/EON-CRUX/3.09/actions/runs/42475063547) passed all nine steps on 8 November. The previous removal error is closed. Same-browser account switching still has its own attended check. [The collection review](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6723057650) found two defects. The old version failed both cases. The original builder’s repaired revision passed 15 behavior cases and all 36 mutation checks, was pushed once, and has a new protected review request.
 
 ## What still needs to pass
 
