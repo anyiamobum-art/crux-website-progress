@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Sol is finishing the catalogue repair’s release checks. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
+  "current": "Sol’s catalogue repair is open as PR #5535 after its independent test and all 33 regression checks passed. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
   "next": "Carry the collection fix through protected review and check the same two pages on Shopify. Return the Big Bag scroll evidence to its original writer. Staff, privacy and device tests can proceed as each dependency clears.",
-  "updated": "8 November, 09:02 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "8 November, 09:10 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "The catalogue fix passed an independent touch replay of two pages using the committed theme and captured inventory. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly had no eligible option. The installed draft still needs that fix and the same replay. The installed Big Bag page has a separate confirmed Back jump.",
+    "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535) passed the independent two-page replay. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly offered other options. Protected review and the installed Shopify replay remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
@@ -354,7 +354,14 @@
   "recentChangeParts": [
     [
       {
-        "text": "The catalogue fix passed an independent touch replay of two pages using the committed theme and captured inventory. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly had no eligible option. The installed draft still needs that fix and the same replay. The installed Big Bag page has a separate confirmed Back jump."
+        "text": ""
+      },
+      {
+        "text": "Collection repair #5535",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5535"
+      },
+      {
+        "text": " passed the independent two-page replay. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly offered other options. Protected review and the installed Shopify replay remain open."
       }
     ],
     [
@@ -489,8 +496,12 @@
         "text": "Independently replay the repaired catalogue across 40 cards, 22 eligible colour taps and three Back trips in the two-page fixture (08:30Z–09:00Z, took 30 min)."
       },
       {
+        "complete": true,
+        "text": "Open the verified catalogue repair as PR #5535. All 33 regression checks passed, and the independent tester compared both final rendered pages byte for byte (09:04Z–09:09Z, took 5 min)."
+      },
+      {
         "complete": false,
-        "text": "Complete protected review of the catalogue repair, install into the private draft, then repeat the same journey on Shopify."
+        "text": "Obtain protected review on #5535, install the reviewed version into the private draft and repeat the two-page shopper test on Shopify."
       },
       {
         "complete": false,
