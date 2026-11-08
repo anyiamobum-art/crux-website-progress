@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The collection repair and the closed-store correction are with the Website lead. The original monitor caught the collection review rejection. The separate Website handoff still needs its own working return route.",
+  "workerState": "The monitor caught the collection rejection on its regular round. Its owner acknowledged a separate missed Website follow-up. That routing repair still needs installation and a verified return to the original Website chat.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "An isolated test of the installed draft found a product view still queued after analytics consent was declined. It was intercepted locally. The privacy repair and its TEST check are now with the release and identity leads.",
+  "lastActualProgress": "Shop This Look passed its final named-fix code review. The Big Bag writer corrected the stale file fingerprint and submitted the repair for fresh checks. In the controlled browser, Back restored the same object from half a second through five seconds after returning.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five launch gates remain. The shopper privacy export and deletion journey passed. Same-browser account switching, staff review actions and buyer consent, Big Bag Back, seven iPhone journeys, final draft assembly and three design ratings still need evidence.",
+  "remaining": "Five launch gates remain. The four signed TEST journeys and saved-look export and deletion passed. Same-browser privacy, review consent, Big Bag Back on the installed theme, device checks and three final ratings remain. An isolated test of the draft script still queued a product view after analytics was declined. The privacy owners have that result.",
   "current": "Stores motion is installed on the unpublished theme. At phone width I selected Chevron, then Palms, and verified the selected shop each time. A separate fix removes closed Osapa from both directories and the fitting desk.",
-  "next": "The release lead is checking filtered Quick buy before the final review. A separate collection layout pass needs to bring products closer to the header. The 380-pixel layout starts the first product image 552 pixels down.",
-  "updated": "08 November 2026, 16:43 UTC.",
+  "next": "After the Big Bag repair merges and reaches the private theme, repeat Back on desktop and iPhone. Verify the selected card, scroll position and focus. In parallel the collection owner is checking filtered Quick buy and the 552 px before the first image on a 380 px screen.",
+  "updated": "08 November 2026, 16:50 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -359,7 +359,7 @@
   "recentChanges": [
     "[Product size guide #5555](https://github.com/EON-CRUX/3.09/pull/5555) adds cm and inches to the product page. Forty size and option tests passed. Chromium at 380, 430 and 1280 px verified size selection and the saved unit. Mac WebKit also verified conversion, selection and touch targets at 320, 380 and 430 px. All 34 hosted mutation checks passed. The website lead has handed this revision to Hands for protected review. Shopify installation and iPhone verification are pending.",
     "[Collection button alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align.",
-    "In the private [Shop This Look preview change #5556](https://github.com/EON-CRUX/3.09/pull/5556), tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft. [Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6723381616) has its lead acceptance for the final code check. The phone-width browser returned from Luffy Tee to the same look and scroll position. The size grant was already in place. The release desk has the handoff.",
+    "In the private [Shop This Look preview change #5556](https://github.com/EON-CRUX/3.09/pull/5556), twelve garment hotspots across five outfits opened ten matching product destinations. The phone-width browser returned from Luffy Tee to the same look and scroll position. The underlying change passed its [final named-fix code review](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6723771752). Hosted testing and private installation are still open.",
     "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own header control. The [collection review](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6723508212) found that Quick buy could offer an excluded variant and menu URLs with options could lose their selected state. Both repairs are committed. Tests and the independent visual check are in progress.",
     "[Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) merged and was installed in the Shopify draft. The served source maps match the approved files. A phone-width browser selected Chevron, then Palms. The first tap before the page became interactive did not switch stores. Native iPhone testing and removal of the closed Osapa listing are separate. The [signed privacy test](https://github.com/EON-CRUX/3.09/actions/runs/42475063547) passed all nine steps."
   ],
@@ -397,14 +397,14 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5556"
       },
       {
-        "text": ", tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft. "
+        "text": ", twelve garment hotspots across five outfits opened ten matching product destinations. The phone-width browser returned from Luffy Tee to the same look and scroll position. The underlying change passed its "
       },
       {
-        "text": "Shop This Look",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6723381616"
+        "text": "final named-fix code review",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6723771752"
       },
       {
-        "text": " has its lead acceptance for the final code check. The phone-width browser returned from Luffy Tee to the same look and scroll position. The size grant was already in place. The release desk has the handoff."
+        "text": ". Hosted testing and private installation are still open."
       }
     ],
     [
@@ -485,8 +485,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Its hosted check then found an outdated asset fingerprint and a separate companion-test timeout. The original owners have both failures. Narrow-layout repair #5544 has its own checks.",
-      "next": "After protected review and private installation, measure where the same lamp returns on desktop and iPhone and verify the title and sort control at narrow widths.",
+      "blocker": "The installed draft previously moved the selected lamp by 394 px on Back. The builder reproduced and fixed the position in a controlled browser, and corrected the stale TEST file fingerprint. The updated source is in hosted checks. Narrow-layout repair #5544 has separate checks.",
+      "next": "Verify the same card, scroll and focus on the installed theme on desktop and iPhone. Check the narrow title and sort label. [Browser result and repair](https://github.com/EON-CRUX/3.09/pull/5541#issuecomment-6724212379)",
       "state": "Installed Back trip displaced the selected lamp by 394 px. The revised return passed its builder’s browser test",
       "owner": "Motion lead owns #5541 and #5544. Website and device captains verify the installed draft",
       "closes": "Title fits at 320 and 380 px, the sort label fits at 188 px, and Back restores the selected product on desktop and iPhone",
