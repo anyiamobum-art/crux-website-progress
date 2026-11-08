@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Three builders are working in parallel on collection navigation and filters, the Shop This Look detail view and the Come Through store directory. The website owner is reconnecting commerce links and testing the bag.",
+  "workerState": "Sol 6.1 has the connected staff and two-shopper tests. One Astra 6 agent has native iPhone, another has Big Bag and final review evidence. The website lead owns the shopping journey and matching the installed draft to the reviewed files.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Compared the design preview with Shopify. The preview returned HTTP 501 on add, 404 on bag and repeated page 1. The Shopify draft returned separate Looks and archive pages, 20 products on collection page 2 and real availability, price, colour and size filters. The draft link still needs reliable browser verification.",
+  "lastActualProgress": "On the unpublished draft, page 2 showed 20 different products and Looks opened its own page. Choosing Green / XL added one 404 Tee. Opening the bag again showed the same variant. The quantity button needs a separate result.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Restoring shopping on the October 3 design. The design preview cannot add to a bag or open it. Its Looks, collection and page 2 links display the same three products. The original Shopify features are still present.",
-  "next": "Verify that a shopper can select a size, add it, reopen the same bag, change quantity and reach checkout on the unpublished theme. Verify Grid/Focus, category, filter, clear and Back against the same catalogue.",
-  "updated": "08 November, 08:11 UTC. Signed-off delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Native iPhone 0/7. Whole-draft ratings at 9.5 or above 0/3.",
+  "current": "Three verification agents and the website lead are testing five remaining outcomes in parallel. Each row below names the owner, what a shopper must be able to do, and what evidence closes it.",
+  "next": "Finish the bag quantity check, qualify the iPhone helper, then run the seven original iPhone journeys. The connected TEST captains run their remaining checks as soon as their own repairs are served.",
+  "updated": "08 November, 08:29 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,50 +345,43 @@
     }
   ],
   "recentChanges": [
-    "Shopping regression reproduced. The preview returned HTTP 501 for Add to bag and 404 for the bag. The restored shopping journey remains open until a real selected variant persists, updates quantity and reaches the checkout handoff.",
-    "Collection regression reproduced. Page 2 repeated page 1 and Looks opened the product grid. The earlier merchant menu still contains the Men, Women, Denim, Accessories, Footwear and Lifestyle departments. The Shopify draft returned availability, price, colour and size filters. Grid/Focus and filter interaction are under repair.",
-    "A new private Come Through candidate displays three real store addresses and directions. Its homepage and shared assets loaded. Mobile, keyboard and no-JavaScript interactions are being checked.",
-    "[Signed shopper on TEST](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105) passed 10/10. A guest selected three pieces, signed in and got a styled look using one of them. Signing out cleared the next guest’s panel. Three related journeys passed another 25/25 steps on the same build. A second signed account still needs its separate privacy check.",
-    "[October 3 homepage assembly](https://github.com/EON-CRUX/3.09/pull/5504) now renders exactly one Shop This Look, then Your edit and the Come Through store chapter, from eight candidate changes. The main Shop link and eight collection links reach the regular catalogue. The combined changes still need protected merges and installation on the private Shopify draft."
+    "The preview now opens the real unpublished Shopify collection, product page and bag. A 380 px browser saw 20 different products on page 2, and Looks opened its own page.",
+    "Choosing the Green / XL 404 Tee added exactly one matching variant. Reopening the bag showed that item, and cleanup restored the empty bag. A quantity increase needs separate verification.",
+    "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
+    "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
+    "The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "Shopping regression reproduced. The preview returned HTTP 501 for Add to bag and 404 for the bag. The restored shopping journey remains open until a real selected variant persists, updates quantity and reaches the checkout handoff."
+        "text": "The preview now opens the real unpublished Shopify collection, product page and bag. A 380 px browser saw 20 different products on page 2, and Looks opened its own page."
       }
     ],
     [
       {
-        "text": "Collection regression reproduced. Page 2 repeated page 1 and Looks opened the product grid. The earlier merchant menu still contains the Men, Women, Denim, Accessories, Footwear and Lifestyle departments. The Shopify draft returned availability, price, colour and size filters. Grid/Focus and filter interaction are under repair."
+        "text": "Choosing the Green / XL 404 Tee added exactly one matching variant. Reopening the bag showed that item, and cleanup restored the empty bag. A quantity increase needs separate verification."
       }
     ],
     [
       {
-        "text": "A new private Come Through candidate displays three real store addresses and directions. Its homepage and shared assets loaded. Mobile, keyboard and no-JavaScript interactions are being checked."
+        "text": "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled."
       }
     ],
     [
       {
-        "text": ""
+        "text": "Four signed TEST journeys passed 35 of 35 steps. "
       },
       {
-        "text": "Signed shopper on TEST",
+        "text": "Original guest-to-signed result",
         "url": "https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105"
       },
       {
-        "text": " passed 10/10. A guest selected three pieces, signed in and got a styled look using one of them. Signing out cleared the next guest’s panel. Three related journeys passed another 25/25 steps on the same build. A second signed account still needs its separate privacy check."
+        "text": ". The separate second-account privacy case is still open."
       }
     ],
     [
       {
-        "text": ""
-      },
-      {
-        "text": "October 3 homepage assembly",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
-      },
-      {
-        "text": " now renders exactly one Shop This Look, then Your edit and the Come Through store chapter, from eight candidate changes. The main Shop link and eight collection links reach the regular catalogue. The combined changes still need protected merges and installation on the private Shopify draft."
+        "text": "The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus."
       }
     ]
   ],
@@ -397,46 +390,46 @@
       "label": "5. Buyer trust and WhatsApp reviews",
       "blocker": "The original diagnostic writer fixed the requested message/event capture. Hands integrated the shared test fix into #5490. Its hosted suite is under way.",
       "next": "After release the staff TEST captain still needs to exercise Use, Dismiss, buyer consent and withdrawal on the connected flow.",
-      "state": "Diagnostic fix in hosted testing; staff journey pending",
-      "owner": "Staff TEST captain and quote-repair owner",
-      "closes": "Staff actions and consent/withdrawal pass in the connected workspace",
-      "timing": "About 10 min after release; queue time unknown"
+      "state": "Connected staff and buyer workflow pending",
+      "owner": "Sol 6.1 with the original staff TEST captain",
+      "closes": "On TEST, staff can Use and Dismiss a review, the buyer can consent to publication and withdraw it, and the resulting visibility is checked",
+      "timing": "Starts after the diagnostic repair is merged and served"
     },
     {
       "label": "6. Assistant privacy facts",
       "blocker": "Two-account isolation is 8/9. Guest-to-signed styling and clearing the panel on sign-out passed 10/10. The second signed account reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC.",
       "next": "The TEST captain can repeat the last account-isolation check after #5502 passes hosted checks, merges and is served.",
-      "state": "8/9. The shared fix is in the password-path repair; its hosted suite is pending",
-      "owner": "Original privacy TEST captain",
-      "closes": "The second signed account passes isolation on the served repair",
-      "timing": "About 10 min after release and TEST access"
+      "state": "Eight of nine assertions pass. The final second-account case is open",
+      "owner": "Sol 6.1 with the original privacy TEST captain",
+      "closes": "Sign in as shopper B, then shopper D, and verify D cannot see B’s saved look or recommendations",
+      "timing": "Starts when the served TEST password repair is verified"
     },
     {
       "label": "8. Final three-model ratings",
       "blocker": "Final source still needs the repaired shopping journeys, 200% text and small-iPhone evidence. Last full scores: Fable 9.05, Opus 8.75; Astra unqualified.",
       "next": "The three original readers perform the remaining named-fix checks on the same finished draft. Close only when each averages at least 9.5 and no measure is below 9.",
-      "state": "Waiting on qualified evidence",
-      "owner": "Original three final reviewers",
-      "closes": "Each final result reaches 9.5 average, with no measure below 9",
-      "timing": "Review duration unknown; only permitted named-fix checks remain"
+      "state": "Zero of three final passes. Previous full reads gave Fable 9.05, Opus 8.75 and Astra an incomplete score",
+      "owner": "Astra 6 prepares evidence. The three original reviewers decide independently",
+      "closes": "Each reader checks the named fixes on the same draft, averages at least 9.5 and gives no measure below 9",
+      "timing": "After device evidence and all named repairs are on the same draft"
     },
     {
       "label": "10. Completed Shopify draft and handover",
       "blocker": "Homepage and Identity original reviews/tests, closed-store correction, TEST checkout repair and native helper must finish; 0/7 current native journeys are verified.",
       "next": "The release owners finish the existing lanes. Website lead installs eligible files privately and the original captains run connected TEST and iPhone checks. Close with the exact final theme files, complete journey evidence and handover.",
-      "state": "Review, TEST and device work in progress",
-      "owner": "Website lead, release desk and original TEST/iPhone captains",
-      "closes": "Eligible files privately installed; connected checks and 7/7 native journeys pass; final handover prepared",
-      "timing": "Bounded install about 10 min after merge; total queue and device time unknown"
+      "state": "Repaired catalogue routes and first add verified. Final installed assembly and seven native journeys remain open",
+      "owner": "Website lead owns the private install. Astra 6 and the original iPhone captain own device proof",
+      "closes": "Match the reviewed files to the installed draft, verify shopping through checkout handoff, and complete all seven original iPhone journeys",
+      "timing": "Eligible files move after protected merge. Native work uses the existing device slot"
     },
     {
       "label": "11. BIG BAG page and navigation",
       "blocker": "Desktop title fitting passed. Native product-to-Back restoration is still unverified.",
       "next": "The original iPhone captain follows a Big Bag product and returns to the expected collection and scroll position. Close with that device receipt; this shares the native run with item 10.",
-      "state": "Native check pending",
-      "owner": "Original iPhone captain",
-      "closes": "Product → Back returns to the correct collection and position",
-      "timing": "About 5 min within the same native allocation, not another build"
+      "state": "Two narrow-layout failures are under investigation and the native return trip is open",
+      "owner": "Astra 6 coordinates the two original repair writers. The iPhone captain runs the return trip",
+      "closes": "At 320 and 380 px the menu strike fits its title. At 188 px the sort label clears the chevron. On iPhone, product → Back restores category and scroll position",
+      "timing": "Layout work runs in parallel. Native return shares the existing iPhone run"
     }
   ],
   "homepageDirection": [
@@ -481,134 +474,38 @@
     "steps": [
       {
         "complete": true,
-        "text": "Study the reference and verify the existing media subscription (17:40Z–18:58Z, took 78 min)."
+        "text": "Split the five remaining gates among three verification agents and the website lead (08:20Z–08:27Z, took 7 min)."
       },
       {
         "complete": true,
-        "text": "Build the viewer, repair the two source findings and pass the remote checks (18:57Z–19:30Z, took 33 min)."
-      },
-      {
-        "complete": true,
-        "text": "Check the composed outfit viewer at three browser widths and submit it for review (19:38Z–19:58Z, took 20 min)."
-      },
-      {
-        "complete": true,
-        "text": "Deliver the Stores brief in the desktop app and receive the motion build and its tests (19:16Z–19:59Z, took 43 min)."
-      },
-      {
-        "complete": true,
-        "text": "Check the Stores source against phone and desktop frames and send the two findings for repair (20:01Z–20:04Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify rapid Clear and pressed feedback on the repaired source, and connect the local homepage to it (20:04Z–20:26Z, took 22 min)."
+        "text": "Verify the draft’s Looks page and page 2, add one in-stock tee and reopen the matching bag (08:18Z–08:26Z, took 8 min)."
       },
       {
         "complete": false,
-        "text": "After private installation, verify directions with the map loaded and check the two location controls on iPhone (depends on protected merge and device allocation)."
-      },
-      {
-        "complete": true,
-        "text": "Obtain the chair’s size decision for the viewer (19:58Z–20:17Z, took 19 min)."
-      },
-      {
-        "complete": true,
-        "text": "Combine both Stores changes and check all three directions links (20:41Z–20:48Z, took 7 min)."
-      },
-      {
-        "complete": true,
-        "text": "Verify outfit focus, Back, Forward and narrow-screen controls at 200% zoom in desktop WebKit (20:50Z–20:56Z)."
-      },
-      {
-        "complete": true,
-        "text": "Verify failed and delayed outfit photography preserves shopping links and retry focus (20:57Z–21:02Z)."
-      },
-      {
-        "complete": true,
-        "text": "Trace the Close-button focus and scroll loss at 380px and 430px and return it to the original designer (21:09Z–21:12Z)."
-      },
-      {
-        "complete": true,
-        "text": "Repair and recheck Close and browser Back across both phone widths and motion settings, then push the corrected viewer (21:12Z–21:39Z)."
-      },
-      {
-        "complete": true,
-        "text": "Obtain size approval and Hands acceptance on the corrected viewer (22:13Z–22:33Z, took 20 min)."
-      },
-      {
-        "complete": true,
-        "text": "Exercise the served viewer on the recorded revision and post the original designer’s result (23:36Z–23:37Z, took 1 min)."
-      },
-      {
-        "complete": true,
-        "text": "Enter protected review for Shop This Look (23:43 UTC) and Stores (23:57 UTC)."
-      },
-      {
-        "complete": true,
-        "text": "Repair Shop This Look and verify both product-page returns in the browser (23:44Z–00:14Z, took 30 min)."
-      },
-      {
-        "complete": true,
-        "text": "Exercise the homepage store link and reopen a real saved piece in Your edit; send both results to the desk (00:11Z–00:14Z, took 3 min)."
-      },
-      {
-        "complete": true,
-        "text": "Correct the 390px Stores jump and verify the first frame after Clear (00:02Z–00:17Z, took 15 min)."
-      },
-      {
-        "complete": true,
-        "text": "Exercise the product gallery through six browser cases and submit the scoped change (00:14Z–00:28Z, took 14 min)."
-      },
-      {
-        "complete": true,
-        "text": "Rehearse the combined 42-file home assembly and verify the section order (00:29Z–00:33Z, about 4 min)."
-      },
-      {
-        "complete": true,
-        "text": "Obtain second code approval for Stores (00:33 UTC)."
-      },
-      {
-        "complete": true,
-        "text": "Verify collection viewer geometry in Chromium at six sizes and connect three private product pages (00:42Z–00:49Z, took 7 min)."
-      },
-      {
-        "complete": true,
-        "text": "Restore focus and scroll after returning from Stores on cached and recreated pages. Nine tests and 13 mutation checks passed. The five-file review is #5532 (07:20 UTC builder acceptance)."
-      },
-      {
-        "complete": true,
-        "text": "Verify the collection in Mac WebKit at 320/380 px and 40/40 mutation checks on the worker. The full Linux WebKit suite has a baseline browser crash. Submit five-file PR #5531 (07:18 UTC)."
-      },
-      {
-        "complete": true,
-        "text": "Restore the outfit after an in-page jump and a product visit, exercise the failing path in Chromium, and post the fix and browser result to #5518 (07:18Z–07:36Z, took 18 min)."
-      },
-      {
-        "complete": true,
-        "text": "Validate four signed shopping journeys on one served TEST build, 35/35 steps including guest-to-signed styling (verified 07:40 UTC)."
-      },
-      {
-        "complete": true,
-        "text": "Combine eight source revisions and render the four design surfaces, preserving the single shopping section, store chapter and normal Shop links (07:38Z–07:49Z, took 11 min)."
+        "text": "Verify the bag quantity controls and checkout handoff; record the selected variant and before/after quantity (started 08:26Z, estimate 15 min)."
       },
       {
         "complete": false,
-        "text": "Get the final review on the corrected outfit viewer and merge Stores after its queued CI rerun (waiting on the release desk; timing unknown)."
+        "text": "Check staff review actions and buyer consent after the TEST repair reaches the workspace (estimate 10 min of testing after installation)."
       },
       {
         "complete": false,
-        "text": "Complete the original homepage and TEST repairs, then install eligible files on the unpublished theme (est. 10 min for installation after merge and file reconciliation)."
+        "text": "Complete the ninth privacy check with the original two TEST shoppers (estimate 10 min after the repair is served)."
       },
       {
         "complete": false,
-        "text": "Verify a populated Looks rail, staff actions and consent, signed-shopper privacy and checkout (depends on qualifying TEST repairs and enrolled accounts)."
+        "text": "Resolve the two Big Bag layout checks through the original writers; verify the product return within the shared iPhone run (investigation started 08:22Z, next evidence check 08:45Z)."
       },
       {
         "complete": false,
-        "text": "Verify seven iPhone journeys and collect the three final reviews (requires the installed draft and device allocation)."
+        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 08:45Z)."
+      },
+      {
+        "complete": false,
+        "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: both design changes are in GitHub. Final handover timing depends on protected review, TEST access and iPhone allocation."
+    "landing": "Lands: The next verification update is due by 08:45Z. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

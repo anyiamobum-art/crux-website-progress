@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November, 08:11 UTC. Signed-off delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Native iPhone 0/7. Whole-draft ratings at 9.5 or above 0/3.
+Last verified 08 November, 08:29 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- Shopping regression reproduced. The preview returned HTTP 501 for Add to bag and 404 for the bag. The restored shopping journey remains open until a real selected variant persists, updates quantity and reaches the checkout handoff.
-- Collection regression reproduced. Page 2 repeated page 1 and Looks opened the product grid. The earlier merchant menu still contains the Men, Women, Denim, Accessories, Footwear and Lifestyle departments. The Shopify draft returned availability, price, colour and size filters. Grid/Focus and filter interaction are under repair.
-- A new private Come Through candidate displays three real store addresses and directions. Its homepage and shared assets loaded. Mobile, keyboard and no-JavaScript interactions are being checked.
-- [Signed shopper on TEST](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105) passed 10/10. A guest selected three pieces, signed in and got a styled look using one of them. Signing out cleared the next guest’s panel. Three related journeys passed another 25/25 steps on the same build. A second signed account still needs its separate privacy check.
-- [October 3 homepage assembly](https://github.com/EON-CRUX/3.09/pull/5504) now renders exactly one Shop This Look, then Your edit and the Come Through store chapter, from eight candidate changes. The main Shop link and eight collection links reach the regular catalogue. The combined changes still need protected merges and installation on the private Shopify draft.
+- The preview now opens the real unpublished Shopify collection, product page and bag. A 380 px browser saw 20 different products on page 2, and Looks opened its own page.
+- Choosing the Green / XL 404 Tee added exactly one matching variant. Reopening the bag showed that item, and cleanup restored the empty bag. A quantity increase needs separate verification.
+- Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.
+- Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.
+- The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus.
 
 ## What still needs to pass
 
