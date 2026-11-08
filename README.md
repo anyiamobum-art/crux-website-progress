@@ -14,11 +14,11 @@ The public history first shows six on 13 October. A reversal on 14 October broug
 
 ## What changed
 
+- [Product size guide #5555](https://github.com/EON-CRUX/3.09/pull/5555) adds cm and inches to the product page. Forty size and option tests passed. Three browser widths kept the selected size and remembered the unit in the same tab. Shopify installation and iPhone verification are pending.
+- [Collection button alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align.
+- In the private Shop This Look preview, tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft.
 - [Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon confirmed all three earlier findings resolved. The final 4 px Menu-to-wordmark gap passed all ten widths. The protected intake identified the 629-line change against its 600-line limit. The release chair has the size request.
-- [Purchase controls #5550](https://github.com/EON-CRUX/3.09/pull/5550) distinguishes choosing options from adding the selected item. Seven wiring cases and four add-to-cart journeys passed. All four test carts finished empty. The hosted regression checks passed and the [lead accepted this revision](https://github.com/EON-CRUX/3.09/pull/5550#issuecomment-6721800302).
-- [Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. At 12:42 UTC, four of the five candidate files were absent from the Shopify draft and the fifth was the earlier version. Protected review, merge and the installed shopper test remain open.
 - Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address.
-- The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back.
 
 ## What still needs to pass
 

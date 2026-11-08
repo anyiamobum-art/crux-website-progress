@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Argon found all three earlier menu issues resolved. Its last suggestion added 4 px between Menu and the wordmark. The revised header passed all ten browser widths. The Add to bag controls passed their hosted mutation checks and received the Website lead’s acceptance.",
+  "lastActualProgress": "On the Nightrunner hoodie, M switched from 67 cm to 26.4 inches and back while keeping the size and bag selection. In separate collection checks, all 78 paired rows put their purchase buttons at the same height.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,8 +138,8 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five release outcomes remain. The latest two-account privacy attempt reached 6/9, then Remove Look returned HTTP 500. The staff workflow needs its TEST delivery fixture. Seven native journeys, Big Bag return position, the final installed assembly and three passing independent ratings are open.",
-  "current": "Collections has its own button beside the CRUX wordmark. Stores and the bag are one tap away. Menu groups shopping destinations separately from Search, Saved pieces and Account.",
-  "next": "The release desk has the accepted catalogue and purchase changes. The compact menu depends on the catalogue merge and a size ruling. The original Opus reviewer needs its connection restored. Private installation and shopper checks follow protected review.",
+  "current": "Product size guides let shoppers choose cm or inches. The Runway has twelve garment hotspots across five looks. Both are working in private previews.",
+  "next": "The size guide and aligned purchase buttons are in the review queue. The Runway designer is preparing its dependent review. Installation on the unpublished Shopify theme, native checks and final reviews follow.",
   "updated": "08 November, 13:00 UTC. Delivery 6/11. Four signed TEST journeys 35/35. Latest two-account privacy attempt 6/9. Final native journeys 0/7. Passing whole-draft ratings 0/3.",
   "links": [
     {
@@ -357,13 +357,42 @@
     }
   ],
   "recentChanges": [
+    "[Product size guide #5555](https://github.com/EON-CRUX/3.09/pull/5555) adds cm and inches to the product page. Forty size and option tests passed. Three browser widths kept the selected size and remembered the unit in the same tab. Shopify installation and iPhone verification are pending.",
+    "[Collection button alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align.",
+    "In the private Shop This Look preview, tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft.",
     "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon confirmed all three earlier findings resolved. The final 4 px Menu-to-wordmark gap passed all ten widths. The protected intake identified the 629-line change against its 600-line limit. The release chair has the size request.",
-    "[Purchase controls #5550](https://github.com/EON-CRUX/3.09/pull/5550) distinguishes choosing options from adding the selected item. Seven wiring cases and four add-to-cart journeys passed. All four test carts finished empty. The hosted regression checks passed and the [lead accepted this revision](https://github.com/EON-CRUX/3.09/pull/5550#issuecomment-6721800302).",
-    "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. At 12:42 UTC, four of the five candidate files were absent from the Shopify draft and the fifth was the earlier version. Protected review, merge and the installed shopper test remain open.",
-    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address.",
-    "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back."
+    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
   ],
   "recentChangeParts": [
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Product size guide #5555",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5555"
+      },
+      {
+        "text": " adds cm and inches to the product page. Forty size and option tests passed. Three browser widths kept the selected size and remembered the unit in the same tab. Shopify installation and iPhone verification are pending."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Collection button alignment #5554",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5554"
+      },
+      {
+        "text": " corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align."
+      }
+    ],
+    [
+      {
+        "text": "In the private Shop This Look preview, tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft."
+      }
+    ],
     [
       {
         "text": ""
@@ -378,43 +407,7 @@
     ],
     [
       {
-        "text": ""
-      },
-      {
-        "text": "Purchase controls #5550",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5550"
-      },
-      {
-        "text": " distinguishes choosing options from adding the selected item. Seven wiring cases and four add-to-cart journeys passed. All four test carts finished empty. The hosted regression checks passed and the "
-      },
-      {
-        "text": "lead accepted this revision",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5550#issuecomment-6721800302"
-      },
-      {
-        "text": "."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Collection repair #5535",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631"
-      },
-      {
-        "text": " has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. At 12:42 UTC, four of the five candidate files were absent from the Shopify draft and the fifth was the earlier version. Protected review, merge and the installed shopper test remain open."
-      }
-    ],
-    [
-      {
         "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
-      }
-    ],
-    [
-      {
-        "text": "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back."
       }
     ]
   ],
@@ -472,8 +465,8 @@
         "author": "Astra",
         "preview": "Previewed",
         "shopify": "Pending",
-        "experience": "Select a garment to move from the outfit to a close-up in the same photo.",
-        "next": "Finish the viewer review, then review and install the close-up on the draft.",
+        "experience": "Twelve garment hotspots across five photographed outfits open ten products on the white Runway.",
+        "next": "Review the garment hotspots and verify the installation on the unpublished theme.",
         "review": "Viewer #5518"
       },
       {
@@ -531,6 +524,18 @@
   "finalRatingState": "0 of 3 passing ratings",
   "timedPlan": {
     "steps": [
+      {
+        "complete": true,
+        "text": "Measure paired shopping buttons across five widths and submit the row repair (13:51Z)."
+      },
+      {
+        "complete": true,
+        "text": "Verify product size conversion, saved preference and variant selection at three widths and submit the repair (14:28Z)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the five-look private Runway and ten product destinations (14:20Z)."
+      },
       {
         "complete": true,
         "text": "Add space for keyboard focus, recheck ten widths and submit the exact Shop revision (12:46Z–12:54Z, took 8 min)."
