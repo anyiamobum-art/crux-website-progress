@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Team Help #5580 was submitted at 22:09 UTC with exact-source acceptance and passing focused proof. The original TEST captain reports that Hands has taken the customer-link setup and its single TEST run. The native helper’s five test groups have passed; its combined gate and release remain separate.",
+  "lastActualProgress": "Team Help #5580 was submitted at 22:09 UTC with exact-source acceptance and passing focused proof. The original TEST captain reports that Hands has taken the customer-link setup and its single TEST run. The shared test-timing repair #5454 has passed its combined gate; this is release-support evidence, not an iPhone test result.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -140,7 +140,7 @@
   "remaining": "Protected reviews and installation still separate tested changes from the finished draft. Runway needs the assigned production-film exemption and original independent verdict. Signed TEST journeys, seven native iPhone journeys and three whole-draft final named-fix ratings remain unfinished.",
   "current": "The homepage integration is tested and submitted at 4f2ec0a0. The cm/inches switch has an independent component PASS of 9.60, with no measure below 9.0. Your edit is green locally and waits for the homepage dependency to merge before its final integration. Team Help passed its focused proof and is submitted as #5580 for protected review.",
   "next": "Complete the existing protected reviews, merge eligible repairs, then install their exact files in the unpublished Shopify draft. The original TEST captain now has the served customer-link repair; the iPhone captain continues the device-helper release.",
-  "updated": "08 November 2026, 22:18 UTC. Team Help submission and proof verified. No new protected merge, Shopify installation or whole-site final rating is claimed.",
+  "updated": "08 November 2026, 22:31 UTC. Team Help submission and proof, plus the iPhone helper’s independent approval, verified. No new protected merge, Shopify installation or whole-site final rating is claimed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -343,7 +343,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "The last device attempt received HTTP 429 before the draft loaded. The repaired helper’s hosted checks passed at17:45 UTC; its protected merge and the dated device allocation remain open. The original captain owns the small and current iPhone run."
+      "evidence": "The last device attempt received HTTP 429 before the draft loaded. The repaired helper’s hosted checks passed, and its independent critical review was approved at22:30 UTC. Its protected merge and dated device allocation remain open. The original captain owns the small and current iPhone run."
     },
     {
       "stage": "Final design acceptance",

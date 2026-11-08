@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November 2026, 22:18 UTC. Team Help submission and proof verified. No new protected merge, Shopify installation or whole-site final rating is claimed.
+Last verified 08 November 2026, 22:31 UTC. Team Help submission and proof, plus the iPhone helper’s independent approval, verified. No new protected merge, Shopify installation or whole-site final rating is claimed.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
