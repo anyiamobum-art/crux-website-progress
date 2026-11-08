@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The shared TEST prerequisite passed three of five groups, with two queued. The release desk has one repeat run queued for the iPhone helper after a budget-sheet test failed. The original shopper and iPhone captains retain their checks.",
+  "workerState": "The shared TEST prerequisite merged at 06:16 UTC. Its fix is now in the password-path and staff diagnostic branches. Their hosted tests are under way. The release desk has the Stores and iPhone-helper reruns.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The collection photo grew from 253 to 465 px on a 380 × 667 screen. Close and the product link were reachable at six sizes in Chromium. The private preview now connects three archive products to their product pages. Stores passed its second code review.",
+  "lastActualProgress": "Mac WebKit opened and returned from the collection’s actual shirt variant at 320 and 380 px. In the separate homepage fix, Back from the directory restored the store link and its keyboard focus on both a cached and a recreated page. Both changes now have pull requests.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Stores passed its second code review. Shop This Look was accepted for its second review. The two changes each have five hosted test groups queued. Both remain open.",
-  "next": "Merge the reviewed changes when their checks pass, then install them in the unpublished theme. The homepage builder is fixing Back from Stores. The collection builder is checking a WebKit worker crash.",
-  "updated": "08 November, 00:49 UTC. Six of eleven delivery gates are verified. Signed privacy is 8/9, native iPhone journeys 0/7, and final passing ratings 0/3.",
+  "current": "Four Higgsfield-inspired changes have working private previews. Stores passed code review. Shop This Look is in its final requested repair for returning from a product after an in-page jump. The collection and product galleries have separate pull requests.",
+  "next": "Complete the outfit viewer’s final named check, take Stores through its outstanding CI run, then install eligible changes in the unpublished theme. After the TEST repair lands, repeat account separation with the second shopper.",
+  "updated": "08 November, 07:27 UTC. Six of eleven delivery gates are verified. Signed privacy is 8/9, native iPhone journeys 0/7, and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,11 +345,11 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287) returned to the same outfit and exact scroll position after visiting Luffy Tee and pressing Back. Both starting points passed, at 1,157 px from home and 844 px from the collection link. Hands accepted the corrected version for its second review. The verdict and five queued test groups remain open.",
-    "[Stores](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714936124) fixed a 16-pixel jump when the distance message wraps at a 390-pixel width. Clearing the selection now has a check on the first animation frame. All 21 Stores tests passed. [Second code review passed](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6715100263). Five hosted test groups, merge, and the installed iPhone check remain open.",
-    "[Product gallery](https://github.com/EON-CRUX/3.09/pull/5524#issuecomment-6715049052) held the inspected back view when changing sizes. Choosing Blue instead of Red switched to Blue’s lead photo. This passed six private Chromium cases across 380, 430 and 1,280 px with normal and reduced motion, using a test product. The change is in a separate pull request.",
-    "[Homepage](https://github.com/EON-CRUX/3.09/pull/5504) now has an offline 42-file assembly with one Shop This Look, the saved edit, and a store invitation in that order. The combined preview opened the three-store directory and selected Abuja. On Back, Chrome could restore the focused link but jump 2,209 px to the top. When it recreated the page, it kept the scroll position but lost keyboard focus. The homepage builder traced the jump to the archived catalogue script and is repairing this return path.",
-    "Collection viewer — At 380 × 667 the garment photo is now 465 px tall, up from 253 px. At 320 × 568 the full product link is reachable. The six Chromium sizes passed. The Linux WebKit browser crashed before its assertions. The private preview links to the 404 Tee, 90s Rugged Shirt and 99 Yellow Jersey product pages."
+    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6715286929) restored the right outfit on the plain homepage and the original collection link. Its second review found one more path: jump to a section after arriving on the homepage, open another outfit, visit its product and press Back. The original designer reproduced the failure and is qualifying the fix for the last review.",
+    "[Stores](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6715100263) passed its second code review and four of five hosted test groups. The fifth failed a board-feed timing check outside the Stores files. The release desk queued one whole rerun. The change removes the 16 px jump when the distance message wraps and handles Clear on its first frame.",
+    "[Product gallery](https://github.com/EON-CRUX/3.09/pull/5524) held the back view when changing sizes and switched to the correct lead photo on a colour change. Six private Chromium cases passed. Hands accepted this revision; it awaits the release desk’s review slot.",
+    "[Homepage return from Stores](https://github.com/EON-CRUX/3.09/pull/5532) restored the Find a store link to the original 386 px screen position after a trip to Abuja. Keyboard focus returned to the link and the next Tab reached Explore all. Both cached and recreated pages passed. Nine tests and thirteen mutation checks passed. Its five-file PR depends on the original homepage change #5504.",
+    "[Collection viewer](https://github.com/EON-CRUX/3.09/pull/5531) enlarged the photograph from 253 to 465 px at a 380 × 667 viewport and kept the full product link reachable on a 320 × 568 screen. All six Chromium layouts passed. Mac WebKit opened the rendered 90s Rugged Shirt variant and returned to the collection at both widths. The full Linux WebKit suite still fails to load the collection on both the original and changed source."
   ],
   "recentChangeParts": [
     [
@@ -358,10 +358,10 @@
       },
       {
         "text": "Shop This Look",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6715286929"
       },
       {
-        "text": " returned to the same outfit and exact scroll position after visiting Luffy Tee and pressing Back. Both starting points passed, at 1,157 px from home and 844 px from the collection link. Hands accepted the corrected version for its second review. The verdict and five queued test groups remain open."
+        "text": " restored the right outfit on the plain homepage and the original collection link. Its second review found one more path: jump to a section after arriving on the homepage, open another outfit, visit its product and press Back. The original designer reproduced the failure and is qualifying the fix for the last review."
       }
     ],
     [
@@ -370,17 +370,10 @@
       },
       {
         "text": "Stores",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714936124"
-      },
-      {
-        "text": " fixed a 16-pixel jump when the distance message wraps at a 390-pixel width. Clearing the selection now has a check on the first animation frame. All 21 Stores tests passed. "
-      },
-      {
-        "text": "Second code review passed",
         "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6715100263"
       },
       {
-        "text": ". Five hosted test groups, merge, and the installed iPhone check remain open."
+        "text": " passed its second code review and four of five hosted test groups. The fifth failed a board-feed timing check outside the Stores files. The release desk queued one whole rerun. The change removes the 16 px jump when the distance message wraps and handles Clear on its first frame."
       }
     ],
     [
@@ -389,10 +382,10 @@
       },
       {
         "text": "Product gallery",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5524#issuecomment-6715049052"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5524"
       },
       {
-        "text": " held the inspected back view when changing sizes. Choosing Blue instead of Red switched to Blue’s lead photo. This passed six private Chromium cases across 380, 430 and 1,280 px with normal and reduced motion, using a test product. The change is in a separate pull request."
+        "text": " held the back view when changing sizes and switched to the correct lead photo on a colour change. Six private Chromium cases passed. Hands accepted this revision; it awaits the release desk’s review slot."
       }
     ],
     [
@@ -400,36 +393,43 @@
         "text": ""
       },
       {
-        "text": "Homepage",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
+        "text": "Homepage return from Stores",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5532"
       },
       {
-        "text": " now has an offline 42-file assembly with one Shop This Look, the saved edit, and a store invitation in that order. The combined preview opened the three-store directory and selected Abuja. On Back, Chrome could restore the focused link but jump 2,209 px to the top. When it recreated the page, it kept the scroll position but lost keyboard focus. The homepage builder traced the jump to the archived catalogue script and is repairing this return path."
+        "text": " restored the Find a store link to the original 386 px screen position after a trip to Abuja. Keyboard focus returned to the link and the next Tab reached Explore all. Both cached and recreated pages passed. Nine tests and thirteen mutation checks passed. Its five-file PR depends on the original homepage change #5504."
       }
     ],
     [
       {
-        "text": "Collection viewer — At 380 × 667 the garment photo is now 465 px tall, up from 253 px. At 320 × 568 the full product link is reachable. The six Chromium sizes passed. The Linux WebKit browser crashed before its assertions. The private preview links to the 404 Tee, 90s Rugged Shirt and 99 Yellow Jersey product pages."
+        "text": ""
+      },
+      {
+        "text": "Collection viewer",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5531"
+      },
+      {
+        "text": " enlarged the photograph from 253 to 465 px at a 380 × 667 viewport and kept the full product link reachable on a 320 × 568 screen. All six Chromium layouts passed. Mac WebKit opened the rendered 90s Rugged Shirt variant and returned to the collection at both widths. The full Linux WebKit suite still fails to load the collection on both the original and changed source."
       }
     ]
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "All five automated groups passed for the diagnostic that records what happens when Prepare quote fails. Its reviewer requested changes to the captured messages and events. The shopper-facing result still needs a connected TEST run.",
-      "next": "The staff TEST captain checks Use, Dismiss, buyer consent and withdrawal on the served change.",
-      "state": "Diagnostic passed automated tests; reviewer requested changes. Staff journey awaits connected TEST",
+      "blocker": "The original diagnostic writer fixed the requested message/event capture. Hands integrated the shared test fix into #5490. Its hosted suite is under way.",
+      "next": "After release the staff TEST captain still needs to exercise Use, Dismiss, buyer consent and withdrawal on the connected flow.",
+      "state": "Diagnostic fix in hosted testing; staff journey pending",
       "owner": "Staff TEST captain and quote-repair owner",
-      "closes": "Staff actions and buyer consent/withdrawal all pass",
-      "timing": "About 10 min for the prepared walk after release; queue time unknown"
+      "closes": "Staff actions and consent/withdrawal pass in the connected workspace",
+      "timing": "About 10 min after release; queue time unknown"
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "The signed run passed 8 of 9 checks. The second shopper reached a TEST password screen. Its #5502 fix passed one review, but two hosted test groups failed.",
-      "next": "The shared repair passed three test groups and two are queued. After #5505 merges, Hands merges main into #5502 and runs the suite once. After release, the TEST captain repeats the second-shopper check.",
-      "state": "8/9. The second shopper’s password-path fix depends on shared test repair #5505",
+      "blocker": "8 of 9 passed. The second signed shopper reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC.",
+      "next": "The TEST captain can repeat the last account-isolation check after #5502 passes hosted checks, merges and is served.",
+      "state": "8/9. The shared fix is in the password-path repair; its hosted suite is pending",
       "owner": "Original privacy TEST captain",
-      "closes": "Export, deletion and account separation all pass on served source",
+      "closes": "The second signed account passes isolation on the served repair",
       "timing": "About 10 min after release and TEST access"
     },
     {
@@ -593,16 +593,16 @@
         "text": "Verify collection viewer geometry in Chromium at six sizes and connect three private product pages (00:42Z–00:49Z, took 7 min)."
       },
       {
-        "complete": false,
-        "text": "Correct homepage Back from Stores and verify scroll and keyboard focus on both return paths (original builder in progress, estimate pending)."
+        "complete": true,
+        "text": "Restore focus and scroll after returning from Stores on cached and recreated pages. Nine tests and 13 mutation checks passed. The five-file review is #5532 (07:20 UTC builder acceptance)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the collection in Mac WebKit at 320/380 px and 40/40 mutation checks on the worker. The full Linux WebKit suite has a baseline browser crash. Submit five-file PR #5531 (07:18 UTC)."
       },
       {
         "complete": false,
-        "text": "Finish WebKit and mutation checks for the collection viewer (worker crashed before assertions; recovery time unknown)."
-      },
-      {
-        "complete": false,
-        "text": "Obtain the outfit viewer’s second-review result and both protected merges (shared test queue, time unknown)."
+        "text": "Complete the one fix from the outfit viewer’s second review and get the reviewer’s final verdict. Merge both changes when their required checks pass (shared queue, duration unknown)."
       },
       {
         "complete": false,
