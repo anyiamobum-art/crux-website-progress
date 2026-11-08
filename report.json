@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The private inventory check found an available M on 39 of 40 products across two pages. All five proposed installation destinations matched their expected starting state. On Big Bag, the Donut Lamp returned 394 px away from its former screen position on all four measurements over five seconds. The repair request reached the original writer’s queue.",
+  "lastActualProgress": "The private inventory check found an available M on 39 of 40 products across two pages. All five proposed installation destinations matched their expected starting state. On Big Bag, the Donut Lamp returned 394 px away from its former screen position on all four measurements over five seconds. The Motion lead has the exact failing test and owns both the Back jump and the narrow-layout repair.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "The release lead posted the required acceptance for collection repair #5535 after checking both pages against inventory on the unpublished theme. The PR is in the release desk’s hands for protected review. In parallel, the Big Bag writer has been requested and the iPhone captain acknowledged the updated evidence.",
-  "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The original Big Bag writer has a failing Back test. Signed TEST and iPhone captains continue their separate checks.",
-  "updated": "8 November, 09:48 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "current": "The release lead posted the required acceptance for collection repair #5535 after checking both pages against inventory on the unpublished theme. The PR is in the release desk’s hands for protected review. In parallel, the Motion lead accepted both Big Bag repairs and the iPhone captain acknowledged the updated evidence.",
+  "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The Motion lead has the failing Back test and starts after its current repair passes. Signed TEST and iPhone captains continue their separate checks.",
+  "updated": "8 November, 09:59 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -349,7 +349,7 @@
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
-    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The original writer has been requested."
+    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead acknowledged both Big Bag repairs."
   ],
   "recentChangeParts": [
     [
@@ -388,7 +388,7 @@
     ],
     [
       {
-        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The original writer has been requested."
+        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead acknowledged both Big Bag repairs."
       }
     ]
   ],
@@ -431,10 +431,10 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The original writer request is queued.",
+      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The Motion lead accepted ownership and starts after its current #5533 repair is pushed and accepted.",
       "next": "Check that the repaired draft restores the clicked product to its previous screen position, then verify the narrow title and sort control and the iPhone return.",
       "state": "Desktop Back kept Lighting but jumped from 3,712 to 30 px. Narrow title and sort checks also failed",
-      "owner": "Astra 6 verifies, original Big Bag writers repair, iPhone captain checks the device",
+      "owner": "Motion lead repairs, Astra independently verifies, iPhone captain checks the device",
       "closes": "Title fits at 320 and 380 px, sort text clears its arrow at 188 px, and Back restores the same category and place on desktop and iPhone",
       "timing": "Desktop defect reproduced. Its repair and narrow-layout work can proceed while the iPhone slot is pending"
     }
