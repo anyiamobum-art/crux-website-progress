@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 8 November, 10:56 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.
+Last verified 8 November, 11:11 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- The Shop design preview now opens on the merchant’s 12 Best sellers, with 232 New arrivals next to it. At 380 × 844 px the header and browse row use 105 px. Filters holds four filter groups, 34 category links and the one/two-column view. Shopify installation and independent design review are pending.
+- [Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) opens the 12-piece Best sellers edit beside New arrivals. At 380 × 820, the first photo moved from 349 px to 157 px and only the 52 px header stays on screen. Filters contains the view choice and 34 category links. Review and private Shopify installation are pending.
 - [Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.
 - Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.
-- Four signed TEST journeys passed 35 of 35 steps. [The shopper privacy repair](https://github.com/EON-CRUX/3.09/pull/5502) merged. The next two-account check stopped during environment setup, before either account ran. The last native privacy result remains 8/9.
-- The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead committed the repair. Its independent return-position check is running.
+- Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The original privacy team started its connected check. The staff check reached the step that requires a synthetic delivery address.
+- The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification.
 
 ## What still needs to pass
 

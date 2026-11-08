@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The Shop layout was exercised at 188, 380, 430 and 1280 px. The two-account privacy repair merged, and the Big Bag Back repair was committed for independent verification.",
+  "lastActualProgress": "Opening Shop on the installed draft reproduced the two phone cases at the top. In the redesign, Best sellers opens first and the first product photo starts 192 px higher on a phone-sized screen. The navigation change is on GitHub for review.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -139,8 +139,8 @@
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
   "current": "Shop opens on Best sellers in the private design preview. New arrivals is one tap away. Only the main header stays visible while shopping. The collection and Big Bag repairs are in verification.",
-  "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The Motion lead has the failing Back test and starts after its current repair passes. Signed TEST and iPhone captains continue their separate checks.",
-  "updated": "8 November, 10:56 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "next": "The release desk has collection repair #5535. Shop navigation #5542 is stacked after it. The connected two-account privacy test and the independent Big Bag Back check have separate owners. The device captain takes the first eligible iPhone run.",
+  "updated": "8 November, 11:11 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,16 +345,23 @@
     }
   ],
   "recentChanges": [
-    "The Shop design preview now opens on the merchant’s 12 Best sellers, with 232 New arrivals next to it. At 380 × 844 px the header and browse row use 105 px. Filters holds four filter groups, 34 category links and the one/two-column view. Shopify installation and independent design review are pending.",
+    "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) opens the 12-piece Best sellers edit beside New arrivals. At 380 × 820, the first photo moved from 349 px to 157 px and only the 52 px header stays on screen. Filters contains the view choice and 34 category links. Review and private Shopify installation are pending.",
     "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
-    "Four signed TEST journeys passed 35 of 35 steps. [The shopper privacy repair](https://github.com/EON-CRUX/3.09/pull/5502) merged. The next two-account check stopped during environment setup, before either account ran. The last native privacy result remains 8/9.",
-    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead committed the repair. Its independent return-position check is running."
+    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The original privacy team started its connected check. The staff check reached the step that requires a synthetic delivery address.",
+    "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "The Shop design preview now opens on the merchant’s 12 Best sellers, with 232 New arrivals next to it. At 380 × 844 px the header and browse row use 105 px. Filters holds four filter groups, 34 category links and the one/two-column view. Shopify installation and independent design review are pending."
+        "text": ""
+      },
+      {
+        "text": "Shop navigation #5542",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5542"
+      },
+      {
+        "text": " opens the 12-piece Best sellers edit beside New arrivals. At 380 × 820, the first photo moved from 349 px to 157 px and only the 52 px header stays on screen. Filters contains the view choice and 34 category links. Review and private Shopify installation are pending."
       }
     ],
     [
@@ -376,19 +383,12 @@
     ],
     [
       {
-        "text": "Four signed TEST journeys passed 35 of 35 steps. "
-      },
-      {
-        "text": "The shopper privacy repair",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5502"
-      },
-      {
-        "text": " merged. The next two-account check stopped during environment setup, before either account ran. The last native privacy result remains 8/9."
+        "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The original privacy team started its connected check. The staff check reached the step that requires a synthetic delivery address."
       }
     ],
     [
       {
-        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead committed the repair. Its independent return-position check is running."
+        "text": "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification."
       }
     ]
   ],
