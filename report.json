@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The release desk owns protected admission. The TEST owners have the saved-look and staff checks. The device captain owns native iPhone access. The website lead owns the private install and the reviewer evidence.",
+  "workerState": "The collection builder owns its regression run. The release desk owns review admission, the TEST captain owns the signed journeys, and the iPhone captain owns the device checks. The website lead verifies the installed draft.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the Nightrunner hoodie, M switched from 67 cm to 26.4 inches and back while keeping the size and bag selection. In separate collection checks, all 78 paired rows put their purchase buttons at the same height.",
+  "lastActualProgress": "Both named collection fixes are committed. The original TEST receipt confirms nine passing privacy steps, including exporting saved looks, removing one after reload and refusing a stale Save. The group monitor now checks a due pull request directly if its GitHub list times out.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -90,15 +90,15 @@
     ],
     [
       "5. Buyer trust and WhatsApp reviews",
-      "TEST identities verified. Staff actions pending.",
-      "An earlier runner ran out of memory. On the second attempt a Runway interaction test exceeded 30 seconds. All nine interactions passed on the exact source in isolation and the same test passed on another hosted head.",
-      "Finish the approved retry, then verify staff Use and Dismiss, buyer consent and withdrawal."
+      "Connected staff and buyer workflow pending",
+      "Diagnostic repair #5490 merged. Customer-link repair #5546 is open.",
+      "On the served repair, verify the original staff Use and Dismiss and buyer consent and withdrawal."
     ],
     [
       "6. Assistant privacy facts",
-      "Notice installed. Export and removal pending.",
-      "On TEST the shopper saved a look; the export failed at step six. The change that will identify the response or file failure passed its first code review.",
-      "Complete its protected release and repeat export, deletion and account isolation against the two original TEST accounts."
+      "Export, removal and stale-save refusal verified in TEST",
+      "The full nine-step signed journey passed. Guest-to-signed styling and clearing on sign-out also passed.",
+      "Verify the attended same-browser switch and prove that shopper data stays isolated."
     ],
     [
       "7. Collection Grid/Focus wiring",
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five release outcomes remain. The latest two-account privacy attempt reached 6/9, then Remove Look returned HTTP 500. The staff workflow needs its TEST delivery fixture. Seven native journeys, Big Bag return position, the final installed assembly and three passing independent ratings are open.",
-  "current": "Product size guides let shoppers choose cm or inches. The Runway has twelve garment hotspots across five looks. Both are working in private previews.",
-  "next": "The size-guide and collection changes are in protected intake. The Runway hotspot change follows its viewer. Installation, on-device checks and independent scoring follow on the unpublished Shopify theme.",
-  "updated": "08 November, 13:00 UTC. Delivery 6/11. Four signed TEST journeys 35/35. Latest two-account privacy attempt 6/9. Final native journeys 0/7. Passing whole-draft ratings 0/3.",
+  "remaining": "Five launch gates remain. The shopper privacy export and deletion journey passed. Same-browser account switching, staff review actions and buyer consent, Big Bag Back, seven iPhone journeys, final draft assembly and three design ratings still need evidence.",
+  "current": "The collection repair restores nested categories and a colour choice that disappeared when its first available size had no front photo. Its original builder has committed both changes. The regression run is queued.",
+  "next": "Check both failures against the previous collection, verify the repair, then return it for a second review. The size guide, paired purchase buttons and shoppable Runway have their own reviews.",
+  "updated": "08 November, 15:17 UTC. Delivery 6/11. Four signed journeys 35/35. Saved-look export and removal 9/9. Final iPhone checks 0/7. Whole-draft ratings at 9.5 or above 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -337,8 +337,8 @@
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "Four signed shopping journeys 35/35, including guest-to-signed styling 10/10",
-      "evidence": "Editing a saved look, correcting a piece, styling after sign-in, and saved preferences passed on the same served build. Checkout passed 12/12 separately. The latest two-account privacy attempt reached 6/9 before Remove Look returned HTTP 500. The product rail correctly hides when empty. A populated rail, staff Use and Dismiss, publication consent and withdrawal still need checks."
+      "state": "Four signed journeys 35/35 and saved-look privacy 9/9",
+      "evidence": "The privacy run verified export, removal after reload, refusal of a stale Save and deletion by a second disposable shopper. Same-browser account isolation, a populated Looks rail, staff Use and Dismiss, and buyer consent and withdrawal remain open."
     },
     {
       "stage": "Native iPhone acceptance",
@@ -361,7 +361,7 @@
     "[Collection button alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) corrects an offset of up to 42 px. All 78 rows tested in Best sellers and New arrivals now align.",
     "In the private [Shop This Look preview change #5556](https://github.com/EON-CRUX/3.09/pull/5556), tap a garment to see its product, then return to the same look. Twelve hotspots cover five outfits. Ten distinct destinations opened their matching product on the draft.",
     "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon confirmed all three earlier findings resolved. The final 4 px Menu-to-wordmark gap passed all ten widths. The revised navigation proof now catches the previously missed desktop wrapping regression. The chair has the updated 660-line request against a 600-line limit.",
-    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
+    "[The signed privacy test](https://github.com/EON-CRUX/3.09/actions/runs/42475063547) passed all nine steps on 8 November. The previous removal error is closed. Same-browser account switching still has its own attended check. [The collection review](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6723057650) found two defects. The original builder has committed both fixes and queued the regression run."
   ],
   "recentChangeParts": [
     [
@@ -414,28 +414,42 @@
     ],
     [
       {
-        "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
+        "text": ""
+      },
+      {
+        "text": "The signed privacy test",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42475063547"
+      },
+      {
+        "text": " passed all nine steps on 8 November. The previous removal error is closed. Same-browser account switching still has its own attended check. "
+      },
+      {
+        "text": "The collection review",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6723057650"
+      },
+      {
+        "text": " found two defects. The original builder has committed both fixes and queued the regression run."
       }
     ]
   ],
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The original diagnostic writer fixed the requested message/event capture. Hands integrated the shared test fix into #5490. All five hosted test groups passed at 10:04 UTC and protected review was requested.",
-      "next": "After release the staff TEST captain still needs to exercise Use, Dismiss, buyer consent and withdrawal on the connected flow.",
-      "state": "Connected staff and buyer workflow pending",
-      "owner": "Sol 6.1 with the original staff TEST captain",
-      "closes": "On TEST, staff can Use and Dismiss a review, the buyer can consent to publication and withdraw it, and the resulting visibility is checked",
-      "timing": "Starts after the diagnostic repair is merged and served"
+      "blocker": "The TEST desk draft needs to be linked to the correct Shopify customer. The repair is in review intake under #5546.",
+      "next": "Once that repair is served, the original TEST captain uses a fresh test order to check Use and Dismiss. Buyer publication consent and withdrawal each need a recorded result.",
+      "state": "Staff actions and buyer consent pending",
+      "owner": "Original staff TEST captain and customer-care owner",
+      "closes": "Staff Use and Dismiss, buyer consent to publication, withdrawal and the resulting visibility all have recorded outcomes",
+      "timing": "TEST order creation follows the reviewed customer-link repair #5546 reaching the test store"
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Two-account isolation is 8/9. Guest-to-signed styling and clearing the panel on sign-out passed 10/10. The second signed account reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC. All five hosted test groups passed at 10:05 UTC.",
-      "next": "The TEST captain repeats the final account-isolation check after the repair merges and is served.",
-      "state": "Latest attempt 6/9. Removing a saved look returned HTTP 500; second-account isolation remains open",
-      "owner": "Sol 6.1 with the original privacy TEST captain",
-      "closes": "Sign in as shopper B, then shopper D, and verify D cannot see B’s saved look or recommendations",
-      "timing": "Resume after the saved-look removal repair is served to TEST"
+      "blocker": "The signed export and deletion journey passed all nine steps. Switching between two shoppers in the same browser still needs its attended check.",
+      "next": "The original TEST captain verifies that the second shopper cannot see the first shopper’s saved look or recommendations.",
+      "state": "Signed export and removal passed 9/9. Same-browser switching still needs evidence",
+      "owner": "Original privacy TEST captain",
+      "closes": "A second signed shopper cannot read the first shopper’s saved look or recommendations after switching accounts",
+      "timing": "Use the original attended slot after its signed-in prerequisites"
     },
     {
       "label": "8. Final three-model ratings",
@@ -457,12 +471,12 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The Motion lead owns the repair. Its preceding #5533 test run returned 12 failures at 10:09 UTC, ahead of the Big Bag work.",
-      "next": "Check that the repaired draft restores the clicked product to its previous screen position, then verify the narrow title and sort control and the iPhone return.",
-      "state": "Desktop Back kept Lighting but jumped from 3,712 to 30 px. Narrow title and sort checks also failed",
-      "owner": "Motion lead repairs, Astra independently verifies, iPhone captain checks the device",
-      "closes": "Title fits at 320 and 380 px, sort text clears its arrow at 188 px, and Back restores the same category and place on desktop and iPhone",
-      "timing": "Desktop defect reproduced. Its repair and narrow-layout work can proceed while the iPhone slot is pending"
+      "blocker": "A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Narrow-layout repair #5544 still has failing checks.",
+      "next": "After protected review and private installation, measure where the same lamp returns on desktop and iPhone and verify the title and sort control at narrow widths.",
+      "state": "Installed Back trip displaced the selected lamp by 394 px. The revised return passed its builder’s browser test",
+      "owner": "Motion lead owns #5541 and #5544. Website and device captains verify the installed draft",
+      "closes": "Title fits at 320 and 380 px, the sort label fits at 188 px, and Back restores the selected product on desktop and iPhone",
+      "timing": "Verify the installed version after protected release"
     }
   ],
   "higgsfieldMotion": {
@@ -585,15 +599,19 @@
       },
       {
         "complete": false,
-        "text": "Obtain protected review on #5535, install the reviewed version privately and repeat the shopper test on the two Shopify pages (release desk owns protected admission)."
+        "text": "Complete the regression run for the two first-review findings on #5535, return the fixes for protected review, install privately after merge and repeat the two-page collection walk (repair committed at 15:14Z)."
       },
       {
         "complete": false,
         "text": "Check staff review actions and buyer consent after the TEST repair reaches the workspace (estimate 10 min of testing after installation)."
       },
       {
+        "complete": true,
+        "text": "Verify the original nine-step TEST receipt for saved-look export, removal and refusal of a stale Save (15:13Z–15:15Z, took 2 min)."
+      },
+      {
         "complete": false,
-        "text": "Complete the remaining privacy checks with the original two TEST shoppers after the Remove Look repair (estimate 10 min after the repair is served)."
+        "text": "Verify same-browser account isolation with the original TEST captain (separate attended journey)."
       },
       {
         "complete": false,
@@ -608,7 +626,7 @@
         "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: The next verifiable event is protected review or a decision from the component reviewer. The final handover depends on protected merges, connected TEST, device checks and three independent ratings."
+    "landing": "Lands: The next collection handoff follows the queued regression run. Final handover depends on protected merges, signed TEST, seven iPhone journeys and the three original design reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
