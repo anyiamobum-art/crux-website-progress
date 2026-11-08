@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 20:14 UTC, the combined collection head passed all nine clean cases, the separate tablet check and all 53 mutation checks. It was pushed and accepted in #5554 by 20:17 UTC. Runway #5556 has its exact-source size approval and its original Opus packet is prepared; the production video is still being treated as a test recording by the review gate. The keeper has the precise failure.",
+  "lastActualProgress": "The fresh #5554 admission completed successfully at 20:33:51 UTC and was read back at 20:35 UTC. Its exact remote proof retains nine clean cases, a separate tablet check and 53 mutations. The chair corrected the #5556 size marker to the full head and kept the shopper MP4 in the candidate.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five delivery outcomes remain. Their concrete dependencies are the shared merge hold, final combined theme installation, signed staff/consent/account-isolation checks, seven native journeys and the three original final named-fix ratings. Local feature proof does not close an installed or native gate.",
-  "current": "Astra’s corrected circular Runway includes the real five-second Higgsfield clip, twelve shoppable garment controls and stable phone actions. The exact tested candidate is pushed to #5556. The recovered collection repair and aligned Add to bag buttons passed their combined remote tests and are pushed together in #5554. The Runway has its size approval; its production-video admission and independent review remain. The previously merged viewer and Stores motion remain installed in the unpublished theme.",
-  "next": "Take the exact Runway and collection candidates through their existing size and protected-review gates, then install eligible merged files privately. Big Bag, closed-store and size-guide changes are marked merge-eligible. The chair’s shared merge hold remains until #5569 clears. TEST and native iPhone checks keep their original owners.",
-  "updated": "08 November 2026, 20:17 UTC (source, preview, installation and final acceptance remain separate).",
+  "remaining": "Five delivery outcomes remain. They depend on protected reviews and exact private installation, signed staff, consent and account-isolation checks, seven native journeys and three original final named-fix ratings. Main’s five test groups were queued at the latest check. The chair ended the blanket merge hold and directed Hands to pause automatic merging only during the current main test execution, after the desk announces it.",
+  "current": "Collection and Add to bag alignment #5554 is Ready at 0be201ee. Fresh admission passed and the hosted test groups are queued. The circular Runway #5556 includes the verified five-second Higgsfield clip and remains Draft while the reviewer rule is corrected. The previously merged viewer and Stores motion are installed in the unpublished theme.",
+  "next": "Follow the queued #5554 checks and protected review. After the reviewer bundle lands, recheck #5556 admission and continue its original design-card and protected-review path. Install eligible merged files privately and keep the original TEST and iPhone acceptance assignments.",
+  "updated": "08 November 2026, 20:36 UTC (hosted tests queued and release policy verified; no new merge, installation or acceptance recorded).",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -357,13 +357,110 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate [hotspot refinement #5556](https://github.com/EON-CRUX/3.09/pull/5556) has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance.",
-    "[Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535) stays held with no fourth review. The chair directed absorption into existing [#5554](https://github.com/EON-CRUX/3.09/pull/5554). Local source 0be201ee preserves nine collection files byte-for-byte, both alignment files, both wrapper contents and all 47 declared mutations. Its one remote integration job is awaiting allocation; successor publication and review are still owed.",
-    "[Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) is repaired at 98f040d1 and marked verified and merge-eligible. Protected merge is held by the shared release condition. After installation, the original desktop and iPhone witnesses must verify the full Back journey.",
-    "Purchase controls: [#5554](https://github.com/EON-CRUX/3.09/pull/5554) carries the recovered collection and paired Add to bag alignment together. The earlier alignment proof measured zero offset across 78 product pairs; combined proof is pending. [cm/inches #5555](https://github.com/EON-CRUX/3.09/pull/5555) has the three requested fixes at 6f7d8f19 and is marked merge-eligible. Its earlier 9.25 component score remains historical; no new whole-site rating is inferred.",
-    "[Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) is merged and installed on the unpublished Shopify theme. Both exact files and phone-width store selection are verified. Closed-store removal and native checks remain. Separately, the original signed TEST runs passed 35/35 steps and saved-look privacy passed 9/9; they do not yet close the remaining privacy and staff journeys."
+    "[Collection and Add to bag #5554](https://github.com/EON-CRUX/3.09/pull/5554) is Ready at 0be201ee1156969cfe401e1e8843c8febab449a7. [Fresh admission](https://github.com/EON-CRUX/3.09/actions/runs/42520720139/job/128853381038) passed at 20:33:51 UTC and supersedes the Draft failure. [Hosted tests](https://github.com/EON-CRUX/3.09/actions/runs/42520720335) are queued. The original remote run passed nine clean cases, a separate tablet check and all 53 mutations. Superseded [#5535](https://github.com/EON-CRUX/3.09/pull/5535) closed at 20:20:26 UTC with its branch kept.",
+    "[Circular Runway #5556](https://github.com/EON-CRUX/3.09/pull/5556) stays Draft at 5e99c7c335ba264fa375e810ad655c67061a1a5c. The [full-head size marker](https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726703031) replaces the short marker. The [chair's film decision](https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726512202) retains the shopper MP4 and assigns the admission exemption to the original reviewer bundle. After that lands, admission and the original reviews continue. Private functional playback is verified. Shopify installation remains pending.",
+    "At 20:34:28 UTC the chair’s P4466 decision replaced the proposed one-tick windows with a pause during main’s active tests. Hands has the direction to enable automatic merging outside that pause, and implementation readback is pending. At 20:36 UTC all five [current main test groups](https://github.com/EON-CRUX/3.09/actions/runs/42508138728) were queued.",
+    "[#5569’s failed hosted group](https://github.com/EON-CRUX/3.09/actions/runs/42514085294/job/128840250347) mapped to three storefront assertions. The WhatsApp center was unreachable at 187 × 406 while the count remained unobstructed. The cause remains open with the original [#4364 writer](https://github.com/EON-CRUX/3.09/pull/4364). The BIG BAG strike at 320 and 380 is repaired in the original [#5544](https://github.com/EON-CRUX/3.09/pull/5544) at 56b0b9e6 and awaits its own release.",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) and [Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) remain verified in the unpublished theme. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [cm/inches #5555](https://github.com/EON-CRUX/3.09/pull/5555) are marked merge-eligible. Installed-draft and native acceptance remain open for the uninstalled changes."
   ],
   "recentChangeParts": [
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Collection and Add to bag #5554",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5554"
+      },
+      {
+        "text": " is Ready at 0be201ee1156969cfe401e1e8843c8febab449a7. "
+      },
+      {
+        "text": "Fresh admission",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42520720139/job/128853381038"
+      },
+      {
+        "text": " passed at 20:33:51 UTC and supersedes the Draft failure. "
+      },
+      {
+        "text": "Hosted tests",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42520720335"
+      },
+      {
+        "text": " are queued. The original remote run passed nine clean cases, a separate tablet check and all 53 mutations. Superseded "
+      },
+      {
+        "text": "#5535",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5535"
+      },
+      {
+        "text": " closed at 20:20:26 UTC with its branch kept."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Circular Runway #5556",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5556"
+      },
+      {
+        "text": " stays Draft at 5e99c7c335ba264fa375e810ad655c67061a1a5c. The "
+      },
+      {
+        "text": "full-head size marker",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726703031"
+      },
+      {
+        "text": " replaces the short marker. The "
+      },
+      {
+        "text": "chair's film decision",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726512202"
+      },
+      {
+        "text": " retains the shopper MP4 and assigns the admission exemption to the original reviewer bundle. After that lands, admission and the original reviews continue. Private functional playback is verified. Shopify installation remains pending."
+      }
+    ],
+    [
+      {
+        "text": "At 20:34:28 UTC the chair’s P4466 decision replaced the proposed one-tick windows with a pause during main’s active tests. Hands has the direction to enable automatic merging outside that pause, and implementation readback is pending. At 20:36 UTC all five "
+      },
+      {
+        "text": "current main test groups",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42508138728"
+      },
+      {
+        "text": " were queued."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "#5569’s failed hosted group",
+        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42514085294/job/128840250347"
+      },
+      {
+        "text": " mapped to three storefront assertions. The WhatsApp center was unreachable at 187 × 406 while the count remained unobstructed. The cause remains open with the original "
+      },
+      {
+        "text": "#4364 writer",
+        "url": "https://github.com/EON-CRUX/3.09/pull/4364"
+      },
+      {
+        "text": ". The BIG BAG strike at 320 and 380 is repaired in the original "
+      },
+      {
+        "text": "#5544",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5544"
+      },
+      {
+        "text": " at 56b0b9e6 and awaits its own release."
+      }
+    ],
     [
       {
         "text": ""
@@ -373,76 +470,28 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate "
-      },
-      {
-        "text": "hotspot refinement #5556",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5556"
-      },
-      {
-        "text": " has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Collection #5535",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5535"
-      },
-      {
-        "text": " stays held with no fourth review. The chair directed absorption into existing "
-      },
-      {
-        "text": "#5554",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5554"
-      },
-      {
-        "text": ". Local source 0be201ee preserves nine collection files byte-for-byte, both alignment files, both wrapper contents and all 47 declared mutations. Its one remote integration job is awaiting allocation; successor publication and review are still owed."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Big Bag Back #5541",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5541"
-      },
-      {
-        "text": " is repaired at 98f040d1 and marked verified and merge-eligible. Protected merge is held by the shared release condition. After installation, the original desktop and iPhone witnesses must verify the full Back journey."
-      }
-    ],
-    [
-      {
-        "text": "Purchase controls: "
-      },
-      {
-        "text": "#5554",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5554"
-      },
-      {
-        "text": " carries the recovered collection and paired Add to bag alignment together. The earlier alignment proof measured zero offset across 78 product pairs; combined proof is pending. "
-      },
-      {
-        "text": "cm/inches #5555",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5555"
-      },
-      {
-        "text": " has the three requested fixes at 6f7d8f19 and is marked merge-eligible. Its earlier 9.25 component score remains historical; no new whole-site rating is inferred."
-      }
-    ],
-    [
-      {
-        "text": ""
+        "text": " and "
       },
       {
         "text": "Stores motion #5519",
         "url": "https://github.com/EON-CRUX/3.09/pull/5519"
       },
       {
-        "text": " is merged and installed on the unpublished Shopify theme. Both exact files and phone-width store selection are verified. Closed-store removal and native checks remain. Separately, the original signed TEST runs passed 35/35 steps and saved-look privacy passed 9/9; they do not yet close the remaining privacy and staff journeys."
+        "text": " remain verified in the unpublished theme. "
+      },
+      {
+        "text": "Big Bag Back #5541",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5541"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "cm/inches #5555",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5555"
+      },
+      {
+        "text": " are marked merge-eligible. Installed-draft and native acceptance remain open for the uninstalled changes."
       }
     ]
   ],
@@ -476,21 +525,21 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "the shared merge hold, combined collection review and final source assembly. The original viewer and Stores motion are installed; the corrected circular Runway and genuine film are tested and pushed but not installed. Native acceptance remains 0/7.",
-      "next": "merge only eligible reviewed changes, install their exact files privately, and complete the original TEST and iPhone journeys.",
-      "state": "Shared merge hold, combined-source review, installation and 0/7 native checks remain",
+      "blocker": "Protected reviews, final source assembly and private installation. The original viewer and Stores motion are installed. The collection successor is Ready with admission green and hosted tests queued. The corrected circular Runway and generated clip are verified in private preview and stay Draft pending the reviewer bundle. Native acceptance remains 0/7.",
+      "next": "Merge eligible reviewed changes under the current main-run policy, install their exact files privately, and complete the original TEST and iPhone journeys.",
+      "state": "Protected reviews, assembly, installation and 0/7 native checks remain",
       "owner": "Website release lead, original packager and device captain",
       "closes": "Reviewed source matches the final private theme; connected shopping and all seven device journeys pass",
       "timing": "Exact eligible merges, private file readbacks and qualified original device allocation"
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "protected merge, installation and final-device acceptance. The named history-cancellation repair is verified and merge-eligible at 98f040d1.",
-      "next": "after the shared merge hold clears, install it privately and verify Back, selected card, scroll, focus, title and sort.",
-      "state": "Named repair verified and merge-eligible; installation pending",
+      "blocker": "Protected merge, installation and final-device acceptance. The named history-cancellation repair is verified and merge-eligible at 98f040d1. The separate strike repair at 56b0b9e6 follows its own protected release.",
+      "next": "After eligible merge, install privately and verify Back, selected card, scroll, focus, title and sort.",
+      "state": "Back repair merge-eligible; separate strike repair in protected release",
       "owner": "Original motion writer and installed-draft witnesses",
       "closes": "Delayed restoration cannot override navigation; title, sort, selected card, scroll and focus pass",
-      "timing": "Shared merge hold clears, then private installation and original acceptance"
+      "timing": "Eligible merges, then private installation and original acceptance"
     }
   ],
   "higgsfieldMotion": {
@@ -581,11 +630,11 @@
       },
       {
         "complete": false,
-        "text": "Obtain exact-head size dispositions and protected reviews for Runway and collection (original chair/Hands; next returned-result check 20:20Z; review duration unknown)."
+        "text": "Obtain exact-head size dispositions and protected reviews for Runway and collection (#5554 admission passed at 20:33:51Z and hosted tests are queued; #5556 full-head size marker is verified and the reviewer bundle is pending; review duration unknown)."
       },
       {
         "complete": false,
-        "text": "Consume eligible merges after the shared #5569 release condition clears, then install and verify the unpublished files (installation est. 10 min after eligible merge)."
+        "text": "Consume eligible merges under the chair’s updated main-run policy, then install and verify the unpublished files (installation est. 10 min after eligible merge)."
       },
       {
         "complete": false,
@@ -600,7 +649,7 @@
         "text": "Return the finished candidate and required evidence to the three original named-fix readers; record unpublished-theme handover (after the preceding acceptance, no extra full review round)."
       }
     ],
-    "landing": "Lands: Owner’s completion deadline is 9 November, 18:29 UTC. Next returned-result check is 20:30 UTC today. Shared merge intake, production-video admission, native devices and original reviewer access can move completion; the deadline is a commitment, not a verified ETA. The draft remains unpublished."
+    "landing": "Lands: Owner’s completion deadline is 9 November, 18:29 UTC. Next check follows a hosted result or the desk’s main-run signal. Protected reviews, production-video admission, native devices and original reviewer access can move completion. Final handover time remains unknown. The draft remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
