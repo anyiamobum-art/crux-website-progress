@@ -357,7 +357,7 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) merged at 17:34 UTC after its final named-fix approval. Private installation is next. The separate [hotspot refinement #5556](https://github.com/EON-CRUX/3.09/pull/5556) has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance.",
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate [hotspot refinement #5556](https://github.com/EON-CRUX/3.09/pull/5556) has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance.",
     "[Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378) passed both named code repairs in its last review. The merge is held because the independent rendered design verdict is missing. The original reader and chair own that remaining requirement; no extra code-review round is being started.",
     "[Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541#issuecomment-6724489649) needs one further fix: cancel an older pending scroll restoration when the shopper changes browser history. The simple return already passed in the controlled browser; the new case and the installed desktop/iPhone return still need verification.",
     "Purchase controls: [paired Add to bag alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) has zero offset across 78 tested product pairs, with builder acceptance but no protected review yet. The [cm/inches guide #5555](https://github.com/EON-CRUX/3.09/pull/5555#issuecomment-6724560526) scored 9.25 in its component review. Pressed feedback, house styling and approximate rounding labels are the three assigned fixes.",
@@ -373,7 +373,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518"
       },
       {
-        "text": " merged at 17:34 UTC after its final named-fix approval. Private installation is next. The separate "
+        "text": " merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate "
       },
       {
         "text": "hotspot refinement #5556",
@@ -469,7 +469,7 @@
     },
     {
       "label": "10. Completed Shopify draft and handover",
-      "blocker": "The collection awaits its independent visual verdict and chair hold release. Shop This Look is merged and needs private installation. Purchase controls, closed-store correction and archived homepage source still need their respective release steps. Native acceptance is 0/7.",
+      "blocker": "The collection awaits its independent visual verdict and chair hold release. Shop This Look is merged and its four-file private installation is byte-verified; the separate owner-rejected depth refinement remains under repair. Purchase controls, closed-store correction and archived homepage source still need their respective release steps. Native acceptance is 0/7.",
       "next": "The release lead merges eligible changes; the original packager assembles the restored functions from main, installs the exact reviewed files privately, and the captains complete TEST and iPhone evidence.",
       "state": "Collection design hold, source assembly, release steps and 0/7 native checks remain",
       "owner": "Website release lead, original packager and original device captain",
@@ -509,7 +509,7 @@
     ],
     "previewed": 2,
     "verifiedOnShopify": 1,
-    "installationChecked": "8 November 2026, 16:00 UTC",
+    "installationChecked": "8 November 2026, 18:28 UTC (draft files verified; generated clip not installed).",
     "proposals": "A moving camera in the product gallery and new store photography."
   },
   "homepageDirection": [
@@ -529,9 +529,9 @@
       "action": "The collection viewer shows more of the garment at small widths. Changing size on a product keeps the photo the shopper was inspecting."
     },
     {
-      "change": "Higgsfield media connection",
-      "state": "Existing subscription connected; no credits spent",
-      "action": "The supported connector can use plan credits. API billing is separate. Future media tests retain their specific source and spending permissions."
+      "change": "Higgsfield media",
+      "state": "First actual five-second clip generated",
+      "action": "The authenticated official CLI used the existing subscription for the approved mint-polo clip, quoted at 8.75 credits. Its grey studio floor is not yet suitable for the white Runway; Astra is correcting the treatment. No generated clip is installed or published live."
     },
     {
       "change": "Catalogue discovery",
