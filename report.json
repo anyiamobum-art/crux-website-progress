@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Opening Shop on the installed draft reproduced the two phone cases at the top. In the redesign, Best sellers opens first and the first product photo starts 192 px higher on a phone-sized screen. The navigation change is on GitHub for review.",
+  "lastActualProgress": "The updated header passed nine wiring tests. At eight browser widths, 188–1280 px, the store pin opened the directory. On phones, pressing Escape returned focus to Menu.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Shop opens on Best sellers in the private design preview. New arrivals is one tap away. Only the main header stays visible while shopping. The collection and Big Bag repairs are in verification.",
+  "current": "Shop has a 52 px phone header with a separate menu, CRUX wordmark and directly tappable store pin. Best sellers opens first. Filters and the shopping tabs scroll away with the products.",
   "next": "The release desk has collection repair #5535. Shop navigation #5542 is stacked after it. The connected two-account privacy test and the independent Big Bag Back check have separate owners. The device captain takes the first eligible iPhone run.",
-  "updated": "8 November, 11:11 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "8 November, 11:31 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,10 +345,10 @@
     }
   ],
   "recentChanges": [
-    "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) opens the 12-piece Best sellers edit beside New arrivals. At 380 × 820, the first photo moved from 349 px to 157 px and only the 52 px header stays on screen. Filters contains the view choice and 34 category links. Review and private Shopify installation are pending.",
+    "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) places the store pin beside Search and Bag. The menu and CRUX wordmark have separate space on phones. At 380 px, the first product photo starts at 157 px. The private browser journey passed at eight widths. Protected review and Shopify draft installation are pending.",
     "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
-    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The original privacy team started its connected check. The staff check reached the step that requires a synthetic delivery address.",
+    "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address.",
     "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification."
   ],
   "recentChangeParts": [
@@ -361,7 +361,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5542"
       },
       {
-        "text": " opens the 12-piece Best sellers edit beside New arrivals. At 380 × 820, the first photo moved from 349 px to 157 px and only the 52 px header stays on screen. Filters contains the view choice and 34 category links. Review and private Shopify installation are pending."
+        "text": " places the store pin beside Search and Bag. The menu and CRUX wordmark have separate space on phones. At 380 px, the first product photo starts at 157 px. The private browser journey passed at eight widths. Protected review and Shopify draft installation are pending."
       }
     ],
     [
@@ -383,7 +383,7 @@
     ],
     [
       {
-        "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The original privacy team started its connected check. The staff check reached the step that requires a synthetic delivery address."
+        "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
       }
     ],
     [
