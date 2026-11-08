@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "A shopper test with M and In stock confirmed that Green on Acid Hooded Top opened sold-out S. None of the 13 page-two colour controls accepted a normal tap. Back from three products did restore the correct filtered listing. The original tester has retained the same two-page case for replay.",
+  "lastActualProgress": "On the installed draft, colour selections on Acid Hooded Top and Bossmon Cargo Shorts opened unavailable variants. On the private repair, all 22 eligible colours across two pages selected an available M. The test renderer marked 39 known matching products unavailable on their main links. The developer and independent tester are correcting and checking that renderer before the repair goes into the draft.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Sol is fixing two failures independently reproduced on the installed collection. A colour tap can open a sold-out size and product cards on page two intercept colour taps. The device and Big Bag teams are working on their own checks.",
+  "current": "Sol is correcting the collection test renderer after an independent two-page replay. Astra is checking the Big Bag return journey. The two-account and iPhone captains retain their own tests.",
   "next": "Retest the repaired size and colour links on the same catalogue. The original TEST captains run staff consent and two-account isolation when their fixes are served. The iPhone captain needs a qualified device helper and a working preview route.",
-  "updated": "08 November, 08:50 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "08 November, 08:55 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -303,8 +303,8 @@
     },
     {
       "journey": "Browse the collection",
-      "state": "Found in later theme source",
-      "action": "Restore Grid and Focus, filters and Save on the collection page. Keep the selected item and scroll position when changing the view or coming back."
+      "state": "Private repair under independent test",
+      "action": "The original collection categories, Grid and Focus, and populated filters passed nine Chromium scenarios. Twenty-two eligible colours led to an available M. The primary product links are being cross-checked with a corrected renderer before installation."
     },
     {
       "journey": "Try it in a shop",
