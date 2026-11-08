@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The private inventory check found an available M on 39 of 40 products across two pages. All five proposed installation destinations matched their expected starting state. On Big Bag, the Donut Lamp returned 394 px away from its former screen position on all four measurements over five seconds. The Motion lead has the exact failing test and owns both the Back jump and the narrow-layout repair.",
+  "lastActualProgress": "The staff-review repair passed its fifth hosted test group at 10:04 UTC and the shopper privacy repair at 10:05 UTC. The staff repair has entered protected review. The store theme has not received either TEST repair. The Big Bag owner has the four measurements showing the clicked product 394 px out of place after Back.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "The release lead posted the required acceptance for collection repair #5535 after checking both pages against inventory on the unpublished theme. The PR is in the release desk’s hands for protected review. In parallel, the Motion lead accepted both Big Bag repairs and the iPhone captain acknowledged the updated evidence.",
+  "current": "Add to bag and checkout handoff work on the unpublished Shopify theme. Both TEST repairs passed all five hosted test groups. The collection changes still need protected review and installation. Big Bag still loses your place on Back.",
   "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The Motion lead has the failing Back test and starts after its current repair passes. Signed TEST and iPhone captains continue their separate checks.",
-  "updated": "8 November, 09:59 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "8 November, 10:11 UTC. Signed-off delivery checks 6/11. Four signed TEST journeys 35/35 steps. Two-account privacy 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -348,7 +348,7 @@
     "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
-    "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
+    "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). Both TEST repairs now passed all five hosted test groups. Staff review actions and the last second-account privacy case still need the deployed TEST build.",
     "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The Motion lead acknowledged both Big Bag repairs."
   ],
   "recentChangeParts": [
@@ -383,7 +383,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105"
       },
       {
-        "text": ". The separate second-account privacy case is still open."
+        "text": ". Both TEST repairs now passed all five hosted test groups. Staff review actions and the last second-account privacy case still need the deployed TEST build."
       }
     ],
     [
@@ -395,7 +395,7 @@
   "openDeliveryGates": [
     {
       "label": "5. Buyer trust and WhatsApp reviews",
-      "blocker": "The original diagnostic writer fixed the requested message/event capture. Hands integrated the shared test fix into #5490. Its hosted suite is under way.",
+      "blocker": "The original diagnostic writer fixed the requested message/event capture. Hands integrated the shared test fix into #5490. All five hosted test groups passed at 10:04 UTC and protected review was requested.",
       "next": "After release the staff TEST captain still needs to exercise Use, Dismiss, buyer consent and withdrawal on the connected flow.",
       "state": "Connected staff and buyer workflow pending",
       "owner": "Sol 6.1 with the original staff TEST captain",
@@ -404,8 +404,8 @@
     },
     {
       "label": "6. Assistant privacy facts",
-      "blocker": "Two-account isolation is 8/9. Guest-to-signed styling and clearing the panel on sign-out passed 10/10. The second signed account reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC.",
-      "next": "The TEST captain can repeat the last account-isolation check after #5502 passes hosted checks, merges and is served.",
+      "blocker": "Two-account isolation is 8/9. Guest-to-signed styling and clearing the panel on sign-out passed 10/10. The second signed account reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC. All five hosted test groups passed at 10:05 UTC.",
+      "next": "The TEST captain repeats the final account-isolation check after the repair merges and is served.",
       "state": "Eight of nine assertions pass. The final second-account case is open",
       "owner": "Sol 6.1 with the original privacy TEST captain",
       "closes": "Sign in as shopper B, then shopper D, and verify D cannot see B’s saved look or recommendations",
@@ -431,7 +431,7 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The Motion lead accepted ownership and starts after its current #5533 repair is pushed and accepted.",
+      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The Motion lead owns the repair. Its preceding #5533 test run returned 12 failures at 10:09 UTC, ahead of the Big Bag work.",
       "next": "Check that the repaired draft restores the clicked product to its previous screen position, then verify the narrow title and sort control and the iPhone return.",
       "state": "Desktop Back kept Lighting but jumped from 3,712 to 30 px. Narrow title and sort checks also failed",
       "owner": "Motion lead repairs, Astra independently verifies, iPhone captain checks the device",
