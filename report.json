@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The website lead owns the private install. Sol 6.1 checks TEST and prepares the installed collection replay. Two Astra agents cover iPhone evidence and Big Bag. The original protected reviewers and device captain retain their checks.",
+  "workerState": "The release desk owns protected admission. The TEST owners have the saved-look and staff checks. The device captain owns native iPhone access. The website lead owns the private install and the reviewer evidence.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The updated header passed nine wiring tests. At eight browser widths, 188–1280 px, the store pin opened the directory. On phones, pressing Escape returned focus to Menu.",
+  "lastActualProgress": "The revised Shop header passed nine wiring cases and ten browser widths, 188–1280 px. Four selected-variant purchase journeys reached the private Shopify cart. The new purchase controls are in #5550.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Shop has a 52 px phone header with a separate menu, CRUX wordmark and directly tappable store pin. Best sellers opens first. Filters and the shopping tabs scroll away with the products.",
-  "next": "The release desk has collection repair #5535. Shop navigation #5542 is stacked after it. The connected two-account privacy test and the independent Big Bag Back check have separate owners. The device captain takes the first eligible iPhone run.",
-  "updated": "8 November, 11:31 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "remaining": "Five release outcomes remain. The latest two-account privacy attempt reached 6/9, then Remove Look returned HTTP 500. The staff workflow needs its TEST delivery fixture. Seven native journeys, Big Bag return position, the final installed assembly and three passing independent ratings are open.",
+  "current": "Collections opens directly from the compact Shop header. Store directions and the bag are also one tap away. Search, Saved and Account each have a labelled row in Menu. The first product photo starts at 157 px on a 380 px browser.",
+  "next": "Protected review and installation of #5535, #5542 and the purchase controls #5550. The original reviewers own the menu follow-up. Big Bag Back, signed TEST and native iPhone have separate acceptance work.",
+  "updated": "08 November, 12:45 UTC. Delivery 6/11. Four signed TEST journeys 35/35. Latest two-account privacy attempt 6/9. Final native journeys 0/7. Passing whole-draft ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -222,6 +222,18 @@
     "current": "Installed homepage — October 3 Runway · 29e4c4a. Floating Stores ca91bd46 is code-approved, merged as 54cfaa4a and installed in the unpublished draft; five exact file readbacks and preservation of the active theme passed at 20:20 UTC. Its visual and native acceptance remain open. Earlier design scores below belong to their named source and do not grade the complete current draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
+      {
+        "scope": "Shop header and menu",
+        "reader": "Argon, High",
+        "score": "Changes requested on f66d0900",
+        "version": "The heart clipped, Saved overlapped Account, and the Fitting Desk was hard to recognise. The revised 4d258b20 preview passed at ten widths. On recheck Argon found all three resolved, with one minor gap recommended between Menu and the logo. This was a component consultation with no numerical grade. Its transport reported a reset after the written verdict."
+      },
+      {
+        "scope": "Shop header and menu",
+        "reader": "Opus 5.5",
+        "score": "Awaiting original reviewer access",
+        "version": "The last whole-draft score was 8.75. A menu-specific verdict needs its own evidence."
+      },
       {
         "scope": "Combined Runway and store enquiry",
         "reader": "Opus 5.5, High",
@@ -326,12 +338,12 @@
     {
       "stage": "Repairs and connected TEST",
       "state": "Four signed shopping journeys 35/35, including guest-to-signed styling 10/10",
-      "evidence": "Editing a saved look, correcting a piece, styling after sign-in, and saved preferences passed on the same served build. Checkout passed 12/12 separately. Two-account privacy is 8/9 and awaits the TEST password repair. The product rail correctly hides when empty. A populated rail, staff Use and Dismiss, publication consent and withdrawal still need checks."
+      "evidence": "Editing a saved look, correcting a piece, styling after sign-in, and saved preferences passed on the same served build. Checkout passed 12/12 separately. The latest two-account privacy attempt reached 6/9 before Remove Look returned HTTP 500. The product rail correctly hides when empty. A populated rail, staff Use and Dismiss, publication consent and withdrawal still need checks."
     },
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "The last hosted iPhone SE booted and received HTTP 429 before the draft page loaded. Four of five groups passed for the repaired helper. The release desk has its next run queued."
+      "evidence": "The last hosted iPhone SE booted and received HTTP 429 before the draft page loaded. Four of five groups passed for the repaired helper. The device captain owns the small and current iPhone run."
     },
     {
       "stage": "Final design acceptance",
@@ -345,11 +357,11 @@
     }
   ],
   "recentChanges": [
-    "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) places the store pin beside Search and Bag. The menu and CRUX wordmark have separate space on phones. At 380 px, the first product photo starts at 157 px. The private browser journey passed at eight widths. Protected review and Shopify draft installation are pending.",
+    "[Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon verified all three earlier findings were resolved and requested a little more space between Menu and the logo.",
+    "[Purchase controls #5550](https://github.com/EON-CRUX/3.09/pull/5550) distinguishes choosing options from adding the selected item. Seven wiring cases and four browser purchases into private draft carts passed. Both test bags were cleared.",
     "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
-    "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address.",
-    "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification."
+    "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back."
   ],
   "recentChangeParts": [
     [
@@ -361,7 +373,19 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5542"
       },
       {
-        "text": " places the store pin beside Search and Bag. The menu and CRUX wordmark have separate space on phones. At 380 px, the first product photo starts at 157 px. The private browser journey passed at eight widths. Protected review and Shopify draft installation are pending."
+        "text": " gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon verified all three earlier findings were resolved and requested a little more space between Menu and the logo."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Purchase controls #5550",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5550"
+      },
+      {
+        "text": " distinguishes choosing options from adding the selected item. Seven wiring cases and four browser purchases into private draft carts passed. Both test bags were cleared."
       }
     ],
     [
@@ -378,17 +402,12 @@
     ],
     [
       {
-        "text": "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied."
-      }
-    ],
-    [
-      {
         "text": "Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address."
       }
     ],
     [
       {
-        "text": "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification."
+        "text": "The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back."
       }
     ]
   ],
@@ -406,10 +425,10 @@
       "label": "6. Assistant privacy facts",
       "blocker": "Two-account isolation is 8/9. Guest-to-signed styling and clearing the panel on sign-out passed 10/10. The second signed account reached a storefront password screen. The shared dependency #5505 merged. Hands integrated it into #5502 at 06:30 UTC. All five hosted test groups passed at 10:05 UTC.",
       "next": "The TEST captain repeats the final account-isolation check after the repair merges and is served.",
-      "state": "Eight of nine assertions pass. The final second-account case is open",
+      "state": "Latest attempt 6/9. Removing a saved look returned HTTP 500; second-account isolation remains open",
       "owner": "Sol 6.1 with the original privacy TEST captain",
       "closes": "Sign in as shopper B, then shopper D, and verify D cannot see B’s saved look or recommendations",
-      "timing": "Starts when the served TEST password repair is verified"
+      "timing": "Resume after the saved-look removal repair is served to TEST"
     },
     {
       "label": "8. Final three-model ratings",
@@ -481,6 +500,14 @@
     "steps": [
       {
         "complete": true,
+        "text": "Put Collections in the header and fix the menu findings. Verify ten widths and send the corrected source to review (12:11Z–12:43Z, took 32 min)."
+      },
+      {
+        "complete": true,
+        "text": "Submit the tested purchase-control redesign as #5550 (12:35Z–12:41Z, took 6 min)."
+      },
+      {
+        "complete": true,
         "text": "Split the five remaining gates among three verification agents and the website lead (08:20Z–08:27Z, took 7 min)."
       },
       {
@@ -505,7 +532,7 @@
       },
       {
         "complete": false,
-        "text": "Obtain protected review on #5535, install the reviewed version privately and repeat the shopper test on the two Shopify pages (release desk’s next check by 10:10Z)."
+        "text": "Obtain protected review on #5535, install the reviewed version privately and repeat the shopper test on the two Shopify pages (release desk owns protected admission)."
       },
       {
         "complete": false,
@@ -513,7 +540,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the ninth privacy check with the original two TEST shoppers (estimate 10 min after the repair is served)."
+        "text": "Complete the remaining privacy checks with the original two TEST shoppers after the Remove Look repair (estimate 10 min after the repair is served)."
       },
       {
         "complete": false,
@@ -528,7 +555,7 @@
         "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: Next protected-review check by 10:10Z or on a protected result. The final handover depends on protected merges, connected TEST, device checks and three independent ratings."
+    "landing": "Lands: The next verifiable event is protected review or a decision from the component reviewer. The final handover depends on protected merges, connected TEST, device checks and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",

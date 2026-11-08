@@ -8,17 +8,17 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 8 November, 11:31 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Final iPhone journeys 0/7. Whole-draft passes 0/3.
+Last verified 08 November, 12:45 UTC. Delivery 6/11. Four signed TEST journeys 35/35. Latest two-account privacy attempt 6/9. Final native journeys 0/7. Passing whole-draft ratings 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) places the store pin beside Search and Bag. The menu and CRUX wordmark have separate space on phones. At 380 px, the first product photo starts at 157 px. The private browser journey passed at eight widths. Protected review and Shopify draft installation are pending.
+- [Shop navigation #5542](https://github.com/EON-CRUX/3.09/pull/5542) gives Collections its own one-tap control in the header. At ten browser widths the store pin opened the directory and each Collection group opened by keyboard. Search, Saved and Account have their own rows. Argon verified all three earlier findings were resolved and requested a little more space between Menu and the logo.
+- [Purchase controls #5550](https://github.com/EON-CRUX/3.09/pull/5550) distinguishes choosing options from adding the selected item. Seven wiring cases and four browser purchases into private draft carts passed. Both test bags were cleared.
 - [Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.
-- Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.
 - Four signed TEST journeys passed 35 of 35 steps. The two-account privacy and staff TEST repairs merged. The latest saved-look privacy run passed six steps, then removing a look returned HTTP 500. The original team owns that repair. The staff check reached the step that requires a synthetic delivery address.
-- The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests and is queued for independent browser verification.
+- The outfit photo switches between the full look and its detail. Big Bag Back moved the Donut Lamp by 394 px in the original failing check. The repair passed its author’s 13 tests. The independent browser attempt timed out opening the product before it could verify Back.
 
 ## What still needs to pass
 
