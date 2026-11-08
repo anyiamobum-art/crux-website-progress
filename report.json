@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original homepage, product-photo and collection-viewer builders have resumed through their existing sessions. Bridge has started the missing independent size-guide card. The follow-through keeper reports that the routing repair is installed; an unattended return to this parent remains unproved.",
+  "workerState": "Both original homepage jobs finished: product tests passed, but the self-review copy and one assembly test double need correction by the same builder. The original collection and product-photo builders finished their integrations; the parent pushed each once and returned them to the existing review process. Bridge has one independent size-guide reader. Native and TEST owners remain active. No additional writer or media generation was started.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 21:22 UTC the original product-photo writer completed a clean current-main merge; its shopping and image behavior is unchanged, so the six existing browser cases remain valid. The other original builders are resolving their release dependencies.",
+  "lastActualProgress": "At 21:37 UTC the parent published both verified integrations: collection viewer #5531 at 27bc569c and product-photo #5524 at f4eb587f. The viewer passed six controller groups; the PDP passed 12 affected tests and 12 causal mutations. The TEST access repair #5546 has also merged; its installation and staff journey are with the original owner.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Five delivery outcomes remain: reviewed shopping repairs, signed TEST journeys, seven native iPhone journeys, three final design acceptances and the fully tested draft handover. The current integration work is needed because older homepage and product improvements have not yet absorbed newer shopping changes. The store-return repair must follow its homepage dependency. The remote test worker returned a connection timeout before the product-photo checks started; the original writer is checking recovery.",
-  "current": "Three original builders are bringing the homepage, product photos and collection viewer up to date with the newer shopping code. The independent size-guide reviewer has started on the corrected version. The five-second Higgsfield clip is built and verified in the private circular Runway; its review and Shopify draft installation remain outstanding.",
-  "next": "Finish the original integration repairs and required focused checks; consume the size-guide verdict and queued protected reviews; install approved merged files in the unpublished Shopify draft. The original signed-shopper and iPhone owners continue their assigned checks.",
-  "updated": "08 November 2026, 21:27 UTC. Source integration and reviewer execution advanced; no new Shopify installation or final rating recorded.",
+  "remaining": "Five delivery outcomes remain: reviewed shopping repairs, signed TEST journeys, seven native iPhone journeys, three final design acceptances and the tested draft handover. The homepage worker has returned two bounded proof failures; its original builder is fixing the test-copy boundaries while preserving the product assets. Runway admission needs its already-assigned shopper-film exemption; its original design review is separate. Protected review and installation remain outstanding for the two newly submitted integrations.",
+  "current": "The collection viewer and product-photo repairs have passed focused integration checks and are submitted on their current revisions for protected review. The original homepage builder is correcting two test-environment integration failures after the scoped product tests passed. The size-guide independent reviewer is working on the corrected switch. The real Higgsfield clip remains verified in the private 3D Runway; review and draft installation are still outstanding.",
+  "next": "Consume the homepage test results and independent size-guide verdict; complete the existing protected reviews and install eligible merged files in the unpublished Shopify draft. The original signed-shopper and iPhone owners continue their assigned checks.",
+  "updated": "08 November 2026, 21:39 UTC. Two integration pushes and exact-head acceptances verified. No new Shopify installation or final rating recorded.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -219,7 +219,7 @@
     }
   ],
   "designScorecard": {
-    "current": "Installed homepage — October 3 Runway · 29e4c4a. Floating Stores ca91bd46 is code-approved, merged as 54cfaa4a and installed in the unpublished draft; five exact file readbacks and preservation of the active theme passed at 20:20 UTC. Its visual and native acceptance remain open. Earlier design scores below belong to their named source and do not grade the complete current draft.",
+    "current": "October3 homepage with merged #5518/#5433 source fcf416b4; four exact file readbacks passed at18:22 UTC. The newer 3D Runway and Higgsfield film at5e99c7c3 remain private-preview only. Floating Stores ca91bd46 is code-approved, merged as 54cfaa4a and installed in the unpublished draft; five exact file readbacks and preservation of the active theme passed at 20:20 UTC. Its visual and native acceptance remain open. Earlier design scores below belong to their named source and do not grade the complete current draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
       {
@@ -357,13 +357,32 @@
     }
   ],
   "recentChanges": [
+    "[Collection viewer #5531](https://github.com/EON-CRUX/3.09/pull/5531) is submitted at 27bc569c with six passing controller groups. The original layout and browser evidence remain valid by exact asset and render-input equality. [Product-photo retention #5524](https://github.com/EON-CRUX/3.09/pull/5524) is submitted at f4eb587f with 12 passing affected tests, 7 clean pin tests and 12 causal mutations. Both preserve newer shopping code; protected reviews, merge and unpublished installation are still required.",
     "[Collection and Add to bag #5554](https://github.com/EON-CRUX/3.09/pull/5554) is Ready at 0be201ee1156969cfe401e1e8843c8febab449a7. [Fresh admission](https://github.com/EON-CRUX/3.09/actions/runs/42520720139/job/128853381038) passed at 20:33:51 UTC and supersedes the Draft failure. [Hosted tests](https://github.com/EON-CRUX/3.09/actions/runs/42520720335) are queued. The original remote run passed nine clean cases, a separate tablet check and all 53 mutations. Superseded [#5535](https://github.com/EON-CRUX/3.09/pull/5535) closed at 20:20:26 UTC with its branch kept.",
     "[Circular Runway #5556](https://github.com/EON-CRUX/3.09/pull/5556) stays Draft at 5e99c7c335ba264fa375e810ad655c67061a1a5c. The [full-head size marker](https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726703031) replaces the short marker. The [chair's film decision](https://github.com/EON-CRUX/3.09/pull/5556#issuecomment-6726512202) retains the shopper MP4 and assigns the admission exemption to the original reviewer bundle. After that lands, admission and the original reviews continue. Private functional playback is verified. Shopify installation remains pending.",
-    "At 20:34:28 UTC the chair’s P4466 decision replaced the proposed one-tick windows with a pause during main’s active tests. Hands has the direction to enable automatic merging outside that pause, and implementation readback is pending. At 20:36 UTC all five [current main test groups](https://github.com/EON-CRUX/3.09/actions/runs/42508138728) were queued.",
     "[#5569’s failed hosted group](https://github.com/EON-CRUX/3.09/actions/runs/42514085294/job/128840250347) mapped to three storefront assertions. The WhatsApp center was unreachable at 187 × 406 while the count remained unobstructed. The cause remains open with the original [#4364 writer](https://github.com/EON-CRUX/3.09/pull/4364). The BIG BAG strike at 320 and 380 is repaired in the original [#5544](https://github.com/EON-CRUX/3.09/pull/5544) at 56b0b9e6 and awaits its own release.",
-    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) and [Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) remain verified in the unpublished theme. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [cm/inches #5555](https://github.com/EON-CRUX/3.09/pull/5555) are marked merge-eligible. Installed-draft and native acceptance remain open for the uninstalled changes."
+    "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) and [Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) remain verified in the unpublished theme. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) has four test groups passed and its remaining protected check outstanding. [cm/inches #5555](https://github.com/EON-CRUX/3.09/pull/5555) was rejected in round2 solely for the missing independent design verdict on the corrected head; its original assigned reader is executing. Neither is recorded as merged. Installed-draft and native acceptance remain open for the uninstalled changes."
   ],
   "recentChangeParts": [
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Collection viewer #5531",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5531"
+      },
+      {
+        "text": " is submitted at 27bc569c with six passing controller groups. The original layout and browser evidence remain valid by exact asset and render-input equality. "
+      },
+      {
+        "text": "Product-photo retention #5524",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5524"
+      },
+      {
+        "text": " is submitted at f4eb587f with 12 passing affected tests, 7 clean pin tests and 12 causal mutations. Both preserve newer shopping code; protected reviews, merge and unpublished installation are still required."
+      }
+    ],
     [
       {
         "text": ""
@@ -425,18 +444,6 @@
     ],
     [
       {
-        "text": "At 20:34:28 UTC the chair’s P4466 decision replaced the proposed one-tick windows with a pause during main’s active tests. Hands has the direction to enable automatic merging outside that pause, and implementation readback is pending. At 20:36 UTC all five "
-      },
-      {
-        "text": "current main test groups",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42508138728"
-      },
-      {
-        "text": " were queued."
-      }
-    ],
-    [
-      {
         "text": ""
       },
       {
@@ -484,14 +491,14 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5541"
       },
       {
-        "text": " and "
+        "text": " has four test groups passed and its remaining protected check outstanding. "
       },
       {
         "text": "cm/inches #5555",
         "url": "https://github.com/EON-CRUX/3.09/pull/5555"
       },
       {
-        "text": " are marked merge-eligible. Installed-draft and native acceptance remain open for the uninstalled changes."
+        "text": " was rejected in round2 solely for the missing independent design verdict on the corrected head; its original assigned reader is executing. Neither is recorded as merged. Installed-draft and native acceptance remain open for the uninstalled changes."
       }
     ]
   ],
