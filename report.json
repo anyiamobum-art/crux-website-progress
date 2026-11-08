@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the unpublished draft, page 2 showed 20 different products and Looks opened its own page. Choosing Green / XL added one 404 Tee. Opening the bag again showed the same variant. The quantity button needs a separate result.",
+  "lastActualProgress": "On the unpublished draft, the 404 Tee correctly stopped at its stock limit and the 90s Rugged Shirt kept quantity two after reload. Checkout opened. All 24 selected theme files matched the saved source. An independent size-filter test caught one wrong fallback in 40 product links.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Three verification agents and the website lead are testing five remaining outcomes in parallel. Each row below names the owner, what a shopper must be able to do, and what evidence closes it.",
-  "next": "Finish the bag quantity check, qualify the iPhone helper, then run the seven original iPhone journeys. The connected TEST captains run their remaining checks as soon as their own repairs are served.",
-  "updated": "08 November, 08:29 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "current": "Sol is repairing a size-filter mismatch found by an independent shopper test. The device and Big Bag teams are tracing their separate blockers. The lead verified bag quantities, checkout handoff and the installed draft files.",
+  "next": "Retest the repaired size and colour links on the same catalogue. The original TEST captains run staff consent and two-account isolation when their fixes are served. The iPhone captain needs a qualified device helper and a working preview route.",
+  "updated": "08 November, 08:36 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,7 +331,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "The device helper #5446 passed four of five hosted test groups. A shared budget-sheet test failed in group four. The release desk has a repeat run queued. The original captain can test seven journeys once the helper qualifies and a device is available."
+      "evidence": "The last hosted iPhone SE booted and received HTTP 429 before the draft page loaded. Four of five groups passed for the repaired helper. The release desk has its next run queued."
     },
     {
       "stage": "Final design acceptance",
@@ -345,8 +345,8 @@
     }
   ],
   "recentChanges": [
-    "The preview now opens the real unpublished Shopify collection, product page and bag. A 380 px browser saw 20 different products on page 2, and Looks opened its own page.",
-    "Choosing the Green / XL 404 Tee added exactly one matching variant. Reopening the bag showed that item, and cleanup restored the empty bag. A quantity increase needs separate verification.",
+    "The preview now opens the real unpublished collection and bag. Page 2 showed 20 different products. In a separate size-filter test, 39 of 40 links selected an available M. One bikini opened in S. Sol has the exact failing product and an independent tester will repeat the check.",
+    "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
     "The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus."
@@ -354,12 +354,12 @@
   "recentChangeParts": [
     [
       {
-        "text": "The preview now opens the real unpublished Shopify collection, product page and bag. A 380 px browser saw 20 different products on page 2, and Looks opened its own page."
+        "text": "The preview now opens the real unpublished collection and bag. Page 2 showed 20 different products. In a separate size-filter test, 39 of 40 links selected an available M. One bikini opened in S. Sol has the exact failing product and an independent tester will repeat the check."
       }
     ],
     [
       {
-        "text": "Choosing the Green / XL 404 Tee added exactly one matching variant. Reopening the bag showed that item, and cleanup restored the empty bag. A quantity increase needs separate verification."
+        "text": "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied."
       }
     ],
     [
@@ -424,8 +424,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Desktop title fitting passed. Native product-to-Back restoration is still unverified.",
-      "next": "The original iPhone captain follows a Big Bag product and returns to the expected collection and scroll position. Close with that device receipt; this shares the native run with item 10.",
+      "blocker": "Two hosted checks failed. The menu strike must fit the title at 320 and 380 px and the sort label must clear the chevron at 188 px.",
+      "next": "Verify the two original repairs and use the shared device run to check that Back restores the originating category and scroll position.",
       "state": "Two narrow-layout failures are under investigation and the native return trip is open",
       "owner": "Astra 6 coordinates the two original repair writers. The iPhone captain runs the return trip",
       "closes": "At 320 and 380 px the menu strike fits its title. At 188 px the sort label clears the chevron. On iPhone, product → Back restores category and scroll position",
@@ -481,8 +481,12 @@
         "text": "Verify the draft’s Looks page and page 2, add one in-stock tee and reopen the matching bag (08:18Z–08:26Z, took 8 min)."
       },
       {
+        "complete": true,
+        "text": "Verified the bag quantity limit, a successful increase from one to two after reload, and the checkout handoff (08:26Z–08:31Z, took 5 min)."
+      },
+      {
         "complete": false,
-        "text": "Verify the bag quantity controls and checkout handoff; record the selected variant and before/after quantity (started 08:26Z, estimate 15 min)."
+        "text": "Repair the size-filter fallback, then independently retest 40 product links, colour swatches and the Back journey on the repaired version (started 08:30Z, next evidence check 08:45Z)."
       },
       {
         "complete": false,
