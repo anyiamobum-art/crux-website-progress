@@ -8,16 +8,16 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 07 November, 23:58 UTC. Six of eleven delivery gates are verified. Signed privacy is at 8/9, native iPhone journeys at 0/7, and final passing ratings at 0/3.
+Last verified 08 November, 00:15 UTC. Six of eleven delivery gates are verified. Signed privacy is at 8/9, native iPhone journeys at 0/7, and final passing ratings at 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop This Look review](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714651274) found one case where a shopper loses their place: open an outfit, visit a product, go Back after the browser recreates the homepage, then close the outfit. Its original designer has the repair.
-- [Stores entered protected review](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714736219). The three-store private preview passed 19 combined checks, including directions links. The original motion build supports rapid changes of store and reduced motion.
-- [The served viewer check](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714551012) passed for a visit that stayed on the homepage. Closing returned to the Red on pink outfit at exactly 1,557 px and Forward reopened it.
-- The [TEST shopper session fix](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6714523161) passed its first code review. The second-shopper privacy check still requires its separate repair and a connected TEST run.
+- [Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287) now restores the selected Red on pink outfit, keyboard focus and exact scroll position after visiting Luffy Tee and going Back. Both starting positions passed: 1,157 px from the homepage and 844 px from its collection link. The corrected version is on GitHub for its next review.
+- [Stores review](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714792155) found that the list can jump when the “Near me” message wraps on a narrow phone. The reviewer also requested a check on the very first frame after clearing the selection. The original desktop designer owns both findings.
+- [Homepage](https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6714876564) rendered one Shop This Look, selected Blue on blue, and requested the expected store directory. The homepage-only fixture returned 404 at the destination. [Your edit](https://github.com/EON-CRUX/3.09/pull/5510#issuecomment-6714878420) saved the Bone Snap-Button High-Neck Jacket and reopened it in Saved. Current stock was unavailable in the fixture.
+- The product-gallery audit found that choosing a size resets the inspected photo. A repair is in progress. Colour selection should still open the selected colour’s lead image. The collection-page refinements remain at the design stage.
 
 ## What still needs to pass
 
