@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November 2026, 22:44 UTC. Six installed files match the approved source; the draft remains 740 files and the live theme 550 files, with untouched files preserved. No fresh rendered, connected, native or whole-site final-rating acceptance is claimed.
+Last verified 08 November 2026, 23:11 UTC. Big Bag source and private HTTP delivery are verified; its fresh rendered acceptance and protected review are pending. Installed six-file Shopify readback remains verified at22:44 UTC. No new final score or completed delivery gate is claimed.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
@@ -26,7 +26,7 @@ The public history first shows six on 13 October. A reversal on 14 October broug
 - **6. Assistant privacy facts** — Saved-look export and deletion passed 9/9, but same-browser account switching remains unverified. The owner explicitly removed marketing-consent gating from this scope; current #5570 matches the installed files and retains private-preview isolation. Exercise account isolation and verify the customer-initiated Team Help receipt after its repair is released.
 - **8. Final three-model ratings** — The finished source, shopping journeys, 200% text and native evidence are incomplete. Whole-draft scores remain Fable 9.05, Opus 8.75 and Astra unqualified. The three original reviewers check the named fixes on the same finished draft; close only with each average at least 9.5 and no measure below 9.
 - **10. Completed Shopify draft and handover** — Remaining protected reviews, final assembly and connected acceptance. The original viewer, Stores motion and six #5541/#5459 files are installed; their latest source readback and preservation passed at22:44 UTC. The collection successor and corrected Runway retain their original release gates. Native CURRENT remains0/7; historical SMALL8/8 is separate. Install further eligible reviewed changes privately and complete the original TEST and current-iPhone journeys after their qualified prerequisites.
-- **11. BIG BAG page and navigation** — Installed-source shopper acceptance and the separate strike repair. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release. On the installed source verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.
+- **11. BIG BAG page and navigation** — New homepage integration needs tests and review; installed-source shopper acceptance and the separate strike repair remain. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release. On the installed source verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.
 
 The delivery target is a tested, unpublished Shopify draft. The owner decides when to publish.
 

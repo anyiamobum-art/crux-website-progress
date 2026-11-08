@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Original homepage integration proof is complete: 14 tests and 17 mutations for the single shopping chapter; 10 affected tests and 28 mutations for Your edit. The three-file Team Help proof is complete: four affected checks and all six causal tests passed. Original TEST, device and review owners retain their work.",
+  "workerState": "Astra: Big Bag chapter committed and full-page render assembled. Original collection builder: named variant-filter and fresh-price repairs prepared; focused proof underway. Independent support: Big Bag source audit; the existing Runway video installer has passed 11 offline checks. These are actual separate tasks; no site publication is authorized.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "#5541 merged at 22:19:52 UTC and #5459 at 22:33:46 UTC. Their six runtime files passed hosted source readback and preservation at 22:44:14 UTC on assembly d62461a5. Native helper #5446 merged as 72da32d2 at 22:35:43 UTC; its installation, served-source verification and current dated device allocation remain open.",
+  "lastActualProgress": "At 23:11 UTC the existing private preview was restored and both the exact Runway page and new Big Bag page returned matching source bytes. Big Bag adds a room-photo chapter, six conditional category links and the current Collections data while preserving 35 existing emitted files. The six previously approved Big Bag Back and closed-store files remain installed and verified on the unpublished theme.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Remaining protected reviews, final assembly and connected acceptance still separate the installed components from the finished draft. Runway needs the assigned production-film exemption and original independent verdict. Signed TEST journeys, seven current-iPhone journeys and three whole-draft final named-fix ratings remain unfinished.",
-  "current": "The six approved Big Bag Back and closed-store files from #5541/#5459 are installed in the unpublished Shopify draft and source-matched at 22:44 UTC. The October 3 homepage, installed viewer and Stores motion are preserved. Homepage integration, Your edit and Team Help retain their separate protected release work.",
-  "next": "Complete the remaining protected reviews and install their eligible exact files privately. The original TEST captain has the served customer-link repair. Native helper #5446 is now merged; its original captain still needs installation, served-source verification and a current dated device grant before the seven current-iPhone journeys.",
-  "updated": "08 November 2026, 22:44 UTC. Six installed files match the approved source; the draft remains 740 files and the live theme 550 files, with untouched files preserved. No fresh rendered, connected, native or whole-site final-rating acceptance is claimed.",
+  "remaining": "The shared remote test queue and browser allocation are delaying fresh acceptance. Collection review found two real filtering issues and a missing independent combined-design card; repairs are underway. The original Runway second review and size-guide final named-fix verdict have not returned. Final TEST, native and whole-draft rating gates remain open.",
+  "current": "Three independent pieces are moving in parallel: Astra has built Big Bag into the October 3 homepage and Collections drawer; the original collection builder is repairing the three review findings; the Runway animation retains its original reviewers. Big Bag’s private full-page preview is running with the white 3D Runway preserved.",
+  "next": "Complete Big Bag’s focused tests and rendered review, then take its exact source through protected release. Finish the collection filter repairs in one reviewed update. Install only eligible merged files in the unpublished draft while the original TEST and device captains continue their checks.",
+  "updated": "08 November 2026, 23:11 UTC. Big Bag source and private HTTP delivery are verified; its fresh rendered acceptance and protected review are pending. Installed six-file Shopify readback remains verified at22:44 UTC. No new final score or completed delivery gate is claimed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -325,8 +325,8 @@
     },
     {
       "journey": "Explore Big Bag",
-      "state": "Existing unpublished page",
-      "action": "Use its navigation destination for objects and homeware. Verify the trip back to shopping without adding another homepage banner."
+      "state": "Homepage integration built; review pending",
+      "action": "A room-photo chapter after the fashion catalogue leads into the existing homeware shop. Big Bag also appears in Collections. Lighting, vases, clocks, rugs, mirrors and objects use their real collection routes when available. Existing Runway and shopping functions are preserved."
     }
   ],
   "deliveryStages": [
@@ -534,9 +534,9 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Installed-source shopper acceptance and the separate strike repair. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release.",
+      "blocker": "New homepage integration needs tests and review; installed-source shopper acceptance and the separate strike repair remain. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release.",
       "next": "On the installed source verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.",
-      "state": "Back repair merged and installed; shopper acceptance and separate strike release pending",
+      "state": "Homepage chapter built; Back repair installed; tests, review and shopper acceptance pending",
       "owner": "Original motion writer and installed-draft witnesses",
       "closes": "Delayed restoration cannot override navigation; title, sort, selected card, scroll and focus pass",
       "timing": "Six-file source readback passed22:44 UTC; original installed-source and device acceptance next"
