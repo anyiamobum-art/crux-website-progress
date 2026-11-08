@@ -474,8 +474,7 @@
         "shopify": "Pending",
         "experience": "Select a garment to move from the outfit to a close-up in the same photo.",
         "next": "Finish the viewer review, then review and install the close-up on the draft.",
-        "review": "Viewer #5518",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518"
+        "review": "Viewer #5518"
       },
       {
         "name": "Stores",
@@ -484,8 +483,7 @@
         "shopify": "Pending",
         "experience": "Store cards slide into place when you switch stores or use Near me.",
         "next": "Restore the checks, merge and verify the draft installation.",
-        "review": "Stores #5519",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
+        "review": "Stores #5519"
       }
     ],
     "previewed": 2,
