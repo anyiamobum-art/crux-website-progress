@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November 2026, 16:00 UTC.
+Last verified 08 November 2026, 16:18 UTC.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
@@ -26,7 +26,7 @@ The public history first shows six on 13 October. A reversal on 14 October broug
 - **6. Assistant privacy facts** — The signed export and deletion journey passed all nine steps. Switching between two shoppers in the same browser still needs its attended check. The original TEST captain verifies that the second shopper cannot see the first shopper’s saved look or recommendations.
 - **8. Final three-model ratings** — Final source still needs the repaired shopping journeys, 200% text and small-iPhone evidence. Last full scores: Fable 9.05, Opus 8.75; Astra unqualified. The three original readers perform the remaining named-fix checks on the same finished draft. Close only when each averages at least 9.5 and no measure is below 9.
 - **10. Completed Shopify draft and handover** — Homepage and Identity original reviews/tests, closed-store correction, TEST checkout repair and native helper must finish; 0/7 current native journeys are verified. The release owners finish the existing lanes. Website lead installs eligible files privately and the original captains run connected TEST and iPhone checks. Close with the exact final theme files, complete journey evidence and handover.
-- **11. BIG BAG page and navigation** — A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Narrow-layout repair #5544 still has failing checks. After protected review and private installation, measure where the same lamp returns on desktop and iPhone and verify the title and sort control at narrow widths.
+- **11. BIG BAG page and navigation** — A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Its hosted check then found an outdated asset fingerprint and a separate companion-test timeout. The original owners have both failures. Narrow-layout repair #5544 has its own checks. After protected review and private installation, measure where the same lamp returns on desktop and iPhone and verify the title and sort control at narrow widths.
 
 The delivery target is a tested, unpublished Shopify draft. The owner decides when to publish.
 

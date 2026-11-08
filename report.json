@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original collection builder is running regression and mutation checks. The website lead is inspecting the candidate’s Grid and Focus layouts. The signed-shopper and iPhone captains retain their separate checks.",
+  "workerState": "The Website lead has the final collection repair. The Stores builder is adding a check across every theme folder for closed shops. The signed-shopper and iPhone captains each have a specific pending test.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Both deployed Stores source maps match the reviewed code. The group monitor also reached an original owner during its ordinary sweep. That owner checked the pending review 15 seconds later without a reminder.",
+  "lastActualProgress": "The collection showed all 20 products in the same order after switching between Grid and Focus at both tested widths. A 184-by-64-pixel switch and sticky desktop Filter still use too much space. The group monitor independently picked up the rejected collection review during its ordinary sweep.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five launch gates remain. The shopper privacy export and deletion journey passed. Same-browser account switching, staff review actions and buyer consent, Big Bag Back, seven iPhone journeys, final draft assembly and three design ratings still need evidence.",
-  "current": "The new Stores motion is installed in the unpublished Shopify theme. At 380 px, tapping Chevron and then Palms selected the correct store each time. The live theme passed its preservation check.",
-  "next": "Complete the final named-fix review for collection #5535. The candidate keeps Quick buy inside the selected size and price filters and keeps the correct category highlighted on menu links with a query string.",
-  "updated": "08 November 2026, 16:00 UTC.",
+  "current": "Stores motion is installed on the unpublished theme. At phone width I selected Chevron, then Palms, and verified the selected shop each time. A separate fix removes closed Osapa from both directories and the fitting desk.",
+  "next": "The release lead is checking filtered Quick buy before the final review. A separate collection layout pass needs to bring products closer to the header. The 380-pixel layout starts the first product image 552 pixels down.",
+  "updated": "08 November 2026, 16:18 UTC.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -485,7 +485,7 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Narrow-layout repair #5544 still has failing checks.",
+      "blocker": "A desktop Back trip moved the clicked lamp by 394 px on the installed draft. The return repair #5541 passed its builder’s browser test. Its hosted check then found an outdated asset fingerprint and a separate companion-test timeout. The original owners have both failures. Narrow-layout repair #5544 has its own checks.",
       "next": "After protected review and private installation, measure where the same lamp returns on desktop and iPhone and verify the title and sort control at narrow widths.",
       "state": "Installed Back trip displaced the selected lamp by 394 px. The revised return passed its builder’s browser test",
       "owner": "Motion lead owns #5541 and #5544. Website and device captains verify the installed draft",
