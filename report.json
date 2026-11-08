@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Sol 6.1 has the connected staff and two-shopper tests. One Astra 6 agent has native iPhone, another has Big Bag and final review evidence. The website lead owns the shopping journey and matching the installed draft to the reviewed files.",
+  "workerState": "The website lead owns the private install. Sol 6.1 checks TEST and prepares the installed collection replay. Two Astra agents cover iPhone evidence and Big Bag. The original protected reviewers and device captain retain their checks.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the private collection repair, both pages retained their 20 products. All 39 cards with an in-stock M offered a matching variant. One card had no match, and all 22 eligible colour taps picked an available M. A separate desktop test on the installed Big Bag draft found that Back kept Lighting and the Donut Lamp but jumped from 3,712 to 30 px down the page.",
+  "lastActualProgress": "The private inventory check found an available M on 39 of 40 products across two pages. All five proposed installation destinations matched their expected starting state. On Big Bag, the Donut Lamp returned 394 px away from its former screen position on all four measurements over five seconds. The repair request reached the original writer’s queue.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "PR #5535 has its builder acceptance and independent browser test. Initial GitHub checks are queued or running. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
-  "next": "Carry the collection fix through protected review and check the same two pages on Shopify. Return the Big Bag scroll evidence to its original writer. Staff, privacy and device tests can proceed as each dependency clears.",
-  "updated": "8 November, 09:13 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "current": "The release lead posted the required acceptance for collection repair #5535 after checking both pages against inventory on the unpublished theme. The PR is in the release desk’s hands for protected review. In parallel, the Big Bag writer has been requested and the iPhone captain acknowledged the updated evidence.",
+  "next": "The release desk takes #5535 into protected review. After merge, install the five reviewed files privately and repeat the two-page shopper test. The original Big Bag writer has a failing Back test. Signed TEST and iPhone captains continue their separate checks.",
+  "updated": "8 November, 09:48 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,11 +345,11 @@
     }
   ],
   "recentChanges": [
-    "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535) passed the independent two-page replay. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly offered other options. Protected review and the installed Shopify replay remain open.",
+    "[Collection repair #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631) has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
-    "The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus."
+    "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The original writer has been requested."
   ],
   "recentChangeParts": [
     [
@@ -358,10 +358,10 @@
       },
       {
         "text": "Collection repair #5535",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5535"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6719913631"
       },
       {
-        "text": " passed the independent two-page replay. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly offered other options. Protected review and the installed Shopify replay remain open."
+        "text": " has the release lead’s acceptance for the exact revision. Both private Shopify pages returned 20 products, 39 of 40 matched the filter, and five installation destinations were checked. Protected review, merge and the installed shopper test remain open."
       }
     ],
     [
@@ -388,7 +388,7 @@
     ],
     [
       {
-        "text": "The outfit photo now switches between the full look and a garment detail. At 380, 430 and 1280 px, opening the Luffy Tee and pressing Back restored the original look, scroll position and keyboard focus."
+        "text": "The outfit photo now switches between full look and detail. Back restored the Luffy Tee look at three widths. Big Bag has a separate confirmed defect. Back displaced the Donut Lamp by 394 px at every sample over five seconds. The original writer has been requested."
       }
     ]
   ],
@@ -431,8 +431,8 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "On the installed desktop draft, Back from the Donut Lamp kept the Lighting category but jumped from 3,712 to 30 px.",
-      "next": "Restore the prior position, fix the two narrow title and sort checks, and repeat the trip on iPhone.",
+      "blocker": "Back from the Donut Lamp keeps Lighting selected but displaces the product by 394 px on the installed draft. The original writer request is queued.",
+      "next": "Check that the repaired draft restores the clicked product to its previous screen position, then verify the narrow title and sort control and the iPhone return.",
       "state": "Desktop Back kept Lighting but jumped from 3,712 to 30 px. Narrow title and sort checks also failed",
       "owner": "Astra 6 verifies, original Big Bag writers repair, iPhone captain checks the device",
       "closes": "Title fits at 320 and 380 px, sort text clears its arrow at 188 px, and Back restores the same category and place on desktop and iPhone",
@@ -500,8 +500,12 @@
         "text": "Open the verified catalogue repair as PR #5535. All 33 regression checks passed, and the independent tester compared both final rendered pages byte for byte (09:04Z–09:09Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Check two real Shopify inventory pages and all five installation destinations, then file the required release acceptance (09:31Z–09:40Z, took 9 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain protected review on #5535, install the reviewed version into the private draft and repeat the two-page shopper test on Shopify."
+        "text": "Obtain protected review on #5535, install the reviewed version privately and repeat the shopper test on the two Shopify pages (release desk’s next check by 10:10Z)."
       },
       {
         "complete": false,
@@ -517,14 +521,14 @@
       },
       {
         "complete": false,
-        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 09:44Z)."
+        "text": "Verify seven journeys on the small and current iPhones. Historical recordings are reconciled. The original device captain acknowledged the request and is checking the hosted helper and its place in the queue."
       },
       {
         "complete": false,
         "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: Next protected-review check by 09:44Z, or earlier if a reviewer or the device captain returns a result. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
+    "landing": "Lands: Next protected-review check by 10:10Z or on a protected result. The final handover depends on protected merges, connected TEST, device checks and three independent ratings."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
