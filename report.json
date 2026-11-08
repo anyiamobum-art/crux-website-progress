@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "On the installed draft, colour selections on Acid Hooded Top and Bossmon Cargo Shorts opened unavailable variants. On the private repair, all 22 eligible colours across two pages selected an available M. The test renderer marked 39 known matching products unavailable on their main links. The developer and independent tester are correcting and checking that renderer before the repair goes into the draft.",
+  "lastActualProgress": "On the private collection repair, both pages retained their 20 products. All 39 cards with an in-stock M offered a matching variant. One card had no match, and all 22 eligible colour taps picked an available M. A separate desktop test on the installed Big Bag draft found that Back kept Lighting and the Donut Lamp but jumped from 3,712 to 30 px down the page.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Sol is correcting the collection test renderer after an independent two-page replay. Astra is checking the Big Bag return journey. The two-account and iPhone captains retain their own tests.",
-  "next": "Retest the repaired size and colour links on the same catalogue. The original TEST captains run staff consent and two-account isolation when their fixes are served. The iPhone captain needs a qualified device helper and a working preview route.",
-  "updated": "08 November, 08:55 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "current": "Sol is finishing the catalogue repair’s release checks. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
+  "next": "Carry the collection fix through protected review and check the same two pages on Shopify. Return the Big Bag scroll evidence to its original writer. Staff, privacy and device tests can proceed as each dependency clears.",
+  "updated": "8 November, 09:02 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -303,8 +303,8 @@
     },
     {
       "journey": "Browse the collection",
-      "state": "Private repair under independent test",
-      "action": "The original collection categories, Grid and Focus, and populated filters passed nine Chromium scenarios. Twenty-two eligible colours led to an available M. The primary product links are being cross-checked with a corrected renderer before installation."
+      "state": "Private source verified; installed replay pending",
+      "action": "Categories, Grid and Focus and populated filters passed nine Chromium scenarios. The latest two-page replay verified 39 eligible primary links, one unavailable card and 22 colour choices after selecting M and In stock."
     },
     {
       "journey": "Try it in a shop",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. On page two a physical tap reached the correct Bossmon White swatch and sent the shopper to sold-out White/M. The earlier 0/13 counted automated taps intercepted by the preview, not failed shopper taps. Back from three products restored the right filters, page and products. Sol has written the variant repair and the independent tester has both failing products to replay.",
+    "The catalogue fix passed an independent touch replay of two pages using the committed theme and captured inventory. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly had no eligible option. The installed draft still needs that fix and the same replay. The installed Big Bag page has a separate confirmed Back jump.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
@@ -354,7 +354,7 @@
   "recentChangeParts": [
     [
       {
-        "text": "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. On page two a physical tap reached the correct Bossmon White swatch and sent the shopper to sold-out White/M. The earlier 0/13 counted automated taps intercepted by the preview, not failed shopper taps. Back from three products restored the right filters, page and products. Sol has written the variant repair and the independent tester has both failing products to replay."
+        "text": "The catalogue fix passed an independent touch replay of two pages using the committed theme and captured inventory. All 39 eligible cards, 22 colour taps and three Back trips passed. One product correctly had no eligible option. The installed draft still needs that fix and the same replay. The installed Big Bag page has a separate confirmed Back jump."
       }
     ],
     [
@@ -424,12 +424,12 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Two hosted checks failed. The menu strike must fit the title at 320 and 380 px and the sort label must clear the chevron at 188 px.",
-      "next": "Verify the two original repairs and use the shared device run to check that Back restores the originating category and scroll position.",
-      "state": "Two narrow-layout failures are under investigation and the native return trip is open",
-      "owner": "Astra 6 coordinates the two original repair writers. The iPhone captain runs the return trip",
-      "closes": "At 320 and 380 px the menu strike fits its title. At 188 px the sort label clears the chevron. On iPhone, product → Back restores category and scroll position",
-      "timing": "Layout work runs in parallel. Native return shares the existing iPhone run"
+      "blocker": "On the installed desktop draft, Back from the Donut Lamp kept the Lighting category but jumped from 3,712 to 30 px.",
+      "next": "Restore the prior position, fix the two narrow title and sort checks, and repeat the trip on iPhone.",
+      "state": "Desktop Back kept Lighting but jumped from 3,712 to 30 px. Narrow title and sort checks also failed",
+      "owner": "Astra 6 verifies, original Big Bag writers repair, iPhone captain checks the device",
+      "closes": "Title fits at 320 and 380 px, sort text clears its arrow at 188 px, and Back restores the same category and place on desktop and iPhone",
+      "timing": "Desktop defect reproduced. Its repair and narrow-layout work can proceed while the iPhone slot is pending"
     }
   ],
   "homepageDirection": [
@@ -485,8 +485,12 @@
         "text": "Verified the bag quantity limit, a successful increase from one to two after reload, and the checkout handoff (08:26Z–08:31Z, took 5 min)."
       },
       {
+        "complete": true,
+        "text": "Independently replay the repaired catalogue across 40 cards, 22 eligible colour taps and three Back trips in the two-page fixture (08:30Z–09:00Z, took 30 min)."
+      },
+      {
         "complete": false,
-        "text": "Repair the size-filter fallback, then independently retest 40 product links, colour swatches and the Back journey on the repaired version (started 08:30Z, next evidence check 09:12Z)."
+        "text": "Complete protected review of the catalogue repair, install into the private draft, then repeat the same journey on Shopify."
       },
       {
         "complete": false,
@@ -498,7 +502,7 @@
       },
       {
         "complete": false,
-        "text": "Resolve the two Big Bag layout checks through the original writers; verify the product return within the shared iPhone run (investigation started 08:22Z, next evidence check 09:12Z)."
+        "text": "Repair the Big Bag return jump and the two narrow-layout failures. Repeat Lighting → Donut Lamp → Back on the installed desktop and iPhone draft (desktop failure documented 08:58Z)."
       },
       {
         "complete": false,
