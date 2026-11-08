@@ -8,14 +8,14 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 09 November 2026, 01:35 China time (08 November, 17:35 UTC).
+Last verified 08 November 2026, 19:15 UTC (evidence layers remain separate).
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
 - [Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate [hotspot refinement #5556](https://github.com/EON-CRUX/3.09/pull/5556) has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance.
-- [Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378) passed both named code repairs in its last review. The merge is held because the independent rendered design verdict is missing. The original reader and chair own that remaining requirement; no extra code-review round is being started.
+- [Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378) passed both named code repairs in its last review. All three missing preview exports are now recovered and the same original reader updated comment6724949372 at19:01 UTC. The chair still owns the release hold; this recovery is not native acceptance and does not start another review round.
 - [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541#issuecomment-6724489649) needs one further fix: cancel an older pending scroll restoration when the shopper changes browser history. The simple return already passed in the controlled browser; the new case and the installed desktop/iPhone return still need verification.
 - Purchase controls: [paired Add to bag alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) has zero offset across 78 tested product pairs, with builder acceptance but no protected review yet. The [cm/inches guide #5555](https://github.com/EON-CRUX/3.09/pull/5555#issuecomment-6724560526) scored 9.25 in its component review. Pressed feedback, house styling and approximate rounding labels are the three assigned fixes.
 - [Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) is merged and installed on the unpublished Shopify theme. Both exact files and phone-width store selection are verified. Closed-store removal and native checks remain. Separately, the original signed TEST runs passed 35/35 steps and saved-look privacy passed 9/9; they do not yet close the remaining privacy and staff journeys.

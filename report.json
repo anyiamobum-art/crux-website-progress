@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Shop This Look merged as fcf416b4 at 17:34 UTC. The collection final review confirmed both code repairs and retained only the missing independent visual verdict. A fresh Big Bag review found a stale restoration after same-document Back. The cm/inches review scored 9.25 and named three fixes, now with its original release owner. Button alignment remains verified across 78 product pairs.",
+  "lastActualProgress": "At19:01 UTC the original collection reader updated its existing verdict with all three recovered preview exports. The circular Runway passed all five phone selections and72 garment clicks. The corrected five-second Higgsfield asset was downloaded at19:07 UTC and returned to Astra for integration; it is not yet installed in Shopify.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five delivery items remain: buyer trust and staff actions; assistant privacy; final design ratings; the completed installed assembly and iPhone evidence; and Big Bag acceptance. The collection needs a chair-released design-review hold. Big Bag has a named history-navigation defect. Completed tests are shown separately below.",
-  "current": "Stores motion is installed on the unpublished theme. Shop This Look merged at 17:34 UTC after its final named-fix code approval; private installation is next. The collection code fixes passed; its missing independent design verdict now holds the merge. Big Bag needs one further Back-navigation fix.",
-  "next": "The original collection reader supplies an exact-version rendered design verdict for the chair. The Big Bag writer cancels a pending scroll restoration when browser history changes. The size-guide writer fixes three review findings. The release lead continues eligible merges and private installation in parallel.",
-  "updated": "09 November 2026, 01:35 China time (08 November, 17:35 UTC).",
+  "current": "The merged shopping viewer and Stores motion are installed on the unpublished Shopify draft. Astra has repaired the circular Runway and completed its phone/desktop checks. The actual white-background Higgsfield clip is generated and is being integrated into the private hotspot refinement. The collection remains under the chair’s release hold; its three missing preview exports are now recovered.",
+  "next": "Finish and exercise the genuine clip inside the shoppable stage, then return the exact source to its original review. The original release owners continue the Big Bag, size-guide and collection decisions. TEST and iPhone acceptance remain separate, source-bound checks.",
+  "updated": "08 November 2026, 19:15 UTC (evidence layers remain separate).",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -343,7 +343,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "0 of 7 journeys verified",
-      "evidence": "The last device attempt received HTTP 429 before the draft loaded. The repaired helper has one hosted shard still running. The original captain owns the small and current iPhone run."
+      "evidence": "The last device attempt received HTTP 429 before the draft loaded. The repaired helper’s hosted checks passed at17:45 UTC; its protected merge and the dated device allocation remain open. The original captain owns the small and current iPhone run."
     },
     {
       "stage": "Final design acceptance",
@@ -358,7 +358,7 @@
   ],
   "recentChanges": [
     "[Shop This Look #5518](https://github.com/EON-CRUX/3.09/pull/5518) merged at 17:34 UTC and its four files are installed on the unpublished draft. The complete 740-file Admin census passed: the four new files match, the other 736 retain their prior metadata, and all 550 live-theme files are unchanged. The separate [hotspot refinement #5556](https://github.com/EON-CRUX/3.09/pull/5556) has twelve clickable garments across five looks and ten verified product destinations in the private preview. Neither result is a final Shopify acceptance.",
-    "[Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378) passed both named code repairs in its last review. The merge is held because the independent rendered design verdict is missing. The original reader and chair own that remaining requirement; no extra code-review round is being started.",
+    "[Collection #5535](https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378) passed both named code repairs in its last review. All three missing preview exports are now recovered and the same original reader updated comment6724949372 at19:01 UTC. The chair still owns the release hold; this recovery is not native acceptance and does not start another review round.",
     "[Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541#issuecomment-6724489649) needs one further fix: cancel an older pending scroll restoration when the shopper changes browser history. The simple return already passed in the controlled browser; the new case and the installed desktop/iPhone return still need verification.",
     "Purchase controls: [paired Add to bag alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) has zero offset across 78 tested product pairs, with builder acceptance but no protected review yet. The [cm/inches guide #5555](https://github.com/EON-CRUX/3.09/pull/5555#issuecomment-6724560526) scored 9.25 in its component review. Pressed feedback, house styling and approximate rounding labels are the three assigned fixes.",
     "[Stores motion #5519](https://github.com/EON-CRUX/3.09/pull/5519) is merged and installed on the unpublished Shopify theme. Both exact files and phone-width store selection are verified. Closed-store removal and native checks remain. Separately, the original signed TEST runs passed 35/35 steps and saved-look privacy passed 9/9; they do not yet close the remaining privacy and staff journeys."
@@ -392,7 +392,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5535#issuecomment-6724456378"
       },
       {
-        "text": " passed both named code repairs in its last review. The merge is held because the independent rendered design verdict is missing. The original reader and chair own that remaining requirement; no extra code-review round is being started."
+        "text": " passed both named code repairs in its last review. All three missing preview exports are now recovered and the same original reader updated comment6724949372 at19:01 UTC. The chair still owns the release hold; this recovery is not native acceptance and does not start another review round."
       }
     ],
     [
@@ -530,8 +530,8 @@
     },
     {
       "change": "Higgsfield media",
-      "state": "First actual five-second clip generated",
-      "action": "The authenticated official CLI used the existing subscription for the approved mint-polo clip, quoted at 8.75 credits. Its grey studio floor is not yet suitable for the white Runway; Astra is correcting the treatment. No generated clip is installed or published live."
+      "state": "White-background clip generated; integration running",
+      "action": "Two actual five-second generations used the existing subscription, each quoted at8.75 credits. The first grey-floor result was rejected. The corrected white-background asset is downloaded and being integrated by Astra. No generated clip is installed in Shopify or published live."
     },
     {
       "change": "Catalogue discovery",
