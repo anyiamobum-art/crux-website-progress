@@ -140,7 +140,7 @@
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
   "current": "Sol is fixing two failures independently reproduced on the installed collection. A colour tap can open a sold-out size and product cards on page two intercept colour taps. The device and Big Bag teams are working on their own checks.",
   "next": "Retest the repaired size and colour links on the same catalogue. The original TEST captains run staff consent and two-account isolation when their fixes are served. The iPhone captain needs a qualified device helper and a working preview route.",
-  "updated": "08 November, 08:40 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "08 November, 08:50 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. Page one accepted 17/17 taps and page two accepted 0/13. Back from three products restored the right filters, page and products. The independent tester will replay the same two pages after repair.",
+    "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. On page two a physical tap reached the correct Bossmon White swatch and sent the shopper to sold-out White/M. The earlier 0/13 counted automated taps intercepted by the preview, not failed shopper taps. Back from three products restored the right filters, page and products. Sol has written the variant repair and the independent tester has both failing products to replay.",
     "Choosing the Green / XL 404 Tee added one and Shopify explained its one-item limit. The Black / M 90s Rugged Shirt increased from one to two and kept that quantity after reload. The checkout button opened Checkout - CRUX. Both test bags were emptied.",
     "Come Through now shows three store addresses with directions in the private build. The team checked 380 and 1280 px, keyboard and browsing with JavaScript disabled.",
     "Four signed TEST journeys passed 35 of 35 steps. [Original guest-to-signed result](https://github.com/EON-CRUX/3.09/pull/5493#issuecomment-6717837105). The separate second-account privacy case is still open.",
@@ -354,7 +354,7 @@
   "recentChangeParts": [
     [
       {
-        "text": "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. Page one accepted 17/17 taps and page two accepted 0/13. Back from three products restored the right filters, page and products. The independent tester will replay the same two pages after repair."
+        "text": "The preview now opens the real unpublished collection and bag. A touch test confirmed a colour swatch led from M + In stock to a sold-out S. On page two a physical tap reached the correct Bossmon White swatch and sent the shopper to sold-out White/M. The earlier 0/13 counted automated taps intercepted by the preview, not failed shopper taps. Back from three products restored the right filters, page and products. Sol has written the variant repair and the independent tester has both failing products to replay."
       }
     ],
     [
@@ -486,7 +486,7 @@
       },
       {
         "complete": false,
-        "text": "Repair the size-filter fallback, then independently retest 40 product links, colour swatches and the Back journey on the repaired version (started 08:30Z, next evidence check 08:45Z)."
+        "text": "Repair the size-filter fallback, then independently retest 40 product links, colour swatches and the Back journey on the repaired version (started 08:30Z, next evidence check 09:12Z)."
       },
       {
         "complete": false,
@@ -498,18 +498,18 @@
       },
       {
         "complete": false,
-        "text": "Resolve the two Big Bag layout checks through the original writers; verify the product return within the shared iPhone run (investigation started 08:22Z, next evidence check 08:45Z)."
+        "text": "Resolve the two Big Bag layout checks through the original writers; verify the product return within the shared iPhone run (investigation started 08:22Z, next evidence check 09:12Z)."
       },
       {
         "complete": false,
-        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 08:45Z)."
+        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 09:12Z)."
       },
       {
         "complete": false,
         "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: The next verification update is due by 08:45Z. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
+    "landing": "Lands: The next verification update is due by 09:12Z. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
