@@ -465,6 +465,34 @@
       "timing": "Desktop defect reproduced. Its repair and narrow-layout work can proceed while the iPhone slot is pending"
     }
   ],
+  "higgsfieldMotion": {
+    "treatments": [
+      {
+        "name": "Shop This Look",
+        "author": "Astra",
+        "preview": "Previewed",
+        "shopify": "Pending",
+        "experience": "Select a garment to move from the outfit to a close-up in the same photo.",
+        "next": "Finish the viewer review, then review and install the close-up on the draft.",
+        "review": "Viewer #5518",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518"
+      },
+      {
+        "name": "Stores",
+        "author": "Claude Opus 5.5",
+        "preview": "Previewed",
+        "shopify": "Pending",
+        "experience": "Store cards slide into place when you switch stores or use Near me.",
+        "next": "Restore the checks, merge and verify the draft installation.",
+        "review": "Stores #5519",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519"
+      }
+    ],
+    "previewed": 2,
+    "verifiedOnShopify": 0,
+    "installationChecked": "8 November 2026, 11:42 UTC",
+    "proposals": "A moving camera in the product gallery and new store photography."
+  },
   "homepageDirection": [
     {
       "change": "Single shopping section",
@@ -477,9 +505,9 @@
       "action": "COME THROUGH leads to the maintained directory for addresses, hours and directions. Current closed-store repair remains in its original release lane."
     },
     {
-      "change": "Higgsfield design refinement",
-      "state": "Four surfaces have private browser evidence",
-      "action": "Shop This Look has its final named repair on GitHub. The combined build renders the requested single shopping section. Stores passed second review. The product gallery preserves its selected image on size change. The collection viewer shows a taller garment image and keeps its link visible. Merge, installation, native and final ratings remain open."
+      "change": "Collection and product interactions",
+      "state": "Private browser evidence",
+      "action": "The collection viewer shows more of the garment at small widths. Changing size on a product keeps the photo the shopper was inspecting."
     },
     {
       "change": "Higgsfield media connection",
