@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Sol’s catalogue repair is open as PR #5535 after its independent test and all 33 regression checks passed. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
+  "current": "PR #5535 has its builder acceptance and independent browser test. Initial GitHub checks are queued or running. Astra reproduced the Big Bag Back jump on the installed draft. The staff, privacy and iPhone captains have separate tests.",
   "next": "Carry the collection fix through protected review and check the same two pages on Shopify. Return the Big Bag scroll evidence to its original writer. Staff, privacy and device tests can proceed as each dependency clears.",
-  "updated": "8 November, 09:10 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
+  "updated": "8 November, 09:13 UTC. Delivery 6/11. Four signed TEST journeys 35/35 steps. Two-account isolation 8/9. Final iPhone journeys 0/7. Whole-draft passes 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -517,14 +517,14 @@
       },
       {
         "complete": false,
-        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 09:12Z)."
+        "text": "Verify seven journeys on the original small and current iPhone setup and record the tested draft (waiting for helper qualification and device allocation; next evidence check 09:44Z)."
       },
       {
         "complete": false,
         "text": "Match the final private theme to its approved files, then give the same completed evidence to the three original readers (timing depends on the remaining checks)."
       }
     ],
-    "landing": "Lands: The next verification update is due by 09:12Z. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
+    "landing": "Lands: Next protected-review check by 09:44Z, or earlier if a reviewer or the device captain returns a result. Finishing the whole draft depends on protected merges, connected TEST access, device allocation and independent reviews."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
