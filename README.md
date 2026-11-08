@@ -8,13 +8,13 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November, 07:27 UTC. Six of eleven delivery gates are verified. Signed privacy is 8/9, native iPhone journeys 0/7, and final passing ratings 0/3.
+Last verified 08 November, 07:38 UTC. Six of eleven delivery gates verified. Signed privacy is 8/9, native iPhone journeys 0/7 and final passing ratings 0/3.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
-- [Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6715286929) restored the right outfit on the plain homepage and the original collection link. Its second review found one more path: jump to a section after arriving on the homepage, open another outfit, visit its product and press Back. The original designer reproduced the failure and is qualifying the fix for the last review.
+- [Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6718812213) now remembers the third outfit after the shopper jumps to the collection, visits its product and uses Back. The old build returned to outfit one. The corrected build reopened Red on pink and focused the opener at exactly 1,157 px of scroll. All 22 mutation checks passed. The final code review is pending.
 - [Stores](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6715100263) passed its second code review and four of five hosted test groups. The fifth failed a board-feed timing check outside the Stores files. The release desk queued one whole rerun. The change removes the 16 px jump when the distance message wraps and handles Clear on its first frame.
 - [Product gallery](https://github.com/EON-CRUX/3.09/pull/5524) held the back view when changing sizes and switched to the correct lead photo on a colour change. Six private Chromium cases passed. Hands accepted this revision; it awaits the release desk’s review slot.
 - [Homepage return from Stores](https://github.com/EON-CRUX/3.09/pull/5532) restored the Find a store link to the original 386 px screen position after a trip to Abuja. Keyboard focus returned to the link and the next Tab reached Explore all. Both cached and recreated pages passed. Nine tests and thirteen mutation checks passed. Its five-file PR depends on the original homepage change #5504.

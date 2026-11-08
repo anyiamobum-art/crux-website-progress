@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Mac WebKit opened and returned from the collection’s actual shirt variant at 320 and 380 px. In the separate homepage fix, Back from the directory restored the store link and its keyboard focus on both a cached and a recreated page. Both changes now have pull requests.",
+  "lastActualProgress": "After opening the third outfit from the homepage’s collection link and visiting Luffy Tee, Back reopened the same outfit on a freshly loaded homepage. Close returned focus to the original button at the exact scroll position. The corrected code and both receipts are on #5518.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Four Higgsfield-inspired changes have working private previews. Stores passed code review. Shop This Look is in its final requested repair for returning from a product after an in-page jump. The collection and product galleries have separate pull requests.",
-  "next": "Complete the outfit viewer’s final named check, take Stores through its outstanding CI run, then install eligible changes in the unpublished theme. After the TEST repair lands, repeat account separation with the second shopper.",
-  "updated": "08 November, 07:27 UTC. Six of eleven delivery gates are verified. Signed privacy is 8/9, native iPhone journeys 0/7, and final passing ratings 0/3.",
+  "current": "The Shop This Look repair is on GitHub with a passing browser check. Stores passed its second code review. The collection viewer and product gallery also have working private previews and their own pull requests.",
+  "next": "The release desk has the outfit viewer’s final revision for its size approval and last review. Stores awaits its queued CI rerun. After the required merges, install the changes in the unpublished theme and test the second signed shopper.",
+  "updated": "08 November, 07:38 UTC. Six of eleven delivery gates verified. Signed privacy is 8/9, native iPhone journeys 0/7 and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -345,7 +345,7 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6715286929) restored the right outfit on the plain homepage and the original collection link. Its second review found one more path: jump to a section after arriving on the homepage, open another outfit, visit its product and press Back. The original designer reproduced the failure and is qualifying the fix for the last review.",
+    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6718812213) now remembers the third outfit after the shopper jumps to the collection, visits its product and uses Back. The old build returned to outfit one. The corrected build reopened Red on pink and focused the opener at exactly 1,157 px of scroll. All 22 mutation checks passed. The final code review is pending.",
     "[Stores](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6715100263) passed its second code review and four of five hosted test groups. The fifth failed a board-feed timing check outside the Stores files. The release desk queued one whole rerun. The change removes the 16 px jump when the distance message wraps and handles Clear on its first frame.",
     "[Product gallery](https://github.com/EON-CRUX/3.09/pull/5524) held the back view when changing sizes and switched to the correct lead photo on a colour change. Six private Chromium cases passed. Hands accepted this revision; it awaits the release desk’s review slot.",
     "[Homepage return from Stores](https://github.com/EON-CRUX/3.09/pull/5532) restored the Find a store link to the original 386 px screen position after a trip to Abuja. Keyboard focus returned to the link and the next Tab reached Explore all. Both cached and recreated pages passed. Nine tests and thirteen mutation checks passed. Its five-file PR depends on the original homepage change #5504.",
@@ -358,10 +358,10 @@
       },
       {
         "text": "Shop This Look",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6715286929"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6718812213"
       },
       {
-        "text": " restored the right outfit on the plain homepage and the original collection link. Its second review found one more path: jump to a section after arriving on the homepage, open another outfit, visit its product and press Back. The original designer reproduced the failure and is qualifying the fix for the last review."
+        "text": " now remembers the third outfit after the shopper jumps to the collection, visits its product and uses Back. The old build returned to outfit one. The corrected build reopened Red on pink and focused the opener at exactly 1,157 px of scroll. All 22 mutation checks passed. The final code review is pending."
       }
     ],
     [
@@ -601,8 +601,12 @@
         "text": "Verify the collection in Mac WebKit at 320/380 px and 40/40 mutation checks on the worker. The full Linux WebKit suite has a baseline browser crash. Submit five-file PR #5531 (07:18 UTC)."
       },
       {
+        "complete": true,
+        "text": "Restore the outfit after an in-page jump and a product visit, exercise the failing path in Chromium, and post the fix and browser result to #5518 (07:18Z–07:36Z, took 18 min)."
+      },
+      {
         "complete": false,
-        "text": "Complete the one fix from the outfit viewer’s second review and get the reviewer’s final verdict. Merge both changes when their required checks pass (shared queue, duration unknown)."
+        "text": "Get the final review on the corrected outfit viewer and merge Stores after its queued CI rerun (waiting on the release desk; timing unknown)."
       },
       {
         "complete": false,
