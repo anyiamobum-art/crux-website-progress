@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The repaired outfit viewer restored the shopper’s exact position after visiting Luffy Tee and using Back. The homepage store link and Saved drawer also have fresh browser checks. The store link still needs a destination check on Shopify.",
+  "lastActualProgress": "The homepage preview opened the three-store directory and the Abuja directions matched the selected store. A separate assembly of 42 theme files put Shop This Look, Your edit and the store invitation in order, with the old duplicate removed.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Five outcomes remain open. Staff review actions and buyer consent need a connected TEST run. Privacy passed 8 of 9 checks and still needs the second signed shopper. The final draft installation, seven iPhone journeys, Big Bag’s return trip and three passing grades still need evidence.",
-  "current": "Shop This Look restores your place after a product visit. The corrected version has been submitted for its second code review. Stores has two review findings on the “Near me” transition.",
-  "next": "Complete both protected reviews and merge, then install the reviewed files in the private theme. In parallel, fix the product gallery so choosing a size keeps the detail photo you were looking at.",
-  "updated": "08 November, 00:15 UTC. Six of eleven delivery gates are verified. Signed privacy is at 8/9, native iPhone journeys at 0/7, and final passing ratings at 0/3.",
+  "current": "Shop This Look and Stores have both returned from their first code review with fixes. The product-page change now keeps the inspected photo when you change size. All three have private browser evidence.",
+  "next": "Finish the protected reviews, merge, then install the eligible files in the unpublished Shopify theme. On the collection page, measure whether a shopper can see the selected photo and its shopping action together on a short phone.",
+  "updated": "08 November, 00:33 UTC. Six of eleven delivery gates are verified. Signed privacy is 8/9, native iPhone journeys 0/7, and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -186,7 +186,7 @@
     "done": 6,
     "total": 11,
     "basis": "Historical mixed component and acceptance checklist; no overall percentage",
-    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 7 November, 23 days have passed without another full item closing. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.",
+    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.",
     "label": "6 of 11 release items verified",
     "verifiedPercent": 55,
     "remainingPercent": 45,
@@ -345,10 +345,10 @@
     }
   ],
   "recentChanges": [
-    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287) now restores the selected Red on pink outfit, keyboard focus and exact scroll position after visiting Luffy Tee and going Back. Both starting positions passed: 1,157 px from the homepage and 844 px from its collection link. The corrected version is on GitHub for its next review.",
-    "[Stores review](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714792155) found that the list can jump when the “Near me” message wraps on a narrow phone. The reviewer also requested a check on the very first frame after clearing the selection. The original desktop designer owns both findings.",
-    "[Homepage](https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6714876564) rendered one Shop This Look, selected Blue on blue, and requested the expected store directory. The homepage-only fixture returned 404 at the destination. [Your edit](https://github.com/EON-CRUX/3.09/pull/5510#issuecomment-6714878420) saved the Bone Snap-Button High-Neck Jacket and reopened it in Saved. Current stock was unavailable in the fixture.",
-    "The product-gallery audit found that choosing a size resets the inspected photo. A repair is in progress. Colour selection should still open the selected colour’s lead image. The collection-page refinements remain at the design stage."
+    "[Shop This Look](https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287) returned to the same outfit and exact scroll position after visiting Luffy Tee and pressing Back. Both starting points passed, at 1,157 px from home and 844 px from the collection link. The corrected version has size approval and is awaiting its second review.",
+    "[Stores](https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714936124) fixed a 16-pixel jump when the distance message wraps at a 390-pixel width. Clearing the selection now has a check on the first animation frame. All 21 Stores tests passed. Protected review and an installed iPhone check remain open.",
+    "[Product gallery](https://github.com/EON-CRUX/3.09/pull/5524#issuecomment-6715049052) held the inspected back view when changing sizes. Choosing Blue instead of Red switched to Blue’s lead photo. This passed six private Chromium cases across 380, 430 and 1,280 px with normal and reduced motion, using a test product. The change is in a separate pull request.",
+    "[Homepage](https://github.com/EON-CRUX/3.09/pull/5504) now has an offline 42-file assembly with one Shop This Look, the saved edit, and a store invitation in that order. The combined private browser preview opened the three-store directory, selected Abuja and restored the previous scroll position. Keyboard return and the installed draft still need checking."
   ],
   "recentChangeParts": [
     [
@@ -360,7 +360,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5518#issuecomment-6714903287"
       },
       {
-        "text": " now restores the selected Red on pink outfit, keyboard focus and exact scroll position after visiting Luffy Tee and going Back. Both starting positions passed: 1,157 px from the homepage and 844 px from its collection link. The corrected version is on GitHub for its next review."
+        "text": " returned to the same outfit and exact scroll position after visiting Luffy Tee and pressing Back. Both starting points passed, at 1,157 px from home and 844 px from the collection link. The corrected version has size approval and is awaiting its second review."
       }
     ],
     [
@@ -368,11 +368,23 @@
         "text": ""
       },
       {
-        "text": "Stores review",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714792155"
+        "text": "Stores",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5519#issuecomment-6714936124"
       },
       {
-        "text": " found that the list can jump when the “Near me” message wraps on a narrow phone. The reviewer also requested a check on the very first frame after clearing the selection. The original desktop designer owns both findings."
+        "text": " fixed a 16-pixel jump when the distance message wraps at a 390-pixel width. Clearing the selection now has a check on the first animation frame. All 21 Stores tests passed. Protected review and an installed iPhone check remain open."
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Product gallery",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5524#issuecomment-6715049052"
+      },
+      {
+        "text": " held the inspected back view when changing sizes. Choosing Blue instead of Red switched to Blue’s lead photo. This passed six private Chromium cases across 380, 430 and 1,280 px with normal and reduced motion, using a test product. The change is in a separate pull request."
       }
     ],
     [
@@ -381,22 +393,10 @@
       },
       {
         "text": "Homepage",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6714876564"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5504"
       },
       {
-        "text": " rendered one Shop This Look, selected Blue on blue, and requested the expected store directory. The homepage-only fixture returned 404 at the destination. "
-      },
-      {
-        "text": "Your edit",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5510#issuecomment-6714878420"
-      },
-      {
-        "text": " saved the Bone Snap-Button High-Neck Jacket and reopened it in Saved. Current stock was unavailable in the fixture."
-      }
-    ],
-    [
-      {
-        "text": "The product-gallery audit found that choosing a size resets the inspected photo. A repair is in progress. Colour selection should still open the selected colour’s lead image. The collection-page refinements remain at the design stage."
+        "text": " now has an offline 42-file assembly with one Shop This Look, the saved edit, and a store invitation in that order. The combined private browser preview opened the three-store directory, selected Abuja and restored the previous scroll position. Keyboard return and the installed draft still need checking."
       }
     ]
   ],
@@ -460,8 +460,8 @@
     },
     {
       "change": "Higgsfield design refinement",
-      "state": "Two private previews built; review and Shopify installation are open",
-      "action": "Shop This Look preserves your outfit and place after visiting a product. Stores is correcting a narrow-phone jump. The product-gallery size change is in development. Collection browsing refinements are at the design stage."
+      "state": "Shop This Look, Stores and the product-gallery repair have private browser proof",
+      "action": "Protected reviews and Shopify installation are open. The collection viewer is being measured on short phones."
     },
     {
       "change": "Higgsfield media connection",
@@ -560,8 +560,20 @@
         "text": "Exercise the homepage store link and reopen a real saved piece in Your edit; send both results to the desk (00:11Z–00:14Z, took 3 min)."
       },
       {
+        "complete": true,
+        "text": "Correct the 390px Stores jump and verify the first frame after Clear (00:02Z–00:17Z, took 15 min)."
+      },
+      {
+        "complete": true,
+        "text": "Exercise the product gallery through six browser cases and submit the scoped change (00:14Z–00:28Z, took 14 min)."
+      },
+      {
+        "complete": true,
+        "text": "Rehearse the combined 42-file home assembly and verify the section order (00:29Z–00:33Z, about 4 min)."
+      },
+      {
         "complete": false,
-        "text": "Fix the narrow-phone jump in Stores and its first-frame check, then complete both protected reviews and merges (review timing depends on the shared queue)."
+        "text": "Finish the protected reviews and merges for the outfit viewer and Stores (shared queue, time unknown)."
       },
       {
         "complete": false,
