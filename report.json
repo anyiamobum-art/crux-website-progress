@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Original homepage integration proof is complete: 14 tests and 17 mutations for the single shopping chapter; 10 affected tests and 28 mutations for Your edit. Original Sol is completing the three-file Team Help proof. Original TEST, device and review owners retain their work.",
+  "workerState": "Original homepage integration proof is complete: 14 tests and 17 mutations for the single shopping chapter; 10 affected tests and 28 mutations for Your edit. The three-file Team Help proof is complete: four affected checks and all six causal tests passed. Original TEST, device and review owners retain their work.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 21:55 UTC the parent pushed homepage #5504 and posted exact-head acceptance. At 21:56 its original builder completed the final Your edit fixture check with zero checklist findings. The size-guide independent verdict is 9.60 and bound to #5555 for final named-fix code review. Customer-link repair #5546 is merged and its served build is confirmed by the original TEST owner.",
+  "lastActualProgress": "Team Help #5580 was submitted at 22:09 UTC with exact-source acceptance and passing focused proof. The original TEST captain reports that Hands has taken the customer-link setup and its single TEST run. The native helper’s five test groups have passed; its combined gate and release remain separate.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -138,9 +138,9 @@
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
   "remaining": "Protected reviews and installation still separate tested changes from the finished draft. Runway needs the assigned production-film exemption and original independent verdict. Signed TEST journeys, seven native iPhone journeys and three whole-draft final named-fix ratings remain unfinished.",
-  "current": "The homepage integration is tested and submitted at 4f2ec0a0. The cm/inches switch has an independent component PASS of 9.60, with no measure below 9.0. Your edit is green locally and waits for the homepage dependency to merge before its final integration. Team Help is completing its focused worker proof.",
+  "current": "The homepage integration is tested and submitted at 4f2ec0a0. The cm/inches switch has an independent component PASS of 9.60, with no measure below 9.0. Your edit is green locally and waits for the homepage dependency to merge before its final integration. Team Help passed its focused proof and is submitted as #5580 for protected review.",
   "next": "Complete the existing protected reviews, merge eligible repairs, then install their exact files in the unpublished Shopify draft. The original TEST captain now has the served customer-link repair; the iPhone captain continues the device-helper release.",
-  "updated": "08 November 2026, 22:02 UTC. Homepage push and acceptance, Your edit terminal proof and size-guide component PASS verified. Whole-site final ratings remain 0/3; no new Shopify installation or live publication.",
+  "updated": "08 November 2026, 22:18 UTC. Team Help submission and proof verified. No new protected merge, Shopify installation or whole-site final rating is claimed.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -361,7 +361,7 @@
     "[Single Shop This Look and COME THROUGH #5504](https://github.com/EON-CRUX/3.09/pull/5504) is submitted at 4f2ec0a0 with 14 passing tests, 17 mutations and unchanged proven assets. [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) is green locally at e4f31a67 with 10 affected tests and 28 mutations, awaiting the actual homepage merge before its final integration. [Stores return #5532](https://github.com/EON-CRUX/3.09/pull/5532) retains that dependency.",
     "[Collection viewer #5531](https://github.com/EON-CRUX/3.09/pull/5531) and [photo retention #5524](https://github.com/EON-CRUX/3.09/pull/5524) passed focused integration checks and are submitted. [Collection/alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) passed admission and remains in hosted tests and protected review.",
     "[Circular Runway #5556](https://github.com/EON-CRUX/3.09/pull/5556) includes the actual five-second white-background Higgsfield film at 5e99c7c3. Playback, shopping transitions and 44px controls passed in the private candidate. Its assigned production-film exemption and original independent review are pending. The clip is not yet installed on Shopify.",
-    "[TEST customer-link repair #5546](https://github.com/EON-CRUX/3.09/pull/5546) is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. Team Help passed four affected checks; its causal gate is running. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [strike fit #5544](https://github.com/EON-CRUX/3.09/pull/5544) retain their required release checks."
+    "[TEST customer-link repair #5546](https://github.com/EON-CRUX/3.09/pull/5546) is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. [Team Help #5580](https://github.com/EON-CRUX/3.09/pull/5580) passed four affected checks and all six causal tests; its original protected intake is pending. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [strike fit #5544](https://github.com/EON-CRUX/3.09/pull/5544) retain their required release checks."
   ],
   "recentChangeParts": [
     [
@@ -456,7 +456,14 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5546"
       },
       {
-        "text": " is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. Team Help passed four affected checks; its causal gate is running. "
+        "text": " is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. "
+      },
+      {
+        "text": "Team Help #5580",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5580"
+      },
+      {
+        "text": " passed four affected checks and all six causal tests; its original protected intake is pending. "
       },
       {
         "text": "Big Bag Back #5541",

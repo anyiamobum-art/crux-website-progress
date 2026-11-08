@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 08 November 2026, 22:02 UTC. Homepage push and acceptance, Your edit terminal proof and size-guide component PASS verified. Whole-site final ratings remain 0/3; no new Shopify installation or live publication.
+Last verified 08 November 2026, 22:18 UTC. Team Help submission and proof verified. No new protected merge, Shopify installation or whole-site final rating is claimed.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
@@ -18,7 +18,7 @@ The public history first shows six on 13 October. A reversal on 14 October broug
 - [Single Shop This Look and COME THROUGH #5504](https://github.com/EON-CRUX/3.09/pull/5504) is submitted at 4f2ec0a0 with 14 passing tests, 17 mutations and unchanged proven assets. [Your edit #5510](https://github.com/EON-CRUX/3.09/pull/5510) is green locally at e4f31a67 with 10 affected tests and 28 mutations, awaiting the actual homepage merge before its final integration. [Stores return #5532](https://github.com/EON-CRUX/3.09/pull/5532) retains that dependency.
 - [Collection viewer #5531](https://github.com/EON-CRUX/3.09/pull/5531) and [photo retention #5524](https://github.com/EON-CRUX/3.09/pull/5524) passed focused integration checks and are submitted. [Collection/alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554) passed admission and remains in hosted tests and protected review.
 - [Circular Runway #5556](https://github.com/EON-CRUX/3.09/pull/5556) includes the actual five-second white-background Higgsfield film at 5e99c7c3. Playback, shopping transitions and 44px controls passed in the private candidate. Its assigned production-film exemption and original independent review are pending. The clip is not yet installed on Shopify.
-- [TEST customer-link repair #5546](https://github.com/EON-CRUX/3.09/pull/5546) is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. Team Help passed four affected checks; its causal gate is running. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [strike fit #5544](https://github.com/EON-CRUX/3.09/pull/5544) retain their required release checks.
+- [TEST customer-link repair #5546](https://github.com/EON-CRUX/3.09/pull/5546) is merged and its served build is confirmed by the original owner. Staff actions follow in the existing attended TEST slot. [Team Help #5580](https://github.com/EON-CRUX/3.09/pull/5580) passed four affected checks and all six causal tests; its original protected intake is pending. [Big Bag Back #5541](https://github.com/EON-CRUX/3.09/pull/5541) and [strike fit #5544](https://github.com/EON-CRUX/3.09/pull/5544) retain their required release checks.
 
 ## What still needs to pass
 
