@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the October 3 foundation, white Runway and X animation. The latest owner direction brings the exact live ten-slide campaign reel into the draft, places Big Bag after the lower film and makes Come Through more useful.",
-  "workerState": "All three Big Bag findings were delivered once to original Astra at 03:54 UTC. Original Hands has the collection’s whole-admission request on 135abe99 after chair size approval. The original Ask lead independently verified the TEST setting and dispatched one C01 run at 03:53 UTC under the chair’s direction; no run ID or result has returned. The size-guide approval remains with the original gate keeper. No repeat installation or review dispatch is implied.",
+  "workerState": "Original Astra committed the three Big Bag named repairs as 4b071e11 and is running affected proof. The separate private homepage chapter passed two tests and 35 causal checks at 03:59 UTC but awaits its original dependencies before a PR. Original Bridge received the collection admission rejection at 04:02 UTC; its original writer diagnosed the sole hosted-test mismatch, and the frozen-head/chair disposition is pending. The original Ask lead dispatched one C01 run at 03:53 UTC after independently checking the TEST setting; no ID or result has returned.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Big Bag’s original Opus 5.5 High R2 returned at 03:47:11 UTC on 825dee0e: all six earlier design findings resolved, eight scores averaging 9.475 and two low findings remaining. Its protected first full review returned one medium menu-data finding at 03:49:52 UTC. Collection #5554 at 135abe99 received chair size approval at 03:47 UTC; original admission was dispatched. One C01 run was dispatched at 03:53 UTC on the already verified TEST source.",
+  "lastActualProgress": "Big Bag’s original R2 verified six earlier design fixes and reported eight scores averaging 9.475; its two low design findings plus one medium protected menu finding are now repaired in local 4b071e11, pending focused proof and original review. Collection #5554 at 135abe99 has size approval, but admission rejects the required combined-design evidence file; hosted shard 4 has one crux-shopping-tools.js fingerprint mismatch among 128 records. Causal and correctness checks passed at 04:03 UTC. The latest private homepage chapter passed two tests and 35 causal checks at 03:59 UTC.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Big Bag’s calculated 9.475 component average is below 9.5. Two low design findings remain, plus one medium protected-review finding that can drop merchant rooms and their order. C01 shopper and current-iPhone acceptance remain unverified. Collection admission, protected review/CI and the original Runway reviewer connection remain separate dependencies. TEST file installation is verified.",
-  "current": "Big Bag’s second component design read calculates to 9.475/10, below the 9.5 target. Its two remaining design fixes and one separate protected-review menu finding are with original Astra. The collection repair has chair size approval and its original admission is dispatched. One C01 run is dispatched on the verified TEST source; its ID and result have not returned.",
-  "next": "Original Astra repairs only the two named Big Bag design findings and the separate merchant-menu defect. The original design reader’s third round checks those two design fixes only; protected code review keeps its own history. Consume the original collection admission and C01 results when returned. The existing keeper must process the size-guide approval; the homepage awaits its original second full review and CI.",
-  "updated": "09 November 2026: Big Bag’s two original results are bound to 825dee0e; collection size approval and C01 dispatch are reported by their original action owner. The C01 run ID, result and native acceptance are unknown. TEST four-file installation remains verified at 03:24:46 UTC. Counts remain unchanged: delivery 6/11, historical milestones 1/3 and final passing ratings 0/3.",
+  "remaining": "Big Bag’s last calculated component average is 9.475, below 9.5; its local repair candidate has no new review result. Collection #5554 is blocked by the required combined-design evidence file and one stale TEST asset fingerprint despite size, causal and correctness checks passing. C01 shopper and current-iPhone acceptance remain unverified. Original Runway review access and other protected gates stay separate. TEST installation itself is verified.",
+  "current": "Big Bag’s second component design read calculates to 9.475/10, below 9.5. Original Astra committed its three named repairs locally as 4b071e11; affected proof is running. Collection #5554 has size approval, but admission rejected a missing required evidence file and hosted testing found one stale asset fingerprint. One C01 run is dispatched on verified TEST source; its ID and result have not returned.",
+  "next": "Consume original Astra’s affected Big Bag proof, then return only the named fixes through the original design and protected code review histories. The collection’s original writer and chair must resolve its missing evidence file and stale TEST snapshot on the frozen head. Consume the single original C01 result when returned. The size-guide approval still needs protected-gate processing; homepage #5504 awaits its original second full review and CI.",
+  "updated": "09 November 2026: original Big Bag results are bound to 825dee0e; original action owners report local repair 4b071e11 with proof running, collection admission/test failures and 04:03 UTC causal/correctness passes. One C01 run was dispatched at 03:53 UTC; ID and result remain unknown. TEST four-file installation remains verified at 03:24:46 UTC. Counts remain unchanged: delivery 6/11, historical milestones 1/3 and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -331,8 +331,8 @@
     },
     {
       "journey": "Explore Big Bag",
-      "state": "Built; component design 9.475; two design fixes and one menu defect remain",
-      "action": "The room-photo chapter and Collections entry use existing homeware routes. Original Astra owns the duplicate image keyboard stop, small room labels and protected-review repair to preserve merchant rooms and order when Shop all is nested. The newer chapter remains separate from the installed Back repair; shopping functions and the October 3 foundation are retained."
+      "state": "Built; last component design 9.475; named repair candidate in proof",
+      "action": "Original Astra’s local 4b071e11 repairs the duplicate image keyboard stop, small room labels and protected-review menu defect that could lose merchant rooms and order. Affected proof and the original readers’ checks remain. This newer chapter is separate from the installed Back repair and adds no final-site rating credit."
     }
   ],
   "deliveryStages": [
@@ -364,8 +364,8 @@
   ],
   "recentChanges": [
     "[Big Bag’s original design R2](https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731749442) on 825dee0e returned eight scores averaging **9.475/10 — below 9.5**. The reader rounded this to a pass, but the exact arithmetic does not meet the threshold. All six earlier design findings were checked as resolved; this is a component result, not a final-site pass.",
-    "Two low design fixes remain: remove the duplicate image keyboard stop and enlarge 11px room links. Separately, [Big Bag’s protected first review](https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731780851) found one medium defect: a nested Shop all leaf can replace the populated menu and lose merchant rooms and their order. All three went once to original Astra at 03:54 UTC. The final design round checks only its two named fixes; code review keeps its own rounds.",
-    "[Collection #5554 size approval](https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6731754874) is posted on exact 135abe99 at 03:47 UTC. Original Hands dispatched whole admission. An admission result or protected-review pass is not yet claimed.",
+    "Big Bag’s two low design findings are the duplicate image keyboard stop and 11px room links. Its [protected first review](https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731780851) adds one medium defect: nested Shop all can replace the populated menu and lose merchant rooms and order. Original Astra committed all three repairs locally as 4b071e11; affected proof is running. The final design round checks only its two named fixes; code review keeps its own rounds.",
+    "[Collection #5554 size approval](https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6731754874) passed on 135abe99, but admission rejects the required combined-design evidence file. Hosted shard 4 also found one stale crux-shopping-tools.js fingerprint among 128 TEST records. The original writer has diagnosed it; the frozen-head/chair disposition is pending. Causal and correctness checks passed at 04:03 UTC. Size approval does not clear these failures.",
     "The original Ask lead independently verified the TEST discovery setting, then dispatched **one C01 run at 03:53 UTC** under the chair’s direction. Its run ID and result have not returned. The four-file TEST installation remains verified; there was no reinstallation and no new shopper or native pass.",
     "[Homepage #5504](https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6731282449) remains pushed at 7a1a0ad6 for its original second review and CI. [Size-guide #5555](https://github.com/EON-CRUX/3.09/pull/5555#issuecomment-6730906162) retains its returned named-fix approval on 6f7d8f19, conveyed once to the original gate keeper. Gate processing, merge and installation remain separate."
   ],
@@ -384,14 +384,14 @@
     ],
     [
       {
-        "text": "Two low design fixes remain: remove the duplicate image keyboard stop and enlarge 11px room links. Separately, "
+        "text": "Big Bag’s two low design findings are the duplicate image keyboard stop and 11px room links. Its "
       },
       {
-        "text": "Big Bag’s protected first review",
+        "text": "protected first review",
         "url": "https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731780851"
       },
       {
-        "text": " found one medium defect: a nested Shop all leaf can replace the populated menu and lose merchant rooms and their order. All three went once to original Astra at 03:54 UTC. The final design round checks only its two named fixes; code review keeps its own rounds."
+        "text": " adds one medium defect: nested Shop all can replace the populated menu and lose merchant rooms and order. Original Astra committed all three repairs locally as 4b071e11; affected proof is running. The final design round checks only its two named fixes; code review keeps its own rounds."
       }
     ],
     [
@@ -403,7 +403,7 @@
         "url": "https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6731754874"
       },
       {
-        "text": " is posted on exact 135abe99 at 03:47 UTC. Original Hands dispatched whole admission. An admission result or protected-review pass is not yet claimed."
+        "text": " passed on 135abe99, but admission rejects the required combined-design evidence file. Hosted shard 4 also found one stale crux-shopping-tools.js fingerprint among 128 TEST records. The original writer has diagnosed it; the frozen-head/chair disposition is pending. Causal and correctness checks passed at 04:03 UTC. Size approval does not clear these failures."
       }
     ],
     [
@@ -470,12 +470,12 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "Homepage integration #5588 at 825dee0e has a calculated 9.475 component average, below 9.5. Original Astra has two low design findings and one medium protected-review menu finding; delivery was recorded once at 03:54 UTC. Private installation, installed-source shopper acceptance and the separate strike repair remain. History-cancellation repair #5541 is installed and source-matched; strike repair #5544 follows its own release.",
-      "next": "Fix only the three named items through the original writer and separate original review histories. After eligible installation, verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.",
-      "state": "Chapter #5588 calculates to 9.475; two low design findings and one medium menu finding remain; Back repair is installed",
+      "blocker": "Homepage integration #5588 at 825dee0e has a calculated 9.475 component average, below 9.5. Original Astra committed the two low design fixes and one medium menu fix locally as 4b071e11; affected proof is running, with no new review result. Private installation, installed-source acceptance and the separate strike repair remain. History-cancellation repair #5541 is installed and source-matched.",
+      "next": "Finish the affected proof and return the named fixes through the original writer and separate original review histories. After eligible installation, verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.",
+      "state": "Last component score9.475; all three named repairs committed locally as4b071e11 with affected proof running; Back repair installed",
       "owner": "Original Astra designer, motion writer and installed-draft witnesses",
       "closes": "Merchant room order is preserved; named design fixes pass; title, sort, selected card, scroll and focus pass on installed source",
-      "timing": "Three findings delivered once at03:54 UTC; original design final named-fix round and separate protected code review remain"
+      "timing": "Original design final named-fix round and separate protected code review follow the affected proof"
     }
   ],
   "higgsfieldMotion": {
@@ -623,11 +623,11 @@
       },
       {
         "complete": false,
-        "text": "Repair Big Bag’s two named design findings and separate protected menu defect through original Astra (delivered03:54Z; final design round checks only the two low fixes; protected code review retains its own rounds and exact source)."
+        "text": "Complete affected proof and original checks for Big Bag’s three named repairs (local4b071e11 committed; proof running; final design round checks only the two low fixes, while protected code review retains its own rounds)."
       },
       {
         "complete": false,
-        "text": "Complete #5554 release admission and its final named-fix review on 135abe99 (chair size approval03:47Z; original Hands dispatched whole admission; result pending, original Sol and review history retained)."
+        "text": "Resolve #5554’s required combined-design evidence file and sole stale TEST asset fingerprint through its original writer and chair (Bridge received admission reject04:02Z; causal and correctness checks passed04:03Z; frozen-head disposition pending before any further source action)."
       },
       {
         "complete": true,
@@ -659,7 +659,7 @@
       },
       {
         "complete": false,
-        "text": "Build the owner’s live-reel, X, lower-film, Big Bag order and Come Through follow-up in the original Astra lane (started after the new direction; render timing follows the candidate)."
+        "text": "Complete the owner’s live-reel, X, lower-film, Big Bag order and Come Through follow-up in original Astra’s lane (private chapter proof passed2tests and35causal checks03:59Z; original dependencies remain before PR; no installation or new rating claimed)."
       },
       {
         "complete": true,
