@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Astra owns Big Bag and homepage integration. Sol owns the collection repairs and product-photo release. The original Runway reviewer and device captain retain their separate work. Big Bag has not paused any of these tasks.",
+  "workerState": "Three original builders are active in parallel: Big Bag/homepage integration; collection repairs and product photos; storefront check repairs and Runway integration. The independent collection reader and native captain retain their own assignments. No work was paused for Big Bag.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Big Bag was marked Ready at 00:42 UTC, after its exact-source acceptance and green focused proof. Its required hosted checks have started or queued; no manual duplicate run was dispatched. The collection repair passed nine targeted tests and 60/60 causal checks at 00:24 UTC. The native captain resumed the original sign-in and device prerequisite at 00:43 UTC.",
+  "lastActualProgress": "At 01:01 UTC the original collection reader started its missing combined visual check on the remote worker. The storefront builder recovered the exact failed log and confirmed ownership of both failures. Big Bag remains in protected review after its passed admission; its installation map is prepared.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The collection repair needs its combined-design verdict and updated size disposition. The original Runway reviewer returned a sign-in denial; its existing connection keeper is resolving it. Size-guide final review, signed TEST and current-iPhone acceptance remain outstanding.",
-  "current": "Big Bag #5588 has entered protected review. Its homepage chapter, category links and Collections entry passed the focused tests and phone layout check. Collection repair proof is also complete; its original independent design reader and the other release and iPhone owners continue in parallel.",
-  "next": "Take Big Bag through protected review and install it in the unpublished theme after merge. Obtain the collection repair’s independent combined-design verdict, then submit all named fixes together. Continue signed TEST and current-iPhone acceptance through their original owners.",
-  "updated": "09 November 2026, 00:46 UTC. Big Bag is in protected review, not yet merged or installed. Collection proof is complete. Final three-model ratings and the completed unpublished-draft handover remain open.",
+  "remaining": "The hosted storefront check found an outdated asset-verification record and an unsupported safe-area rule; the original builder owns both and is fixing them. The collection repair needs its independent combined-layout verdict. The original Runway reviewer needs its existing sign-in restored; final size-guide review, signed TEST and current-iPhone acceptance remain open.",
+  "current": "Big Bag is built and in protected review. Its admission check passed. In parallel, the original collection reviewer is checking the combined navigation and product-card layout, and the storefront builder is repairing two failures found by the hosted checks.",
+  "next": "Finish the two storefront fixes, consume the combined collection verdict, and submit each completed repair once. Merge and install eligible changes into the unpublished theme. Continue the original signed TEST and current-iPhone checks.",
+  "updated": "09 November 2026, 01:02 UTC. Big Bag is built and submitted, not yet merged or installed. Collection repair proof passed; its combined visual check is running. Final three-model ratings and the unpublished-draft handover remain unfinished.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -358,7 +358,8 @@
   ],
   "recentChanges": [
     "Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. [#5588](https://github.com/EON-CRUX/3.09/pull/5588) is submitted for protected review.",
-    "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its combined-design verdict is the next required review step; no shopping fix has been paused for Big Bag.",
+    "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its original independent reader has started the missing combined-layout check.",
+    "A separate hosted storefront run found two real failures. Its original builder has recovered the exact evidence, owns both fixes and is repairing them; Big Bag continues independently.",
     "The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence.",
     "The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper."
   ],
@@ -377,7 +378,12 @@
     ],
     [
       {
-        "text": "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its combined-design verdict is the next required review step; no shopping fix has been paused for Big Bag."
+        "text": "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its original independent reader has started the missing combined-layout check."
+      }
+    ],
+    [
+      {
+        "text": "A separate hosted storefront run found two real failures. Its original builder has recovered the exact evidence, owns both fixes and is repairing them; Big Bag continues independently."
       }
     ],
     [
@@ -530,7 +536,15 @@
       },
       {
         "complete": false,
-        "text": "Obtain the original combined collection-design verdict and submit one repair push; continue the original Runway reviewer through its connection keeper (next check 00:45Z; review duration unknown)."
+        "text": "Obtain the original combined collection-design verdict and submit one repair push (missing-view check started 01:01Z; est. 15 min, worker or findings may extend it)."
+      },
+      {
+        "complete": false,
+        "text": "Repair the two storefront failures and submit the original builder’s tested fix (diagnosed 01:01Z; est. 20 min plus remote-worker availability)."
+      },
+      {
+        "complete": false,
+        "text": "Restore the original Runway reviewer’s existing sign-in and complete its retained review (with the connection keeper; no new reviewer, duration unknown)."
       },
       {
         "complete": true,
@@ -546,7 +560,7 @@
       },
       {
         "complete": false,
-        "text": "Complete Big Bag’s protected review, merge and private installation (review requested 00:31Z; installation est. 10 min after eligible merge)."
+        "text": "Complete Big Bag’s protected review, merge and private installation (Ready 00:42Z; admission passed; installation est. 10 min after eligible merge)."
       },
       {
         "complete": true,

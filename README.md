@@ -8,14 +8,15 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 09 November 2026, 00:46 UTC. Big Bag is in protected review, not yet merged or installed. Collection proof is complete. Final three-model ratings and the completed unpublished-draft handover remain open.
+Last verified 09 November 2026, 01:02 UTC. Big Bag is built and submitted, not yet merged or installed. Collection repair proof passed; its combined visual check is running. Final three-model ratings and the unpublished-draft handover remain unfinished.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
 - Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. [#5588](https://github.com/EON-CRUX/3.09/pull/5588) is submitted for protected review.
-- The collection buying repair passed nine targeted tests and 60/60 causal checks. Its combined-design verdict is the next required review step; no shopping fix has been paused for Big Bag.
+- The collection buying repair passed nine targeted tests and 60/60 causal checks. Its original independent reader has started the missing combined-layout check.
+- A separate hosted storefront run found two real failures. Its original builder has recovered the exact evidence, owns both fixes and is repairing them; Big Bag continues independently.
 - The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence.
 - The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper.
 
