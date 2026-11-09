@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the October 3 foundation, white Runway and X animation. The latest owner direction brings the exact live ten-slide campaign reel into the draft, places Big Bag after the lower film and makes Come Through more useful.",
-  "workerState": "The successor verified Team Help’s exact submission and acceptance by 08:07 UTC. The homepage push completed before the interruption; its pending description and acceptance were completed once at 10:18:59 UTC and read back by 10:19 UTC. The 08:10–10:18 UTC tool-coverage interruption is recorded separately from active effort. Original protected-release intake resumed at 10:19 UTC, estimated 15 minutes. The 10:24 UTC correction binds Team Help’s 09:47:30 UTC review deferral; original Bridge is actively reconciling it. Next check is 10:50 UTC; scheduling validation is not review execution.",
+  "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the October 3 foundation, white Runway and X animation. Preserve the live ten-slide campaign reel and Big Bag after the lower film. The owner has separately added a floating store invitation and relevant shoppable scenes; this new design scope has no completion percentage and does not change the original eleven delivery gates.",
+  "workerState": "The successor submitted collection 2da5ec64 once at 10:41 UTC and verified its description and acceptance by 10:43 UTC. The 10:47 snapshot confirms native repair 0754cf9a is published with current admission and description checks passed. The original designer’s corrected prototype passed 28 focused checks with zero skips at 10:58 UTC, and its final source packet completed at 11:01 UTC. All twelve served files match that revision. The last spacing-only adjustment preserves the tested interactive code; its appearance remains unverified. This is source-behavior evidence, not a rendered or shopper acceptance result. The existing 11:20 UTC return route passed read-only planning at 10:54 UTC; no review execution or future wake is inferred.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "Both submitted heads have five passing hosted test groups and passing aggregate, guard, pin and admission checks. Their descriptions and engineering acceptances match the exact source. Collection 2da5ec64 has bounded link-containment proof but is still local; the historical 190px hosted failure was not reproduced. Prior verified Big Bag, Motion, product-photo and size-guide installations remain valid. No new installation or final acceptance is claimed.",
+  "lastActualProgress": "Collection #5554 and native repair #5582 have progressed from local candidates to submitted revisions. The collection’s bounded link-containment proof is retained; the historical 190px hosted failure was not reproduced. The new prototype’s Quiet setting and background pause/resume corrections passed focused checks. Earlier homepage and Team Help hosted passes, C01’s twelve budget steps, and verified Big Bag, Motion, product-photo and size-guide installations remain valid within their recorded limits. No new installation or final acceptance is claimed.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Team Help’s original review is deferred by an actual model usage limit. Submitted source and passing hosted tests do not establish approval, merge or installation. Collection #5554 remains unpushed pending its 1,038-line disposition and original final review route; Bridge received one recovery after its usage failure. The later homepage chapter, separate return-position acceptance, product-photo initial-load coverage, Runway review access, broader C01 discovery, current-device checks and final ratings remain open.",
-  "current": "The original homepage and Team Help repairs are submitted on exact 88f4ddb8 and d6f05571. Both passed all five hosted test groups, test-gate, guards, pins and current admission. Neither is merged. Team Help’s protected review deferred at 09:47:30 UTC on a model usage limit; no approval returned. The homepage’s latest description check was still running at the 10:21 UTC observation; its exact description and engineering acceptance are verified.",
-  "next": "The original Bridge is recovering Team Help’s deferred review through its existing owner and history. The successor checks the original release results next at 10:50 UTC. Eligible private installation and bounded shopper acceptance follow actual merges. The original collection writer’s local 2da5ec64 repair awaits its exact-size disposition and original final Cloud C check through Bridge. Native assignment, broader C01 product discovery and final whole-draft ratings remain with their original owners.",
-  "updated": "09 November 2026, 10:24 UTC: successor-qualified hosted results, exact-head submission records and Team Help’s actual review deferral consumed. Counts remain unchanged: delivery 6/11, historical milestones 1/3 and final passing ratings 0/3.",
+  "remaining": "Collection #5554 awaits the promised chair size marker and its original final Cloud C review. Native-test repair #5582 still needs hosted and protected-review results. Team Help’s retained review was deferred by a model usage limit. The new store-invitation and scene prototype has source-behavior proof, but no rendered acceptance or completed Argon consultation; its panel is queued only. Existing final assembly, broader C01 discovery, current-device checks and whole-draft ratings remain open.",
+  "current": "Collection #5554 is submitted once at 2da5ec64 with its exact description and engineering acceptance verified. Native-test repair #5582 is published at 0754cf9a with Hands acceptance and passing admission and description checks; hosted tests and protected review remain pending. No new eligible merge or installation was present in the 10:47 UTC release snapshot. The separate floating store invitation and shoppable-scenes prototype passed 28 focused source checks at 10:58 UTC; its final source packet is ready, while rendered acceptance remains pending.",
+  "next": "Obtain the promised exact-head size marker for collection #5554, then consume its original Cloud C final named-fix result and hosted checks. Continue #5582 through its existing review and test gates before current-iPhone acceptance. Original Bridge retains Team Help’s deferred review. The next existing release check is 11:20 UTC. For the added design scope, render the corrected private prototype and restore the original Argon consultation route; the final source packet is ready.",
+  "updated": "09 November 2026, 11:01 UTC: the original final prototype packet, retained focused proof and twelve-file binding consumed; release state is the successor-qualified 10:47 snapshot and existing return-route proof is dated 10:54 UTC. Counts remain unchanged: delivery 6/11, historical milestones 1/3 and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -338,8 +338,8 @@
   "deliveryStages": [
     {
       "stage": "Protected release",
-      "state": "Homepage and Team Help submitted; hosted checks passed, merges pending",
-      "evidence": "Exact 88f4ddb8 and d6f05571 each passed all five hosted groups, test-gate, guards, pins and current admission. Engineering acceptance and descriptions are verified. Team Help’s protected review returned a usage-limit deferral, not an approval. The latest homepage description check was still running at 10:21 UTC. Collection 2da5ec64 is unpushed, with exact-size and original final-review custody pending. Installation depends on actual eligible merges."
+      "state": "Collection and native repairs submitted; original review gates remain",
+      "evidence": "Collection 2da5ec64 was pushed once and its description and engineering acceptance verified; the exact chair size marker and original final Cloud C review are pending. Native repair 0754cf9a has Hands acceptance and admission/description PASS, with hosted tests and review still pending. Earlier homepage 88f4ddb8 and Team Help d6f05571 hosted passes remain; Team Help’s original review is usage-deferred. No new eligible merge or installation was present at 10:47 UTC."
     },
     {
       "stage": "Installed in the draft",
@@ -354,7 +354,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "CURRENT 0 of 7; historical SMALL 8 of 8 retained",
-      "evidence": "The original #5582 full R2 result returned and Hands acknowledged its handoff. Original repair candidate 0754cf9a has remote proof with 1,365 passed and 45 skipped; it remains a local commit pending Hands push and protected release. No merge, installation or current-device pass follows; historical SMALL does not transfer."
+      "evidence": "Repair 0754cf9a is now published as #5582 with Hands acceptance 6737911574. Current admission and description checks passed; hosted tests and protected review remain pending. Earlier remote proof retains 1,365 passed and 45 skipped. This does not establish a merge, installation or current-device pass; historical SMALL does not transfer."
     },
     {
       "stage": "Final design acceptance",
@@ -368,11 +368,11 @@
     }
   ],
   "recentChanges": [
-    "[Team Help #5580](https://github.com/EON-CRUX/3.09/pull/5580#issuecomment-6735231751) is submitted once on exact **d6f05571**. Its description and engineering acceptance were verified by **08:07 UTC**. The original source and proof were preserved through main integration; it is **not merged or newly installed**. Its [original protected review](https://github.com/EON-CRUX/3.09/actions/runs/42595891054/job/129088300778) deferred at **09:47:30 UTC** on a **model usage limit**, with no approval; original Bridge is reconciling the same review.",
-    "[Single Shop This Look #5504](https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6737579539) is submitted once on exact **88f4ddb8**. The pending description and acceptance completed at **10:18:59 UTC** and were read back. The **08:10–10:18 UTC tool-coverage interruption** is separate from active work; the push was not repeated.",
-    "**Both heads passed all five hosted test groups**, test-gate, guards, pins and current admission. The latest homepage description check was **running at the 10:21 UTC observation**. Original protected reviews and actual merges remain; the scheduler check establishes routing only. Green tests do not establish installation or final acceptance.",
-    "[Collection #5554](https://github.com/EON-CRUX/3.09/pull/5554) remains **local and unpushed at 2da5ec64**. Its **1,038-line** size and original final Cloud C request went to Bridge at 08:08 UTC; one same-owner recovery followed at 10:20 UTC after a usage failure. Bounded link containment passed; the historical 190px hosted failure was **not reproduced**.",
-    "**C01’s twelve budget steps remain passed**; its stale alias was corrected at 07:50 UTC. Broader real-product questions, native CURRENT zero of seven and final ratings zero of three remain pending. Prior verified Big Bag, Motion, product-photo and size-guide installations are retained. Next release decision: **about 10:50 UTC**; overall completion ETA remains unknown against the **18:29 UTC target**."
+    "[Collection #5554](https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6737999147) is now **submitted at 2da5ec64**, with one push and exact description/engineering acceptance verified by **10:43 UTC**. Its **1,038-line** scope awaits the promised chair marker; the original Cloud C final named-fix review remains intact. Bounded link containment passed; the historical 190px failure was **not reproduced**.",
+    "[Native-test repair #5582](https://github.com/EON-CRUX/3.09/pull/5582#issuecomment-6737911574) is **published at 0754cf9a** with Hands acceptance and current **admission and description checks passed**. Hosted tests and protected review remain pending. This is a submitted repair, with **no current-iPhone pass** added.",
+    "**Additional design scope: floating store invitation and shoppable scenes.** The original designer’s private prototype passed **28 of 28 focused source checks, zero skips**, including the Quiet setting and background pause/resume; served-file binding was refreshed at **10:58 UTC**. The earlier 23-check result covered a prior revision. The **final source packet is ready at 11:01 UTC**, with twelve served files matching it. The last spacing-only adjustment keeps the tested interactive code unchanged; its appearance is unverified. The panel is **queued only**, with **no rendered acceptance** or new design score.",
+    "**Argon consultation has not run.** The original route returned an authentication refusal and its existing keeper is reconciling access. No substitute reviewer or result is claimed. This added design scope has **no completion percentage**; private preview links, source paths and media are not published here.",
+    "**No new eligible merge or installation at the 10:47 UTC release snapshot.** Prior installed evidence remains valid. Original delivery stays six of eleven, historical milestones one of three, final ratings zero of three and native CURRENT zero of seven. The existing return route was validated without dispatch; next release check is **11:20 UTC**, not an execution or approval promise. Whole-task target: **18:29 UTC**; completion ETA is unknown."
   ],
   "recentChangeParts": [
     [
@@ -380,52 +380,38 @@
         "text": ""
       },
       {
-        "text": "Team Help #5580",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5580#issuecomment-6735231751"
-      },
-      {
-        "text": " is submitted once on exact **d6f05571**. Its description and engineering acceptance were verified by **08:07 UTC**. The original source and proof were preserved through main integration; it is **not merged or newly installed**. Its "
-      },
-      {
-        "text": "original protected review",
-        "url": "https://github.com/EON-CRUX/3.09/actions/runs/42595891054/job/129088300778"
-      },
-      {
-        "text": " deferred at **09:47:30 UTC** on a **model usage limit**, with no approval; original Bridge is reconciling the same review."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
-        "text": "Single Shop This Look #5504",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5504#issuecomment-6737579539"
-      },
-      {
-        "text": " is submitted once on exact **88f4ddb8**. The pending description and acceptance completed at **10:18:59 UTC** and were read back. The **08:10–10:18 UTC tool-coverage interruption** is separate from active work; the push was not repeated."
-      }
-    ],
-    [
-      {
-        "text": "**Both heads passed all five hosted test groups**, test-gate, guards, pins and current admission. The latest homepage description check was **running at the 10:21 UTC observation**. Original protected reviews and actual merges remain; the scheduler check establishes routing only. Green tests do not establish installation or final acceptance."
-      }
-    ],
-    [
-      {
-        "text": ""
-      },
-      {
         "text": "Collection #5554",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5554"
+        "url": "https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6737999147"
       },
       {
-        "text": " remains **local and unpushed at 2da5ec64**. Its **1,038-line** size and original final Cloud C request went to Bridge at 08:08 UTC; one same-owner recovery followed at 10:20 UTC after a usage failure. Bounded link containment passed; the historical 190px hosted failure was **not reproduced**."
+        "text": " is now **submitted at 2da5ec64**, with one push and exact description/engineering acceptance verified by **10:43 UTC**. Its **1,038-line** scope awaits the promised chair marker; the original Cloud C final named-fix review remains intact. Bounded link containment passed; the historical 190px failure was **not reproduced**."
       }
     ],
     [
       {
-        "text": "**C01’s twelve budget steps remain passed**; its stale alias was corrected at 07:50 UTC. Broader real-product questions, native CURRENT zero of seven and final ratings zero of three remain pending. Prior verified Big Bag, Motion, product-photo and size-guide installations are retained. Next release decision: **about 10:50 UTC**; overall completion ETA remains unknown against the **18:29 UTC target**."
+        "text": ""
+      },
+      {
+        "text": "Native-test repair #5582",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5582#issuecomment-6737911574"
+      },
+      {
+        "text": " is **published at 0754cf9a** with Hands acceptance and current **admission and description checks passed**. Hosted tests and protected review remain pending. This is a submitted repair, with **no current-iPhone pass** added."
+      }
+    ],
+    [
+      {
+        "text": "**Additional design scope: floating store invitation and shoppable scenes.** The original designer’s private prototype passed **28 of 28 focused source checks, zero skips**, including the Quiet setting and background pause/resume; served-file binding was refreshed at **10:58 UTC**. The earlier 23-check result covered a prior revision. The **final source packet is ready at 11:01 UTC**, with twelve served files matching it. The last spacing-only adjustment keeps the tested interactive code unchanged; its appearance is unverified. The panel is **queued only**, with **no rendered acceptance** or new design score."
+      }
+    ],
+    [
+      {
+        "text": "**Argon consultation has not run.** The original route returned an authentication refusal and its existing keeper is reconciling access. No substitute reviewer or result is claimed. This added design scope has **no completion percentage**; private preview links, source paths and media are not published here."
+      }
+    ],
+    [
+      {
+        "text": "**No new eligible merge or installation at the 10:47 UTC release snapshot.** Prior installed evidence remains valid. Original delivery stays six of eleven, historical milestones one of three, final ratings zero of three and native CURRENT zero of seven. The existing return route was validated without dispatch; next release check is **11:20 UTC**, not an execution or approval promise. Whole-task target: **18:29 UTC**; completion ETA is unknown."
       }
     ]
   ],
@@ -511,17 +497,17 @@
     {
       "change": "Single shopping section",
       "state": "PR #5504 at 88f4ddb8 submitted; hosted checks passed, original review and merge pending",
-      "action": "Five affected tests and 18 causal checks passed; 73 inputs and all 42 emitted files match through final integration. Exact description and engineering acceptance are read back. All five hosted groups and current admission passed; the latest description check was running at 10:21 UTC. Keep one Shop This Look and the selected white Runway. Dependent homepage work awaits the actual qualified merge."
+      "action": "Five affected tests and 18 causal checks passed; 73 inputs and all 42 emitted files match through final integration. Exact description and engineering acceptance are read back. All five hosted groups and current admission passed; the latest homepage description check has also passed in the 10:47 UTC release snapshot. Keep one Shop This Look and the selected white Runway. Dependent homepage work awaits the actual qualified merge."
     },
     {
       "change": "Store-visit chapter",
-      "state": "Included in the private whole-home preview",
-      "action": "COME THROUGH presents the three-store visit chapter with maintained addresses, hours and directions. The owner can inspect it in the existing local composition; release and installed acceptance remain, with no new component rating."
+      "state": "Earlier private composition retained; owner requested a new floating invitation",
+      "action": "The earlier COME THROUGH chapter remains historical private-preview evidence. The owner now wants an animated nearest-store invitation floating over the page, with a more engaging route into a visit. This separate original-designer prototype has a completed private source packet and focused behavior proof; rendered acceptance and installation are not established."
     },
     {
       "change": "Collection and product interactions",
-      "state": "Collection 2da5ec64 local and unpushed; product-photo fix installed and exercised",
-      "action": "The collection’s bounded link-containment repair passed focused proof; the historical 190px hosted failure was not reproduced. Exact-size and original final Cloud C disposition remain. The installed product retains its inspected photo on size change at 380, 430 and 1280px after a reload; initial-load and native coverage remain open."
+      "state": "Collection 2da5ec64 submitted; product-photo fix installed and exercised",
+      "action": "The collection’s exact description and engineering acceptance are verified. Its bounded link-containment proof remains valid; the historical 190px hosted failure was not reproduced. Exact chair size marker and original final Cloud C review remain. The installed product retains its inspected photo on size change at 380, 430 and 1280px after a reload; initial-load and native coverage remain open."
     },
     {
       "change": "Higgsfield media",
@@ -530,8 +516,8 @@
     },
     {
       "change": "Catalogue discovery",
-      "state": "Reuse plan prepared",
-      "action": "Combine campaign photography, complete looks and real collection links with product browsing. Bestsellers require an actual maintained collection or sales evidence."
+      "state": "Added shoppable-scene direction; no rendered acceptance",
+      "action": "The owner wants relevant scenes connected to real product, collection and basket journeys, with useful complementary items. The original source contract is consumed. The final private source packet is ready with twelve matching served files; 28 focused checks are retained for its unchanged interactive code. That does not prove rendered shopping, final storefront integration or eligible checkout behavior. Original Argon consultation and rendered acceptance remain pending."
     },
     {
       "change": "Adaptive experience",
@@ -561,7 +547,7 @@
       },
       {
         "complete": false,
-        "text": "Consume protected release and original repair returns (started 10:19Z, est. 15 min; next check 10:50Z after the actual usage-limit deferral, original review custody retained)."
+        "text": "Consume protected release and original repair returns (started 10:19Z, original est. 15 min exceeded by review capacity and exact-size prerequisites; collection submission verified by 10:43Z, next existing check 11:20Z)."
       },
       {
         "complete": false,
@@ -660,8 +646,12 @@
         "text": "Obtain the chair’s exact-head collection size admission (04:56Z–05:08Z, took 12 min; f74f11ee admitted by comment 6732729385)."
       },
       {
+        "complete": true,
+        "text": "Push collection 2da5ec64 once and verify its exact description and engineering acceptance (10:41Z–10:43Z, took 2 min)."
+      },
+      {
         "complete": false,
-        "text": "Obtain collection 2da5ec64 exact-size disposition and the original Cloud C final named-fix result (request sent 08:08Z; one same-owner Bridge recovery at 10:20Z after usage failure; candidate remains unpushed, duration unknown)."
+        "text": "Obtain the promised collection 2da5ec64 chair size marker and original Cloud C final named-fix result (existing original route retained; next release check 11:20Z, result time unknown)."
       },
       {
         "complete": true,
@@ -712,8 +702,12 @@
         "text": "Receive the original native repair candidate and remote proof (06:39Z receipt; local 0754cf9a, 1,365 passed and 45 skipped; no device credit)."
       },
       {
+        "complete": true,
+        "text": "Receive the original Hands publication of #5582 at 0754cf9a and passing admission/description checks (verified in 10:47Z release snapshot; duration unmeasured)."
+      },
+      {
         "complete": false,
-        "text": "Complete original Hands push and protected release of #5582, then the seven current-iPhone journeys (local candidate 0754cf9a; CURRENT remains 0 of 7, historical SMALL 8 of 8; duration not supplied)."
+        "text": "Complete original #5582 hosted tests and protected review, then the seven current-iPhone journeys (CURRENT remains 0 of 7, historical SMALL 8 of 8; duration not supplied)."
       },
       {
         "complete": false,
@@ -729,7 +723,19 @@
       },
       {
         "complete": false,
-        "text": "Complete release of the owner’s live-reel, X, lower-film, Big Bag order and Come Through follow-up in original Astra’s lane (private chapter proof passed 2 tests and 35 causal checks; full c12f5da3 preview visibly opened at 05:39Z; final dependencies and installation remain, no new rating)."
+        "text": "Complete release of the owner’s live-reel, X, lower-film and Big Bag order through original Astra’s lane (earlier private chapter proof passed 2 tests and 35 causal checks; full c12f5da3 preview opened at 05:39Z; dependencies and installation remain. New floating-store direction is tracked separately below, without a completion percentage)."
+      },
+      {
+        "complete": true,
+        "text": "Receive the new prototype’s focused motion correction proof and refreshed file binding (10:58Z result; 28 of 28 checks, zero skips; this supersedes the prior 23-check revision only within its tested source scope)."
+      },
+      {
+        "complete": true,
+        "text": "Receive the final additional floating-invitation and shoppable-scene source packet (11:01Z result; twelve served files match, focused interactive proof retained for unchanged code; self-review complete)."
+      },
+      {
+        "complete": false,
+        "text": "Obtain original Argon consultation and render the corrected private prototype (original designer and connection keeper; panel queued only, no rendered acceptance; duration depends on supported access)."
       },
       {
         "complete": true,
@@ -772,7 +778,7 @@
         "text": "Complete the original installed size-guide desktop shopper check (05:01 UTC observed PASS; size/unit preservation, conversions, empty reference, keyboard and phone-width controls passed; no native or full-draft rating)."
       }
     ],
-    "landing": "Lands: About 10:50 UTC for the next release decision; the original Team Help usage-limit recovery, protected results, exact collection scope and native assignment may move it. Owner’s whole-task target remains 9 November, 18:29 UTC. Completion ETA is unknown. Eligible private installation follows actual merges; the draft remains unpublished."
+    "landing": "Lands: Next existing release check is 11:20 UTC; promised collection size admission, original review capacity and native release results remain prerequisites. Owner’s whole-task target remains 9 November, 18:29 UTC. Completion ETA is unknown. Added design scope has no percentage or promised completion time. Eligible private installation follows actual merges; the draft remains unpublished."
   },
   "parallelTrack": {
     "title": "Shopify optimization · parallel track",
