@@ -1,8 +1,8 @@
 {
   "title": "CRUX website",
   "owner": "CRUX website team",
-  "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Original Astra designers own Big Bag and the Runway. The shopping verifier is following its existing release checks; the original native captain resumed its due 02:15 action. The review keeper is resolving Big Bag’s returned connection failure. Big Bag has not paused the other tracks.",
+  "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the October 3 foundation, white Runway and X animation. The latest owner direction brings the exact live ten-slide campaign reel into the draft, places Big Bag after the lower film and makes Come Through more useful.",
+  "workerState": "Original Astra owns the homepage follow-up and Big Bag’s six design findings. Claude Opus 5.5 High returned the component result at 02:59:23 UTC; Argon separately approved blind code review with zero high or medium findings and no design score. Original Sol is repairing the six collection findings for the final named-fix round. The release lead is performing the prepared TEST installation. The original native captain’s 02:47 UTC turn continues.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "The collection release-admission check passed at 02:00 UTC after Hands corrected its approval record. Big Bag’s first of five hosted test groups passed; its first review returned an infrastructure error at 02:08 UTC, which is with the original keeper. The gallery rule clarification is already posted.",
+  "lastActualProgress": "Product-gallery repair #5524 at 77c51f91 and companion-source repair #5580 at 69aa0bbf were pushed and read back; each changes one manifest row and passes seven focused tests. Big Bag a105b5bd received its 9.1 component result. The chair cleared #5504’s disputed design-rule claim at 03:00:44 UTC. The 03:01 UTC TEST read still found the three aftercare assets old and budget discovery off; the prepared four-file installation is now in progress.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "Big Bag’s first protected review stopped on a reviewer connection error before returning a verdict; its original keeper has the diagnosis. The collection approval record is corrected and its admission check passed. The gallery’s disputed rule is cleared and its original fix check remains pending. Other hosted tests and reviews, the original Runway reviewer connection, and current-iPhone release/allocation remain.",
-  "current": "Big Bag’s homepage section and Collections entry are built and in protected review. Its category links reuse the existing homeware shop. The collection, product-gallery, shopping and iPhone work continue in parallel.",
-  "next": "Consume the original protected reviews and hosted tests, then merge and install eligible changes into the unpublished theme. Continue signed TEST and current-iPhone acceptance through the original captains.",
-  "updated": "09 November 2026, 02:16 UTC. Big Bag is built and submitted, not merged or installed. Collection admission and gallery rule blockers are cleared. Remaining protected reviews, connected TEST, current-device checks and three final ratings are not yet complete.",
+  "remaining": "Big Bag’s 9.1 component score is below the target and does not count as a final website pass. Collection review named two medium and four low findings. Protected reviews and CI remain for the two pushed manifest repairs. The original Runway reviewer connection, TEST installation and setting, and current-iPhone acceptance remain separate dependencies.",
+  "current": "Big Bag’s independent component design read returned 9.1/10; its six findings are with the original Astra designer. The original collection writer is repairing the six named review findings. The release lead is installing four prepared TEST files while the original native captain continues the current-iPhone checks.",
+  "next": "Finish only the named repairs and the owner’s homepage follow-up, then return them through their original review routes. Verify the four-file TEST installation before resuming the existing journeys. The homepage fixture’s disputed rule is cleared; its qualified push is next. The next native checkpoint is 03:15 UTC.",
+  "updated": "09 November 2026, 03:01 UTC source results, reconciled into this report at 03:10 UTC. Big Bag’s component result has returned; six findings remain. TEST installation is in progress, not accepted. Native CURRENT 0/7 and historical SMALL 8/8 remain distinct. Counts remain unchanged: delivery 6/11, historical milestones 1/3 and final passing ratings 0/3.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -186,7 +186,7 @@
     "done": 6,
     "total": 11,
     "basis": "Historical mixed component and acceptance checklist; no overall percentage",
-    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.",
+    "explanation": "The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 9 November, 25 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.",
     "label": "6 of 11 release items verified",
     "verifiedPercent": 55,
     "remainingPercent": 45,
@@ -222,6 +222,12 @@
     "current": "The six #5541/#5459 files from merged assembly d62461a5 passed unpublished hosted readback and preservation at22:44 UTC. Installed viewer and Stores motion are retained. October3 homepage with merged #5518/#5433 source fcf416b4 retains its four exact file readbacks at18:22 UTC. The newer 3D Runway and Higgsfield film at5e99c7c3 remain private-preview only. Floating Stores ca91bd46 is code-approved, merged as 54cfaa4a and installed; five exact file readbacks and preservation passed at20:20 UTC. Visual and native acceptance remain open. Earlier design scores below belong to their named source and do not grade the complete current draft.",
     "target": "9.5/10 for each required reader, with no individual measure below 9.",
     "rows": [
+      {
+        "scope": "Big Bag homepage and Collections",
+        "reader": "Claude Opus 5.5 High",
+        "score": "9.1/10 — below target",
+        "version": "Exact a105b5bd component read returned at 02:59:23 UTC. Six findings are with original Astra. Argon separately approved blind code review with zero high or medium findings and no design score. This does not count as a whole-site final pass."
+      },
       {
         "scope": "Shop header and menu",
         "reader": "Argon, High",
@@ -325,7 +331,7 @@
     },
     {
       "journey": "Explore Big Bag",
-      "state": "Homepage integration built; protected review in progress",
+      "state": "Built; component design 9.1 with six findings to repair",
       "action": "A room-photo chapter after the fashion catalogue leads into the existing homeware shop. Big Bag also appears in Collections. Lighting, vases, clocks, rugs, mirrors and objects use their real collection routes when available. Existing Runway and shopping functions are preserved."
     }
   ],
@@ -337,13 +343,13 @@
     },
     {
       "stage": "Repairs and connected TEST",
-      "state": "Four signed journeys 35/35 and saved-look privacy 9/9",
-      "evidence": "Export, removal after reload, stale Save refusal and a second disposable shopper passed. Same-browser isolation, populated Looks rail, staff Use and Dismiss, and buyer consent remain separate open checks."
+      "state": "Four signed journeys 35/35 and saved-look privacy 9/9 retained",
+      "evidence": "Current signed run 42551812725 is blocked only at step 7: Within your budget is off in TEST. The 03:01 UTC read also found the three aftercare assets old. The release lead is installing the four prepared files; installation and setting acceptance are not yet claimed. Same-browser isolation, populated Looks, staff Use and Dismiss, and buyer consent remain separate open checks."
     },
     {
       "stage": "Native iPhone acceptance",
       "state": "CURRENT 0 of 7; historical SMALL 8 of 8 retained",
-      "evidence": "Helper #5446 merged as 72da32d2 at 22:35:43 UTC. The original captain has consumed the newly Ready sign-in repair #5582; protected release, served-source verification and a current dated device grant remain. The historical SMALL result does not transfer to the current seven journeys."
+      "evidence": "The original captain resumed at02:47 UTC and is executing the existing #5582 sign-in checks. Next checkpoint03:15 UTC. No new current-device journey has a passing receipt; historical SMALL does not transfer."
     },
     {
       "stage": "Final design acceptance",
@@ -353,47 +359,68 @@
     {
       "stage": "Draft handover",
       "state": "Not complete",
-      "evidence": "The shopping viewer is merged; the collection and other repairs have separate remaining release gates. The final assembly must be installed and exercised together. Connected TEST, native checks and all three final ratings remain required. Nothing is published live."
+      "evidence": "The shopping viewer is merged; the collection and other repairs retain separate release gates. Three assets for merged aftercare #5260 were still old at 03:01 UTC; the prepared installation is in progress and still needs readback. The final assembly must be installed and exercised together. Connected TEST, native checks and all three final ratings remain required. Nothing is published live."
     }
   ],
   "recentChanges": [
-    "Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. [#5588](https://github.com/EON-CRUX/3.09/pull/5588) is submitted for protected review.",
-    "The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair approval record is corrected and release admission passed at02:00 UTC; original review and remaining hosted tests continue.",
-    "The original gallery builder fixed both hosted failures, passed nine targeted tests and matched all 128 asset fingerprints. Its unrelated design-rule rejection has now been cleared by the chair; original review continuation is pending.",
-    "The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence.",
-    "The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper."
+    "[Big Bag #5588](https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731167977) received a 9.1/10 component design score from the original Claude Opus 5.5 High reader at 02:59:23 UTC. Six findings are with original Astra. Argon’s separate blind code approval reports zero high or medium findings; it has no design score and gives no final-site credit.",
+    "[Collection alignment #5554](https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6731108766) received two medium and four low findings in its second protected review. Original Sol is repairing all six for the existing final named-fix round.",
+    "[Product-gallery #5524](https://github.com/EON-CRUX/3.09/pull/5524) and [companion-source #5580](https://github.com/EON-CRUX/3.09/pull/5580) each have one corrected manifest row, seven passing focused tests and a verified repair push. Reviews and CI remain. The chair cleared #5504’s disputed design-rule claim at 03:00:44 UTC; its tested fixture push is next.",
+    "The 03:01 UTC TEST read still found the three merged aftercare assets old and budget discovery off. The release lead is installing the four prepared files. Original signed run 42551812725 remains blocked at step 7 until the installation and setting are verified.",
+    "The original native captain resumed at 02:47 UTC on the existing sign-in checks. CURRENT remains 0/7; historical SMALL remains 8/8. Next checkpoint 03:15 UTC. The original Astra homepage follow-up retains the ten-slide live reel, X animation, Big Bag after the lower film and stronger Come Through."
   ],
   "recentChangeParts": [
     [
       {
-        "text": "Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. "
+        "text": ""
       },
       {
-        "text": "#5588",
-        "url": "https://github.com/EON-CRUX/3.09/pull/5588"
+        "text": "Big Bag #5588",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5588#issuecomment-6731167977"
       },
       {
-        "text": " is submitted for protected review."
+        "text": " received a 9.1/10 component design score from the original Claude Opus 5.5 High reader at 02:59:23 UTC. Six findings are with original Astra. Argon’s separate blind code approval reports zero high or medium findings; it has no design score and gives no final-site credit."
       }
     ],
     [
       {
-        "text": "The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair approval record is corrected and release admission passed at02:00 UTC; original review and remaining hosted tests continue."
+        "text": ""
+      },
+      {
+        "text": "Collection alignment #5554",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5554#issuecomment-6731108766"
+      },
+      {
+        "text": " received two medium and four low findings in its second protected review. Original Sol is repairing all six for the existing final named-fix round."
       }
     ],
     [
       {
-        "text": "The original gallery builder fixed both hosted failures, passed nine targeted tests and matched all 128 asset fingerprints. Its unrelated design-rule rejection has now been cleared by the chair; original review continuation is pending."
+        "text": ""
+      },
+      {
+        "text": "Product-gallery #5524",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5524"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "companion-source #5580",
+        "url": "https://github.com/EON-CRUX/3.09/pull/5580"
+      },
+      {
+        "text": " each have one corrected manifest row, seven passing focused tests and a verified repair push. Reviews and CI remain. The chair cleared #5504’s disputed design-rule claim at 03:00:44 UTC; its tested fixture push is next."
       }
     ],
     [
       {
-        "text": "The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence."
+        "text": "The 03:01 UTC TEST read still found the three merged aftercare assets old and budget discovery off. The release lead is installing the four prepared files. Original signed run 42551812725 remains blocked at step 7 until the installation and setting are verified."
       }
     ],
     [
       {
-        "text": "The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper."
+        "text": "The original native captain resumed at 02:47 UTC on the existing sign-in checks. CURRENT remains 0/7; historical SMALL remains 8/8. Next checkpoint 03:15 UTC. The original Astra homepage follow-up retains the ten-slide live reel, X animation, Big Bag after the lower film and stronger Come Through."
       }
     ]
   ],
@@ -436,10 +463,10 @@
     },
     {
       "label": "11. BIG BAG page and navigation",
-      "blocker": "New homepage integration #5588 has passed targeted tests and needs protected review and installation; installed-source shopper acceptance and the separate strike repair remain. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release.",
-      "next": "On the installed source verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.",
-      "state": "Homepage chapter tested and in protected review as #5588; Back repair installed; protected review and shopper acceptance pending",
-      "owner": "Original motion writer and installed-draft witnesses",
+      "blocker": "New homepage integration #5588 received a 9.1 component design score; original Astra must resolve its six findings. Protected review, private installation, installed-source shopper acceptance and the separate strike repair remain. History-cancellation repair #5541 merged as d3f0ccdb; its exact runtime asset is installed and source-matched at22:44 UTC. Strike repair #5544 at56b0b9e6 follows its own protected release.",
+      "next": "Original Astra repairs the six component findings through the existing review route; after eligible installation, verify Back, selected card, scroll, focus, title and sort, then complete original device and final-reader acceptance.",
+      "state": "Homepage chapter #5588 has a 9.1 component score; six design findings remain with original Astra; Back repair installed; protected review and shopper acceptance pending",
+      "owner": "Original Astra designer, motion writer and installed-draft witnesses",
       "closes": "Delayed restoration cannot override navigation; title, sort, selected card, scroll and focus pass",
       "timing": "Six-file source readback passed22:44 UTC; original installed-source and device acceptance next"
     }
@@ -472,14 +499,19 @@
   },
   "homepageDirection": [
     {
+      "change": "Live campaign reel and lower film",
+      "state": "Exact ten-slide live source verified; original Astra implementing",
+      "action": "Bring the existing two videos and eight photos into the October3 homepage, retain the X animation, correct the portrait film on desktop and place the existing Big Bag chapter after that film. The installed draft still has the older three-scene hero and Subscribe block; private composition and installation remain distinct."
+    },
+    {
       "change": "Single shopping section",
-      "state": "PR #5504; integrated 4f2ec0a0 entered protected review at23:47Z",
-      "action": "The selected Runway now reads Shop This Look. Only the later duplicate homepage placement is removed."
+      "state": "PR #5504; tested fixture 7a1a0ad6 is clean and unpushed",
+      "action": "Three tests and three causal checks passed; 73 source hashes and 39 emitted files match. The chair cleared the disputed design-rule claim at 03:00:44 UTC; the qualified push is next. Keep one Shop This Look and the selected white Runway."
     },
     {
       "change": "Store-visit chapter",
-      "state": "Locally rendered on desktop and narrow screens",
-      "action": "COME THROUGH leads to the maintained directory for addresses, hours and directions. Current closed-store repair remains in its original release lane."
+      "state": "Original Astra follow-up in progress",
+      "action": "Make COME THROUGH more useful while keeping maintained store addresses, hours and directions. This is implementation work, not an installed change or a new component rating."
     },
     {
       "change": "Collection and product interactions",
@@ -575,8 +607,16 @@
         "text": "Complete Big Bag proof and submit #5588 with its exact-source acceptance (23:07Z–00:31Z, took 84 min including worker wait and fixture correction; all 23 causal checks passed)."
       },
       {
+        "complete": true,
+        "text": "Receive Big Bag’s original component read (02:53Z–02:59Z, took 6 min; Opus 9.1/10 with six findings; separate Argon code approval has no design score)."
+      },
+      {
         "complete": false,
-        "text": "Complete Big Bag’s protected review, merge and private installation (first review returned a connection failure at02:08Z; original keeper recovery requested02:14Z; installation est.10min after eligible merge)."
+        "text": "Repair Big Bag’s six component findings through original Astra and retain its protected review route (started after the 02:59Z result; completion timing follows the candidate)."
+      },
+      {
+        "complete": false,
+        "text": "Repair #5554’s two medium and four low findings through original Sol, then return the exact source for its final named-fix round (started after the returned second review; completion timing follows the affected proof)."
       },
       {
         "complete": true,
@@ -592,11 +632,31 @@
       },
       {
         "complete": false,
-        "text": "Complete the original seven current-iPhone journeys (sign-in repair #5582 is Ready and its admission passed; its protected release and current dated device allocation remain pending; historical SMALL8/8 retained separately; duration unknown until allocation)."
+        "text": "Complete the original seven current-iPhone journeys (original captain executing #5582 checks since02:47Z; CURRENT0/7 and historical SMALL8/8 unchanged; next03:15Z, completion duration unknown)."
       },
       {
         "complete": false,
         "text": "Return the finished candidate and required evidence to the three original named-fix readers; record unpublished-theme handover (after the preceding acceptance, no extra full review round)."
+      },
+      {
+        "complete": true,
+        "text": "Push and read back the original product-gallery and companion-source manifest repairs (verified by03:00Z; each7/7 focused tests, original acceptances posted; reviews and CI remain)."
+      },
+      {
+        "complete": true,
+        "text": "Verify the exact live campaign section, settings and10/10 ordered media through the original read route (02:36Z–02:55Z,took19min; no theme writes)."
+      },
+      {
+        "complete": false,
+        "text": "Build the owner’s live-reel, X, lower-film, Big Bag order and Come Through follow-up in the original Astra lane (started after the new direction; render timing follows the candidate)."
+      },
+      {
+        "complete": false,
+        "text": "Complete and read back the prepared four-file TEST installation and budget setting through the original release lead (03:01Z source read found three aftercare assets old and discovery off; installation in progress)."
+      },
+      {
+        "complete": false,
+        "text": "Resume the existing signed TEST step 7 and aftercare acceptance after the installation readback passes (existing run retained; no repeated journey before its prerequisite changes)."
       }
     ],
     "landing": "Lands: Owner’s completion deadline is 9 November, 18:29 UTC. Next check follows a hosted result or the desk’s main-run signal. Protected reviews, production-video admission, native devices and original reviewer access can move completion. Final handover time remains unknown. The draft remains unpublished."
