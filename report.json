@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At01:43 UTC the chair approved the repaired collection’s size. The single release-check recovery then exposed an unmatched approval record; the exact failure was returned for correction. The gallery scope clarification is posted. Big Bag and the homepage have no content conflict, so their accepted code was preserved. Three of five Team Help test groups have passed; the other two are running.",
+  "lastActualProgress": "The chair cleared the gallery’s sole disputed finding at 01:55 UTC; that ruling is posted and its original review continuation is with the same release owner. Big Bag’s first of five hosted test groups has passed. Its homepage section and Collections entry are built while the collection, shopping and native work continue independently.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The collection repair has the chair’s size approval, but the release check still needs the matching approval record recognised. The gallery’s sole finding applies a registered-screen design rule; the original reviewer has been given the exact evidence that these storefront files fall outside that rule. Other changes await their original hosted checks and reviews. Runway review still needs its original connection restored. Current-iPhone acceptance needs released source and its device allocation.",
+  "remaining": "The collection repair has the chair’s size approval, but the release check still needs its matching approval record corrected. The gallery’s sole design-rule finding has been ruled out of contract; its original reviewer now owes the retained fix check. Other changes await hosted checks and reviews. Runway review needs its original connection restored. Current-iPhone acceptance needs released source and its dated device allocation.",
   "current": "Big Bag’s homepage section and Collections entry are built and in protected review. Its category links reuse the existing homeware shop. The collection, product-gallery, shopping and iPhone work continue in parallel.",
   "next": "Consume the original protected reviews and hosted tests, then merge and install eligible changes into the unpublished theme. Continue signed TEST and current-iPhone acceptance through the original captains.",
-  "updated": "09 November 2026, 01:52 UTC. Big Bag is built and submitted, not merged or installed. Collection repairs and combined visual qualification are complete; its release approval record needs reconciliation. Protected reviews, connected TEST, current-device checks and three final ratings remain unfinished.",
+  "updated": "09 November 2026, 02:01 UTC. Big Bag is built and submitted, not merged or installed. The gallery applicability blocker is cleared. The collection approval record, protected reviews, connected TEST, current-device checks and three final ratings remain unfinished.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -358,8 +358,8 @@
   ],
   "recentChanges": [
     "Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. [#5588](https://github.com/EON-CRUX/3.09/pull/5588) is submitted for protected review.",
-    "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its original independent reader has started the missing combined-layout check.",
-    "A separate hosted storefront run found two real failures. Its original builder has recovered the exact evidence, owns both fixes and is repairing them; Big Bag continues independently.",
+    "The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair size approval is recorded; the matching release record needs correction.",
+    "The original gallery builder fixed both hosted failures, passed nine targeted tests and matched all 128 asset fingerprints. Its unrelated design-rule rejection has now been cleared by the chair; original review continuation is pending.",
     "The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence.",
     "The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper."
   ],
@@ -378,12 +378,12 @@
     ],
     [
       {
-        "text": "The collection buying repair passed nine targeted tests and 60/60 causal checks. Its original independent reader has started the missing combined-layout check."
+        "text": "The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair size approval is recorded; the matching release record needs correction."
       }
     ],
     [
       {
-        "text": "A separate hosted storefront run found two real failures. Its original builder has recovered the exact evidence, owns both fixes and is repairing them; Big Bag continues independently."
+        "text": "The original gallery builder fixed both hosted failures, passed nine targeted tests and matched all 128 asset fingerprints. Its unrelated design-rule rejection has now been cleared by the chair; original review continuation is pending."
       }
     ],
     [
@@ -544,11 +544,15 @@
       },
       {
         "complete": false,
-        "text": "Reconcile the release check with that approval (failure returned 01:53Z; matching chair record required, duration unknown)."
+        "text": "Reconcile the release check with that approval (failure returned to the chair; matching approval record required, duration unknown)."
       },
       {
         "complete": true,
         "text": "Return the gallery’s exact design-rule scope evidence to its original reviewer (01:28Z–01:47Z, took 19 min; no source change or repeat capture)."
+      },
+      {
+        "complete": true,
+        "text": "Clear the gallery’s disputed rule through the chair and return it to the original reviewer (01:47Z–01:59Z, took 12 min; ruling already posted, no duplicate comment or source change)."
       },
       {
         "complete": true,
