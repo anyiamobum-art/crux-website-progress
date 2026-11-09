@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "Three original builders are active in parallel: Big Bag/homepage integration; collection repairs and product photos; storefront check repairs and Runway integration. The independent collection reader and native captain retain their own assignments. No work was paused for Big Bag.",
+  "workerState": "Big Bag, storefront repair and collection repair have separate original builders. Their scoped builds and handoffs are complete; original hosted jobs and reviewers now hold the next steps. The native captain has consumed the newly Ready sign-in repair. No work was paused for Big Bag.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At 01:01 UTC the original collection reader started its missing combined visual check on the remote worker. The storefront builder recovered the exact failed log and confirmed ownership of both failures. Big Bag remains in protected review after its passed admission; its installation map is prepared.",
+  "lastActualProgress": "At 01:18 UTC the original storefront repair was pushed once and verified remotely after nine targeted tests passed. The collection repair was submitted at01:07 after its independent combined-layout check passed. The sign-in repair is now Ready on its unchanged source.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The hosted storefront check found an outdated asset-verification record and an unsupported safe-area rule; the original builder owns both and is fixing them. The collection repair needs its independent combined-layout verdict. The original Runway reviewer needs its existing sign-in restored; final size-guide review, signed TEST and current-iPhone acceptance remain open.",
-  "current": "Big Bag is built and in protected review. Its admission check passed. In parallel, the original collection reviewer is checking the combined navigation and product-card layout, and the storefront builder is repairing two failures found by the hosted checks.",
-  "next": "Finish the two storefront fixes, consume the combined collection verdict, and submit each completed repair once. Merge and install eligible changes into the unpublished theme. Continue the original signed TEST and current-iPhone checks.",
-  "updated": "09 November 2026, 01:02 UTC. Big Bag is built and submitted, not yet merged or installed. Collection repair proof passed; its combined visual check is running. Final three-model ratings and the unpublished-draft handover remain unfinished.",
+  "remaining": "The collection repair needs updated size admission on its repaired source; other submitted changes await their original hosted tests and protected reviews. The Runway reviewer needs its existing sign-in restored. The sign-in repair is now Ready, but its release and current-device allocation remain outstanding.",
+  "current": "Big Bag is built and in protected review. The combined collection-layout check passed, and its three named review fixes are submitted. The two hosted storefront failures are repaired, tested and submitted. The sign-in repair has cleared its hold and entered review.",
+  "next": "Consume the original protected reviews and hosted tests, then merge and install eligible changes into the unpublished theme. Continue signed TEST and current-iPhone acceptance through the original captains.",
+  "updated": "09 November 2026, 01:19 UTC. Big Bag is built and submitted, not merged or installed. Collection and storefront repairs are submitted. Protected reviews, connected TEST, current-device checks and final three-model acceptance remain unfinished.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -343,7 +343,7 @@
     {
       "stage": "Native iPhone acceptance",
       "state": "CURRENT 0 of 7; historical SMALL 8 of 8 retained",
-      "evidence": "Helper #5446 merged as 72da32d2 at 22:35:43 UTC. The original captain awaits installation and served-source verification plus a current dated device grant. The historical SMALL result does not transfer to the current seven journeys."
+      "evidence": "Helper #5446 merged as 72da32d2 at 22:35:43 UTC. The original captain has consumed the newly Ready sign-in repair #5582; protected release, served-source verification and a current dated device grant remain. The historical SMALL result does not transfer to the current seven journeys."
     },
     {
       "stage": "Final design acceptance",
@@ -535,12 +535,12 @@
         "text": "Complete the collection’s two named behavior repairs and targeted proof (23:07Z–00:26Z, took 79 min including worker recovery; nine tests and 60/60 causal checks passed)."
       },
       {
-        "complete": false,
-        "text": "Obtain the original combined collection-design verdict and submit one repair push (missing-view check started 01:01Z; est. 15 min, worker or findings may extend it)."
+        "complete": true,
+        "text": "Obtain the original combined collection-design verdict and submit one repair push (01:01Z–01:08Z, took 7 min; seven combined views passed; submitted once)."
       },
       {
-        "complete": false,
-        "text": "Repair the two storefront failures and submit the original builder’s tested fix (diagnosed 01:01Z; est. 20 min plus remote-worker availability)."
+        "complete": true,
+        "text": "Repair the two storefront failures and submit the original builder’s tested fix (01:01Z–01:18Z, took 17 min; nine targeted tests, all 128 asset fingerprints match)."
       },
       {
         "complete": false,
@@ -576,7 +576,7 @@
       },
       {
         "complete": false,
-        "text": "Complete the original seven current-iPhone journeys (helper #5582 repair proof passed and source pushed; its protected release and current dated device allocation remain pending; historical SMALL8/8 retained separately; duration unknown until allocation)."
+        "text": "Complete the original seven current-iPhone journeys (sign-in repair #5582 is Ready and its admission passed; its protected release and current dated device allocation remain pending; historical SMALL8/8 retained separately; duration unknown until allocation)."
       },
       {
         "complete": false,
