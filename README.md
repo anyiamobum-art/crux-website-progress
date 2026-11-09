@@ -8,14 +8,14 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 09 November 2026, 02:01 UTC. Big Bag is built and submitted, not merged or installed. The gallery applicability blocker is cleared. The collection approval record, protected reviews, connected TEST, current-device checks and three final ratings remain unfinished.
+Last verified 09 November 2026, 02:16 UTC. Big Bag is built and submitted, not merged or installed. Collection admission and gallery rule blockers are cleared. Remaining protected reviews, connected TEST, current-device checks and three final ratings are not yet complete.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
 ## What changed
 
 - Big Bag is now part of the homepage and Collections menu. Its phone, desktop, keyboard and category-link checks passed, followed by 23/23 causal checks. [#5588](https://github.com/EON-CRUX/3.09/pull/5588) is submitted for protected review.
-- The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair size approval is recorded; the matching release record needs correction.
+- The collection buying repair passed nine targeted tests, 60/60 causal checks and seven combined-layout views. Its chair approval record is corrected and release admission passed at02:00 UTC; original review and remaining hosted tests continue.
 - The original gallery builder fixed both hosted failures, passed nine targeted tests and matched all 128 asset fingerprints. Its unrelated design-rule rejection has now been cleared by the chair; original review continuation is pending.
 - The original native helper repair passed its receipt check and was pushed. Current-iPhone journeys remain pending rather than counted from older small-phone evidence.
 - The existing five-second Higgsfield film remains integrated in the corrected private Runway. Its original review connection returned a sign-in denial, now with the same connection keeper.
