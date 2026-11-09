@@ -2,7 +2,7 @@
   "title": "CRUX website",
   "owner": "CRUX website team",
   "outcome": "Deliver the tested, unpublished CRUX draft with three independent 9.5 ratings. Keep the selected October 3 homepage and white Runway. The new owner direction is one Shop This Look section, followed by a useful store-visit chapter instead of a second looks carousel.",
-  "workerState": "The original Astra Big Bag designer and gallery designer are handling their separate review evidence. The collection repair is submitted and awaits the chair’s size decision. The native captain continues the separate TEST and iPhone release. No work was paused for Big Bag.",
+  "workerState": "The original Astra designers have completed the Big Bag and gallery evidence returns. The shopping verifier is following its running checks, and the native captain has resumed its due TEST/iPhone action. The chair is reconciling the collection approval record. Big Bag has not paused any of these tracks.",
   "journey": [
     {
       "stage": "Build",
@@ -26,7 +26,7 @@
     }
   ],
   "capabilityProgress": null,
-  "lastActualProgress": "At01:24 UTC the gallery review returned one evidence finding, which was sent to the original designer. Its two runtime/closure failures were already repaired and passed nine targeted tests. The public site’s five published files were byte-verified at01:21.",
+  "lastActualProgress": "At01:43 UTC the chair approved the repaired collection’s size. The single release-check recovery then exposed an unmatched approval record; the exact failure was returned for correction. The gallery scope clarification is posted. Big Bag and the homepage have no content conflict, so their accepted code was preserved. Three of five Team Help test groups have passed; the other two are running.",
   "milestone": "Unpublished draft · final acceptance unfinished",
   "overall": null,
   "scopedProgress": [
@@ -137,10 +137,10 @@
     "Header #4792 passed its original review and required CI, merged as 3e1a362d at 06:20:26Z on 23 October, and its one CSS asset was installed in the unpublished draft. Exact hosted bytes verified 06:40:02Z; preservation checks confirmed all 694 unrelated draft assets, 550 live-theme assets, 13 theme roles and six settings/layout bodies unchanged. The 173-file, 41-manifest source record was adopted 06:43:29Z. Bounded settled renders and held-plus feedback verified at06:58Z; initial desktop navigation wrap remains. No native or final-rating credit.",
     "Bounded desktop acceptance on the identified unpublished draft completed at 16:47:14Z. BIG BAG fits at normal 380px and 1280px; Plus opens product options; the settled bag fits at 188px and quantity controls measure 44 × 44px. Cart contents were unchanged. That historical pass found companion clipping, compressed product/sort text and one-pixel page overflow. The later21:51Z pass closes the narrow companion and footer/PDP layout subset only. No native, true 200% text zoom, timing, recording or final-rating claim. Browser custody was released."
   ],
-  "remaining": "The gallery review needs a reviewable independent visual verdict. The collection repair needs updated size admission on its repaired source. Other submitted changes await their original hosted checks and reviews. The Runway reviewer needs its existing sign-in restored. Current-iPhone acceptance needs the sign-in repair released and its device allocation.",
-  "current": "Big Bag is built and in protected review, alongside the collection and gallery repairs. The gallery’s targeted repair passed, but its reviewer has now requested the independent visual verdict for this arrangement. The original designer is recovering that evidence.",
+  "remaining": "The collection repair has the chair’s size approval, but the release check still needs the matching approval record recognised. The gallery’s sole finding applies a registered-screen design rule; the original reviewer has been given the exact evidence that these storefront files fall outside that rule. Other changes await their original hosted checks and reviews. Runway review still needs its original connection restored. Current-iPhone acceptance needs released source and its device allocation.",
+  "current": "Big Bag’s homepage section and Collections entry are built and in protected review. Its category links reuse the existing homeware shop. The collection, product-gallery, shopping and iPhone work continue in parallel.",
   "next": "Consume the original protected reviews and hosted tests, then merge and install eligible changes into the unpublished theme. Continue signed TEST and current-iPhone acceptance through the original captains.",
-  "updated": "09 November 2026, 01:34 UTC. Big Bag is built and submitted, not merged or installed. The gallery has one named visual-evidence finding. Collection source repairs and their combined preview qualification are complete. Protected review, connected TEST, current-device checks and three final ratings remain unfinished.",
+  "updated": "09 November 2026, 01:52 UTC. Big Bag is built and submitted, not merged or installed. Collection repairs and combined visual qualification are complete; its release approval record needs reconciliation. Protected reviews, connected TEST, current-device checks and three final ratings remain unfinished.",
   "links": [
     {
       "title": "Empty-cart first-add repair #5439",
@@ -537,6 +537,18 @@
       {
         "complete": true,
         "text": "Obtain the original combined collection-design verdict and submit one repair push (01:01Z–01:08Z, took 7 min; seven combined views passed; submitted once)."
+      },
+      {
+        "complete": true,
+        "text": "Obtain the chair’s approval for the repaired collection size (01:08Z–01:43Z, took 35 min; current source approved)."
+      },
+      {
+        "complete": false,
+        "text": "Reconcile the release check with that approval (failure returned 01:53Z; matching chair record required, duration unknown)."
+      },
+      {
+        "complete": true,
+        "text": "Return the gallery’s exact design-rule scope evidence to its original reviewer (01:28Z–01:47Z, took 19 min; no source change or repeat capture)."
       },
       {
         "complete": true,
