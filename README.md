@@ -8,7 +8,7 @@
 
 6 of 11 delivery items verified. 5 remain (45% of this checklist, not work hours). 0 of 3 passing ratings.
 
-Last verified 09 November 2026, 00:32 UTC. Big Bag source is submitted and its private preview is open; its new homepage chapter is not installed yet. Collection proof is complete. No final 9.5 pass or new delivery gate is claimed.
+Last verified 09 November 2026, 00:46 UTC. Big Bag is in protected review, not yet merged or installed. Collection proof is complete. Final three-model ratings and the completed unpublished-draft handover remain open.
 
 The public history first shows six on 13 October. A reversal on 14 October brought it to five. On 15 October it returned to six. As of 8 November, 24 days have passed since six items were last verified. Each item counts once. The percentages track signed-off outcomes. The remaining testing and reviews have no verified time estimate.
 
